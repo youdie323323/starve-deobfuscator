@@ -58774,8 +58774,10 @@
       ᐃⲆⲆΔ.ᐃᐃᐃ.ᐃΔᐃⲆⵠ(b[Ud], b[2]);
     };
     this.ⵠΔΔⵠΔⵠⵠΔΔ = function (a) {
-      var b = new Uint16Array(a);
-      Ww.ᐃᐃᐃ.ᐃΔᐃⲆⵠ(b[1], b[$r]);
+      if (!Spectator) {
+        var b = new Uint16Array(a);
+        Ww.ᐃᐃᐃ.ᐃΔᐃⲆⵠ(b[1], b[$r]);
+      }
     };
     this.ⲆⲆⲆΔⵠᐃΔᐃᐃ = function (b, c) {
       var d = new Uint16Array(c);
