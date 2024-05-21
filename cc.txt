@@ -1618,6 +1618,9 @@
     to.style.width = a + "px";
     to.style.height = b + "px";
     oo.scale(mo, mo);
+    if (!bx.ᐃᐃⵠ) {
+      bx.ᐃᐃⵠ = {};
+    }
     if (bx) {
       bx.ᐃᐃⵠ.ΔΔⲆᐃⵠᐃᐃ = a;
       bx.ᐃᐃⵠ.ⲆⵠⲆΔⲆⵠΔ = b;
