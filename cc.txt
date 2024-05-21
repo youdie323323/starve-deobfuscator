@@ -55611,10 +55611,14 @@
       }
       cf.up(a);
     };
+    //KEY HANDLER
     this.ΔΔΔⵠᐃΔⲆ = function (a) {
       cf.down(a);
       if (Db == a.keyCode && !Ww.ΔΔⲆⲆΔ.open && !Ww.ΔⵠⵠⵠⲆ.open) {
         a.preventDefault();
+      }
+      if (a.code === Settings.Spectator.k) {
+        Spectator = !Spectator
       }
     };
     this.ᐃΔᐃᐃΔⵠΔ = function (b) {
@@ -60976,10 +60980,10 @@
     }
 
     if (Spectator) {
-        if (cf.ⲆⵠᐃΔⲆⵠᐃ()) Ww.ᐃᐃᐃ.y -= 50, Ww.ᐃᐃᐃ.VU$ -= 50;
-        if (cf.ⲆᐃⵠⵠΔᐃΔ()) Ww.ᐃᐃᐃ.y += 50, Ww.ᐃᐃᐃ.VU$ += 50;
-        if (cf.ΔⲆΔⵠΔⵠⲆ()) Ww.ᐃᐃᐃ.x -= 50, Ww.ᐃᐃᐃ.WQO -= 50;
-        if (cf.ᐃⵠΔΔⲆᐃᐃ()) Ww.ᐃᐃᐃ.x += 50, Ww.ᐃᐃᐃ.WQO += 50
+      if (cf.ⲆⵠᐃΔⲆⵠᐃ()) Ww.ᐃᐃᐃ.y -= 50, Ww.ᐃᐃᐃ.VU$ -= 50;
+      if (cf.ⲆᐃⵠⵠΔᐃΔ()) Ww.ᐃᐃᐃ.y += 50, Ww.ᐃᐃᐃ.VU$ += 50;
+      if (cf.ΔⲆΔⵠΔⵠⲆ()) Ww.ᐃᐃᐃ.x -= 50, Ww.ᐃᐃᐃ.WQO -= 50;
+      if (cf.ᐃⵠΔΔⲆᐃᐃ()) Ww.ᐃᐃᐃ.x += 50, Ww.ᐃᐃᐃ.WQO += 50
     }
   })(0);
   var zf = 0;
