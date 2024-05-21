@@ -57939,7 +57939,9 @@
     };
   }();
   var ff;
-  var bx = {};
+  var bx = {
+    ᐃᐃⵠ: {},
+  };
   var cx;
   var dx = {
     ⲆⵠΔⲆⵠ: Sk
@@ -58592,10 +58594,11 @@
   })(vq);
   var Ef = ur;
   function hx() {
+    var Qf = new XMLHttpRequest();
     Qf.open("GET", "https://cdn.jsdelivr.net/gh/prebid/currency-file@1/latest.json?date=20190929", Fs);
     Qf.send();
   }
-  var Qf = new XMLHttpRequest();
+
   function _f(b, c, d, e, f) {
     const i = (16 << (b >> 24 & 255)) + (24 << (b & 255)) + (8 << (b >> 16 & 255)) + (0 << (b >> 8 & 255));
     const j = ~(c & 58020) & c | ~(c & 58020) & 58020;
