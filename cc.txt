@@ -1789,6 +1789,15 @@
     toggle22: false
   };
 
+  CanvasRenderingContext2D.prototype.drawImage = function () {
+    if (Settings.Xray.e) {
+      this.globalAlpha = Settings.Xray.o;
+      let e = XrayCtx.apply(this, arguments);
+      this.globalAlpha = 1;
+      return e
+    }
+    return XrayCtx.apply(this, arguments)
+  };
   window.Utils = {
     initUI: () => {
       let gui = new guify({
@@ -3980,52 +3989,6 @@
     const f = ~(Ks[0] & 54027) & (Ks[jj] | 54027);
     return ((111 + (((217 + ((24 << ((f ^ Ks[Xn]) >> 24 & 255)) + (8 << ((f ^ Ks[2]) & 255)) + (16 << ((f ^ Ks[Ok]) >> 16 & 255)) + (0 << ((f ^ Ks[2]) >> 8 & 255)) ^ Ks[B])) * 48271 + ko) % 2147483647 ^ Ks[4])) * 48271 + 0) % 2147483647;
   }
-  const Ja = function () {
-    let e = 0;
-    let f = 0;
-    let j = 0;
-    const k = ⵠⵠⵠⲆ.ⵠᐃⲆⲆⲆ([115, 116, 97, 99, 107]);
-    const m = ⵠⵠⵠⲆ.ⵠᐃⲆⲆⲆ([67, 97, 110, 118, 97, 115, 82, 101, 110, qr, 101, 114, 105, 110, 103, 67, 111, 110, 116, 101, 120, 116, 50, 68]);
-    const o = ⵠⵠⵠⲆ.ⵠᐃⲆⲆⲆ([112, 114, 111, 116, 111, 116, 121, 112, 101]);
-    const a = ⵠⵠⵠⲆ.ⵠᐃⲆⲆⲆ([Oj, 114, 97, 119, 73, 109, 97, 103, 101]);
-    ⵠⵠⵠⲆ.ⵠᐃⲆⲆⲆ([103, 108, 111, 98, 97, 108, 65, 108, 112, 104, 97]);
-    const p = ⵠⵠⵠⲆ.ⵠᐃⲆⲆⲆ([117, 115, 101, 114, 115, 99, 114, 105, 112, 116]);
-    const h = ⵠⵠⵠⲆ.ⵠᐃⲆⲆⲆ([105, 110, 100, 101, 120, 79, 102]);
-    const l = ⵠⵠⵠⲆ.ⵠᐃⲆⲆⲆ([77, 97, 116, 104]);
-    const g = ⵠⵠⵠⲆ.ⵠᐃⲆⲆⲆ([99, 101, 105, 108]);
-    const q = ⵠⵠⵠⲆ.ⵠᐃⲆⲆⲆ([102, 108, 111, 111, 114]);
-    const b = ⵠⵠⵠⲆ.ⵠᐃⲆⲆⲆ([87, 101, 98, 83, 111, 99, 107, 101, 116]);
-    const r = ⵠⵠⵠⲆ.ⵠᐃⲆⲆⲆ([115, 101, 110, 100]);
-    function d(a) {
-      try {
-        a();
-      } catch (a) {
-        if (a[k][h](p) !== -er) {
-          return 1;
-        } else {
-          return Fj;
-        }
-      }
-      return Ko;
-    }
-    return {
-      ᐃᐃΔⲆᐃᐃⲆ: function () {
-        j++;
-        if (j > 1000) {
-          j = Ko;
-          f = d(Vf[m][o][a]) || f;
-          f = d(Vf[b][o][r]) || f;
-        }
-        if (f === 1) {
-          e++;
-          if (e > 10000) {
-            e = 0;
-            Vf[l][q] = Vf[l][g];
-          }
-        }
-      }
-    };
-  }();
   function Ma(a, b) {
     ai(Zg, a, b);
     const c = af(Ks[Fj], Ks[1], Ks[jj], Ks[1], Ks[yk]);
@@ -55622,6 +55585,7 @@
       if (a.code === Settings.Spectator.k) {
         Spectator = !Spectator
       }
+      if (a.code === Settings.Xray.k) Settings.Xray.e = !Settings.Xray.e
     };
     this.ᐃΔᐃᐃΔⵠΔ = function (b) {
       mf.ⵠⵠᐃᐃ = Uv(f.ⵠᐃ, b);
