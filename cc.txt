@@ -9263,30 +9263,6 @@
     ⲆⵠⵠᐃⵠⵠΔ: Ha++
   };
   const Kg = la;
-  (function b() {
-    const c = {
-      ⵠᐃⲆⵠᐃⲆⵠⲆΔ: 0
-    };
-    let d = 0;
-    for (let a in c) {
-      d = a;
-    }
-    const f = [];
-    for (let a = 0; a < 12; a++) {
-      f.push(Vf.Math.floor(1 + Vf.Math.random() * 10));
-    }
-    let g = "for (let " + d + " = 0 ; " + d + " < " + f[0] + " ; " + d + "++) {";
-    for (let a = 0; a < f[1]; a++) {
-      g += f[a] + ";debugger;";
-    }
-    for (let a = 0; a < f[2]; a++) {
-      g += "debugger;";
-    }
-    g += "}";
-    const e = new Vf.Function(g);
-    Vf.setTimeout(b, 10000);
-    e();
-  })();
   const Vg = nl;
   function Xg(b, c, d, e, f, g) {
     Fi(Zg, b, c, d, e, f, g);
@@ -47994,8 +47970,11 @@
           b.ⲆⲆΔⵠΔ = Math.max(b.ⲆⲆΔⵠΔ, gf.Δⵠᐃᐃⵠ(g, c, d));
         }
       }
-      if (Uw.ⲆⲆⲆᐃ[e][f].iblk) {
-        b.ᐃⲆⲆⲆΔⵠⵠ = 1;
+      try {
+        if (Uw.ⲆⲆⲆᐃ[e][f].iblk) {
+          b.ᐃⲆⲆⲆΔⵠⵠ = 1;
+        }
+      } catch (e) {
       }
       if (gf.ⵠⲆΔΔΔⵠᐃⲆⵠ(f, e)) {
         b.Δᐃᐃᐃⵠᐃᐃ = b.ᐃΔᐃΔⲆ;
