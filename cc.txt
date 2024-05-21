@@ -59687,6 +59687,7 @@
         this.ⵠⵠᐃⵠ.close();
       }
     };
+    //AUTO RESPAWN CODE
     this.ⵠⲆΔᐃⵠⲆΔΔⵠ = function (a, b) {
       Ww.ᐃⵠᐃΔΔ = Bg;
       var c = new Uint16Array(b);
@@ -60972,6 +60973,13 @@
       } else if (Xw.ⵠᐃᐃⵠⲆ) {
         Xw.ᐃⵠⲆᐃ();
       }
+    }
+
+    if (Spectator) {
+        if (cf.ⲆⵠᐃΔⲆⵠᐃ()) Ww.ᐃᐃᐃ.y -= 50, Ww.ᐃᐃᐃ.VU$ -= 50;
+        if (cf.ⲆᐃⵠⵠΔᐃΔ()) Ww.ᐃᐃᐃ.y += 50, Ww.ᐃᐃᐃ.VU$ += 50;
+        if (cf.ΔⲆΔⵠΔⵠⲆ()) Ww.ᐃᐃᐃ.x -= 50, Ww.ᐃᐃᐃ.WQO -= 50;
+        if (cf.ᐃⵠΔΔⲆᐃᐃ()) Ww.ᐃᐃᐃ.x += 50, Ww.ᐃᐃᐃ.WQO += 50
     }
   })(0);
   var zf = 0;
