@@ -419,6 +419,1159 @@
     return ~(n & 31860) & n | ~(n & 31860) & 31860;
   };
 
+
+  /*
+    *****************
+    *CHEAT VARIABLES*
+    *****************
+  */
+
+  !function (t) {
+    if ("object" == typeof exports) module.exports = t();
+    else if ("function" == typeof define && define.amd) define(t);
+    else {
+      var e;
+      "undefined" != typeof window ? e = window : "undefined" != typeof global ? e = global : "undefined" != typeof self && (e = self), e.PF = t()
+    }
+  }(function () {
+    return function t(e, i, n) {
+      function o(a, s) {
+        if (!i[a]) {
+          if (!e[a]) {
+            var l = "function" == typeof require && require;
+            if (!s && l) return l(a, !0);
+            if (r) return r(a, !0);
+            throw new Error("Cannot find module '" + a + "'")
+          }
+          var h = i[a] = {
+            exports: {}
+          };
+          e[a][0].call(h.exports, function (t) {
+            var i = e[a][1][t];
+            return o(i || t)
+          }, h, h.exports, t, e, i, n)
+        }
+        return i[a].exports
+      }
+      for (var r = "function" == typeof require && require, a = 0; a < n.length; a++) o(n[a]);
+      return o
+    }({
+      1: [function (t, e, i) {
+        e.exports = t("./lib/heap")
+      }, {
+        "./lib/heap": 2
+      }],
+      2: [function (t, e, i) {
+        (function () {
+          var t, i, n, o, r, a, s, l, h, u, p, c, f, d, g;
+          n = Math.floor, u = Math.min, i = function (t, e) {
+            return e > t ? -1 : t > e ? 1 : 0
+          }, h = function (t, e, o, r, a) {
+            var s;
+            if (null == o && (o = 0), null == a && (a = i), 0 > o) throw new Error("lo must be non-negative");
+            for (null == r && (r = t.length); r > o;) a(e, t[s = n((o + r) / 2)]) < 0 ? r = s : o = s + 1;
+            return [].splice.apply(t, [o, o - o].concat(e)), e
+          }, a = function (t, e, n) {
+            return null == n && (n = i), t.push(e), d(t, 0, t.length - 1, n)
+          }, r = function (t, e) {
+            var n, o;
+            return null == e && (e = i), n = t.pop(), t.length ? (o = t[0], t[0] = n, g(t, 0, e)) : o = n, o
+          }, l = function (t, e, n) {
+            var o;
+            return null == n && (n = i), o = t[0], t[0] = e, g(t, 0, n), o
+          }, s = function (t, e, n) {
+            var o;
+            return null == n && (n = i), t.length && n(t[0], e) < 0 && (e = (o = [t[0], e])[0], t[0] = o[1], g(t, 0, n)), e
+          }, o = function (t, e) {
+            var o, r, a, s, l, h;
+            for (null == e && (e = i), l = [], r = 0, a = (s = function () {
+              h = [];
+              for (var e = 0, i = n(t.length / 2); i >= 0 ? i > e : e > i; i >= 0 ? e++ : e--) h.push(e);
+              return h
+            }.apply(this).reverse()).length; a > r; r++) o = s[r], l.push(g(t, o, e));
+            return l
+          }, f = function (t, e, n) {
+            var o;
+            return null == n && (n = i), -1 !== (o = t.indexOf(e)) ? (d(t, 0, o, n), g(t, o, n)) : void 0
+          }, p = function (t, e, n) {
+            var r, a, l, h, u;
+            if (null == n && (n = i), !(a = t.slice(0, e)).length) return a;
+            for (o(a, n), l = 0, h = (u = t.slice(e)).length; h > l; l++) r = u[l], s(a, r, n);
+            return a.sort(n).reverse()
+          }, c = function (t, e, n) {
+            var a, s, l, p, c, f, d, g, b;
+            if (null == n && (n = i), 10 * e <= t.length) {
+              if (!(l = t.slice(0, e).sort(n)).length) return l;
+              for (s = l[l.length - 1], p = 0, f = (d = t.slice(e)).length; f > p; p++) n(a = d[p], s) < 0 && (h(l, a, 0, null, n), l.pop(), s = l[l.length - 1]);
+              return l
+            }
+            for (o(t, n), b = [], c = 0, g = u(e, t.length); g >= 0 ? g > c : c > g; g >= 0 ? ++c : --c) b.push(r(t, n));
+            return b
+          }, d = function (t, e, n, o) {
+            var r, a, s;
+            for (null == o && (o = i), r = t[n]; n > e && o(r, a = t[s = n - 1 >> 1]) < 0;) t[n] = a, n = s;
+            return t[n] = r
+          }, g = function (t, e, n) {
+            var o, r, a, s, l;
+            for (null == n && (n = i), r = t.length, l = e, a = t[e], o = 2 * e + 1; r > o;) r > (s = o + 1) && !(n(t[o], t[s]) < 0) && (o = s), t[e] = t[o], o = 2 * (e = o) + 1;
+            return t[e] = a, d(t, l, e, n)
+          }, t = function () {
+            function t(t) {
+              this.cmp = null != t ? t : i, this.nodes = []
+            }
+            return t.push = a, t.pop = r, t.replace = l, t.pushpop = s, t.heapify = o, t.updateItem = f, t.nlargest = p, t.nsmallest = c, t.prototype.push = function (t) {
+              return a(this.nodes, t, this.cmp)
+            }, t.prototype.pop = function () {
+              return r(this.nodes, this.cmp)
+            }, t.prototype.peek = function () {
+              return this.nodes[0]
+            }, t.prototype.contains = function (t) {
+              return -1 !== this.nodes.indexOf(t)
+            }, t.prototype.replace = function (t) {
+              return l(this.nodes, t, this.cmp)
+            }, t.prototype.pushpop = function (t) {
+              return s(this.nodes, t, this.cmp)
+            }, t.prototype.heapify = function () {
+              return o(this.nodes, this.cmp)
+            }, t.prototype.updateItem = function (t) {
+              return f(this.nodes, t, this.cmp)
+            }, t.prototype.clear = function () {
+              return this.nodes = []
+            }, t.prototype.empty = function () {
+              return 0 === this.nodes.length
+            }, t.prototype.size = function () {
+              return this.nodes.length
+            }, t.prototype.clone = function () {
+              var e;
+              return (e = new t).nodes = this.nodes.slice(0), e
+            }, t.prototype.toArray = function () {
+              return this.nodes.slice(0)
+            }, t.prototype.insert = t.prototype.push, t.prototype.top = t.prototype.peek, t.prototype.front = t.prototype.peek, t.prototype.has = t.prototype.contains, t.prototype.copy = t.prototype.clone, t
+          }(), (null != e ? e.exports : void 0) ? e.exports = t : window.Heap = t
+        }).call(this)
+      }, {}],
+      3: [function (t, e, i) {
+        e.exports = {
+          Always: 1,
+          Never: 2,
+          IfAtMostOneObstacle: 3,
+          OnlyWhenNoObstacles: 4
+        }
+      }, {}],
+      4: [function (t, e, i) {
+        function n(t, e, i) {
+          var n;
+          "object" != typeof t ? n = t : (e = t.length, n = t[0].length, i = t), this.width = n, this.height = e, this.nodes = this._buildNodes(n, e, i)
+        }
+        var o = t("./Node"),
+          r = t("./DiagonalMovement");
+        n.prototype._buildNodes = function (t, e, i) {
+          var n, r, a = new Array(e);
+          for (n = 0; e > n; ++n)
+            for (a[n] = new Array(t), r = 0; t > r; ++r) a[n][r] = new o(r, n);
+          if (void 0 === i) return a;
+          if (i.length !== e || i[0].length !== t) throw new Error("Matrix size does not fit");
+          for (n = 0; e > n; ++n)
+            for (r = 0; t > r; ++r) i[n][r] && (a[n][r].walkable = !1);
+          return a
+        }, n.prototype.getNodeAt = function (t, e) {
+          return this.nodes[e][t]
+        }, n.prototype.isWalkableAt = function (t, e) {
+          return this.isInside(t, e) && this.nodes[e][t].walkable
+        }, n.prototype.isInside = function (t, e) {
+          return t >= 0 && t < this.width && e >= 0 && e < this.height
+        }, n.prototype.setWalkableAt = function (t, e, i) {
+          if (e >= 0 && t >= 0 && e < p.vWu && t < p.VOW) {
+            this.nodes[e][t].walkable = i
+          }
+        }, n.prototype.getNeighbors = function (t, e) {
+          var i = t.x,
+            n = t.y,
+            o = [],
+            a = !1,
+            s = !1,
+            l = !1,
+            h = !1,
+            u = !1,
+            p = !1,
+            c = !1,
+            f = !1,
+            d = this.nodes;
+          if (this.isWalkableAt(i, n - 1) && (o.push(d[n - 1][i]), a = !0), this.isWalkableAt(i + 1, n) && (o.push(d[n][i + 1]), l = !0), this.isWalkableAt(i, n + 1) && (o.push(d[n + 1][i]), u = !0), this.isWalkableAt(i - 1, n) && (o.push(d[n][i - 1]), c = !0), e === r.Never) return o;
+          if (e === r.OnlyWhenNoObstacles) s = c && a, h = a && l, p = l && u, f = u && c;
+          else if (e === r.IfAtMostOneObstacle) s = c || a, h = a || l, p = l || u, f = u || c;
+          else {
+            if (e !== r.Always) throw new Error("Incorrect value of diagonalMovement");
+            s = !0, h = !0, p = !0, f = !0
+          }
+          return s && this.isWalkableAt(i - 1, n - 1) && o.push(d[n - 1][i - 1]), h && this.isWalkableAt(i + 1, n - 1) && o.push(d[n - 1][i + 1]), p && this.isWalkableAt(i + 1, n + 1) && o.push(d[n + 1][i + 1]), f && this.isWalkableAt(i - 1, n + 1) && o.push(d[n + 1][i - 1]), o
+        }, n.prototype.clone = function () {
+          var t, e, i = this.width,
+            r = this.height,
+            a = this.nodes,
+            s = new n(i, r),
+            l = new Array(r);
+          for (t = 0; r > t; ++t)
+            for (l[t] = new Array(i), e = 0; i > e; ++e) l[t][e] = new o(e, t, a[t][e].walkable);
+          return s.nodes = l, s
+        }, e.exports = n
+      }, {
+        "./DiagonalMovement": 3,
+        "./Node": 6
+      }],
+      5: [function (t, e, i) {
+        e.exports = {
+          manhattan: function (t, e) {
+            return t + e
+          },
+          euclidean: function (t, e) {
+            return Math.sqrt(t * t + e * e)
+          },
+          octile: function (t, e) {
+            var i = Math.SQRT2 - 1;
+            return e > t ? i * t + e : i * e + t
+          },
+          chebyshev: function (t, e) {
+            return Math.max(t, e)
+          }
+        }
+      }, {}],
+      6: [function (t, e, i) {
+        e.exports = function (t, e, i) {
+          this.x = t, this.y = e, this.walkable = void 0 === i || i
+        }
+      }, {}],
+      7: [function (t, e, i) {
+        function n(t) {
+          for (var e = [
+            [t.x, t.y]
+          ]; t.parent;) t = t.parent, e.push([t.x, t.y]);
+          return e.reverse()
+        }
+
+        function o(t, e, i, n) {
+          var o, r, a, s, l, h, u = Math.abs,
+            p = [];
+          for (o = i > t ? 1 : -1, r = n > e ? 1 : -1, l = (a = u(i - t)) - (s = u(n - e)); p.push([t, e]), t !== i || e !== n;)(h = 2 * l) > -s && (l -= s, t += o), a > h && (l += a, e += r);
+          return p
+        }
+        i.backtrace = n, i.biBacktrace = function (t, e) {
+          var i = n(t),
+            o = n(e);
+          return i.concat(o.reverse())
+        }, i.pathLength = function (t) {
+          var e, i, n, o, r, a = 0;
+          for (e = 1; e < t.length; ++e) i = t[e - 1], n = t[e], o = i[0] - n[0], r = i[1] - n[1], a += Math.sqrt(o * o + r * r);
+          return a
+        }, i.interpolate = o, i.expandPath = function (t) {
+          var e, i, n, r, a, s, l = [],
+            h = t.length;
+          if (2 > h) return l;
+          for (a = 0; h - 1 > a; ++a)
+            for (e = t[a], i = t[a + 1], r = (n = o(e[0], e[1], i[0], i[1])).length, s = 0; r - 1 > s; ++s) l.push(n[s]);
+          return l.push(t[h - 1]), l
+        }, i.smoothenPath = function (t, e) {
+          var i, n, r, a, s, l, h, u, p, c = e.length,
+            f = e[0][0],
+            d = e[0][1],
+            g = e[c - 1][0],
+            b = e[c - 1][1];
+          for (r = [
+            [i = f, n = d]
+          ], a = 2; c > a; ++a) {
+            for (h = o(i, n, (l = e[a])[0], l[1]), p = !1, s = 1; s < h.length; ++s)
+              if (u = h[s], !t.isWalkableAt(u[0], u[1])) {
+                p = !0;
+                break
+              } p && (lastValidCoord = e[a - 1], r.push(lastValidCoord), i = lastValidCoord[0], n = lastValidCoord[1])
+          }
+          return r.push([g, b]), r
+        }, i.compressPath = function (t) {
+          if (t.length < 3) return t;
+          var e, i, n, o, r, a, s = [],
+            l = t[0][0],
+            h = t[0][1],
+            u = t[1][0],
+            p = t[1][1],
+            c = u - l,
+            f = p - h;
+          for (c /= r = Math.sqrt(c * c + f * f), f /= r, s.push([l, h]), a = 2; a < t.length; a++) e = u, i = p, n = c, o = f, c = (u = t[a][0]) - e, f = (p = t[a][1]) - i, f /= r = Math.sqrt(c * c + f * f), (c /= r) === n && f === o || s.push([e, i]);
+          return s.push([u, p]), s
+        }
+      }, {}],
+      8: [function (t, e, i) {
+        e.exports = {
+          Heap: t("heap"),
+          Node: t("./core/Node"),
+          Grid: t("./core/Grid"),
+          Util: t("./core/Util"),
+          DiagonalMovement: t("./core/DiagonalMovement"),
+          Heuristic: t("./core/Heuristic"),
+          AStarFinder: t("./finders/AStarFinder"),
+          BestFirstFinder: t("./finders/BestFirstFinder"),
+          BreadthFirstFinder: t("./finders/BreadthFirstFinder"),
+          DijkstraFinder: t("./finders/DijkstraFinder"),
+          BiAStarFinder: t("./finders/BiAStarFinder"),
+          BiBestFirstFinder: t("./finders/BiBestFirstFinder"),
+          BiBreadthFirstFinder: t("./finders/BiBreadthFirstFinder"),
+          BiDijkstraFinder: t("./finders/BiDijkstraFinder"),
+          IDAStarFinder: t("./finders/IDAStarFinder"),
+          JumpPointFinder: t("./finders/JumpPointFinder")
+        }
+      }, {
+        "./core/DiagonalMovement": 3,
+        "./core/Grid": 4,
+        "./core/Heuristic": 5,
+        "./core/Node": 6,
+        "./core/Util": 7,
+        "./finders/AStarFinder": 9,
+        "./finders/BestFirstFinder": 10,
+        "./finders/BiAStarFinder": 11,
+        "./finders/BiBestFirstFinder": 12,
+        "./finders/BiBreadthFirstFinder": 13,
+        "./finders/BiDijkstraFinder": 14,
+        "./finders/BreadthFirstFinder": 15,
+        "./finders/DijkstraFinder": 16,
+        "./finders/IDAStarFinder": 17,
+        "./finders/JumpPointFinder": 22,
+        heap: 1
+      }],
+      9: [function (t, e, i) {
+        function n(t) {
+          t = t || {}, this.allowDiagonal = t.allowDiagonal, this.dontCrossCorners = t.dontCrossCorners, this.heuristic = t.heuristic || a.manhattan, this.weight = t.weight || 1, this.diagonalMovement = t.diagonalMovement, this.diagonalMovement || (this.allowDiagonal ? this.dontCrossCorners ? this.diagonalMovement = s.OnlyWhenNoObstacles : this.diagonalMovement = s.IfAtMostOneObstacle : this.diagonalMovement = s.Never), this.diagonalMovement === s.Never ? this.heuristic = t.heuristic || a.manhattan : this.heuristic = t.heuristic || a.octile
+        }
+        var o = t("heap"),
+          r = t("../core/Util"),
+          a = t("../core/Heuristic"),
+          s = t("../core/DiagonalMovement");
+        n.prototype.findPath = function (t, e, i, n, a) {
+          var s, l, h, u, p, c, f, d, g = new o(function (t, e) {
+            return t.f - e.f
+          }),
+            b = a.getNodeAt(t, e),
+            v = a.getNodeAt(i, n),
+            A = this.heuristic,
+            m = this.diagonalMovement,
+            y = this.weight,
+            k = Math.abs,
+            M = Math.SQRT2;
+          for (b.g = 0, b.f = 0, g.push(b), b.opened = !0; !g.empty();) {
+            if ((s = g.pop()).closed = !0, s === v) return r.backtrace(v);
+            for (u = 0, p = (l = a.getNeighbors(s, m)).length; p > u; ++u)(h = l[u]).closed || (c = h.x, f = h.y, d = s.g + (c - s.x == 0 || f - s.y == 0 ? 1 : M), (!h.opened || d < h.g) && (h.g = d, h.h = h.h || y * A(k(c - i), k(f - n)), h.f = h.g + h.h, h.parent = s, h.opened ? g.updateItem(h) : (g.push(h), h.opened = !0)))
+          }
+          return []
+        }, e.exports = n
+      }, {
+        "../core/DiagonalMovement": 3,
+        "../core/Heuristic": 5,
+        "../core/Util": 7,
+        heap: 1
+      }],
+      10: [function (t, e, i) {
+        function n(t) {
+          o.call(this, t);
+          var e = this.heuristic;
+          this.heuristic = function (t, i) {
+            return 1e6 * e(t, i)
+          }
+        }
+        var o = t("./AStarFinder");
+        n.prototype = new o, n.prototype.constructor = n, e.exports = n
+      }, {
+        "./AStarFinder": 9
+      }],
+      11: [function (t, e, i) {
+        function n(t) {
+          t = t || {}, this.allowDiagonal = t.allowDiagonal, this.dontCrossCorners = t.dontCrossCorners, this.diagonalMovement = t.diagonalMovement, this.heuristic = t.heuristic || a.manhattan, this.weight = t.weight || 1, this.diagonalMovement || (this.allowDiagonal ? this.dontCrossCorners ? this.diagonalMovement = s.OnlyWhenNoObstacles : this.diagonalMovement = s.IfAtMostOneObstacle : this.diagonalMovement = s.Never), this.diagonalMovement === s.Never ? this.heuristic = t.heuristic || a.manhattan : this.heuristic = t.heuristic || a.octile
+        }
+        var o = t("heap"),
+          r = t("../core/Util"),
+          a = t("../core/Heuristic"),
+          s = t("../core/DiagonalMovement");
+        n.prototype.findPath = function (t, e, i, n, a) {
+          var s, l, h, u, p, c, f, d, g = function (t, e) {
+            return t.f - e.f
+          },
+            b = new o(g),
+            v = new o(g),
+            A = a.getNodeAt(t, e),
+            m = a.getNodeAt(i, n),
+            y = this.heuristic,
+            k = this.diagonalMovement,
+            M = this.weight,
+            W = Math.abs,
+            w = Math.SQRT2;
+          for (A.g = 0, A.f = 0, b.push(A), A.opened = 1, m.g = 0, m.f = 0, v.push(m), m.opened = 2; !b.empty() && !v.empty();) {
+            for ((s = b.pop()).closed = !0, u = 0, p = (l = a.getNeighbors(s, k)).length; p > u; ++u)
+              if (!(h = l[u]).closed) {
+                if (2 === h.opened) return r.biBacktrace(s, h);
+                c = h.x, f = h.y, d = s.g + (c - s.x == 0 || f - s.y == 0 ? 1 : w), (!h.opened || d < h.g) && (h.g = d, h.h = h.h || M * y(W(c - i), W(f - n)), h.f = h.g + h.h, h.parent = s, h.opened ? b.updateItem(h) : (b.push(h), h.opened = 1))
+              } for ((s = v.pop()).closed = !0, u = 0, p = (l = a.getNeighbors(s, k)).length; p > u; ++u)
+              if (!(h = l[u]).closed) {
+                if (1 === h.opened) return r.biBacktrace(h, s);
+                c = h.x, f = h.y, d = s.g + (c - s.x == 0 || f - s.y == 0 ? 1 : w), (!h.opened || d < h.g) && (h.g = d, h.h = h.h || M * y(W(c - t), W(f - e)), h.f = h.g + h.h, h.parent = s, h.opened ? v.updateItem(h) : (v.push(h), h.opened = 2))
+              }
+          }
+          return []
+        }, e.exports = n
+      }, {
+        "../core/DiagonalMovement": 3,
+        "../core/Heuristic": 5,
+        "../core/Util": 7,
+        heap: 1
+      }],
+      12: [function (t, e, i) {
+        function n(t) {
+          o.call(this, t);
+          var e = this.heuristic;
+          this.heuristic = function (t, i) {
+            return 1e6 * e(t, i)
+          }
+        }
+        var o = t("./BiAStarFinder");
+        n.prototype = new o, n.prototype.constructor = n, e.exports = n
+      }, {
+        "./BiAStarFinder": 11
+      }],
+      13: [function (t, e, i) {
+        function n(t) {
+          t = t || {}, this.allowDiagonal = t.allowDiagonal, this.dontCrossCorners = t.dontCrossCorners, this.diagonalMovement = t.diagonalMovement, this.diagonalMovement || (this.allowDiagonal ? this.dontCrossCorners ? this.diagonalMovement = r.OnlyWhenNoObstacles : this.diagonalMovement = r.IfAtMostOneObstacle : this.diagonalMovement = r.Never)
+        }
+        var o = t("../core/Util"),
+          r = t("../core/DiagonalMovement");
+        n.prototype.findPath = function (t, e, i, n, r) {
+          var a, s, l, h, u, p = r.getNodeAt(t, e),
+            c = r.getNodeAt(i, n),
+            f = [],
+            d = [],
+            g = this.diagonalMovement;
+          for (f.push(p), p.opened = !0, p.by = 0, d.push(c), c.opened = !0, c.by = 1; f.length && d.length;) {
+            for ((l = f.shift()).closed = !0, h = 0, u = (a = r.getNeighbors(l, g)).length; u > h; ++h)
+              if (!(s = a[h]).closed)
+                if (s.opened) {
+                  if (1 === s.by) return o.biBacktrace(l, s)
+                } else f.push(s), s.parent = l, s.opened = !0, s.by = 0;
+            for ((l = d.shift()).closed = !0, h = 0, u = (a = r.getNeighbors(l, g)).length; u > h; ++h)
+              if (!(s = a[h]).closed)
+                if (s.opened) {
+                  if (0 === s.by) return o.biBacktrace(s, l)
+                } else d.push(s), s.parent = l, s.opened = !0, s.by = 1
+          }
+          return []
+        }, e.exports = n
+      }, {
+        "../core/DiagonalMovement": 3,
+        "../core/Util": 7
+      }],
+      14: [function (t, e, i) {
+        function n(t) {
+          o.call(this, t), this.heuristic = function (t, e) {
+            return 0
+          }
+        }
+        var o = t("./BiAStarFinder");
+        n.prototype = new o, n.prototype.constructor = n, e.exports = n
+      }, {
+        "./BiAStarFinder": 11
+      }],
+      15: [function (t, e, i) {
+        function n(t) {
+          t = t || {}, this.allowDiagonal = t.allowDiagonal, this.dontCrossCorners = t.dontCrossCorners, this.diagonalMovement = t.diagonalMovement, this.diagonalMovement || (this.allowDiagonal ? this.dontCrossCorners ? this.diagonalMovement = r.OnlyWhenNoObstacles : this.diagonalMovement = r.IfAtMostOneObstacle : this.diagonalMovement = r.Never)
+        }
+        var o = t("../core/Util"),
+          r = t("../core/DiagonalMovement");
+        n.prototype.findPath = function (t, e, i, n, r) {
+          var a, s, l, h, u, p = [],
+            c = this.diagonalMovement,
+            f = r.getNodeAt(t, e),
+            d = r.getNodeAt(i, n);
+          for (p.push(f), f.opened = !0; p.length;) {
+            if ((l = p.shift()).closed = !0, l === d) return o.backtrace(d);
+            for (h = 0, u = (a = r.getNeighbors(l, c)).length; u > h; ++h)(s = a[h]).closed || s.opened || (p.push(s), s.opened = !0, s.parent = l)
+          }
+          return []
+        }, e.exports = n
+      }, {
+        "../core/DiagonalMovement": 3,
+        "../core/Util": 7
+      }],
+      16: [function (t, e, i) {
+        function n(t) {
+          o.call(this, t), this.heuristic = function (t, e) {
+            return 0
+          }
+        }
+        var o = t("./AStarFinder");
+        n.prototype = new o, n.prototype.constructor = n, e.exports = n
+      }, {
+        "./AStarFinder": 9
+      }],
+      17: [function (t, e, i) {
+        function n(t) {
+          t = t || {}, this.allowDiagonal = t.allowDiagonal, this.dontCrossCorners = t.dontCrossCorners, this.diagonalMovement = t.diagonalMovement, this.heuristic = t.heuristic || o.manhattan, this.weight = t.weight || 1, this.trackRecursion = t.trackRecursion || !1, this.timeLimit = t.timeLimit || Infinity, this.diagonalMovement || (this.allowDiagonal ? this.dontCrossCorners ? this.diagonalMovement = a.OnlyWhenNoObstacles : this.diagonalMovement = a.IfAtMostOneObstacle : this.diagonalMovement = a.Never), this.diagonalMovement === a.Never ? this.heuristic = t.heuristic || o.manhattan : this.heuristic = t.heuristic || o.octile
+        }
+        var o = (t("../core/Util"), t("../core/Heuristic")),
+          r = t("../core/Node"),
+          a = t("../core/DiagonalMovement");
+        n.prototype.findPath = function (t, e, i, n, o) {
+          var a, s, l, h = (new Date).getTime(),
+            u = function (t, e) {
+              return this.heuristic(Math.abs(e.x - t.x), Math.abs(e.y - t.y))
+            }.bind(this),
+            p = function (t, e) {
+              return t.x === e.x || t.y === e.y ? 1 : Math.SQRT2
+            },
+            c = function (t, e, i, n, a) {
+              if (0, this.timeLimit > 0 && (new Date).getTime() - h > 1e3 * this.timeLimit) return Infinity;
+              var s = e + u(t, d) * this.weight;
+              if (s > i) return s;
+              if (t == d) return n[a] = [t.x, t.y], t;
+              var l, f, g, b, v = o.getNeighbors(t, this.diagonalMovement);
+              for (g = 0, l = Infinity; b = v[g]; ++g) {
+                if (this.trackRecursion && (b.retainCount = b.retainCount + 1 || 1, !0 !== b.tested && (b.tested = !0)), (f = c(b, e + p(t, b), i, n, a + 1)) instanceof r) return n[a] = [t.x, t.y], f;
+                this.trackRecursion && 0 == --b.retainCount && (b.tested = !1), l > f && (l = f)
+              }
+              return l
+            }.bind(this),
+            f = o.getNodeAt(t, e),
+            d = o.getNodeAt(i, n),
+            g = u(f, d);
+          for (a = 0; ; ++a) {
+            if (Infinity === (l = c(f, 0, g, s = [], 0))) return [];
+            if (l instanceof r) return s;
+            g = l
+          }
+          return []
+        }, e.exports = n
+      }, {
+        "../core/DiagonalMovement": 3,
+        "../core/Heuristic": 5,
+        "../core/Node": 6,
+        "../core/Util": 7
+      }],
+      18: [function (t, e, i) {
+        function n(t) {
+          o.call(this, t)
+        }
+        var o = t("./JumpPointFinderBase"),
+          r = t("../core/DiagonalMovement");
+        n.prototype = new o, n.prototype.constructor = n, n.prototype._jump = function (t, e, i, n) {
+          var o = this.grid,
+            r = t - i,
+            a = e - n;
+          if (!o.isWalkableAt(t, e)) return null;
+          if (!0 === this.trackJumpRecursion && (o.getNodeAt(t, e).tested = !0), o.getNodeAt(t, e) === this.endNode) return [t, e];
+          if (0 !== r && 0 !== a) {
+            if (o.isWalkableAt(t - r, e + a) && !o.isWalkableAt(t - r, e) || o.isWalkableAt(t + r, e - a) && !o.isWalkableAt(t, e - a)) return [t, e];
+            if (this._jump(t + r, e, t, e) || this._jump(t, e + a, t, e)) return [t, e]
+          } else if (0 !== r) {
+            if (o.isWalkableAt(t + r, e + 1) && !o.isWalkableAt(t, e + 1) || o.isWalkableAt(t + r, e - 1) && !o.isWalkableAt(t, e - 1)) return [t, e]
+          } else if (o.isWalkableAt(t + 1, e + a) && !o.isWalkableAt(t + 1, e) || o.isWalkableAt(t - 1, e + a) && !o.isWalkableAt(t - 1, e)) return [t, e];
+          return this._jump(t + r, e + a, t, e)
+        }, n.prototype._findNeighbors = function (t) {
+          var e, i, n, o, a, s, l, h, u = t.parent,
+            p = t.x,
+            c = t.y,
+            f = this.grid,
+            d = [];
+          if (u) e = u.x, i = u.y, n = (p - e) / Math.max(Math.abs(p - e), 1), o = (c - i) / Math.max(Math.abs(c - i), 1), 0 !== n && 0 !== o ? (f.isWalkableAt(p, c + o) && d.push([p, c + o]), f.isWalkableAt(p + n, c) && d.push([p + n, c]), f.isWalkableAt(p + n, c + o) && d.push([p + n, c + o]), f.isWalkableAt(p - n, c) || d.push([p - n, c + o]), f.isWalkableAt(p, c - o) || d.push([p + n, c - o])) : 0 === n ? (f.isWalkableAt(p, c + o) && d.push([p, c + o]), f.isWalkableAt(p + 1, c) || d.push([p + 1, c + o]), f.isWalkableAt(p - 1, c) || d.push([p - 1, c + o])) : (f.isWalkableAt(p + n, c) && d.push([p + n, c]), f.isWalkableAt(p, c + 1) || d.push([p + n, c + 1]), f.isWalkableAt(p, c - 1) || d.push([p + n, c - 1]));
+          else
+            for (l = 0, h = (a = f.getNeighbors(t, r.Always)).length; h > l; ++l) s = a[l], d.push([s.x, s.y]);
+          return d
+        }, e.exports = n
+      }, {
+        "../core/DiagonalMovement": 3,
+        "./JumpPointFinderBase": 23
+      }],
+      19: [function (t, e, i) {
+        function n(t) {
+          o.call(this, t)
+        }
+        var o = t("./JumpPointFinderBase"),
+          r = t("../core/DiagonalMovement");
+        n.prototype = new o, n.prototype.constructor = n, n.prototype._jump = function (t, e, i, n) {
+          var o = this.grid,
+            r = t - i,
+            a = e - n;
+          if (!o.isWalkableAt(t, e)) return null;
+          if (!0 === this.trackJumpRecursion && (o.getNodeAt(t, e).tested = !0), o.getNodeAt(t, e) === this.endNode) return [t, e];
+          if (0 !== r && 0 !== a) {
+            if (o.isWalkableAt(t - r, e + a) && !o.isWalkableAt(t - r, e) || o.isWalkableAt(t + r, e - a) && !o.isWalkableAt(t, e - a)) return [t, e];
+            if (this._jump(t + r, e, t, e) || this._jump(t, e + a, t, e)) return [t, e]
+          } else if (0 !== r) {
+            if (o.isWalkableAt(t + r, e + 1) && !o.isWalkableAt(t, e + 1) || o.isWalkableAt(t + r, e - 1) && !o.isWalkableAt(t, e - 1)) return [t, e]
+          } else if (o.isWalkableAt(t + 1, e + a) && !o.isWalkableAt(t + 1, e) || o.isWalkableAt(t - 1, e + a) && !o.isWalkableAt(t - 1, e)) return [t, e];
+          return o.isWalkableAt(t + r, e) || o.isWalkableAt(t, e + a) ? this._jump(t + r, e + a, t, e) : null
+        }, n.prototype._findNeighbors = function (t) {
+          var e, i, n, o, a, s, l, h, u = t.parent,
+            p = t.x,
+            c = t.y,
+            f = this.grid,
+            d = [];
+          if (u) e = u.x, i = u.y, n = (p - e) / Math.max(Math.abs(p - e), 1), o = (c - i) / Math.max(Math.abs(c - i), 1), 0 !== n && 0 !== o ? (f.isWalkableAt(p, c + o) && d.push([p, c + o]), f.isWalkableAt(p + n, c) && d.push([p + n, c]), (f.isWalkableAt(p, c + o) || f.isWalkableAt(p + n, c)) && d.push([p + n, c + o]), !f.isWalkableAt(p - n, c) && f.isWalkableAt(p, c + o) && d.push([p - n, c + o]), !f.isWalkableAt(p, c - o) && f.isWalkableAt(p + n, c) && d.push([p + n, c - o])) : 0 === n ? f.isWalkableAt(p, c + o) && (d.push([p, c + o]), f.isWalkableAt(p + 1, c) || d.push([p + 1, c + o]), f.isWalkableAt(p - 1, c) || d.push([p - 1, c + o])) : f.isWalkableAt(p + n, c) && (d.push([p + n, c]), f.isWalkableAt(p, c + 1) || d.push([p + n, c + 1]), f.isWalkableAt(p, c - 1) || d.push([p + n, c - 1]));
+          else
+            for (l = 0, h = (a = f.getNeighbors(t, r.IfAtMostOneObstacle)).length; h > l; ++l) s = a[l], d.push([s.x, s.y]);
+          return d
+        }, e.exports = n
+      }, {
+        "../core/DiagonalMovement": 3,
+        "./JumpPointFinderBase": 23
+      }],
+      20: [function (t, e, i) {
+        function n(t) {
+          o.call(this, t)
+        }
+        var o = t("./JumpPointFinderBase"),
+          r = t("../core/DiagonalMovement");
+        n.prototype = new o, n.prototype.constructor = n, n.prototype._jump = function (t, e, i, n) {
+          var o = this.grid,
+            r = t - i,
+            a = e - n;
+          if (!o.isWalkableAt(t, e)) return null;
+          if (!0 === this.trackJumpRecursion && (o.getNodeAt(t, e).tested = !0), o.getNodeAt(t, e) === this.endNode) return [t, e];
+          if (0 !== r && 0 !== a) {
+            if (this._jump(t + r, e, t, e) || this._jump(t, e + a, t, e)) return [t, e]
+          } else if (0 !== r) {
+            if (o.isWalkableAt(t, e - 1) && !o.isWalkableAt(t - r, e - 1) || o.isWalkableAt(t, e + 1) && !o.isWalkableAt(t - r, e + 1)) return [t, e]
+          } else if (0 !== a && (o.isWalkableAt(t - 1, e) && !o.isWalkableAt(t - 1, e - a) || o.isWalkableAt(t + 1, e) && !o.isWalkableAt(t + 1, e - a))) return [t, e];
+          return o.isWalkableAt(t + r, e) && o.isWalkableAt(t, e + a) ? this._jump(t + r, e + a, t, e) : null
+        }, n.prototype._findNeighbors = function (t) {
+          var e, i, n, o, a, s, l, h, u = t.parent,
+            p = t.x,
+            c = t.y,
+            f = this.grid,
+            d = [];
+          if (u)
+            if (e = u.x, i = u.y, n = (p - e) / Math.max(Math.abs(p - e), 1), o = (c - i) / Math.max(Math.abs(c - i), 1), 0 !== n && 0 !== o) f.isWalkableAt(p, c + o) && d.push([p, c + o]), f.isWalkableAt(p + n, c) && d.push([p + n, c]), f.isWalkableAt(p, c + o) && f.isWalkableAt(p + n, c) && d.push([p + n, c + o]);
+            else {
+              var g;
+              if (0 !== n) {
+                g = f.isWalkableAt(p + n, c);
+                var b = f.isWalkableAt(p, c + 1),
+                  v = f.isWalkableAt(p, c - 1);
+                g && (d.push([p + n, c]), b && d.push([p + n, c + 1]), v && d.push([p + n, c - 1])), b && d.push([p, c + 1]), v && d.push([p, c - 1])
+              } else if (0 !== o) {
+                g = f.isWalkableAt(p, c + o);
+                var A = f.isWalkableAt(p + 1, c),
+                  m = f.isWalkableAt(p - 1, c);
+                g && (d.push([p, c + o]), A && d.push([p + 1, c + o]), m && d.push([p - 1, c + o])), A && d.push([p + 1, c]), m && d.push([p - 1, c])
+              }
+            }
+          else
+            for (l = 0, h = (a = f.getNeighbors(t, r.OnlyWhenNoObstacles)).length; h > l; ++l) s = a[l], d.push([s.x, s.y]);
+          return d
+        }, e.exports = n
+      }, {
+        "../core/DiagonalMovement": 3,
+        "./JumpPointFinderBase": 23
+      }],
+      21: [function (t, e, i) {
+        function n(t) {
+          o.call(this, t)
+        }
+        var o = t("./JumpPointFinderBase"),
+          r = t("../core/DiagonalMovement");
+        n.prototype = new o, n.prototype.constructor = n, n.prototype._jump = function (t, e, i, n) {
+          var o = this.grid,
+            r = t - i,
+            a = e - n;
+          if (!o.isWalkableAt(t, e)) return null;
+          if (!0 === this.trackJumpRecursion && (o.getNodeAt(t, e).tested = !0), o.getNodeAt(t, e) === this.endNode) return [t, e];
+          if (0 !== r) {
+            if (o.isWalkableAt(t, e - 1) && !o.isWalkableAt(t - r, e - 1) || o.isWalkableAt(t, e + 1) && !o.isWalkableAt(t - r, e + 1)) return [t, e]
+          } else {
+            if (0 === a) throw new Error("Only horizontal and vertical movements are allowed");
+            if (o.isWalkableAt(t - 1, e) && !o.isWalkableAt(t - 1, e - a) || o.isWalkableAt(t + 1, e) && !o.isWalkableAt(t + 1, e - a)) return [t, e];
+            if (this._jump(t + 1, e, t, e) || this._jump(t - 1, e, t, e)) return [t, e]
+          }
+          return this._jump(t + r, e + a, t, e)
+        }, n.prototype._findNeighbors = function (t) {
+          var e, i, n, o, a, s, l, h, u = t.parent,
+            p = t.x,
+            c = t.y,
+            f = this.grid,
+            d = [];
+          if (u) e = u.x, i = u.y, n = (p - e) / Math.max(Math.abs(p - e), 1), o = (c - i) / Math.max(Math.abs(c - i), 1), 0 !== n ? (f.isWalkableAt(p, c - 1) && d.push([p, c - 1]), f.isWalkableAt(p, c + 1) && d.push([p, c + 1]), f.isWalkableAt(p + n, c) && d.push([p + n, c])) : 0 !== o && (f.isWalkableAt(p - 1, c) && d.push([p - 1, c]), f.isWalkableAt(p + 1, c) && d.push([p + 1, c]), f.isWalkableAt(p, c + o) && d.push([p, c + o]));
+          else
+            for (l = 0, h = (a = f.getNeighbors(t, r.Never)).length; h > l; ++l) s = a[l], d.push([s.x, s.y]);
+          return d
+        }, e.exports = n
+      }, {
+        "../core/DiagonalMovement": 3,
+        "./JumpPointFinderBase": 23
+      }],
+      22: [function (t, e, i) {
+        var n = t("../core/DiagonalMovement"),
+          o = t("./JPFNeverMoveDiagonally"),
+          r = t("./JPFAlwaysMoveDiagonally"),
+          a = t("./JPFMoveDiagonallyIfNoObstacles"),
+          s = t("./JPFMoveDiagonallyIfAtMostOneObstacle");
+        e.exports = function (t) {
+          return (t = t || {}).diagonalMovement === n.Never ? new o(t) : t.diagonalMovement === n.Always ? new r(t) : t.diagonalMovement === n.OnlyWhenNoObstacles ? new a(t) : new s(t)
+        }
+      }, {
+        "../core/DiagonalMovement": 3,
+        "./JPFAlwaysMoveDiagonally": 18,
+        "./JPFMoveDiagonallyIfAtMostOneObstacle": 19,
+        "./JPFMoveDiagonallyIfNoObstacles": 20,
+        "./JPFNeverMoveDiagonally": 21
+      }],
+      23: [function (t, e, i) {
+        function n(t) {
+          t = t || {}, this.heuristic = t.heuristic || a.manhattan, this.trackJumpRecursion = t.trackJumpRecursion || !1
+        }
+        var o = t("heap"),
+          r = t("../core/Util"),
+          a = t("../core/Heuristic");
+        t("../core/DiagonalMovement"), n.prototype.findPath = function (t, e, i, n, a) {
+          var s, l = this.openList = new o(function (t, e) {
+            return t.f - e.f
+          }),
+            h = this.startNode = a.getNodeAt(t, e),
+            u = this.endNode = a.getNodeAt(i, n);
+          for (this.grid = a, h.g = 0, h.f = 0, l.push(h), h.opened = !0; !l.empty();) {
+            if ((s = l.pop()).closed = !0, s === u) return r.expandPath(r.backtrace(u));
+            this._identifySuccessors(s)
+          }
+          return []
+        }, n.prototype._identifySuccessors = function (t) {
+          var e, i, n, o, r, s, l, h, u, p, c = this.grid,
+            f = this.heuristic,
+            d = this.openList,
+            g = this.endNode.x,
+            b = this.endNode.y,
+            v = t.x,
+            A = t.y,
+            m = Math.abs;
+          for (Math.max, o = 0, r = (e = this._findNeighbors(t)).length; r > o; ++o)
+            if (i = e[o], n = this._jump(i[0], i[1], v, A)) {
+              if (s = n[0], l = n[1], (p = c.getNodeAt(s, l)).closed) continue;
+              h = a.octile(m(s - v), m(l - A)), u = t.g + h, (!p.opened || u < p.g) && (p.g = u, p.h = p.h || f(m(s - g), m(l - b)), p.f = p.g + p.h, p.parent = t, p.opened ? d.updateItem(p) : (d.push(p), p.opened = !0))
+            }
+        }, e.exports = n
+      }, {
+        "../core/DiagonalMovement": 3,
+        "../core/Heuristic": 5,
+        "../core/Util": 7,
+        heap: 1
+      }]
+    }, {}, [8])(8)
+  });
+  (function () {
+    function e(t, r, n) {
+      function i(a, s) {
+        if (!r[a]) {
+          if (!t[a]) {
+            var u = "function" == typeof require && require;
+            if (!s && u) return u(a, !0);
+            if (o) return o(a, !0);
+            var d = Error("Cannot find module '" + a + "'");
+            throw d.code = "MODULE_NOT_FOUND", d
+          }
+          var m = r[a] = {
+            exports: {}
+          };
+          t[a][0].call(m.exports, function (e) {
+            return i(t[a][1][e] || e)
+          }, m, m.exports, e, t, r, n)
+        }
+        return r[a].exports
+      }
+      for (var o = "function" == typeof require && require, a = 0; a < n.length; a++) i(n[a]);
+      return i
+    }
+    return e
+  })()({
+    1: [function (e, t, r) {
+      let n = e("worker-timers");
+      window.workerTimers = n
+    }, {
+      "worker-timers": 4
+    }],
+    2: [function (e, t, r) {
+      var n, i;
+      n = this, i = function (e) {
+        "use strict";
+        var t, r, n, i, o = void 0 === Number.MAX_SAFE_INTEGER ? 9007199254740991 : Number.MAX_SAFE_INTEGER,
+          a = new WeakMap,
+          s = (r = (t = a, function (e, r) {
+            return t.set(e, r), r
+          }), n = a, function (e) {
+            var t = n.get(e),
+              i = void 0 === t ? e.size : t < 1073741824 ? t + 1 : 0;
+            if (!e.has(i)) return r(e, i);
+            if (e.size < 536870912) {
+              for (; e.has(i);) i = Math.floor(1073741824 * Math.random());
+              return r(e, i)
+            }
+            if (e.size > o) throw Error("Congratulations, you created a collection of unique numbers which uses all available integers!");
+            for (; e.has(i);) i = Math.floor(Math.random() * o);
+            return r(e, i)
+          }),
+          u = (i = s, function (e) {
+            var t = i(e);
+            return e.add(t), t
+          });
+        e.addUniqueNumber = u, e.generateUniqueNumber = s
+      }, "object" == typeof r && void 0 !== t ? i(r) : "function" == typeof define && define.amd ? define(["exports"], i) : i((n = "undefined" != typeof globalThis ? globalThis : n || self).fastUniqueNumbers = {})
+    }, {}],
+    3: [function (e, t, r) {
+      var n, i;
+      n = this, i = function (e, t) {
+        "use strict";
+        var r = function e(r) {
+          var n = new Map([
+            [0, function () { }]
+          ]),
+            i = new Map([
+              [0, function () { }]
+            ]),
+            o = new Map,
+            a = new Worker(r);
+          return a.addEventListener("message", function (e) {
+            var t, r = e.data;
+            if (void 0 !== (t = r).method && "call" === t.method) {
+              var a = r.params,
+                s = a.timerId,
+                u = a.timerType;
+              if ("interval" === u) {
+                var d = n.get(s);
+                if ("number" == typeof d) {
+                  var m = o.get(d);
+                  if (void 0 === m || m.timerId !== s || m.timerType !== u) throw Error("The timer is in an undefined state.")
+                } else if (void 0 !== d) d();
+                else throw Error("The timer is in an undefined state.")
+              } else if ("timeout" === u) {
+                var f = i.get(s);
+                if ("number" == typeof f) {
+                  var c = o.get(f);
+                  if (void 0 === c || c.timerId !== s || c.timerType !== u) throw Error("The timer is in an undefined state.")
+                } else if (void 0 !== f) f(), i["delete"](s);
+                else throw Error("The timer is in an undefined state.")
+              }
+            } else if (null === (l = r).error && "number" == typeof l.id) {
+              var l, v = r.id,
+                p = o.get(v);
+              if (void 0 === p) throw Error("The timer is in an undefined state.");
+              var h = p.timerId,
+                w = p.timerType;
+              o["delete"](v), "interval" === w ? n["delete"](h) : i["delete"](h)
+            } else throw Error(r.error.message)
+          }), {
+            clearInterval: function e(r) {
+              var i = t.generateUniqueNumber(o);
+              o.set(i, {
+                timerId: r,
+                timerType: "interval"
+              }), n.set(r, i), a.postMessage({
+                id: i,
+                method: "clear",
+                params: {
+                  timerId: r,
+                  timerType: "interval"
+                }
+              })
+            },
+            clearTimeout: function e(r) {
+              var n = t.generateUniqueNumber(o);
+              o.set(n, {
+                timerId: r,
+                timerType: "timeout"
+              }), i.set(r, n), a.postMessage({
+                id: n,
+                method: "clear",
+                params: {
+                  timerId: r,
+                  timerType: "timeout"
+                }
+              })
+            },
+            setInterval: function e(r, i) {
+              var o = t.generateUniqueNumber(n);
+              return n.set(o, function () {
+                r(), "function" == typeof n.get(o) && a.postMessage({
+                  id: null,
+                  method: "set",
+                  params: {
+                    delay: i,
+                    now: performance.now(),
+                    timerId: o,
+                    timerType: "interval"
+                  }
+                })
+              }), a.postMessage({
+                id: null,
+                method: "set",
+                params: {
+                  delay: i,
+                  now: performance.now(),
+                  timerId: o,
+                  timerType: "interval"
+                }
+              }), o
+            },
+            setTimeout: function e(r, n) {
+              var o = t.generateUniqueNumber(i);
+              return i.set(o, r), a.postMessage({
+                id: null,
+                method: "set",
+                params: {
+                  delay: n,
+                  now: performance.now(),
+                  timerId: o,
+                  timerType: "timeout"
+                }
+              }), o
+            }
+          }
+        };
+        e.load = r
+      }, "object" == typeof r && void 0 !== t ? i(r, e("fast-unique-numbers")) : "function" == typeof define && define.amd ? define(["exports", "fast-unique-numbers"], i) : i((n = "undefined" != typeof globalThis ? globalThis : n || self).workerTimersBroker = {}, n.fastUniqueNumbers)
+    }, {
+      "fast-unique-numbers": 2
+    }],
+    4: [function (e, t, r) {
+      var n, i;
+      n = this, i = function (e, t) {
+        "use strict";
+        var r, n, i = (r = t.load, n = null, function () {
+          if (null !== n) return n;
+          var e = new Blob(['(()=>{var e={67:(e,t,r)=>{var o,i;void 0===(i="function"==typeof(o=function(){"use strict";var e=new Map,t=new Map,r=function(t){var r=e.get(t);if(void 0===r)throw new Error(\'There is no interval scheduled with the given id "\'.concat(t,\'".\'));clearTimeout(r),e.delete(t)},o=function(e){var r=t.get(e);if(void 0===r)throw new Error(\'There is no timeout scheduled with the given id "\'.concat(e,\'".\'));clearTimeout(r),t.delete(e)},i=function(e,t){var r,o=performance.now();return{expected:o+(r=e-Math.max(0,o-t)),remainingDelay:r}},n=function e(t,r,o,i){var n=performance.now();n>o?postMessage({id:null,method:"call",params:{timerId:r,timerType:i}}):t.set(r,setTimeout(e,o-n,t,r,o,i))},a=function(t,r,o){var a=i(t,o),s=a.expected,d=a.remainingDelay;e.set(r,setTimeout(n,d,e,r,s,"interval"))},s=function(e,r,o){var a=i(e,o),s=a.expected,d=a.remainingDelay;t.set(r,setTimeout(n,d,t,r,s,"timeout"))};addEventListener("message",(function(e){var t=e.data;try{if("clear"===t.method){var i=t.id,n=t.params,d=n.timerId,c=n.timerType;if("interval"===c)r(d),postMessage({error:null,id:i});else{if("timeout"!==c)throw new Error(\'The given type "\'.concat(c,\'" is not supported\'));o(d),postMessage({error:null,id:i})}}else{if("set"!==t.method)throw new Error(\'The given method "\'.concat(t.method,\'" is not supported\'));var u=t.params,l=u.delay,p=u.now,m=u.timerId,v=u.timerType;if("interval"===v)a(l,m,p);else{if("timeout"!==v)throw new Error(\'The given type "\'.concat(v,\'" is not supported\'));s(l,m,p)}}}catch(e){postMessage({error:{message:e.message},id:t.id,result:null})}}))})?o.call(t,r,t,e):o)||(e.exports=i)}},t={};function r(o){var i=t[o];if(void 0!==i)return i.exports;var n=t[o]={exports:{}};return e[o](n,n.exports,r),n.exports}r.n=e=>{var t=e&&e.__esModule?()=>e.default:()=>e;return r.d(t,{a:t}),t},r.d=(e,t)=>{for(var o in t)r.o(t,o)&&!r.o(e,o)&&Object.defineProperty(e,o,{enumerable:!0,get:t[o]})},r.o=(e,t)=>Object.prototype.hasOwnProperty.call(e,t),(()=>{"use strict";r(67)})()})();'], {
+            type: "application/javascript; charset=utf-8"
+          }),
+            t = URL.createObjectURL(e);
+          return n = r(t), setTimeout(function () {
+            return URL.revokeObjectURL(t)
+          }), n
+        }),
+          o = function e(t) {
+            return i().clearInterval(t)
+          },
+          a = function e(t) {
+            return i().clearTimeout(t)
+          },
+          s = function e(t, r) {
+            return i().setInterval(t, r)
+          },
+          u = function e(t, r) {
+            return i().setTimeout(t, r)
+          };
+        e.clearInterval = o, e.clearTimeout = a, e.setInterval = s, e.setTimeout = u
+      }, "object" == typeof r && void 0 !== t ? i(r, e("worker-timers-broker")) : "function" == typeof define && define.amd ? define(["exports", "worker-timers-broker"], i) : i((n = "undefined" != typeof globalThis ? globalThis : n || self).workerTimers = {}, n.workerTimersBroker)
+    }, {
+      "worker-timers-broker": 3
+    }]
+  }, {}, [1]);
+
+  class createText {
+    constructor(width, height, buildType) {
+      this.canvas = document.createElement("canvas");
+      this.ctx = this.canvas.getContext("2d");
+      this.canvas.width = width;
+      this.canvas.height = height;
+      this.buildType = buildType
+    }
+    drawText(text, size, color, color2) {
+      this.ctx.clearRect(0, 0, this.canvas.width, this.canvas.height);
+      this.ctx.font = size + "px Baloo Paaji";
+      this.ctx.strokeStyle = color;
+      this.ctx.fillStyle = color2;
+      this.ctx.lineWidth = 7;
+      switch (this.buildType) {
+        case 1:
+          this.ctx.strokeText(`x${text & 255}`, 15, 40);
+          this.ctx.fillText(`x${text & 255}`, 15, 40);
+          this.ctx.strokeText(`x${(text & 65280) >> 8}`, 15, 60);
+          this.ctx.fillText(`x${(text & 65280) >> 8}`, 15, 60);
+          break;
+        case 2:
+          this.ctx.strokeText(`x${text & 31}`, 15, 40);
+          this.ctx.fillText(`x${text & 31}`, 15, 40);
+          this.ctx.strokeText(`x${(text & 992) >> 5}`, 15, 60);
+          this.ctx.fillText(`x${(text & 992) >> 5}`, 15, 60);
+          this.ctx.strokeText(`x${(text & 31744) >> 10}`, 15, 80);
+          this.ctx.fillText(`x${(text & 31744) >> 10}`, 15, 80);
+          break;
+        case 3:
+          this.ctx.strokeText(text[0], 15, 40);
+          this.ctx.fillText(text[0], 15, 40);
+          this.ctx.strokeText((text[1] & 16) >> 4 ? "L" : "U", 15, 60);
+          this.ctx.fillText((text[1] & 16) >> 4 ? "L" : "U", 15, 60);
+          this.ctx.strokeText((text[1] & 16) >> 4 ? text[1] - 16 : text[1], 15, 80);
+          this.ctx.fillText((text[1] & 16) >> 4 ? text[1] - 16 : text[1], 15, 80);
+          break;
+        default:
+          this.ctx.strokeText(text, 15, 40);
+          this.ctx.fillText(text, 15, 40);
+          break
+      }
+    }
+  }
+
+  function getHitbox(objectType, objectSizeType) {
+    let objRadius = 0;
+    switch (objectType) {
+      case "t":
+        if (objectSizeType == 0 || objectSizeType == 1) {
+          objRadius = 102
+        } else if (objectSizeType == 2 || objectSizeType == 3) {
+          objRadius = 77
+        } else if (objectSizeType == 4 || objectSizeType == 5) {
+          objRadius = 60
+        };
+        break;
+      case "b":
+        if (objectSizeType == 0 || objectSizeType == 1) {
+          objRadius = 97
+        } else if (objectSizeType == 2 || objectSizeType == 3) {
+          objRadius = 80
+        };
+        break;
+      case "s":
+        if (objectSizeType == 0) {
+          objRadius = 102
+        } else if (objectSizeType == 1) {
+          objRadius = 87
+        } else if (objectSizeType == 2) {
+          objRadius = 58
+        };
+        break;
+      case "g":
+        if (objectSizeType == 0) {
+          objRadius = 90
+        } else if (objectSizeType == 1) {
+          objRadius = 75
+        } else if (objectSizeType == 2) {
+          objRadius = 65
+        };
+        break;
+      case "p":
+        objRadius = 77;
+        break;
+      case "f":
+        if (objectSizeType == 0) {
+          objRadius = 140
+        } else if (objectSizeType == 1) {
+          objRadius = 115
+        } else if (objectSizeType == 2) {
+          objRadius = 95
+        };
+        break;
+      case "d":
+        if (objectSizeType == 0) {
+          objRadius = 85
+        } else if (objectSizeType == 1) {
+          objRadius = 75
+        } else if (objectSizeType == 2) {
+          objRadius = 60
+        };
+        break;
+      case "a":
+        if (objectSizeType == 0) {
+          objRadius = 85
+        } else if (objectSizeType == 1) {
+          objRadius = 75
+        };
+        break;
+      case "cs":
+        if (objectSizeType == 0) {
+          objRadius = 100
+        } else if (objectSizeType == 1) {
+          objRadius = 87
+        } else if (objectSizeType == 2) {
+          objRadius = 95
+        } else if (objectSizeType == 3) {
+          objRadius = 90
+        };
+        break;
+      case "re":
+        if (objectSizeType == 0) {
+          objRadius = 67
+        } else if (objectSizeType == 1) {
+          objRadius = 82
+        } else if (objectSizeType == 2) {
+          objRadius = 90
+        };
+        break;
+      case "c":
+        objRadius = 55;
+        break;
+      case "m":
+        if (objectSizeType == 1) {
+          objRadius = 85
+        } else if (objectSizeType == 2) {
+          objRadius = 90
+        };
+        break;
+      case 4:
+      case 24:
+      case 25:
+      case 26:
+      case 27:
+      case 28:
+      case 7:
+      case 8:
+      case 9:
+      case 10:
+      case 15:
+      case 16:
+      case 17:
+      case 19:
+      case 21:
+      case 50:
+      case 51:
+      case 18:
+      case 32:
+      case 34:
+      case 29:
+      case 22:
+        objRadius = 45;
+        break;
+      case 2:
+      case 5:
+      case 12:
+      case 13:
+      case 14:
+      case 20:
+      case 52:
+      case 53:
+      case 49:
+      case 48:
+      case 47:
+      case 46:
+      case 45:
+        objRadius = 35;
+        break;
+      case 11:
+      case 0:
+        objRadius = 25;
+        break
+    }
+    return objRadius
+  }
+  let Hitboxes = {};
+
+  function createHitbox(g, h, l2) {
+    let hitbox = getHitbox(g, h);
+    if (hitbox) {
+      let cnvs = document.createElement("canvas");
+      let l = cnvs.getContext("2d");
+      cnvs.width = 300;
+      cnvs.height = 300;
+      l.lineWidth = 2.5;
+      l.strokeStyle = "red";
+      l.beginPath();
+      l.arc(150, 150, hitbox, 0, 2 * Math.PI);
+      l.stroke();
+      l2 ? Hitboxes[g] = cnvs : Hitboxes[g][h] = cnvs
+    }
+  }
+
+  let SandStormImage = new Image;
+  let BlizzardImage = new Image;
+  SandStormImage.src = "https://raw.githubusercontent.com/XmreLoux/images/main/sandstorm.png";
+  BlizzardImage.src = "https://raw.githubusercontent.com/XmreLoux/images/main/blizzard.png";
+  let AutoRespawnInterval;
   let Settings = {
     Fly: {
       o: .5,
@@ -555,6 +1708,85 @@
       e: false,
       k: "KeyL"
     }
+  };
+  let LastMove = 0;
+  let WeaponDamageList = {};
+  WeaponDamageList[-1] = 5;
+  WeaponDamageList[12] = 10;
+  WeaponDamageList[13] = 14;
+  WeaponDamageList[14] = 15;
+  WeaponDamageList[15] = 17;
+  WeaponDamageList[33] = 18;
+  WeaponDamageList[34] = 22;
+  WeaponDamageList[16] = 22;
+  WeaponDamageList[18] = 13;
+  WeaponDamageList[17] = 24;
+  WeaponDamageList[55] = 2;
+  WeaponDamageList[32] = 6;
+  WeaponDamageList[31] = 5;
+  WeaponDamageList[8] = 1;
+  WeaponDamageList[1] = 2;
+  WeaponDamageList[3] = 3;
+  WeaponDamageList[4] = 4;
+  WeaponDamageList[49] = 1;
+  WeaponDamageList[56] = 5;
+  WeaponDamageList[46] = 2;
+  WeaponDamageList[50] = 3;
+  WeaponDamageList[51] = 4;
+  WeaponDamageList[52] = 5;
+  WeaponDamageList[36] = 3;
+  WeaponDamageList[37] = 4;
+  WeaponDamageList[38] = 5;
+  WeaponDamageList[45] = 12;
+  WeaponDamageList[57] = 12;
+  WeaponDamageList[0] = 19;
+  WeaponDamageList[5] = 22;
+  WeaponDamageList[6] = 24;
+  WeaponDamageList[30] = 27;
+  WeaponDamageList[63] = 33;
+  WeaponDamageList[62] = 30;
+  WeaponDamageList[19] = 30;
+  let lastBoughtKit = -1;
+  let XrayCtx = CanvasRenderingContext2D.prototype.drawImage;
+  let PathfinderEnd = {
+    x: -1,
+    y: -1
+  };
+  let CrownCooldown = 0;
+  let Spectator;
+  let EmeraldPos = [
+    [21550, 29718],
+    [21963, 29773],
+    [21919, 29350]
+  ];
+  let EmeraldIndex = 0;
+  let lastrecycled = -1;
+  let lastcrafted = -1;
+  let toPlace = -1;
+  let Totem = {
+    x: null,
+    y: null
+  };
+  let Death = {
+    x: null,
+    y: null
+  };
+  let TimerTools = {
+    HPTimer: 0,
+    GaugeTimer: 0
+  };
+  let Limit = {
+    L: 0,
+    I: new createText(250, 70, 0),
+    E: false
+  };
+  let JoinLeave = {
+    Join: [],
+    Leave: [],
+    toggle1: false,
+    toggle2: false,
+    toggle11: false,
+    toggle22: false
   };
 
   window.Utils = {
@@ -8111,7 +9343,6 @@
     if (Ms) {
       Ms();
     }
-
     window.Utils.LoadHack()
   };
   const Os = Qg;
