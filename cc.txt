@@ -9284,18 +9284,6 @@
     }
 
     window.Utils.LoadHack();
-
-    let MainHackInterval;
-    setTimeout(() => {
-      MainHackInterval = workerTimers.setInterval(LouxInterval, 80)
-    }, 7e3);
-
-    function LouxInterval() {
-      if (ᐃΔΔᐃ.ⵠⵠᐃⵠ && ᐃΔΔᐃ.ⵠⵠᐃⵠ.readyState === 1 && ᐃΔΔᐃ.sendFirst && Ww && Ww.ᐃⵠᐃΔΔ) {
-        let myPlayer = gf.ΔΔⵠΔ[Ww.ᐃⲆᐃⲆ];
-        if (!myPlayer && !Spectator) ᐃΔΔᐃ.ⵠⵠᐃⵠ.send(JSON.stringify([11]));
-      }
-    }
   };
   const Os = Qg;
   function Ps(a, b) {
@@ -58400,7 +58388,6 @@
     this.ΔΔᐃΔΔ = null;
     this.timeout = function () {
       b.ⵠΔⵠⲆᐃΔᐃ++;
-      b.sendFirst = false
       b.ⵠⵠᐃⵠ.close();
       if (aw.ΔⲆⵠⲆΔᐃᐃⵠᐃ < b.ⵠΔⵠⲆᐃΔᐃ) {
         zf = 1;
@@ -60292,7 +60279,6 @@
           Ww.ΔⵠΔΔⲆΔⵠ = La;
           Ww.ΔᐃⵠΔⲆⲆⵠ = undefined;
           b.ΔΔᐃΔΔ = setTimeout(b.timeout, aw.ᐃⲆᐃⵠΔⵠΔⵠⲆ);
-          b.sendFirst = true;
         });
       };
     };
