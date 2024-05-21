@@ -9284,12 +9284,13 @@
     }
 
     window.Utils.LoadHack();
-
     let MainHackInterval;
     setTimeout(() => {
       MainHackInterval = workerTimers.setInterval(LouxInterval, 80)
     }, 7e3);
+
     function LouxInterval() {
+      console.log("waawf")
       if (ᐃΔΔᐃ.ⵠⵠᐃⵠ && ᐃΔΔᐃ.ⵠⵠᐃⵠ.readyState === 1 && Ww && Ww.ᐃⵠᐃΔΔ) {
         let myPlayer = gf.ΔΔⵠΔ[Ww.ᐃⲆᐃⲆ];
         if (!myPlayer && !Spectator) ᐃΔΔᐃ.ⵠⵠᐃⵠ.send(JSON.stringify([11]));
