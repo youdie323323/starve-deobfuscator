@@ -59577,7 +59577,9 @@
       this.ⵠⵠᐃⵠ[Vv](uq[jo].stringify([17, Math.floor(yq * ((a + b) % b) / b)]));
     };
     this.ΔᐃᐃᐃᐃΔⲆⵠᐃ = function (a) {
-      this.ⵠⵠᐃⵠ[Vv](ⲆΔᐃᐃⵠⲆΔ[qq].stringify([21, a]));
+      if (!Spectator) {
+        this.ⵠⵠᐃⵠ[Vv](ⲆΔᐃᐃⵠⲆΔ[qq].stringify([21, a]));
+      }
     };
     this.ⲆⲆᐃΔΔⵠⲆᐃⲆ = function (a) {
       this.ⵠⵠᐃⵠ[Vv](vq[xq].stringify([26, a]));
