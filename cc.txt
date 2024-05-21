@@ -1792,7 +1792,7 @@
   window.Utils = {
     initUI: () => {
       let gui = new guify({
-        title: "they fixed ddos whaaaaaaaat",
+        title: "deobfuscate in 30min",
         theme: {
           name: "LOUX",
           colors: {
@@ -49289,20 +49289,22 @@
         this.ⵠΔᐃⲆⲆⵠⵠ -= pf;
       } else {
         var a = gf.ΔΔⵠΔ[Ww.ᐃⲆᐃⲆ];
-        if (a) {
-          this.ΔⵠᐃⲆⲆ = 0;
-          var b = Math.max(Math.min(lo - a.x, -2), 2 - gf.w + ro);
-          var c = Math.max(Math.min(gq - a.y, -2), -gf.ᐃⵠⲆ + tg + so);
-          this.ⵠⵠΔⲆⵠⵠⲆ({
-            x: b,
-            y: c
-          });
-        } else {
-          this.ΔⵠᐃⲆⲆ += pf;
-          if (vg < this.ΔⵠᐃⲆⲆ) {
+        if (!Spectator) {
+          if (a) {
             this.ΔⵠᐃⲆⲆ = 0;
-            if (!Ww.reconnect.enabled) {
-              ᐃΔΔᐃ.ⵠⲆᐃᐃⵠΔⵠᐃⲆ();
+            var b = Math.max(Math.min(lo - a.x, -2), 2 - gf.w + ro);
+            var c = Math.max(Math.min(gq - a.y, -2), -gf.ᐃⵠⲆ + tg + so);
+            this.ⵠⵠΔⲆⵠⵠⲆ({
+              x: b,
+              y: c
+            });
+          } else {
+            this.ΔⵠᐃⲆⲆ += pf;
+            if (vg < this.ΔⵠᐃⲆⲆ) {
+              this.ΔⵠᐃⲆⲆ = 0;
+              if (!Ww.reconnect.enabled) {
+                ᐃΔΔᐃ.ⵠⲆᐃᐃⵠΔⵠᐃⲆ();
+              }
             }
           }
         }
