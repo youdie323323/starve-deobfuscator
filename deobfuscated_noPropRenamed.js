@@ -48683,6 +48683,7 @@
               return ln(a, 8260, 46947, 8004, 37330, 5330);
             }(d));
             Ww.ᐃⲆΔᐃⵠⲆᐃ = c + e;
+            console.log(Ww.ᐃⲆΔᐃⵠⲆᐃ)
             ha();
           }, function () {
             z.waiting = false;
@@ -48694,6 +48695,7 @@
           const d = Number(b[1]);
           const e = Math.abs(wk(d));
           Ww.ΔⵠΔΔⲆΔⵠ = c + e;
+          console.log(Ww.ΔⵠΔΔⲆΔⵠ)
           ha();
         }, function () {
           z.waiting = v;
@@ -48721,6 +48723,7 @@
             }(a, 22898, 64010, 26473);
           }(d));
           Ww.ΔᐃⵠΔⲆⲆⵠ = c + e;
+          console.log(Ww.ΔᐃⵠΔⲆⲆⵠ)
           ha();
         }, function () {
           z.waiting = fl;
