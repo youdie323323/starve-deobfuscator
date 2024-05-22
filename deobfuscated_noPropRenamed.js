@@ -43880,7 +43880,7 @@
       b(c, d, e, f, g, i, a, j, h);
     }
   }
-  zv.log = zv.info = zv.error = zv.warn = zv.debug = zv.ᐃⵠᐃᐃᐃΔᐃⵠⵠ = zv.trace = zv.time = zv.timeEnd = function () {};
+  zv.info = zv.error = zv.warn = zv.debug = zv.ᐃⵠᐃᐃᐃΔᐃⵠⵠ = zv.trace = zv.time = zv.timeEnd = function () {};
   var Jv = Dh;
   var Lv = er;
   var Mv = 2;
