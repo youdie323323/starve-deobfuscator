@@ -49388,22 +49388,20 @@
         this.ΔΔᐃⵠⵠΔⲆ -= Cf;
       } else {
         var a = uf.ΔᐃᐃⲆⵠ[Sw.ᐃᐃⲆΔ];
-        if (!Spectator) {
-          if (a) {
-            this.ΔⵠΔΔⵠ = ou;
-            var b = Math.max(Math.min(Ko - a.x, -2), 2 - uf.w + Oo);
-            var c = Math.max(Math.min(eq - a.y, -Pn), -uf.ᐃᐃⲆ + kg + cq);
-            this.ⲆΔⵠⵠΔᐃᐃ({
-              x: b,
-              y: c
-            });
-          } else {
-            this.ΔⵠΔΔⵠ += Cf;
-            if (this.ΔⵠΔΔⵠ > 3) {
-              this.ΔⵠΔΔⵠ = 0;
-              if (!Sw.reconnect.enabled) {
-                ΔⵠⲆⲆ.ΔⵠⲆΔⲆᐃΔᐃᐃ();
-              }
+        if (a && !Spectator) {
+          this.ΔⵠΔΔⵠ = ou;
+          var b = Math.max(Math.min(Ko - a.x, -2), 2 - uf.w + Oo);
+          var c = Math.max(Math.min(eq - a.y, -Pn), -uf.ᐃᐃⲆ + kg + cq);
+          this.ⲆΔⵠⵠΔᐃᐃ({
+            x: b,
+            y: c
+          });
+        } else {
+          this.ΔⵠΔΔⵠ += Cf;
+          if (this.ΔⵠΔΔⵠ > 3) {
+            this.ΔⵠΔΔⵠ = 0;
+            if (!Sw.reconnect.enabled) {
+              ΔⵠⲆⲆ.ΔⵠⲆΔⲆᐃΔᐃᐃ();
             }
           }
         }
