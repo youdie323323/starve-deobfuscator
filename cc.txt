@@ -58785,8 +58785,10 @@
       ᐃᐃΔⲆ.ᐃΔΔⵠ.ⵠⲆⵠΔⲆ(b[$q], b[ab]);
     };
     this.ΔⲆⲆⵠΔᐃᐃⲆΔ = function (a) {
-      var b = new Uint16Array(a);
-      Sw.ᐃΔΔⵠ.ⵠⲆⵠΔⲆ(b[1], b[2]);
+      if (!Spectator) {
+        var b = new Uint16Array(a);
+        Sw.ᐃΔΔⵠ.ⵠⲆⵠΔⲆ(b[1], b[2]);
+      }
     };
     this.ᐃΔᐃΔᐃⲆⲆΔΔ = function (b, c) {
       var d = new Uint16Array(c);
@@ -61037,10 +61039,10 @@
     //};
 
     if (Spectator) {
-        if (mf.ᐃᐃᐃᐃⲆⵠⵠ()) Sw.ᐃΔΔⵠ.y -= 50;
-        if (mf.ⵠⵠⲆΔⲆⲆⲆ()) Sw.ᐃΔΔⵠ.y += 50;
-        if (mf.ΔᐃⵠⲆΔΔⲆ()) Sw.ᐃΔΔⵠ.x -= 50;
-        if (mf.ᐃΔΔᐃΔᐃΔ()) Sw.ᐃΔΔⵠ.x += 50;
+      if (mf.ᐃᐃᐃᐃⲆⵠⵠ()) Sw.ᐃΔΔⵠ.y -= 50;
+      if (mf.ⵠⵠⲆΔⲆⲆⲆ()) Sw.ᐃΔΔⵠ.y += 50;
+      if (mf.ΔᐃⵠⲆΔΔⲆ()) Sw.ᐃΔΔⵠ.x -= 50;
+      if (mf.ᐃΔΔᐃΔᐃΔ()) Sw.ᐃΔΔⵠ.x += 50;
     }
   })(0);
   var yf = Bs;
