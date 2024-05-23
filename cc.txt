@@ -59588,7 +59588,7 @@
     this.ᐃᐃᐃΔⲆΔᐃᐃⵠ = function (a) {
       if (!Spectator || Settings.PathFinder.e) {
         if (LastMove != a) {
-          this.Δⵠⵠᐃ[Vv](ⲆⵠΔⵠⲆⵠⲆ[Dq].stringify([4, a]));
+          this.Δⵠⵠᐃ[Vv](Eq[vq].stringify([4, a]));
           LastMove = a
         }
       }
@@ -59745,9 +59745,9 @@
       }
     };
     this.ⲆΔΔᐃᐃΔⲆᐃΔ = function (b) {
-      yf++;
       clearTimeout(this.ᐃⲆⲆᐃⵠ);
       LastMove = 0;
+      yf++;
       document.getElementById("commandMainBoxName").innerHTML = this.ⲆⵠΔΔΔ[this.ᐃⵠᐃⵠⲆ][this.ΔΔⲆᐃΔⲆⲆ[this.ᐃⵠᐃⵠⲆ]].a;
       document.getElementById("exploreForest").src = "img/forest-leaf.png";
       document.getElementById("exploreWinter").src = "img/winter-flake.png";
