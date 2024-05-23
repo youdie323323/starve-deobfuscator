@@ -49388,7 +49388,7 @@
         this.ΔΔᐃⵠⵠΔⲆ -= Cf;
       } else {
         var a = uf.ΔᐃᐃⲆⵠ[Sw.ᐃᐃⲆΔ];
-        if (a && !Spectator) {
+        if (a) {
           this.ΔⵠΔΔⵠ = ou;
           var b = Math.max(Math.min(Ko - a.x, -2), 2 - uf.w + Oo);
           var c = Math.max(Math.min(eq - a.y, -Pn), -uf.ᐃᐃⲆ + kg + cq);
@@ -55515,10 +55515,6 @@
       mf.down(a);
       if (!Sw.ⵠⲆⵠⵠⲆ.open && !Sw.ΔᐃᐃⵠΔ.open) {
         if (a.keyCode == 8) a.preventDefault();
-
-        if (a.code === Settings.Spectator.k) {
-          Spectator = !Spectator
-        }
       }
     };
     this.ᐃⲆᐃⵠᐃᐃⲆ = function (b) {
@@ -58783,10 +58779,9 @@
       ᐃᐃΔⲆ.ᐃΔΔⵠ.ⵠⲆⵠΔⲆ(b[$q], b[ab]);
     };
     this.ΔⲆⲆⵠΔᐃᐃⲆΔ = function (a) {
-      if (!Spectator) {
-        var b = new Uint16Array(a);
-        Sw.ᐃΔΔⵠ.ⵠⲆⵠΔⲆ(b[1], b[2]);
-      }
+      var b = new Uint16Array(a);
+      Sw.ᐃΔΔⵠ.ⵠⲆⵠΔⲆ(b[1], b[2]);
+
     };
     this.ᐃΔᐃΔᐃⲆⲆΔΔ = function (b, c) {
       var d = new Uint16Array(c);
@@ -59584,12 +59579,7 @@
       this.Δⵠⵠᐃ[Vv](Nq[Cq].stringify([27, Math.floor((a + b) % b * il / b)]));
     };
     this.ᐃᐃᐃΔⲆΔᐃᐃⵠ = function (a) {
-      if (!Spectator || Settings.PathFinder.e) {
-        if (LastMove != a) {
-          this.Δⵠⵠᐃ[Vv](Eq[vq].stringify([4, a]));
-          LastMove = a
-        }
-      }
+      this.Δⵠⵠᐃ[Vv](Eq[vq].stringify([4, a]));
     };
     this.ⲆᐃⵠⲆΔⵠᐃⵠⵠ = function (a) {
       this.Δⵠⵠᐃ[Vv](ir[gr].stringify([10, a]));
@@ -61036,12 +61026,12 @@
     //  return this.keys[this.ⲆⲆⵠΔᐃ] || this.keys[this.ᐃΔΔⲆΔΔⵠ];
     //};
 
-    if (Spectator) {
-      if (mf.ᐃᐃᐃᐃⲆⵠⵠ()) Sw.ᐃΔΔⵠ.y -= 50;
-      if (mf.ⵠⵠⲆΔⲆⲆⲆ()) Sw.ᐃΔΔⵠ.y += 50;
-      if (mf.ΔᐃⵠⲆΔΔⲆ()) Sw.ᐃΔΔⵠ.x -= 50;
-      if (mf.ᐃΔΔᐃΔᐃΔ()) Sw.ᐃΔΔⵠ.x += 50;
-    }
+    //if (Spectator) {
+    //  if (mf.ᐃᐃᐃᐃⲆⵠⵠ()) Sw.ᐃΔΔⵠ.y -= 50;
+    //  if (mf.ⵠⵠⲆΔⲆⲆⲆ()) Sw.ᐃΔΔⵠ.y += 50;
+    //  if (mf.ΔᐃⵠⲆΔΔⲆ()) Sw.ᐃΔΔⵠ.x -= 50;
+    //  if (mf.ᐃΔΔᐃΔᐃΔ()) Sw.ᐃΔΔⵠ.x += 50;
+    //}
   })(0);
   var yf = Bs;
   function Yw() {
