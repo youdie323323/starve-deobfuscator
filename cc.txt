@@ -58785,10 +58785,8 @@
       ᐃᐃΔⲆ.ᐃΔΔⵠ.ⵠⲆⵠΔⲆ(b[$q], b[ab]);
     };
     this.ΔⲆⲆⵠΔᐃᐃⲆΔ = function (a) {
-      if (!Spectator) {
-        var b = new Uint16Array(a);
-        Sw.ᐃΔΔⵠ.ⵠⲆⵠΔⲆ(b[1], b[2]);
-      }
+      var b = new Uint16Array(a);
+      Sw.ᐃΔΔⵠ.ⵠⲆⵠΔⲆ(b[1], b[2]);
     };
     this.ᐃΔᐃΔᐃⲆⲆΔΔ = function (b, c) {
       var d = new Uint16Array(c);
@@ -59586,13 +59584,10 @@
       this.Δⵠⵠᐃ[Vv](Nq[Cq].stringify([27, Math.floor((a + b) % b * il / b)]));
     };
     this.ᐃᐃᐃΔⲆΔᐃᐃⵠ = function (a) {
-      if (!Spectator || Settings.PathFinder.e) {
-        if (LastMove != a) {
-          this.Δⵠⵠᐃ[Vv](ⲆⵠΔⵠⲆⵠⲆ[Dq].stringify([4, a]));
-          LastMove = a
-        }
+      if (LastMove != a) {
+        this.Δⵠⵠᐃ[Vv](ⲆⵠΔⵠⲆⵠⲆ[Dq].stringify([4, a]));
+        LastMove = a
       }
-
     };
     this.ⲆᐃⵠⲆΔⵠᐃⵠⵠ = function (a) {
       this.Δⵠⵠᐃ[Vv](ir[gr].stringify([10, a]));
