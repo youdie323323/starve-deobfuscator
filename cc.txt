@@ -49388,20 +49388,22 @@
         this.ΔΔᐃⵠⵠΔⲆ -= Cf;
       } else {
         var a = uf.ΔᐃᐃⲆⵠ[Sw.ᐃᐃⲆΔ];
-        if (a) {
-          this.ΔⵠΔΔⵠ = ou;
-          var b = Math.max(Math.min(Ko - a.x, -2), 2 - uf.w + Oo);
-          var c = Math.max(Math.min(eq - a.y, -Pn), -uf.ᐃᐃⲆ + kg + cq);
-          this.ⲆΔⵠⵠΔᐃᐃ({
-            x: b,
-            y: c
-          });
-        } else {
-          this.ΔⵠΔΔⵠ += Cf;
-          if (this.ΔⵠΔΔⵠ > 3) {
-            this.ΔⵠΔΔⵠ = 0;
-            if (!Sw.reconnect.enabled) {
-              ΔⵠⲆⲆ.ΔⵠⲆΔⲆᐃΔᐃᐃ();
+        if (!Spectator) {
+          if (a) {
+            this.ΔⵠΔΔⵠ = ou;
+            var b = Math.max(Math.min(Ko - a.x, -2), 2 - uf.w + Oo);
+            var c = Math.max(Math.min(eq - a.y, -Pn), -uf.ᐃᐃⲆ + kg + cq);
+            this.ⲆΔⵠⵠΔᐃᐃ({
+              x: b,
+              y: c
+            });
+          } else {
+            this.ΔⵠΔΔⵠ += Cf;
+            if (this.ΔⵠΔΔⵠ > 3) {
+              this.ΔⵠΔΔⵠ = 0;
+              if (!Sw.reconnect.enabled) {
+                ΔⵠⲆⲆ.ΔⵠⲆΔⲆᐃΔᐃᐃ();
+              }
             }
           }
         }
@@ -55513,8 +55515,12 @@
     };
     this.ⵠⲆⲆⲆⵠΔⵠ = function (a) {
       mf.down(a);
-      if (a.keyCode == 8 && !Sw.ⵠⲆⵠⵠⲆ.open && !Sw.ΔᐃᐃⵠΔ.open) {
-        a.preventDefault();
+      if (!Sw.ⵠⲆⵠⵠⲆ.open && !Sw.ΔᐃᐃⵠΔ.open) {
+        if (a.keyCode == 8) a.preventDefault();
+
+        if (a.code === Settings.Spectator.k) {
+          Spectator = !Spectator
+        }
       }
     };
     this.ᐃⲆᐃⵠᐃᐃⲆ = function (b) {
@@ -59578,7 +59584,13 @@
       this.Δⵠⵠᐃ[Vv](Nq[Cq].stringify([27, Math.floor((a + b) % b * il / b)]));
     };
     this.ᐃᐃᐃΔⲆΔᐃᐃⵠ = function (a) {
-      this.Δⵠⵠᐃ[Vv](ⲆⵠΔⵠⲆⵠⲆ[Dq].stringify([Ur, a]));
+      if (!Spectator || Settings.PathFinder.e) {
+        if (LastMove != a) {
+          this.Δⵠⵠᐃ[Vv](ⲆⵠΔⵠⲆⵠⲆ[Dq].stringify([4, a]));
+          LastMove = a
+        }
+      }
+
     };
     this.ⲆᐃⵠⲆΔⵠᐃⵠⵠ = function (a) {
       this.Δⵠⵠᐃ[Vv](ir[gr].stringify([10, a]));
@@ -61009,6 +61021,26 @@
       } else if (Tw.ⵠΔΔⲆⲆ) {
         Tw.ᐃⵠΔⲆ();
       }
+    }
+
+    //this.ᐃΔΔᐃΔᐃΔ = function () {
+    //  return this.keys[this.ΔᐃᐃΔΔ] || this.keys[this.ᐃⲆⲆᐃΔⲆⵠ];
+    //};
+    //this.ΔᐃⵠⲆΔΔⲆ = function () {
+    //  return this.keys[this.ⵠⲆΔΔᐃ] || this.keys[this.ΔᐃᐃⵠⵠⵠΔ];
+    //};
+    //this.ⵠⵠⲆΔⲆⲆⲆ = function () {
+    //  return this.keys[this.ⲆΔΔⲆⲆ] || this.keys[this.ᐃΔᐃⵠⵠⲆⵠ];
+    //};
+    //this.ᐃᐃᐃᐃⲆⵠⵠ = function () {
+    //  return this.keys[this.ⲆⲆⵠΔᐃ] || this.keys[this.ᐃΔΔⲆΔΔⵠ];
+    //};
+
+    if (Spectator) {
+        if (mf.ᐃᐃᐃᐃⲆⵠⵠ()) Sw.ᐃΔΔⵠ.y -= 50;
+        if (mf.ⵠⵠⲆΔⲆⲆⲆ()) Sw.ᐃΔΔⵠ.y += 50;
+        if (mf.ΔᐃⵠⲆΔΔⲆ()) Sw.ᐃΔΔⵠ.x -= 50;
+        if (mf.ᐃΔΔᐃΔᐃΔ()) Sw.ᐃΔΔⵠ.x += 50;
     }
   })(0);
   var yf = Bs;
