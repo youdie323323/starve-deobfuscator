@@ -1821,7 +1821,7 @@
     ΔⵠΔⲆᐃΔⵠ: ["#664516", "#13474C"],
     ᐃⲆᐃⵠⵠΔⲆ: ["#FCEFBB", "#0F4D48"],
     ⵠⵠⵠⲆⲆΔΔ: ["#C1AA7E", "#0F423D"],
-    ᐃⲆⵠⲆⵠⲆⵠ: ["#594837", Ⲇ[sj]],
+    ᐃⲆⵠⲆⵠⲆⵠ: ["#594837", "#163A3A"],
     ᐃⲆⵠⲆᐃⲆΔ: ["#A5D6D6", "#539CA0"],
     ᐃⵠΔⲆⲆ: ["#0B6A84", "#09373F"],
     ⵠᐃⲆΔⲆᐃᐃ: ["#2A8B9B", "#0F464C"],
@@ -7109,7 +7109,7 @@
     Ft[_r.ⵠΔⲆⵠᐃ] = ["Amethyst Door Spike", "Is your house a locked safe?", "Damage: 30", "On-Hit Damage: 3", "Durability: 1600"];
     Ft[_r.ⲆᐃΔⵠᐃ] = ["Carrot", "Eat it or sell it in exchange for Tomato Seed or Diamond", "Food : 20"];
     Ft[_r.ⲆᐃΔΔⵠ] = ["Tomato", "Eat it or sell it in exchange for Thornbush Seed or Amethyst", "Food : 16"];
-    Ft[_r.ⲆⵠΔᐃᐃ] = ["Carrot Seed", "Grows into Carrot", "Birth: 4min", "Growth: 30s", "Need water: 1min 40s", Ⲇ[Aq], "Lifetime: 8 days"];
+    Ft[_r.ⲆⵠΔᐃᐃ] = ["Carrot Seed", "Grows into Carrot", "Birth: 4min", "Growth: 30s", "Need water: 1min 40s", "Durability: 700", "Lifetime: 8 days"];
     Ft[_r.ᐃⵠΔΔΔ] = ["Tomato Seed", "Grows into Tomato", "Birth: 4min", "Growth: 30s", "Need water: 1min 40s", "Durability: 700", "Lifetime: 8 days"];
     Ft[_r.ⲆⵠⲆᐃΔ] = ["Pitchfork", "Perfect for gathering"];
     Ft[_r.ᐃΔΔᐃΔ] = ["Golden Pitchfork", "Essential for a real farmer."];
@@ -7165,7 +7165,7 @@
     Ft[ΔΔᐃ.ⵠΔΔᐃᐃⲆⲆ] = "Score";
     Ft[ΔΔᐃ.ⲆⵠⲆΔⲆⲆᐃ] = "Kill";
     Ft[ΔΔᐃ.ⵠⲆΔⵠΔⵠⲆ] = "Days survived";
-    Ft[ΔΔᐃ.ⵠⲆΔᐃⵠΔⲆ] = Ⲇ[rg];
+    Ft[ΔΔᐃ.ⵠⲆΔᐃⵠΔⲆ] = "Building method: Free. Press G to change";
     Ft[ΔΔᐃ.ⵠⲆᐃᐃᐃΔⵠ] = "Building method: Grid. Press G to change";
     Ft[_r.ⵠⲆⵠᐃᐃ] = ["Crab Claw", "Crab claws can also be eaten", "Food: 10"];
     Ft[_r.Ⲇᐃᐃᐃᐃ] = ["Crab Spear", "Allow you to calm crabs, and heal them", "Gives a +10 damages bonus when holding it with", "a Crab Helmet on a Crab King", "Damage: 14", "Building Damage: 4"];
@@ -7209,11 +7209,11 @@
     Ft[_r.ⵠᐃΔⲆⲆ] = ["Garland", "Perfect decoration for roofs"];
     Ft[_r.ⵠᐃΔⲆᐃ] = ["Berries Seed", "Grows into Berry", "Birth: 2min", "Growth: 55s", "Need water: 3min 20s", "Durability: 700", "Lifetime: 8 days"];
     Ft[_r.ⵠᐃⲆⲆⲆ] = ["Berry", "Berry tasty!", "Food: 10"];
-    Ft[_r.ⲆΔᐃΔΔ] = ["Wheat Seed", "Grows into Wheat", "Birth: 2min", "Growth: 16s", "Need water: 2min", Ⲇ[$k], "Lifetime: 8 days"];
+    Ft[_r.ⲆΔᐃΔΔ] = ["Wheat Seed", "Grows into Wheat", "Birth: 2min", "Growth: 16s", "Need water: 2min", "Durability: 700", "Lifetime: 8 days"];
     Ft[_r.ⲆΔΔᐃⵠ] = ["Wild Wheat", "Turns into Flour when placed in Windmill"];
-    Ft[_r.ᐃⵠᐃᐃⵠ] = ["Pumpkin Seed", "Grows into pumpkin", "Birth: 2min 40s", "Growth: 2min", "Need water: 2min", Ⲇ[wk], "Lifetime: 8 days"];
+    Ft[_r.ᐃⵠᐃᐃⵠ] = ["Pumpkin Seed", "Grows into pumpkin", "Birth: 2min 40s", "Growth: 2min", "Need water: 2min", "Durability: 700", "Lifetime: 8 days"];
     Ft[_r.ⵠᐃⵠΔⵠ] = ["Pumpkin", "It reminds me of Halloween", "Food: 30"];
-    Ft[_r.ⲆⲆΔⲆⵠ] = ["Garlic Seed", "Very dangerous for vampires", "Damage: 20", "Birth: 4min", "Growth: 1min 10s", "Need water: 1min 40s", Ⲇ[Lh], "Lifetime: 8 days"];
+    Ft[_r.ⲆⲆΔⲆⵠ] = ["Garlic Seed", "Very dangerous for vampires", "Damage: 20", "Birth: 4min", "Growth: 1min 10s", "Need water: 1min 40s", "Durability: 700", "Lifetime: 8 days"];
     Ft[_r.ⲆᐃΔᐃΔ] = ["Garlic", "Reduces cold", "Food: 14", "Effect: 1"];
     Ft[_r.ᐃⲆⲆᐃΔ] = ["Thorn bush Seed", "Can damage your enemies", "Damage: 20", "Birth: 4min", "Growth: 15s", "Need water: 3min", "Durability: 1000", "Lifetime: 8 days"];
     Ft[_r.ᐃⲆᐃᐃΔ] = ["Thorn bush", "It stings!"];
@@ -7397,11 +7397,11 @@
     Ft[ΔΔᐃ.ⵠΔΔᐃᐃⲆⲆ] = "Score";
     Ft[ΔΔᐃ.ⲆⵠⲆΔⲆⲆᐃ] = "Kill";
     Ft[ΔΔᐃ.ⵠⲆΔⵠΔⵠⲆ] = "Days survived";
-    Ft[ΔΔᐃ.ⵠⲆΔᐃⵠΔⲆ] = Ⲇ[mk];
+    Ft[ΔΔᐃ.ⵠⲆΔᐃⵠΔⲆ] = "Building method: Free. Press G to change";
     Ft[ΔΔᐃ.ⵠⲆᐃᐃᐃΔⵠ] = "Building method: Grid. Press G to change";
     Ft[_r.ⵠⲆⵠᐃᐃ] = ["Crab Claw", "Crab claws can also be eaten", "Food: 10"];
     Ft[_r.Ⲇᐃᐃᐃᐃ] = ["Crab Spear", "Allow you to calm crabs, and heal them", "Damage: 14", "Building Damage: 4"];
-    Ft[_r.ⲆⲆΔΔⵠ] = ["Crab Helmet", "You are the king of crabs!", "Crabs follow you", Ⲇ[so], "Players Defense: 4", "Animals Defense: 13"];
+    Ft[_r.ⲆⲆΔΔⵠ] = ["Crab Helmet", "You are the king of crabs!", "Crabs follow you", "They can't hit you and you can't hit them", "Players Defense: 4", "Animals Defense: 13"];
     Ft[_r.ΔⲆⵠΔΔ] = ["Bed", "Relax in this confortable bed", "You are less cold, less thirsty, and less hungry", "You will be cured faster", "Durability: 400"];
     document.getElementById("typequest").innerHTML = "Chrono Quests";
     document.getElementById("timeremainingquest").innerHTML = "Time Remaining";
@@ -7409,12 +7409,12 @@
     document.getElementById("claim_rewards").innerHTML = " Claim rewards";
     document.getElementById("rewardquest").innerHTML = " Reward";
     document.getElementById("killdragon_1").innerHTML = " Collect 1 dragon heart";
-    document.getElementById("amethyst_2").innerHTML = Ⲇ[us];
+    document.getElementById("amethyst_2").innerHTML = " Gather 1 amethyst";
     document.getElementById("survive20min_3").innerHTML = "Survive without losing life";
     document.getElementById("treasure_chest_4").innerHTML = " Open 5 treasure chests";
     document.getElementById("dont_hit_5").innerHTML = " Be peaceful";
     document.getElementById("bread_6").innerHTML = " Collect 100 bread in deep winter";
-    document.getElementById(Ⲇ[al]).innerHTML = " After 1 day, survive in winter";
+    document.getElementById("winter_7").innerHTML = " After 1 day, survive in winter";
     for (var a = Kh; a < 7; a++) {
       document.getElementById("claim_reward_" + a).innerHTML = "CLAIM REWARD!";
     }
@@ -7477,7 +7477,7 @@
     Ft[_r.ⲆⵠⵠⲆⲆ] = ["Каменная Кирка", "Может добывать дерево, камень и золото", "Урон: 2"];
     Ft[_r.ⵠᐃⲆΔΔ] = ["Золотая Кирка", "Также может добывать алмазы", "Урон: 3", "Урон по строениям: 1"];
     Ft[_r.ᐃⲆⵠΔⲆ] = ["Алмазная Кирка", "Можно добывать всё", "Урон: 4", "Урон по строениям: 1"];
-    Ft[_r.ΔⲆⲆⵠⲆ] = ["Аметистовая Кирка", "Можно добывать всё, ещё и выглядит красиво!", "Урон: 5", Ⲇ[nq]];
+    Ft[_r.ΔⲆⲆⵠⲆ] = ["Аметистовая Кирка", "Можно добывать всё, ещё и выглядит красиво!", "Урон: 5", "Урон по строениям: 1"];
     Ft[_r.ⲆᐃΔⲆΔ] = ["Каменный молот", "Используется для разрушения зданий", "Плохо разрушает алмазные и аметистовые здания", "Урон: 2", "Урон по строениям: 20"];
     Ft[_r.ⲆⲆⵠⲆⲆ] = ["Золотой Молот", "Используется для разрушения зданий", "Плохо разрушает аметистовые здания", "Урон: 3", "Урон по строениям: 30"];
     Ft[_r.ⵠΔΔΔⵠ] = ["Алмазный Молот", "Используется для разрушения зданий", "Урон: 4", "Урон по строениям: 40"];
@@ -7489,7 +7489,7 @@
     Ft[_r.ᐃᐃᐃᐃⲆ] = ["Алмазное Копьё", "Вы готовы убивать дракона.", "Урон: 17", "Урон по строениям: 5"];
     Ft[_r.ᐃΔⵠⲆᐃ] = ["Аметистовое Копьё", "Драконы больше не пугают вас", "Урон: 18", "Урон по строениям: 6"];
     Ft[_r.ᐃΔΔΔΔ] = ["Каменная Лопата", "Копайте землю, чтобы получить грязь, лед и песок", "Так же вы можете получить ресурсы", "Урон: 2"];
-    Ft[_r.ⲆΔΔⵠⵠ] = ["Золотая Лопата", "Копайте землю, чтобы получить грязь, лед и песок", "Так же вы можете получить ресурсы", "Урон: 3", Ⲇ[Ks]];
+    Ft[_r.ⲆΔΔⵠⵠ] = ["Золотая Лопата", "Копайте землю, чтобы получить грязь, лед и песок", "Так же вы можете получить ресурсы", "Урон: 3", "Урон по строениям: 1"];
     Ft[_r.ⵠᐃⵠᐃΔ] = ["Алмазная Лопата", "Копайте землю, чтобы получить грязь, лед и песок", "Так же вы можете получить ресурсы", "Урон: 4", "Урон по строениям: 1"];
     Ft[_r.ⵠᐃⲆⲆⵠ] = ["Аметистовая Лопата", "Копайте землю, чтобы получить грязь, лед и песок", "Так же вы можете получить ресурсы", "Урон: 5", "Урон по стреониям: 1"];
     Ft[_r.ᐃᐃⲆⵠⵠ] = ["Деревянный Шлем", "Лучше чем ничего", "Защита от игроков: 1", "Защита от животных: 4"];
@@ -7551,7 +7551,7 @@
     Ft[_r.ⵠΔᐃΔΔ] = ["Алмазная Дверь", "Для роскошного дома", "Прочность: 2500"];
     Ft[_r.Δⵠᐃⵠᐃ] = ["Аметистовая Дверь", "Ваш дом в безопасности?", "Прочность: 3000"];
     Ft[_r.ⲆᐃΔᐃⵠ] = ["Печь", "Согревает", "Тратит дерево каждые 5 секунд", "Прочность: 1000"];
-    Ft[_r.ⵠΔⲆⲆΔ] = ["Мельница", "Может сделать муку из пшеницы", "Требует 5 секунд для получения муки", "Даёт очки при работе", Ⲇ[dh]];
+    Ft[_r.ⵠΔⲆⲆΔ] = ["Мельница", "Может сделать муку из пшеницы", "Требует 5 секунд для получения муки", "Даёт очки при работе", "Прочность: 2000"];
     Ft[_r.Δᐃᐃᐃᐃ] = ["Хлебная Печь", "Позволяет готовить хлеб из муки", "Требует 10 секунд для получения хлеба", "Даёт очки при работе", "Прочность: 2000"];
     Ft[_r.ⲆⲆⵠⵠᐃ] = ["Камень Воскрешения", "Это магия", "Воскрешает вас, если вы призрак", "Вы потеряете своё оружие", "Прочность: 200"];
     Ft[ΔΔᐃ.ⵠⵠΔⵠΔⲆᐃ] = "Вы не можете зайти на этот сервер";
@@ -7663,7 +7663,7 @@
     document.getElementById("treasure_chest_4").innerHTML = " Open 5 treasure chests";
     document.getElementById("dont_hit_5").innerHTML = " Be peaceful";
     document.getElementById("bread_6").innerHTML = " Collect 100 bread in deep winter";
-    document.getElementById(Ⲇ[to]).innerHTML = " After 1 day, survive in winter";
+    document.getElementById("winter_7").innerHTML = " After 1 day, survive in winter";
     for (var a = 0; Js > a; a++) {
       document.getElementById("claim_reward_" + a).innerHTML = "CLAIM REWARD!";
     }
@@ -7887,7 +7887,7 @@
     Ft[ΔΔᐃ.ⵠΔΔᐃᐃⲆⲆ] = "Score";
     Ft[ΔΔᐃ.ⲆⵠⲆΔⲆⲆᐃ] = "Kill";
     Ft[ΔΔᐃ.ⵠⲆΔⵠΔⵠⲆ] = "Days survived";
-    Ft[ΔΔᐃ.ⵠⲆΔᐃⵠΔⲆ] = Ⲇ[za];
+    Ft[ΔΔᐃ.ⵠⲆΔᐃⵠΔⲆ] = "Building method: Free. Press G to change";
     Ft[ΔΔᐃ.ⵠⲆᐃᐃᐃΔⵠ] = "Building method: Grid. Press G to change";
     Ft[_r.ⵠⲆⵠᐃᐃ] = ["Crab Claw", "Crab claws can also be eaten", "Food: 10"];
     Ft[_r.Ⲇᐃᐃᐃᐃ] = ["Crab Spear", "Allow you to calm crabs, and heal them", "Damage: 14", "Building Damage: 4"];
@@ -7904,7 +7904,7 @@
     document.getElementById("treasure_chest_4").innerHTML = " Open 5 treasure chests";
     document.getElementById("dont_hit_5").innerHTML = " Be peaceful";
     document.getElementById("bread_6").innerHTML = " Collect 100 bread in deep winter";
-    document.getElementById(Ⲇ[vi]).innerHTML = " After 1 day, survive in winter";
+    document.getElementById("winter_7").innerHTML = " After 1 day, survive in winter";
     for (var a = mj; wk > a; a++) {
       document.getElementById("claim_reward_" + a).innerHTML = "CLAIM REWARD!";
     }
@@ -8141,12 +8141,12 @@
     document.getElementById("claim_rewards").innerHTML = " Claim rewards";
     document.getElementById("rewardquest").innerHTML = " Reward";
     document.getElementById("killdragon_1").innerHTML = " Collect 1 dragon heart";
-    document.getElementById("amethyst_2").innerHTML = Ⲇ[et];
+    document.getElementById("amethyst_2").innerHTML = " Gather 1 amethyst";
     document.getElementById("survive20min_3").innerHTML = "Survive without losing life";
     document.getElementById("treasure_chest_4").innerHTML = " Open 5 treasure chests";
     document.getElementById("dont_hit_5").innerHTML = " Be peaceful";
     document.getElementById("bread_6").innerHTML = " Collect 100 bread in deep winter";
-    document.getElementById(Ⲇ[al]).innerHTML = " After 1 day, survive in winter";
+    document.getElementById("winter_7").innerHTML = " After 1 day, survive in winter";
     for (var a = Rs; ia > a; a++) {
       document.getElementById("claim_reward_" + a).innerHTML = "CLAIM REWARD!";
     }
@@ -8167,7 +8167,7 @@
     Ft[_r.ΔΔᐃⵠⲆ] = ["roher Fisch", "Ich glaube es lebt noch", "verursacht Lebensmittelvergiftung: 10", "Essen: 18"];
     Ft[_r.ⵠⲆΔⲆᐃ] = ["gebratener Fisch", "Mit einer Zitrone ist es perfekt", "Essen: 35"];
     Ft[_r.ⲆⵠΔⲆΔ] = ["Brot", "Ein vorzügliches französiches Brot", "Es wird als Währung im Markt benutzt", "Essen: 15"];
-    Ft[_r.ⲆⲆΔⵠⵠ] = ["Sandwich", "Schmeckt wie Krabbenburger", Ⲇ[fh]];
+    Ft[_r.ⲆⲆΔⵠⵠ] = ["Sandwich", "Schmeckt wie Krabbenburger", "Essen: 100"];
     Ft[_r.ⲆⵠⲆⲆΔ] = ["Süßigkeiten", "Nur für Kinder!", "Essen: 100"];
     Ft[_r.ᐃΔᐃⵠⵠ] = ["Zuckerstange", "Probier mal, es schmeckt hervorragend", "Essen: 100"];
     Ft[_r.ⵠᐃΔⲆⲆ] = ["Girlande", "perfekter Schmuck für Dächer"];
@@ -8183,7 +8183,7 @@
     Ft[_r.ᐃⲆᐃᐃΔ] = ["Dornenbusch", "Es sticht!"];
     Ft[_r.ΔΔΔⵠⵠ] = ["Topf", "Ernsthaft, benutz es", "Mit diesem GMO dünger deine Pflanzen", "lässt sie schneller wachsen und reduziert den Wasserverbrauch", "Haltbarkeit: 2000"];
     Ft[_r.ᐃΔΔΔⲆ] = ["Eis", "Nützlich um Kuchen und Wasser herzustellen"];
-    Ft[_r.ᐃⵠᐃΔⵠ] = ["Schraubenschlüssel", "Es kann Wände, Türen und Stacheln reparieren", Ⲇ[xl]];
+    Ft[_r.ᐃⵠᐃΔⵠ] = ["Schraubenschlüssel", "Es kann Wände, Türen und Stacheln reparieren", "Schaden: 2"];
     Ft[_r.ⲆⵠⵠΔᐃ] = ["Wolfsfell", "Welpe? Aber wo ist der Welpe?!"];
     Ft[_r.ⵠⵠΔⵠΔ] = ["Hasenfell", "Der Hase war so süß..."];
     Ft[_r.ᐃΔΔⲆΔ] = ["Klares Fell", "Du bist eine Brotfabrik"];
@@ -8206,11 +8206,11 @@
     Ft[_r.ⵠᐃᐃΔⵠ] = ["Drachenschwert", "Keine Gnade!", "Schaden: 30", "Schaden an Gebäuden: 10"];
     Ft[_r.ⲆⲆΔᐃᐃ] = ["Drachenspeer", "Töte sie alle!", "Schaden: 22", "Schaden an Gebäuden: 6"];
     Ft[_r.ⲆΔⲆⲆⵠ] = ["Holzspitzhacke", "Kann nur Holz und Stein abbauen", "Schaden: 1"];
-    Ft[_r.ⲆⵠⵠⲆⲆ] = ["Steinspitzhacke", "Kann Holz, Stein und Gold abbauen", Ⲇ[sr]];
+    Ft[_r.ⲆⵠⵠⲆⲆ] = ["Steinspitzhacke", "Kann Holz, Stein und Gold abbauen", "Schaden: 2"];
     Ft[_r.ⵠᐃⲆΔΔ] = ["Goldspitzhacke", "Kann auch Diamanten abbauen", "Schaden: 3", "Schaden an Gebäuden: 1"];
     Ft[_r.ᐃⲆⵠΔⲆ] = ["Diamantspitzhacke", "Kann alles abbauen", "Schaden: 4", "Schaden an Gebäuden: 1"];
     Ft[_r.ΔⲆⲆⵠⲆ] = ["Amethystspitzhacke", "Kann alles abbauen, sieht außerdem gut aus!", "Schaden: 5", "Schaden an Gebäuden: 1"];
-    Ft[_r.ⲆᐃΔⲆΔ] = ["Steinhammer", "Nützlich um Gebäude zu zerstören", "Funktioniert nicht gut gegen Diamant oder Amethyst", Ⲇ[Vg], "Schaden an Gebäuden: 20"];
+    Ft[_r.ⲆᐃΔⲆΔ] = ["Steinhammer", "Nützlich um Gebäude zu zerstören", "Funktioniert nicht gut gegen Diamant oder Amethyst", "Schaden: 2", "Schaden an Gebäuden: 20"];
     Ft[_r.ⲆⲆⵠⲆⲆ] = ["Goldhammer", "Nützlich um Gebäude zu zerstören", "Funktioniert nicht gut gegen Amethyst", "Schaden: 3", "Schaden an Gebäuden: 30"];
     Ft[_r.ⵠΔΔΔⵠ] = ["Diamanthammer", "Nützlich um Gebäude zu zerstören", "Schaden: 4", "Schaden an Gebäuden: 40"];
     Ft[_r.ᐃⵠⵠⵠᐃ] = ["Amethysthammer", "Nützlich um Gebäude zu zerstören", "Schaden: 5", "Schaden an Gebäuden: 50"];
@@ -8223,7 +8223,7 @@
     Ft[_r.ᐃΔΔΔΔ] = ["Steinschaufel", "Grab herum um Dreck, Eis und Sand zu bekommen", "Du kannst auch Mineralien bekommen", "Schaden: 2"];
     Ft[_r.ⲆΔΔⵠⵠ] = ["Goldschaufel", "Grab herum um Dreck, Eis und Sand zu bekommen", "Du kannst auch Mineralien bekommen", "Schaden: 3", "Schaden an Gebäuden: 1"];
     Ft[_r.ⵠᐃⵠᐃΔ] = ["Diamantschaufel", "Grab herum um Dreck, Eis und Sand zu bekommen", "Du kannst auch Mineralien bekommen", "Schaden: 4", "Schaden an Gebäuden: 1"];
-    Ft[_r.ⵠᐃⲆⲆⵠ] = ["Amethystschaufel", "Grab herum um Dreck, Eis und Sand zu bekommen", "Du kannst auch Mineralien bekommen", "Schaden: 5", Ⲇ[$h]];
+    Ft[_r.ⵠᐃⲆⲆⵠ] = ["Amethystschaufel", "Grab herum um Dreck, Eis und Sand zu bekommen", "Du kannst auch Mineralien bekommen", "Schaden: 5", "Schaden an Gebäuden: 1"];
     Ft[_r.ᐃᐃⲆⵠⵠ] = ["Holzhelm", "Besser als nichts", "Verteidigung gegen Spieler: 1", "Verteidigung gegen Tiere: 4"];
     Ft[_r.Δᐃᐃⵠᐃ] = ["Steinhelm", "Du bist bereit zu kämpfen!", "Verteidigung gegen Spieler: 2", "Verteidigung gegen Tiere: 8"];
     Ft[_r.ΔᐃΔⲆⲆ] = ["Goldhelm", "AKA Der Helm der Unbarmherzigen", "Verteidigung gegen Spieler: 4", "Verteidigung gegen Tiere: 13"];
@@ -8370,7 +8370,7 @@
     document.getElementById("treasure_chest_4").innerHTML = " Open 5 treasure chests";
     document.getElementById("dont_hit_5").innerHTML = " Be peaceful";
     document.getElementById("bread_6").innerHTML = " Collect 100 bread in deep winter";
-    document.getElementById(Ⲇ[Xa]).innerHTML = " After 1 day, survive in winter";
+    document.getElementById("winter_7").innerHTML = " After 1 day, survive in winter";
     for (var a = Hi; ql > a; a++) {
       document.getElementById("claim_reward_" + a).innerHTML = "CLAIM REWARD!";
     }
@@ -8444,7 +8444,7 @@
     Ft[_r.ⵠᐃᐃⵠΔ] = ["Złota włócznia", "Uważaj, kłuje!", "Obrażenia: 15", "Obrażenia do budowli: 5"];
     Ft[_r.ᐃᐃᐃᐃⲆ] = ["Diamentowa włócznia", "Jesteś gotowy, aby zabić smoka", "Obrażenia: 17", "Obrażenia do budowli: 5"];
     Ft[_r.ᐃΔⵠⲆᐃ] = ["Ametystowa włócznia", "Smoki już nie są dla ciebie zagrożeniem", "Obrażenia: 18", "Obrażenia do budowli: 6"];
-    Ft[_r.ᐃΔΔΔΔ] = ["Kamienna łopata", Ⲇ[Kh], "Możesz także zdobyć minerały", "Obrażenia: 2"];
+    Ft[_r.ᐃΔΔΔΔ] = ["Kamienna łopata", "Kop w ziemi aby zdobyć ziemię, lód i piasek", "Możesz także zdobyć minerały", "Obrażenia: 2"];
     Ft[_r.ⲆΔΔⵠⵠ] = ["Złota łopata", "Kop w ziemi aby zdobyć ziemię, lód i piasek", "Możesz także zdobyć minerały", "Obrażenia: 3", "Obrażenia do budowli: 1"];
     Ft[_r.ⵠᐃⵠᐃΔ] = ["Diamentowa łopata", "Kop w ziemi aby zdobyć ziemię, lód i piasek", "Możesz także zdobyć minerały", "Obrażenia: 4", "Obrażenia do budowli: 1"];
     Ft[_r.ⵠᐃⲆⲆⵠ] = ["Ametystowa łopata", "Kop w ziemi aby zdobyć ziemię, lód i piasek", "Możesz także zdobyć minerały", "Obrażenia: 5", "Obrażenia do budowli: 1"];
@@ -8594,7 +8594,7 @@
     document.getElementById("treasure_chest_4").innerHTML = " Ouvre 5 coffres au trésor";
     document.getElementById("dont_hit_5").innerHTML = " Sois pacifique";
     document.getElementById("bread_6").innerHTML = " Cuisine 100 pains en hiver, seul et sans retour en arrière";
-    document.getElementById(Ⲇ[Mg]).innerHTML = " Après 1 jour, survis en hiver";
+    document.getElementById("winter_7").innerHTML = " Après 1 jour, survis en hiver";
     for (var a = 0; a < at; a++) {
       document.getElementById("claim_reward_" + a).innerHTML = "RÉCOMPENSE!";
     }
@@ -12914,7 +12914,7 @@
         ⵠⲆᐃⵠ: Ⲇⵠ.ⵠⵠⲆⵠⵠⲆΔ,
         ⵠⵠΔᐃ: Ⲇⵠ.ⲆΔⲆΔᐃⵠⵠ,
         ΔⲆⲆ: ᐃΔⵠ.ᐃⲆΔⵠ,
-        ᐃΔᐃ: Ⲇ[Vn],
+        ᐃΔᐃ: "Anyone want to play?",
         name: "Mr. Mammoth"
       }, {
         id: 164,
@@ -23415,7 +23415,7 @@
         y: 0,
         a: 1,
         r: Eh,
-        c: ["#0d1b1c", "#b15ecf", "#8c29aa", Ⲇ[Zh], "#af59cd", "#d588f1"]
+        c: ["#0d1b1c", "#b15ecf", "#8c29aa", "#c26de0", "#af59cd", "#d588f1"]
       }], 0.6, ["#3ba578", "#4eb687", "#3da34d"], 0.5);
       ΔΔ[Xr.ⲆⵠᐃⲆⲆⵠⵠ] = ΔΔ[Xr.ΔⵠΔΔΔᐃⲆ];
       ΔΔ[Xr.ΔⲆᐃΔⲆⵠᐃ] = du(1, [{
@@ -24981,7 +24981,7 @@
     ΔΔ[Xr.ΔⲆⲆⵠⲆ][Xr.ΔⲆⵠ] = pr(Pb(fs, Fu(0.75, true, ["#030d14", "#000000", "#030d14", "#111316", "#0a0b0c", "#8359d3", "#764eb5"])));
     ΔΔ[Xr.ⵠΔᐃᐃⵠ] = [];
     ΔΔ[Xr.ⵠΔᐃᐃⵠ][Xr.ⲆᐃΔ] = pr(Pb(3, vu(0.17, true, ["#0d1b1c", "#4a3a22", "#362818", "#c7c7c7", "#909090", "#eceaea", "#bbbbbb", "#d6d1d1"])));
-    ΔΔ[Xr.ⵠΔᐃᐃⵠ][Xr.ΔⲆⵠ] = pr(Pb(I, vu(0.17, vs, ["#0d1b1c", "#0d2e33", Ⲇ[Qk], "#59737d", "#364f59", "#618395", "#4d768c", "#54859f"])));
+    ΔΔ[Xr.ⵠΔᐃᐃⵠ][Xr.ΔⲆⵠ] = pr(Pb(I, vu(0.17, vs, ["#0d1b1c", "#0d2e33", "#0b2326", "#59737d", "#364f59", "#618395", "#4d768c", "#54859f"])));
     ΔΔ[Xr.ᐃΔᐃⵠⵠ] = [];
     ΔΔ[Xr.ᐃΔᐃⵠⵠ][Xr.ⲆᐃΔ] = pr(Pb(I, Nu(0.32, xk, ["#0d1b1c", "#ffffff", "#5f6061", "#eb2933", "#57b74e", "#42a54d", "#ac222a", "#e6636a"])));
     ΔΔ[Xr.ᐃΔᐃⵠⵠ][Xr.ΔⲆⵠ] = pr(Pb(Ut, Nu(0.42, Gj, ["#0d1b1c", "#485e66", "#1f343f", "#0d2e33", "#0b2326"])));
@@ -25156,13 +25156,13 @@
     ΔΔ[Xr.ΔⵠᐃΔⲆⵠⲆ] = Ⲇⵠ.ΔⵠᐃΔⲆⵠⲆ;
     ΔΔ[Xr.ⵠΔⲆⲆΔ] = [];
     ΔΔ[Xr.ⵠΔⲆⲆΔ][Xr.ⲆᐃΔ] = pr(Xt(1.5, true, ["#0d1b1c", "#596560", "#394841", "#67766F", "#46554D", "#4C3B19", "#674C2A", "#7C5A29", "#596560", "#394841"]));
-    ΔΔ[Xr.ⵠΔⲆⲆΔ][Xr.ΔⲆⵠ] = pr(Xt(1.5, Gq, ["#030d14", "#163A3A", "#214C4B", "#1a4545", "#225755", "#07393D", "#07454a", "#0c484d", Ⲇ[St], "#214C4B"]));
+    ΔΔ[Xr.ⵠΔⲆⲆΔ][Xr.ΔⲆⵠ] = pr(Xt(1.5, Gq, ["#030d14", "#163A3A", "#214C4B", "#1a4545", "#225755", "#07393D", "#07454a", "#0c484d", "#163A3A", "#214C4B"]));
     ΔΔ[Xr.ⵠⲆᐃⵠⲆⲆⲆ] = [];
     ΔΔ[Xr.ⵠⲆᐃⵠⲆⲆⲆ][Xr.ⲆᐃΔ] = pr(Zt(2, true, ["#0d1b1c", "#596560", "#394841", "#67766F", "#46554D", "#4C3B19", "#674C2A", "#7C5A29", "#596560", "#394841"]));
-    ΔΔ[Xr.ⵠⲆᐃⵠⲆⲆⲆ][Xr.ΔⲆⵠ] = pr(Zt(bs * 1, true, ["#030d14", "#163A3A", "#214C4B", "#1a4545", "#225755", "#07393D", "#07454a", "#0c484d", Ⲇ[Cg], "#214C4B"]));
+    ΔΔ[Xr.ⵠⲆᐃⵠⲆⲆⲆ][Xr.ΔⲆⵠ] = pr(Zt(bs * 1, true, ["#030d14", "#163A3A", "#214C4B", "#1a4545", "#225755", "#07393D", "#07454a", "#0c484d", "#163A3A", "#214C4B"]));
     ΔΔ[Xr.ⲆⲆⲆᐃᐃΔᐃ] = [];
     ΔΔ[Xr.ⲆⲆⲆᐃᐃΔᐃ][Xr.ⲆᐃΔ] = pr(au(1.5, true, ["#0d1b1c", "#596560", "#394841", "#67766F", "#46554D", "#4C3B19", "#674C2A", "#7C5A29", "#596560", "#394841"]));
-    ΔΔ[Xr.ⲆⲆⲆᐃᐃΔᐃ][Xr.ΔⲆⵠ] = pr(au(1.5, true, ["#030d14", "#163A3A", "#214C4B", "#1a4545", "#225755", "#07393D", "#07454a", "#0c484d", Ⲇ[nt], "#214C4B"]));
+    ΔΔ[Xr.ⲆⲆⲆᐃᐃΔᐃ][Xr.ΔⲆⵠ] = pr(au(1.5, true, ["#030d14", "#163A3A", "#214C4B", "#1a4545", "#225755", "#07393D", "#07454a", "#0c484d", "#163A3A", "#214C4B"]));
     ΔΔ[Xr.ⲆΔΔᐃⵠ] = [];
     ΔΔ[Xr.ⲆΔΔᐃⵠ][Xr.ⲆᐃΔ] = pr(Yt(2.2, 0, ["#A89F67", "#9E8456"]));
     ΔΔ[Xr.ⲆΔΔᐃⵠ][Xr.ΔⲆⵠ] = pr(Yt(2.2, 0, ["#0B4049", "#08383D"]));
@@ -25274,7 +25274,7 @@
     ΔΔ[Xr.ⵠⲆΔⵠᐃ][Xr.ΔⲆⵠ] = pr($b(1.2, true, ["#030d14", "#0d2e33", "#072322", "#3e706b", "#123d3f", "#4e827c"]));
     ΔΔ[Xr.ⲆⲆⲆⲆⵠ] = [];
     ΔΔ[Xr.ⲆⲆⲆⲆⵠ][Xr.ⲆᐃΔ] = pr(bm(Oq * 1, qn, ["#0d1b1c", "#4c3a15", "#634828", "#564021", "#634828", "#4c3a15"]));
-    ΔΔ[Xr.ⲆⲆⲆⲆⵠ][Xr.ΔⲆⵠ] = pr(bm(1, Gq, ["#030d14", "#0d2e33", "#184747", Ⲇ[Pq], "#0d2e33", "#174444"]));
+    ΔΔ[Xr.ⲆⲆⲆⲆⵠ][Xr.ΔⲆⵠ] = pr(bm(1, Gq, ["#030d14", "#0d2e33", "#184747", "#123b3f", "#0d2e33", "#174444"]));
     ΔΔ[Xr.ⵠᐃⲆᐃⵠ] = [];
     ΔΔ[Xr.ⵠᐃⲆᐃⵠ][Xr.ⲆᐃΔ] = pr(Vc(1, true, ["#0d1b1c", "#5cc5ce", "#89d1d4", "#86d0d1", "#95d5d8", "#e0f2f6", "#b3e0e3"]));
     ΔΔ[Xr.ⵠᐃⲆᐃⵠ][Xr.ΔⲆⵠ] = pr(Vc(1, true, ["#030d14", "#2b9390", "#43b5af", "#43b5af", "#4bbcb4", "#83ddd4", "#59c9c0"]));
@@ -25300,11 +25300,11 @@
     ΔΔ[Xr.ⲆᐃⲆΔΔ][Xr.ⲆᐃΔ] = pr(Gd(0.8, true, ["#0d1b1c", "#6a7570", "#939393", "#6a7570", "#939995", "#9baaa3", "#adbcb5", "#8a938e"]));
     ΔΔ[Xr.ⲆᐃⲆΔΔ][Xr.ΔⲆⵠ] = pr(Gd(0.8, Fg, ["#030d14", "#1f343f", "#485e66", "#163a3a", "#214c4b", "#1f4948", "#295957", "#1f5955"]));
     ΔΔ[Xr.ᐃⲆⵠᐃᐃ] = [];
-    ΔΔ[Xr.ᐃⲆⵠᐃᐃ][Xr.ⲆᐃΔ] = pr(Gd(0.8, true, ["#0d1b1c", "#6a7570", "#939393", "#b15ecf", "#8c29aa", Ⲇ[Hj], "#af59cd", "#d588f1"]));
+    ΔΔ[Xr.ᐃⲆⵠᐃᐃ][Xr.ⲆᐃΔ] = pr(Gd(0.8, true, ["#0d1b1c", "#6a7570", "#939393", "#b15ecf", "#8c29aa", "#c26de0", "#af59cd", "#d588f1"]));
     ΔΔ[Xr.ᐃⲆⵠᐃᐃ][Xr.ΔⲆⵠ] = pr(Gd(0.8, true, ["#030d14", "#1f343f", "#485e66", "#8359d3", "#764eb5", "#8f65de", "#7f55cc", "#9d77e6"]));
     ΔΔ[Xr.ⵠⲆΔᐃⵠⲆⲆ] = [];
     ΔΔ[Xr.ⵠⲆΔᐃⵠⲆⲆ][Xr.ⲆᐃΔ] = pr(Vd(1.5, true, ["#0d1b1c", "#4c3b19", "#574122", "#644928", "#574122", "#735534", "#23a54e", "#1f934a", "#208e48", "#b12c2a", "#9c2625", "#ebd6a4", "#cca73f"]));
-    ΔΔ[Xr.ⵠⲆΔᐃⵠⲆⲆ][Xr.ΔⲆⵠ] = pr(Vd(1.5, true, ["#030d14", "#0d2e33", "#184747", Ⲇ[wl], "#0d2e33", "#174444"]));
+    ΔΔ[Xr.ⵠⲆΔᐃⵠⲆⲆ][Xr.ΔⲆⵠ] = pr(Vd(1.5, true, ["#030d14", "#0d2e33", "#184747", "#123b3f", "#0d2e33", "#174444"]));
     ΔΔ[Xr.ⵠᐃⵠΔⵠΔⲆ] = [];
     ΔΔ[Xr.ⵠᐃⵠΔⵠΔⲆ][Xr.ⲆᐃΔ] = pr(Vd(lb * 1, Ei, ["#133a2b", "#133a2b", "#1a4935", "#1a4935", "#133a2b", "#1a4935"]));
     ΔΔ[Xr.ⵠᐃⵠΔⵠΔⲆ][Xr.ΔⲆⵠ] = pr(Vd(1, Rh, ["#042b30", "#042b30", "#0b342b", "#0b342b", "#042b30", "#0b342b"]));
@@ -25315,7 +25315,7 @@
     ΔΔ[Xr.ⵠΔⲆᐃᐃⲆᐃ][Xr.ⲆᐃΔ] = pr(Bd(js * 1, Rh, ["#133a2b", "#133a2b", "#1a4935", "#1a4935", "#133a2b", "#1a4935"]));
     ΔΔ[Xr.ⵠΔⲆᐃᐃⲆᐃ][Xr.ΔⲆⵠ] = pr(Bd(1, uh, ["#032428", "#032428", "#07393d", "#07393d", "#032428", "#07393d"]));
     ΔΔ[Xr.ⵠᐃⲆᐃⲆⲆᐃ] = [];
-    ΔΔ[Xr.ⵠᐃⲆᐃⲆⲆᐃ][Xr.ⲆᐃΔ] = pr(Bd(1.5, true, ["#0d1b1c", "#b15ecf", "#8c29aa", Ⲇ[Zh], "#af59cd", "#d588f1"]));
+    ΔΔ[Xr.ⵠᐃⲆᐃⲆⲆᐃ][Xr.ⲆᐃΔ] = pr(Bd(1.5, true, ["#0d1b1c", "#b15ecf", "#8c29aa", "#c26de0", "#af59cd", "#d588f1"]));
     ΔΔ[Xr.ⵠᐃⲆᐃⲆⲆᐃ][Xr.ΔⲆⵠ] = pr(Bd(1.5, true, ["#030d14", "#8359d3", "#764eb5", "#8f65de", "#7f55cc", "#9d77e6"]));
     ΔΔ[Xr.ΔⲆⲆᐃΔⵠⲆ] = [];
     ΔΔ[Xr.ΔⲆⲆᐃΔⵠⲆ][Xr.ⲆᐃΔ] = pr(Bd(rg * 1, Ll, ["#133a2b", "#133a2b", "#1a4935", "#1a4935", "#133a2b", "#1a4935"]));
@@ -25606,7 +25606,7 @@
     ΔΔ[Xr.ᐃᐃΔⲆⲆ][Xr.ΔⲆⵠ] = pr(Pb(3, uc(0.7, true, ["#0d1b1c", "#0b3432", "#092b29", "#0e4d49", "#1a6c67", "#07322f"])));
     ΔΔ[Xr.ⵠΔᐃⵠᐃ] = [];
     ΔΔ[Xr.ⵠΔᐃⵠᐃ][Xr.ⲆᐃΔ] = pr(Pb(3, bc(0.65, true, ["#0d1b1c", "#4d2d14", "#432516", "#c3be9a", "#7f6d52", "#7a7575", "#454749", "#8c8787", "#939393", "#5f6061", "#aaa6a6"])));
-    ΔΔ[Xr.ⵠΔᐃⵠᐃ][Xr.ΔⲆⵠ] = pr(Pb(3, bc(0.65, gs, ["#0d1b1c", "#0d2e33", Ⲇ[se], "#1a6c67", "#07322f", "#374950", "#101f26", "#2c3c42", "#485e66", "#1f343f", "#546e78"])));
+    ΔΔ[Xr.ⵠΔᐃⵠᐃ][Xr.ΔⲆⵠ] = pr(Pb(3, bc(0.65, gs, ["#0d1b1c", "#0d2e33", "#0b2326", "#1a6c67", "#07322f", "#374950", "#101f26", "#2c3c42", "#485e66", "#1f343f", "#546e78"])));
     ΔΔ[Xr.ⵠᐃᐃⵠΔ] = [];
     ΔΔ[Xr.ⵠᐃᐃⵠΔ][Xr.ⲆᐃΔ] = pr(Pb(nq, Wc(0.67, true, ["#0d1b1c", "#493e26", "#382e19", "#a69e39", "#9c8828", "#bab143", "#c4bc51", "#b29c32", "#d2ca59"])));
     ΔΔ[Xr.ⵠᐃᐃⵠΔ][Xr.ΔⲆⵠ] = pr(Pb(3, Wc(0.67, xh, ["#030d14", "#263947", "#182935", "#33916d", "#197c62", "#3eab81", "#43aa82", "#29997c", "#52be94"])));
@@ -25618,7 +25618,7 @@
     ΔΔ[Xr.ᐃΔⵠⲆᐃ][Xr.ΔⲆⵠ] = pr(Pb(3, jd(0.67, true, ["#0d1b1c", "#111316", "#0a0b0c", "#6e43bf", "#673fa4", "#784bcc", "#845bc6", "#764eb5", "#966be7"])));
     ΔΔ[Xr.ⲆⲆΔᐃᐃ] = [];
     ΔΔ[Xr.ⲆⲆΔᐃᐃ][Xr.ⲆᐃΔ] = pr(Pb(3, jc(hd * 1, true, ["#0d1b1c", "#1e2b34", "#151c24", "#99d7dd", "#7dcbd1", "#c6e8eb", "#aadee8", "#b7e2e5"])));
-    ΔΔ[Xr.ⲆⲆΔᐃᐃ][Xr.ΔⲆⵠ] = pr(Pb(3, jc(lb * 1, true, ["#0d1b1c", "#1c2026", "#0a0b0c", "#7dc6d9", "#6cbacf", Ⲇ[Vs], "#49b2cf", Ⲇ[ro]])));
+    ΔΔ[Xr.ⲆⲆΔᐃᐃ][Xr.ΔⲆⵠ] = pr(Pb(3, jc(lb * 1, true, ["#0d1b1c", "#1c2026", "#0a0b0c", "#7dc6d9", "#6cbacf", "#87d2e6", "#49b2cf", "#87d2e6"])));
     ΔΔ[Xr.ⲆᐃΔⲆΔ] = [];
     ΔΔ[Xr.ⲆᐃΔⲆΔ][Xr.ⲆᐃΔ] = pr(Pb(3, rc(1, true, ["#0d1b1c", "#4d2d14", "#432516", "#939393", "#5f6061"])));
     ΔΔ[Xr.ⲆᐃΔⲆΔ][Xr.ΔⲆⵠ] = pr(Pb(gl, rc(Xn * 1, ml, ["#030d14", "#263947", "#182935", "#485e66", "#1f343f"])));
@@ -25630,7 +25630,7 @@
     ΔΔ[Xr.ⵠⵠᐃᐃⲆ][Xr.ΔⲆⵠ] = pr(Pb(3, lc(1, true, ["#0d1b1c", "#2a4f4a", "#1e423d", "#1e0302", "#096b3f", "#3db76f", "#118254", "#40c696", "#0c7a50", "#59d8a4", "#249376", "#80d8c7"])));
     ΔΔ[Xr.ⲆⲆⵠⲆⲆ] = [];
     ΔΔ[Xr.ⲆⲆⵠⲆⲆ][Xr.ⲆᐃΔ] = pr(Pb(Wg, rc(1, true, ["#0d1b1c", "#493e26", "#382e19", "#c4bc51", "#b29c32"])));
-    ΔΔ[Xr.ⲆⲆⵠⲆⲆ][Xr.ΔⲆⵠ] = pr(Pb(nq, rc(1, vs, ["#0d1b1c", "#0d2e33", Ⲇ[$o], "#43aa82", "#29997c"])));
+    ΔΔ[Xr.ⲆⲆⵠⲆⲆ][Xr.ΔⲆⵠ] = pr(Pb(nq, rc(1, vs, ["#0d1b1c", "#0d2e33", "#0b2326", "#43aa82", "#29997c"])));
     ΔΔ[Xr.ⵠΔΔΔⵠ] = [];
     ΔΔ[Xr.ⵠΔΔΔⵠ][Xr.ⲆᐃΔ] = pr(Pb(3, rc(Ug * 1, ml, ["#0d1b1c", "#262114", "#211108", "#63c9d6", "#29aaa1"])));
     ΔΔ[Xr.ⵠΔΔΔⵠ][Xr.ΔⲆⵠ] = pr(Pb(hl, rc(rg * 1, na, ["#0d1b1c", "#111316", "#0a0b0c", "#73dde5", "#3dc4c0"])));
@@ -25759,7 +25759,7 @@
     ΔΔ[Xr.ⲆᐃΔᐃⵠⲆⲆ].push(pr(Kc(0.7, ["#0b3719", "#228745", "#1a7034", "#614a1a", "#238845"], Pg)));
     ΔΔ[Xr.ⲆᐃΔᐃⵠⲆⲆ].push(pr(Kc(0.7, ["#092a14", "#186733", "#124a23", "#4c3a15", "#1b6735"], tt)));
     ΔΔ[Xr.ⵠᐃΔΔᐃᐃⵠ] = [];
-    var b = pr(Kc(0.7, [Ⲇ[zj], "#77371f", "#280e09", "#2e2410", "#77371f"], In));
+    var b = pr(Kc(0.7, ["#280e09", "#77371f", "#280e09", "#2e2410", "#77371f"], In));
     ΔΔ[Xr.ⵠᐃΔΔᐃᐃⵠ].push(b);
     ΔΔ[Xr.ⵠᐃΔΔᐃᐃⵠ].push(b);
     ΔΔ[Xr.ⵠᐃΔΔᐃᐃⵠ].push(b);
@@ -25854,7 +25854,7 @@
     ΔΔ[Xr.ⵠⲆⲆⵠⵠ][Xr.ⲆᐃΔ] = pr(rm(0.85, Sh, ["#0d1b1c", "#8c55b7", "#652d8e", "#79359e", "#5eccd1", "#4badad", "#9e6ac6"]));
     ΔΔ[Xr.ⵠⲆⲆⵠⵠ][Xr.ΔⲆⵠ] = pr(rm(0.85, true, ["#0d1b1c", "#4e4e93", "#393977", "#444187", "#2b9390", "#277a74", "#7da8db"]));
     ΔΔ[Xr.ΔᐃᐃᐃⲆⵠᐃ] = [];
-    ΔΔ[Xr.ΔᐃᐃᐃⲆⵠᐃ].push(pr(Kc(0.7, ["#280e09", "#77371f", Ⲇ[Hr], "#2e2410", "#77371f"], 1)));
+    ΔΔ[Xr.ΔᐃᐃᐃⲆⵠᐃ].push(pr(Kc(0.7, ["#280e09", "#77371f", "#280e09", "#2e2410", "#77371f"], 1)));
     ΔΔ[Xr.ΔᐃᐃᐃⲆⵠᐃ].push(pr(Kc(0.7, ["#38130C", "#853D22", "#391402", "#3D3016", "#873E22"], yg)));
     ΔΔ[Xr.ΔᐃᐃᐃⲆⵠᐃ].push(pr(Kc(0.7, ["#1C0A06", "#6B3019", "#1D0A06", "#251D0C", "#6A301A"], Ug)));
     ΔΔ[Xr.ⲆΔⵠⵠᐃ] = [];
@@ -25886,10 +25886,10 @@
     ΔΔ[Xr.ᐃⵠΔᐃΔ][Xr.ΔⲆⵠ] = pr(Pc(0.32, Fg, ["#0d1b1c", "#70c1d6", "#49b2cf", "#87cad9", "#367c93", "#113743", "#0c2c36", "#51a2b8", "#3a8ea4"]));
     ΔΔ[Xr.ⵠᐃᐃΔⵠ] = [];
     ΔΔ[Xr.ⵠᐃᐃΔⵠ][Xr.ⲆᐃΔ] = pr(Pb(3, Yc(0.9, Dh, ["#0d1b1c", "#284c4a", "#193533", "#c8efef", "#7eccbb"])));
-    ΔΔ[Xr.ⵠᐃᐃΔⵠ][Xr.ΔⲆⵠ] = pr(Pb(3, Yc(0.9, true, ["#0d1b1c", "#18332e", "#112320", Ⲇ[Ih], "#49b2cf"])));
+    ΔΔ[Xr.ⵠᐃᐃΔⵠ][Xr.ΔⲆⵠ] = pr(Pb(3, Yc(0.9, true, ["#0d1b1c", "#18332e", "#112320", "#87d2e6", "#49b2cf"])));
     ΔΔ[Xr.ᐃⲆⲆΔΔΔΔ] = [];
     ΔΔ[Xr.ᐃⲆⲆΔΔΔΔ][Xr.ⲆᐃΔ] = pr(Pb(3, Yc(yg * 1, vs, [Hs, cn, undefined, "#c8efef", "#c8efef"])));
-    ΔΔ[Xr.ᐃⲆⲆΔΔΔΔ][Xr.ΔⲆⵠ] = pr(Pb(3, Yc(1, Kj, [j, ut, Hq, Ⲇ[Ik], "#87d2e6"])));
+    ΔΔ[Xr.ᐃⲆⲆΔΔΔΔ][Xr.ΔⲆⵠ] = pr(Pb(3, Yc(1, Kj, [j, ut, Hq, "#87d2e6", "#87d2e6"])));
     ΔΔ[Xr.ⵠᐃⲆᐃⵠᐃΔ] = [];
     ΔΔ[Xr.ⵠᐃⲆᐃⵠᐃΔ].push(pr(Ic(0.3, ph, ["#0d1b1c", "#392C16", "#5E3E1A", "#704821", "#654320", "#eda80d"], Db)));
     ΔΔ[Xr.ⵠᐃⲆᐃⵠᐃΔ].push(pr(Ic(0.3, true, ["#0d1b1c", "#392C16", "#5E3E1A", "#704821", "#654320", "#eda80d"], qu)));
@@ -25908,7 +25908,7 @@
     ΔΔ[Xr.ⵠᐃᐃᐃΔΔᐃ].push(pr(Iu(0.4, ["#0d1b1c", "#392C16", "#5E3E1A", "#d7990c"], 1, Zj)));
     ΔΔ[Xr.ᐃΔΔΔΔ] = [];
     ΔΔ[Xr.ᐃΔΔΔΔ][Xr.ⲆᐃΔ] = pr(Pb(3, om(0.7, Sh, ["#0d1b1c", "#6d5041", "#4f3d35", "#939393", "#5f6061", "#757575"])));
-    ΔΔ[Xr.ᐃΔΔΔΔ][Xr.ΔⲆⵠ] = pr(Pb(3, om(0.7, true, ["#0d1b1c", "#0d2e33", Ⲇ[Qj], "#485e66", "#1f343f", "#274352"])));
+    ΔΔ[Xr.ᐃΔΔΔΔ][Xr.ΔⲆⵠ] = pr(Pb(3, om(0.7, true, ["#0d1b1c", "#0d2e33", "#0b2326", "#485e66", "#1f343f", "#274352"])));
     ΔΔ[Xr.ⲆΔΔⵠⵠ] = [];
     ΔΔ[Xr.ⲆΔΔⵠⵠ][Xr.ⲆᐃΔ] = pr(Pb(3, om(0.7, Sh, ["#0d1b1c", "#493e26", "#382e19", "#c4bc51", "#b29c32", "#ada437"])));
     ΔΔ[Xr.ⲆΔΔⵠⵠ][Xr.ΔⲆⵠ] = pr(Pb(gl, om(0.7, vs, ["#0d1b1c", "#263947", "#182935", "#43aa82", "#29997c", "#32916c"])));
@@ -28055,7 +28055,7 @@
       cb(g, "#dff2f7", "#187484", $n * b);
       h = sd(b * 0.5, true, ["#80500b", "#7c4908"]);
       g.drawImage(h, b * jn, b * 85);
-      h = sd(b * 0.5, true, [Ⲇ[vh], "#7c4908"]);
+      h = sd(b * 0.5, true, ["#80500b", "#7c4908"]);
       g.drawImage(h, b * 50, b * 85);
       h = sd(b * 0.5, un, ["#80500b", "#7c4908"]);
       g.drawImage(h, b * 90, b * 85);
@@ -35879,7 +35879,7 @@
     ΔΔ[Xr.ᐃⲆᐃⲆ][Xr.ⲆᐃΔ][a("010_111_000")] = ΔΔ[Xr.ᐃⲆᐃⲆ][Xr.ⲆᐃΔ][a("010_110_110")];
     ΔΔ[Xr.ᐃⲆᐃⲆ][Xr.ⲆᐃΔ][a("010_111_010")] = ΔΔ[Xr.ᐃⲆᐃⲆ][Xr.ⲆᐃΔ][a("010_110_110")];
     ΔΔ[Xr.ᐃⲆᐃⲆ][Xr.ⲆᐃΔ][a("010_111_011")] = ΔΔ[Xr.ᐃⲆᐃⲆ][Xr.ⲆᐃΔ][a("010_110_110")];
-    ΔΔ[Xr.ᐃⲆᐃⲆ][Xr.ⲆᐃΔ][a(Ⲇ[nl])] = ΔΔ[Xr.ᐃⲆᐃⲆ][Xr.ⲆᐃΔ][a("010_110_110")];
+    ΔΔ[Xr.ᐃⲆᐃⲆ][Xr.ⲆᐃΔ][a("010_111_110")] = ΔΔ[Xr.ᐃⲆᐃⲆ][Xr.ⲆᐃΔ][a("010_110_110")];
     ΔΔ[Xr.ᐃⲆᐃⲆ][Xr.ⲆᐃΔ][a("010_111_111")] = ΔΔ[Xr.ᐃⲆᐃⲆ][Xr.ⲆᐃΔ][a("010_110_110")];
     ΔΔ[Xr.ᐃⲆᐃⲆ][Xr.ⲆᐃΔ][a("000_111_110")] = ΔΔ[Xr.ᐃⲆᐃⲆ][Xr.ⲆᐃΔ][a("010_110_110")];
     ΔΔ[Xr.ᐃⲆᐃⲆ][Xr.ⲆᐃΔ][a("000_111_010")] = ΔΔ[Xr.ᐃⲆᐃⲆ][Xr.ⲆᐃΔ][a("010_110_110")];
@@ -35894,11 +35894,11 @@
     ΔΔ[Xr.ᐃⲆᐃⲆ][Xr.ⲆᐃΔ][a("110_110_000")] = [Ⲇⵠ.ⵠΔᐃᐃⵠⵠᐃ, Ⲇⵠ.ⵠᐃᐃⵠⲆ, Ⲇⵠ.ᐃⵠΔⲆᐃⵠⲆ, Ⲇⵠ.ΔⲆⲆᐃᐃ, Ⲇⵠ.ΔⵠⵠᐃΔ, Ⲇⵠ.ᐃⲆΔⵠΔ];
     ΔΔ[Xr.ᐃⲆᐃⲆ][Xr.ⲆᐃΔ][a("110_110_010")] = [Ⲇⵠ.ⵠᐃⲆⵠΔ, Ⲇⵠ.ⵠΔᐃᐃⵠⵠᐃ, Ⲇⵠ.ⵠᐃᐃⵠⲆ, Ⲇⵠ.ᐃⵠⵠᐃⲆᐃⵠ, Ⲇⵠ.ΔⲆⲆᐃᐃ, Ⲇⵠ.ΔⵠⵠᐃΔ, Ⲇⵠ.ⵠⵠⵠΔⵠ, Ⲇⵠ.ᐃⲆΔⵠΔ];
     ΔΔ[Xr.ᐃⲆᐃⲆ][Xr.ⲆᐃΔ][a("110_110_110")] = [Ⲇⵠ.ⵠᐃⲆⵠΔ, Ⲇⵠ.ⲆⵠⵠⵠᐃⲆᐃ, Ⲇⵠ.ⵠΔᐃᐃⵠⵠᐃ, Ⲇⵠ.ⵠᐃᐃⵠⲆ, Ⲇⵠ.ᐃⵠⵠᐃⲆᐃⵠ, Ⲇⵠ.ΔⲆⲆᐃᐃ, Ⲇⵠ.ΔⵠⵠᐃΔ, Ⲇⵠ.ⵠⵠⵠΔⵠ, Ⲇⵠ.ᐃⲆΔⵠΔ];
-    ΔΔ[Xr.ᐃⲆᐃⲆ][Xr.ⲆᐃΔ][a(Ⲇ[kk])] = [Ⲇⵠ.ᐃⵠⵠᐃᐃ, Ⲇⵠ.ⲆⵠⵠⵠΔ, Ⲇⵠ.ⵠΔᐃᐃⵠⵠᐃ, Ⲇⵠ.ⵠᐃᐃⵠⲆ, Ⲇⵠ.ᐃⵠΔⲆᐃⵠⲆ, Ⲇⵠ.ᐃᐃΔᐃⲆΔⵠ, Ⲇⵠ.ΔⲆⲆᐃᐃ, Ⲇⵠ.ⲆⵠᐃΔⵠⲆΔ, Ⲇⵠ.ᐃΔⵠⲆΔΔΔ, Ⲇⵠ.ΔⵠⵠᐃΔ, Ⲇⵠ.ⲆΔᐃⲆⲆ, Ⲇⵠ.ⵠΔΔᐃΔ, Ⲇⵠ.ᐃⲆΔⵠΔ];
-    ΔΔ[Xr.ᐃⲆᐃⲆ][Xr.ⲆᐃΔ][a(Ⲇ[Vh])] = [Ⲇⵠ.ᐃⵠⵠᐃᐃ, Ⲇⵠ.ⲆⵠⵠⵠΔ, Ⲇⵠ.ⵠΔⵠᐃⲆ, Ⲇⵠ.ⵠΔᐃⵠΔ, Ⲇⵠ.ⵠᐃⲆⵠΔ, Ⲇⵠ.ⲆⵠⵠⵠᐃⲆᐃ, Ⲇⵠ.ⵠΔᐃᐃⵠⵠᐃ, Ⲇⵠ.ⵠᐃᐃⵠⲆ, Ⲇⵠ.ΔΔΔⲆⲆⵠⲆ, Ⲇⵠ.ᐃᐃΔᐃⲆΔⵠ, Ⲇⵠ.ᐃⲆᐃⵠⵠΔΔ, Ⲇⵠ.ᐃⵠⵠᐃⲆᐃⵠ, Ⲇⵠ.ΔⲆⲆᐃᐃ, Ⲇⵠ.ⲆⵠᐃΔⵠⲆΔ, Ⲇⵠ.ᐃΔⵠⲆΔΔΔ, Ⲇⵠ.ΔⵠⵠᐃΔ, Ⲇⵠ.ⲆΔᐃⲆⲆ, Ⲇⵠ.ⲆΔᐃⲆᐃⵠᐃ, Ⲇⵠ.ΔᐃⲆⵠᐃⲆᐃ, Ⲇⵠ.ⲆⲆΔΔⵠΔⵠ, Ⲇⵠ.ⵠⵠⵠΔⵠ, Ⲇⵠ.ⵠΔΔᐃΔ, Ⲇⵠ.ᐃⲆΔⵠΔ];
-    ΔΔ[Xr.ᐃⲆᐃⲆ][Xr.ⲆᐃΔ][a("110_111_111")] = ΔΔ[Xr.ᐃⲆᐃⲆ][Xr.ⲆᐃΔ][a(Ⲇ[Xi])];
-    ΔΔ[Xr.ᐃⲆᐃⲆ][Xr.ⲆᐃΔ][a("110_111_011")] = ΔΔ[Xr.ᐃⲆᐃⲆ][Xr.ⲆᐃΔ][a(Ⲇ[gr])];
-    ΔΔ[Xr.ᐃⲆᐃⲆ][Xr.ⲆᐃΔ][a("110_111_010")] = ΔΔ[Xr.ᐃⲆᐃⲆ][Xr.ⲆᐃΔ][a(Ⲇ[eb])];
+    ΔΔ[Xr.ᐃⲆᐃⲆ][Xr.ⲆᐃΔ][a("110_111_000")] = [Ⲇⵠ.ᐃⵠⵠᐃᐃ, Ⲇⵠ.ⲆⵠⵠⵠΔ, Ⲇⵠ.ⵠΔᐃᐃⵠⵠᐃ, Ⲇⵠ.ⵠᐃᐃⵠⲆ, Ⲇⵠ.ᐃⵠΔⲆᐃⵠⲆ, Ⲇⵠ.ᐃᐃΔᐃⲆΔⵠ, Ⲇⵠ.ΔⲆⲆᐃᐃ, Ⲇⵠ.ⲆⵠᐃΔⵠⲆΔ, Ⲇⵠ.ᐃΔⵠⲆΔΔΔ, Ⲇⵠ.ΔⵠⵠᐃΔ, Ⲇⵠ.ⲆΔᐃⲆⲆ, Ⲇⵠ.ⵠΔΔᐃΔ, Ⲇⵠ.ᐃⲆΔⵠΔ];
+    ΔΔ[Xr.ᐃⲆᐃⲆ][Xr.ⲆᐃΔ][a("110_111_110")] = [Ⲇⵠ.ᐃⵠⵠᐃᐃ, Ⲇⵠ.ⲆⵠⵠⵠΔ, Ⲇⵠ.ⵠΔⵠᐃⲆ, Ⲇⵠ.ⵠΔᐃⵠΔ, Ⲇⵠ.ⵠᐃⲆⵠΔ, Ⲇⵠ.ⲆⵠⵠⵠᐃⲆᐃ, Ⲇⵠ.ⵠΔᐃᐃⵠⵠᐃ, Ⲇⵠ.ⵠᐃᐃⵠⲆ, Ⲇⵠ.ΔΔΔⲆⲆⵠⲆ, Ⲇⵠ.ᐃᐃΔᐃⲆΔⵠ, Ⲇⵠ.ᐃⲆᐃⵠⵠΔΔ, Ⲇⵠ.ᐃⵠⵠᐃⲆᐃⵠ, Ⲇⵠ.ΔⲆⲆᐃᐃ, Ⲇⵠ.ⲆⵠᐃΔⵠⲆΔ, Ⲇⵠ.ᐃΔⵠⲆΔΔΔ, Ⲇⵠ.ΔⵠⵠᐃΔ, Ⲇⵠ.ⲆΔᐃⲆⲆ, Ⲇⵠ.ⲆΔᐃⲆᐃⵠᐃ, Ⲇⵠ.ΔᐃⲆⵠᐃⲆᐃ, Ⲇⵠ.ⲆⲆΔΔⵠΔⵠ, Ⲇⵠ.ⵠⵠⵠΔⵠ, Ⲇⵠ.ⵠΔΔᐃΔ, Ⲇⵠ.ᐃⲆΔⵠΔ];
+    ΔΔ[Xr.ᐃⲆᐃⲆ][Xr.ⲆᐃΔ][a("110_111_111")] = ΔΔ[Xr.ᐃⲆᐃⲆ][Xr.ⲆᐃΔ][a("110_111_110")];
+    ΔΔ[Xr.ᐃⲆᐃⲆ][Xr.ⲆᐃΔ][a("110_111_011")] = ΔΔ[Xr.ᐃⲆᐃⲆ][Xr.ⲆᐃΔ][a("110_111_110")];
+    ΔΔ[Xr.ᐃⲆᐃⲆ][Xr.ⲆᐃΔ][a("110_111_010")] = ΔΔ[Xr.ᐃⲆᐃⲆ][Xr.ⲆᐃΔ][a("110_111_110")];
     ΔΔ[Xr.ᐃⲆᐃⲆ][Xr.ⲆᐃΔ][a("111_111_110")] = [Ⲇⵠ.ᐃⲆΔⵠΔ, Ⲇⵠ.ⵠΔΔᐃΔ, Ⲇⵠ.ⵠⵠⵠΔⵠ, Ⲇⵠ.ⲆⲆΔΔⵠΔⵠ, Ⲇⵠ.ΔᐃⲆⵠᐃⲆᐃ, Ⲇⵠ.ⲆΔᐃⲆᐃⵠᐃ, Ⲇⵠ.ⲆΔᐃⲆⲆ, Ⲇⵠ.ΔⵠⵠᐃΔ, Ⲇⵠ.ᐃΔⵠⲆΔΔΔ, Ⲇⵠ.ⲆⵠᐃΔⵠⲆΔ, Ⲇⵠ.ΔⲆⲆᐃᐃ, Ⲇⵠ.ᐃⵠⵠᐃⲆᐃⵠ, Ⲇⵠ.ᐃⲆᐃⵠⵠΔΔ, Ⲇⵠ.ᐃᐃΔᐃⲆΔⵠ, Ⲇⵠ.ΔΔΔⲆⲆⵠⲆ, Ⲇⵠ.ⵠᐃᐃⵠⲆ, Ⲇⵠ.ⵠΔᐃᐃⵠⵠᐃ, Ⲇⵠ.ⵠᐃⲆⵠΔ, Ⲇⵠ.ⵠΔᐃⵠΔ, Ⲇⵠ.ⵠΔⵠᐃⲆ, Ⲇⵠ.ⲆⵠⵠⵠΔ, Ⲇⵠ.ᐃⵠⵠᐃᐃ, Ⲇⵠ.ᐃᐃΔΔⲆⵠⵠ];
     ΔΔ[Xr.ᐃⲆᐃⲆ][Xr.ⲆᐃΔ][a("111_111_011")] = ΔΔ[Xr.ᐃⲆᐃⲆ][Xr.ⲆᐃΔ][a("111_111_110")];
     ΔΔ[Xr.ᐃⲆᐃⲆ][Xr.ⲆᐃΔ][a("111_111_000")] = [Ⲇⵠ.ᐃⵠΔⲆᐃⵠⲆ, Ⲇⵠ.ⵠᐃᐃⵠⲆ, Ⲇⵠ.ⵠΔᐃᐃⵠⵠᐃ, Ⲇⵠ.ⲆⵠⵠⵠΔ, Ⲇⵠ.ᐃⵠⵠᐃᐃ, Ⲇⵠ.ᐃᐃΔΔⲆⵠⵠ, Ⲇⵠ.ᐃᐃΔᐃⲆΔⵠ];
@@ -35927,7 +35927,7 @@
     ΔΔ[Xr.ᐃⲆᐃⲆ][Xr.ΔⲆⵠ][a("010_111_000")] = ΔΔ[Xr.ᐃⲆᐃⲆ][Xr.ΔⲆⵠ][a("010_110_110")];
     ΔΔ[Xr.ᐃⲆᐃⲆ][Xr.ΔⲆⵠ][a("010_111_010")] = ΔΔ[Xr.ᐃⲆᐃⲆ][Xr.ΔⲆⵠ][a("010_110_110")];
     ΔΔ[Xr.ᐃⲆᐃⲆ][Xr.ΔⲆⵠ][a("010_111_011")] = ΔΔ[Xr.ᐃⲆᐃⲆ][Xr.ΔⲆⵠ][a("010_110_110")];
-    ΔΔ[Xr.ᐃⲆᐃⲆ][Xr.ΔⲆⵠ][a(Ⲇ[zs])] = ΔΔ[Xr.ᐃⲆᐃⲆ][Xr.ΔⲆⵠ][a("010_110_110")];
+    ΔΔ[Xr.ᐃⲆᐃⲆ][Xr.ΔⲆⵠ][a("010_111_110")] = ΔΔ[Xr.ᐃⲆᐃⲆ][Xr.ΔⲆⵠ][a("010_110_110")];
     ΔΔ[Xr.ᐃⲆᐃⲆ][Xr.ΔⲆⵠ][a("010_111_111")] = ΔΔ[Xr.ᐃⲆᐃⲆ][Xr.ΔⲆⵠ][a("010_110_110")];
     ΔΔ[Xr.ᐃⲆᐃⲆ][Xr.ΔⲆⵠ][a("000_111_110")] = ΔΔ[Xr.ᐃⲆᐃⲆ][Xr.ΔⲆⵠ][a("010_110_110")];
     ΔΔ[Xr.ᐃⲆᐃⲆ][Xr.ΔⲆⵠ][a("000_111_010")] = ΔΔ[Xr.ᐃⲆᐃⲆ][Xr.ΔⲆⵠ][a("010_110_110")];
@@ -35942,7 +35942,7 @@
     ΔΔ[Xr.ᐃⲆᐃⲆ][Xr.ΔⲆⵠ][a("110_110_000")] = [Ⲇⵠ.ⵠΔⲆΔⵠⲆΔ, Ⲇⵠ.ⵠⲆⵠⲆᐃ, Ⲇⵠ.ⲆᐃΔᐃᐃΔΔ, Ⲇⵠ.ⲆⵠⵠᐃⲆ, Ⲇⵠ.ⵠⲆᐃⵠⵠ, Ⲇⵠ.ⲆⲆⲆΔⵠ];
     ΔΔ[Xr.ᐃⲆᐃⲆ][Xr.ΔⲆⵠ][a("110_110_010")] = [Ⲇⵠ.ⵠⵠᐃⲆⵠ, Ⲇⵠ.ⵠΔⲆΔⵠⲆΔ, Ⲇⵠ.ⵠⲆⵠⲆᐃ, Ⲇⵠ.ⵠᐃΔᐃⵠΔⵠ, Ⲇⵠ.ⲆⵠⵠᐃⲆ, Ⲇⵠ.ⵠⲆᐃⵠⵠ, Ⲇⵠ.ⲆᐃⲆΔⵠ, Ⲇⵠ.ⲆⲆⲆΔⵠ];
     ΔΔ[Xr.ᐃⲆᐃⲆ][Xr.ΔⲆⵠ][a("110_110_110")] = [Ⲇⵠ.ⵠⵠᐃⲆⵠ, Ⲇⵠ.ⵠΔⲆⵠⲆⵠⲆ, Ⲇⵠ.ⵠΔⲆΔⵠⲆΔ, Ⲇⵠ.ⵠⲆⵠⲆᐃ, Ⲇⵠ.ⵠᐃΔᐃⵠΔⵠ, Ⲇⵠ.ⲆⵠⵠᐃⲆ, Ⲇⵠ.ⵠⲆᐃⵠⵠ, Ⲇⵠ.ⲆᐃⲆΔⵠ, Ⲇⵠ.ⲆⲆⲆΔⵠ];
-    ΔΔ[Xr.ᐃⲆᐃⲆ][Xr.ΔⲆⵠ][a(Ⲇ[yl])] = [Ⲇⵠ.ΔᐃⲆⲆᐃ, Ⲇⵠ.ⵠⵠᐃⲆⲆ, Ⲇⵠ.ⵠΔⲆΔⵠⲆΔ, Ⲇⵠ.ⵠⲆⵠⲆᐃ, Ⲇⵠ.ⲆᐃΔᐃᐃΔΔ, Ⲇⵠ.ⵠⲆⵠⲆⲆⵠᐃ, Ⲇⵠ.ⲆⵠⵠᐃⲆ, Ⲇⵠ.ΔΔⵠⵠᐃᐃⵠ, Ⲇⵠ.ᐃΔᐃΔⵠΔⲆ, Ⲇⵠ.ⵠⲆᐃⵠⵠ, Ⲇⵠ.ᐃᐃⵠΔⲆ, Ⲇⵠ.ᐃⵠᐃⲆⲆ, Ⲇⵠ.ⲆⲆⲆΔⵠ];
+    ΔΔ[Xr.ᐃⲆᐃⲆ][Xr.ΔⲆⵠ][a("110_111_000")] = [Ⲇⵠ.ΔᐃⲆⲆᐃ, Ⲇⵠ.ⵠⵠᐃⲆⲆ, Ⲇⵠ.ⵠΔⲆΔⵠⲆΔ, Ⲇⵠ.ⵠⲆⵠⲆᐃ, Ⲇⵠ.ⲆᐃΔᐃᐃΔΔ, Ⲇⵠ.ⵠⲆⵠⲆⲆⵠᐃ, Ⲇⵠ.ⲆⵠⵠᐃⲆ, Ⲇⵠ.ΔΔⵠⵠᐃᐃⵠ, Ⲇⵠ.ᐃΔᐃΔⵠΔⲆ, Ⲇⵠ.ⵠⲆᐃⵠⵠ, Ⲇⵠ.ᐃᐃⵠΔⲆ, Ⲇⵠ.ᐃⵠᐃⲆⲆ, Ⲇⵠ.ⲆⲆⲆΔⵠ];
     ΔΔ[Xr.ᐃⲆᐃⲆ][Xr.ΔⲆⵠ][a("110_111_110")] = [Ⲇⵠ.ΔᐃⲆⲆᐃ, Ⲇⵠ.ⵠⵠᐃⲆⲆ, Ⲇⵠ.ⵠᐃⵠⵠᐃ, Ⲇⵠ.ⲆⲆⵠΔᐃ, Ⲇⵠ.ⵠⵠᐃⲆⵠ, Ⲇⵠ.ⵠΔⲆⵠⲆⵠⲆ, Ⲇⵠ.ⵠΔⲆΔⵠⲆΔ, Ⲇⵠ.ⵠⲆⵠⲆᐃ, Ⲇⵠ.ᐃⲆᐃⵠⲆⵠᐃ, Ⲇⵠ.ⵠⲆⵠⲆⲆⵠᐃ, Ⲇⵠ.ΔΔᐃΔⵠⵠΔ, Ⲇⵠ.ⵠᐃΔᐃⵠΔⵠ, Ⲇⵠ.ⲆⵠⵠᐃⲆ, Ⲇⵠ.ΔΔⵠⵠᐃᐃⵠ, Ⲇⵠ.ᐃΔᐃΔⵠΔⲆ, Ⲇⵠ.ⵠⲆᐃⵠⵠ, Ⲇⵠ.ᐃᐃⵠΔⲆ, Ⲇⵠ.ⲆᐃᐃΔⵠΔΔ, Ⲇⵠ.ᐃΔⲆⲆΔᐃᐃ, Ⲇⵠ.ⲆᐃⲆΔⲆᐃᐃ, Ⲇⵠ.ⲆᐃⲆΔⵠ, Ⲇⵠ.ᐃⵠᐃⲆⲆ, Ⲇⵠ.ⲆⲆⲆΔⵠ];
     ΔΔ[Xr.ᐃⲆᐃⲆ][Xr.ΔⲆⵠ][a("110_111_111")] = ΔΔ[Xr.ᐃⲆᐃⲆ][Xr.ΔⲆⵠ][a("110_111_110")];
     ΔΔ[Xr.ᐃⲆᐃⲆ][Xr.ΔⲆⵠ][a("110_111_011")] = ΔΔ[Xr.ᐃⲆᐃⲆ][Xr.ΔⲆⵠ][a("110_111_110")];
@@ -35994,7 +35994,7 @@
     ΔΔ[Xr.ΔΔⲆⲆ][Xr.ⲆᐃΔ][a("110_111_000")] = Ⲇⵠ.ΔΔⲆᐃⲆᐃΔ;
     ΔΔ[Xr.ΔΔⲆⲆ][Xr.ⲆᐃΔ][a("110_111_010")] = Ⲇⵠ.ΔΔⵠᐃΔⵠⲆ;
     ΔΔ[Xr.ΔΔⲆⲆ][Xr.ⲆᐃΔ][a("110_111_011")] = Ⲇⵠ.ⵠᐃⲆᐃΔΔⲆ;
-    ΔΔ[Xr.ΔΔⲆⲆ][Xr.ⲆᐃΔ][a(Ⲇ[$a])] = Ⲇⵠ.ⵠⵠⵠⲆᐃⲆⵠ;
+    ΔΔ[Xr.ΔΔⲆⲆ][Xr.ⲆᐃΔ][a("110_111_110")] = Ⲇⵠ.ⵠⵠⵠⲆᐃⲆⵠ;
     ΔΔ[Xr.ΔΔⲆⲆ][Xr.ⲆᐃΔ][a("110_111_111")] = Ⲇⵠ.ⲆΔⵠⵠᐃΔᐃ;
     ΔΔ[Xr.ΔΔⲆⲆ][Xr.ⲆᐃΔ][a("111_111_011")] = Ⲇⵠ.ⲆᐃΔⵠΔⲆⲆ;
     ΔΔ[Xr.ΔΔⲆⲆ][Xr.ⲆᐃΔ][a("111_111_110")] = Ⲇⵠ.ⲆⲆᐃᐃⲆⲆᐃ;
@@ -36027,7 +36027,7 @@
     ΔΔ[Xr.ΔΔⲆⲆ][Xr.ΔⲆⵠ][a("010_111_000")] = Ⲇⵠ.ᐃᐃⲆⲆⵠⲆᐃ;
     ΔΔ[Xr.ΔΔⲆⲆ][Xr.ΔⲆⵠ][a("010_111_010")] = Ⲇⵠ.ⵠᐃⲆⵠⵠⵠᐃ;
     ΔΔ[Xr.ΔΔⲆⲆ][Xr.ΔⲆⵠ][a("010_111_011")] = Ⲇⵠ.ᐃⲆᐃΔⲆΔΔ;
-    ΔΔ[Xr.ΔΔⲆⲆ][Xr.ΔⲆⵠ][a(Ⲇ[zs])] = Ⲇⵠ.ΔⲆⲆᐃⵠᐃⵠ;
+    ΔΔ[Xr.ΔΔⲆⲆ][Xr.ΔⲆⵠ][a("010_111_110")] = Ⲇⵠ.ΔⲆⲆᐃⵠᐃⵠ;
     ΔΔ[Xr.ΔΔⲆⲆ][Xr.ΔⲆⵠ][a("010_111_111")] = Ⲇⵠ.ⵠᐃⲆⲆᐃⵠΔ;
     ΔΔ[Xr.ΔΔⲆⲆ][Xr.ΔⲆⵠ][a("011_011_000")] = Ⲇⵠ.ΔⲆⲆΔⲆᐃⲆ;
     ΔΔ[Xr.ΔΔⲆⲆ][Xr.ΔⲆⵠ][a("011_011_010")] = Ⲇⵠ.ᐃᐃⵠⵠᐃⲆᐃ;
@@ -36043,7 +36043,7 @@
     ΔΔ[Xr.ΔΔⲆⲆ][Xr.ΔⲆⵠ][a("110_111_000")] = Ⲇⵠ.ⲆⲆᐃⲆΔⲆᐃ;
     ΔΔ[Xr.ΔΔⲆⲆ][Xr.ΔⲆⵠ][a("110_111_010")] = Ⲇⵠ.ⲆⲆⵠΔᐃΔⲆ;
     ΔΔ[Xr.ΔΔⲆⲆ][Xr.ΔⲆⵠ][a("110_111_011")] = Ⲇⵠ.ΔΔᐃⲆᐃⵠᐃ;
-    ΔΔ[Xr.ΔΔⲆⲆ][Xr.ΔⲆⵠ][a(Ⲇ[da])] = Ⲇⵠ.ⵠᐃⲆᐃⵠᐃⲆ;
+    ΔΔ[Xr.ΔΔⲆⲆ][Xr.ΔⲆⵠ][a("110_111_110")] = Ⲇⵠ.ⵠᐃⲆᐃⵠᐃⲆ;
     ΔΔ[Xr.ΔΔⲆⲆ][Xr.ΔⲆⵠ][a("110_111_111")] = Ⲇⵠ.ⲆⲆᐃΔⵠⲆΔ;
     ΔΔ[Xr.ΔΔⲆⲆ][Xr.ΔⲆⵠ][a("111_111_011")] = Ⲇⵠ.ᐃⲆΔΔⵠΔⲆ;
     ΔΔ[Xr.ΔΔⲆⲆ][Xr.ΔⲆⵠ][a("111_111_110")] = Ⲇⵠ.ΔⵠⵠⲆⲆᐃᐃ;
@@ -50789,11 +50789,11 @@
               if (Zw.Δⵠᐃᐃ.list[b]) {
                 var c = nw[b].time - (a - mf.ΔᐃᐃΔⲆ.ᐃΔΔΔᐃ + Zw.Δⵠᐃᐃ.ᐃⵠΔΔΔᐃⲆ);
                 if (c > 960000) {
-                  document.getElementById(Ⲇ[pb] + b).innerHTML = Math.floor(c / 480000) + " days";
+                  document.getElementById("timeremain_" + b).innerHTML = Math.floor(c / 480000) + " days";
                 } else if (c > 480000) {
                   document.getElementById("timeremain_" + b).innerHTML = Math.floor(c / 480000) + " day";
                 } else if (c > 60000) {
-                  document.getElementById(Ⲇ[nr] + b).innerHTML = Math.floor(c / 60000) + " min";
+                  document.getElementById("timeremain_" + b).innerHTML = Math.floor(c / 60000) + " min";
                 } else {
                   document.getElementById("timeremain_" + b).innerHTML = Math.floor(c / 1000) + " sec";
                 }
@@ -50820,7 +50820,7 @@
           document.getElementById("timeremain_" + a).style.display = "none";
         } else if (b === In) {
           document.getElementById("time_finished_" + a).innerHTML = "FAILED";
-          document.getElementById(Ⲇ[Eq] + a).style.display = "none";
+          document.getElementById("timeremain_" + a).style.display = "none";
         }
         document.getElementById("claim_reward_" + a).style.display = b === Pn ? "inline-block" : "none";
         document.getElementById("time_finished_" + a).style.display = "inline";
