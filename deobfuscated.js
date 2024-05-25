@@ -25437,7 +25437,7 @@
     St(d, b[Rl]);
     return c;
   }
-  oc.log = oc.info = oc.error = oc.warn = oc.debug = oc.ΔⲆᐃΔᐃⲆⵠᐃⲆ = oc.trace = oc.time = oc.timeEnd = function () {};
+  oc.info = oc.error = oc.warn = oc.debug = oc.ΔⲆᐃΔᐃⲆⵠᐃⲆ = oc.trace = oc.time = oc.timeEnd = function () {};
   const sc = Lu;
   function hc(a, b) {
     var c = document.createElement("canvas");
