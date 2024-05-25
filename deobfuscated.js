@@ -3562,31 +3562,31 @@
   const cs = Kk;
   var ds = [];
   const es = nj;
-  ds[_r.ⵠᐃⵠⵠ] = {
+  ds[109] = {
     name: "Wood",
-    ⵠⵠ: Xr.ⵠⵠⵠΔΔᐃⵠ,
+    ⵠⵠ: 316,
     ⵠⲆᐃⲆ: mj,
     ⲆΔⲆⲆ: 0
   };
   const fs = ye;
   const gs = Xn;
   const hs = Ri;
-  ds[_r.ᐃΔⵠⲆ] = {
+  ds[108] = {
     name: "Stone",
-    ⵠⵠ: Xr.ⲆⵠⵠⲆⲆⲆᐃ,
+    ⵠⵠ: 315,
     ⵠⲆᐃⲆ: Lr,
     ⲆΔⲆⲆ: ya
   };
-  ds[_r.ᐃⲆⵠᐃ] = {
+  ds[111] = {
     name: "Gold",
-    ⵠⵠ: Xr.ᐃⲆΔΔⵠⲆΔ,
+    ⵠⵠ: 297,
     ⵠⲆᐃⲆ: In,
     ⲆΔⲆⲆ: In
   };
   const is = b;
-  ds[_r.ᐃⲆΔⵠ] = {
+  ds[112] = {
     name: "Diamond",
-    ⵠⵠ: Xr.ⲆⲆΔⵠᐃΔⲆ,
+    ⵠⵠ: 298,
     ⵠⲆᐃⲆ: Da,
     ⲆΔⲆⲆ: mj
   };
@@ -3594,345 +3594,345 @@
   const ks = U;
   const ms = pn;
   const ns = _j;
-  ds[_r.Ⲇⵠⵠⵠ] = {
+  ds[121] = {
     name: "Amethyst",
-    ⵠⵠ: Xr.ⵠⲆΔᐃΔᐃⲆ,
+    ⵠⵠ: 418,
     ⵠⲆᐃⲆ: 0,
     ⲆΔⲆⲆ: Rq
   };
   const os = Lr;
-  ds[_r.ⵠⵠΔⵠΔ] = {
+  ds[2] = {
     name: "Rabbit fur",
-    ⵠⵠ: Xr.ΔⲆᐃΔΔᐃᐃ,
+    ⵠⵠ: 368,
     ⵠⲆᐃⲆ: mj,
     ⲆΔⲆⲆ: Da
   };
   const ps = ra;
   const rs = as;
-  ds[_r.ⲆⵠⵠΔᐃ] = {
+  ds[174] = {
     name: "Wolf fur",
-    ⵠⵠ: Xr.ⵠⲆᐃⵠⲆᐃⵠ,
+    ⵠⵠ: 393,
     ⵠⲆᐃⲆ: Zj,
     ⲆΔⲆⲆ: os
   };
-  ds[_r.ⵠΔⵠⵠⲆ] = {
+  ds[237] = {
     name: "Boar fur",
-    ⵠⵠ: Xr.ⵠΔᐃΔⵠⲆΔ,
+    ⵠⵠ: 1162,
     ⵠⲆᐃⲆ: 0,
     ⲆΔⲆⲆ: os
   };
   const ss = dr;
-  ds[_r.ᐃⲆⵠᐃΔ] = {
+  ds[100] = {
     name: "Firefly",
-    ⵠⵠ: Xr.ΔⵠΔΔⲆᐃⵠ,
+    ⵠⵠ: 1164,
     ⵠⲆᐃⲆ: In,
     ⲆΔⲆⲆ: 0
   };
-  ds[_r.ΔᐃⲆⵠⲆ] = {
+  ds[101] = {
     name: "Wood arrow",
-    ⵠⵠ: Xr.ⵠᐃΔΔⲆⲆⵠ,
+    ⵠⵠ: 1166,
     ⵠⲆᐃⲆ: 0,
     ⲆΔⲆⲆ: Xn
   };
-  ds[_r.ᐃᐃΔᐃΔ] = {
+  ds[102] = {
     name: "Stone arrow",
-    ⵠⵠ: Xr.ⲆᐃΔⵠΔΔⲆ,
+    ⵠⵠ: 1169,
     ⵠⲆᐃⲆ: 0,
     ⲆΔⲆⲆ: mk
   };
-  ds[_r.ⲆΔⲆᐃⲆ] = {
+  ds[103] = {
     name: "Gold arrow",
-    ⵠⵠ: Xr.ᐃΔᐃᐃΔⲆⲆ,
+    ⵠⵠ: 1172,
     ⵠⲆᐃⲆ: 0,
     ⲆΔⲆⲆ: mk
   };
   const ts = Ri;
-  ds[_r.ΔΔⲆⵠⲆ] = {
+  ds[104] = {
     name: "Diamond arrow",
-    ⵠⵠ: Xr.ΔᐃⵠΔᐃⲆΔ,
+    ⵠⵠ: 1175,
     ⵠⲆᐃⲆ: 0,
     ⲆΔⲆⲆ: 1
   };
-  ds[_r.ⲆⵠΔⵠⵠ] = {
+  ds[105] = {
     name: "Amethyst arrow",
-    ⵠⵠ: Xr.ⲆΔΔⲆⵠⲆⲆ,
+    ⵠⵠ: 1178,
     ⵠⲆᐃⲆ: 0,
     ⲆΔⲆⲆ: 1
   };
-  ds[_r.ⲆⵠΔⲆⲆ] = {
+  ds[106] = {
     name: "Reidite arrow",
-    ⵠⵠ: Xr.ⵠΔᐃᐃⲆᐃᐃ,
+    ⵠⵠ: 1181,
     ⵠⲆᐃⲆ: 0,
     ⲆΔⲆⲆ: mk
   };
-  ds[_r.ΔⵠΔⵠⵠ] = {
+  ds[107] = {
     name: "Dragon arrow",
-    ⵠⵠ: Xr.ᐃᐃᐃⵠⲆⲆᐃ,
+    ⵠⵠ: 1184,
     ⵠⲆᐃⲆ: 0,
     ⲆΔⲆⲆ: In
   };
   const us = xk;
   const vs = Ik;
-  ds[_r.ⲆΔΔᐃᐃ] = {
+  ds[146] = {
     name: "Winter fur",
-    ⵠⵠ: Xr.ⵠᐃΔΔⵠⲆᐃ,
+    ⵠⵠ: 505,
     ⵠⲆᐃⲆ: mj,
     ⲆΔⲆⲆ: 0
   };
-  ds[_r.ᐃⲆΔⲆⲆ] = {
+  ds[240] = {
     name: "Fur mammoth",
-    ⵠⵠ: Xr.ⲆΔᐃⲆΔΔᐃ,
+    ⵠⵠ: 1233,
     ⵠⲆᐃⲆ: 0,
     ⲆΔⲆⲆ: Rq
   };
-  ds[_r.ᐃΔⵠᐃⲆ] = {
+  ds[161] = {
     name: "Web",
-    ⵠⵠ: Xr.ΔⵠΔΔΔᐃᐃ,
+    ⵠⵠ: 305,
     ⵠⲆᐃⲆ: 0,
     ⲆΔⲆⲆ: 0
   };
   const ws = A;
-  ds[_r.ⵠⵠᐃᐃⵠ] = {
+  ds[116] = {
     name: "Meat",
-    ⵠⵠ: Xr.ⵠⲆⲆΔΔΔⵠ,
+    ⵠⵠ: 300,
     ⵠⲆᐃⲆ: 0,
     ⲆΔⲆⲆ: ya
   };
-  ds[_r.ΔΔᐃⵠⲆ] = {
+  ds[137] = {
     name: "Fish",
-    ⵠⵠ: Xr.ⵠΔⲆⲆⵠⵠⵠ,
+    ⵠⵠ: 662,
     ⵠⲆᐃⲆ: 0,
     ⲆΔⲆⲆ: 0
   };
-  ds[_r.ΔᐃΔⲆᐃ] = {
+  ds[129] = {
     name: "Kraken skin",
-    ⵠⵠ: Xr.ΔᐃᐃⲆΔΔᐃ,
+    ⵠⵠ: 624,
     ⵠⲆᐃⲆ: 0,
     ⲆΔⲆⲆ: 0
   };
-  ds[_r.ⵠᐃΔⲆⵠ] = {
+  ds[139] = {
     name: "Piranha scales",
-    ⵠⵠ: Xr.ⵠⵠΔᐃᐃⵠᐃ,
+    ⵠⵠ: 674,
     ⵠⲆᐃⲆ: Rq,
     ⲆΔⲆⲆ: 0
   };
   const xs = sr;
   const ys = D;
   const zs = mk;
-  ds[_r.ᐃΔΔΔⲆ] = {
+  ds[142] = {
     name: "Ice",
-    ⵠⵠ: Xr.ΔᐃΔᐃΔΔⵠ,
+    ⵠⵠ: 142,
     ⵠⲆᐃⲆ: 0,
     ⲆΔⲆⲆ: mj
   };
-  ds[_r.ⲆⲆΔⲆᐃ] = {
+  ds[126] = {
     name: "Sand",
-    ⵠⵠ: Xr.ⵠᐃⲆⲆΔΔᐃ,
+    ⵠⵠ: 609,
     ⵠⲆᐃⲆ: 0,
     ⲆΔⲆⲆ: wj
   };
-  ds[_r.ᐃᐃΔΔⵠ] = {
+  ds[140] = {
     name: "Dirt",
-    ⵠⵠ: Xr.ⲆΔⲆΔΔΔⲆ,
+    ⵠⵠ: 140,
     ⵠⲆᐃⲆ: wj,
     ⲆΔⲆⲆ: 0
   };
-  ds[_r.ⵠᐃⲆⲆⲆ] = {
+  ds[110] = {
     name: "Berrie",
-    ⵠⵠ: Xr.ⵠᐃΔⲆⲆⲆᐃ,
+    ⵠⵠ: 277,
     ⵠⲆᐃⲆ: 0,
     ⲆΔⲆⲆ: 0
   };
-  ds[_r.ᐃⵠᐃⵠᐃ] = {
+  ds[131] = {
     name: "Flour",
-    ⵠⵠ: Xr.ΔⲆⵠᐃⵠᐃᐃ,
+    ⵠⵠ: 629,
     ⵠⲆᐃⲆ: 0,
     ⲆΔⲆⲆ: Lr
   };
-  ds[_r.ⲆΔΔᐃⵠ] = {
+  ds[134] = {
     name: "Flour",
-    ⵠⵠ: Xr.ΔΔΔΔᐃⲆⲆ,
+    ⵠⵠ: 639,
     ⵠⲆᐃⲆ: In,
     ⲆΔⲆⲆ: Da
   };
   const js = E;
   const As = U;
-  ds[_r.ᐃΔΔⲆΔ] = {
+  ds[178] = {
     name: "Special fur peasant",
-    ⵠⵠ: Xr.ⵠΔⵠⵠΔⵠⵠ,
+    ⵠⵠ: 178,
     ⵠⲆᐃⲆ: mj,
     ⲆΔⲆⲆ: wj
   };
-  ds[_r.ⵠⲆΔᐃᐃ] = {
+  ds[179] = {
     name: "Special fur hood",
-    ⵠⵠ: Xr.ᐃⵠⲆⲆⵠΔΔ,
+    ⵠⵠ: 179,
     ⵠⲆᐃⲆ: 0,
     ⲆΔⲆⲆ: wj
   };
-  ds[_r.ⵠᐃⵠΔⵠ] = {
+  ds[189] = {
     name: "Pumpkin",
-    ⵠⵠ: Xr.ⵠⵠⵠⵠΔⲆΔ,
+    ⵠⵠ: 814,
     ⵠⲆᐃⲆ: 0,
     ⲆΔⲆⲆ: Da
   };
   const Bs = Ok;
-  ds[_r.ⲆᐃΔᐃΔ] = {
+  ds[192] = {
     name: "Garlic",
-    ⵠⵠ: Xr.ᐃⵠᐃᐃⲆⵠΔ,
+    ⵠⵠ: 840,
     ⵠⲆᐃⲆ: 0,
     ⲆΔⲆⲆ: Zj
   };
   const Cs = Ra;
   const Ds = _o;
   const qs = da;
-  ds[_r.ᐃⲆᐃᐃΔ] = {
+  ds[194] = {
     name: "Thornbush",
-    ⵠⵠ: Xr.ⵠⲆⲆⵠⲆⲆⵠ,
+    ⵠⵠ: 850,
     ⵠⲆᐃⲆ: 0,
     ⲆΔⲆⲆ: Rq
   };
-  ds[_r.ⲆᐃΔⵠᐃ] = {
+  ds[205] = {
     name: "Carrot",
-    ⵠⵠ: Xr.ⵠⵠᐃⵠᐃᐃⵠ,
+    ⵠⵠ: 955,
     ⵠⲆᐃⲆ: In,
     ⲆΔⲆⲆ: ya
   };
   const Es = On;
-  ds[_r.ⲆᐃΔΔⵠ] = {
+  ds[207] = {
     name: "Tomato",
-    ⵠⵠ: Xr.ⲆΔᐃΔⵠΔⵠ,
+    ⵠⵠ: 965,
     ⵠⲆᐃⲆ: Da,
     ⲆΔⲆⲆ: In
   };
   const Fs = q;
   const Gs = Lj;
-  ds[_r.ⲆᐃⵠΔⲆ] = {
+  ds[209] = {
     name: "Watermelon",
-    ⵠⵠ: Xr.ⵠᐃⲆᐃΔᐃᐃ,
+    ⵠⵠ: 972,
     ⵠⲆᐃⲆ: wj,
     ⲆΔⲆⲆ: Da
   };
-  ds[_r.ⵠΔᐃⵠⲆ] = {
+  ds[211] = {
     name: "Aloe Vera",
-    ⵠⵠ: Xr.ΔᐃΔΔⲆⵠᐃ,
+    ⵠⵠ: 987,
     ⵠⲆᐃⲆ: 0,
     ⲆΔⲆⲆ: 0
   };
-  ds[_r.ᐃⲆⲆⲆᐃ] = {
+  ds[222] = {
     name: "Penguin Feather",
-    ⵠⵠ: Xr.ⲆⲆⵠᐃⵠ,
+    ⵠⵠ: 1035,
     ⵠⲆᐃⲆ: Zj,
     ⲆΔⲆⲆ: Rq
   };
   const Hs = Br;
-  ds[_r.ⵠⵠΔⲆⵠ] = {
+  ds[231] = {
     name: "Hawk Feather",
-    ⵠⵠ: Xr.ΔⲆΔⵠᐃ,
+    ⵠⵠ: 1037,
     ⵠⲆᐃⲆ: Hi,
     ⲆΔⲆⲆ: Rq
   };
   const Is = $n;
-  ds[_r.ΔⵠΔΔⲆ] = {
+  ds[232] = {
     name: "Vulture Feather",
-    ⵠⵠ: Xr.ΔⲆΔⵠⲆ,
+    ⵠⵠ: 1039,
     ⵠⲆᐃⲆ: Da,
     ⲆΔⲆⲆ: Zj
   };
-  ds[_r.ⵠⵠⵠΔⲆ] = {
+  ds[233] = {
     name: "Cactus",
-    ⵠⵠ: Xr.ⲆⲆΔΔΔΔᐃ,
+    ⵠⵠ: 1154,
     ⵠⲆᐃⲆ: Da,
     ⲆΔⲆⲆ: 0
   };
   const Js = nq;
   const Ks = _j;
-  ds[_r.ᐃⲆᐃⵠᐃΔⵠ] = {
+  ds[236] = {
     name: "Cactus",
-    ⵠⵠ: Xr.ⲆΔⲆⵠΔⵠΔ,
+    ⵠⵠ: 1160,
     ⵠⲆᐃⲆ: Lr,
     ⲆΔⲆⲆ: Rq
   };
-  ds[_r.ΔᐃΔΔⲆⲆⵠ] = {
+  ds[235] = {
     name: "Pitchfork Part",
-    ⵠⵠ: Xr.ΔⵠᐃⲆᐃⲆΔ,
+    ⵠⵠ: 1158,
     ⵠⲆᐃⲆ: Hi,
     ⲆΔⲆⲆ: 0
   };
   const Ls = Gi;
   const eh = H;
-  ds[_r.ⵠⲆᐃΔⵠ] = {
+  ds[238] = {
     name: "Emerald Machine",
-    ⵠⵠ: Xr.ΔⵠᐃⲆΔⵠⲆ,
+    ⵠⵠ: 1187,
     ⵠⲆᐃⲆ: mj,
     ⲆΔⲆⲆ: 0
   };
   const ih = ja;
-  ds[_r.ᐃⵠⵠΔⵠ] = {
+  ds[234] = {
     name: "Emerald",
-    ⵠⵠ: Xr.ΔΔⵠⵠⵠ,
+    ⵠⵠ: 1156,
     ⵠⲆᐃⲆ: wj,
     ⲆΔⲆⲆ: 0
   };
   const th = gr;
-  ds[_r.ᐃᐃⵠⲆⲆ] = {
+  ds[41] = {
     name: "Christmas Hat",
-    ⵠⵠ: Xr.ΔⵠᐃᐃⵠⵠⲆ,
+    ⵠⵠ: 880,
     ⲆΔⲆⲆ: Lr
   };
-  ds[_r.ΔⲆΔⲆⲆ] = {
+  ds[42] = {
     name: "Elf Hat",
-    ⵠⵠ: Xr.ⲆΔᐃΔᐃᐃᐃ,
+    ⵠⵠ: 882,
     ⲆΔⲆⲆ: Zj
   };
   const nh = Xa;
-  ds[_r.ⵠᐃΔⲆⲆ] = {
+  ds[201] = {
     name: "Garland",
-    ⵠⵠ: Xr.ⲆᐃⵠᐃⲆΔⲆ,
+    ⵠⵠ: 870,
     ⲆΔⲆⲆ: 0,
     ⵠⲆᐃⲆ: os
   };
-  ds[_r.ⲆⵠⲆⲆΔ] = {
+  ds[200] = {
     name: "Candy",
-    ⵠⵠ: Xr.ⲆⲆⲆΔᐃⵠΔ,
+    ⵠⵠ: 200,
     ⲆΔⲆⲆ: 0
   };
   const oh = Nk;
-  ds[_r.ᐃΔᐃⵠⵠ] = {
+  ds[199] = {
     name: "Sugar Cane",
-    ⵠⵠ: Xr.ᐃΔⲆΔⵠⲆΔ,
+    ⵠⵠ: 865,
     ⲆΔⲆⲆ: 0
   };
   const rh = 14;
   const ah = Yq;
   const sh = so;
-  ds[_r.ⵠΔᐃᐃⵠ] = {
+  ds[9] = {
     name: "Pirate Sword",
-    ⵠⵠ: Xr.ΔᐃⵠΔΔⵠⲆ,
+    ⵠⵠ: 860,
     ⵠⲆᐃⲆ: 0,
     ⲆΔⲆⲆ: Rq
   };
-  ds[_r.ⲆⵠᐃΔᐃ] = {
+  ds[196] = {
     name: "Crab Stick",
-    ⵠⵠ: Xr.ⲆⲆⵠⵠⲆⲆΔ,
+    ⵠⵠ: 196,
     ⵠⲆᐃⲆ: Hi,
     ⲆΔⲆⲆ: 0
   };
   const hh = Wa;
-  ds[_r.ᐃⵠᐃΔ] = {
+  ds[202] = {
     name: "Reidite",
-    ⵠⵠ: Xr.ᐃⵠⵠⵠΔᐃⵠ,
+    ⵠⵠ: 938,
     ⵠⲆᐃⲆ: ya,
     ⲆΔⲆⲆ: os
   };
-  ds[_r.ⲆⵠⵠΔⲆ] = {
+  ds[203] = {
     name: "Flame",
-    ⵠⵠ: Xr.ⲆⲆⵠⵠᐃΔᐃ,
+    ⵠⵠ: 936,
     ⵠⲆᐃⲆ: Rq,
     ⲆΔⲆⲆ: In
   };
-  ds[_r.ΔᐃᐃⲆⲆ] = {
+  ds[113] = {
     name: "Campfire",
-    ⵠⵠ: Xr.ΔᐃΔᐃⵠⲆᐃ,
+    ⵠⵠ: 302,
     ⵠⲆᐃⲆ: 0,
     ⲆΔⲆⲆ: 1
   };
@@ -3940,115 +3940,115 @@
   const gh = C;
   const uh = $k;
   const bh = Jq;
-  ds[_r.ΔⲆⵠΔΔ] = {
+  ds[198] = {
     name: "Bed",
-    ⵠⵠ: Xr.ᐃᐃⵠΔⵠΔᐃ,
+    ⵠⵠ: 909,
     ⵠⲆᐃⲆ: In,
     ⲆΔⲆⲆ: 1
   };
   const vh = _j;
   const dh = Lo;
-  ds[_r.ⵠⲆΔⵠᐃ] = {
+  ds[114] = {
     name: "Workbench",
-    ⵠⵠ: Xr.ᐃΔΔⲆⵠᐃᐃ,
+    ⵠⵠ: 262,
     ⵠⲆᐃⲆ: wj,
     ⲆΔⲆⲆ: 1
   };
-  ds[_r.ᐃᐃⲆΔⲆ] = {
+  ds[0] = {
     name: "Stone sword",
-    ⵠⵠ: Xr.ᐃⲆΔⲆⵠⲆᐃ,
+    ⵠⵠ: 254,
     ⵠⲆᐃⲆ: Zj,
     ⲆΔⲆⲆ: Xn
   };
   const ch = vi;
   const mh = fs;
-  ds[_r.ⲆⵠⵠⲆⲆ] = {
+  ds[1] = {
     name: "Stone pick",
-    ⵠⵠ: Xr.ᐃⵠᐃⲆⵠΔⲆ,
+    ⵠⵠ: 256,
     ⵠⲆᐃⲆ: wj,
     ⲆΔⲆⲆ: 1
   };
   const ph = $o;
-  ds[_r.ⵠᐃΔⲆᐃ] = {
+  ds[115] = {
     name: "Berries bush",
-    ⵠⵠ: Xr.ᐃᐃⲆᐃⲆΔⵠ,
+    ⵠⵠ: 284,
     ⵠⲆᐃⲆ: os,
     ⲆΔⲆⲆ: 0
   };
-  ds[_r.ⵠᐃⲆΔΔ] = {
+  ds[3] = {
     name: "Gold pick",
-    ⵠⵠ: Xr.ⲆΔΔΔᐃⲆΔ,
+    ⵠⵠ: 295,
     ⵠⲆᐃⲆ: ya,
     ⲆΔⲆⲆ: zs
   };
   const Ch = te;
   const Th = Bq;
   const fh = Ur;
-  ds[_r.ᐃⲆⵠΔⲆ] = {
+  ds[4] = {
     name: "Diamond pick",
-    ⵠⵠ: Xr.ᐃΔᐃᐃᐃᐃᐃ,
+    ⵠⵠ: 257,
     ⵠⲆᐃⲆ: 0,
     ⲆΔⲆⲆ: za
   };
-  ds[_r.ΔⵠᐃΔᐃ] = {
+  ds[57] = {
     name: "Wood sword",
-    ⵠⵠ: Xr.ᐃΔⲆᐃΔΔᐃ,
+    ⵠⵠ: 830,
     ⵠⲆᐃⲆ: mj,
     ⲆΔⲆⲆ: 1
   };
-  ds[_r.ⵠΔΔΔΔ] = {
+  ds[5] = {
     name: "Gold sword",
-    ⵠⵠ: Xr.ᐃⵠⵠⵠΔⵠΔ,
+    ⵠⵠ: 290,
     ⵠⲆᐃⲆ: wj,
     ⲆΔⲆⲆ: ie
   };
-  ds[_r.ᐃΔⲆᐃΔ] = {
+  ds[6] = {
     name: "Diamond sword",
-    ⵠⵠ: Xr.ᐃᐃⲆᐃⲆᐃⲆ,
+    ⵠⵠ: 291,
     ⵠⲆᐃⲆ: ya,
     ⲆΔⲆⲆ: 1
   };
   const zh = Gk;
-  ds[_r.ⲆΔⲆⲆⵠ] = {
+  ds[8] = {
     name: "Wood pick",
-    ⵠⵠ: Xr.ⲆᐃⵠⲆᐃⵠⲆ,
+    ⵠⵠ: 314,
     ⵠⲆᐃⲆ: 0,
     ⲆΔⲆⲆ: 1
   };
   const yh = Bi;
   const wh = ro;
-  ds[_r.ⲆⲆⲆⲆⵠ] = {
+  ds[162] = {
     name: "Wood wall",
-    ⵠⵠ: Xr.ᐃᐃⵠΔⲆᐃⲆ,
+    ⵠⵠ: 318,
     ⵠⲆᐃⲆ: ya,
     ⲆΔⲆⲆ: 1
   };
   const Ph = Y;
   const Ah = Vj;
-  ds[_r.ⵠⵠΔⵠⲆ] = {
+  ds[160] = {
     name: "Wood spike",
-    ⵠⵠ: Xr.ΔΔΔΔⵠΔᐃ,
+    ⵠⵠ: 320,
     ⵠⲆᐃⲆ: Da,
     ⲆΔⲆⲆ: 1
   };
-  ds[_r.ΔΔⵠⵠⲆ] = {
+  ds[117] = {
     name: "Cooked meat",
-    ⵠⵠ: Xr.ⵠΔⲆⲆΔⵠΔ,
+    ⵠⵠ: 325,
     ⵠⲆᐃⲆ: 0,
     ⲆΔⲆⲆ: In
   };
-  ds[_r.ᐃΔΔⵠΔ] = {
+  ds[118] = {
     name: "Big campfire",
-    ⵠⵠ: Xr.ΔᐃⵠᐃᐃⲆⵠ,
+    ⵠⵠ: 327,
     ⵠⲆᐃⲆ: 0,
     ⲆΔⲆⲆ: 1
   };
   const kh = ye;
   const xh = Nn;
   const Jh = Un;
-  ds[_r.ᐃΔᐃⲆᐃ] = {
+  ds[195] = {
     name: "Bandage",
-    ⵠⵠ: Xr.ⲆⵠⵠⲆᐃⵠⲆ,
+    ⵠⵠ: 304,
     ⵠⲆᐃⲆ: Zj,
     ⲆΔⲆⲆ: gs
   };
@@ -4056,291 +4056,291 @@
   const Bh = us;
   const Dh = vs;
   const Ih = ya;
-  ds[_r.ΔᐃⵠⲆⲆ] = {
+  ds[163] = {
     name: "Stone wall",
-    ⵠⵠ: Xr.ᐃⲆᐃⵠⲆΔᐃ,
+    ⵠⵠ: 263,
     ⵠⲆᐃⲆ: Lr,
     ⲆΔⲆⲆ: 1
   };
-  ds[_r.ᐃᐃᐃᐃᐃ] = {
+  ds[164] = {
     name: "Gold wall",
-    ⵠⵠ: Xr.ΔΔⲆΔⵠⵠⵠ,
+    ⵠⵠ: 265,
     ⵠⲆᐃⲆ: 0,
     ⲆΔⲆⲆ: 1
   };
-  ds[_r.ⵠᐃⲆᐃⵠ] = {
+  ds[165] = {
     name: "Diamond wall",
-    ⵠⵠ: Xr.ⵠⲆⵠⵠⵠⲆⵠ,
+    ⵠⵠ: 332,
     ⵠⲆᐃⲆ: Lr,
     ⲆΔⲆⲆ: 1
   };
   const Eh = Gj;
-  ds[_r.ΔⵠⵠⲆᐃ] = {
+  ds[166] = {
     name: "Wood door",
-    ⵠⵠ: Xr.ΔⵠΔΔᐃⲆᐃ,
+    ⵠⵠ: 268,
     ⵠⲆᐃⲆ: 0,
     ⲆΔⲆⲆ: ie
   };
-  ds[_r.ᐃⲆⲆⲆⲆ] = {
+  ds[167] = {
     name: "Chest",
-    ⵠⵠ: Xr.ΔⲆΔᐃᐃΔΔ,
+    ⵠⵠ: 338,
     ⵠⲆᐃⲆ: os,
     ⲆΔⲆⲆ: gs
   };
-  ds[_r.ⲆᐃⲆΔΔ] = {
+  ds[168] = {
     name: "Stone spike",
-    ⵠⵠ: Xr.ⵠⵠⲆⵠΔⵠⲆ,
+    ⵠⵠ: 360,
     ⵠⲆᐃⲆ: 0,
     ⲆΔⲆⲆ: 1
   };
   const Sh = sr;
-  ds[_r.Ⲇᐃⵠᐃⵠ] = {
+  ds[169] = {
     name: "Gold spike",
-    ⵠⵠ: Xr.ⵠⵠᐃΔⵠⵠⲆ,
+    ⵠⵠ: 363,
     ⵠⲆᐃⲆ: 0,
     ⲆΔⲆⲆ: 1
   };
   const Qh = on;
-  ds[_r.ⲆⵠᐃΔΔ] = {
+  ds[170] = {
     name: "Diamond spike",
-    ⵠⵠ: Xr.ⲆⲆΔⲆΔⵠⲆ,
+    ⵠⵠ: 365,
     ⵠⲆᐃⲆ: 0,
     ⲆΔⲆⲆ: 1
   };
-  ds[_r.ⵠΔᐃⲆΔ] = {
+  ds[171] = {
     name: "Stone door",
-    ⵠⵠ: Xr.ΔᐃⲆⲆⵠⲆΔ,
+    ⵠⵠ: 371,
     ⵠⲆᐃⲆ: 0,
     ⲆΔⲆⲆ: zs
   };
-  ds[_r.ᐃΔⵠⵠⵠ] = {
+  ds[172] = {
     name: "Gold door",
-    ⵠⵠ: Xr.ⲆⵠⵠΔΔΔᐃ,
+    ⵠⵠ: 374,
     ⵠⲆᐃⲆ: 0,
     ⲆΔⲆⲆ: mk
   };
-  ds[_r.ⵠΔᐃΔΔ] = {
+  ds[173] = {
     name: "Diamond door",
-    ⵠⵠ: Xr.ᐃΔΔΔⲆⵠⲆ,
+    ⵠⵠ: 377,
     ⵠⲆᐃⲆ: 0,
     ⲆΔⲆⲆ: gs
   };
-  ds[_r.ᐃⲆᐃⲆᐃ] = {
+  ds[10] = {
     name: "Chapka",
-    ⵠⵠ: Xr.ᐃⲆⲆⲆΔΔᐃ,
+    ⵠⵠ: 370,
     ⵠⲆᐃⲆ: ya,
     ⲆΔⲆⲆ: Te
   };
-  ds[_r.ᐃⵠⵠⵠΔ] = {
+  ds[11] = {
     name: "Big Chapka",
-    ⵠⵠ: Xr.ⲆΔⲆⵠⲆⵠΔ,
+    ⵠⵠ: 380,
     ⵠⲆᐃⲆ: 0,
     ⲆΔⲆⲆ: 1
   };
   const _h = dr;
-  ds[_r.ᐃᐃΔⲆⲆ] = {
+  ds[12] = {
     name: "Wood spear",
-    ⵠⵠ: Xr.ᐃᐃⵠⵠⲆΔΔ,
+    ⵠⵠ: 402,
     ⵠⲆᐃⲆ: 0,
     ⲆΔⲆⲆ: 1
   };
   const Fh = gh;
   const Rh = cs;
   const Gh = ie;
-  ds[_r.ⵠΔᐃⵠᐃ] = {
+  ds[13] = {
     name: "Stone spear",
-    ⵠⵠ: Xr.ΔⵠⵠᐃᐃΔᐃ,
+    ⵠⵠ: 396,
     ⵠⲆᐃⲆ: Zj,
     ⲆΔⲆⲆ: mk
   };
-  ds[_r.ⵠᐃᐃⵠΔ] = {
+  ds[14] = {
     name: "Gold spear",
-    ⵠⵠ: Xr.ᐃⲆⲆᐃⲆΔⲆ,
+    ⵠⵠ: 399,
     ⵠⲆᐃⲆ: 0,
     ⲆΔⲆⲆ: Te
   };
   const jh = uh;
   const Lh = di;
   const Wh = er;
-  ds[_r.ᐃᐃᐃᐃⲆ] = {
+  ds[15] = {
     name: "Diamond spear",
-    ⵠⵠ: Xr.ΔⵠᐃΔⲆⵠⵠ,
+    ⵠⵠ: 405,
     ⵠⲆᐃⲆ: 0,
     ⲆΔⲆⲆ: 1
   };
   const Oh = Kq;
-  ds[_r.ⲆⲆΔᐃᐃ] = {
+  ds[16] = {
     name: "Dragon spear",
-    ⵠⵠ: Xr.ⵠΔⲆⲆΔᐃⲆ,
+    ⵠⵠ: 876,
     ⵠⲆᐃⲆ: 0,
     ⲆΔⲆⲆ: 0
   };
-  ds[_r.ΔⲆᐃΔⵠ] = {
+  ds[17] = {
     name: "Dragon spear",
-    ⵠⵠ: Xr.ⵠᐃⲆⲆⲆⲆᐃ,
+    ⵠⵠ: 879,
     ⵠⲆᐃⲆ: 0,
     ⲆΔⲆⲆ: mj
   };
   const Nh = p;
   const qh = vi;
-  ds[_r.Ⲇᐃᐃᐃᐃ] = {
+  ds[18] = {
     name: "Crab spear",
-    ⵠⵠ: Xr.ⲆⲆᐃΔⲆⵠΔ,
+    ⵠⵠ: 900,
     ⵠⲆᐃⲆ: Zj,
     ⲆΔⲆⲆ: zs
   };
   const Hh = Qr;
-  ds[_r.ⵠⲆⵠᐃᐃ] = {
+  ds[197] = {
     name: "Crab loot",
-    ⵠⵠ: Xr.ᐃΔᐃΔⵠⵠΔ,
+    ⵠⵠ: 197,
     ⵠⲆᐃⲆ: os,
     ⲆΔⲆⲆ: mj
   };
   const Uh = sa;
   const Yh = Rq;
-  ds[_r.ⲆᐃΔᐃⵠ] = {
+  ds[119] = {
     name: "Furnace",
-    ⵠⵠ: Xr.ⲆⲆⵠᐃΔⲆᐃ,
+    ⵠⵠ: 409,
     ⵠⲆᐃⲆ: 0,
     ⲆΔⲆⲆ: Oq
   };
   const Kh = La;
   const Vh = jk;
-  ds[_r.ⲆᐃᐃΔᐃ] = {
+  ds[23] = {
     name: "Explorer hat",
-    ⵠⵠ: Xr.ⲆⲆⵠⵠⲆⲆᐃ,
+    ⵠⵠ: 421,
     ⵠⲆᐃⲆ: os,
     ⲆΔⲆⲆ: 1
   };
-  ds[_r.ⵠᐃᐃΔᐃ] = {
+  ds[24] = {
     name: "Pirate hat",
-    ⵠⵠ: Xr.ⵠⵠΔⵠᐃΔⵠ,
+    ⵠⵠ: 424,
     ⵠⲆᐃⲆ: mj,
     ⲆΔⲆⲆ: 1
   };
-  ds[_r.ⲆⵠΔᐃⲆ] = {
+  ds[87] = {
     name: "Flower hat",
-    ⵠⵠ: Xr.ⵠⵠᐃⲆᐃᐃⲆ,
+    ⵠⵠ: 1228,
     ⵠⲆᐃⲆ: 0,
     ⲆΔⲆⲆ: 1
   };
   const Zh = m;
   const Xh = Hs;
-  ds[_r.ⵠⲆⵠΔᐃ] = {
+  ds[88] = {
     name: "Fur hat",
-    ⵠⵠ: Xr.ᐃⵠᐃⲆᐃΔⵠ,
+    ⵠⵠ: 1231,
     ⵠⲆᐃⲆ: 0,
     ⲆΔⲆⲆ: zs
   };
-  ds[_r.ᐃᐃⲆⵠⵠ] = {
+  ds[58] = {
     name: "Wood helmet",
-    ⵠⵠ: Xr.ⵠⲆΔᐃⲆⲆⲆ,
+    ⵠⵠ: 827,
     ⵠⲆᐃⲆ: 0,
     ⲆΔⲆⲆ: zs
   };
-  ds[_r.Δᐃᐃⵠᐃ] = {
+  ds[25] = {
     name: "Stone helmet",
-    ⵠⵠ: Xr.ⲆⲆⵠⵠᐃⵠᐃ,
+    ⵠⵠ: 430,
     ⵠⲆᐃⲆ: 0,
     ⲆΔⲆⲆ: Te
   };
   const $h = fh;
   const el = ar;
-  ds[_r.ΔᐃΔⲆⲆ] = {
+  ds[26] = {
     name: "Gold helmet",
-    ⵠⵠ: Xr.ⲆᐃⲆⵠⲆᐃⵠ,
+    ⵠⵠ: 433,
     ⵠⲆᐃⲆ: 0,
     ⲆΔⲆⲆ: 1
   };
   const il = qa;
-  ds[_r.ᐃⲆⲆⵠᐃ] = {
+  ds[27] = {
     name: "Diamond helmet",
-    ⵠⵠ: Xr.ⵠᐃⵠΔⵠⵠⵠ,
+    ⵠⵠ: 436,
     ⵠⲆᐃⲆ: Zj,
     ⲆΔⲆⲆ: Gh
   };
   const tl = vn;
-  ds[_r.ᐃⵠΔΔⲆ] = {
+  ds[28] = {
     name: "Book",
-    ⵠⵠ: Xr.ᐃⵠⵠᐃⲆΔⵠ,
+    ⵠⵠ: 439,
     ⵠⲆᐃⲆ: Lr,
     ⲆΔⲆⲆ: 1
   };
-  ds[_r.ⵠΔΔΔⲆ] = {
+  ds[120] = {
     name: "Paper",
-    ⵠⵠ: Xr.ⲆⲆΔΔⵠⵠⵠ,
+    ⵠⵠ: 442,
     ⵠⲆᐃⲆ: 0,
     ⲆΔⲆⲆ: 0
   };
-  ds[_r.ⵠⲆᐃᐃ] = {
+  ds[29] = {
     name: "Bag",
-    ⵠⵠ: Xr.ⵠⲆⵠᐃⲆⲆΔ,
+    ⵠⵠ: 367,
     ⵠⲆᐃⲆ: 0,
     ⲆΔⲆⲆ: Oq
   };
-  ds[_r.ΔⲆᐃⵠΔ] = {
+  ds[30] = {
     name: "Amethyst sword",
-    ⵠⵠ: Xr.ⲆΔⲆᐃⲆⵠᐃ,
+    ⵠⵠ: 456,
     ⵠⲆᐃⲆ: 0,
     ⲆΔⲆⲆ: 1
   };
   const nl = Vn;
   const ol = b;
   const rl = ch;
-  ds[_r.ΔⲆⲆⵠⲆ] = {
+  ds[31] = {
     name: "Amethyst pick",
-    ⵠⵠ: Xr.ᐃⵠᐃⵠΔΔᐃ,
+    ⵠⵠ: 460,
     ⵠⲆᐃⲆ: os,
     ⲆΔⲆⲆ: 1
   };
   const al = C;
-  ds[_r.ᐃΔⵠⲆᐃ] = {
+  ds[33] = {
     name: "Amethyst spear",
-    ⵠⵠ: Xr.ⲆΔⵠΔⲆᐃⵠ,
+    ⵠⵠ: 473,
     ⵠⲆᐃⲆ: 0,
     ⲆΔⲆⲆ: gs
   };
   const sl = ci;
-  ds[_r.ⲆᐃΔⲆΔ] = {
+  ds[35] = {
     name: "Stone hammer",
-    ⵠⵠ: Xr.ᐃΔᐃΔⵠᐃΔ,
+    ⵠⵠ: 478,
     ⵠⲆᐃⲆ: Hi,
     ⲆΔⲆⲆ: 1
   };
-  ds[_r.ⲆⲆⵠⲆⲆ] = {
+  ds[36] = {
     name: "Gold hammer",
-    ⵠⵠ: Xr.ΔⵠΔⵠᐃΔΔ,
+    ⵠⵠ: 481,
     ⵠⲆᐃⲆ: mj,
     ⲆΔⲆⲆ: 1
   };
   const hl = z;
   const ll = ea;
   const gl = Gi;
-  ds[_r.ⵠΔΔΔⵠ] = {
+  ds[37] = {
     name: "Diamond hammer",
-    ⵠⵠ: Xr.ᐃⵠΔᐃⵠⵠΔ,
+    ⵠⵠ: 484,
     ⵠⲆᐃⲆ: 0,
     ⲆΔⲆⲆ: 1
   };
   const ul = v;
   const bl = b;
   const vl = yq;
-  ds[_r.ᐃⵠⵠⵠᐃ] = {
+  ds[38] = {
     name: "Amethyst hammer",
-    ⵠⵠ: Xr.ⲆⲆⵠᐃΔⲆΔ,
+    ⵠⵠ: 487,
     ⵠⲆᐃⲆ: 0,
     ⲆΔⲆⲆ: Te
   };
-  ds[_r.ᐃⵠⲆⵠΔ] = {
+  ds[39] = {
     name: "Reidite hammer",
-    ⵠⵠ: Xr.ⵠⵠᐃⵠΔᐃⲆ,
+    ⵠⵠ: 490,
     ⵠⲆᐃⲆ: Lr,
     ⲆΔⲆⲆ: 1
   };
   const dl = rr;
-  ds[_r.ᐃΔⵠⵠΔ] = {
+  ds[122] = {
     name: "Amethyst wall",
-    ⵠⵠ: Xr.ᐃⵠᐃΔᐃⵠⵠ,
+    ⵠⵠ: 493,
     ⵠⲆᐃⲆ: 0,
     ⲆΔⲆⲆ: Te
   };
@@ -4350,29 +4350,29 @@
   const Cl = da;
   const Tl = Oq;
   const fl = Hi;
-  ds[_r.ᐃⲆⵠᐃᐃ] = {
+  ds[123] = {
     name: "Amethyst spike",
-    ⵠⵠ: Xr.ΔᐃⲆⵠⲆⲆⵠ,
+    ⵠⵠ: 496,
     ⵠⲆᐃⲆ: 0,
     ⲆΔⲆⲆ: 1
   };
   const zl = Bo;
   const yl = po;
-  ds[_r.Δⵠᐃⵠᐃ] = {
+  ds[124] = {
     name: "Amethyst door",
-    ⵠⵠ: Xr.ⲆⵠᐃⲆⲆⵠⵠ,
+    ⵠⵠ: 498,
     ⵠⲆᐃⲆ: 0,
     ⲆΔⲆⲆ: mk
   };
-  ds[_r.ᐃⲆⲆΔΔ] = {
+  ds[40] = {
     name: "Cap & scarf",
-    ⵠⵠ: Xr.ⲆⵠⵠᐃᐃΔΔ,
+    ⵠⵠ: 503,
     ⵠⲆᐃⲆ: 0,
     ⲆΔⲆⲆ: mk
   };
-  ds[_r.ⲆⲆⲆᐃⵠ] = {
+  ds[147] = {
     name: "Blue cord",
-    ⵠⵠ: Xr.ΔⲆⲆⵠᐃⲆᐃ,
+    ⵠⵠ: 515,
     ⵠⲆᐃⲆ: Da,
     ⲆΔⲆⲆ: 0
   };
@@ -4380,46 +4380,46 @@
   const Pl = Pe;
   const Al = D;
   const kl = Fo;
-  ds[_r.ⵠⵠⲆⵠᐃ] = {
+  ds[148] = {
     name: "Lock",
-    ⵠⵠ: Xr.ⲆΔᐃΔⵠΔⲆ,
+    ⵠⵠ: 519,
     ⵠⲆᐃⲆ: ya,
     ⲆΔⲆⲆ: 1
   };
   const xl = Al;
-  ds[_r.ⲆⲆⵠⵠᐃ] = {
+  ds[151] = {
     name: "Resurrection",
-    ⵠⵠ: Xr.ⵠΔΔΔⵠᐃⵠ,
+    ⵠⵠ: 530,
     ⵠⲆᐃⲆ: Ih,
     ⲆΔⲆⲆ: Tl
   };
-  ds[_r.ᐃⵠᐃⲆⵠ] = {
+  ds[158] = {
     name: "Lockpick",
-    ⵠⵠ: Xr.ⵠⵠⵠΔΔⵠⲆ,
+    ⵠⵠ: 533,
     ⵠⲆᐃⲆ: Hi,
     ⲆΔⲆⲆ: Te
   };
-  ds[_r.ⲆⵠᐃᐃΔ] = {
+  ds[159] = {
     name: "Totem",
-    ⵠⵠ: Xr.ⲆᐃΔⲆⵠⵠᐃ,
+    ⵠⵠ: 555,
     ⵠⲆᐃⲆ: os,
     ⲆΔⲆⲆ: zs
   };
-  ds[_r.ⵠⲆⲆⵠⵠ] = {
+  ds[43] = {
     name: "Amethyst helmet",
-    ⵠⵠ: Xr.Ⲇⵠᐃᐃᐃᐃⵠ,
+    ⵠⵠ: 542,
     ⵠⲆᐃⲆ: 0,
     ⲆΔⲆⲆ: 1
   };
-  ds[_r.ⵠⵠᐃᐃⲆ] = {
+  ds[45] = {
     name: "Super hammer",
-    ⵠⵠ: Xr.ⵠⲆᐃⲆΔⲆⲆ,
+    ⵠⵠ: 551,
     ⵠⲆᐃⲆ: mj,
     ⲆΔⲆⲆ: 1
   };
-  ds[_r.ⲆᐃⲆᐃⵠ] = {
+  ds[125] = {
     name: "Bridge",
-    ⵠⵠ: Xr.ΔⲆⲆΔΔⵠᐃ,
+    ⵠⵠ: 604,
     ⵠⲆᐃⲆ: Te,
     ⲆΔⲆⲆ: 1
   };
@@ -4427,99 +4427,99 @@
   const Ml = Zo;
   const Bl = Sa;
   const Dl = wq;
-  ds[_r.ⵠᐃⵠᐃⵠ] = {
+  ds[221] = {
     name: "Wood Tower",
-    ⵠⵠ: Xr.ⵠᐃⲆⵠᐃΔⲆ,
+    ⵠⵠ: 1235,
     ⵠⲆᐃⲆ: mk,
     ⲆΔⲆⲆ: Oq
   };
-  ds[_r.ΔᐃᐃⵠΔ] = {
+  ds[127] = {
     name: "Bottle full",
-    ⵠⵠ: Xr.ⵠⲆᐃᐃᐃᐃⵠ,
+    ⵠⵠ: 715,
     ⵠⲆᐃⲆ: 0,
     ⲆΔⲆⲆ: 0
   };
-  ds[_r.ᐃⲆⵠΔᐃ] = {
+  ds[128] = {
     name: "Bottle empty",
-    ⵠⵠ: Xr.ΔᐃⲆⲆⵠΔᐃ,
+    ⵠⵠ: 611,
     ⵠⲆᐃⲆ: 0,
     ⲆΔⲆⲆ: 0
   };
-  ds[_r.ᐃΔΔΔΔ] = {
+  ds[46] = {
     name: "Stone shovel",
-    ⵠⵠ: Xr.ᐃⵠⲆΔᐃⲆᐃ,
+    ⵠⵠ: 618,
     ⵠⲆᐃⲆ: 0,
     ⲆΔⲆⲆ: 1
   };
-  ds[_r.ⲆΔᐃΔⲆ] = {
+  ds[130] = {
     name: "Watering can",
-    ⵠⵠ: Xr.ΔᐃᐃⵠⲆⲆⵠ,
+    ⵠⵠ: 627,
     ⵠⲆᐃⲆ: Yh,
     ⲆΔⲆⲆ: 0
   };
-  ds[_r.ⲆΔᐃΔΔ] = {
+  ds[132] = {
     name: "Wheat",
-    ⵠⵠ: Xr.ΔΔⲆᐃᐃΔΔ,
+    ⵠⵠ: 632,
     ⵠⲆᐃⲆ: 0,
     ⲆΔⲆⲆ: mj
   };
-  ds[_r.ⲆᐃᐃⵠΔ] = {
+  ds[133] = {
     name: "Cookie",
-    ⵠⵠ: Xr.ΔΔΔᐃᐃᐃⵠ,
+    ⵠⵠ: 635,
     ⵠⲆᐃⲆ: Yh,
     ⲆΔⲆⲆ: Lr
   };
   const Il = hs;
-  ds[_r.ⵠΔⲆⲆΔ] = {
+  ds[135] = {
     name: "Windmill",
-    ⵠⵠ: Xr.ΔᐃΔⵠⲆΔⵠ,
+    ⵠⵠ: 643,
     ⵠⲆᐃⲆ: Ih,
     ⲆΔⲆⲆ: 1
   };
-  ds[_r.ᐃⵠⵠⲆΔ] = {
+  ds[47] = {
     name: "Super diving suit",
-    ⵠⵠ: Xr.ⲆᐃⲆⵠⲆⲆΔ,
+    ⵠⵠ: 647,
     ⵠⲆᐃⲆ: Da,
     ⲆΔⲆⲆ: 1
   };
   const El = Hq;
   const Sl = $a;
-  ds[_r.ᐃⲆⵠⲆⲆ] = {
+  ds[48] = {
     name: "Diving mask",
-    ⵠⵠ: Xr.ⲆⲆⲆⵠΔΔΔ,
+    ⵠⵠ: 650,
     ⵠⲆᐃⲆ: 0,
     ⲆΔⲆⲆ: Gh
   };
-  ds[_r.ᐃᐃΔⵠΔ] = {
+  ds[49] = {
     name: "Watering can full",
-    ⵠⵠ: Xr.ⲆⲆΔᐃⵠⲆⲆ,
+    ⵠⵠ: 654,
     ⵠⲆᐃⲆ: 0,
     ⲆΔⲆⲆ: fl
   };
   const Ql = nk;
   const _l = xs;
-  ds[_r.ⵠᐃⲆⲆᐃ] = {
+  ds[136] = {
     name: "Cake",
-    ⵠⵠ: Xr.ᐃᐃⲆΔᐃⲆᐃ,
+    ⵠⵠ: 660,
     ⵠⲆᐃⲆ: Da,
     ⲆΔⲆⲆ: 0
   };
-  ds[_r.ⵠⲆΔⲆᐃ] = {
+  ds[138] = {
     name: "Foodfish cooked",
-    ⵠⵠ: Xr.ⲆⲆΔⲆΔⲆⵠ,
+    ⵠⵠ: 666,
     ⵠⲆᐃⲆ: wj,
     ⲆΔⲆⲆ: Hi
   };
   const Fl = b;
-  ds[_r.ΔΔΔⵠⵠ] = {
+  ds[141] = {
     name: "Plot",
-    ⵠⵠ: Xr.ⵠⲆⵠΔⵠΔⲆ,
+    ⵠⵠ: 684,
     ⵠⲆᐃⲆ: zs,
     ⲆΔⲆⲆ: 1
   };
-  ds[_r.ⲆⵠΔⲆΔ] = {
+  ds[143] = {
     name: "Bread",
-    ⵠⵠ: Xr.ΔΔᐃⲆᐃⲆⵠ,
+    ⵠⵠ: 690,
     ⵠⲆᐃⲆ: 0,
     ⲆΔⲆⲆ: ya
   };
@@ -4535,31 +4535,31 @@
     ⵠⲆᐃⲆ: Rq,
     ⲆΔⲆⲆ: 1
   };
-  ds[_r.ⲆΔΔⵠⵠ] = {
+  ds[50] = {
     name: "Gold shovel",
-    ⵠⵠ: Xr.ΔᐃᐃⵠⲆΔⵠ,
+    ⵠⵠ: 700,
     ⵠⲆᐃⲆ: In,
     ⲆΔⲆⲆ: Tl
   };
   const Rl = jk;
   const Gl = Zn;
-  ds[_r.ⵠᐃⵠᐃΔ] = {
+  ds[51] = {
     name: "Diamond shovel",
-    ⵠⵠ: Xr.ⲆᐃⵠᐃΔⲆⵠ,
+    ⵠⵠ: 704,
     ⵠⲆᐃⲆ: Da,
     ⲆΔⲆⲆ: 1
   };
   const jl = Tk;
   const Ll = ta;
-  ds[_r.ⵠᐃⲆⲆⵠ] = {
+  ds[52] = {
     name: "Amethyst shovel",
-    ⵠⵠ: Xr.ⲆᐃⵠⲆΔᐃᐃ,
+    ⵠⵠ: 706,
     ⵠⲆᐃⲆ: Ih,
     ⲆΔⲆⲆ: 1
   };
-  ds[_r.ᐃⵠᐃΔⵠ] = {
+  ds[55] = {
     name: "Spanner",
-    ⵠⵠ: Xr.ⵠⵠⲆΔΔᐃᐃ,
+    ⵠⵠ: 711,
     ⵠⲆᐃⲆ: fl,
     ⲆΔⲆⲆ: 1
   };
@@ -4569,89 +4569,89 @@
   const ql = Ak;
   const Hl = rk;
   const Ul = jk;
-  ds[_r.Ⲇᐃⵠⵠᐃ] = {
+  ds[56] = {
     name: "Machete",
-    ⵠⵠ: Xr.ⲆΔΔᐃⵠⲆⲆ,
+    ⵠⵠ: 714,
     ⵠⲆᐃⲆ: fl,
     ⲆΔⲆⲆ: 1
   };
-  ds[_r.Δᐃᐃᐃᐃ] = {
+  ds[144] = {
     name: "Bread oven",
-    ⵠⵠ: Xr.ᐃΔΔΔⵠⵠᐃ,
+    ⵠⵠ: 718,
     ⵠⲆᐃⲆ: 0,
     ⲆΔⲆⲆ: 1
   };
-  ds[_r.ⲆⲆΔⵠⵠ] = {
+  ds[145] = {
     name: "Sandwich",
-    ⵠⵠ: Xr.ᐃᐃⲆⲆᐃΔΔ,
+    ⵠⵠ: 730,
     ⵠⲆᐃⲆ: 0,
     ⲆΔⲆⲆ: 0
   };
   const Yl = y;
   const Kl = Dl;
   const Vl = qq;
-  ds[_r.ᐃⵠΔᐃΔ] = {
+  ds[59] = {
     name: "Dragon helmet",
-    ⵠⵠ: Xr.ⵠᐃⲆΔΔΔⲆ,
+    ⵠⵠ: 734,
     ⵠⲆᐃⲆ: fl,
     ⲆΔⲆⲆ: 0
   };
   const Zl = Z;
-  ds[_r.ⵠᐃΔΔⵠ] = {
+  ds[60] = {
     name: "Dragon helmet",
-    ⵠⵠ: Xr.ⵠⵠⵠⵠΔⲆⲆ,
+    ⵠⵠ: 737,
     ⵠⲆᐃⲆ: 0,
     ⲆΔⲆⲆ: 0
   };
   const Xl = yh;
-  ds[_r.ᐃⵠᐃⵠⵠ] = {
+  ds[90] = {
     name: "Witch",
-    ⵠⵠ: Xr.ΔⲆⵠΔⲆⲆⲆ,
+    ⵠⵠ: 740,
     ⵠⲆᐃⲆ: 0,
     ⲆΔⲆⲆ: In
   };
   const $l = Pl;
-  ds[_r.ⲆⵠΔΔΔ] = {
+  ds[91] = {
     name: "Nimbus",
-    ⵠⵠ: Xr.ΔΔⲆᐃᐃᐃⵠ,
+    ⵠⵠ: 743,
     ⵠⲆᐃⲆ: 0,
     ⲆΔⲆⲆ: 0
   };
-  ds[_r.ᐃΔⵠⵠᐃ] = {
+  ds[92] = {
     name: "Wand1",
-    ⵠⵠ: Xr.ⲆⲆΔΔⲆᐃⲆ,
+    ⵠⵠ: 746,
     ⵠⲆᐃⲆ: os,
     ⲆΔⲆⲆ: Da
   };
-  ds[_r.ⵠⵠᐃᐃΔ] = {
+  ds[93] = {
     name: "Wand2",
-    ⵠⵠ: Xr.ⲆⵠⵠΔⲆⵠⲆ,
+    ⵠⵠ: 749,
     ⵠⲆᐃⲆ: 0,
     ⲆΔⲆⲆ: Ih
   };
-  ds[_r.ⵠᐃᐃΔⵠ] = {
+  ds[62] = {
     name: "Dragon sword",
-    ⵠⵠ: Xr.ⵠΔⲆⵠΔⵠⲆ,
+    ⵠⵠ: 564,
     ⵠⲆᐃⲆ: 0,
     ⲆΔⲆⲆ: 0
   };
-  ds[_r.ⲆⲆᐃᐃⲆ] = {
+  ds[63] = {
     name: "Dragon sword",
-    ⵠⵠ: Xr.ΔⵠΔΔΔΔᐃ,
+    ⵠⵠ: 567,
     ⵠⲆᐃⲆ: 0,
     ⲆΔⲆⲆ: 0
   };
-  ds[_r.ⲆΔⵠΔΔ] = {
+  ds[71] = {
     name: "Wood shield",
-    ⵠⵠ: Xr.ⵠᐃⵠⵠΔΔⵠ,
+    ⵠⵠ: 1238,
     ⵠⲆᐃⲆ: 0,
     ⲆΔⲆⲆ: mk
   };
   const eg = ea;
   const ig = ya;
-  ds[_r.ᐃΔᐃΔⲆ] = {
+  ds[72] = {
     name: "Stone shield",
-    ⵠⵠ: Xr.ΔⵠᐃΔⲆⲆΔ,
+    ⵠⵠ: 1241,
     ⵠⲆᐃⲆ: 0,
     ⲆΔⲆⲆ: Te
   };
@@ -4659,2290 +4659,2290 @@
   const ng = zi;
   const og = Tl;
   const rg = Sa;
-  ds[_r.ᐃᐃΔᐃⲆ] = {
+  ds[73] = {
     name: "Gold shield",
-    ⵠⵠ: Xr.ⲆⲆⵠⵠⲆᐃⵠ,
+    ⵠⵠ: 1244,
     ⵠⲆᐃⲆ: In,
     ⲆΔⲆⲆ: gs
   };
-  ds[_r.ΔⲆΔΔΔ] = {
+  ds[74] = {
     name: "Diamond shield",
-    ⵠⵠ: Xr.ⵠⵠᐃⲆᐃⲆᐃ,
+    ⵠⵠ: 1247,
     ⵠⲆᐃⲆ: 0,
     ⲆΔⲆⲆ: za
   };
-  ds[_r.ᐃΔⵠᐃⵠ] = {
+  ds[75] = {
     name: "Amethyst shield",
-    ⵠⵠ: Xr.ΔΔᐃᐃΔᐃⲆ,
+    ⵠⵠ: 1250,
     ⵠⲆᐃⲆ: 0,
     ⲆΔⲆⲆ: 1
   };
-  ds[_r.Δⵠᐃᐃᐃ] = {
+  ds[76] = {
     name: "Reidite shield",
-    ⵠⵠ: Xr.ΔⲆⲆΔΔᐃⵠ,
+    ⵠⵠ: 1253,
     ⵠⲆᐃⲆ: Zj,
     ⲆΔⲆⲆ: 1
   };
-  ds[_r.ΔᐃⲆᐃᐃ] = {
+  ds[94] = {
     name: "Wood axe",
-    ⵠⵠ: Xr.ⲆᐃⵠⲆᐃᐃⵠ,
+    ⵠⵠ: 1256,
     ⵠⲆᐃⲆ: 0,
     ⲆΔⲆⲆ: 1
   };
   const ag = zi;
-  ds[_r.ᐃⲆΔⲆⵠ] = {
+  ds[95] = {
     name: "Stone axe",
-    ⵠⵠ: Xr.ⲆᐃⲆⲆⲆᐃᐃ,
+    ⵠⵠ: 1259,
     ⵠⲆᐃⲆ: mj,
     ⲆΔⲆⲆ: 1
   };
   const sg = Il;
-  ds[_r.ⲆᐃᐃⲆᐃ] = {
+  ds[96] = {
     name: "Gold axe",
-    ⵠⵠ: Xr.ᐃΔᐃΔΔᐃᐃ,
+    ⵠⵠ: 1262,
     ⵠⲆᐃⲆ: Hi,
     ⲆΔⲆⲆ: 1
   };
-  ds[_r.ⲆⲆⲆⵠⵠ] = {
+  ds[97] = {
     name: "Diamond axe",
-    ⵠⵠ: Xr.ⵠΔⲆᐃⲆⵠΔ,
+    ⵠⵠ: 1265,
     ⵠⲆᐃⲆ: Lr,
     ⲆΔⲆⲆ: gs
   };
-  ds[_r.ΔΔⲆᐃᐃ] = {
+  ds[98] = {
     name: "Amethyst axe",
-    ⵠⵠ: Xr.ΔⲆΔⵠⵠᐃⵠ,
+    ⵠⵠ: 1268,
     ⵠⲆᐃⲆ: 0,
     ⲆΔⲆⲆ: 1
   };
-  ds[_r.ⲆⲆⲆᐃΔ] = {
+  ds[99] = {
     name: "Reidite axe",
-    ⵠⵠ: Xr.ⵠⵠⲆᐃΔᐃᐃ,
+    ⵠⵠ: 1271,
     ⵠⲆᐃⲆ: 0,
     ⲆΔⲆⲆ: 1
   };
   const hg = Zo;
   const lg = Ra;
   const gg = R;
-  ds[_r.ΔΔΔⲆΔ] = {
+  ds[64] = {
     name: "Wood bow",
-    ⵠⵠ: Xr.ⵠⵠᐃⵠⵠⵠᐃ,
+    ⵠⵠ: 570,
     ⵠⲆᐃⲆ: ya,
     ⲆΔⲆⲆ: za
   };
-  ds[_r.ⲆΔᐃΔⵠ] = {
+  ds[65] = {
     name: "Stone bow",
-    ⵠⵠ: Xr.ΔᐃⵠΔᐃⵠⲆ,
+    ⵠⵠ: 573,
     ⵠⲆᐃⲆ: 0,
     ⲆΔⲆⲆ: zs
   };
-  ds[_r.ᐃᐃⲆᐃᐃ] = {
+  ds[66] = {
     name: "Gold bow",
-    ⵠⵠ: Xr.ⵠⲆⵠⵠΔⵠⵠ,
+    ⵠⵠ: 576,
     ⵠⲆᐃⲆ: 0,
     ⲆΔⲆⲆ: 1
   };
   const ug = ik;
-  ds[_r.Δᐃᐃⵠⵠ] = {
+  ds[67] = {
     name: "Diamond bow",
-    ⵠⵠ: Xr.ᐃᐃᐃⵠΔᐃᐃ,
+    ⵠⵠ: 579,
     ⵠⲆᐃⲆ: Lr,
     ⲆΔⲆⲆ: Te
   };
-  ds[_r.ⵠΔΔᐃᐃ] = {
+  ds[68] = {
     name: "Amethyst bow",
-    ⵠⵠ: Xr.ⵠⵠⲆΔΔᐃⲆ,
+    ⵠⵠ: 582,
     ⵠⲆᐃⲆ: 0,
     ⲆΔⲆⲆ: mk
   };
   const bg = m;
-  ds[_r.ΔᐃⵠⵠΔ] = {
+  ds[69] = {
     name: "Reidite bow",
-    ⵠⵠ: Xr.ⵠⵠᐃΔⲆΔⵠ,
+    ⵠⵠ: 585,
     ⵠⲆᐃⲆ: 0,
     ⲆΔⲆⲆ: Wl
   };
-  ds[_r.ⵠΔⲆΔⲆ] = {
+  ds[70] = {
     name: "Dragon bow",
-    ⵠⵠ: Xr.ᐃⲆᐃΔⲆⵠᐃ,
+    ⵠⵠ: 588,
     ⵠⲆᐃⲆ: 0,
     ⲆΔⲆⲆ: 0
   };
   const vg = pq;
-  ds[_r.ᐃⲆΔⵠⵠ] = {
+  ds[77] = {
     name: "Crown of life",
-    ⵠⵠ: Xr.ⵠⵠᐃⲆΔⲆᐃ,
+    ⵠⵠ: 758,
     ⵠⲆᐃⲆ: 0,
     ⲆΔⲆⲆ: Hi
   };
   const dg = p;
-  ds[_r.ΔᐃΔᐃⵠ] = {
+  ds[175] = {
     name: "Gem of life",
-    ⵠⵠ: Xr.ᐃⵠⵠⲆΔΔⲆ,
+    ⵠⵠ: 176,
     ⵠⲆᐃⲆ: Hi,
     ⲆΔⲆⲆ: Hi
   };
-  ds[_r.ᐃⲆΔᐃᐃ] = {
+  ds[185] = {
     name: "Orb of the dragon",
-    ⵠⵠ: Xr.ᐃᐃᐃΔⵠΔᐃ,
+    ⵠⵠ: 252,
     ⵠⲆᐃⲆ: fl,
     ⲆΔⲆⲆ: 0
   };
-  ds[_r.ΔⲆᐃᐃⲆ] = {
+  ds[187] = {
     name: "Orb of the dragon",
-    ⵠⵠ: Xr.ᐃᐃᐃⲆⲆᐃΔ,
+    ⵠⵠ: 253,
     ⵠⲆᐃⲆ: 0,
     ⲆΔⲆⲆ: 0
   };
-  ds[_r.ⵠᐃΔⵠΔ] = {
+  ds[184] = {
     name: "Cube of the dragon",
-    ⵠⵠ: Xr.ᐃᐃⵠᐃⲆΔⲆ,
+    ⵠⵠ: 751,
     ⵠⲆᐃⲆ: Da,
     ⲆΔⲆⲆ: 0
   };
-  ds[_r.ⲆⲆΔⲆΔ] = {
+  ds[186] = {
     name: "Cube of the dragon",
-    ⵠⵠ: Xr.ΔⵠᐃᐃⲆᐃⵠ,
+    ⵠⵠ: 753,
     ⵠⲆᐃⲆ: fl,
     ⲆΔⲆⲆ: 0
   };
   const cg = lj;
-  ds[_r.ⵠᐃⵠⵠΔ] = {
+  ds[78] = {
     name: "Crown of luck",
-    ⵠⵠ: Xr.ⲆⲆⲆᐃΔΔⵠ,
+    ⵠⵠ: 762,
     ⵠⲆᐃⲆ: 0,
     ⲆΔⲆⲆ: 0
   };
-  ds[_r.ⵠⲆⲆΔᐃ] = {
+  ds[176] = {
     name: "Gem of luck",
-    ⵠⵠ: Xr.ⵠΔᐃⲆᐃΔΔ,
+    ⵠⵠ: 177,
     ⵠⲆᐃⲆ: 0,
     ⲆΔⲆⲆ: Ih
   };
-  ds[_r.ⲆⲆᐃᐃΔ] = {
+  ds[79] = {
     name: "Crown of the angel",
-    ⵠⵠ: Xr.ᐃⵠⲆΔⵠⲆⲆ,
+    ⵠⵠ: 770,
     ⵠⲆᐃⲆ: 0,
     ⲆΔⲆⲆ: 0
   };
   const mg = Dk;
   const pg = Qh;
-  ds[_r.ΔΔⲆⲆᐃ] = {
+  ds[177] = {
     name: "Gem of the angel",
-    ⵠⵠ: Xr.ⲆⵠⲆⵠⲆⲆᐃ,
+    ⵠⵠ: 175,
     ⵠⲆᐃⲆ: ya,
     ⲆΔⲆⲆ: 0
   };
-  ds[_r.ⵠⵠⲆⵠⲆ] = {
+  ds[149] = {
     name: "Dragon heart",
-    ⵠⵠ: Xr.ᐃᐃᐃⲆᐃⲆⲆ,
+    ⵠⵠ: 521,
     ⵠⲆᐃⲆ: fl,
     ⲆΔⲆⲆ: 0
   };
-  ds[_r.ᐃⲆᐃⵠΔ] = {
+  ds[150] = {
     name: "Lava heart",
-    ⵠⵠ: Xr.ΔΔΔΔⵠⲆⲆ,
+    ⵠⵠ: 523,
     ⵠⲆᐃⲆ: 0,
     ⲆΔⲆⲆ: In
   };
   const Cg = ur;
-  ds[_r.ⲆΔⵠⵠᐃ] = {
+  ds[83] = {
     name: "Hood",
-    ⵠⵠ: Xr.ΔΔᐃᐃⵠⲆΔ,
+    ⵠⵠ: 768,
     ⵠⲆᐃⲆ: Lr,
     ⲆΔⲆⲆ: 1
   };
-  ds[_r.ΔᐃⲆⵠⵠ] = {
+  ds[84] = {
     name: "Peasant",
-    ⵠⵠ: Xr.ⵠᐃΔᐃᐃᐃΔ,
+    ⵠⵠ: 772,
     ⵠⲆᐃⲆ: 0,
     ⲆΔⲆⲆ: 1
   };
-  ds[_r.ΔᐃⵠⲆΔ] = {
+  ds[86] = {
     name: "Winter peasant",
-    ⵠⵠ: Xr.ⲆᐃⲆᐃΔⲆⵠ,
+    ⵠⵠ: 777,
     ⵠⲆᐃⲆ: 0,
     ⲆΔⲆⲆ: Da
   };
-  ds[_r.ΔΔᐃⲆΔ] = {
+  ds[85] = {
     name: "Winter hood",
-    ⵠⵠ: Xr.ΔⲆⵠⵠᐃΔᐃ,
+    ⵠⵠ: 780,
     ⵠⲆᐃⲆ: ya,
     ⲆΔⲆⲆ: Da
   };
   const Tg = qn;
-  ds[_r.ΔΔᐃΔΔ] = {
+  ds[180] = {
     name: "Bucket full",
-    ⵠⵠ: Xr.ᐃⵠΔⵠⲆΔⵠ,
+    ⵠⵠ: 784,
     ⵠⲆᐃⲆ: Ih,
     ⲆΔⲆⲆ: fl
   };
-  ds[_r.ⲆΔⵠΔᐃ] = {
+  ds[181] = {
     name: "Bucket empty",
-    ⵠⵠ: Xr.ⲆᐃᐃⵠⵠΔᐃ,
+    ⵠⵠ: 785,
     ⵠⲆᐃⲆ: 0,
     ⲆΔⲆⲆ: 1
   };
   const fg = Ni;
   const zg = Oq;
-  ds[_r.ⲆⵠⲆⵠⵠ] = {
+  ds[182] = {
     name: "Well",
-    ⵠⵠ: Xr.ᐃᐃⵠⵠⲆⵠΔ,
+    ⵠⵠ: 791,
     ⵠⲆᐃⲆ: 0,
     ⲆΔⲆⲆ: Wl
   };
   const yg = Yr;
-  ds[_r.ⵠΔᐃᐃᐃ] = {
+  ds[183] = {
     name: "Sign",
-    ⵠⵠ: Xr.ⵠⲆΔⵠⵠΔⲆ,
+    ⵠⵠ: 799,
     ⵠⲆᐃⲆ: 0,
     ⲆΔⲆⲆ: 1
   };
   const wg = os;
   const Pg = Lo;
   const Ag = Fh;
-  ds[_r.ᐃⵠᐃᐃⵠ] = {
+  ds[188] = {
     name: "Pumpkin Seed",
-    ⵠⵠ: Xr.ⲆᐃⲆⲆΔᐃΔ,
+    ⵠⵠ: 809,
     ⵠⲆᐃⲆ: Hi,
     ⲆΔⲆⲆ: 0
   };
-  ds[_r.ⲆⲆΔⲆⵠ] = {
+  ds[191] = {
     name: "Garlic Seed",
-    ⵠⵠ: Xr.ⲆΔⲆⲆⲆⵠⲆ,
+    ⵠⵠ: 835,
     ⵠⲆᐃⲆ: 0,
     ⲆΔⲆⲆ: 0
   };
-  ds[_r.ᐃⲆⲆᐃΔ] = {
+  ds[193] = {
     name: "Thorbushes Seed",
-    ⵠⵠ: Xr.ΔⲆΔᐃΔⲆⵠ,
+    ⵠⵠ: 846,
     ⵠⲆᐃⲆ: 0,
     ⲆΔⲆⲆ: 0
   };
-  ds[_r.ⲆᐃⵠΔΔ] = {
+  ds[190] = {
     name: "Roof",
-    ⵠⵠ: Xr.ΔᐃΔᐃᐃⲆΔ,
+    ⵠⵠ: 843,
     ⵠⲆᐃⲆ: Xn,
     ⲆΔⲆⲆ: 1
   };
   const kg = d;
-  ds[_r.ⲆⲆΔΔⵠ] = {
+  ds[61] = {
     name: "Crab Crown",
-    ⵠⵠ: Xr.ⲆᐃᐃᐃΔΔⲆ,
+    ⵠⵠ: 912,
     ⵠⲆᐃⲆ: ya,
     ⲆΔⲆⲆ: 1
   };
   const xg = Jo;
   const Jg = hn;
   const Mg = mj;
-  ds[_r.ⲆⵠΔᐃᐃ] = {
+  ds[204] = {
     name: "Carrot Seed",
-    ⵠⵠ: Xr.ᐃᐃᐃΔᐃⲆⲆ,
+    ⵠⵠ: 950,
     ⵠⲆᐃⲆ: 0,
     ⲆΔⲆⲆ: 0
   };
-  ds[_r.ᐃⵠΔΔΔ] = {
+  ds[206] = {
     name: "Tomato Seed",
-    ⵠⵠ: Xr.ᐃΔΔⲆⵠᐃⵠ,
+    ⵠⵠ: 960,
     ⵠⲆᐃⲆ: 0,
     ⲆΔⲆⲆ: 0
   };
-  ds[_r.ⲆΔⲆⵠΔ] = {
+  ds[208] = {
     name: "Watermelon Seed",
-    ⵠⵠ: Xr.ⲆⲆΔⵠⲆΔⵠ,
+    ⵠⵠ: 967,
     ⵠⲆᐃⲆ: wj,
     ⲆΔⲆⲆ: 0
   };
   const Bg = $h;
-  ds[_r.ΔⵠⵠΔⲆ] = {
+  ds[210] = {
     name: "Aloe Vera Seed",
-    ⵠⵠ: Xr.ⲆΔⲆⵠᐃΔΔ,
+    ⵠⵠ: 982,
     ⵠⲆᐃⲆ: mj,
     ⲆΔⲆⲆ: 0
   };
   const Dg = js;
   const Ig = Oj;
   const Eg = Zh;
-  ds[_r.ⵠᐃΔΔᐃ] = {
+  ds[80] = {
     name: "Cap",
-    ⵠⵠ: Xr.ⵠⵠᐃΔⵠᐃΔ,
+    ⵠⵠ: 1138,
     ⵠⲆᐃⲆ: 0,
     ⲆΔⲆⲆ: 1
   };
   const Sg = $h;
-  ds[_r.ⵠⵠΔᐃᐃ] = {
+  ds[81] = {
     name: "Turban",
-    ⵠⵠ: Xr.ⵠΔᐃᐃⵠΔⵠ,
+    ⵠⵠ: 1141,
     ⵠⲆᐃⲆ: Lr,
     ⲆΔⲆⲆ: 1
   };
-  ds[_r.ΔᐃᐃᐃΔ] = {
+  ds[82] = {
     name: "Pilot Helmet",
-    ⵠⵠ: Xr.ΔᐃⵠᐃᐃⲆᐃ,
+    ⵠⵠ: 427,
     ⵠⲆᐃⲆ: 0,
     ⲆΔⲆⲆ: 1
   };
-  ds[_r.ΔⲆΔΔⲆ] = {
+  ds[152] = {
     name: "Emerald Machine",
-    ⵠⵠ: Xr.ⵠⲆΔⲆⲆΔⵠ,
+    ⵠⵠ: 1196,
     ⵠⲆᐃⲆ: Lr,
     ⲆΔⲆⲆ: 0
   };
   const Qg = _h;
-  ds[_r.ⲆᐃΔⲆⵠ] = {
+  ds[153] = {
     name: "Emerald Machine",
-    ⵠⵠ: Xr.ⵠᐃΔⲆΔⲆⵠ,
+    ⵠⵠ: 1200,
     ⵠⲆᐃⲆ: Hi,
     ⲆΔⲆⲆ: zs
   };
   const _g = Eh;
-  ds[_r.ⲆΔᐃⵠⲆ] = {
+  ds[154] = {
     name: "Emerald Machine",
-    ⵠⵠ: Xr.ᐃⵠⲆⵠⲆᐃΔ,
+    ⵠⵠ: 1204,
     ⵠⲆᐃⲆ: ya,
     ⲆΔⲆⲆ: ie
   };
   const Fg = Vl;
   const Rg = V;
-  ds[_r.ΔⵠᐃⲆⵠ] = {
+  ds[155] = {
     name: "Emerald Machine",
-    ⵠⵠ: Xr.ᐃᐃΔⵠΔⵠᐃ,
+    ⵠⵠ: 1208,
     ⵠⲆᐃⲆ: In,
     ⲆΔⲆⲆ: 1
   };
-  ds[_r.ΔⲆⵠⵠⵠ] = {
+  ds[156] = {
     name: "Emerald Machine",
-    ⵠⵠ: Xr.ⵠΔⲆΔⲆⲆᐃ,
+    ⵠⵠ: 1212,
     ⵠⲆᐃⲆ: 0,
     ⲆΔⲆⲆ: 1
   };
   const Gg = Jj;
-  ds[_r.ⲆⲆⵠⵠΔ] = {
+  ds[157] = {
     name: "Emerald Machine",
-    ⵠⵠ: Xr.ᐃⵠⲆⲆΔⲆⲆ,
+    ⵠⵠ: 1216,
     ⵠⲆᐃⲆ: 0,
     ⲆΔⲆⲆ: mk
   };
   const jg = tl;
-  ds[_r.ⲆⵠⲆᐃΔ] = {
+  ds[53] = {
     name: "Pitchfork",
-    ⵠⵠ: Xr.ⲆᐃⵠΔΔΔⲆ,
+    ⵠⵠ: 977,
     ⵠⲆᐃⲆ: 0,
     ⲆΔⲆⲆ: Wl
   };
   const Lg = ea;
   const Wg = gl;
-  ds[_r.ᐃⲆΔᐃⲆ] = {
+  ds[212] = {
     name: "Wood Door Spike",
-    ⵠⵠ: Xr.ⵠᐃΔᐃᐃᐃⲆ,
+    ⵠⵠ: 990,
     ⵠⲆᐃⲆ: 0,
     ⲆΔⲆⲆ: Tl
   };
-  ds[_r.ΔⵠⵠΔΔ] = {
+  ds[213] = {
     name: "Stone Door Spike",
-    ⵠⵠ: Xr.ᐃⵠᐃⲆⲆⵠⲆ,
+    ⵠⵠ: 993,
     ⵠⲆᐃⲆ: mj,
     ⲆΔⲆⲆ: 1
   };
   const Og = rk;
   const Ng = Vn;
-  ds[_r.ΔΔⲆᐃⲆ] = {
+  ds[214] = {
     name: "Gold Door Spike",
-    ⵠⵠ: Xr.ⲆᐃΔⲆᐃᐃΔ,
+    ⵠⵠ: 996,
     ⵠⲆᐃⲆ: 0,
     ⲆΔⲆⲆ: mk
   };
-  ds[_r.ΔⵠΔⲆΔ] = {
+  ds[215] = {
     name: "Diamond Door Spike",
-    ⵠⵠ: Xr.ⵠⲆᐃⵠⲆᐃᐃ,
+    ⵠⵠ: 999,
     ⵠⲆᐃⲆ: 0,
     ⲆΔⲆⲆ: 1
   };
-  ds[_r.ⵠΔⲆⵠᐃ] = {
+  ds[216] = {
     name: "Amethyst Door Spike",
-    ⵠⵠ: Xr.ΔΔⲆᐃᐃᐃᐃ,
+    ⵠⵠ: 1002,
     ⵠⲆᐃⲆ: In,
     ⲆΔⲆⲆ: 1
   };
-  ds[_r.Δⵠⵠⵠᐃ] = {
+  ds[20] = {
     name: "Diamond Fire Protection ",
-    ⵠⵠ: Xr.ᐃⵠΔⵠⵠⵠᐃ,
+    ⵠⵠ: 922,
     ⵠⲆᐃⲆ: 0,
     ⲆΔⲆⲆ: 1
   };
-  ds[_r.ᐃΔᐃⲆⲆ] = {
+  ds[21] = {
     name: "Amethyst Fire Protection ",
-    ⵠⵠ: Xr.ⲆᐃΔⲆⵠΔⵠ,
+    ⵠⵠ: 926,
     ⵠⲆᐃⲆ: 0,
     ⲆΔⲆⲆ: Xn
   };
-  ds[_r.ⲆΔᐃΔᐃ] = {
+  ds[22] = {
     name: "Amethyst Fire Protection ",
-    ⵠⵠ: Xr.ⲆⲆᐃΔⲆᐃᐃ,
+    ⵠⵠ: 930,
     ⵠⲆᐃⲆ: Rq,
     ⲆΔⲆⲆ: Tl
   };
   const qg = ke;
-  ds[_r.ⵠⵠΔΔⵠ] = {
+  ds[19] = {
     name: "Reidite Sword",
-    ⵠⵠ: Xr.ᐃᐃᐃᐃⵠⲆⲆ,
+    ⵠⵠ: 933,
     ⵠⲆᐃⲆ: 0,
     ⲆΔⲆⲆ: Xn
   };
   const Hg = ie;
-  ds[_r.ᐃΔⲆⵠΔ] = {
+  ds[34] = {
     name: "Reidite Spear",
-    ⵠⵠ: Xr.ⵠΔΔΔΔⲆⲆ,
+    ⵠⵠ: 944,
     ⵠⲆᐃⲆ: 0,
     ⲆΔⲆⲆ: mk
   };
   const Ug = rs;
-  ds[_r.ⲆᐃⵠΔᐃ] = {
+  ds[44] = {
     name: "Reidite Helmet",
-    ⵠⵠ: Xr.ⵠΔⲆⲆⲆⲆᐃ,
+    ⵠⵠ: 947,
     ⵠⲆᐃⲆ: Ih,
     ⲆΔⲆⲆ: Te
   };
-  ds[_r.ᐃΔΔⵠᐃ] = {
+  ds[220] = {
     name: "Reidite Door Spike",
-    ⵠⵠ: Xr.ⲆᐃΔⵠᐃᐃⲆ,
+    ⵠⵠ: 1005,
     ⵠⲆᐃⲆ: Hi,
     ⲆΔⲆⲆ: gs
   };
   const Yg = J;
-  ds[_r.Ⲇᐃⵠⵠⵠ] = {
+  ds[218] = {
     name: "Reidite Door",
-    ⵠⵠ: Xr.ⵠᐃⲆⵠⵠⲆⵠ,
+    ⵠⵠ: 1008,
     ⵠⲆᐃⲆ: 0,
     ⲆΔⲆⲆ: 1
   };
-  ds[_r.ⵠⲆᐃᐃⲆ] = {
+  ds[219] = {
     name: "Reidite Spike",
-    ⵠⵠ: Xr.ⲆΔⵠⲆⲆⵠⲆ,
+    ⵠⵠ: 1011,
     ⵠⲆᐃⲆ: In,
     ⲆΔⲆⲆ: zs
   };
   const Kg = p;
   const Vg = Ul;
-  ds[_r.ᐃⵠⵠⲆᐃ] = {
+  ds[217] = {
     name: "Reidite Wall",
-    ⵠⵠ: Xr.ΔⲆⲆⲆⲆΔΔ,
+    ⵠⵠ: 1014,
     ⵠⲆᐃⲆ: 0,
     ⲆΔⲆⲆ: Oq
   };
   const Zg = kq;
   const Xg = Xa;
-  ds[_r.ⲆⵠΔⵠΔ] = {
+  ds[32] = {
     name: "Reidite pick",
-    ⵠⵠ: Xr.ᐃⲆᐃⵠᐃΔΔ,
+    ⵠⵠ: 1019,
     ⵠⲆᐃⲆ: 0,
     ⲆΔⲆⲆ: 1
   };
   const $g = da;
   const Ms = hg;
-  ds[_r.ⵠⵠⲆΔⲆ] = {
+  ds[223] = {
     name: "Boat",
-    ⵠⵠ: Xr.ΔⲆΔⲆⵠⵠᐃ,
+    ⵠⵠ: 1027,
     ⵠⲆᐃⲆ: Mg,
     ⲆΔⲆⲆ: 1
   };
-  ds[_r.ⵠᐃᐃⲆᐃ] = {
+  ds[224] = {
     name: "Sled",
-    ⵠⵠ: Xr.ⵠⲆⲆᐃⵠΔᐃ,
+    ⵠⵠ: 1030,
     ⵠⲆᐃⲆ: 0,
     ⲆΔⲆⲆ: 1
   };
-  ds[_r.ᐃⵠⲆⵠⲆ] = {
+  ds[89] = {
     name: "Saddle",
-    ⵠⵠ: Xr.ⵠΔΔⲆΔᐃΔ,
+    ⵠⵠ: 1048,
     ⵠⲆᐃⲆ: 0,
     ⲆΔⲆⲆ: 1
   };
-  ds[_r.ⵠⲆᐃⲆΔ] = {
+  ds[225] = {
     name: "Mount Boar",
-    ⵠⵠ: Xr.ΔΔⵠᐃⲆΔΔ,
+    ⵠⵠ: 1051,
     ⵠⲆᐃⲆ: wj,
     ⲆΔⲆⲆ: 0
   };
   const Ns = pn;
   const Os = Fr;
   const Ps = so;
-  ds[_r.ᐃⵠⵠᐃⵠ] = {
+  ds[226] = {
     name: "Mount King Crab",
-    ⵠⵠ: Xr.ⲆⵠᐃᐃⲆΔᐃ,
+    ⵠⵠ: 1191,
     ⵠⲆᐃⲆ: mj,
     ⲆΔⲆⲆ: ya
   };
-  ds[_r.ⲆⵠΔᐃⵠ] = {
+  ds[227] = {
     name: "Mount Baby Dragon",
-    ⵠⵠ: Xr.ⲆⵠⵠΔᐃⵠᐃ,
+    ⵠⵠ: 1082,
     ⵠⲆᐃⲆ: 0,
     ⲆΔⲆⲆ: Mg
   };
   const Qs = Rq;
-  ds[_r.ⲆⲆΔⵠⲆ] = {
+  ds[228] = {
     name: "Mount Baby Lava",
-    ⵠⵠ: Xr.ⵠᐃᐃⲆᐃⲆⵠ,
+    ⵠⵠ: 1097,
     ⵠⲆᐃⲆ: ig,
     ⲆΔⲆⲆ: 0
   };
   const Rs = qq;
   const Ss = zi;
-  ds[_r.ⵠᐃⲆⲆΔ] = {
+  ds[229] = {
     name: "Mount Hawk",
-    ⵠⵠ: Xr.ΔᐃⲆᐃⲆⵠΔ,
+    ⵠⵠ: 1112,
     ⵠⲆᐃⲆ: 0,
     ⲆΔⲆⲆ: 0
   };
-  ds[_r.ΔⵠΔΔⵠ] = {
+  ds[230] = {
     name: "Plane",
-    ⵠⵠ: Xr.ᐃΔⵠᐃᐃΔᐃ,
+    ⵠⵠ: 1116,
     ⵠⲆᐃⲆ: 0,
     ⲆΔⲆⲆ: 0
   };
   const Ts = ug;
   const Us = V;
-  ds[_r.ᐃΔΔᐃΔ] = {
+  ds[54] = {
     name: "Pitchfork 2",
-    ⵠⵠ: Xr.ᐃⲆⲆⵠⲆᐃⲆ,
+    ⵠⵠ: 980,
     ⵠⲆᐃⲆ: 0,
     ⲆΔⲆⲆ: 0
   };
-  ds[_r.ΔΔⵠⲆⲆ] = {
+  ds[239] = {
     name: "Baby Mammoth",
-    ⵠⵠ: Xr.ⵠⲆⲆⵠⵠⵠᐃ,
+    ⵠⵠ: 1226,
     ⵠⲆᐃⲆ: wg,
     ⲆΔⲆⲆ: Hi
   };
   var Vs = undefined;
   var Ws = [{
-    r: [[_r.ⵠᐃⵠⵠ, 25], [_r.ᐃΔⵠⲆ, 5]],
+    r: [[109, 25], [108, 5]],
     w: 0,
     f: 0,
     ⵠᐃⵠ: Ih,
     e: 0,
-    id: $r.ΔᐃᐃⲆⲆ,
-    Δⵠⵠⵠ: _r.ΔᐃᐃⲆⲆ,
+    id: 0,
+    Δⵠⵠⵠ: 113,
     time: 1 / Zg,
     ⵠⵠⵠ: bs.ΔⲆⵠⵠⲆ
   }, {
-    r: [[_r.ΔᐃᐃⲆⲆ, 1], [_r.ⵠᐃⵠⵠ, 35], [_r.ᐃΔⵠⲆ, kk]],
+    r: [[113, 1], [109, 35], [108, kk]],
     w: 0,
     f: Zj,
     ⵠᐃⵠ: 0,
     e: In,
-    id: $r.ᐃΔΔⵠΔ,
-    Δⵠⵠⵠ: _r.ᐃΔΔⵠΔ,
+    id: 1,
+    Δⵠⵠⵠ: 118,
     time: 1 / Hh,
     ⵠⵠⵠ: bs.ΔⲆⵠⵠⲆ
   }, {
-    r: [[_r.ⵠᐃⵠⵠ, 150], [_r.ᐃΔⵠⲆ, 50], [_r.ᐃⲆⵠᐃ, 15]],
+    r: [[109, 150], [108, 50], [111, 15]],
     w: Wl,
     f: Mg,
     ⵠᐃⵠ: fl,
     e: 0,
-    id: $r.ⲆᐃΔᐃⵠ,
-    Δⵠⵠⵠ: _r.ⲆᐃΔᐃⵠ,
+    id: 2,
+    Δⵠⵠⵠ: 119,
     time: Hg / 20,
     ⵠⵠⵠ: bs.ΔⲆⵠⵠⲆ
   }, {
-    r: [[_r.ⵠᐃⵠⵠ, 20], [_r.ᐃΔⵠⲆ, Zk]],
+    r: [[109, 20], [108, Zk]],
     w: In,
     f: Hi,
     ⵠᐃⵠ: 0,
     e: 0,
-    id: $r.ⵠⲆΔⵠᐃ,
-    Δⵠⵠⵠ: _r.ⵠⲆΔⵠᐃ,
+    id: 3,
+    Δⵠⵠⵠ: 114,
     time: 0.16666666666666666,
     ⵠⵠⵠ: bs.ΔⲆⵠⵠⲆ
   }, {
-    r: [[_r.ⵠᐃⵠⵠ, Ra]],
+    r: [[109, Ra]],
     w: wj,
     f: ya,
     ⵠᐃⵠ: 0,
     e: In,
-    id: $r.ⲆΔⲆⲆⵠ,
-    Δⵠⵠⵠ: _r.ⲆΔⲆⲆⵠ,
+    id: 4,
+    Δⵠⵠⵠ: 8,
     time: 1 / yr,
     ⵠⵠⵠ: bs.ⲆᐃⵠᐃΔ
   }, {
-    r: [[_r.ⲆΔⲆⲆⵠ, zs], [_r.ⵠᐃⵠⵠ, 50], [_r.ᐃΔⵠⲆ, Qh]],
+    r: [[8, zs], [109, 50], [108, Qh]],
     w: 1,
     f: fl,
     ⵠᐃⵠ: In,
     e: In,
-    id: $r.ⲆⵠⵠⲆⲆ,
-    Δⵠⵠⵠ: _r.ⲆⵠⵠⲆⲆ,
+    id: 5,
+    Δⵠⵠⵠ: 1,
     time: Gh / Vr,
     ⵠⵠⵠ: bs.ⲆᐃⵠᐃΔ
   }, {
-    r: [[_r.ⵠᐃⵠⵠ, 40], [_r.ᐃⲆⵠᐃ, 20], [_r.ᐃΔⵠⲆ, 30], [_r.ⲆⵠⵠⲆⲆ, zg]],
+    r: [[109, 40], [111, 20], [108, 30], [1, zg]],
     w: mk,
     f: Yh,
     ⵠᐃⵠ: In,
     e: 0,
-    id: $r.ⵠᐃⲆΔΔ,
-    Δⵠⵠⵠ: _r.ⵠᐃⲆΔΔ,
+    id: 6,
+    Δⵠⵠⵠ: 3,
     time: gs / F,
     ⵠⵠⵠ: bs.ⲆᐃⵠᐃΔ
   }, {
-    r: [[_r.ᐃⲆΔⵠ, 20], [_r.ᐃⲆⵠᐃ, 50], [_r.ᐃΔⵠⲆ, 80], [_r.ⵠᐃⲆΔΔ, Hg]],
+    r: [[112, 20], [111, 50], [108, 80], [3, Hg]],
     w: Hg,
     f: 0,
     ⵠᐃⵠ: 0,
     e: ya,
-    id: $r.ᐃⲆⵠΔⲆ,
-    Δⵠⵠⵠ: _r.ᐃⲆⵠΔⲆ,
+    id: 7,
+    Δⵠⵠⵠ: 4,
     time: Oq / Bs,
     ⵠⵠⵠ: bs.ⲆᐃⵠᐃΔ
   }, {
-    r: [[_r.ᐃⲆΔⵠ, 40], [_r.ᐃⲆⵠᐃ, 60], [_r.Ⲇⵠⵠⵠ, 30], [_r.ᐃⲆⵠΔⲆ, za]],
+    r: [[112, 40], [111, 60], [121, 30], [4, za]],
     w: gs,
     f: 0,
     ⵠᐃⵠ: 0,
     e: 0,
-    id: $r.ΔⲆⲆⵠⲆ,
-    Δⵠⵠⵠ: _r.ΔⲆⲆⵠⲆ,
+    id: 8,
+    Δⵠⵠⵠ: 31,
     time: 0.016666666666666666,
     ⵠⵠⵠ: bs.ⲆᐃⵠᐃΔ
   }, {
-    r: [[_r.Ⲇⵠⵠⵠ, 30], [_r.ᐃⲆΔⵠ, 40], [_r.ᐃⵠᐃΔ, 30], [_r.ΔⲆⲆⵠⲆ, Gh]],
+    r: [[121, 30], [112, 40], [202, 30], [31, Gh]],
     w: Hg,
     f: Rq,
     ⵠᐃⵠ: Zj,
     e: 0,
-    id: $r.ⲆⵠΔⵠΔ,
-    Δⵠⵠⵠ: _r.ⲆⵠΔⵠΔ,
+    id: 9,
+    Δⵠⵠⵠ: 32,
     time: 0.011111111111111112,
     ⵠⵠⵠ: bs.ⲆᐃⵠᐃΔ
   }, {
-    r: [[_r.ⵠᐃⵠⵠ, 90], [_r.ᐃΔⵠⲆ, 50]],
+    r: [[109, 90], [108, 50]],
     w: 1,
     f: wj,
     ⵠᐃⵠ: 0,
     e: 0,
-    id: $r.ⲆᐃΔⲆΔ,
-    Δⵠⵠⵠ: _r.ⲆᐃΔⲆΔ,
+    id: 10,
+    Δⵠⵠⵠ: 35,
     time: 0.1,
     ⵠⵠⵠ: bs.ⲆᐃⵠᐃΔ
   }, {
-    r: [[_r.ⵠᐃⵠⵠ, 160], [_r.ᐃΔⵠⲆ, 120], [_r.ᐃⲆⵠᐃ, 80], [_r.ⲆᐃΔⲆΔ, 1]],
+    r: [[109, 160], [108, 120], [111, 80], [35, 1]],
     w: 1,
     f: ya,
     ⵠᐃⵠ: 0,
     e: 0,
-    id: $r.ⲆⲆⵠⲆⲆ,
-    Δⵠⵠⵠ: _r.ⲆⲆⵠⲆⲆ,
+    id: 11,
+    Δⵠⵠⵠ: 36,
     time: za / 15,
     ⵠⵠⵠ: bs.ⲆᐃⵠᐃΔ
   }, {
-    r: [[_r.ᐃⲆΔⵠ, 80], [_r.ᐃΔⵠⲆ, 200], [_r.ᐃⲆⵠᐃ, 150], [_r.ⲆⲆⵠⲆⲆ, ie]],
+    r: [[112, 80], [108, 200], [111, 150], [36, ie]],
     w: 1,
     f: In,
     ⵠᐃⵠ: Da,
     e: wg,
-    id: $r.ⵠΔΔΔⵠ,
-    Δⵠⵠⵠ: _r.ⵠΔΔΔⵠ,
+    id: 12,
+    Δⵠⵠⵠ: 37,
     time: 1 / qi,
     ⵠⵠⵠ: bs.ⲆᐃⵠᐃΔ
   }, {
-    r: [[_r.ᐃⲆΔⵠ, 160], [_r.Ⲇⵠⵠⵠ, 60], [_r.ᐃⲆⵠᐃ, 250], [_r.ⵠΔΔΔⵠ, Gh]],
+    r: [[112, 160], [121, 60], [111, 250], [37, Gh]],
     w: 1,
     f: In,
     ⵠᐃⵠ: 0,
     e: Zj,
-    id: $r.ᐃⵠⵠⵠᐃ,
-    Δⵠⵠⵠ: _r.ᐃⵠⵠⵠᐃ,
+    id: 13,
+    Δⵠⵠⵠ: 38,
     time: Wl / 60,
     ⵠⵠⵠ: bs.ⲆᐃⵠᐃΔ
   }, {
-    r: [[_r.Ⲇⵠⵠⵠ, 160], [_r.ᐃⵠᐃΔ, 60], [_r.ᐃⲆΔⵠ, 250], [_r.ᐃⵠⵠⵠᐃ, 1]],
+    r: [[121, 160], [202, 60], [112, 250], [38, 1]],
     w: Te,
     f: 0,
     ⵠᐃⵠ: In,
     e: 0,
-    id: $r.ᐃⵠⲆⵠΔ,
-    Δⵠⵠⵠ: _r.ᐃⵠⲆⵠΔ,
+    id: 14,
+    Δⵠⵠⵠ: 39,
     time: Oq / 90,
     ⵠⵠⵠ: bs.ⲆᐃⵠᐃΔ
   }, {
-    r: [[_r.ᐃⵠⲆⵠΔ, 1], [_r.ΔᐃᐃⵠΔ, 1], [_r.ΔᐃΔⲆᐃ, Tl], [_r.ⵠᐃΔⲆⵠ, zl], [_r.Ⲇⵠⵠⵠ, 20]],
+    r: [[39, 1], [127, 1], [129, Tl], [139, zl], [121, 20]],
     w: 1,
     f: og,
     ⵠᐃⵠ: 0,
     e: 0,
-    id: $r.ⵠⵠᐃᐃⲆ,
-    Δⵠⵠⵠ: _r.ⵠⵠᐃᐃⲆ,
+    id: 15,
+    Δⵠⵠⵠ: 45,
     time: za / 120,
     ⵠⵠⵠ: bs.ⲆᐃⵠᐃΔ
   }, {
-    r: [[_r.ⵠᐃⵠⵠ, 30], [_r.ᐃΔⵠⲆ, 15]],
+    r: [[109, 30], [108, 15]],
     w: 1,
     f: Rq,
     ⵠᐃⵠ: 0,
     e: 0,
-    id: $r.ᐃΔΔΔΔ,
-    Δⵠⵠⵠ: _r.ᐃΔΔΔΔ,
+    id: 16,
+    Δⵠⵠⵠ: 46,
     time: Oq / 5,
     ⵠⵠⵠ: bs.ⲆᐃⵠᐃΔ
   }, {
-    r: [[_r.ᐃΔΔΔΔ, za], [_r.ᐃⲆⵠᐃ, Dl], [_r.ᐃΔⵠⲆ, 30], [_r.ⵠᐃⵠⵠ, 40]],
+    r: [[46, za], [111, Dl], [108, 30], [109, 40]],
     w: 1,
     f: 0,
     ⵠᐃⵠ: Qs,
     e: 0,
-    id: $r.ⲆΔΔⵠⵠ,
-    Δⵠⵠⵠ: _r.ⲆΔΔⵠⵠ,
+    id: 17,
+    Δⵠⵠⵠ: 50,
     time: 1 / gn,
     ⵠⵠⵠ: bs.ⲆᐃⵠᐃΔ
   }, {
-    r: [[_r.ⲆΔΔⵠⵠ, 1], [_r.ᐃⲆΔⵠ, 20], [_r.ᐃⲆⵠᐃ, 50], [_r.ᐃΔⵠⲆ, 80]],
+    r: [[50, 1], [112, 20], [111, 50], [108, 80]],
     w: og,
     f: ya,
     ⵠᐃⵠ: 0,
     e: Rq,
-    id: $r.ⵠᐃⵠᐃΔ,
-    Δⵠⵠⵠ: _r.ⵠᐃⵠᐃΔ,
+    id: 18,
+    Δⵠⵠⵠ: 51,
     time: 1 / ml,
     ⵠⵠⵠ: bs.ⲆᐃⵠᐃΔ
   }, {
-    r: [[_r.ⵠᐃⵠᐃΔ, 1], [_r.ᐃⲆⵠᐃ, 60], [_r.Ⲇⵠⵠⵠ, 30], [_r.ᐃⲆΔⵠ, 40]],
+    r: [[51, 1], [111, 60], [121, 30], [112, 40]],
     w: 1,
     f: Lr,
     ⵠᐃⵠ: 0,
     e: Rq,
-    id: $r.ⵠᐃⲆⲆⵠ,
-    Δⵠⵠⵠ: _r.ⵠᐃⲆⲆⵠ,
+    id: 19,
+    Δⵠⵠⵠ: 52,
     time: ie / 40,
     ⵠⵠⵠ: bs.ⲆᐃⵠᐃΔ
   }, {
-    r: [[_r.ⵠᐃⵠⵠ, 50]],
+    r: [[109, 50]],
     w: 1,
     f: os,
     ⵠᐃⵠ: Hi,
     e: 0,
-    id: $r.ⲆΔᐃΔⲆ,
-    Δⵠⵠⵠ: _r.ⲆΔᐃΔⲆ,
+    id: 20,
+    Δⵠⵠⵠ: 130,
     time: 1 / q,
     ⵠⵠⵠ: bs.ⲆᐃⵠᐃΔ
   }, {
-    r: [[_r.ⲆΔᐃΔⲆ, zs]],
+    r: [[130, zs]],
     w: wg,
     f: Rq,
     ⵠᐃⵠ: Wl,
     e: ig,
-    id: $r.ᐃᐃΔⵠΔ,
-    Δⵠⵠⵠ: _r.ᐃᐃΔⵠΔ,
+    id: 21,
+    Δⵠⵠⵠ: 49,
     time: 0.2,
     ⵠⵠⵠ: bs.ⲆᐃⵠᐃΔ
   }, {
-    r: [[_r.ⵠᐃⵠⵠ, 100], [_r.ᐃΔⵠⲆ, 50]],
+    r: [[109, 100], [108, 50]],
     w: 1,
     f: In,
     ⵠᐃⵠ: 0,
     e: ig,
-    id: $r.ⲆⵠⲆᐃΔ,
-    Δⵠⵠⵠ: _r.ⲆⵠⲆᐃΔ,
+    id: 22,
+    Δⵠⵠⵠ: 53,
     time: Te / 10,
     ⵠⵠⵠ: bs.ⲆᐃⵠᐃΔ
   }, {
-    r: [[_r.ⲆⵠⲆᐃΔ, 1], [_r.ΔᐃΔΔⲆⲆⵠ, zg]],
+    r: [[53, 1], [235, zg]],
     w: 1,
     f: 0,
     ⵠᐃⵠ: 0,
     e: 0,
-    id: $r.ᐃΔΔᐃΔ,
-    Δⵠⵠⵠ: _r.ᐃΔΔᐃΔ,
+    id: 23,
+    Δⵠⵠⵠ: 54,
     time: 0.016666666666666666,
     ⵠⵠⵠ: bs.ⲆᐃⵠᐃΔ
   }, {
-    r: [[_r.ⵠΔΔΔⲆ, 4], [_r.ᐃΔⵠᐃⲆ, ba], [_r.ⲆⵠⵠΔᐃ, ls]],
+    r: [[120, 4], [161, ba], [174, ls]],
     w: Oq,
     f: fl,
     ⵠᐃⵠ: wg,
     e: Da,
-    id: $r.ᐃⵠΔΔⲆ,
-    Δⵠⵠⵠ: _r.ᐃⵠΔΔⲆ,
+    id: 24,
+    Δⵠⵠⵠ: 28,
     time: Xn / 15,
     ⵠⵠⵠ: bs.ⲆᐃⵠᐃΔ
   }, {
-    r: [[_r.ⵠᐃⵠⵠ, 40]],
+    r: [[109, 40]],
     w: Zj,
     f: Rq,
     ⵠᐃⵠ: 0,
     e: wj,
-    id: $r.ᐃᐃΔⲆⲆ,
-    Δⵠⵠⵠ: _r.ᐃᐃΔⲆⲆ,
+    id: 25,
+    Δⵠⵠⵠ: 12,
     time: 1 / Qr,
     ⵠⵠⵠ: bs.ΔⲆΔⵠ
   }, {
-    r: [[_r.ᐃᐃΔⲆⲆ, og], [_r.ⵠᐃⵠⵠ, 60], [_r.ᐃΔⵠⲆ, kk]],
+    r: [[12, og], [109, 60], [108, kk]],
     w: Oq,
     f: 0,
     ⵠᐃⵠ: ya,
     e: mj,
-    id: $r.ⵠΔᐃⵠᐃ,
-    Δⵠⵠⵠ: _r.ⵠΔᐃⵠᐃ,
+    id: 26,
+    Δⵠⵠⵠ: 13,
     time: Hg / sk,
     ⵠⵠⵠ: bs.ΔⲆΔⵠ
   }, {
-    r: [[_r.ⵠᐃⵠⵠ, 80], [_r.ᐃⲆⵠᐃ, 30], [_r.ᐃΔⵠⲆ, 30], [_r.ⵠΔᐃⵠᐃ, 1]],
+    r: [[109, 80], [111, 30], [108, 30], [13, 1]],
     w: 1,
     f: Hi,
     ⵠᐃⵠ: 0,
     e: Zj,
-    id: $r.ⵠᐃᐃⵠΔ,
-    Δⵠⵠⵠ: _r.ⵠᐃᐃⵠΔ,
+    id: 27,
+    Δⵠⵠⵠ: 14,
     ⵠⵠⵠ: bs.ΔⲆΔⵠ,
     time: 1 / qh
   }, {
-    r: [[_r.ⵠᐃⵠⵠ, 200], [_r.ᐃⲆΔⵠ, 40], [_r.ᐃⲆⵠᐃ, 60], [_r.ⵠᐃᐃⵠΔ, zg]],
+    r: [[109, 200], [112, 40], [111, 60], [14, zg]],
     w: 1,
     f: 0,
     ⵠᐃⵠ: 0,
     e: 0,
-    id: $r.ᐃᐃᐃᐃⲆ,
-    Δⵠⵠⵠ: _r.ᐃᐃᐃᐃⲆ,
+    id: 28,
+    Δⵠⵠⵠ: 15,
     time: 0.03333333333333333,
     ⵠⵠⵠ: bs.ΔⲆΔⵠ
   }, {
-    r: [[_r.Ⲇⵠⵠⵠ, 40], [_r.ᐃⲆΔⵠ, 80], [_r.ᐃⲆⵠᐃ, 90], [_r.ᐃᐃᐃᐃⲆ, ie]],
+    r: [[121, 40], [112, 80], [111, 90], [15, ie]],
     w: 1,
     f: 0,
     ⵠᐃⵠ: 0,
     e: Hi,
-    id: $r.ᐃΔⵠⲆᐃ,
-    Δⵠⵠⵠ: _r.ᐃΔⵠⲆᐃ,
+    id: 29,
+    Δⵠⵠⵠ: 33,
     time: 0.016666666666666666,
     ⵠⵠⵠ: bs.ΔⲆΔⵠ
   }, {
-    r: [[_r.ᐃⵠᐃΔ, 40], [_r.Ⲇⵠⵠⵠ, 80], [_r.ᐃⲆΔⵠ, 90], [_r.ᐃΔⵠⲆᐃ, 1]],
+    r: [[202, 40], [121, 80], [112, 90], [33, 1]],
     w: 1,
     f: 0,
     ⵠᐃⵠ: Mg,
     e: 0,
-    id: $r.ᐃΔⲆⵠΔ,
-    Δⵠⵠⵠ: _r.ᐃΔⲆⵠΔ,
+    id: 30,
+    Δⵠⵠⵠ: 34,
     time: za / 90,
     ⵠⵠⵠ: bs.ΔⲆΔⵠ
   }, {
-    r: [[_r.ⲆⲆⲆᐃⵠ, ws], [_r.ᐃⲆΔᐃᐃ, 1], [_r.Ⲇⵠⵠⵠ, 100], [_r.ⵠⵠⲆⵠⲆ, nq]],
+    r: [[147, ws], [185, 1], [121, 100], [149, nq]],
     w: Tl,
     f: ie,
     ⵠᐃⵠ: zg,
     e: wg,
-    id: $r.ⲆⲆΔᐃᐃ,
-    Δⵠⵠⵠ: _r.ⲆⲆΔᐃᐃ,
+    id: 31,
+    Δⵠⵠⵠ: 16,
     time: 0.008333333333333333,
     ⵠⵠⵠ: bs.ΔⲆΔⵠ
   }, {
-    r: [[_r.ⲆⲆΔᐃᐃ, mk], [_r.ΔⲆᐃᐃⲆ, Tl], [_r.ᐃⵠᐃΔ, 100], [_r.ᐃⲆᐃⵠΔ, H]],
+    r: [[16, mk], [187, Tl], [202, 100], [150, H]],
     w: Hg,
     f: Oq,
     ⵠᐃⵠ: 1,
     e: Ih,
-    id: $r.ΔⲆᐃΔⵠ,
-    Δⵠⵠⵠ: _r.ΔⲆᐃΔⵠ,
+    id: 32,
+    Δⵠⵠⵠ: 17,
     time: Xn / 200,
     ⵠⵠⵠ: bs.ΔⲆΔⵠ
   }, {
-    r: [[_r.ᐃᐃΔⲆⲆ, ie], [_r.ⵠⲆⵠᐃᐃ, 5], [_r.ᐃΔⵠᐃⲆ, Th]],
+    r: [[12, ie], [197, 5], [161, Th]],
     w: Gh,
     f: 0,
     ⵠᐃⵠ: Ih,
     e: ig,
-    id: $r.Ⲇᐃᐃᐃᐃ,
-    Δⵠⵠⵠ: _r.Ⲇᐃᐃᐃᐃ,
+    id: 33,
+    Δⵠⵠⵠ: 18,
     time: ie / 30,
     ⵠⵠⵠ: bs.ΔⲆΔⵠ
   }, {
-    r: [[_r.ⵠᐃⵠⵠ, 30]],
+    r: [[109, 30]],
     w: fl,
     f: 0,
     ⵠᐃⵠ: 0,
     e: Qs,
-    id: $r.ΔⵠᐃΔᐃ,
-    Δⵠⵠⵠ: _r.ΔⵠᐃΔᐃ,
+    id: 34,
+    Δⵠⵠⵠ: 57,
     time: 0.2,
     ⵠⵠⵠ: bs.ΔⲆΔⵠ
   }, {
-    r: [[_r.ⵠᐃⵠⵠ, 50], [_r.ᐃΔⵠⲆ, 25], [_r.ΔⵠᐃΔᐃ, 1]],
+    r: [[109, 50], [108, 25], [57, 1]],
     w: og,
     f: 0,
     ⵠᐃⵠ: 0,
     e: mj,
-    id: $r.ᐃᐃⲆΔⲆ,
-    Δⵠⵠⵠ: _r.ᐃᐃⲆΔⲆ,
+    id: 35,
+    Δⵠⵠⵠ: 0,
     time: og / 10,
     ⵠⵠⵠ: bs.ΔⲆΔⵠ
   }, {
-    r: [[_r.ⵠᐃⵠⵠ, 60], [_r.ᐃⲆⵠᐃ, 40], [_r.ᐃΔⵠⲆ, 50], [_r.ᐃᐃⲆΔⲆ, 1]],
+    r: [[109, 60], [111, 40], [108, 50], [0, 1]],
     w: zg,
     f: Ih,
     ⵠᐃⵠ: 0,
     e: 0,
-    id: $r.ⵠΔΔΔΔ,
-    Δⵠⵠⵠ: _r.ⵠΔΔΔΔ,
+    id: 36,
+    Δⵠⵠⵠ: 5,
     time: Oq / 20,
     ⵠⵠⵠ: bs.ΔⲆΔⵠ
   }, {
-    r: [[_r.ᐃⲆΔⵠ, 40], [_r.ᐃⲆⵠᐃ, 60], [_r.ᐃΔⵠⲆ, 80], [_r.ⵠΔΔΔΔ, 1]],
+    r: [[112, 40], [111, 60], [108, 80], [5, 1]],
     w: zg,
     f: Lr,
     ⵠᐃⵠ: Mg,
     e: wj,
-    id: $r.ᐃΔⲆᐃΔ,
-    Δⵠⵠⵠ: _r.ᐃΔⲆᐃΔ,
+    id: 37,
+    Δⵠⵠⵠ: 6,
     time: 0.03333333333333333,
     ⵠⵠⵠ: bs.ΔⲆΔⵠ
   }, {
-    r: [[_r.ᐃⲆΔⵠ, 60], [_r.ᐃⲆⵠᐃ, 100], [_r.Ⲇⵠⵠⵠ, 40], [_r.ᐃΔⲆᐃΔ, gs]],
+    r: [[112, 60], [111, 100], [121, 40], [6, gs]],
     w: og,
     f: Yh,
     ⵠᐃⵠ: Yh,
     e: Hi,
-    id: $r.ΔⲆᐃⵠΔ,
-    Δⵠⵠⵠ: _r.ΔⲆᐃⵠΔ,
+    id: 38,
+    Δⵠⵠⵠ: 30,
     time: 0.016666666666666666,
     ⵠⵠⵠ: bs.ΔⲆΔⵠ
   }, {
-    r: [[_r.ᐃⲆΔⵠ, 100], [_r.Ⲇⵠⵠⵠ, 80], [_r.ᐃⵠᐃΔ, 40], [_r.ΔⲆᐃⵠΔ, og]],
+    r: [[112, 100], [121, 80], [202, 40], [30, og]],
     w: za,
     f: Zj,
     ⵠᐃⵠ: 0,
     e: 0,
-    id: $r.ⵠⵠΔΔⵠ,
-    Δⵠⵠⵠ: _r.ⵠⵠΔΔⵠ,
+    id: 39,
+    Δⵠⵠⵠ: 19,
     time: mk / 90,
     ⵠⵠⵠ: bs.ΔⲆΔⵠ
   }, {
-    r: [[_r.ⵠᐃⲆⲆⲆ, 3]],
+    r: [[110, 3]],
     w: 0,
     f: Xn,
     ⵠᐃⵠ: 0,
     e: 0,
-    id: $r.ⵠᐃΔⲆᐃ,
-    Δⵠⵠⵠ: _r.ⵠᐃΔⲆᐃ,
+    id: 40,
+    Δⵠⵠⵠ: 115,
     time: 1 / Zg,
     ⵠⵠⵠ: bs.ⵠⲆⵠⲆΔ
   }, {
-    r: [[_r.ⲆΔΔᐃⵠ, qo]],
+    r: [[134, qo]],
     w: Lr,
     f: mk,
     ⵠᐃⵠ: Hi,
     e: 0,
-    id: $r.ⲆΔᐃΔΔ,
-    Δⵠⵠⵠ: _r.ⲆΔᐃΔΔ,
+    id: 41,
+    Δⵠⵠⵠ: 132,
     time: 0.2,
     ⵠⵠⵠ: bs.ⵠⲆⵠⲆΔ
   }, {
-    r: [[_r.ⵠᐃⵠΔⵠ, _a]],
+    r: [[189, _a]],
     w: In,
     f: 1,
     ⵠᐃⵠ: 0,
     e: Lr,
-    id: $r.ᐃⵠᐃᐃⵠ,
-    Δⵠⵠⵠ: _r.ᐃⵠᐃᐃⵠ,
+    id: 42,
+    Δⵠⵠⵠ: 188,
     time: Hg / 5,
     ⵠⵠⵠ: bs.ⵠⲆⵠⲆΔ
   }, {
-    r: [[_r.ⲆᐃΔᐃΔ, yh]],
+    r: [[192, yh]],
     w: 0,
     f: 1,
     ⵠᐃⵠ: 0,
     e: 0,
-    id: $r.ⲆⲆΔⲆⵠ,
-    Δⵠⵠⵠ: _r.ⲆⲆΔⲆⵠ,
+    id: 43,
+    Δⵠⵠⵠ: 191,
     time: 0.2,
     ⵠⵠⵠ: bs.ⵠⲆⵠⲆΔ
   }, {
-    r: [[_r.ᐃⲆᐃᐃΔ, 8]],
+    r: [[194, 8]],
     w: wg,
     f: 1,
     ⵠᐃⵠ: 0,
     e: 0,
-    id: $r.ᐃⲆⲆᐃΔ,
-    Δⵠⵠⵠ: _r.ᐃⲆⲆᐃΔ,
+    id: 44,
+    Δⵠⵠⵠ: 193,
     time: 0.2,
     ⵠⵠⵠ: bs.ⵠⲆⵠⲆΔ
   }, {
-    r: [[_r.ⲆᐃΔⵠᐃ, 8]],
+    r: [[205, 8]],
     w: Da,
     f: Wl,
     ⵠᐃⵠ: Ih,
     e: fl,
-    id: $r.ⲆⵠΔᐃᐃ,
-    Δⵠⵠⵠ: _r.ⲆⵠΔᐃᐃ,
+    id: 45,
+    Δⵠⵠⵠ: 204,
     time: Oq / Ig,
     ⵠⵠⵠ: bs.ⵠⲆⵠⲆΔ
   }, {
-    r: [[_r.ⲆᐃΔΔⵠ, zj]],
+    r: [[207, zj]],
     w: ig,
     f: zs,
     ⵠᐃⵠ: ig,
     e: 0,
-    id: $r.ᐃⵠΔΔΔ,
-    Δⵠⵠⵠ: _r.ᐃⵠΔΔΔ,
+    id: 46,
+    Δⵠⵠⵠ: 206,
     time: Gh / kq,
     ⵠⵠⵠ: bs.ⵠⲆⵠⲆΔ
   }, {
-    r: [[_r.ⲆᐃⵠΔⲆ, Fo]],
+    r: [[209, Fo]],
     w: Rq,
     f: 1,
     ⵠᐃⵠ: 0,
     e: 0,
-    id: $r.ⲆΔⲆⵠΔ,
-    Δⵠⵠⵠ: _r.ⲆΔⲆⵠΔ,
+    id: 47,
+    Δⵠⵠⵠ: 208,
     time: 1 / Ig,
     ⵠⵠⵠ: bs.ⵠⲆⵠⲆΔ
   }, {
-    r: [[_r.ⵠΔᐃⵠⲆ, 16]],
+    r: [[211, 16]],
     w: 0,
     f: og,
     ⵠᐃⵠ: 0,
     e: Qs,
-    id: $r.ΔⵠⵠΔⲆ,
-    Δⵠⵠⵠ: _r.ΔⵠⵠΔⲆ,
+    id: 48,
+    Δⵠⵠⵠ: 210,
     time: zg / ta,
     ⵠⵠⵠ: bs.ⵠⲆⵠⲆΔ
   }, {
-    r: [[_r.ⵠⵠᐃᐃⵠ, Wl]],
+    r: [[116, Wl]],
     w: 0,
     f: 1,
     ⵠᐃⵠ: 0,
     e: 0,
-    id: $r.ΔΔⵠⵠⲆ,
-    Δⵠⵠⵠ: _r.ΔΔⵠⵠⲆ,
+    id: 49,
+    Δⵠⵠⵠ: 117,
     time: zg / ta,
     ⵠⵠⵠ: bs.ⵠⲆⵠⲆΔ
   }, {
-    r: [[_r.ΔΔᐃⵠⲆ, za]],
+    r: [[137, za]],
     w: Rq,
     f: ie,
     ⵠᐃⵠ: 0,
     e: 0,
-    id: $r.ⵠⲆΔⲆᐃ,
-    Δⵠⵠⵠ: _r.ⵠⲆΔⲆᐃ,
+    id: 50,
+    Δⵠⵠⵠ: 138,
     time: za / 3,
     ⵠⵠⵠ: bs.ⵠⲆⵠⲆΔ
   }, {
-    r: [[_r.ᐃⵠᐃⵠᐃ, 3]],
+    r: [[131, 3]],
     w: Hi,
     f: 1,
     ⵠᐃⵠ: Mg,
     e: 0,
-    id: $r.ⲆⵠΔⲆΔ,
-    Δⵠⵠⵠ: _r.ⲆⵠΔⲆΔ,
+    id: 51,
+    Δⵠⵠⵠ: 143,
     time: Gh / 3,
     ⵠⵠⵠ: bs.ⵠⲆⵠⲆΔ
   }, {
-    r: [[_r.ᐃⵠᐃⵠᐃ, yr], [_r.ⵠᐃⲆⲆⲆ, mk]],
+    r: [[131, yr], [110, mk]],
     w: 0,
     f: gs,
     ⵠᐃⵠ: Da,
     e: ya,
-    id: $r.ⲆᐃᐃⵠΔ,
-    Δⵠⵠⵠ: _r.ⲆᐃᐃⵠΔ,
+    id: 52,
+    Δⵠⵠⵠ: 133,
     time: 0.3333333333333333,
     ⵠⵠⵠ: bs.ⵠⲆⵠⲆΔ
   }, {
-    r: [[_r.ᐃⵠᐃⵠᐃ, hl], [_r.ⵠᐃⲆⲆⲆ, 2], [_r.ᐃΔΔΔⲆ, Vh]],
+    r: [[131, hl], [110, 2], [142, Vh]],
     w: 0,
     f: Tl,
     ⵠᐃⵠ: ya,
     e: Qs,
-    id: $r.ⵠᐃⲆⲆᐃ,
-    Δⵠⵠⵠ: _r.ⵠᐃⲆⲆᐃ,
+    id: 53,
+    Δⵠⵠⵠ: 136,
     time: zs / Fs,
     ⵠⵠⵠ: bs.ⵠⲆⵠⲆΔ
   }, {
-    r: [[_r.ᐃΔⵠᐃⲆ, 2]],
+    r: [[161, 2]],
     w: Oq,
     f: ya,
     ⵠᐃⵠ: 0,
     e: Hi,
-    id: $r.ᐃΔᐃⲆᐃ,
-    Δⵠⵠⵠ: _r.ᐃΔᐃⲆᐃ,
+    id: 54,
+    Δⵠⵠⵠ: 195,
     time: 1 / ta,
     ⵠⵠⵠ: bs.ΔⲆⵠⵠⲆ
   }, {
-    r: [[_r.ⵠᐃⵠⵠ, 20]],
+    r: [[109, 20]],
     w: mk,
     f: 0,
     ⵠᐃⵠ: wj,
     e: ya,
-    id: $r.ⲆⲆⲆⲆⵠ,
-    Δⵠⵠⵠ: _r.ⲆⲆⲆⲆⵠ,
+    id: 55,
+    Δⵠⵠⵠ: 162,
     time: Gh / Fs,
     ⵠⵠⵠ: bs.Ⲇⵠⵠⵠᐃ
   }, {
-    r: [[_r.ⲆⲆⲆⲆⵠ, 1], [_r.ᐃΔⵠⲆ, Ej]],
+    r: [[162, 1], [108, Ej]],
     w: 1,
     f: 0,
     ⵠᐃⵠ: ig,
     e: 0,
-    id: $r.ΔᐃⵠⲆⲆ,
-    Δⵠⵠⵠ: _r.ΔᐃⵠⲆⲆ,
+    id: 56,
+    Δⵠⵠⵠ: 163,
     time: 1 / Fs,
     ⵠⵠⵠ: bs.Ⲇⵠⵠⵠᐃ
   }, {
-    r: [[_r.ΔᐃⵠⲆⲆ, ie], [_r.ᐃⲆⵠᐃ, 14]],
+    r: [[163, ie], [111, 14]],
     w: 1,
     f: 0,
     ⵠᐃⵠ: In,
     e: Lr,
-    id: $r.ᐃᐃᐃᐃᐃ,
-    Δⵠⵠⵠ: _r.ᐃᐃᐃᐃᐃ,
+    id: 57,
+    Δⵠⵠⵠ: 164,
     time: 0.2,
     ⵠⵠⵠ: bs.Ⲇⵠⵠⵠᐃ
   }, {
-    r: [[_r.ᐃᐃᐃᐃᐃ, Gh], [_r.ᐃⲆΔⵠ, 11]],
+    r: [[164, Gh], [112, 11]],
     w: 1,
     f: 0,
     ⵠᐃⵠ: 0,
     e: 0,
-    id: $r.ⵠᐃⲆᐃⵠ,
-    Δⵠⵠⵠ: _r.ⵠᐃⲆᐃⵠ,
+    id: 58,
+    Δⵠⵠⵠ: 165,
     time: Hg / 5,
     ⵠⵠⵠ: bs.Ⲇⵠⵠⵠᐃ
   }, {
-    r: [[_r.ⵠᐃⲆᐃⵠ, 1], [_r.Ⲇⵠⵠⵠ, 8]],
+    r: [[165, 1], [121, 8]],
     w: 1,
     f: Mg,
     ⵠᐃⵠ: 0,
     e: Yh,
-    id: $r.ᐃΔⵠⵠΔ,
-    Δⵠⵠⵠ: _r.ᐃΔⵠⵠΔ,
+    id: 59,
+    Δⵠⵠⵠ: 122,
     time: Wl / kq,
     ⵠⵠⵠ: bs.Ⲇⵠⵠⵠᐃ
   }, {
-    r: [[_r.ᐃΔⵠⵠΔ, 1], [_r.ᐃⵠᐃΔ, Zg]],
+    r: [[122, 1], [202, Zg]],
     w: 1,
     f: Yh,
     ⵠᐃⵠ: ig,
     e: 0,
-    id: $r.ᐃⵠⵠⲆᐃ,
-    Δⵠⵠⵠ: _r.ᐃⵠⵠⲆᐃ,
+    id: 60,
+    Δⵠⵠⵠ: 217,
     time: ie / Fs,
     ⵠⵠⵠ: bs.Ⲇⵠⵠⵠᐃ
   }, {
-    r: [[_r.ⵠᐃⵠⵠ, 30]],
+    r: [[109, 30]],
     w: Hg,
     f: 0,
     ⵠᐃⵠ: Hi,
     e: 0,
-    id: $r.ΔⵠⵠⲆᐃ,
-    Δⵠⵠⵠ: _r.ΔⵠⵠⲆᐃ,
+    id: 61,
+    Δⵠⵠⵠ: 166,
     time: 1 / Iq,
     ⵠⵠⵠ: bs.Ⲇⵠⵠⵠᐃ
   }, {
-    r: [[_r.ΔⵠⵠⲆᐃ, 1], [_r.ᐃΔⵠⲆ, 27]],
+    r: [[166, 1], [108, 27]],
     w: 1,
     f: 0,
     ⵠᐃⵠ: wj,
     e: Lr,
-    id: $r.ⵠΔᐃⲆΔ,
-    Δⵠⵠⵠ: _r.ⵠΔᐃⲆΔ,
+    id: 62,
+    Δⵠⵠⵠ: 171,
     time: 1 / js,
     ⵠⵠⵠ: bs.Ⲇⵠⵠⵠᐃ
   }, {
-    r: [[_r.ⵠΔᐃⲆΔ, Tl], [_r.ᐃⲆⵠᐃ, 24]],
+    r: [[171, Tl], [111, 24]],
     w: Hg,
     f: wg,
     ⵠᐃⵠ: 0,
     e: 0,
-    id: $r.ᐃΔⵠⵠⵠ,
-    Δⵠⵠⵠ: _r.ᐃΔⵠⵠⵠ,
+    id: 63,
+    Δⵠⵠⵠ: 172,
     time: 1 / He,
     ⵠⵠⵠ: bs.Ⲇⵠⵠⵠᐃ
   }, {
-    r: [[_r.ᐃΔⵠⵠⵠ, 1], [_r.ᐃⲆΔⵠ, 21]],
+    r: [[172, 1], [112, 21]],
     w: 1,
     f: 0,
     ⵠᐃⵠ: fl,
     e: 0,
-    id: $r.ⵠΔᐃΔΔ,
-    Δⵠⵠⵠ: _r.ⵠΔᐃΔΔ,
+    id: 64,
+    Δⵠⵠⵠ: 173,
     time: og / 8,
     ⵠⵠⵠ: bs.Ⲇⵠⵠⵠᐃ
   }, {
-    r: [[_r.ⵠΔᐃΔΔ, za], [_r.Ⲇⵠⵠⵠ, Pj]],
+    r: [[173, za], [121, Pj]],
     w: Xn,
     f: 0,
     ⵠᐃⵠ: 0,
     e: 0,
-    id: $r.Δⵠᐃⵠᐃ,
-    Δⵠⵠⵠ: _r.Δⵠᐃⵠᐃ,
+    id: 65,
+    Δⵠⵠⵠ: 124,
     time: zs / 8,
     ⵠⵠⵠ: bs.Ⲇⵠⵠⵠᐃ
   }, {
-    r: [[_r.Δⵠᐃⵠᐃ, 1], [_r.ᐃⵠᐃΔ, 15]],
+    r: [[124, 1], [202, 15]],
     w: Hg,
     f: Mg,
     ⵠᐃⵠ: fl,
     e: 0,
-    id: $r.Ⲇᐃⵠⵠⵠ,
-    Δⵠⵠⵠ: _r.Ⲇᐃⵠⵠⵠ,
+    id: 66,
+    Δⵠⵠⵠ: 218,
     time: 1 / E,
     ⵠⵠⵠ: bs.Ⲇⵠⵠⵠᐃ
   }, {
-    r: [[_r.ⲆⲆⲆⲆⵠ, 1], [_r.ⵠᐃⵠⵠ, 40], [_r.ᐃΔⵠⲆ, 30]],
+    r: [[162, 1], [109, 40], [108, 30]],
     w: 1,
     f: Qs,
     ⵠᐃⵠ: 0,
     e: ig,
-    id: $r.ⵠⵠΔⵠⲆ,
-    Δⵠⵠⵠ: _r.ⵠⵠΔⵠⲆ,
+    id: 67,
+    Δⵠⵠⵠ: 160,
     time: 1 / Ok,
     ⵠⵠⵠ: bs.Ⲇⵠⵠⵠᐃ
   }, {
-    r: [[_r.ΔᐃⵠⲆⲆ, zg], [_r.ᐃΔⵠⲆ, 70]],
+    r: [[163, zg], [108, 70]],
     w: 1,
     f: Mg,
     ⵠᐃⵠ: 0,
     e: Yh,
-    id: $r.ⲆᐃⲆΔΔ,
-    Δⵠⵠⵠ: _r.ⲆᐃⲆΔΔ,
+    id: 68,
+    Δⵠⵠⵠ: 168,
     time: 1 / ch,
     ⵠⵠⵠ: bs.Ⲇⵠⵠⵠᐃ
   }, {
-    r: [[_r.ᐃᐃᐃᐃᐃ, Te], [_r.ᐃⲆⵠᐃ, 40], [_r.ᐃΔⵠⲆ, 30]],
+    r: [[164, Te], [111, 40], [108, 30]],
     w: 1,
     f: Qs,
     ⵠᐃⵠ: os,
     e: 0,
-    id: $r.Ⲇᐃⵠᐃⵠ,
-    Δⵠⵠⵠ: _r.Ⲇᐃⵠᐃⵠ,
+    id: 69,
+    Δⵠⵠⵠ: 169,
     time: Te / 20,
     ⵠⵠⵠ: bs.Ⲇⵠⵠⵠᐃ
   }, {
-    r: [[_r.ⵠᐃⲆᐃⵠ, zg], [_r.ᐃⲆΔⵠ, 40], [_r.ᐃΔⵠⲆ, 30]],
+    r: [[165, zg], [112, 40], [108, 30]],
     w: zs,
     f: 0,
     ⵠᐃⵠ: Lr,
     e: 0,
-    id: $r.ⲆⵠᐃΔΔ,
-    Δⵠⵠⵠ: _r.ⲆⵠᐃΔΔ,
+    id: 70,
+    Δⵠⵠⵠ: 170,
     time: Tl / 20,
     ⵠⵠⵠ: bs.Ⲇⵠⵠⵠᐃ
   }, {
-    r: [[_r.ᐃΔⵠⵠΔ, 1], [_r.Ⲇⵠⵠⵠ, 40], [_r.ᐃΔⵠⲆ, 30]],
+    r: [[122, 1], [121, 40], [108, 30]],
     w: 1,
     f: 0,
     ⵠᐃⵠ: 0,
     e: 0,
-    id: $r.ᐃⲆⵠᐃᐃ,
-    Δⵠⵠⵠ: _r.ᐃⲆⵠᐃᐃ,
+    id: 71,
+    Δⵠⵠⵠ: 123,
     time: 0.05,
     ⵠⵠⵠ: bs.Ⲇⵠⵠⵠᐃ
   }, {
-    r: [[_r.ᐃⵠⵠⲆᐃ, Xn], [_r.ᐃⵠᐃΔ, 40], [_r.ᐃⲆⵠᐃ, 30]],
+    r: [[217, Xn], [202, 40], [111, 30]],
     w: ie,
     f: 0,
     ⵠᐃⵠ: In,
     e: ig,
-    id: $r.ⵠⲆᐃᐃⲆ,
-    Δⵠⵠⵠ: _r.ⵠⲆᐃᐃⲆ,
+    id: 72,
+    Δⵠⵠⵠ: 219,
     time: Tl / 20,
     ⵠⵠⵠ: bs.Ⲇⵠⵠⵠᐃ
   }, {
-    r: [[_r.ΔⵠⵠⲆᐃ, zs], [_r.ⵠᐃⵠⵠ, 80], [_r.ᐃΔⵠⲆ, 60]],
+    r: [[166, zs], [109, 80], [108, 60]],
     w: 1,
     f: 0,
     ⵠᐃⵠ: Rq,
     e: 0,
-    id: $r.ᐃⲆΔᐃⲆ,
-    Δⵠⵠⵠ: _r.ᐃⲆΔᐃⲆ,
+    id: 73,
+    Δⵠⵠⵠ: 212,
     time: Hg / 20,
     ⵠⵠⵠ: bs.Ⲇⵠⵠⵠᐃ
   }, {
-    r: [[_r.ⵠΔᐃⲆΔ, 1], [_r.ᐃΔⵠⲆ, 140]],
+    r: [[171, 1], [108, 140]],
     w: Gh,
     f: Yh,
     ⵠᐃⵠ: 0,
     e: In,
-    id: $r.ΔⵠⵠΔΔ,
-    Δⵠⵠⵠ: _r.ΔⵠⵠΔΔ,
+    id: 74,
+    Δⵠⵠⵠ: 213,
     time: og / 20,
     ⵠⵠⵠ: bs.Ⲇⵠⵠⵠᐃ
   }, {
-    r: [[_r.ᐃΔⵠⵠⵠ, Gh], [_r.ᐃⲆⵠᐃ, 80], [_r.ᐃΔⵠⲆ, 60]],
+    r: [[172, Gh], [111, 80], [108, 60]],
     w: 1,
     f: 0,
     ⵠᐃⵠ: 0,
     e: 0,
-    id: $r.ΔΔⲆᐃⲆ,
-    Δⵠⵠⵠ: _r.ΔΔⲆᐃⲆ,
+    id: 75,
+    Δⵠⵠⵠ: 214,
     time: Tl / 20,
     ⵠⵠⵠ: bs.Ⲇⵠⵠⵠᐃ
   }, {
-    r: [[_r.ⵠΔᐃΔΔ, 1], [_r.ᐃⲆΔⵠ, 80], [_r.ᐃΔⵠⲆ, 60]],
+    r: [[173, 1], [112, 80], [108, 60]],
     w: Hg,
     f: ya,
     ⵠᐃⵠ: 0,
     e: Lr,
-    id: $r.ΔⵠΔⲆΔ,
-    Δⵠⵠⵠ: _r.ΔⵠΔⲆΔ,
+    id: 76,
+    Δⵠⵠⵠ: 215,
     time: 1 / ml,
     ⵠⵠⵠ: bs.Ⲇⵠⵠⵠᐃ
   }, {
-    r: [[_r.Δⵠᐃⵠᐃ, Tl], [_r.Ⲇⵠⵠⵠ, 80], [_r.ᐃΔⵠⲆ, 60]],
+    r: [[124, Tl], [121, 80], [108, 60]],
     w: 1,
     f: Da,
     ⵠᐃⵠ: Hi,
     e: Lr,
-    id: $r.ⵠΔⲆⵠᐃ,
-    Δⵠⵠⵠ: _r.ⵠΔⲆⵠᐃ,
+    id: 77,
+    Δⵠⵠⵠ: 216,
     time: 1 / Dl,
     ⵠⵠⵠ: bs.Ⲇⵠⵠⵠᐃ
   }, {
-    r: [[_r.Ⲇᐃⵠⵠⵠ, 1], [_r.ᐃⵠᐃΔ, 80], [_r.ᐃⲆⵠᐃ, 60]],
+    r: [[218, 1], [202, 80], [111, 60]],
     w: 1,
     f: 0,
     ⵠᐃⵠ: os,
     e: 0,
-    id: $r.ᐃΔΔⵠᐃ,
-    Δⵠⵠⵠ: _r.ᐃΔΔⵠᐃ,
+    id: 78,
+    Δⵠⵠⵠ: 220,
     time: mk / Bs,
     ⵠⵠⵠ: bs.Ⲇⵠⵠⵠᐃ
   }, {
-    r: [[_r.ⵠᐃⵠⵠ, 25], [_r.ᐃⲆⵠᐃ, eh]],
+    r: [[109, 25], [111, eh]],
     w: 1,
     f: 0,
     ⵠᐃⵠ: Mg,
     e: 0,
-    id: $r.ᐃⲆⲆⲆⲆ,
-    Δⵠⵠⵠ: _r.ᐃⲆⲆⲆⲆ,
+    id: 79,
+    Δⵠⵠⵠ: 167,
     time: zg / kq,
     ⵠⵠⵠ: bs.ΔⲆⵠⵠⲆ
   }, {
-    r: [[_r.ⵠΔΔΔⲆ, ie], [_r.ⵠⵠΔⵠΔ, 1], [_r.ᐃΔⵠᐃⲆ, 2]],
+    r: [[120, ie], [2, 1], [161, 2]],
     w: zg,
     f: Yh,
     ⵠᐃⵠ: Zj,
     e: Lr,
-    id: $r.ⲆᐃᐃΔᐃ,
-    Δⵠⵠⵠ: _r.ⲆᐃᐃΔᐃ,
+    id: 80,
+    Δⵠⵠⵠ: 23,
     time: 1 / Ig,
     ⵠⵠⵠ: bs.ⵠᐃⲆᐃᐃ
   }, {
-    r: [[_r.ⵠΔΔΔⲆ, hl], [_r.ᐃⲆⲆⲆᐃ, 20], [_r.ⲆⲆⲆᐃⵠ, 5], [_r.ⵠⵠΔⵠΔ, Qr]],
+    r: [[120, hl], [222, 20], [147, 5], [2, Qr]],
     w: 1,
     f: 0,
     ⵠᐃⵠ: 0,
     e: 0,
-    id: $r.ⵠᐃᐃΔᐃ,
-    Δⵠⵠⵠ: _r.ⵠᐃᐃΔᐃ,
+    id: 81,
+    Δⵠⵠⵠ: 24,
     time: zs / 30,
     ⵠⵠⵠ: bs.ⵠᐃⲆᐃᐃ
   }, {
-    r: [[_r.ᐃⲆᐃⵠᐃΔⵠ, zs], [_r.ⵠⵠΔⲆⵠ, 8], [_r.ΔⵠΔΔⲆ, zh], [_r.ᐃⲆⲆⲆᐃ, 8], [_r.ᐃΔⵠᐃⲆ, 6]],
+    r: [[236, zs], [231, 8], [232, zh], [222, 8], [161, 6]],
     w: 1,
     f: wj,
     ⵠᐃⵠ: Mg,
     e: Yh,
-    id: $r.ΔᐃᐃᐃΔ,
-    Δⵠⵠⵠ: _r.ΔᐃᐃᐃΔ,
+    id: 82,
+    Δⵠⵠⵠ: 82,
     time: Xn / 60,
     ⵠⵠⵠ: bs.ⵠᐃⲆᐃᐃ
   }, {
-    r: [[_r.ⵠⵠΔⵠΔ, mk], [_r.ᐃΔⵠᐃⲆ, 2]],
+    r: [[2, mk], [161, 2]],
     w: Wl,
     f: Ih,
     ⵠᐃⵠ: 0,
     e: 0,
-    id: $r.ᐃⲆᐃⲆᐃ,
-    Δⵠⵠⵠ: _r.ᐃⲆᐃⲆᐃ,
+    id: 83,
+    Δⵠⵠⵠ: 10,
     time: 0.2,
     ⵠⵠⵠ: bs.ⵠᐃⲆᐃᐃ
   }, {
-    r: [[_r.ᐃⲆᐃⲆᐃ, 1], [_r.ⲆⵠⵠΔᐃ, 5], [_r.ᐃΔⵠᐃⲆ, nl]],
+    r: [[10, 1], [174, 5], [161, nl]],
     w: 1,
     f: wj,
     ⵠᐃⵠ: 0,
     e: 0,
-    id: $r.ᐃⵠⵠⵠΔ,
-    Δⵠⵠⵠ: _r.ᐃⵠⵠⵠΔ,
+    id: 84,
+    Δⵠⵠⵠ: 11,
     time: mk / 12,
     ⵠⵠⵠ: bs.ⵠᐃⲆᐃᐃ
   }, {
-    r: [[_r.ᐃⵠⵠⵠΔ, ie], [_r.ⲆΔΔᐃᐃ, M], [_r.ⲆⲆⲆᐃⵠ, 4]],
+    r: [[11, ie], [146, M], [147, 4]],
     w: Gh,
     f: In,
     ⵠᐃⵠ: 0,
     e: 0,
-    id: $r.ᐃⲆⲆΔΔ,
-    Δⵠⵠⵠ: _r.ᐃⲆⲆΔΔ,
+    id: 85,
+    Δⵠⵠⵠ: 40,
     time: za / 30,
     ⵠⵠⵠ: bs.ⵠᐃⲆᐃᐃ
   }, {
-    r: [[_r.ᐃⲆⲆΔΔ, 1], [_r.ⲆΔΔᐃᐃ, 5], [_r.ᐃⲆΔⲆⲆ, Ra], [_r.ⲆⲆⲆᐃⵠ, 4]],
+    r: [[40, 1], [146, 5], [240, Ra], [147, 4]],
     w: 1,
     f: 0,
     ⵠᐃⵠ: wg,
     e: Da,
-    id: $r.ⵠⲆⵠΔᐃ,
-    Δⵠⵠⵠ: _r.ⵠⲆⵠΔᐃ,
+    id: 86,
+    Δⵠⵠⵠ: 88,
     time: Xn / 50,
     ⵠⵠⵠ: bs.ⵠᐃⲆᐃᐃ
   }, {
-    r: [[_r.ⵠᐃⵠⵠ, 50]],
+    r: [[109, 50]],
     w: 0,
     f: ya,
     ⵠᐃⵠ: 0,
     e: 0,
-    id: $r.ᐃᐃⲆⵠⵠ,
-    Δⵠⵠⵠ: _r.ᐃᐃⲆⵠⵠ,
+    id: 87,
+    Δⵠⵠⵠ: 58,
     time: Te / 5,
     ⵠⵠⵠ: bs.ⵠᐃⲆᐃᐃ
   }, {
-    r: [[_r.ᐃΔⵠⲆ, 75], [_r.ⵠᐃⵠⵠ, 75], [_r.ᐃᐃⲆⵠⵠ, 1]],
+    r: [[108, 75], [109, 75], [58, 1]],
     w: ie,
     f: Rq,
     ⵠᐃⵠ: ya,
     e: 0,
-    id: $r.Δᐃᐃⵠᐃ,
-    Δⵠⵠⵠ: _r.Δᐃᐃⵠᐃ,
+    id: 88,
+    Δⵠⵠⵠ: 25,
     time: zs / lg,
     ⵠⵠⵠ: bs.ⵠᐃⲆᐃᐃ
   }, {
-    r: [[_r.ᐃΔⵠⲆ, 90], [_r.ⵠᐃⵠⵠ, 90], [_r.ᐃⲆⵠᐃ, 90], [_r.Δᐃᐃⵠᐃ, Oq]],
+    r: [[108, 90], [109, 90], [111, 90], [25, Oq]],
     w: 1,
     f: 0,
     ⵠᐃⵠ: 0,
     e: os,
-    id: $r.ΔᐃΔⲆⲆ,
-    Δⵠⵠⵠ: _r.ΔᐃΔⲆⲆ,
+    id: 89,
+    Δⵠⵠⵠ: 26,
     time: 1 / Xa,
     ⵠⵠⵠ: bs.ⵠᐃⲆᐃᐃ
   }, {
-    r: [[_r.ᐃΔⵠⲆ, Cn], [_r.ᐃⲆⵠᐃ, 100], [_r.ᐃⲆΔⵠ, _j], [_r.ΔᐃΔⲆⲆ, 1]],
+    r: [[108, Cn], [111, 100], [112, _j], [26, 1]],
     w: Oq,
     f: mj,
     ⵠᐃⵠ: 0,
     e: Lr,
-    id: $r.ᐃⲆⲆⵠᐃ,
-    Δⵠⵠⵠ: _r.ᐃⲆⲆⵠᐃ,
+    id: 90,
+    Δⵠⵠⵠ: 27,
     time: 1 / 30,
     ⵠⵠⵠ: bs.ⵠᐃⲆᐃᐃ
   }, {
-    r: [[_r.Ⲇⵠⵠⵠ, 80], [_r.ᐃⲆⵠᐃ, 150], [_r.ᐃⲆΔⵠ, 120], [_r.ᐃⲆⲆⵠᐃ, 1]],
+    r: [[121, 80], [111, 150], [112, 120], [27, 1]],
     w: Gh,
     f: 0,
     ⵠᐃⵠ: ig,
     e: 0,
-    id: $r.ⵠⲆⲆⵠⵠ,
-    Δⵠⵠⵠ: _r.ⵠⲆⲆⵠⵠ,
+    id: 91,
+    Δⵠⵠⵠ: 43,
     time: Gh / 60,
     ⵠⵠⵠ: bs.ⵠᐃⲆᐃᐃ
   }, {
-    r: [[_r.ᐃⵠᐃΔ, 80], [_r.ᐃⲆΔⵠ, 150], [_r.Ⲇⵠⵠⵠ, 120], [_r.ⵠⲆⲆⵠⵠ, gs]],
+    r: [[202, 80], [112, 150], [121, 120], [43, gs]],
     w: Xn,
     f: 1,
     ⵠᐃⵠ: 0,
     e: 0,
-    id: $r.ⲆᐃⵠΔᐃ,
-    Δⵠⵠⵠ: _r.ⲆᐃⵠΔᐃ,
+    id: 92,
+    Δⵠⵠⵠ: 44,
     time: Tl / 90,
     ⵠⵠⵠ: bs.ⵠᐃⲆᐃᐃ
   }, {
-    r: [[_r.ⵠᐃΔⲆⵠ, Vh], [_r.ᐃⲆΔⵠ, 40], [_r.ᐃΔⵠᐃⲆ, ls]],
+    r: [[139, Vh], [112, 40], [161, ls]],
     w: 1,
     f: fl,
     ⵠᐃⵠ: 0,
     e: 0,
-    id: $r.ᐃⲆⵠⲆⲆ,
-    Δⵠⵠⵠ: _r.ᐃⲆⵠⲆⲆ,
+    id: 93,
+    Δⵠⵠⵠ: 48,
     time: Tl / ch,
     ⵠⵠⵠ: bs.ⵠᐃⲆᐃᐃ
   }, {
-    r: [[_r.ᐃⲆⵠⲆⲆ, gs], [_r.ᐃⲆⵠᐃ, 80], [_r.ΔᐃΔⲆᐃ, 1], [_r.Ⲇⵠⵠⵠ, 20]],
+    r: [[48, gs], [111, 80], [129, 1], [121, 20]],
     w: Wl,
     f: 0,
     ⵠᐃⵠ: 0,
     e: 0,
-    id: $r.ᐃⵠⵠⲆΔ,
-    Δⵠⵠⵠ: _r.ᐃⵠⵠⲆΔ,
+    id: 94,
+    Δⵠⵠⵠ: 47,
     time: 0.011111111111111112,
     ⵠⵠⵠ: bs.ⵠᐃⲆᐃᐃ
   }, {
-    r: [[_r.ⲆⵠⵠΔⲆ, 5], [_r.ᐃⲆΔⵠ, 50], [_r.ⲆⲆⲆᐃⵠ, 5]],
+    r: [[203, 5], [112, 50], [147, 5]],
     w: 1,
     f: 1,
     ⵠᐃⵠ: In,
     e: Zj,
-    id: $r.Δⵠⵠⵠᐃ,
-    Δⵠⵠⵠ: _r.Δⵠⵠⵠᐃ,
+    id: 95,
+    Δⵠⵠⵠ: 20,
     time: Tl / 20,
     ⵠⵠⵠ: bs.ⵠᐃⲆᐃᐃ
   }, {
-    r: [[_r.Δⵠⵠⵠᐃ, Xn], [_r.ⲆⵠⵠΔⲆ, 10], [_r.Ⲇⵠⵠⵠ, 50]],
+    r: [[20, Xn], [203, 10], [121, 50]],
     w: Hg,
     f: 1,
     ⵠᐃⵠ: wj,
     e: 0,
-    id: $r.ᐃΔᐃⲆⲆ,
-    Δⵠⵠⵠ: _r.ᐃΔᐃⲆⲆ,
+    id: 96,
+    Δⵠⵠⵠ: 21,
     time: za / 60,
     ⵠⵠⵠ: bs.ⵠᐃⲆᐃᐃ
   }, {
-    r: [[_r.ᐃΔᐃⲆⲆ, Oq], [_r.ⲆⵠⵠΔⲆ, ul], [_r.Ⲇⵠⵠⵠ, 50], [_r.ᐃⵠᐃΔ, 50]],
+    r: [[21, Oq], [203, ul], [121, 50], [202, 50]],
     w: 1,
     f: Te,
     ⵠᐃⵠ: Lr,
     e: 0,
-    id: $r.ⲆΔᐃΔᐃ,
-    Δⵠⵠⵠ: _r.ⲆΔᐃΔᐃ,
+    id: 97,
+    Δⵠⵠⵠ: 22,
     time: 1 / 90,
     ⵠⵠⵠ: bs.ⵠᐃⲆᐃᐃ
   }, {
-    r: [[_r.ᐃΔⵠᐃⲆ, Pl], [_r.ⵠΔⵠⵠⲆ, 2]],
+    r: [[161, Pl], [237, 2]],
     w: Te,
     f: Hi,
     ⵠᐃⵠ: 0,
     e: 0,
-    id: $r.ⵠᐃΔΔᐃ,
-    Δⵠⵠⵠ: _r.ⵠᐃΔΔᐃ,
+    id: 98,
+    Δⵠⵠⵠ: 80,
     time: Te / sj,
     ⵠⵠⵠ: bs.ⵠᐃⲆᐃᐃ
   }, {
-    r: [[_r.ⵠᐃΔΔᐃ, og], [_r.ᐃΔⵠᐃⲆ, ji], [_r.ⵠΔⵠⵠⲆ, 4], [_r.ΔⵠΔΔⲆ, 12], [_r.ᐃⲆⲆⲆᐃ, nl]],
+    r: [[80, og], [161, ji], [237, 4], [232, 12], [222, nl]],
     w: 1,
     f: In,
     ⵠᐃⵠ: wg,
     e: fl,
-    id: $r.ⵠⵠΔᐃᐃ,
-    Δⵠⵠⵠ: _r.ⵠⵠΔᐃᐃ,
+    id: 99,
+    Δⵠⵠⵠ: 81,
     time: 0.006666666666666667,
     ⵠⵠⵠ: bs.ⵠᐃⲆᐃᐃ
   }, {
-    r: [[_r.ᐃΔⵠᐃⲆ, ks], [_r.ⲆⵠⵠΔᐃ, 5]],
+    r: [[161, ks], [174, 5]],
     w: Te,
     f: Hi,
     ⵠᐃⵠ: os,
     e: wg,
-    id: $r.ⵠⲆᐃᐃ,
-    Δⵠⵠⵠ: _r.ⵠⲆᐃᐃ,
+    id: 100,
+    Δⵠⵠⵠ: 29,
     time: Xn / 15,
     ⵠⵠⵠ: bs.ⵠᐃⲆᐃᐃ
   }, {
-    r: [[_r.ⵠᐃⵠⵠ, ch]],
+    r: [[109, ch]],
     w: In,
     f: 1,
     ⵠᐃⵠ: wg,
     e: Lr,
-    id: $r.ⵠΔΔΔⲆ,
-    Δⵠⵠⵠ: _r.ⵠΔΔΔⲆ,
+    id: 101,
+    Δⵠⵠⵠ: 120,
     time: za / 3,
     ⵠⵠⵠ: bs.ΔⲆⵠⵠⲆ
   }, {
-    r: [[_r.ᐃⲆΔⵠ, Xn], [_r.ᐃΔⵠᐃⲆ, Gh]],
+    r: [[112, Xn], [161, Gh]],
     w: og,
     f: 0,
     ⵠᐃⵠ: Zj,
     e: fl,
-    id: $r.ⲆⲆⲆᐃⵠ,
-    Δⵠⵠⵠ: _r.ⲆⲆⲆᐃⵠ,
+    id: 102,
+    Δⵠⵠⵠ: 147,
     time: Tl / 3,
     ⵠⵠⵠ: bs.ΔⲆⵠⵠⲆ
   }, {
-    r: [[_r.ᐃⲆⵠᐃ, 10]],
+    r: [[111, 10]],
     w: 1,
     f: 0,
     ⵠᐃⵠ: 0,
     e: Rq,
-    id: $r.ⵠⵠⲆⵠᐃ,
-    Δⵠⵠⵠ: _r.ⵠⵠⲆⵠᐃ,
+    id: 103,
+    Δⵠⵠⵠ: 148,
     time: zs / 5,
     ⵠⵠⵠ: bs.ΔⲆⵠⵠⲆ
   }, {
-    r: [[_r.ᐃⲆⵠᐃ, 250]],
+    r: [[111, 250]],
     w: Tl,
     f: 0,
     ⵠᐃⵠ: 0,
     e: Ih,
-    id: $r.ᐃⵠᐃⲆⵠ,
-    Δⵠⵠⵠ: _r.ᐃⵠᐃⲆⵠ,
+    id: 104,
+    Δⵠⵠⵠ: 158,
     time: Hg / 60,
     ⵠⵠⵠ: bs.ΔⲆⵠⵠⲆ
   }, {
-    r: [[_r.ⵠᐃⵠⵠ, 50]],
+    r: [[109, 50]],
     w: 1,
     f: 0,
     ⵠᐃⵠ: In,
     e: 0,
-    id: $r.ⲆⵠᐃᐃΔ,
-    Δⵠⵠⵠ: _r.ⲆⵠᐃᐃΔ,
+    id: 105,
+    Δⵠⵠⵠ: 159,
     time: za / 10,
     ⵠⵠⵠ: bs.ΔⲆⵠⵠⲆ
   }, {
-    r: [[_r.ⵠᐃⵠⵠ, 15]],
+    r: [[109, 15]],
     w: 1,
     f: 0,
     ⵠᐃⵠ: Hi,
     e: 0,
-    id: $r.ⲆᐃⲆᐃⵠ,
-    Δⵠⵠⵠ: _r.ⲆᐃⲆᐃⵠ,
+    id: 106,
+    Δⵠⵠⵠ: 125,
     time: 1 / M,
     ⵠⵠⵠ: bs.ΔⲆⵠⵠⲆ
   }, {
-    r: [[_r.ⵠᐃⵠⵠ, 30]],
+    r: [[109, 30]],
     w: 1,
     f: 0,
     ⵠᐃⵠ: wj,
     e: Zj,
-    id: $r.ⲆᐃⵠΔΔ,
-    Δⵠⵠⵠ: _r.ⲆᐃⵠΔΔ,
+    id: 107,
+    Δⵠⵠⵠ: 190,
     time: Wl / ta,
     ⵠⵠⵠ: bs.ΔⲆⵠⵠⲆ
   }, {
-    r: [[_r.ⵠᐃⵠⵠ, 120]],
+    r: [[109, 120]],
     w: 1,
     f: 0,
     ⵠᐃⵠ: Mg,
     e: wj,
-    id: $r.ⵠᐃⵠᐃⵠ,
-    Δⵠⵠⵠ: _r.ⵠᐃⵠᐃⵠ,
+    id: 108,
+    Δⵠⵠⵠ: 221,
     time: 1 / _o,
     ⵠⵠⵠ: bs.ΔⲆⵠⵠⲆ
   }, {
-    r: [[_r.ⵠᐃⵠⵠ, vi], [_r.ᐃᐃΔΔⵠ, sj]],
+    r: [[109, vi], [140, sj]],
     w: Wl,
     f: 0,
     ⵠᐃⵠ: 0,
     e: 0,
-    id: $r.ΔΔΔⵠⵠ,
-    Δⵠⵠⵠ: _r.ΔΔΔⵠⵠ,
+    id: 109,
+    Δⵠⵠⵠ: 141,
     time: 0.2,
     ⵠⵠⵠ: bs.ΔⲆⵠⵠⲆ
   }, {
-    r: [[_r.ⲆⲆΔⲆᐃ, 25]],
+    r: [[126, 25]],
     w: 1,
     f: 1,
     ⵠᐃⵠ: Hi,
     e: os,
-    id: $r.ᐃⲆⵠΔᐃ,
-    Δⵠⵠⵠ: _r.ᐃⲆⵠΔᐃ,
+    id: 110,
+    Δⵠⵠⵠ: 128,
     time: 1 / Hh,
     ⵠⵠⵠ: bs.ⵠⲆⵠⲆΔ
   }, {
-    r: [[_r.ᐃⲆⵠΔᐃ, mk]],
+    r: [[128, mk]],
     w: 0,
     f: wg,
     ⵠᐃⵠ: mk,
     e: Qs,
-    id: $r.ΔᐃᐃⵠΔ,
-    Δⵠⵠⵠ: _r.ΔᐃᐃⵠΔ,
+    id: 111,
+    Δⵠⵠⵠ: 127,
     time: ie / 5,
     ⵠⵠⵠ: bs.ⵠⲆⵠⲆΔ
   }, {
-    r: [[_r.ᐃΔΔΔⲆ, qi], [_r.ᐃⲆⵠΔᐃ, Gh]],
+    r: [[142, qi], [128, Gh]],
     w: Zj,
     f: Gh,
     ⵠᐃⵠ: Zj,
     e: Qs,
-    id: $r.ᐃᐃⲆⲆΔⵠᐃ,
-    Δⵠⵠⵠ: _r.ΔᐃᐃⵠΔ,
+    id: 112,
+    Δⵠⵠⵠ: 127,
     time: ie / 10,
     ⵠⵠⵠ: bs.ⵠⲆⵠⲆΔ
   }, {
-    r: [[_r.ᐃⲆⵠΔᐃ, 1]],
+    r: [[128, 1]],
     w: 0,
     f: 0,
     ⵠᐃⵠ: 0,
     e: og,
-    id: $r.ⲆⲆᐃΔⲆⲆΔ,
-    Δⵠⵠⵠ: _r.ΔᐃᐃⵠΔ,
+    id: 113,
+    Δⵠⵠⵠ: 127,
     time: 0.3333333333333333,
     ⵠⵠⵠ: bs.ⵠⲆⵠⲆΔ
   }, {
-    r: [[_r.ⵠᐃⵠⵠ, 60], [_r.ᐃΔⵠⲆ, vi], [_r.ᐃΔⵠᐃⲆ, xq]],
+    r: [[109, 60], [108, vi], [161, xq]],
     w: 1,
     f: 0,
     ⵠᐃⵠ: 0,
     e: ig,
-    id: $r.ⵠΔⲆⲆΔ,
-    Δⵠⵠⵠ: _r.ⵠΔⲆⲆΔ,
+    id: 114,
+    Δⵠⵠⵠ: 135,
     time: og / Bo,
     ⵠⵠⵠ: bs.ΔⲆⵠⵠⲆ
   }, {
-    r: [[_r.ᐃⲆΔⵠ, 40], [_r.ᐃΔⵠⲆ, 45]],
+    r: [[112, 40], [108, 45]],
     w: 1,
     f: In,
     ⵠᐃⵠ: 0,
     e: 0,
-    id: $r.ⲆⲆⵠⵠᐃ,
-    Δⵠⵠⵠ: _r.ⲆⲆⵠⵠᐃ,
+    id: 115,
+    Δⵠⵠⵠ: 151,
     time: za / rl,
     ⵠⵠⵠ: bs.ΔⲆⵠⵠⲆ
   }, {
-    r: [[_r.ⲆⲆⵠⵠᐃ, Oq], [_r.ᐃⵠⵠΔⵠ, 40], [_r.ⵠⲆᐃΔⵠ, 1]],
+    r: [[151, Oq], [234, 40], [238, 1]],
     w: za,
     f: Wl,
     ⵠᐃⵠ: og,
     e: 0,
-    id: $r.ΔⲆΔΔⲆ,
-    Δⵠⵠⵠ: _r.ΔⲆΔΔⲆ,
+    id: 116,
+    Δⵠⵠⵠ: 152,
     time: 0.005,
     ⵠⵠⵠ: bs.ΔⲆⵠⵠⲆ
   }, {
-    r: [[_r.ⵠᐃⵠⵠ, 50], [_r.ᐃΔⵠⲆ, 100]],
+    r: [[109, 50], [108, 100]],
     w: mk,
     f: 0,
     ⵠᐃⵠ: Lr,
     e: Ih,
-    id: $r.ⲆᐃΔⲆⵠ,
-    Δⵠⵠⵠ: _r.ⲆᐃΔⲆⵠ,
+    id: 117,
+    Δⵠⵠⵠ: 153,
     time: 1 / 90,
     ⵠⵠⵠ: bs.ΔⲆⵠⵠⲆ
   }, {
-    r: [[_r.ᐃΔⵠⲆ, 60], [_r.ᐃⲆⵠᐃ, 120]],
+    r: [[108, 60], [111, 120]],
     w: 1,
     f: 0,
     ⵠᐃⵠ: 0,
     e: 0,
-    id: $r.ⲆΔᐃⵠⲆ,
-    Δⵠⵠⵠ: _r.ⲆΔᐃⵠⲆ,
+    id: 118,
+    Δⵠⵠⵠ: 154,
     time: Oq / 90,
     ⵠⵠⵠ: bs.ΔⲆⵠⵠⲆ
   }, {
-    r: [[_r.ᐃⲆⵠᐃ, 70], [_r.ᐃⲆΔⵠ, 140]],
+    r: [[111, 70], [112, 140]],
     w: 1,
     f: 0,
     ⵠᐃⵠ: wg,
     e: 0,
-    id: $r.ΔⵠᐃⲆⵠ,
-    Δⵠⵠⵠ: _r.ΔⵠᐃⲆⵠ,
+    id: 119,
+    Δⵠⵠⵠ: 155,
     time: 0.011111111111111112,
     ⵠⵠⵠ: bs.ΔⲆⵠⵠⲆ
   }, {
-    r: [[_r.ᐃⲆΔⵠ, 80], [_r.Ⲇⵠⵠⵠ, 160]],
+    r: [[112, 80], [121, 160]],
     w: 1,
     f: 0,
     ⵠᐃⵠ: Qs,
     e: 0,
-    id: $r.ΔⲆⵠⵠⵠ,
-    Δⵠⵠⵠ: _r.ΔⲆⵠⵠⵠ,
+    id: 120,
+    Δⵠⵠⵠ: 156,
     time: mk / 90,
     ⵠⵠⵠ: bs.ΔⲆⵠⵠⲆ
   }, {
-    r: [[_r.Ⲇⵠⵠⵠ, 90], [_r.ᐃⵠᐃΔ, 180]],
+    r: [[121, 90], [202, 180]],
     w: Xn,
     f: fl,
     ⵠᐃⵠ: 0,
     e: Qs,
-    id: $r.ⲆⲆⵠⵠΔ,
-    Δⵠⵠⵠ: _r.ⲆⲆⵠⵠΔ,
+    id: 121,
+    Δⵠⵠⵠ: 157,
     time: og / 90,
     ⵠⵠⵠ: bs.ΔⲆⵠⵠⲆ
   }, {
-    r: [[_r.ᐃΔⵠⲆ, 70]],
+    r: [[108, 70]],
     w: 1,
     f: wg,
     ⵠᐃⵠ: 0,
     e: Yh,
-    id: $r.ᐃⵠᐃΔⵠ,
-    Δⵠⵠⵠ: _r.ᐃⵠᐃΔⵠ,
+    id: 122,
+    Δⵠⵠⵠ: 55,
     time: 0.1,
     ⵠⵠⵠ: bs.ⲆᐃⵠᐃΔ
   }, {
-    r: [[_r.ᐃΔⵠⲆ, 70], [_r.ⵠᐃⵠⵠ, 50]],
+    r: [[108, 70], [109, 50]],
     w: 1,
     f: 0,
     ⵠᐃⵠ: os,
     e: Zj,
-    id: $r.Ⲇᐃⵠⵠᐃ,
-    Δⵠⵠⵠ: _r.Ⲇᐃⵠⵠᐃ,
+    id: 123,
+    Δⵠⵠⵠ: 56,
     time: Te / 10,
     ⵠⵠⵠ: bs.ⲆᐃⵠᐃΔ
   }, {
-    r: [[_r.ⵠᐃⵠⵠ, 40], [_r.ᐃΔⵠⲆ, 40]],
+    r: [[109, 40], [108, 40]],
     w: Hg,
     f: Mg,
     ⵠᐃⵠ: 0,
     e: Ih,
-    id: $r.Δᐃᐃᐃᐃ,
-    Δⵠⵠⵠ: _r.Δᐃᐃᐃᐃ,
+    id: 124,
+    Δⵠⵠⵠ: 144,
     time: 0.1,
     ⵠⵠⵠ: bs.ΔⲆⵠⵠⲆ
   }, {
-    r: [[_r.ⲆⵠΔⲆΔ, 1], [_r.ΔΔⵠⵠⲆ, zs]],
+    r: [[143, 1], [117, zs]],
     w: Hi,
     f: Qs,
     ⵠᐃⵠ: Lr,
     e: ig,
-    id: $r.ⲆⲆΔⵠⵠ,
-    Δⵠⵠⵠ: _r.ⲆⲆΔⵠⵠ,
+    id: 125,
+    Δⵠⵠⵠ: 145,
     time: 1 / Tr,
     ⵠⵠⵠ: bs.ⵠⲆⵠⲆΔ
   }, {
-    r: [[_r.ⲆⲆⲆᐃⵠ, 30], [_r.ⵠᐃΔⵠΔ, 1], [_r.Ⲇⵠⵠⵠ, 150], [_r.ⵠⵠⲆⵠⲆ, ci]],
+    r: [[147, 30], [184, 1], [121, 150], [149, ci]],
     w: 1,
     f: gs,
     ⵠᐃⵠ: Te,
     e: 0,
-    id: $r.ᐃⵠΔᐃΔ,
-    Δⵠⵠⵠ: _r.ᐃⵠΔᐃΔ,
+    id: 126,
+    Δⵠⵠⵠ: 59,
     time: Hg / 120,
     ⵠⵠⵠ: bs.ⵠᐃⲆᐃᐃ
   }, {
-    r: [[_r.ᐃⵠΔᐃΔ, ie], [_r.ⲆⲆΔⲆΔ, 1], [_r.ᐃⵠᐃΔ, 150], [_r.ᐃⲆᐃⵠΔ, xj]],
+    r: [[59, ie], [186, 1], [202, 150], [150, xj]],
     w: 1,
     f: 1,
     ⵠᐃⵠ: Hg,
     e: 0,
-    id: $r.ⵠᐃΔΔⵠ,
-    Δⵠⵠⵠ: _r.ⵠᐃΔΔⵠ,
+    id: 127,
+    Δⵠⵠⵠ: 60,
     time: 0.005555555555555556,
     ⵠⵠⵠ: bs.ⵠᐃⲆᐃᐃ
   }, {
-    r: [[_r.ΔᐃΔⲆⲆ, Tl], [_r.ⵠⲆⵠᐃᐃ, 10], [_r.ⲆⵠᐃΔᐃ, 10], [_r.ᐃΔⵠᐃⲆ, 10]],
+    r: [[26, Tl], [197, 10], [196, 10], [161, 10]],
     w: Wl,
     f: Qs,
     ⵠᐃⵠ: Qs,
     e: ya,
-    id: $r.ⲆⲆΔΔⵠ,
-    Δⵠⵠⵠ: _r.ⲆⲆΔΔⵠ,
+    id: 128,
+    Δⵠⵠⵠ: 61,
     time: 0.016666666666666666,
     ⵠⵠⵠ: bs.ⵠᐃⲆᐃᐃ
   }, {
-    r: [[_r.ⲆⲆⲆᐃⵠ, vi], [_r.ᐃⲆΔᐃᐃ, ie], [_r.Ⲇⵠⵠⵠ, 150], [_r.ⵠⵠⲆⵠⲆ, 3]],
+    r: [[147, vi], [185, ie], [121, 150], [149, 3]],
     w: 1,
     f: Hg,
     ⵠᐃⵠ: zs,
     e: 0,
-    id: $r.ⵠᐃᐃΔⵠ,
-    Δⵠⵠⵠ: _r.ⵠᐃᐃΔⵠ,
+    id: 129,
+    Δⵠⵠⵠ: 62,
     time: zs / 120,
     ⵠⵠⵠ: bs.ΔⲆΔⵠ
   }, {
-    r: [[_r.ⵠᐃᐃΔⵠ, Gh], [_r.ΔⲆᐃᐃⲆ, 1], [_r.ᐃⵠᐃΔ, 150], [_r.ᐃⲆᐃⵠΔ, 2]],
+    r: [[62, Gh], [187, 1], [202, 150], [150, 2]],
     w: zs,
     f: 1,
     ⵠᐃⵠ: 1,
     e: Qs,
-    id: $r.ⲆⲆᐃᐃⲆ,
-    Δⵠⵠⵠ: _r.ⲆⲆᐃᐃⲆ,
+    id: 130,
+    Δⵠⵠⵠ: 63,
     time: 1 / 180,
     ⵠⵠⵠ: bs.ΔⲆΔⵠ
   }, {
-    r: [[_r.ⵠᐃⵠⵠ, Ks], [_r.ᐃΔⵠᐃⲆ, Os]],
+    r: [[109, Ks], [161, Os]],
     w: mk,
     f: 0,
     ⵠᐃⵠ: 0,
     e: Qs,
-    id: $r.ΔΔΔⲆΔ,
-    Δⵠⵠⵠ: _r.ΔΔΔⲆΔ,
+    id: 131,
+    Δⵠⵠⵠ: 64,
     time: 1 / vi,
     ⵠⵠⵠ: bs.ΔⲆΔⵠ
   }, {
-    r: [[_r.ⵠᐃⵠⵠ, 30]],
+    r: [[109, 30]],
     w: Hg,
     f: Hi,
     ⵠᐃⵠ: 0,
     e: wj,
-    id: $r.ΔᐃⲆⵠⲆ,
-    Δⵠⵠⵠ: _r.ΔᐃⲆⵠⲆ,
+    id: 132,
+    Δⵠⵠⵠ: 101,
     time: 1 / Hh,
     ⵠⵠⵠ: bs.ΔⲆΔⵠ
   }, {
-    r: [[_r.ᐃΔⵠⲆ, 200], [_r.ᐃΔⵠᐃⲆ, aa], [_r.ᐃⲆⲆⲆᐃ, Vn], [_r.ΔΔΔⲆΔ, 1]],
+    r: [[108, 200], [161, aa], [222, Vn], [64, 1]],
     w: ie,
     f: 0,
     ⵠᐃⵠ: 0,
     e: Hi,
-    id: $r.ⲆΔᐃΔⵠ,
-    Δⵠⵠⵠ: _r.ⲆΔᐃΔⵠ,
+    id: 133,
+    Δⵠⵠⵠ: 65,
     time: Wl / 25,
     ⵠⵠⵠ: bs.ΔⲆΔⵠ
   }, {
-    r: [[_r.ᐃΔⵠⲆ, Xa], [_r.ⵠⵠΔⲆⵠ, za]],
+    r: [[108, Xa], [231, za]],
     w: za,
     f: Lr,
     ⵠᐃⵠ: 0,
     e: 0,
-    id: $r.ᐃᐃΔᐃΔ,
-    Δⵠⵠⵠ: _r.ᐃᐃΔᐃΔ,
+    id: 134,
+    Δⵠⵠⵠ: 102,
     time: ie / 5,
     ⵠⵠⵠ: bs.ΔⲆΔⵠ
   }, {
-    r: [[_r.ᐃⲆⵠᐃ, 200], [_r.ᐃΔⵠᐃⲆ, 12], [_r.ⵠⵠΔⲆⵠ, 4], [_r.ᐃⲆⲆⲆᐃ, Vn], [_r.ⲆΔᐃΔⵠ, Hg]],
+    r: [[111, 200], [161, 12], [231, 4], [222, Vn], [65, Hg]],
     w: 1,
     f: 0,
     ⵠᐃⵠ: Da,
     e: Lr,
-    id: $r.ᐃᐃⲆᐃᐃ,
-    Δⵠⵠⵠ: _r.ᐃᐃⲆᐃᐃ,
+    id: 135,
+    Δⵠⵠⵠ: 66,
     time: 1 / 30,
     ⵠⵠⵠ: bs.ΔⲆΔⵠ
   }, {
-    r: [[_r.ᐃⲆⵠᐃ, 20], [_r.ᐃⲆⲆⲆᐃ, 1]],
+    r: [[111, 20], [222, 1]],
     w: 1,
     f: 0,
     ⵠᐃⵠ: 0,
     e: Zj,
-    id: $r.ⲆΔⲆᐃⲆ,
-    Δⵠⵠⵠ: _r.ⲆΔⲆᐃⲆ,
+    id: 136,
+    Δⵠⵠⵠ: 103,
     time: 1 / Bo,
     ⵠⵠⵠ: bs.ΔⲆΔⵠ
   }, {
-    r: [[_r.ᐃⲆΔⵠ, 200], [_r.ⲆⲆⲆᐃⵠ, 10], [_r.ⵠⵠΔⲆⵠ, Dg], [_r.ᐃⲆⲆⲆᐃ, 8], [_r.ᐃᐃⲆᐃᐃ, zs]],
+    r: [[112, 200], [147, 10], [231, Dg], [222, 8], [66, zs]],
     w: Tl,
     f: Hi,
     ⵠᐃⵠ: Qs,
     e: Mg,
-    id: $r.Δᐃᐃⵠⵠ,
-    Δⵠⵠⵠ: _r.Δᐃᐃⵠⵠ,
+    id: 137,
+    Δⵠⵠⵠ: 67,
     time: 0.02857142857142857,
     ⵠⵠⵠ: bs.ΔⲆΔⵠ
   }, {
-    r: [[_r.ᐃⲆΔⵠ, 10], [_r.ᐃⲆⲆⲆᐃ, Te]],
+    r: [[112, 10], [222, Te]],
     w: 1,
     f: 0,
     ⵠᐃⵠ: In,
     e: fl,
-    id: $r.ΔΔⲆⵠⲆ,
-    Δⵠⵠⵠ: _r.ΔΔⲆⵠⲆ,
+    id: 138,
+    Δⵠⵠⵠ: 104,
     time: 1 / sk,
     ⵠⵠⵠ: bs.ΔⲆΔⵠ
   }, {
-    r: [[_r.Ⲇⵠⵠⵠ, 200], [_r.ⲆⲆⲆᐃⵠ, Bo], [_r.ᐃⲆⲆⲆᐃ, 8], [_r.ΔⵠΔΔⲆ, Hr], [_r.Δᐃᐃⵠⵠ, 1]],
+    r: [[121, 200], [147, Bo], [222, 8], [232, Hr], [67, 1]],
     w: 1,
     f: Qs,
     ⵠᐃⵠ: Ih,
     e: 0,
-    id: $r.ⵠΔΔᐃᐃ,
-    Δⵠⵠⵠ: _r.ⵠΔΔᐃᐃ,
+    id: 139,
+    Δⵠⵠⵠ: 68,
     time: Xn / 40,
     ⵠⵠⵠ: bs.ΔⲆΔⵠ
   }, {
-    r: [[_r.Ⲇⵠⵠⵠ, Zk], [_r.ΔⵠΔΔⲆ, 1]],
+    r: [[121, Zk], [232, 1]],
     w: 1,
     f: 0,
     ⵠᐃⵠ: Da,
     e: Mg,
-    id: $r.ⲆⵠΔⵠⵠ,
-    Δⵠⵠⵠ: _r.ⲆⵠΔⵠⵠ,
+    id: 140,
+    Δⵠⵠⵠ: 105,
     time: 1 / $q,
     ⵠⵠⵠ: bs.ΔⲆΔⵠ
   }, {
-    r: [[_r.ᐃⵠᐃΔ, 200], [_r.ⲆⲆⲆᐃⵠ, lg], [_r.ΔᐃΔⲆᐃ, 1], [_r.ⵠΔΔᐃᐃ, 1]],
+    r: [[202, 200], [147, lg], [129, 1], [68, 1]],
     w: 1,
     f: os,
     ⵠᐃⵠ: fl,
     e: 0,
-    id: $r.ΔᐃⵠⵠΔ,
-    Δⵠⵠⵠ: _r.ΔᐃⵠⵠΔ,
+    id: 141,
+    Δⵠⵠⵠ: 69,
     time: Oq / 45,
     ⵠⵠⵠ: bs.ΔⲆΔⵠ
   }, {
-    r: [[_r.ᐃⵠᐃΔ, 10], [_r.ΔⵠΔΔⲆ, 1], [_r.ⲆⵠⵠΔⲆ, gs]],
+    r: [[202, 10], [232, 1], [203, gs]],
     w: 1,
     f: os,
     ⵠᐃⵠ: 0,
     e: 0,
-    id: $r.ⲆⵠΔⲆⲆ,
-    Δⵠⵠⵠ: _r.ⲆⵠΔⲆⲆ,
+    id: 142,
+    Δⵠⵠⵠ: 106,
     time: Hg / ul,
     ⵠⵠⵠ: bs.ΔⲆΔⵠ
   }, {
-    r: [[_r.ᐃⵠⵠΔⵠ, 200], [_r.ⲆⲆⲆᐃⵠ, Yg], [_r.ᐃⲆΔᐃᐃ, mk], [_r.ΔᐃⵠⵠΔ, zg]],
+    r: [[234, 200], [147, Yg], [185, mk], [69, zg]],
     w: 1,
     f: Zj,
     ⵠᐃⵠ: 0,
     e: 0,
-    id: $r.ⵠΔⲆΔⲆ,
-    Δⵠⵠⵠ: _r.ⵠΔⲆΔⲆ,
+    id: 143,
+    Δⵠⵠⵠ: 70,
     time: Hg / 50,
     ⵠⵠⵠ: bs.ΔⲆΔⵠ
   }, {
-    r: [[_r.ᐃⵠⵠΔⵠ, 10], [_r.ⵠⲆᐃΔⵠ, 1]],
+    r: [[234, 10], [238, 1]],
     w: og,
     f: Yh,
     ⵠᐃⵠ: In,
     e: 0,
-    id: $r.ΔⵠΔⵠⵠ,
-    Δⵠⵠⵠ: _r.ΔⵠΔⵠⵠ,
+    id: 144,
+    Δⵠⵠⵠ: 107,
     time: 1 / hn,
     ⵠⵠⵠ: bs.ΔⲆΔⵠ
   }, {
-    r: [[_r.ⵠᐃⵠⵠ, 100]],
+    r: [[109, 100]],
     w: mk,
     f: 0,
     ⵠᐃⵠ: 0,
     e: 0,
-    id: $r.ⲆΔⵠΔΔ,
-    Δⵠⵠⵠ: _r.ⲆΔⵠΔΔ,
+    id: 145,
+    Δⵠⵠⵠ: 71,
     time: zs / 25,
     ⵠⵠⵠ: bs.ΔⲆΔⵠ
   }, {
-    r: [[_r.ⲆΔⵠΔΔ, 1], [_r.ᐃΔⵠⲆ, 100], [_r.ⵠᐃⵠⵠ, 50]],
+    r: [[71, 1], [108, 100], [109, 50]],
     w: 1,
     f: 0,
     ⵠᐃⵠ: os,
     e: wj,
-    id: $r.ᐃΔᐃΔⲆ,
-    Δⵠⵠⵠ: _r.ᐃΔᐃΔⲆ,
+    id: 146,
+    Δⵠⵠⵠ: 72,
     time: mk / 40,
     ⵠⵠⵠ: bs.ΔⲆΔⵠ
   }, {
-    r: [[_r.ᐃΔᐃΔⲆ, 1], [_r.ᐃⲆⵠᐃ, 50], [_r.ᐃΔⵠⲆ, 50], [_r.ⵠᐃⵠⵠ, 50]],
+    r: [[72, 1], [111, 50], [108, 50], [109, 50]],
     w: 1,
     f: In,
     ⵠᐃⵠ: Da,
     e: wg,
-    id: $r.ᐃᐃΔᐃⲆ,
-    Δⵠⵠⵠ: _r.ᐃᐃΔᐃⲆ,
+    id: 147,
+    Δⵠⵠⵠ: 73,
     time: 0.02,
     ⵠⵠⵠ: bs.ΔⲆΔⵠ
   }, {
-    r: [[_r.ᐃᐃΔᐃⲆ, zs], [_r.ᐃⲆΔⵠ, 50], [_r.ᐃⲆⵠᐃ, 50], [_r.ᐃΔⵠⲆ, 50]],
+    r: [[73, zs], [112, 50], [111, 50], [108, 50]],
     w: 1,
     f: fl,
     ⵠᐃⵠ: 0,
     e: Da,
-    id: $r.ΔⲆΔΔΔ,
-    Δⵠⵠⵠ: _r.ΔⲆΔΔΔ,
+    id: 148,
+    Δⵠⵠⵠ: 74,
     time: 0.014285714285714285,
     ⵠⵠⵠ: bs.ΔⲆΔⵠ
   }, {
-    r: [[_r.ΔⲆΔΔΔ, 1], [_r.Ⲇⵠⵠⵠ, 50], [_r.ᐃⲆΔⵠ, 50], [_r.ᐃⲆⵠᐃ, 50]],
+    r: [[74, 1], [121, 50], [112, 50], [111, 50]],
     w: Oq,
     f: Zj,
     ⵠᐃⵠ: wg,
     e: 0,
-    id: $r.ᐃΔⵠᐃⵠ,
-    Δⵠⵠⵠ: _r.ᐃΔⵠᐃⵠ,
+    id: 149,
+    Δⵠⵠⵠ: 75,
     time: 0.011111111111111112,
     ⵠⵠⵠ: bs.ΔⲆΔⵠ
   }, {
-    r: [[_r.ᐃΔⵠᐃⵠ, Oq], [_r.ᐃⵠᐃΔ, 50], [_r.Ⲇⵠⵠⵠ, 50], [_r.ᐃⲆΔⵠ, 50]],
+    r: [[75, Oq], [202, 50], [121, 50], [112, 50]],
     w: Te,
     f: 0,
     ⵠᐃⵠ: 0,
     e: 0,
-    id: $r.Δⵠᐃᐃᐃ,
-    Δⵠⵠⵠ: _r.Δⵠᐃᐃᐃ,
+    id: 150,
+    Δⵠⵠⵠ: 76,
     time: mk / 120,
     ⵠⵠⵠ: bs.ΔⲆΔⵠ
   }, {
-    r: [[_r.ΔᐃΔᐃⵠ, 1], [_r.ᐃⲆⵠᐃ, 200]],
+    r: [[175, 1], [111, 200]],
     w: 1,
     f: Te,
     ⵠᐃⵠ: za,
     e: Ih,
-    id: $r.ᐃⲆΔⵠⵠ,
-    Δⵠⵠⵠ: _r.ᐃⲆΔⵠⵠ,
+    id: 151,
+    Δⵠⵠⵠ: 77,
     time: 0.016666666666666666,
     ⵠⵠⵠ: bs.ⵠᐃⲆᐃᐃ
   }, {
-    r: [[_r.ⵠⲆⲆΔᐃ, Gh], [_r.ᐃⲆⵠᐃ, 200]],
+    r: [[176, Gh], [111, 200]],
     w: Te,
     f: 1,
     ⵠᐃⵠ: 1,
     e: ya,
-    id: $r.ⵠᐃⵠⵠΔ,
-    Δⵠⵠⵠ: _r.ⵠᐃⵠⵠΔ,
+    id: 152,
+    Δⵠⵠⵠ: 78,
     time: Hg / 60,
     ⵠⵠⵠ: bs.ⵠᐃⲆᐃᐃ
   }, {
-    r: [[_r.ΔΔⲆⲆᐃ, 1], [_r.ᐃⲆⵠᐃ, 200], [_r.ⵠⵠⲆⵠⲆ, 1]],
+    r: [[177, 1], [111, 200], [149, 1]],
     w: og,
     f: Tl,
     ⵠᐃⵠ: 1,
     e: 0,
-    id: $r.ⲆⲆᐃᐃΔ,
-    Δⵠⵠⵠ: _r.ⲆⲆᐃᐃΔ,
+    id: 153,
+    Δⵠⵠⵠ: 79,
     time: og / 60,
     ⵠⵠⵠ: bs.ⵠᐃⲆᐃᐃ
   }, {
-    r: [[_r.ⲆⵠⵠΔᐃ, 10], [_r.ⵠⵠΔⵠΔ, 5], [_r.ᐃΔⵠᐃⲆ, va]],
+    r: [[174, 10], [2, 5], [161, va]],
     w: 1,
     f: Lr,
     ⵠᐃⵠ: 0,
     e: 0,
-    id: $r.ⲆΔⵠⵠᐃ,
-    Δⵠⵠⵠ: _r.ⲆΔⵠⵠᐃ,
+    id: 154,
+    Δⵠⵠⵠ: 83,
     time: Oq / 10,
     ⵠⵠⵠ: bs.ⵠᐃⲆᐃᐃ
   }, {
-    r: [[_r.ⵠⵠΔⵠΔ, 3], [_r.ᐃΔⵠᐃⲆ, 2]],
+    r: [[2, 3], [161, 2]],
     w: Hg,
     f: Qs,
     ⵠᐃⵠ: 0,
     e: 0,
-    id: $r.ΔᐃⲆⵠⵠ,
-    Δⵠⵠⵠ: _r.ΔᐃⲆⵠⵠ,
+    id: 155,
+    Δⵠⵠⵠ: 84,
     time: 1 / Yg,
     ⵠⵠⵠ: bs.ⵠᐃⲆᐃᐃ
   }, {
-    r: [[_r.ⲆΔⵠⵠᐃ, 1], [_r.ⵠⲆΔᐃᐃ, Wl], [_r.ⲆΔΔᐃᐃ, 15], [_r.ⲆⲆⲆᐃⵠ, Fs], [_r.ᐃⲆⲆⲆᐃ, _a]],
+    r: [[83, 1], [179, Wl], [146, 15], [147, Fs], [222, _a]],
     w: 1,
     f: 0,
     ⵠᐃⵠ: 0,
     e: wj,
-    id: $r.ΔΔᐃⲆΔ,
-    Δⵠⵠⵠ: _r.ΔΔᐃⲆΔ,
+    id: 156,
+    Δⵠⵠⵠ: 85,
     time: Oq / 60,
     ⵠⵠⵠ: bs.ⵠᐃⲆᐃᐃ
   }, {
-    r: [[_r.ΔᐃⲆⵠⵠ, 1], [_r.ᐃΔΔⲆΔ, zs], [_r.ⲆΔΔᐃᐃ, zl], [_r.ⲆⲆⲆᐃⵠ, 5], [_r.ᐃⲆⲆⲆᐃ, Iq]],
+    r: [[84, 1], [178, zs], [146, zl], [147, 5], [222, Iq]],
     w: Xn,
     f: Yh,
     ⵠᐃⵠ: Zj,
     e: 0,
-    id: $r.ΔᐃⵠⲆΔ,
-    Δⵠⵠⵠ: _r.ΔᐃⵠⲆΔ,
+    id: 157,
+    Δⵠⵠⵠ: 86,
     time: Tl / 60,
     ⵠⵠⵠ: bs.ⵠᐃⲆᐃᐃ
   }, {
-    r: [[_r.ⲆΔⵠΔᐃ, ie]],
+    r: [[181, ie]],
     w: 0,
     f: 0,
     ⵠᐃⵠ: 1,
     e: Da,
-    id: $r.ΔΔᐃΔΔ,
-    Δⵠⵠⵠ: _r.ΔΔᐃΔΔ,
+    id: 158,
+    Δⵠⵠⵠ: 180,
     time: 0.2,
     ⵠⵠⵠ: bs.ⲆᐃⵠᐃΔ
   }, {
-    r: [[_r.ⵠᐃⵠⵠ, qr], [_r.ᐃΔⵠᐃⲆ, 1]],
+    r: [[109, qr], [161, 1]],
     w: 1,
     f: Mg,
     ⵠᐃⵠ: 0,
     e: 0,
-    id: $r.ⲆΔⵠΔᐃ,
-    Δⵠⵠⵠ: _r.ⲆΔⵠΔᐃ,
+    id: 159,
+    Δⵠⵠⵠ: 181,
     time: Wl / Hh,
     ⵠⵠⵠ: bs.ⲆᐃⵠᐃΔ
   }, {
-    r: [[_r.ᐃΔⵠⲆ, 100], [_r.ᐃᐃΔΔⵠ, 30]],
+    r: [[108, 100], [140, 30]],
     w: Wl,
     f: mk,
     ⵠᐃⵠ: mj,
     e: ya,
-    id: $r.ⲆⵠⲆⵠⵠ,
-    Δⵠⵠⵠ: _r.ⲆⵠⲆⵠⵠ,
+    id: 160,
+    Δⵠⵠⵠ: 182,
     time: 1 / Ra,
     ⵠⵠⵠ: bs.ΔⲆⵠⵠⲆ
   }, {
-    r: [[_r.ⵠᐃⵠⵠ, Dl]],
+    r: [[109, Dl]],
     w: 1,
     f: wj,
     ⵠᐃⵠ: Zj,
     e: In,
-    id: $r.ⵠΔᐃᐃᐃ,
-    Δⵠⵠⵠ: _r.ⵠΔᐃᐃᐃ,
+    id: 161,
+    Δⵠⵠⵠ: 183,
     time: zg / 5,
     ⵠⵠⵠ: bs.ΔⲆⵠⵠⲆ
   }, {
-    r: [[_r.ⵠᐃⵠⵠ, ah], [_r.ᐃΔⵠⲆ, 50], [_r.ⵠⵠΔⵠΔ, kq], [_r.ⲆⵠⵠΔᐃ, Qr], [_r.ᐃΔⵠᐃⲆ, 6]],
+    r: [[109, ah], [108, 50], [2, kq], [174, Qr], [161, 6]],
     w: Tl,
     f: 0,
     ⵠᐃⵠ: Ih,
     e: Ih,
-    id: $r.ΔⲆⵠΔΔ,
-    Δⵠⵠⵠ: _r.ΔⲆⵠΔΔ,
+    id: 162,
+    Δⵠⵠⵠ: 198,
     time: Tl / Jg,
     ⵠⵠⵠ: bs.ΔⲆⵠⵠⲆ
   }, {
-    r: [[_r.ⵠᐃⵠⵠ, 250], [_r.ⲆⲆⲆᐃⵠ, Ch], [_r.ⲆΔΔᐃᐃ, 2], [_r.ⵠᐃΔⲆⵠ, vg]],
+    r: [[109, 250], [147, Ch], [146, 2], [139, vg]],
     w: 1,
     f: 0,
     ⵠᐃⵠ: 0,
     e: wj,
-    id: $r.ⵠⵠⲆΔⲆ,
-    Δⵠⵠⵠ: _r.ⵠⵠⲆΔⲆ,
+    id: 163,
+    Δⵠⵠⵠ: 223,
     time: zs / 50,
     ⵠⵠⵠ: bs.ΔⲆⵠⵠⲆ
   }, {
-    r: [[_r.ⵠᐃⵠⵠ, 250], [_r.ᐃΔⵠᐃⲆ, gn], [_r.ⲆΔΔᐃᐃ, 2], [_r.ᐃⲆⲆⲆᐃ, 8]],
+    r: [[109, 250], [161, gn], [146, 2], [222, 8]],
     w: zs,
     f: In,
     ⵠᐃⵠ: 0,
     e: ig,
-    id: $r.ⵠᐃᐃⲆᐃ,
-    Δⵠⵠⵠ: _r.ⵠᐃᐃⲆᐃ,
+    id: 164,
+    Δⵠⵠⵠ: 224,
     time: zs / 50,
     ⵠⵠⵠ: bs.ΔⲆⵠⵠⲆ
   }, {
-    r: [[_r.ᐃΔⵠᐃⲆ, 10], [_r.ⲆⵠⵠΔᐃ, 6], [_r.ⵠⵠΔⵠΔ, 4], [_r.ⲆⲆΔⲆᐃ, 50]],
+    r: [[161, 10], [174, 6], [2, 4], [126, 50]],
     w: og,
     f: wj,
     ⵠᐃⵠ: ya,
     e: 0,
-    id: $r.ᐃⵠⲆⵠⲆ,
-    Δⵠⵠⵠ: _r.ᐃⵠⲆⵠⲆ,
+    id: 165,
+    Δⵠⵠⵠ: 89,
     time: mk / Ok,
     ⵠⵠⵠ: bs.ΔⲆⵠⵠⲆ
   }, {
-    r: [[_r.ⵠᐃⵠⵠ, 250], [_r.ᐃΔⵠᐃⲆ, te], [_r.ⵠΔΔΔⲆ, 10], [_r.ⵠⵠΔⲆⵠ, 8]],
+    r: [[109, 250], [161, te], [120, 10], [231, 8]],
     w: Hg,
     f: Mg,
     ⵠᐃⵠ: 0,
     e: Rq,
-    id: $r.ΔⵠΔΔⵠ,
-    Δⵠⵠⵠ: _r.ΔⵠΔΔⵠ,
+    id: 166,
+    Δⵠⵠⵠ: 230,
     time: 0.02,
     ⵠⵠⵠ: bs.ΔⲆⵠⵠⲆ
   }, {
-    r: [[_r.ⵠᐃⵠⵠ, 40]],
+    r: [[109, 40]],
     w: 1,
     f: wj,
     ⵠᐃⵠ: 0,
     e: Hi,
-    id: $r.ΔᐃⲆᐃᐃ,
-    Δⵠⵠⵠ: _r.ΔᐃⲆᐃᐃ,
+    id: 167,
+    Δⵠⵠⵠ: 94,
     time: 1 / Oj,
     ⵠⵠⵠ: bs.ΔⲆΔⵠ
   }, {
-    r: [[_r.ΔᐃⲆᐃᐃ, Wl], [_r.ᐃΔⵠⲆ, 40], [_r.ⵠᐃⵠⵠ, 50]],
+    r: [[94, Wl], [108, 40], [109, 50]],
     w: 1,
     f: ig,
     ⵠᐃⵠ: 0,
     e: wg,
-    id: $r.ᐃⲆΔⲆⵠ,
-    Δⵠⵠⵠ: _r.ᐃⲆΔⲆⵠ,
+    id: 168,
+    Δⵠⵠⵠ: 95,
     time: 0.1,
     ⵠⵠⵠ: bs.ΔⲆΔⵠ
   }, {
-    r: [[_r.ᐃⲆΔⲆⵠ, 1], [_r.ᐃⲆⵠᐃ, 40], [_r.ᐃΔⵠⲆ, 50], [_r.ⵠᐃⵠⵠ, 60]],
+    r: [[95, 1], [111, 40], [108, 50], [109, 60]],
     w: 1,
     f: wj,
     ⵠᐃⵠ: 0,
     e: 0,
-    id: $r.ⲆᐃᐃⲆᐃ,
-    Δⵠⵠⵠ: _r.ⲆᐃᐃⲆᐃ,
+    id: 169,
+    Δⵠⵠⵠ: 96,
     time: og / nh,
     ⵠⵠⵠ: bs.ΔⲆΔⵠ
   }, {
-    r: [[_r.ⲆᐃᐃⲆᐃ, 1], [_r.ᐃⲆΔⵠ, 40], [_r.ᐃⲆⵠᐃ, 70], [_r.ᐃΔⵠⲆ, 80]],
+    r: [[96, 1], [112, 40], [111, 70], [108, 80]],
     w: Gh,
     f: Lr,
     ⵠᐃⵠ: 0,
     e: Hi,
-    id: $r.ⲆⲆⲆⵠⵠ,
-    Δⵠⵠⵠ: _r.ⲆⲆⲆⵠⵠ,
+    id: 170,
+    Δⵠⵠⵠ: 97,
     time: 0.03333333333333333,
     ⵠⵠⵠ: bs.ΔⲆΔⵠ
   }, {
-    r: [[_r.ⲆⲆⲆⵠⵠ, mk], [_r.Ⲇⵠⵠⵠ, 40], [_r.ᐃⲆΔⵠ, 70], [_r.ᐃⲆⵠᐃ, 110]],
+    r: [[97, mk], [121, 40], [112, 70], [111, 110]],
     w: Xn,
     f: 0,
     ⵠᐃⵠ: Mg,
     e: Hi,
-    id: $r.ΔΔⲆᐃᐃ,
-    Δⵠⵠⵠ: _r.ΔΔⲆᐃᐃ,
+    id: 171,
+    Δⵠⵠⵠ: 98,
     time: Wl / 60,
     ⵠⵠⵠ: bs.ΔⲆΔⵠ
   }, {
-    r: [[_r.ΔΔⲆᐃᐃ, og], [_r.ᐃⵠᐃΔ, 50], [_r.Ⲇⵠⵠⵠ, 80], [_r.ᐃⲆΔⵠ, 110]],
+    r: [[98, og], [202, 50], [121, 80], [112, 110]],
     w: gs,
     f: 0,
     ⵠᐃⵠ: fl,
     e: ig,
-    id: $r.ⲆⲆⲆᐃΔ,
-    Δⵠⵠⵠ: _r.ⲆⲆⲆᐃΔ,
+    id: 172,
+    Δⵠⵠⵠ: 99,
     time: 1 / 90,
     ⵠⵠⵠ: bs.ΔⲆΔⵠ
   }];
@@ -6972,7 +6972,7 @@
       return ~(j & 57141) & j | ~(j & 57141) & 57141;
     }(e, f, d, e))) * 22695477 + 1) % 4294967296;
   }
-  var ΔΔᐃ = {
+  ΔΔᐃ = {
     ⵠⵠΔⵠΔⲆᐃ: 300,
     ⵠⵠᐃⲆⲆᐃⲆ: 301,
     ⵠᐃΔⲆⲆⲆⲆ: 302,
@@ -7030,109 +7030,109 @@
   }
   const bt = _l;
   function ct() {
-    Et[_r.ⲆⲆⲆᐃΔ] = ["Reidite Axe", "Legendary and lethal", "Damage: 33", "Shield Penetration: 6"];
-    Et[_r.ΔΔⲆᐃᐃ] = ["Amethyst Axe", "Purple and powerful", "Damage: 30", "Shield Penetration: 5"];
-    Et[_r.ⲆⲆⲆⵠⵠ] = ["Diamond Axe", "Sparkle and slice", "Damage: 27", "Shield Penetration: 4"];
-    Et[_r.ⲆᐃᐃⲆᐃ] = ["Gold Axe", "Chop 'til it drops!", "Damage: 24", "Shield Penetration: 3"];
-    Et[_r.ᐃⲆΔⲆⵠ] = ["Stone Axe", "Rock your logs", "Damage: 21", "Shield Penetration: 2"];
-    Et[_r.ΔᐃⲆᐃᐃ] = ["Wood Axe", "Eco-friendly deforestation!", "Damage: 14", "Shield Penetration: 1"];
-    Et[_r.ⲆᐃΔⲆⵠ] = ["Stone Extractor", "Can produce stone with wood", "It takes 10 seconds to drill Stone", "Durability: 2000"];
-    Et[_r.ⲆΔᐃⵠⲆ] = ["Gold Extractor", "Can produce gold with wood", "It takes 10 seconds to drill Gold", "Durability: 2000"];
-    Et[_r.ΔⵠᐃⲆⵠ] = ["Diamond Extractor", "Can produce diamond with wood", "It takes 10 seconds to drill Diamond", "Durability: 2000"];
-    Et[_r.ΔⲆⵠⵠⵠ] = ["Amethyst Extractor", "Can produce amethyst with wood", "It takes 10 seconds to drill Amethyst", "Durability: 2000"];
-    Et[_r.ⲆⲆⵠⵠΔ] = ["Reidite Extractor", "Can produce reidite with wood", "It takes 10 seconds to drill Reidite", "Durability: 2000"];
-    Et[_r.Δⵠᐃᐃᐃ] = ["Reidite Shield", "A must for the pros of the getaway", "You can not attack when you use it", "Damage: 6", "Players Defense: 6"];
-    Et[_r.ᐃΔⵠᐃⵠ] = ["Amethyst Shield", "Because you know how to run away in style", "You can not attack when you use it", "Damage: 5", "Players Defense: 5"];
-    Et[_r.ΔⲆΔΔΔ] = ["Diamond Shield", "Run or attack, you've obviously made your choice.", "You can not attack when you use it", "Damage: 4", "Players Defense: 4"];
-    Et[_r.ᐃᐃΔᐃⲆ] = ["Gold Shield", "When it's golden, it's always better.", "You can not attack when you use it", "Damage: 3", "Players Defense: 3"];
-    Et[_r.ᐃΔᐃΔⲆ] = ["Stone Shield", "Protects you a bit more", "You can not attack when you use it", "Damage: 2", "Players Defense: 2"];
-    Et[_r.ⲆΔⵠΔΔ] = ["Wood Shield", "Protects you a bit", "You can not attack when you use it", "Damage: 1", "Players Defense: 1"];
-    Et[_r.Ⲇᐃⵠⵠᐃ] = ["Machete", "You gather more from mob boxes", "Useless to attack mobs", "Damage against Players: 5"];
-    Et[_r.ⵠᐃⵠᐃⵠ] = ["Tower", "Allows you to shoot over walls with a bow", "Does not allow to pass through roofs"];
-    Et[_r.ΔⵠΔⵠⵠ] = ["Dragon Arrow", "Must be used with a Dragon Bow", "Damage: 45", "Mobs Damage: 1200", "Building Damage: 45"];
-    Et[_r.ⵠΔⲆΔⲆ] = ["Dragon Bow", "Also called the One-Shot-Monster", "Requiers arrows to be used"];
-    Et[_r.ⲆⵠΔⲆⲆ] = ["Reidite Arrow", "Must be used with a Reidite or a Dragon Bow", "Damage: 40", "Mobs Damage: 900", "Building Damage: 40"];
-    Et[_r.ΔᐃⵠⵠΔ] = ["Reidite Bow", "Makes the most terrifying monster cry.", "Requiers any arrows, except dragon arrows, to be used"];
-    Et[_r.ⲆⵠΔⵠⵠ] = ["Amethyst Arrow", "Must be used with Amethyst, Reidite or Dragon Bow", "Damage: 35", "Mobs Damage: 600", "Building Damage: 35"];
-    Et[_r.ⵠΔΔᐃᐃ] = ["Amethyst Bow", "It's super efficient!", "Requiers any arrows, except dragon and reidite arrows, to be used"];
-    Et[_r.ΔΔⲆⵠⲆ] = ["Diamond Arrow", "Must be used with Diamond, Amethyst, Reidite or Dragon Bow", "Damage: 30", "Mobs Damage: 300", "Building Damage: 30"];
-    Et[_r.Δᐃᐃⵠⵠ] = ["Diamond Bow", "Like a Robin Wood who would keep the diamonds", "Requiers wood, stone, gold or diamond arrows to be used"];
-    Et[_r.ⲆΔⲆᐃⲆ] = ["Gold Arrow", "Must be used with a Bow, except a wooden and stone one", "Damage: 25", "Mobs Damage: 200", "Building Damage: 25"];
-    Et[_r.ᐃᐃⲆᐃᐃ] = ["Gold Bow", "When it's golden, it's better.", "Requiers wood, stone or gold arrows to be used"];
-    Et[_r.ᐃᐃΔᐃΔ] = ["Stone Arrow", "Must be used with a Bow, except a wooden one", "Damage: 20", "Mobs Damage: 100", "Building Damage: 20"];
-    Et[_r.ⲆΔᐃΔⵠ] = ["Stone Bow", "Like Robin Wood", "Requiers wood and stone arrows to be used"];
-    Et[_r.ΔᐃⲆⵠⲆ] = ["Wood Arrow", "Must be used with any bow", "Damage: 15", "Mobs Damage: 20", "Building Damage: 15"];
-    Et[_r.ΔΔΔⲆΔ] = ["Wood Bow", "A little bow that does not do many damages.", "Requiers wood arrows to be used"];
-    Et[_r.ΔⲆΔΔⲆ] = ["Emerald Machine", "Allows to automatically generate score points.", "Be careful, you can only build one.", "Once placed your soul is connected to the machine, if the machine is destroyed, you will die.", "The machine can't be build in the sea", "You earn more points in the desert, than in the lava, than in winter, than in the forest."];
-    Et[_r.ⵠΔⵠⵠⲆ] = ["Boar fur", "Hakuna Matata, well, he can no longer say it"];
-    Et[_r.ᐃⲆΔⲆⲆ] = ["Mammoth fur", "Soft and warm. Perfect for a hat."];
-    Et[_r.ΔⵠΔΔⲆ] = ["Vulture Feather", "From a deadly vulture"];
-    Et[_r.ᐃⵠⵠΔⵠ] = ["Emerald", "How many golden breads can you get from it?"];
-    Et[_r.ⵠⲆᐃΔⵠ] = ["Sand Worm Juice", "I don't want to know how you got this."];
-    Et[_r.ⵠᐃΔΔᐃ] = ["Turban", "Useful to survive in the desert."];
-    Et[_r.ⵠⵠΔᐃᐃ] = ["Ninja outfit", "Essential to survive in the desert"];
-    Et[_r.ΔᐃᐃᐃΔ] = ["Pilot Hat", "Take off and land with flying objects much faster."];
-    Et[_r.ᐃⲆᐃⵠᐃΔⵠ] = ["Pilot Glasses"];
-    Et[_r.ⵠⲆᐃⲆΔ] = ["Tamed Boar", "Fast on lands and slow on water."];
-    Et[_r.ΔΔⵠⲆⲆ] = ["Tamed Baby Mammoth", "Fast on lands and slow on water."];
-    Et[_r.ᐃⵠⵠᐃⵠ] = ["Tamed Crab Boss", "Fast on lands and water, and slow on winter.", "Gives a +10 damage bonus of the Crab Spear", "when holding a Crab Helmet"];
-    Et[_r.ⲆⵠΔᐃⵠ] = ["Tamed Baby Dragon", "You can fly with it.", "Faster than a hawk", "When you are flying,", " you can only hit people who are flying too"];
-    Et[_r.ⲆⲆΔⵠⲆ] = ["Tamed Baby Lava Dragon", "You can fly with it.", "Faster than a baby dragon", "When you are flying,", " you can only hit people who are flying too"];
-    Et[_r.ⵠᐃⲆⲆΔ] = ["Tamed Hawk", "You can fly with it.", "When you are flying,", " you can only hit people who are flying too"];
-    Et[_r.ᐃⵠⲆⵠⲆ] = ["Saddle", "Hit a boar with it to tame it."];
-    Et[_r.ᐃⵠᐃⵠⵠ] = ["Witch Hat", "You're a wizard Starvy!"];
-    Et[_r.ⲆⵠΔΔΔ] = ["Nimbus 2000", "That's not just a broomstick, Starvy, it's a Nimbus 2000!", "Only works with the witch hat."];
-    Et[_r.ᐃΔⵠⵠᐃ] = ["Wand of life", "Soon we must all choose between what is right and what is easy.", "You need the witch hat and firefly to cast spell"];
-    Et[_r.ⵠⵠᐃᐃΔ] = ["Death Wand", "The wand of He-Who-Must-Not-Be-Named... Lapa...", "You need the witch hat and firefly to cast spell"];
-    Et[_r.ᐃⲆⵠᐃΔ] = ["Firefly", "They make a cute little squeak.", "However, you must tear off his wings to make magical projectiles for use with magic wands."];
-    Et[_r.ⵠᐃᐃΔᐃ] = ["Pirate hat", "You are faster with it in a boat", "Warm outside water and in winter"];
-    Et[_r.ⵠᐃᐃⲆᐃ] = ["Sled", "You are faster with it in the snow"];
-    Et[_r.ⵠⵠⲆΔⲆ] = ["Boat", "You are faster with it in the water"];
-    Et[_r.ΔⵠΔΔⵠ] = ["Plane", "Fly in the forest, ocean and winter", "Can't fly in desert or lava biome", "When you are flying,", " you can only hit people who are flying too"];
-    Et[_r.ᐃⵠⲆⵠΔ] = ["Reidite Hammer", "Useful to destroy buildings", "Damage: 6", "Building Damage: 60"];
-    Et[_r.ᐃⲆⲆⲆᐃ] = ["Penguin Feather", "From a deadly cute penguin."];
-    Et[_r.ⵠⵠΔⲆⵠ] = ["Hawk Feather", "From a deadly hawk."];
-    Et[_r.ⵠⵠⵠΔⲆ] = ["Cactus", "Food : 20", "Water : 10"];
-    Et[_r.ⵠΔᐃⵠⲆ] = ["Aloe Vera", "Allows you to heal a little", "Heal : 30"];
-    Et[_r.ΔⵠⵠΔⲆ] = ["Aloe Vera Seed", "Grows into Aloe Vera"];
-    Et[_r.ⲆᐃⵠΔⲆ] = ["Watermelon", "Like a melon, but with water", "Food : 15", "Water : 8"];
-    Et[_r.ⲆΔⲆⵠΔ] = ["Watermelon Seed", "Grows into Watermelon", "Birth: 4min", "Growth: 180s", "Need water: 3min 20s", "Durability: 400", "Lifetime: 8 days"];
-    Et[_r.Ⲇᐃⵠⵠⵠ] = ["Reidite Door", "Noboby can destroy it. Except very reckless", "Damage: 5", "On-Hit Damage: 1", "Durability: 4000"];
-    Et[_r.ᐃⵠⵠⲆᐃ] = ["Reidite Wall", "Better wall in StarveLand", "Durability: 4000"];
-    Et[_r.ⵠⲆᐃᐃⲆ] = ["Reidite Spike", "It hurts", "Damage: 60", "On-Hit Damage: 5", "Durability: 3000"];
-    Et[_r.ᐃΔΔⵠᐃ] = ["Reidite Door Spike", "Painful and useful at the same time", "Damage: 35", "On-Hit Damage: 4", "Durability: 2000"];
-    Et[_r.ⲆⵠΔⵠΔ] = ["Reidite Pickaxe", "Can also harvest reidite, better look!", "Damage: 6", "Building Damage: 1"];
-    Et[_r.ᐃⲆΔᐃⲆ] = ["Wood Door Spike", "Can be opened or closed by you or your friends", "Damage: 5", "On-Hit Damage: 1", "Durability: 100"];
-    Et[_r.ΔⵠⵠΔΔ] = ["Stone Door Spike", "A stronger door is more serious", "Damage: 10", "On-Hit Damage: 2", "Durability: 200"];
-    Et[_r.ΔΔⲆᐃⲆ] = ["Gold Door Spike", "Are you rebuilding the \"el dorado?\"", "Damage: 15", "On-Hit Damage: 2", "Durability: 400"];
-    Et[_r.ΔⵠΔⲆΔ] = ["Diamond Door Spike", "For a shining house", "Damage: 25", "On-Hit Damage: 3", "Durability: 800"];
-    Et[_r.ⵠΔⲆⵠᐃ] = ["Amethyst Door Spike", "Is your house a locked safe?", "Damage: 30", "On-Hit Damage: 3", "Durability: 1600"];
-    Et[_r.ⲆᐃΔⵠᐃ] = ["Carrot", "Eat it or sell it in exchange for Tomato Seed or Diamond", "Food : 20"];
-    Et[_r.ⲆᐃΔΔⵠ] = ["Tomato", "Eat it or sell it in exchange for Thornbush Seed or Amethyst", "Food : 16"];
-    Et[_r.ⲆⵠΔᐃᐃ] = ["Carrot Seed", "Grows into Carrot", "Birth: 4min", "Growth: 30s", "Need water: 1min 40s", "Durability: 700", "Lifetime: 8 days"];
-    Et[_r.ᐃⵠΔΔΔ] = ["Tomato Seed", "Grows into Tomato", "Birth: 4min", "Growth: 30s", "Need water: 1min 40s", "Durability: 700", "Lifetime: 8 days"];
-    Et[_r.ⲆⵠⲆᐃΔ] = ["Pitchfork", "Perfect for gathering"];
-    Et[_r.ᐃΔΔᐃΔ] = ["Golden Pitchfork", "Essential for a real farmer."];
-    Et[_r.ΔᐃΔΔⲆⲆⵠ] = ["Pitchfork Part", "Shaped by the gods. You'll never be hungry again."];
+    Et[99] = ["Reidite Axe", "Legendary and lethal", "Damage: 33", "Shield Penetration: 6"];
+    Et[98] = ["Amethyst Axe", "Purple and powerful", "Damage: 30", "Shield Penetration: 5"];
+    Et[97] = ["Diamond Axe", "Sparkle and slice", "Damage: 27", "Shield Penetration: 4"];
+    Et[96] = ["Gold Axe", "Chop 'til it drops!", "Damage: 24", "Shield Penetration: 3"];
+    Et[95] = ["Stone Axe", "Rock your logs", "Damage: 21", "Shield Penetration: 2"];
+    Et[94] = ["Wood Axe", "Eco-friendly deforestation!", "Damage: 14", "Shield Penetration: 1"];
+    Et[153] = ["Stone Extractor", "Can produce stone with wood", "It takes 10 seconds to drill Stone", "Durability: 2000"];
+    Et[154] = ["Gold Extractor", "Can produce gold with wood", "It takes 10 seconds to drill Gold", "Durability: 2000"];
+    Et[155] = ["Diamond Extractor", "Can produce diamond with wood", "It takes 10 seconds to drill Diamond", "Durability: 2000"];
+    Et[156] = ["Amethyst Extractor", "Can produce amethyst with wood", "It takes 10 seconds to drill Amethyst", "Durability: 2000"];
+    Et[157] = ["Reidite Extractor", "Can produce reidite with wood", "It takes 10 seconds to drill Reidite", "Durability: 2000"];
+    Et[76] = ["Reidite Shield", "A must for the pros of the getaway", "You can not attack when you use it", "Damage: 6", "Players Defense: 6"];
+    Et[75] = ["Amethyst Shield", "Because you know how to run away in style", "You can not attack when you use it", "Damage: 5", "Players Defense: 5"];
+    Et[74] = ["Diamond Shield", "Run or attack, you've obviously made your choice.", "You can not attack when you use it", "Damage: 4", "Players Defense: 4"];
+    Et[73] = ["Gold Shield", "When it's golden, it's always better.", "You can not attack when you use it", "Damage: 3", "Players Defense: 3"];
+    Et[72] = ["Stone Shield", "Protects you a bit more", "You can not attack when you use it", "Damage: 2", "Players Defense: 2"];
+    Et[71] = ["Wood Shield", "Protects you a bit", "You can not attack when you use it", "Damage: 1", "Players Defense: 1"];
+    Et[56] = ["Machete", "You gather more from mob boxes", "Useless to attack mobs", "Damage against Players: 5"];
+    Et[221] = ["Tower", "Allows you to shoot over walls with a bow", "Does not allow to pass through roofs"];
+    Et[107] = ["Dragon Arrow", "Must be used with a Dragon Bow", "Damage: 45", "Mobs Damage: 1200", "Building Damage: 45"];
+    Et[70] = ["Dragon Bow", "Also called the One-Shot-Monster", "Requiers arrows to be used"];
+    Et[106] = ["Reidite Arrow", "Must be used with a Reidite or a Dragon Bow", "Damage: 40", "Mobs Damage: 900", "Building Damage: 40"];
+    Et[69] = ["Reidite Bow", "Makes the most terrifying monster cry.", "Requiers any arrows, except dragon arrows, to be used"];
+    Et[105] = ["Amethyst Arrow", "Must be used with Amethyst, Reidite or Dragon Bow", "Damage: 35", "Mobs Damage: 600", "Building Damage: 35"];
+    Et[68] = ["Amethyst Bow", "It's super efficient!", "Requiers any arrows, except dragon and reidite arrows, to be used"];
+    Et[104] = ["Diamond Arrow", "Must be used with Diamond, Amethyst, Reidite or Dragon Bow", "Damage: 30", "Mobs Damage: 300", "Building Damage: 30"];
+    Et[67] = ["Diamond Bow", "Like a Robin Wood who would keep the diamonds", "Requiers wood, stone, gold or diamond arrows to be used"];
+    Et[103] = ["Gold Arrow", "Must be used with a Bow, except a wooden and stone one", "Damage: 25", "Mobs Damage: 200", "Building Damage: 25"];
+    Et[66] = ["Gold Bow", "When it's golden, it's better.", "Requiers wood, stone or gold arrows to be used"];
+    Et[102] = ["Stone Arrow", "Must be used with a Bow, except a wooden one", "Damage: 20", "Mobs Damage: 100", "Building Damage: 20"];
+    Et[65] = ["Stone Bow", "Like Robin Wood", "Requiers wood and stone arrows to be used"];
+    Et[101] = ["Wood Arrow", "Must be used with any bow", "Damage: 15", "Mobs Damage: 20", "Building Damage: 15"];
+    Et[64] = ["Wood Bow", "A little bow that does not do many damages.", "Requiers wood arrows to be used"];
+    Et[152] = ["Emerald Machine", "Allows to automatically generate score points.", "Be careful, you can only build one.", "Once placed your soul is connected to the machine, if the machine is destroyed, you will die.", "The machine can't be build in the sea", "You earn more points in the desert, than in the lava, than in winter, than in the forest."];
+    Et[237] = ["Boar fur", "Hakuna Matata, well, he can no longer say it"];
+    Et[240] = ["Mammoth fur", "Soft and warm. Perfect for a hat."];
+    Et[232] = ["Vulture Feather", "From a deadly vulture"];
+    Et[234] = ["Emerald", "How many golden breads can you get from it?"];
+    Et[238] = ["Sand Worm Juice", "I don't want to know how you got this."];
+    Et[80] = ["Turban", "Useful to survive in the desert."];
+    Et[81] = ["Ninja outfit", "Essential to survive in the desert"];
+    Et[82] = ["Pilot Hat", "Take off and land with flying objects much faster."];
+    Et[236] = ["Pilot Glasses"];
+    Et[225] = ["Tamed Boar", "Fast on lands and slow on water."];
+    Et[239] = ["Tamed Baby Mammoth", "Fast on lands and slow on water."];
+    Et[226] = ["Tamed Crab Boss", "Fast on lands and water, and slow on winter.", "Gives a +10 damage bonus of the Crab Spear", "when holding a Crab Helmet"];
+    Et[227] = ["Tamed Baby Dragon", "You can fly with it.", "Faster than a hawk", "When you are flying,", " you can only hit people who are flying too"];
+    Et[228] = ["Tamed Baby Lava Dragon", "You can fly with it.", "Faster than a baby dragon", "When you are flying,", " you can only hit people who are flying too"];
+    Et[229] = ["Tamed Hawk", "You can fly with it.", "When you are flying,", " you can only hit people who are flying too"];
+    Et[89] = ["Saddle", "Hit a boar with it to tame it."];
+    Et[90] = ["Witch Hat", "You're a wizard Starvy!"];
+    Et[91] = ["Nimbus 2000", "That's not just a broomstick, Starvy, it's a Nimbus 2000!", "Only works with the witch hat."];
+    Et[92] = ["Wand of life", "Soon we must all choose between what is right and what is easy.", "You need the witch hat and firefly to cast spell"];
+    Et[93] = ["Death Wand", "The wand of He-Who-Must-Not-Be-Named... Lapa...", "You need the witch hat and firefly to cast spell"];
+    Et[100] = ["Firefly", "They make a cute little squeak.", "However, you must tear off his wings to make magical projectiles for use with magic wands."];
+    Et[24] = ["Pirate hat", "You are faster with it in a boat", "Warm outside water and in winter"];
+    Et[224] = ["Sled", "You are faster with it in the snow"];
+    Et[223] = ["Boat", "You are faster with it in the water"];
+    Et[230] = ["Plane", "Fly in the forest, ocean and winter", "Can't fly in desert or lava biome", "When you are flying,", " you can only hit people who are flying too"];
+    Et[39] = ["Reidite Hammer", "Useful to destroy buildings", "Damage: 6", "Building Damage: 60"];
+    Et[222] = ["Penguin Feather", "From a deadly cute penguin."];
+    Et[231] = ["Hawk Feather", "From a deadly hawk."];
+    Et[233] = ["Cactus", "Food : 20", "Water : 10"];
+    Et[211] = ["Aloe Vera", "Allows you to heal a little", "Heal : 30"];
+    Et[210] = ["Aloe Vera Seed", "Grows into Aloe Vera"];
+    Et[209] = ["Watermelon", "Like a melon, but with water", "Food : 15", "Water : 8"];
+    Et[208] = ["Watermelon Seed", "Grows into Watermelon", "Birth: 4min", "Growth: 180s", "Need water: 3min 20s", "Durability: 400", "Lifetime: 8 days"];
+    Et[218] = ["Reidite Door", "Noboby can destroy it. Except very reckless", "Damage: 5", "On-Hit Damage: 1", "Durability: 4000"];
+    Et[217] = ["Reidite Wall", "Better wall in StarveLand", "Durability: 4000"];
+    Et[219] = ["Reidite Spike", "It hurts", "Damage: 60", "On-Hit Damage: 5", "Durability: 3000"];
+    Et[220] = ["Reidite Door Spike", "Painful and useful at the same time", "Damage: 35", "On-Hit Damage: 4", "Durability: 2000"];
+    Et[32] = ["Reidite Pickaxe", "Can also harvest reidite, better look!", "Damage: 6", "Building Damage: 1"];
+    Et[212] = ["Wood Door Spike", "Can be opened or closed by you or your friends", "Damage: 5", "On-Hit Damage: 1", "Durability: 100"];
+    Et[213] = ["Stone Door Spike", "A stronger door is more serious", "Damage: 10", "On-Hit Damage: 2", "Durability: 200"];
+    Et[214] = ["Gold Door Spike", "Are you rebuilding the \"el dorado?\"", "Damage: 15", "On-Hit Damage: 2", "Durability: 400"];
+    Et[215] = ["Diamond Door Spike", "For a shining house", "Damage: 25", "On-Hit Damage: 3", "Durability: 800"];
+    Et[216] = ["Amethyst Door Spike", "Is your house a locked safe?", "Damage: 30", "On-Hit Damage: 3", "Durability: 1600"];
+    Et[205] = ["Carrot", "Eat it or sell it in exchange for Tomato Seed or Diamond", "Food : 20"];
+    Et[207] = ["Tomato", "Eat it or sell it in exchange for Thornbush Seed or Amethyst", "Food : 16"];
+    Et[204] = ["Carrot Seed", "Grows into Carrot", "Birth: 4min", "Growth: 30s", "Need water: 1min 40s", "Durability: 700", "Lifetime: 8 days"];
+    Et[206] = ["Tomato Seed", "Grows into Tomato", "Birth: 4min", "Growth: 30s", "Need water: 1min 40s", "Durability: 700", "Lifetime: 8 days"];
+    Et[53] = ["Pitchfork", "Perfect for gathering"];
+    Et[54] = ["Golden Pitchfork", "Essential for a real farmer."];
+    Et[235] = ["Pitchfork Part", "Shaped by the gods. You'll never be hungry again."];
     Et[_r.ᐃᐃΔΔᐃⲆᐃ] = ["Easter Egg", "Eat it or sell it in exchange for wood or stone", "Food : 12"];
     Et[_r.ΔⲆⲆⲆⵠⵠᐃ] = ["Easter Egg", "Eat it or sell it in exchange for gold", "Food : 25"];
     Et[_r.ΔⵠΔᐃᐃΔⲆ] = ["Easter Egg", "Eat it or sell it in exchange for diamond", "Food : 50"];
     Et[_r.ᐃᐃⵠⲆᐃⵠⲆ] = ["Easter Egg", "Eat it or sell it in exchange for amethyst", "Food : 75"];
     Et[_r.ⲆⲆᐃΔΔᐃΔ] = ["Easter Egg", "Eat it or sell it in exchange for reidite", "Food : 100"];
-    Et[_r.ⲆⲆΔⲆΔ] = ["Lava Cube", "You feel an immense power emanating from this cube"];
-    Et[_r.ΔⲆᐃᐃⲆ] = ["Lava Orb", "You feel an immense power emanating from this orb"];
-    Et[_r.ⲆⲆᐃᐃⲆ] = ["Lava Sword", "Don't be too mean with that.", "Damage: 33", "Building Damage: 11"];
-    Et[_r.ΔⲆᐃΔⵠ] = ["Lava Spear", "Doing good or doing evil", "Damage: 24", "Building Damage: 8"];
-    Et[_r.ᐃⲆᐃⵠΔ] = ["Lava Heart", "You can feel a strange force.", "A huge power emanates from it.", "We must not find the secret."];
-    Et[_r.ⵠᐃΔΔⵠ] = ["Lava Helmet", "You will conquer the world", "Players Defense: 9", "Animals Defense: 30"];
-    Et[_r.ᐃΔⲆⵠΔ] = ["Reidite Spear", "Really useful against Lava Monsters", "Damage: 22", "Building Damage: 7"];
-    Et[_r.ⵠⵠΔΔⵠ] = ["Reidite Sword", "Really useful against Lava Monsters", "Damage: 30", "Building Damage: 10"];
-    Et[_r.ⲆⵠⵠΔⲆ] = ["Flame", "It's hot!"];
-    Et[_r.Δⵠⵠⵠᐃ] = ["Diamond Protection", "You can survive longer in lava", "Cools down in lava biome", "Players Defense: 2, Animals Defense: 8"];
-    Et[_r.ᐃΔᐃⲆⲆ] = ["Amethyst Protection", "You can survive longer in lava", "Cools down in lava biome", "Players Defense: 5, Animals Defense: 13"];
-    Et[_r.ⲆΔᐃΔᐃ] = ["Reidite Protection", "You can survive longer in lava", "Cools down in lava biome", "Players Defense: 6, Animals Defense: 19"];
-    Et[_r.ᐃⵠᐃΔ] = ["Reidite", "The ultimate ore"];
-    Et[_r.ⵠᐃΔⵠΔ] = ["Dragon Cube", "You feel a great power emanating from this cube"];
+    Et[186] = ["Lava Cube", "You feel an immense power emanating from this cube"];
+    Et[187] = ["Lava Orb", "You feel an immense power emanating from this orb"];
+    Et[63] = ["Lava Sword", "Don't be too mean with that.", "Damage: 33", "Building Damage: 11"];
+    Et[17] = ["Lava Spear", "Doing good or doing evil", "Damage: 24", "Building Damage: 8"];
+    Et[150] = ["Lava Heart", "You can feel a strange force.", "A huge power emanates from it.", "We must not find the secret."];
+    Et[60] = ["Lava Helmet", "You will conquer the world", "Players Defense: 9", "Animals Defense: 30"];
+    Et[34] = ["Reidite Spear", "Really useful against Lava Monsters", "Damage: 22", "Building Damage: 7"];
+    Et[19] = ["Reidite Sword", "Really useful against Lava Monsters", "Damage: 30", "Building Damage: 10"];
+    Et[203] = ["Flame", "It's hot!"];
+    Et[20] = ["Diamond Protection", "You can survive longer in lava", "Cools down in lava biome", "Players Defense: 2, Animals Defense: 8"];
+    Et[21] = ["Amethyst Protection", "You can survive longer in lava", "Cools down in lava biome", "Players Defense: 5, Animals Defense: 13"];
+    Et[22] = ["Reidite Protection", "You can survive longer in lava", "Cools down in lava biome", "Players Defense: 6, Animals Defense: 19"];
+    Et[202] = ["Reidite", "The ultimate ore"];
+    Et[184] = ["Dragon Cube", "You feel a great power emanating from this cube"];
     Gt[22] = ["This crab, though frightening in nature, pinched your fingertips so hard that you had a heart attack."];
     Gt[23] = ["The heat makes you suffocate, you can see your skin fall apart. You're charred. The grilled marshmallow has never been so tasty."];
     Gt[24] = ["Your vital organs melt inside, fortunately the toxic gases that escape from the lava make you faint and you do not feel the excruciating pain of death."];
@@ -7152,25 +7152,25 @@
     Gt[38] = ["You died crushed by an angry baby mammoth."];
     Gt[39] = ["You were skewered by a mammoth. In the violence of the animal's charge, your heart was left hanging on the tip of the tusk. You could still see your heart beating in the open air before losing your life crushed by the mammoth's feet for good. Notice that under the pressure of the crushing your eyes have been exorbed and that the penguins use the frozen eyes of the starvers as a balloon to distract themselves."];
     Gt[40] = ["The blizzard storm is so intense that your frostbite causes necrosis of all your limbs. Next time protect yourself with a roof or with warmer clothes."];
-    Et[_r.ⲆⵠᐃΔᐃ] = ["Crab sticks", "Oh, yeah? Is there crab in the crab sticks?", "Food: 20"];
-    Et[ΔΔᐃ.ⵠᐃⵠⲆᐃⲆⵠ] = "A sandstorm is approaching in a few seconds.";
-    Et[ΔΔᐃ.ΔΔᐃΔᐃΔⵠ] = "The sandstorm will soon stop.";
-    Et[ΔΔᐃ.ᐃⵠΔᐃⲆⵠΔ] = "A blizzard is approaching in a few seconds.";
-    Et[ΔΔᐃ.ΔᐃⲆΔⵠᐃⵠ] = "The blizzard will soon stop.";
-    Et[ΔΔᐃ.ⲆΔⵠⵠⲆⲆΔ] = " BACK TO THE GAME";
-    Et[ΔΔᐃ.ⵠⲆⵠⵠⵠᐃⲆ] = " Share on Twitter";
-    Et[ΔΔᐃ.ⵠᐃᐃⲆΔᐃᐃ] = " Share on Facebook";
-    Et[ΔΔᐃ.ΔΔⲆⲆⵠⲆΔ] = "You can buy items on the shop in the next game with your points";
-    Et[ΔΔᐃ.POINTS] = "points";
-    Et[ΔΔᐃ.ⵠΔΔᐃᐃⲆⲆ] = "Score";
-    Et[ΔΔᐃ.ⲆⵠⲆΔⲆⲆᐃ] = "Kill";
-    Et[ΔΔᐃ.ⵠⲆΔⵠΔⵠⲆ] = "Days survived";
-    Et[ΔΔᐃ.ⵠⲆΔᐃⵠΔⲆ] = "Building method: Free. Press G to change";
-    Et[ΔΔᐃ.ⵠⲆᐃᐃᐃΔⵠ] = "Building method: Grid. Press G to change";
-    Et[_r.ⵠⲆⵠᐃᐃ] = ["Crab Claw", "Crab claws can also be eaten", "Food: 10"];
-    Et[_r.Ⲇᐃᐃᐃᐃ] = ["Crab Spear", "Allow you to calm crabs, and heal them", "Gives a +10 damages bonus when holding it with", "a Crab Helmet on a Crab King", "Damage: 14", "Building Damage: 4"];
-    Et[_r.ⲆⲆΔΔⵠ] = ["Crab Helmet", "You are the king of crabs!", "Crabs follow you", "They can't hit you and you can't hit them", "Players Defense: 5", "Animals Defense: 19"];
-    Et[_r.ΔⲆⵠΔΔ] = ["Bed", "Relax in this confortable bed", "You are less cold, less thirsty, and less hungry", "You will be cured faster", "Durability: 400"];
+    Et[196] = ["Crab sticks", "Oh, yeah? Is there crab in the crab sticks?", "Food: 20"];
+    Et[341] = "A sandstorm is approaching in a few seconds.";
+    Et[340] = "The sandstorm will soon stop.";
+    Et[343] = "A blizzard is approaching in a few seconds.";
+    Et[342] = "The blizzard will soon stop.";
+    Et[328] = " BACK TO THE GAME";
+    Et[329] = " Share on Twitter";
+    Et[330] = " Share on Facebook";
+    Et[331] = "You can buy items on the shop in the next game with your points";
+    Et[332] = "points";
+    Et[333] = "Score";
+    Et[334] = "Kill";
+    Et[335] = "Days survived";
+    Et[336] = "Building method: Free. Press G to change";
+    Et[337] = "Building method: Grid. Press G to change";
+    Et[197] = ["Crab Claw", "Crab claws can also be eaten", "Food: 10"];
+    Et[18] = ["Crab Spear", "Allow you to calm crabs, and heal them", "Gives a +10 damages bonus when holding it with", "a Crab Helmet on a Crab King", "Damage: 14", "Building Damage: 4"];
+    Et[61] = ["Crab Helmet", "You are the king of crabs!", "Crabs follow you", "They can't hit you and you can't hit them", "Players Defense: 5", "Animals Defense: 19"];
+    Et[198] = ["Bed", "Relax in this confortable bed", "You are less cold, less thirsty, and less hungry", "You will be cured faster", "Durability: 400"];
     document.getElementById("typequest").innerHTML = "Chrono Quests";
     document.getElementById("timeremainingquest").innerHTML = "Time Remaining";
     document.getElementById("constraintquest").innerHTML = " Constraints";
@@ -7187,173 +7187,173 @@
       document.getElementById("claim_reward_" + a).innerHTML = "CLAIM REWARD!";
     }
     document.getElementById("quit_chronoquest").innerHTML = " QUIT";
-    Et[_r.ΔᐃΔΔΔ] = ["Hand"];
-    Et[_r.ᐃᐃΔΔⵠ] = ["Dirt", "Dirty!"];
-    Et[_r.ⲆⲆΔⲆᐃ] = ["Sand", "I got it in my eyes!"];
-    Et[_r.ⵠᐃⵠⵠ] = ["Wood", "You can't get enough of it!"];
-    Et[_r.ᐃΔⵠⲆ] = ["Stone", "Also called a rock"];
-    Et[_r.ᐃⲆⵠᐃ] = ["Gold", "Be generous, give it to others"];
-    Et[_r.ᐃⲆΔⵠ] = ["Diamond", "What will you make with it?"];
-    Et[_r.Ⲇⵠⵠⵠ] = ["Amethyst", "It's Mauve like Lapa"];
-    Et[_r.ᐃⵠᐃⵠᐃ] = ["Flour", "Used in cooking"];
-    Et[_r.ⲆᐃᐃⵠΔ] = ["Cookie", "A sumptuous grandmother's cookie", "Food: 50"];
-    Et[_r.ⵠᐃⲆⲆᐃ] = ["A cake", "Dream cake for the gourmets", "Food: 100"];
-    Et[_r.ⵠⵠᐃᐃⵠ] = ["Raw meat", "You can cook it with a fire", "Causes food poisoning: 10", "Food: 15"];
-    Et[_r.ΔΔⵠⵠⲆ] = ["Cooked meat", "A rare steak, please", "Food: 35"];
-    Et[_r.ΔΔᐃⵠⲆ] = ["Raw fish", "I think it's still alive", "Causes food poisoning: 10", "Food: 18"];
-    Et[_r.ⵠⲆΔⲆᐃ] = ["Cooked fish", "With lemon it's perfect", "Food: 35"];
-    Et[_r.ⲆⵠΔⲆΔ] = ["Bread", "An excellent French bread", "It's the currency used in the market", "Food: 15"];
-    Et[_r.ⲆⲆΔⵠⵠ] = ["Sandwich", "Tastes like Krabby Patty", "Food: 100"];
-    Et[_r.ⲆⵠⲆⲆΔ] = ["Candies", "Only for children!", "Food: 20"];
-    Et[_r.ᐃΔᐃⵠⵠ] = ["Sugar cane", "Taste it, it's delicious", "Food: 100"];
-    Et[_r.ⵠᐃΔⲆⲆ] = ["Garland", "Perfect decoration for roofs"];
-    Et[_r.ⵠᐃΔⲆᐃ] = ["Berries Seed", "Grows into Berry", "Birth: 2min", "Growth: 55s", "Need water: 3min 20s", "Durability: 700", "Lifetime: 8 days"];
-    Et[_r.ⵠᐃⲆⲆⲆ] = ["Berry", "Berry tasty!", "Food: 10"];
-    Et[_r.ⲆΔᐃΔΔ] = ["Wheat Seed", "Grows into Wheat", "Birth: 2min", "Growth: 16s", "Need water: 2min", "Durability: 700", "Lifetime: 8 days"];
-    Et[_r.ⲆΔΔᐃⵠ] = ["Wild Wheat", "Turns into Flour when placed in Windmill"];
-    Et[_r.ᐃⵠᐃᐃⵠ] = ["Pumpkin Seed", "Grows into pumpkin", "Birth: 2min 40s", "Growth: 2min", "Need water: 2min", "Durability: 700", "Lifetime: 8 days"];
-    Et[_r.ⵠᐃⵠΔⵠ] = ["Pumpkin", "It reminds me of Halloween", "Food: 30"];
-    Et[_r.ⲆⲆΔⲆⵠ] = ["Garlic Seed", "Very dangerous for vampires", "Damage: 20", "Birth: 4min", "Growth: 1min 10s", "Need water: 1min 40s", "Durability: 700", "Lifetime: 8 days"];
-    Et[_r.ⲆᐃΔᐃΔ] = ["Garlic", "Reduces cold", "Food: 14", "Effect: 1"];
-    Et[_r.ᐃⲆⲆᐃΔ] = ["Thorn bush Seed", "Can damage your enemies", "Damage: 20", "Birth: 4min", "Growth: 15s", "Need water: 3min", "Durability: 1000", "Lifetime: 8 days"];
-    Et[_r.ᐃⲆᐃᐃΔ] = ["Thorn bush", "It stings!"];
-    Et[_r.ΔΔΔⵠⵠ] = ["Plot", "Seriously, use it", "With this GMO fertilizer your plants", "will growth really faster and need less water", "Durability: 2000"];
-    Et[_r.ᐃΔΔΔⲆ] = ["Ice", "Useful for making cakes and water"];
-    Et[_r.ᐃⵠᐃΔⵠ] = ["Wrench", "To repair doors, walls and spike", "Damage: 2"];
-    Et[_r.ⲆⵠⵠΔᐃ] = ["Wolf Fur", "Puppy? But where is Puppy?!"];
-    Et[_r.ⵠⵠΔⵠΔ] = ["Rabbit Fur", "That rabbit was so cute..."];
-    Et[_r.ᐃΔΔⲆΔ] = ["Pure Fur", "You're a bread factory"];
-    Et[_r.ⵠⲆΔᐃᐃ] = ["Dark Fur", "You get ready to do something wrong"];
-    Et[_r.ⲆΔΔᐃᐃ] = ["Winter Fur", "These animals just wanted a hug..."];
-    Et[_r.ⵠᐃΔⲆⵠ] = ["Scales", "It smells like fish!"];
-    Et[_r.ΔᐃΔⲆᐃ] = ["Kraken Skin", "Weren't you too scared?"];
-    Et[_r.ΔᐃᐃⲆⲆ] = ["Firecamp", "Warm you up!", "Durability: 150", "Lifetime: 2min"];
-    Et[_r.ᐃΔΔⵠΔ] = ["Big Firecamp", "Warm you up more time!", "Durability: 400", "Lifetime: 6min"];
-    Et[_r.ⵠⲆΔⵠᐃ] = ["Workbench", "Very useful to craft all kinds of objects"];
-    Et[_r.ᐃΔⵠᐃⲆ] = ["Cord", "Used in crafting Hats and Bag"];
-    Et[_r.ⲆⲆⲆᐃⵠ] = ["Diamond Cord", "Used in crafting Special Hats"];
-    Et[_r.ᐃⲆⲆⲆⲆ] = ["Chest", "Allows you to store items", "Durability: 500"];
-    Et[_r.ΔⵠᐃΔᐃ] = ["Wood Sword", "Does that work?", "Damage: 12", "Building Damage: 4"];
-    Et[_r.ᐃᐃⲆΔⲆ] = ["Stone Sword", "Be nice to others", "Damage: 19", "Building Damage: 6"];
-    Et[_r.ⵠΔΔΔΔ] = ["Gold Sword", "King of the forest", "Damage: 22", "Building Damage: 7"];
-    Et[_r.ᐃΔⲆᐃΔ] = ["Diamond Sword", "You can feel the power", "Damage: 24", "Building Damage: 8"];
-    Et[_r.ⵠΔᐃᐃⵠ] = ["Pirate Sword", "Ayyyyy!", "Better range than a normal sword", "Damage: 24", "Building Damage: 8"];
-    Et[_r.ΔⲆᐃⵠΔ] = ["Amethyst Sword", "Mauve is the most beautiful color of the world", "Damage: 27", "Building Damage: 9"];
-    Et[_r.ⵠᐃᐃΔⵠ] = ["Dragon Sword", "No mercy!", "Damage: 30", "Building Damage: 10"];
-    Et[_r.ⲆⲆΔᐃᐃ] = ["Dragon Spear", "Kill them all!", "Damage: 22", "Building Damage: 7"];
-    Et[_r.ⲆΔⲆⲆⵠ] = ["Wood Pickaxe", "Can harvest only stone and wood", "Damage: 1"];
-    Et[_r.ⲆⵠⵠⲆⲆ] = ["Stone Pickaxe", "Can harvest wood, stone and gold", "Damage: 2"];
-    Et[_r.ⵠᐃⲆΔΔ] = ["Gold Pickaxe", "Can also harvest diamond", "Damage: 3", "Building Damage: 1"];
-    Et[_r.ᐃⲆⵠΔⲆ] = ["Diamond Pickaxe", "Can also harvest amethyst", "Damage: 4", "Building Damage: 1"];
-    Et[_r.ΔⲆⲆⵠⲆ] = ["Amethyst Pickaxe", "Can also harvest reidite, looks fancy!", "Damage: 5", "Building Damage: 1"];
-    Et[_r.ⲆᐃΔⲆΔ] = ["Stone Hammer", "Useful to destroy buildings", "Doesn't work well on diamond or amethyst", "Damage: 2", "Building Damage: 20"];
-    Et[_r.ⲆⲆⵠⲆⲆ] = ["Gold Hammer", "Useful to destroy buildings", "Doesn't work well on amethyst", "Damage: 3", "Building Damage: 30"];
-    Et[_r.ⵠΔΔΔⵠ] = ["Diamond Hammer", "Useful to destroy buildings", "Damage: 4", "Building Damage: 40"];
-    Et[_r.ᐃⵠⵠⵠᐃ] = ["Amethyst Hammer", "Useful to destroy buildings", "Damage: 5", "Building Damage: 50"];
-    Et[_r.ⵠⵠᐃᐃⲆ] = ["Super Hammer", "Have you planned to destroy the world?", "Damage: 12", "Building Damage: 70"];
-    Et[_r.ᐃᐃΔⲆⲆ] = ["Wood Spear", "Like a wooden stick, but it stings.", "Damage: 10", "Building Damage: 3"];
-    Et[_r.ⵠΔᐃⵠᐃ] = ["Stone Spear", "The beginning of evolution!", "Damage: 14", "Building Damage: 4"];
-    Et[_r.ⵠᐃᐃⵠΔ] = ["Gold Spear", "Careful, it stings!", "Damage: 15", "Buildings Damage: 5"];
-    Et[_r.ᐃᐃᐃᐃⲆ] = ["Diamond Spear", "You're ready to kill a dragon", "Damage: 17", "Buildings Damage: 5"];
-    Et[_r.ᐃΔⵠⲆᐃ] = ["Amethyst Spear", "Dragons no longer frighten you", "Damage: 18", "Buildings Damage: 6"];
-    Et[_r.ᐃΔΔΔΔ] = ["Stone Shovel", "Dig the ground to gather dirt, ice, and sand", "You can also gather minerals", "Damage: 2"];
-    Et[_r.ⲆΔΔⵠⵠ] = ["Gold Shovel", "Dig the ground to gather dirt, ice, and sand", "You can also gather minerals", "Damage: 3", "Buildings Damage: 1"];
-    Et[_r.ⵠᐃⵠᐃΔ] = ["Diamond Shovel", "Dig the ground to gather dirt, ice, and sand", "You can also gather minerals", "Damage: 4", "Buildings Damage: 1"];
-    Et[_r.ⵠᐃⲆⲆⵠ] = ["Amethyst Shovel", "Dig the ground to gather dirt, ice, and sand", "You can also gather minerals", "Damage: 5", "Buildings Damage: 1"];
-    Et[_r.ᐃᐃⲆⵠⵠ] = ["Wood Helmet", "Better than nothing", "Players Defense: 1", "Animals Defense: 4"];
-    Et[_r.Δᐃᐃⵠᐃ] = ["Stone Helmet", "You're ready for battle!", "Players Defense: 2", "Animals Defense: 8"];
-    Et[_r.ΔᐃΔⲆⲆ] = ["Gold Helmet", "AKA the helmet of the savages", "Players Defense: 4", "Animals Defense: 13"];
-    Et[_r.ᐃⲆⲆⵠᐃ] = ["Diamond Helmet", "Don't brag too much", "Players Defense: 5", "Animals Defense: 19"];
-    Et[_r.ⵠⲆⲆⵠⵠ] = ["Amethyst Helmet", "You're no longer afraid of anything", "Players Defense: 6", "Animals Defense: 23"];
-    Et[_r.ⲆᐃⵠΔᐃ] = ["Reidite Helmet", "You no longer feel pain", "Players Defense: 7", "Animals Defense: 25"];
-    Et[_r.ᐃⵠΔᐃΔ] = ["Dragon Helmet", "You will conquer the world", "Players Defense: 8", "Animals Defense: 27"];
-    Et[_r.ⲆᐃᐃΔᐃ] = ["Explorer hat", "Animals won't pay attention to you", "but don't make noises!", "Warm outside water and in winter", "You also calm down aggressive monsters twice as fast"];
-    Et[_r.ᐃᐃⵠⲆⲆ] = ["Christmas Hat", "Oh, oh, oh, Merry Christmas", "Warm outside water and in winter"];
-    Et[_r.ΔⲆΔⲆⲆ] = ["Elf Hat", "Don't let yourself be exploited, you little snow elf!", "Warm outside water and in winter"];
-    Et[_r.ⲆΔⵠⵠᐃ] = ["Hood", "You're a rogue", "You can steal someone only if", "1) It's night", "2) You're not wearing anything", "3) If you haven't been touched for eight seconds", "4) You are not close a fire", "5) Your target doesn't wear a peasant outfit", "Warm outside water and in winter"];
-    Et[_r.ᐃⲆᐃⲆᐃ] = ["Earmuffs", "Some kind of little chapka.", "Warm outside water and in winter"];
-    Et[_r.ᐃⵠⵠⵠΔ] = ["Chapka", "Also called a coat.", "Warmer outside water and in winter"];
-    Et[_r.ᐃⲆⲆΔΔ] = ["Winter Scarf and Cap", "Very comfortable", "Very Warm"];
-    Et[_r.ⵠⲆⵠΔᐃ] = ["Mammoth fur hat", "The best blizzard protection", "Very Warm"];
-    Et[_r.ΔᐃⲆⵠⵠ] = ["Peasant", "Your plants grow faster", "Warm outside water and in winter"];
-    Et[_r.ΔΔᐃⲆΔ] = ["Winter Hood", "You can steal someone only if", "- It's night", "- You're not wearing anything", "- If you haven't been touched for four seconds", "- You are not close a fire", "- Your target doesn't wear a winter peasant outfit", "Warm outside water and in winter"];
-    Et[_r.ΔᐃⵠⲆΔ] = ["Winter Peasant", "Your plants grow faster", "Warm outside water and in winter"];
-    Et[_r.ᐃⲆⵠⲆⲆ] = ["Diving Mask", "You are fast in the water", "Warm in water", "Players Defense: 2, Animals Defense: 8"];
-    Et[_r.ᐃⵠⵠⲆΔ] = ["Super Diving Mask", "You are very fast in the water", "Warm in water", "Players Defense: 4, Animals Defense: 16"];
-    Et[_r.ᐃⲆΔᐃᐃ] = ["Dragon Orb", "You feel a great power emanating from this orb"];
-    Et[_r.ⵠⵠⲆⵠⲆ] = ["Dragon Heart", "Turns you into a Ghost on Death!", "You are a ghost for 60 seconds", "Find a resurrection stone"];
-    Et[_r.ΔᐃΔᐃⵠ] = ["Green Gemstone", "You didn't cheat, promise?"];
-    Et[_r.ⵠⲆⲆΔᐃ] = ["Orange Gemstone", "Only a real pirate can find it!"];
-    Et[_r.ΔΔⲆⲆᐃ] = ["Blue Gemstone", "For too kind people"];
-    Et[_r.ᐃⲆΔⵠⵠ] = ["Green Crown", "You heal yourself very quickly", "Heal over time: 40", "Players Defense: 4, Animals Defense: 16"];
-    Et[_r.ⵠᐃⵠⵠΔ] = ["Orange Crown", "You suddenly feel very lucky", "Players Defense: 4, Animals Defense: 16"];
-    Et[_r.ⲆⲆᐃᐃΔ] = ["Blue Crown", "Once you're dead, you'll become a ghost", "Though you will lose your weapon", "Players Defense: 4, Animals Defense: 16"];
-    Et[_r.ΔΔᐃΔΔ] = ["Bucket", "Useful to fill a well", "One bucket is equivalent to twelve bottles"];
-    Et[_r.ⲆΔⵠΔᐃ] = ["Empty Bucket", "You need to fill this bucket near a water source"];
-    Et[_r.ΔᐃᐃⵠΔ] = ["Bottle", "Allows you to drink water anywhere", "Water: 50"];
-    Et[_r.ᐃⲆⵠΔᐃ] = ["Empty Bottle", "You can fill this bottle near a water source"];
-    Et[_r.ⲆΔᐃΔⲆ] = ["Empty Watering Can", "You must fill it with a water source to use it"];
-    Et[_r.ᐃᐃΔⵠΔ] = ["Watering Can", "Allows watering of plants", "Damage: 1"];
-    Et[_r.ⵠⲆᐃᐃ] = ["Bag", "More space for your items!"];
-    Et[_r.ⵠΔΔΔⲆ] = ["Paper", "Used in book-crafting"];
-    Et[_r.ᐃⵠΔΔⲆ] = ["Book", "Allows to considerably reduce the time of crafting", "Must be wearing to work", "Damage: 1"];
-    Et[_r.ᐃΔᐃⲆᐃ] = ["Bandage", "Recover more quickly your life", "Heal over time: 30", "Effect: 5"];
-    Et[_r.ⵠⵠⲆⵠᐃ] = ["Lock", "Allow you to lock your chest"];
-    Et[_r.ᐃⵠᐃⲆⵠ] = ["Lock-pick", "Allows you to unlock one chest"];
-    Et[_r.ⲆⵠᐃᐃΔ] = ["Totem", "Allow you to create a team", "Share doors and chests", "Harmful building won't hurt your friend"];
-    Et[_r.ⲆᐃⲆᐃⵠ] = ["Bridge", "Very useful on water", "It allows you to drink without drowning", "Walk faster in water"];
-    Et[_r.ⵠΔᐃᐃᐃ] = ["Sign", "Leave a message to others", "Durability: 200"];
-    Et[_r.ⲆᐃⵠΔΔ] = ["Roof", "Hides you a little and warms you!", "Also protects you against sand storm"];
-    Et[_r.ⲆⵠⲆⵠⵠ] = ["Well", "Allows bottle filling", "Durability: 1000"];
-    Et[_r.ⲆⲆⲆⲆⵠ] = ["Wood Wall", "It's just a wall", "Durability: 1000"];
-    Et[_r.ΔᐃⵠⲆⲆ] = ["Stone Wall", "It's a little more serious.", "Durability: 1500"];
-    Et[_r.ᐃᐃᐃᐃᐃ] = ["Gold Wall", "Gold on your walls? It's kind of flashy.", "Durability: 2000"];
-    Et[_r.ⵠᐃⲆᐃⵠ] = ["Diamond Wall", "So shiny, watch your eyes", "Durability: 2500"];
-    Et[_r.ᐃΔⵠⵠΔ] = ["Amethyst Wall", "You must be very scared to go out!", "Durability: 3500"];
-    Et[_r.ⵠⵠΔⵠⲆ] = ["Wood Spike", "Can damage your enemies", "Damage: 10, On-Hit Damage: 2", "Durability: 150"];
-    Et[_r.ⲆᐃⲆΔΔ] = ["Stone Spike", "I wouldn't want to be your enemy.", "Damage: 20", "On-Hit Damage: 3", "Durability: 300"];
-    Et[_r.Ⲇᐃⵠᐃⵠ] = ["Gold Spike", "You're so cruel.", "Damage: 30", "On-Hit Damage: 3", "Durability: 600"];
-    Et[_r.ⲆⵠᐃΔΔ] = ["Diamond Spike", "You don't like to have company.", "Damage: 40", "On-Hit Damage: 4", "Durability: 1200"];
-    Et[_r.ᐃⲆⵠᐃᐃ] = ["Amethyst Spike", "What the hell did your neighbors do to you?", "Damage: 50", "On-Hit Damage: 4", "Durability: 2400"];
-    Et[_r.ΔⵠⵠⲆᐃ] = ["Wood Door", "Can be opened or closed by you or your friends", "Durability: 1000"];
-    Et[_r.ⵠΔᐃⲆΔ] = ["Stone Door", "A stronger door is more serious", "Durability: 1500"];
-    Et[_r.ᐃΔⵠⵠⵠ] = ["Gold Door", "Are you rebuilding the \"el dorado?\"", "Durability: 2000"];
-    Et[_r.ⵠΔᐃΔΔ] = ["Diamond Door", "For a shining house", "Durability: 2500"];
-    Et[_r.Δⵠᐃⵠᐃ] = ["Amethyst Door", "Is your house a locked safe?", "Durability: 3500"];
-    Et[_r.ⲆᐃΔᐃⵠ] = ["Furnace", "Warms you up", "It consumes wood all 5 seconds", "Durability: 1000"];
-    Et[_r.ⵠΔⲆⲆΔ] = ["Windmill", "Can produce flour from wheat", "It takes 5 seconds to make Flour", "Returns points when working", "Durability: 2000"];
-    Et[_r.Δᐃᐃᐃᐃ] = ["Bread Oven", "Allows bread to be made from flour", "It takes 10 seconds to make bread", "Returns points when working", "Durability: 2000"];
-    Et[_r.ⲆⲆⵠⵠᐃ] = ["Resurrection stone", "It's magic", "Resurrect you if you're a ghost", "You will lose your weapon", "Durability: 200"];
-    Et[ΔΔᐃ.ⵠⵠΔⵠΔⲆᐃ] = "You cannot join this server";
-    Et[ΔΔᐃ.ⵠⵠᐃⲆⲆᐃⲆ] = "Kicked: ";
-    Et[ΔΔᐃ.ⵠᐃΔⲆⲆⲆⲆ] = "Your key is already used by someone else";
-    Et[ΔΔᐃ.ⲆᐃΔⲆⲆᐃⲆ] = "Your key is wrong";
-    Et[ΔΔᐃ.ⵠᐃᐃⲆᐃᐃᐃ] = "You have an old version, you need to clear your cache";
-    Et[ΔΔᐃ.ᐃⵠᐃⵠⲆⵠⲆ] = "Your client version is too recent for this server. The server is being updated";
-    Et[ΔΔᐃ.ᐃⲆΔΔΔⵠⵠ] = "Wrong password! To enter a password: https://starve.io/?password=...";
-    Et[ΔΔᐃ.ΔⲆᐃΔΔΔⵠ] = "There are no more new resources";
-    Et[ΔΔᐃ.ⲆΔⲆᐃᐃⵠᐃ] = "You survived 1 day";
-    Et[ΔΔᐃ.ⵠΔᐃΔᐃⵠΔ] = "You survived ";
-    Et[ΔΔᐃ.ᐃⵠⲆⲆᐃΔⵠ] = " days";
-    Et[ΔΔᐃ.ⲆᐃΔⲆᐃᐃᐃ] = "You are dead ;-;";
-    Et[ΔΔᐃ.ⲆΔΔⵠᐃⲆΔ] = "Server cannot find spawn location! Spam the play button!";
-    Et[ΔΔᐃ.ⵠⵠⲆᐃᐃΔΔ] = "Server is full! Spam the play button!";
-    Et[ΔΔᐃ.EMPTY] = "Resource is empty";
-    Et[ΔΔᐃ.ⵠⲆᐃⲆⵠᐃⵠ] = "Inventory is full (right-click to empty items)";
-    Et[ΔΔᐃ.ⲆᐃᐃⲆᐃᐃⲆ] = " is dead";
-    Et[ΔΔᐃ.ⲆᐃⲆⵠⲆᐃⲆ] = "This is not the right tool";
-    Et[ΔΔᐃ.ΔⵠⵠⲆᐃᐃⵠ] = "You joined a team";
-    Et[ΔΔᐃ.ᐃⵠᐃᐃᐃⲆΔ] = "You are dead";
-    Et[ΔΔᐃ.ⲆᐃⵠΔᐃᐃⲆ] = " joined the team";
-    Et[ΔΔᐃ.ⲆΔΔΔⵠⲆᐃ] = "Your team was destroyed";
-    Et[ΔΔᐃ.ⵠⲆⲆΔᐃᐃΔ] = "You left the team";
-    Et[ΔΔᐃ.ᐃⵠⲆᐃᐃᐃᐃ] = " left the team";
-    Et[ΔΔᐃ.ΔᐃⵠΔⵠ] = "Someone stole your token :>";
-    Et[ΔΔᐃ.ᐃⵠⵠⲆᐃᐃΔ] = "Choose a server";
-    Et[ΔΔᐃ.ᐃᐃⲆⲆⲆ] = "players";
-    Et[ΔΔᐃ.ⵠᐃΔⲆᐃⲆᐃ] = "total players";
-    Et[ΔΔᐃ.ᐃᐃⵠⵠⵠᐃΔ] = "players on this mode";
-    Et[ΔΔᐃ.ⲆⲆⵠᐃⵠⵠⵠ] = "Coming soon...";
+    Et[7] = ["Hand"];
+    Et[140] = ["Dirt", "Dirty!"];
+    Et[126] = ["Sand", "I got it in my eyes!"];
+    Et[109] = ["Wood", "You can't get enough of it!"];
+    Et[108] = ["Stone", "Also called a rock"];
+    Et[111] = ["Gold", "Be generous, give it to others"];
+    Et[112] = ["Diamond", "What will you make with it?"];
+    Et[121] = ["Amethyst", "It's Mauve like Lapa"];
+    Et[131] = ["Flour", "Used in cooking"];
+    Et[133] = ["Cookie", "A sumptuous grandmother's cookie", "Food: 50"];
+    Et[136] = ["A cake", "Dream cake for the gourmets", "Food: 100"];
+    Et[116] = ["Raw meat", "You can cook it with a fire", "Causes food poisoning: 10", "Food: 15"];
+    Et[117] = ["Cooked meat", "A rare steak, please", "Food: 35"];
+    Et[137] = ["Raw fish", "I think it's still alive", "Causes food poisoning: 10", "Food: 18"];
+    Et[138] = ["Cooked fish", "With lemon it's perfect", "Food: 35"];
+    Et[143] = ["Bread", "An excellent French bread", "It's the currency used in the market", "Food: 15"];
+    Et[145] = ["Sandwich", "Tastes like Krabby Patty", "Food: 100"];
+    Et[200] = ["Candies", "Only for children!", "Food: 20"];
+    Et[199] = ["Sugar cane", "Taste it, it's delicious", "Food: 100"];
+    Et[201] = ["Garland", "Perfect decoration for roofs"];
+    Et[115] = ["Berries Seed", "Grows into Berry", "Birth: 2min", "Growth: 55s", "Need water: 3min 20s", "Durability: 700", "Lifetime: 8 days"];
+    Et[110] = ["Berry", "Berry tasty!", "Food: 10"];
+    Et[132] = ["Wheat Seed", "Grows into Wheat", "Birth: 2min", "Growth: 16s", "Need water: 2min", "Durability: 700", "Lifetime: 8 days"];
+    Et[134] = ["Wild Wheat", "Turns into Flour when placed in Windmill"];
+    Et[188] = ["Pumpkin Seed", "Grows into pumpkin", "Birth: 2min 40s", "Growth: 2min", "Need water: 2min", "Durability: 700", "Lifetime: 8 days"];
+    Et[189] = ["Pumpkin", "It reminds me of Halloween", "Food: 30"];
+    Et[191] = ["Garlic Seed", "Very dangerous for vampires", "Damage: 20", "Birth: 4min", "Growth: 1min 10s", "Need water: 1min 40s", "Durability: 700", "Lifetime: 8 days"];
+    Et[192] = ["Garlic", "Reduces cold", "Food: 14", "Effect: 1"];
+    Et[193] = ["Thorn bush Seed", "Can damage your enemies", "Damage: 20", "Birth: 4min", "Growth: 15s", "Need water: 3min", "Durability: 1000", "Lifetime: 8 days"];
+    Et[194] = ["Thorn bush", "It stings!"];
+    Et[141] = ["Plot", "Seriously, use it", "With this GMO fertilizer your plants", "will growth really faster and need less water", "Durability: 2000"];
+    Et[142] = ["Ice", "Useful for making cakes and water"];
+    Et[55] = ["Wrench", "To repair doors, walls and spike", "Damage: 2"];
+    Et[174] = ["Wolf Fur", "Puppy? But where is Puppy?!"];
+    Et[2] = ["Rabbit Fur", "That rabbit was so cute..."];
+    Et[178] = ["Pure Fur", "You're a bread factory"];
+    Et[179] = ["Dark Fur", "You get ready to do something wrong"];
+    Et[146] = ["Winter Fur", "These animals just wanted a hug..."];
+    Et[139] = ["Scales", "It smells like fish!"];
+    Et[129] = ["Kraken Skin", "Weren't you too scared?"];
+    Et[113] = ["Firecamp", "Warm you up!", "Durability: 150", "Lifetime: 2min"];
+    Et[118] = ["Big Firecamp", "Warm you up more time!", "Durability: 400", "Lifetime: 6min"];
+    Et[114] = ["Workbench", "Very useful to craft all kinds of objects"];
+    Et[161] = ["Cord", "Used in crafting Hats and Bag"];
+    Et[147] = ["Diamond Cord", "Used in crafting Special Hats"];
+    Et[167] = ["Chest", "Allows you to store items", "Durability: 500"];
+    Et[57] = ["Wood Sword", "Does that work?", "Damage: 12", "Building Damage: 4"];
+    Et[0] = ["Stone Sword", "Be nice to others", "Damage: 19", "Building Damage: 6"];
+    Et[5] = ["Gold Sword", "King of the forest", "Damage: 22", "Building Damage: 7"];
+    Et[6] = ["Diamond Sword", "You can feel the power", "Damage: 24", "Building Damage: 8"];
+    Et[9] = ["Pirate Sword", "Ayyyyy!", "Better range than a normal sword", "Damage: 24", "Building Damage: 8"];
+    Et[30] = ["Amethyst Sword", "Mauve is the most beautiful color of the world", "Damage: 27", "Building Damage: 9"];
+    Et[62] = ["Dragon Sword", "No mercy!", "Damage: 30", "Building Damage: 10"];
+    Et[16] = ["Dragon Spear", "Kill them all!", "Damage: 22", "Building Damage: 7"];
+    Et[8] = ["Wood Pickaxe", "Can harvest only stone and wood", "Damage: 1"];
+    Et[1] = ["Stone Pickaxe", "Can harvest wood, stone and gold", "Damage: 2"];
+    Et[3] = ["Gold Pickaxe", "Can also harvest diamond", "Damage: 3", "Building Damage: 1"];
+    Et[4] = ["Diamond Pickaxe", "Can also harvest amethyst", "Damage: 4", "Building Damage: 1"];
+    Et[31] = ["Amethyst Pickaxe", "Can also harvest reidite, looks fancy!", "Damage: 5", "Building Damage: 1"];
+    Et[35] = ["Stone Hammer", "Useful to destroy buildings", "Doesn't work well on diamond or amethyst", "Damage: 2", "Building Damage: 20"];
+    Et[36] = ["Gold Hammer", "Useful to destroy buildings", "Doesn't work well on amethyst", "Damage: 3", "Building Damage: 30"];
+    Et[37] = ["Diamond Hammer", "Useful to destroy buildings", "Damage: 4", "Building Damage: 40"];
+    Et[38] = ["Amethyst Hammer", "Useful to destroy buildings", "Damage: 5", "Building Damage: 50"];
+    Et[45] = ["Super Hammer", "Have you planned to destroy the world?", "Damage: 12", "Building Damage: 70"];
+    Et[12] = ["Wood Spear", "Like a wooden stick, but it stings.", "Damage: 10", "Building Damage: 3"];
+    Et[13] = ["Stone Spear", "The beginning of evolution!", "Damage: 14", "Building Damage: 4"];
+    Et[14] = ["Gold Spear", "Careful, it stings!", "Damage: 15", "Buildings Damage: 5"];
+    Et[15] = ["Diamond Spear", "You're ready to kill a dragon", "Damage: 17", "Buildings Damage: 5"];
+    Et[33] = ["Amethyst Spear", "Dragons no longer frighten you", "Damage: 18", "Buildings Damage: 6"];
+    Et[46] = ["Stone Shovel", "Dig the ground to gather dirt, ice, and sand", "You can also gather minerals", "Damage: 2"];
+    Et[50] = ["Gold Shovel", "Dig the ground to gather dirt, ice, and sand", "You can also gather minerals", "Damage: 3", "Buildings Damage: 1"];
+    Et[51] = ["Diamond Shovel", "Dig the ground to gather dirt, ice, and sand", "You can also gather minerals", "Damage: 4", "Buildings Damage: 1"];
+    Et[52] = ["Amethyst Shovel", "Dig the ground to gather dirt, ice, and sand", "You can also gather minerals", "Damage: 5", "Buildings Damage: 1"];
+    Et[58] = ["Wood Helmet", "Better than nothing", "Players Defense: 1", "Animals Defense: 4"];
+    Et[25] = ["Stone Helmet", "You're ready for battle!", "Players Defense: 2", "Animals Defense: 8"];
+    Et[26] = ["Gold Helmet", "AKA the helmet of the savages", "Players Defense: 4", "Animals Defense: 13"];
+    Et[27] = ["Diamond Helmet", "Don't brag too much", "Players Defense: 5", "Animals Defense: 19"];
+    Et[43] = ["Amethyst Helmet", "You're no longer afraid of anything", "Players Defense: 6", "Animals Defense: 23"];
+    Et[44] = ["Reidite Helmet", "You no longer feel pain", "Players Defense: 7", "Animals Defense: 25"];
+    Et[59] = ["Dragon Helmet", "You will conquer the world", "Players Defense: 8", "Animals Defense: 27"];
+    Et[23] = ["Explorer hat", "Animals won't pay attention to you", "but don't make noises!", "Warm outside water and in winter", "You also calm down aggressive monsters twice as fast"];
+    Et[41] = ["Christmas Hat", "Oh, oh, oh, Merry Christmas", "Warm outside water and in winter"];
+    Et[42] = ["Elf Hat", "Don't let yourself be exploited, you little snow elf!", "Warm outside water and in winter"];
+    Et[83] = ["Hood", "You're a rogue", "You can steal someone only if", "1) It's night", "2) You're not wearing anything", "3) If you haven't been touched for eight seconds", "4) You are not close a fire", "5) Your target doesn't wear a peasant outfit", "Warm outside water and in winter"];
+    Et[10] = ["Earmuffs", "Some kind of little chapka.", "Warm outside water and in winter"];
+    Et[11] = ["Chapka", "Also called a coat.", "Warmer outside water and in winter"];
+    Et[40] = ["Winter Scarf and Cap", "Very comfortable", "Very Warm"];
+    Et[88] = ["Mammoth fur hat", "The best blizzard protection", "Very Warm"];
+    Et[84] = ["Peasant", "Your plants grow faster", "Warm outside water and in winter"];
+    Et[85] = ["Winter Hood", "You can steal someone only if", "- It's night", "- You're not wearing anything", "- If you haven't been touched for four seconds", "- You are not close a fire", "- Your target doesn't wear a winter peasant outfit", "Warm outside water and in winter"];
+    Et[86] = ["Winter Peasant", "Your plants grow faster", "Warm outside water and in winter"];
+    Et[48] = ["Diving Mask", "You are fast in the water", "Warm in water", "Players Defense: 2, Animals Defense: 8"];
+    Et[47] = ["Super Diving Mask", "You are very fast in the water", "Warm in water", "Players Defense: 4, Animals Defense: 16"];
+    Et[185] = ["Dragon Orb", "You feel a great power emanating from this orb"];
+    Et[149] = ["Dragon Heart", "Turns you into a Ghost on Death!", "You are a ghost for 60 seconds", "Find a resurrection stone"];
+    Et[175] = ["Green Gemstone", "You didn't cheat, promise?"];
+    Et[176] = ["Orange Gemstone", "Only a real pirate can find it!"];
+    Et[177] = ["Blue Gemstone", "For too kind people"];
+    Et[77] = ["Green Crown", "You heal yourself very quickly", "Heal over time: 40", "Players Defense: 4, Animals Defense: 16"];
+    Et[78] = ["Orange Crown", "You suddenly feel very lucky", "Players Defense: 4, Animals Defense: 16"];
+    Et[79] = ["Blue Crown", "Once you're dead, you'll become a ghost", "Though you will lose your weapon", "Players Defense: 4, Animals Defense: 16"];
+    Et[180] = ["Bucket", "Useful to fill a well", "One bucket is equivalent to twelve bottles"];
+    Et[181] = ["Empty Bucket", "You need to fill this bucket near a water source"];
+    Et[127] = ["Bottle", "Allows you to drink water anywhere", "Water: 50"];
+    Et[128] = ["Empty Bottle", "You can fill this bottle near a water source"];
+    Et[130] = ["Empty Watering Can", "You must fill it with a water source to use it"];
+    Et[49] = ["Watering Can", "Allows watering of plants", "Damage: 1"];
+    Et[29] = ["Bag", "More space for your items!"];
+    Et[120] = ["Paper", "Used in book-crafting"];
+    Et[28] = ["Book", "Allows to considerably reduce the time of crafting", "Must be wearing to work", "Damage: 1"];
+    Et[195] = ["Bandage", "Recover more quickly your life", "Heal over time: 30", "Effect: 5"];
+    Et[148] = ["Lock", "Allow you to lock your chest"];
+    Et[158] = ["Lock-pick", "Allows you to unlock one chest"];
+    Et[159] = ["Totem", "Allow you to create a team", "Share doors and chests", "Harmful building won't hurt your friend"];
+    Et[125] = ["Bridge", "Very useful on water", "It allows you to drink without drowning", "Walk faster in water"];
+    Et[183] = ["Sign", "Leave a message to others", "Durability: 200"];
+    Et[190] = ["Roof", "Hides you a little and warms you!", "Also protects you against sand storm"];
+    Et[182] = ["Well", "Allows bottle filling", "Durability: 1000"];
+    Et[162] = ["Wood Wall", "It's just a wall", "Durability: 1000"];
+    Et[163] = ["Stone Wall", "It's a little more serious.", "Durability: 1500"];
+    Et[164] = ["Gold Wall", "Gold on your walls? It's kind of flashy.", "Durability: 2000"];
+    Et[165] = ["Diamond Wall", "So shiny, watch your eyes", "Durability: 2500"];
+    Et[122] = ["Amethyst Wall", "You must be very scared to go out!", "Durability: 3500"];
+    Et[160] = ["Wood Spike", "Can damage your enemies", "Damage: 10, On-Hit Damage: 2", "Durability: 150"];
+    Et[168] = ["Stone Spike", "I wouldn't want to be your enemy.", "Damage: 20", "On-Hit Damage: 3", "Durability: 300"];
+    Et[169] = ["Gold Spike", "You're so cruel.", "Damage: 30", "On-Hit Damage: 3", "Durability: 600"];
+    Et[170] = ["Diamond Spike", "You don't like to have company.", "Damage: 40", "On-Hit Damage: 4", "Durability: 1200"];
+    Et[123] = ["Amethyst Spike", "What the hell did your neighbors do to you?", "Damage: 50", "On-Hit Damage: 4", "Durability: 2400"];
+    Et[166] = ["Wood Door", "Can be opened or closed by you or your friends", "Durability: 1000"];
+    Et[171] = ["Stone Door", "A stronger door is more serious", "Durability: 1500"];
+    Et[172] = ["Gold Door", "Are you rebuilding the \"el dorado?\"", "Durability: 2000"];
+    Et[173] = ["Diamond Door", "For a shining house", "Durability: 2500"];
+    Et[124] = ["Amethyst Door", "Is your house a locked safe?", "Durability: 3500"];
+    Et[119] = ["Furnace", "Warms you up", "It consumes wood all 5 seconds", "Durability: 1000"];
+    Et[135] = ["Windmill", "Can produce flour from wheat", "It takes 5 seconds to make Flour", "Returns points when working", "Durability: 2000"];
+    Et[144] = ["Bread Oven", "Allows bread to be made from flour", "It takes 10 seconds to make bread", "Returns points when working", "Durability: 2000"];
+    Et[151] = ["Resurrection stone", "It's magic", "Resurrect you if you're a ghost", "You will lose your weapon", "Durability: 200"];
+    Et[300] = "You cannot join this server";
+    Et[301] = "Kicked: ";
+    Et[302] = "Your key is already used by someone else";
+    Et[303] = "Your key is wrong";
+    Et[304] = "You have an old version, you need to clear your cache";
+    Et[338] = "Your client version is too recent for this server. The server is being updated";
+    Et[339] = "Wrong password! To enter a password: https://starve.io/?password=...";
+    Et[305] = "There are no more new resources";
+    Et[306] = "You survived 1 day";
+    Et[307] = "You survived ";
+    Et[308] = " days";
+    Et[309] = "You are dead ;-;";
+    Et[310] = "Server cannot find spawn location! Spam the play button!";
+    Et[311] = "Server is full! Spam the play button!";
+    Et[312] = "Resource is empty";
+    Et[313] = "Inventory is full (right-click to empty items)";
+    Et[314] = " is dead";
+    Et[315] = "This is not the right tool";
+    Et[316] = "You joined a team";
+    Et[317] = "You are dead";
+    Et[318] = " joined the team";
+    Et[319] = "Your team was destroyed";
+    Et[320] = "You left the team";
+    Et[321] = " left the team";
+    Et[322] = "Someone stole your token :>";
+    Et[323] = "Choose a server";
+    Et[324] = "players";
+    Et[325] = "total players";
+    Et[326] = "players on this mode";
+    Et[327] = "Coming soon...";
     document.getElementById("nickname_input").placeholder = "Nickname";
     Gt[Ih] = ["You were killed for no reason"];
     Gt[1] = ["You starved to death, as the name of the game implies"];
@@ -7386,23 +7386,23 @@
     return ~(Mw[0] & 35256) & Mw[Hi] | ~(Mw[0] & 35256) & 35256;
   }
   function ft() {
-    Et[_r.ⵠᐃΔⵠΔ] = ["You feel a great power emanating from this orb"];
+    Et[184] = ["You feel a great power emanating from this orb"];
     Gt[22] = ["This crab, though frightening in nature, pinched your fingertips so hard that you had a heart attack."];
-    Et[_r.ⲆⵠᐃΔᐃ] = ["Crab sticks", "Oh, yeah? Is there crab in the crab sticks?", "Food: 20"];
-    Et[ΔΔᐃ.ⲆΔⵠⵠⲆⲆΔ] = " BACK TO THE GAME";
-    Et[ΔΔᐃ.ⵠⲆⵠⵠⵠᐃⲆ] = " Share on Twitter";
-    Et[ΔΔᐃ.ⵠᐃᐃⲆΔᐃᐃ] = " Share on Facebook";
-    Et[ΔΔᐃ.ΔΔⲆⲆⵠⲆΔ] = "You can buy items on the shop in the next game with your points";
-    Et[ΔΔᐃ.POINTS] = "points";
-    Et[ΔΔᐃ.ⵠΔΔᐃᐃⲆⲆ] = "Score";
-    Et[ΔΔᐃ.ⲆⵠⲆΔⲆⲆᐃ] = "Kill";
-    Et[ΔΔᐃ.ⵠⲆΔⵠΔⵠⲆ] = "Days survived";
-    Et[ΔΔᐃ.ⵠⲆΔᐃⵠΔⲆ] = "Building method: Free. Press G to change";
-    Et[ΔΔᐃ.ⵠⲆᐃᐃᐃΔⵠ] = "Building method: Grid. Press G to change";
-    Et[_r.ⵠⲆⵠᐃᐃ] = ["Crab Claw", "Crab claws can also be eaten", "Food: 10"];
-    Et[_r.Ⲇᐃᐃᐃᐃ] = ["Crab Spear", "Allow you to calm crabs, and heal them", "Damage: 14", "Building Damage: 4"];
-    Et[_r.ⲆⲆΔΔⵠ] = ["Crab Helmet", "You are the king of crabs!", "Crabs follow you", "They can't hit you and you can't hit them", "Players Defense: 4", "Animals Defense: 13"];
-    Et[_r.ΔⲆⵠΔΔ] = ["Bed", "Relax in this confortable bed", "You are less cold, less thirsty, and less hungry", "You will be cured faster", "Durability: 400"];
+    Et[196] = ["Crab sticks", "Oh, yeah? Is there crab in the crab sticks?", "Food: 20"];
+    Et[328] = " BACK TO THE GAME";
+    Et[329] = " Share on Twitter";
+    Et[330] = " Share on Facebook";
+    Et[331] = "You can buy items on the shop in the next game with your points";
+    Et[332] = "points";
+    Et[333] = "Score";
+    Et[334] = "Kill";
+    Et[335] = "Days survived";
+    Et[336] = "Building method: Free. Press G to change";
+    Et[337] = "Building method: Grid. Press G to change";
+    Et[197] = ["Crab Claw", "Crab claws can also be eaten", "Food: 10"];
+    Et[18] = ["Crab Spear", "Allow you to calm crabs, and heal them", "Damage: 14", "Building Damage: 4"];
+    Et[61] = ["Crab Helmet", "You are the king of crabs!", "Crabs follow you", "They can't hit you and you can't hit them", "Players Defense: 4", "Animals Defense: 13"];
+    Et[198] = ["Bed", "Relax in this confortable bed", "You are less cold, less thirsty, and less hungry", "You will be cured faster", "Durability: 400"];
     document.getElementById("typequest").innerHTML = "Chrono Quests";
     document.getElementById("timeremainingquest").innerHTML = "Time Remaining";
     document.getElementById("constraintquest").innerHTML = " Constraints";
@@ -7419,169 +7419,169 @@
       document.getElementById("claim_reward_" + a).innerHTML = "CLAIM REWARD!";
     }
     document.getElementById("quit_chronoquest").innerHTML = " QUIT";
-    Et[_r.ΔᐃΔΔΔ] = ["Рука"];
-    Et[_r.ᐃᐃΔΔⵠ] = ["Земля", "Грязно!"];
-    Et[_r.ⲆⲆΔⲆᐃ] = ["Песок", "Он в моих глазах!"];
-    Et[_r.ⵠᐃⵠⵠ] = ["Дерево", "Постоянно нужно больше!"];
-    Et[_r.ᐃΔⵠⲆ] = ["Камень", "Твердый"];
-    Et[_r.ᐃⲆⵠᐃ] = ["Золото", "Будьте щедры, давайте его другим"];
-    Et[_r.ᐃⲆΔⵠ] = ["Алмаз", "Что вы создадите с помощью него?"];
-    Et[_r.Ⲇⵠⵠⵠ] = ["Аметист", "Он сиреневый, как Lapa"];
-    Et[_r.ᐃⵠᐃⵠᐃ] = ["Мука", "Используется в готовке"];
-    Et[_r.ⲆᐃᐃⵠΔ] = ["Печенье", "Превосходное бабушкино печенье", "Еда: 50"];
-    Et[_r.ⵠᐃⲆⲆᐃ] = ["Торт", "Торт мечты для гурманов", "Еда: 100"];
-    Et[_r.ⵠⵠᐃᐃⵠ] = ["Сырое Мясо", "Ты можешь пожарить его с помощью огня", "Вызывает отравление: 10", "Еда: 15"];
-    Et[_r.ΔΔⵠⵠⲆ] = ["Жареное Мясо", "Превосходный стейк, пожалуйста", "Еда: 35"];
-    Et[_r.ΔΔᐃⵠⲆ] = ["Сырая Рыба", "Я думаю она всё ещё жива", "Вызывает отравление: 10", "Еда: 18"];
-    Et[_r.ⵠⲆΔⲆᐃ] = ["Жареная рыба", "С лимоном она прекрасна", "Еда: 35"];
-    Et[_r.ⲆⵠΔⲆΔ] = ["Хлеб", "Прекрасный французский хлеб", "Это валюта, используемая на рынке", "Еда: 15"];
-    Et[_r.ⲆⲆΔⵠⵠ] = ["Бутерброд", "На вкус как Крабсбургер", "Еда: 100"];
-    Et[_r.ⲆⵠⲆⲆΔ] = ["Конфеты", "Только для детей!", "Еда: 20"];
-    Et[_r.ᐃΔᐃⵠⵠ] = ["Сахарная Трость", "Попробуйте это, это вкусно", "Еда: 100"];
-    Et[_r.ⵠᐃΔⲆⲆ] = ["Гирлянда", "Прекрасная декорация для крыши"];
-    Et[_r.ⵠᐃΔⲆᐃ] = ["Семя Ягоды", "Вырастает в ягоды", "Рождение: 2мин", "Рост: 55сек", "Нужна вода: 3мин 20сек", "Прочность: 700", "Продолжительность: 8 дней"];
-    Et[_r.ⵠᐃⲆⲆⲆ] = ["Ягода", "Ягода вкусная!", "Еда: 10"];
-    Et[_r.ⲆΔᐃΔΔ] = ["Пшеничное Семя", "Вырастает в пшеницу", "Рождение: 2мин", "Рост: 16сек", "Нужна вода: 2мин", "Прочность: 700", "Продолжительность: 8 дней"];
-    Et[_r.ⲆΔΔᐃⵠ] = ["Дикая Пшеница", "Перемалывается в муку, когда помещается в мельницу"];
-    Et[_r.ᐃⵠᐃᐃⵠ] = ["Семена Тыквы", "Вырастает в тыкву", "Рождение: 2мин 40сек", "Рост: 2мин", "Нужна вода: 2мин", "Прочность: 700", "Продолжительность: 8 дней"];
-    Et[_r.ⵠᐃⵠΔⵠ] = ["Тыква", "Это напоминает мне Хеллоуин", "Еда: 30"];
-    Et[_r.ⲆⲆΔⲆⵠ] = ["Семена Чеснока", "Очень опасно для вампиров", "Урон: 20", "Рождение: 4мин", "Рост: 4 мин", "Нужна вода: 1мин 40сек", "Прочность: 700", "Продолжительность: 8 дней"];
-    Et[_r.ⲆᐃΔᐃΔ] = ["Чеснок", "Лечит и снижает получаемый холод", "Еда: 14", "Лечит: 30", "Эффект: 1"];
-    Et[_r.ᐃⲆⲆᐃΔ] = ["Семена Колючего Куста", "Может нанести урон врагам", "Урон: 20", "Рождение: 4мин", "Рост: 15сек", "Нужна вода: 3мин", "Прочность: 1000", "Продолжительность: 8 дней"];
-    Et[_r.ᐃⲆᐃᐃΔ] = ["Колючий Куст", "Это больно!"];
-    Et[_r.ΔΔΔⵠⵠ] = ["Грядка", "Серьезно, используйте это.", "С этим ГМО удобрением ваши растения", "будут расти быстрее и потребуют меньше воды", "Прочность: 2000"];
-    Et[_r.ᐃΔΔΔⲆ] = ["Лёд", "Используется для изготовления тортов и воды"];
-    Et[_r.ᐃⵠᐃΔⵠ] = ["Гаечный Ключ", "Для починки дверей, стен, колючек", "Урон: 2"];
-    Et[_r.ⲆⵠⵠΔᐃ] = ["Шкура Волка", "Щенок? Но где же Щенок?!"];
-    Et[_r.ⵠⵠΔⵠΔ] = ["Шкура Зайца", "Этот кролик был таким милым..."];
-    Et[_r.ᐃΔΔⲆΔ] = ["Чистая Шкура", "Вы - фабрика хлеба"];
-    Et[_r.ⵠⲆΔᐃᐃ] = ["Чёрная Шкура", "Вы готовы делать зло."];
-    Et[_r.ⲆΔΔᐃᐃ] = ["Зимняя Шкура", "Эти животные просто хотели обнять тебя..."];
-    Et[_r.ⵠᐃΔⲆⵠ] = ["Чешуя", "Она пахнет рыбой!"];
-    Et[_r.ΔᐃΔⲆᐃ] = ["Шкура Кракена", "Вы не испугались?"];
-    Et[_r.ΔᐃᐃⲆⲆ] = ["Костёр", "Согрейтесь!", "Прочность: 150", "Продолжительность: 2мин"];
-    Et[_r.ᐃΔΔⵠΔ] = ["Большой Костёр", "Согрейтесь больше!", "Прочность: 400", "Продолжительность: 6мин"];
-    Et[_r.ⵠⲆΔⵠᐃ] = ["Верстак", "Необходим для создания многих предметов"];
-    Et[_r.ᐃΔⵠᐃⲆ] = ["Нить", "Используется в изготовлении Шапок и Рюкзака"];
-    Et[_r.ⲆⲆⲆᐃⵠ] = ["Алмазная Нить", "Используется в изготовлении специальных шапок"];
-    Et[_r.ᐃⲆⲆⲆⲆ] = ["Сундук", "Позволяет хранить предметы", "Прочность: 500"];
-    Et[_r.ΔⵠᐃΔᐃ] = ["Деревянный Меч", "Это работает?", "Урон: 12", "Урон по строениям: 4"];
-    Et[_r.ᐃᐃⲆΔⲆ] = ["Каменный Меч", "Будьте добры к другим", "Урон: 19", "Урон по строениям: 6"];
-    Et[_r.ⵠΔΔΔΔ] = ["Золотой Меч", "Король леса", "Урон: 22", "Урон по строениям: 7"];
-    Et[_r.ᐃΔⲆᐃΔ] = ["Алмазный Меч", "Ты можешь почувствовать силу", "Урон: 24", "Урон по строениям: 8"];
-    Et[_r.ⵠΔᐃᐃⵠ] = ["Пиратский Меч", "Aррррр!", "Дальность атаки больше чем у нормального меча", "Урон: 24", "Урон по строениям: 8"];
-    Et[_r.ΔⲆᐃⵠΔ] = ["Аметистовый Меч", "Сиреневый - самый красивый цвет в мире", "Урон: 27", "Урон по строениям: 9"];
-    Et[_r.ⵠᐃᐃΔⵠ] = ["Меч Дракона", "Без пощады!", "Урон: 30", "Урон по строениям: 10"];
-    Et[_r.ⲆⲆΔᐃᐃ] = ["Копьё Дракона", "Убивай всех!", "Урон: 22", "Урон по строениям: 6"];
-    Et[_r.ⲆΔⲆⲆⵠ] = ["Деревянная Кирка", "Может добывать только дерево и камень", "Урон: 1"];
-    Et[_r.ⲆⵠⵠⲆⲆ] = ["Каменная Кирка", "Может добывать дерево, камень и золото", "Урон: 2"];
-    Et[_r.ⵠᐃⲆΔΔ] = ["Золотая Кирка", "Также может добывать алмазы", "Урон: 3", "Урон по строениям: 1"];
-    Et[_r.ᐃⲆⵠΔⲆ] = ["Алмазная Кирка", "Можно добывать всё", "Урон: 4", "Урон по строениям: 1"];
-    Et[_r.ΔⲆⲆⵠⲆ] = ["Аметистовая Кирка", "Можно добывать всё, ещё и выглядит красиво!", "Урон: 5", "Урон по строениям: 1"];
-    Et[_r.ⲆᐃΔⲆΔ] = ["Каменный молот", "Используется для разрушения зданий", "Плохо разрушает алмазные и аметистовые здания", "Урон: 2", "Урон по строениям: 20"];
-    Et[_r.ⲆⲆⵠⲆⲆ] = ["Золотой Молот", "Используется для разрушения зданий", "Плохо разрушает аметистовые здания", "Урон: 3", "Урон по строениям: 30"];
-    Et[_r.ⵠΔΔΔⵠ] = ["Алмазный Молот", "Используется для разрушения зданий", "Урон: 4", "Урон по строениям: 40"];
-    Et[_r.ᐃⵠⵠⵠᐃ] = ["Аметистовый Молот", "Используется для разрушения зданий", "Урон: 5", "Урон по строениям: 50"];
-    Et[_r.ⵠⵠᐃᐃⲆ] = ["Супер Молот", "У вас есть планы разрушить мир?", "Урон: 12", "Урон по строениям: 70"];
-    Et[_r.ᐃᐃΔⲆⲆ] = ["Деревянное Копьё", "Выглядит как деревянная палочка, но делает больно.", "Урон: 10", "Урон по строениям: 2"];
-    Et[_r.ⵠΔᐃⵠᐃ] = ["Каменное Копьё", "Начало эволюции!", "Урон: 14", "Урон по строениям: 4"];
-    Et[_r.ⵠᐃᐃⵠΔ] = ["Золотое Копьё", "Осторожно, это больно!", "Урон: 15", "Урон по строениям: 5"];
-    Et[_r.ᐃᐃᐃᐃⲆ] = ["Алмазное Копьё", "Вы готовы убивать дракона.", "Урон: 17", "Урон по строениям: 5"];
-    Et[_r.ᐃΔⵠⲆᐃ] = ["Аметистовое Копьё", "Драконы больше не пугают вас", "Урон: 18", "Урон по строениям: 6"];
-    Et[_r.ᐃΔΔΔΔ] = ["Каменная Лопата", "Копайте землю, чтобы получить грязь, лед и песок", "Так же вы можете получить ресурсы", "Урон: 2"];
-    Et[_r.ⲆΔΔⵠⵠ] = ["Золотая Лопата", "Копайте землю, чтобы получить грязь, лед и песок", "Так же вы можете получить ресурсы", "Урон: 3", "Урон по строениям: 1"];
-    Et[_r.ⵠᐃⵠᐃΔ] = ["Алмазная Лопата", "Копайте землю, чтобы получить грязь, лед и песок", "Так же вы можете получить ресурсы", "Урон: 4", "Урон по строениям: 1"];
-    Et[_r.ⵠᐃⲆⲆⵠ] = ["Аметистовая Лопата", "Копайте землю, чтобы получить грязь, лед и песок", "Так же вы можете получить ресурсы", "Урон: 5", "Урон по стреониям: 1"];
-    Et[_r.ᐃᐃⲆⵠⵠ] = ["Деревянный Шлем", "Лучше чем ничего", "Защита от игроков: 1", "Защита от животных: 4"];
-    Et[_r.Δᐃᐃⵠᐃ] = ["Каменный Шлем", "Вы готовы к битве!", "Защита от игроков: 2", "Защита от животных: 8"];
-    Et[_r.ΔᐃΔⲆⲆ] = ["Золотой Шлем", "Также известен как шлем жестоких людей", "Защита от игроков: 4", "Защита от животных: 13"];
-    Et[_r.ᐃⲆⲆⵠᐃ] = ["Алмазный Шлем", "Не слишком хвастайтесь", "Защита от игроков: 5", "Защита от животных: 19"];
-    Et[_r.ⵠⲆⲆⵠⵠ] = ["Аметистовый Шлем", "Ты больше ничего не боишься", "Защита от игроков: 6", "Защита от животных: 23"];
-    Et[_r.ᐃⵠΔᐃΔ] = ["Шлем Дракона", "Ты покоришь мир", "Защита от игроков: 8", "Защита от животных: 27"];
-    Et[_r.ⲆᐃᐃΔᐃ] = ["Шапка Исследователя", "Животные не обращают на вас внимания", "но не шумите!", "Защищает от холода вне воды."];
-    Et[_r.ᐃᐃⵠⲆⲆ] = ["Рождественская Шапка", "Ох-хо-хо, Счастливого Рождества", "Защищает от холода вне воды."];
-    Et[_r.ΔⲆΔⲆⲆ] = ["Шапка Эльфа", "Не позволяйте себе эксплуатироваться, ведь вы маленький снежный эльф!", "Защищает от холода вне воды."];
-    Et[_r.ⲆΔⵠⵠᐃ] = ["Капюшон", "Вы разбойник", "Вы можете украсть что-то, если", "1) Ночь", "2) Вы ничего не носите", "3)Если вас не тронули в течение восьми секунд", "4) Вы не рядом с огнём", "5) Вы не можете ничего украсть у крестьянской туники", "Защищает от холода вне воды."];
-    Et[_r.ᐃⲆᐃⲆᐃ] = ["Теплые Наушники", "Какая-то маленькая шапка.", "Защищает от холода вне воды."];
-    Et[_r.ᐃⵠⵠⵠΔ] = ["Шапка", "Так же называется пальтом.", "Защищает от холода вне воды."];
-    Et[_r.ᐃⲆⲆΔΔ] = ["Зимний Шарф и Шапка", "Очень комфортно", "Очень тепло"];
-    Et[_r.ΔᐃⲆⵠⵠ] = ["Крестьянская Туника", "Ваши растения растут быстрее", "Защищает от холода вне воды."];
-    Et[_r.ΔΔᐃⲆΔ] = ["Зимний Капюшон", "Вы можете украсть что-то, если", "- Ночь", "- Вы ничего не носите", "- Если вас не тронули в течение четырёх секунд", "- Вы не рядом с огнём", "- Вы не можете ничего украсть у крестьянской туники", "Защищает от холода вне воды."];
-    Et[_r.ΔᐃⵠⲆΔ] = ["Зимняя Крестьянская Туника", "Ваши растения растут быстрее", "Защищает от холода вне воды."];
-    Et[_r.ᐃⲆⵠⲆⲆ] = ["Акваланг", "Вы быстрее передвигаетесь по воде", "Тепло в воде", "Защита от игроков: 2, Защита от животных: 8"];
-    Et[_r.ᐃⵠⵠⲆΔ] = ["Супер Акваланг", "Вы очень быстро передвигаетесь по воде", "Тепло в воде", "Защита от игроков: 4, Защита от животных: 16"];
-    Et[_r.ᐃⲆΔᐃᐃ] = ["Шар Дракона", "Даётся за квест"];
-    Et[_r.ⵠⵠⲆⵠⲆ] = ["Сердце Дракона", "Превращает вас в призрака после смерти!", "Вы призрак на 60 секунд", "Найдите камень воскрешения"];
-    Et[_r.ΔᐃΔᐃⵠ] = ["Зелёный Драгоценный Камень", "Вы без читов, правильно?"];
-    Et[_r.ⵠⲆⲆΔᐃ] = ["Оранжевый Драгоценный Камень", "Только настоящий пират найдёт это!"];
-    Et[_r.ΔΔⲆⲆᐃ] = ["Синий Драгоценный Камень", "Для очень добрых людей"];
-    Et[_r.ᐃⲆΔⵠⵠ] = ["Зеленая корона", "Вы лечите себя очень быстро", "Лечит: 40", "Защита от игроков: 4, Защита от животных: 16"];
-    Et[_r.ⵠᐃⵠⵠΔ] = ["Оранжевая Корона", "Вам очень повезло", "Защита от игроков: 4, Защита от животных: 16"];
-    Et[_r.ⲆⲆᐃᐃΔ] = ["Синяя Корона", "Как только вы умрёте, вы станете призраком", "Но вы потеряете своё оружие", "Защита от игроков: 4, Защита от животных: 16"];
-    Et[_r.ΔΔᐃΔΔ] = ["Ведро", "Используется для заполнения колодца", "Одно ведро равняется двенадцати бутылкам"];
-    Et[_r.ⲆΔⵠΔᐃ] = ["Пустое ведро", "Вам надо заполнить это ведро возле воды"];
-    Et[_r.ΔᐃᐃⵠΔ] = ["Бутылка", "Позволяет пить воду в любом месте", "Вода: 50"];
-    Et[_r.ᐃⲆⵠΔᐃ] = ["Пустая бутылка", "Вы можете заполнить бутылку возле воды"];
-    Et[_r.ⲆΔᐃΔⲆ] = ["Пустая Лейка", "Вы можете заполнить лейку возле воды"];
-    Et[_r.ᐃᐃΔⵠΔ] = ["Лейка", "Позволяет поливать растения", "Урон: 1"];
-    Et[_r.ⵠⲆᐃᐃ] = ["Рюкзак", "Больше места для ваших предметов!"];
-    Et[_r.ⵠΔΔΔⲆ] = ["Бумага", "Используется при создании книги"];
-    Et[_r.ᐃⵠΔΔⲆ] = ["Книга", "Сокращает время изготовления предметов", "Должно быть одето для работы", "Урон: 1"];
-    Et[_r.ᐃΔᐃⲆᐃ] = ["Бинт", "Восстанавливает ваше здоровье быстрее", "Лечит: 30", "Эффект: 5"];
-    Et[_r.ⵠⵠⲆⵠᐃ] = ["Замок", "Позволяет вам закрыть ваш сундук"];
-    Et[_r.ᐃⵠᐃⲆⵠ] = ["Ключ", "Даёт вам открыть один запертый сундук"];
-    Et[_r.ⲆⵠᐃᐃΔ] = ["Тотем", "Позволяет вам создать команду", "Совместное использование дверей и сундуков", "Вредное здание не повредит вашего друга"];
-    Et[_r.ⲆᐃⲆᐃⵠ] = ["Мост", "Очень полезно на воде", "Позволяет вам пить без потери воздуха", "Передвигаетесь быстрее по воде"];
-    Et[_r.ⵠΔᐃᐃᐃ] = ["Табличка", "Оставьте сообщение другим", "Прочность: 200"];
-    Et[_r.ⲆᐃⵠΔΔ] = ["Крыша", "Немного скрывает вас и согревает!"];
-    Et[_r.ⲆⵠⲆⵠⵠ] = ["Колодец", "Позволяет заполнить бутылку", "Прочность: 1000"];
-    Et[_r.ⲆⲆⲆⲆⵠ] = ["Деревянная Стена", "Это просто стена", "Прочность: 1000"];
-    Et[_r.ΔᐃⵠⲆⲆ] = ["Каменная Стена", "Это немного посерьезнее.", "Прочность: 1500"];
-    Et[_r.ᐃᐃᐃᐃᐃ] = ["Золотая Стена", "Золото на ваших стенах? Она ослепляет.", "Прочность: 2000"];
-    Et[_r.ⵠᐃⲆᐃⵠ] = ["Алмазная Стена", "Очень блестит, следите за вашими глазами", "Прочность: 2500"];
-    Et[_r.ᐃΔⵠⵠΔ] = ["Аметистовая стена", "Вы должны быть слишком напуганы, чтобы уйти!", "Прочность: 3500"];
-    Et[_r.ⵠⵠΔⵠⲆ] = ["Деревянная Стена с Шипами", "Может наносить урон врагам", "Урон: 10, Урон за один удар: 2", "Прочность: 150"];
-    Et[_r.ⲆᐃⲆΔΔ] = ["Каменная Стена с Шипами", "Я не хотел бы быть вашим врагом", "Урон: 20", "Урон за один удар: 3", "Прочность: 300"];
-    Et[_r.Ⲇᐃⵠᐃⵠ] = ["Золотая Стена с Шипами", "Вы очень жестоки.", "Урон: 30", "Урон за один удар: 3", "Прочность: 600"];
-    Et[_r.ⲆⵠᐃΔΔ] = ["Алмазная Стена с Шипами", "Вам не нравится иметь компанию.", "Урон: 40", "Урон за один удар: 4", "Прочность: 1200"];
-    Et[_r.ᐃⲆⵠᐃᐃ] = ["Аметистовая Стена с Шипами", "Какого черта, что ваши соседи сделали с вами?", "Урон: 50", "Урон за один удар: 4", "Прочность: 2400"];
-    Et[_r.ΔⵠⵠⲆᐃ] = ["Деревянная Дверь", "Может быть открыта и закрыта вами или друзьями", "Прочность: 1000"];
-    Et[_r.ⵠΔᐃⲆΔ] = ["Каменная Дверь", "Более серьезная и сильная дверь", "Прочность: 1500"];
-    Et[_r.ᐃΔⵠⵠⵠ] = ["Золотая Дверь", "Вы перестраиваете \"Эль Дорадо?\"", "Прочность: 2000"];
-    Et[_r.ⵠΔᐃΔΔ] = ["Алмазная Дверь", "Для роскошного дома", "Прочность: 2500"];
-    Et[_r.Δⵠᐃⵠᐃ] = ["Аметистовая Дверь", "Ваш дом в безопасности?", "Прочность: 3000"];
-    Et[_r.ⲆᐃΔᐃⵠ] = ["Печь", "Согревает", "Тратит дерево каждые 5 секунд", "Прочность: 1000"];
-    Et[_r.ⵠΔⲆⲆΔ] = ["Мельница", "Может сделать муку из пшеницы", "Требует 5 секунд для получения муки", "Даёт очки при работе", "Прочность: 2000"];
-    Et[_r.Δᐃᐃᐃᐃ] = ["Хлебная Печь", "Позволяет готовить хлеб из муки", "Требует 10 секунд для получения хлеба", "Даёт очки при работе", "Прочность: 2000"];
-    Et[_r.ⲆⲆⵠⵠᐃ] = ["Камень Воскрешения", "Это магия", "Воскрешает вас, если вы призрак", "Вы потеряете своё оружие", "Прочность: 200"];
-    Et[ΔΔᐃ.ⵠⵠΔⵠΔⲆᐃ] = "Вы не можете зайти на этот сервер";
-    Et[ΔΔᐃ.ⵠⵠᐃⲆⲆᐃⲆ] = "Выгнаны: ";
-    Et[ΔΔᐃ.ⵠᐃΔⲆⲆⲆⲆ] = "Ваш ключ уже используется кем-то";
-    Et[ΔΔᐃ.ⲆᐃΔⲆⲆᐃⲆ] = "Ваш ключ неправильный";
-    Et[ΔΔᐃ.ⵠᐃᐃⲆᐃᐃᐃ] = "У вас старая версия, вам нужно очистить кеш";
-    Et[ΔΔᐃ.ΔⲆᐃΔΔΔⵠ] = "Ресурсов больше нет";
-    Et[ΔΔᐃ.ⲆΔⲆᐃᐃⵠᐃ] = "Вы выжили 1 день";
-    Et[ΔΔᐃ.ⵠΔᐃΔᐃⵠΔ] = "Вы выжили ";
-    Et[ΔΔᐃ.ᐃⵠⲆⲆᐃΔⵠ] = " дней";
-    Et[ΔΔᐃ.ⲆᐃΔⲆᐃᐃᐃ] = "Вы умерли ;-;";
-    Et[ΔΔᐃ.ⲆΔΔⵠᐃⲆΔ] = "Сервер не может найти точку спавна! Спамьте кнопку играть!";
-    Et[ΔΔᐃ.ⵠⵠⲆᐃᐃΔΔ] = "Сервер заполнен! Спамьте кнопку играть!";
-    Et[ΔΔᐃ.EMPTY] = "Ресурсы закончились";
-    Et[ΔΔᐃ.ⵠⲆᐃⲆⵠᐃⵠ] = "Инвентарь заполнен (правая кнопка мыши для удаления предметов)";
-    Et[ΔΔᐃ.ⲆᐃᐃⲆᐃᐃⲆ] = " умер";
-    Et[ΔΔᐃ.ⲆᐃⲆⵠⲆᐃⲆ] = "Это не тот инструмент";
-    Et[ΔΔᐃ.ΔⵠⵠⲆᐃᐃⵠ] = "Вы вошли в команду";
-    Et[ΔΔᐃ.ᐃⵠᐃᐃᐃⲆΔ] = "Вы умерли";
-    Et[ΔΔᐃ.ⲆᐃⵠΔᐃᐃⲆ] = " вошёл в команду";
-    Et[ΔΔᐃ.ⲆΔΔΔⵠⲆᐃ] = "Ваша команда была разрушена";
-    Et[ΔΔᐃ.ⵠⲆⲆΔᐃᐃΔ] = "Вы покинули команду";
-    Et[ΔΔᐃ.ᐃⵠⲆᐃᐃᐃᐃ] = " покинул команду";
-    Et[ΔΔᐃ.ΔᐃⵠΔⵠ] = "Кто-то использует ваш токен :>";
-    Et[ΔΔᐃ.ᐃⵠⵠⲆᐃᐃΔ] = "Выберите сервер";
-    Et[ΔΔᐃ.ᐃᐃⲆⲆⲆ] = "игроков";
-    Et[ΔΔᐃ.ⵠᐃΔⲆᐃⲆᐃ] = "игроков всего";
-    Et[ΔΔᐃ.ᐃᐃⵠⵠⵠᐃΔ] = "игроков в этом режиме";
-    Et[ΔΔᐃ.ⲆⲆⵠᐃⵠⵠⵠ] = "Скоро...";
+    Et[7] = ["Рука"];
+    Et[140] = ["Земля", "Грязно!"];
+    Et[126] = ["Песок", "Он в моих глазах!"];
+    Et[109] = ["Дерево", "Постоянно нужно больше!"];
+    Et[108] = ["Камень", "Твердый"];
+    Et[111] = ["Золото", "Будьте щедры, давайте его другим"];
+    Et[112] = ["Алмаз", "Что вы создадите с помощью него?"];
+    Et[121] = ["Аметист", "Он сиреневый, как Lapa"];
+    Et[131] = ["Мука", "Используется в готовке"];
+    Et[133] = ["Печенье", "Превосходное бабушкино печенье", "Еда: 50"];
+    Et[136] = ["Торт", "Торт мечты для гурманов", "Еда: 100"];
+    Et[116] = ["Сырое Мясо", "Ты можешь пожарить его с помощью огня", "Вызывает отравление: 10", "Еда: 15"];
+    Et[117] = ["Жареное Мясо", "Превосходный стейк, пожалуйста", "Еда: 35"];
+    Et[137] = ["Сырая Рыба", "Я думаю она всё ещё жива", "Вызывает отравление: 10", "Еда: 18"];
+    Et[138] = ["Жареная рыба", "С лимоном она прекрасна", "Еда: 35"];
+    Et[143] = ["Хлеб", "Прекрасный французский хлеб", "Это валюта, используемая на рынке", "Еда: 15"];
+    Et[145] = ["Бутерброд", "На вкус как Крабсбургер", "Еда: 100"];
+    Et[200] = ["Конфеты", "Только для детей!", "Еда: 20"];
+    Et[199] = ["Сахарная Трость", "Попробуйте это, это вкусно", "Еда: 100"];
+    Et[201] = ["Гирлянда", "Прекрасная декорация для крыши"];
+    Et[115] = ["Семя Ягоды", "Вырастает в ягоды", "Рождение: 2мин", "Рост: 55сек", "Нужна вода: 3мин 20сек", "Прочность: 700", "Продолжительность: 8 дней"];
+    Et[110] = ["Ягода", "Ягода вкусная!", "Еда: 10"];
+    Et[132] = ["Пшеничное Семя", "Вырастает в пшеницу", "Рождение: 2мин", "Рост: 16сек", "Нужна вода: 2мин", "Прочность: 700", "Продолжительность: 8 дней"];
+    Et[134] = ["Дикая Пшеница", "Перемалывается в муку, когда помещается в мельницу"];
+    Et[188] = ["Семена Тыквы", "Вырастает в тыкву", "Рождение: 2мин 40сек", "Рост: 2мин", "Нужна вода: 2мин", "Прочность: 700", "Продолжительность: 8 дней"];
+    Et[189] = ["Тыква", "Это напоминает мне Хеллоуин", "Еда: 30"];
+    Et[191] = ["Семена Чеснока", "Очень опасно для вампиров", "Урон: 20", "Рождение: 4мин", "Рост: 4 мин", "Нужна вода: 1мин 40сек", "Прочность: 700", "Продолжительность: 8 дней"];
+    Et[192] = ["Чеснок", "Лечит и снижает получаемый холод", "Еда: 14", "Лечит: 30", "Эффект: 1"];
+    Et[193] = ["Семена Колючего Куста", "Может нанести урон врагам", "Урон: 20", "Рождение: 4мин", "Рост: 15сек", "Нужна вода: 3мин", "Прочность: 1000", "Продолжительность: 8 дней"];
+    Et[194] = ["Колючий Куст", "Это больно!"];
+    Et[141] = ["Грядка", "Серьезно, используйте это.", "С этим ГМО удобрением ваши растения", "будут расти быстрее и потребуют меньше воды", "Прочность: 2000"];
+    Et[142] = ["Лёд", "Используется для изготовления тортов и воды"];
+    Et[55] = ["Гаечный Ключ", "Для починки дверей, стен, колючек", "Урон: 2"];
+    Et[174] = ["Шкура Волка", "Щенок? Но где же Щенок?!"];
+    Et[2] = ["Шкура Зайца", "Этот кролик был таким милым..."];
+    Et[178] = ["Чистая Шкура", "Вы - фабрика хлеба"];
+    Et[179] = ["Чёрная Шкура", "Вы готовы делать зло."];
+    Et[146] = ["Зимняя Шкура", "Эти животные просто хотели обнять тебя..."];
+    Et[139] = ["Чешуя", "Она пахнет рыбой!"];
+    Et[129] = ["Шкура Кракена", "Вы не испугались?"];
+    Et[113] = ["Костёр", "Согрейтесь!", "Прочность: 150", "Продолжительность: 2мин"];
+    Et[118] = ["Большой Костёр", "Согрейтесь больше!", "Прочность: 400", "Продолжительность: 6мин"];
+    Et[114] = ["Верстак", "Необходим для создания многих предметов"];
+    Et[161] = ["Нить", "Используется в изготовлении Шапок и Рюкзака"];
+    Et[147] = ["Алмазная Нить", "Используется в изготовлении специальных шапок"];
+    Et[167] = ["Сундук", "Позволяет хранить предметы", "Прочность: 500"];
+    Et[57] = ["Деревянный Меч", "Это работает?", "Урон: 12", "Урон по строениям: 4"];
+    Et[0] = ["Каменный Меч", "Будьте добры к другим", "Урон: 19", "Урон по строениям: 6"];
+    Et[5] = ["Золотой Меч", "Король леса", "Урон: 22", "Урон по строениям: 7"];
+    Et[6] = ["Алмазный Меч", "Ты можешь почувствовать силу", "Урон: 24", "Урон по строениям: 8"];
+    Et[9] = ["Пиратский Меч", "Aррррр!", "Дальность атаки больше чем у нормального меча", "Урон: 24", "Урон по строениям: 8"];
+    Et[30] = ["Аметистовый Меч", "Сиреневый - самый красивый цвет в мире", "Урон: 27", "Урон по строениям: 9"];
+    Et[62] = ["Меч Дракона", "Без пощады!", "Урон: 30", "Урон по строениям: 10"];
+    Et[16] = ["Копьё Дракона", "Убивай всех!", "Урон: 22", "Урон по строениям: 6"];
+    Et[8] = ["Деревянная Кирка", "Может добывать только дерево и камень", "Урон: 1"];
+    Et[1] = ["Каменная Кирка", "Может добывать дерево, камень и золото", "Урон: 2"];
+    Et[3] = ["Золотая Кирка", "Также может добывать алмазы", "Урон: 3", "Урон по строениям: 1"];
+    Et[4] = ["Алмазная Кирка", "Можно добывать всё", "Урон: 4", "Урон по строениям: 1"];
+    Et[31] = ["Аметистовая Кирка", "Можно добывать всё, ещё и выглядит красиво!", "Урон: 5", "Урон по строениям: 1"];
+    Et[35] = ["Каменный молот", "Используется для разрушения зданий", "Плохо разрушает алмазные и аметистовые здания", "Урон: 2", "Урон по строениям: 20"];
+    Et[36] = ["Золотой Молот", "Используется для разрушения зданий", "Плохо разрушает аметистовые здания", "Урон: 3", "Урон по строениям: 30"];
+    Et[37] = ["Алмазный Молот", "Используется для разрушения зданий", "Урон: 4", "Урон по строениям: 40"];
+    Et[38] = ["Аметистовый Молот", "Используется для разрушения зданий", "Урон: 5", "Урон по строениям: 50"];
+    Et[45] = ["Супер Молот", "У вас есть планы разрушить мир?", "Урон: 12", "Урон по строениям: 70"];
+    Et[12] = ["Деревянное Копьё", "Выглядит как деревянная палочка, но делает больно.", "Урон: 10", "Урон по строениям: 2"];
+    Et[13] = ["Каменное Копьё", "Начало эволюции!", "Урон: 14", "Урон по строениям: 4"];
+    Et[14] = ["Золотое Копьё", "Осторожно, это больно!", "Урон: 15", "Урон по строениям: 5"];
+    Et[15] = ["Алмазное Копьё", "Вы готовы убивать дракона.", "Урон: 17", "Урон по строениям: 5"];
+    Et[33] = ["Аметистовое Копьё", "Драконы больше не пугают вас", "Урон: 18", "Урон по строениям: 6"];
+    Et[46] = ["Каменная Лопата", "Копайте землю, чтобы получить грязь, лед и песок", "Так же вы можете получить ресурсы", "Урон: 2"];
+    Et[50] = ["Золотая Лопата", "Копайте землю, чтобы получить грязь, лед и песок", "Так же вы можете получить ресурсы", "Урон: 3", "Урон по строениям: 1"];
+    Et[51] = ["Алмазная Лопата", "Копайте землю, чтобы получить грязь, лед и песок", "Так же вы можете получить ресурсы", "Урон: 4", "Урон по строениям: 1"];
+    Et[52] = ["Аметистовая Лопата", "Копайте землю, чтобы получить грязь, лед и песок", "Так же вы можете получить ресурсы", "Урон: 5", "Урон по стреониям: 1"];
+    Et[58] = ["Деревянный Шлем", "Лучше чем ничего", "Защита от игроков: 1", "Защита от животных: 4"];
+    Et[25] = ["Каменный Шлем", "Вы готовы к битве!", "Защита от игроков: 2", "Защита от животных: 8"];
+    Et[26] = ["Золотой Шлем", "Также известен как шлем жестоких людей", "Защита от игроков: 4", "Защита от животных: 13"];
+    Et[27] = ["Алмазный Шлем", "Не слишком хвастайтесь", "Защита от игроков: 5", "Защита от животных: 19"];
+    Et[43] = ["Аметистовый Шлем", "Ты больше ничего не боишься", "Защита от игроков: 6", "Защита от животных: 23"];
+    Et[59] = ["Шлем Дракона", "Ты покоришь мир", "Защита от игроков: 8", "Защита от животных: 27"];
+    Et[23] = ["Шапка Исследователя", "Животные не обращают на вас внимания", "но не шумите!", "Защищает от холода вне воды."];
+    Et[41] = ["Рождественская Шапка", "Ох-хо-хо, Счастливого Рождества", "Защищает от холода вне воды."];
+    Et[42] = ["Шапка Эльфа", "Не позволяйте себе эксплуатироваться, ведь вы маленький снежный эльф!", "Защищает от холода вне воды."];
+    Et[83] = ["Капюшон", "Вы разбойник", "Вы можете украсть что-то, если", "1) Ночь", "2) Вы ничего не носите", "3)Если вас не тронули в течение восьми секунд", "4) Вы не рядом с огнём", "5) Вы не можете ничего украсть у крестьянской туники", "Защищает от холода вне воды."];
+    Et[10] = ["Теплые Наушники", "Какая-то маленькая шапка.", "Защищает от холода вне воды."];
+    Et[11] = ["Шапка", "Так же называется пальтом.", "Защищает от холода вне воды."];
+    Et[40] = ["Зимний Шарф и Шапка", "Очень комфортно", "Очень тепло"];
+    Et[84] = ["Крестьянская Туника", "Ваши растения растут быстрее", "Защищает от холода вне воды."];
+    Et[85] = ["Зимний Капюшон", "Вы можете украсть что-то, если", "- Ночь", "- Вы ничего не носите", "- Если вас не тронули в течение четырёх секунд", "- Вы не рядом с огнём", "- Вы не можете ничего украсть у крестьянской туники", "Защищает от холода вне воды."];
+    Et[86] = ["Зимняя Крестьянская Туника", "Ваши растения растут быстрее", "Защищает от холода вне воды."];
+    Et[48] = ["Акваланг", "Вы быстрее передвигаетесь по воде", "Тепло в воде", "Защита от игроков: 2, Защита от животных: 8"];
+    Et[47] = ["Супер Акваланг", "Вы очень быстро передвигаетесь по воде", "Тепло в воде", "Защита от игроков: 4, Защита от животных: 16"];
+    Et[185] = ["Шар Дракона", "Даётся за квест"];
+    Et[149] = ["Сердце Дракона", "Превращает вас в призрака после смерти!", "Вы призрак на 60 секунд", "Найдите камень воскрешения"];
+    Et[175] = ["Зелёный Драгоценный Камень", "Вы без читов, правильно?"];
+    Et[176] = ["Оранжевый Драгоценный Камень", "Только настоящий пират найдёт это!"];
+    Et[177] = ["Синий Драгоценный Камень", "Для очень добрых людей"];
+    Et[77] = ["Зеленая корона", "Вы лечите себя очень быстро", "Лечит: 40", "Защита от игроков: 4, Защита от животных: 16"];
+    Et[78] = ["Оранжевая Корона", "Вам очень повезло", "Защита от игроков: 4, Защита от животных: 16"];
+    Et[79] = ["Синяя Корона", "Как только вы умрёте, вы станете призраком", "Но вы потеряете своё оружие", "Защита от игроков: 4, Защита от животных: 16"];
+    Et[180] = ["Ведро", "Используется для заполнения колодца", "Одно ведро равняется двенадцати бутылкам"];
+    Et[181] = ["Пустое ведро", "Вам надо заполнить это ведро возле воды"];
+    Et[127] = ["Бутылка", "Позволяет пить воду в любом месте", "Вода: 50"];
+    Et[128] = ["Пустая бутылка", "Вы можете заполнить бутылку возле воды"];
+    Et[130] = ["Пустая Лейка", "Вы можете заполнить лейку возле воды"];
+    Et[49] = ["Лейка", "Позволяет поливать растения", "Урон: 1"];
+    Et[29] = ["Рюкзак", "Больше места для ваших предметов!"];
+    Et[120] = ["Бумага", "Используется при создании книги"];
+    Et[28] = ["Книга", "Сокращает время изготовления предметов", "Должно быть одето для работы", "Урон: 1"];
+    Et[195] = ["Бинт", "Восстанавливает ваше здоровье быстрее", "Лечит: 30", "Эффект: 5"];
+    Et[148] = ["Замок", "Позволяет вам закрыть ваш сундук"];
+    Et[158] = ["Ключ", "Даёт вам открыть один запертый сундук"];
+    Et[159] = ["Тотем", "Позволяет вам создать команду", "Совместное использование дверей и сундуков", "Вредное здание не повредит вашего друга"];
+    Et[125] = ["Мост", "Очень полезно на воде", "Позволяет вам пить без потери воздуха", "Передвигаетесь быстрее по воде"];
+    Et[183] = ["Табличка", "Оставьте сообщение другим", "Прочность: 200"];
+    Et[190] = ["Крыша", "Немного скрывает вас и согревает!"];
+    Et[182] = ["Колодец", "Позволяет заполнить бутылку", "Прочность: 1000"];
+    Et[162] = ["Деревянная Стена", "Это просто стена", "Прочность: 1000"];
+    Et[163] = ["Каменная Стена", "Это немного посерьезнее.", "Прочность: 1500"];
+    Et[164] = ["Золотая Стена", "Золото на ваших стенах? Она ослепляет.", "Прочность: 2000"];
+    Et[165] = ["Алмазная Стена", "Очень блестит, следите за вашими глазами", "Прочность: 2500"];
+    Et[122] = ["Аметистовая стена", "Вы должны быть слишком напуганы, чтобы уйти!", "Прочность: 3500"];
+    Et[160] = ["Деревянная Стена с Шипами", "Может наносить урон врагам", "Урон: 10, Урон за один удар: 2", "Прочность: 150"];
+    Et[168] = ["Каменная Стена с Шипами", "Я не хотел бы быть вашим врагом", "Урон: 20", "Урон за один удар: 3", "Прочность: 300"];
+    Et[169] = ["Золотая Стена с Шипами", "Вы очень жестоки.", "Урон: 30", "Урон за один удар: 3", "Прочность: 600"];
+    Et[170] = ["Алмазная Стена с Шипами", "Вам не нравится иметь компанию.", "Урон: 40", "Урон за один удар: 4", "Прочность: 1200"];
+    Et[123] = ["Аметистовая Стена с Шипами", "Какого черта, что ваши соседи сделали с вами?", "Урон: 50", "Урон за один удар: 4", "Прочность: 2400"];
+    Et[166] = ["Деревянная Дверь", "Может быть открыта и закрыта вами или друзьями", "Прочность: 1000"];
+    Et[171] = ["Каменная Дверь", "Более серьезная и сильная дверь", "Прочность: 1500"];
+    Et[172] = ["Золотая Дверь", "Вы перестраиваете \"Эль Дорадо?\"", "Прочность: 2000"];
+    Et[173] = ["Алмазная Дверь", "Для роскошного дома", "Прочность: 2500"];
+    Et[124] = ["Аметистовая Дверь", "Ваш дом в безопасности?", "Прочность: 3000"];
+    Et[119] = ["Печь", "Согревает", "Тратит дерево каждые 5 секунд", "Прочность: 1000"];
+    Et[135] = ["Мельница", "Может сделать муку из пшеницы", "Требует 5 секунд для получения муки", "Даёт очки при работе", "Прочность: 2000"];
+    Et[144] = ["Хлебная Печь", "Позволяет готовить хлеб из муки", "Требует 10 секунд для получения хлеба", "Даёт очки при работе", "Прочность: 2000"];
+    Et[151] = ["Камень Воскрешения", "Это магия", "Воскрешает вас, если вы призрак", "Вы потеряете своё оружие", "Прочность: 200"];
+    Et[300] = "Вы не можете зайти на этот сервер";
+    Et[301] = "Выгнаны: ";
+    Et[302] = "Ваш ключ уже используется кем-то";
+    Et[303] = "Ваш ключ неправильный";
+    Et[304] = "У вас старая версия, вам нужно очистить кеш";
+    Et[305] = "Ресурсов больше нет";
+    Et[306] = "Вы выжили 1 день";
+    Et[307] = "Вы выжили ";
+    Et[308] = " дней";
+    Et[309] = "Вы умерли ;-;";
+    Et[310] = "Сервер не может найти точку спавна! Спамьте кнопку играть!";
+    Et[311] = "Сервер заполнен! Спамьте кнопку играть!";
+    Et[312] = "Ресурсы закончились";
+    Et[313] = "Инвентарь заполнен (правая кнопка мыши для удаления предметов)";
+    Et[314] = " умер";
+    Et[315] = "Это не тот инструмент";
+    Et[316] = "Вы вошли в команду";
+    Et[317] = "Вы умерли";
+    Et[318] = " вошёл в команду";
+    Et[319] = "Ваша команда была разрушена";
+    Et[320] = "Вы покинули команду";
+    Et[321] = " покинул команду";
+    Et[322] = "Кто-то использует ваш токен :>";
+    Et[323] = "Выберите сервер";
+    Et[324] = "игроков";
+    Et[325] = "игроков всего";
+    Et[326] = "игроков в этом режиме";
+    Et[327] = "Скоро...";
     document.getElementById("nickname_input").placeholder = "Имя";
     Gt[0] = ["Вы были убиты без причины"];
     Gt[gs] = ["Вы умерли от голода, как название игры подразумевает это"];
@@ -7635,23 +7635,23 @@
   }
   const it = Dq;
   function kt() {
-    Et[_r.ⵠᐃΔⵠΔ] = ["You feel a great power emanating from this orb"];
+    Et[184] = ["You feel a great power emanating from this orb"];
     Gt[22] = ["This crab, though frightening in nature, pinched your fingertips so hard that you had a heart attack."];
-    Et[_r.ⲆⵠᐃΔᐃ] = ["Crab sticks", "Oh, yeah? Is there crab in the crab sticks?", "Food: 20"];
-    Et[ΔΔᐃ.ⲆΔⵠⵠⲆⲆΔ] = " BACK TO THE GAME";
-    Et[ΔΔᐃ.ⵠⲆⵠⵠⵠᐃⲆ] = " Share on Twitter";
-    Et[ΔΔᐃ.ⵠᐃᐃⲆΔᐃᐃ] = " Share on Facebook";
-    Et[ΔΔᐃ.ΔΔⲆⲆⵠⲆΔ] = "You can buy items on the shop in the next game with your points";
-    Et[ΔΔᐃ.POINTS] = "points";
-    Et[ΔΔᐃ.ⵠΔΔᐃᐃⲆⲆ] = "Score";
-    Et[ΔΔᐃ.ⲆⵠⲆΔⲆⲆᐃ] = "Kill";
-    Et[ΔΔᐃ.ⵠⲆΔⵠΔⵠⲆ] = "Days survived";
-    Et[ΔΔᐃ.ⵠⲆΔᐃⵠΔⲆ] = "Building method: Free. Press G to change";
-    Et[ΔΔᐃ.ⵠⲆᐃᐃᐃΔⵠ] = "Building method: Grid. Press G to change";
-    Et[_r.ⵠⲆⵠᐃᐃ] = ["Crab Claw", "Crab claws can also be eaten", "Food: 10"];
-    Et[_r.Ⲇᐃᐃᐃᐃ] = ["Crab Spear", "Allow you to calm crabs, and heal them", "Damage: 14", "Building Damage: 4"];
-    Et[_r.ⲆⲆΔΔⵠ] = ["Crab Helmet", "You are the king of crabs!", "Crabs follow you", "They can't hit you and you can't hit them", "Players Defense: 4", "Animals Defense: 13"];
-    Et[_r.ΔⲆⵠΔΔ] = ["Bed", "Relax in this confortable bed", "You are less cold, less thirsty, and less hungry", "You will be cured faster", "Durability: 400"];
+    Et[196] = ["Crab sticks", "Oh, yeah? Is there crab in the crab sticks?", "Food: 20"];
+    Et[328] = " BACK TO THE GAME";
+    Et[329] = " Share on Twitter";
+    Et[330] = " Share on Facebook";
+    Et[331] = "You can buy items on the shop in the next game with your points";
+    Et[332] = "points";
+    Et[333] = "Score";
+    Et[334] = "Kill";
+    Et[335] = "Days survived";
+    Et[336] = "Building method: Free. Press G to change";
+    Et[337] = "Building method: Grid. Press G to change";
+    Et[197] = ["Crab Claw", "Crab claws can also be eaten", "Food: 10"];
+    Et[18] = ["Crab Spear", "Allow you to calm crabs, and heal them", "Damage: 14", "Building Damage: 4"];
+    Et[61] = ["Crab Helmet", "You are the king of crabs!", "Crabs follow you", "They can't hit you and you can't hit them", "Players Defense: 4", "Animals Defense: 13"];
+    Et[198] = ["Bed", "Relax in this confortable bed", "You are less cold, less thirsty, and less hungry", "You will be cured faster", "Durability: 400"];
     document.getElementById("typequest").innerHTML = "Chrono Quests";
     document.getElementById("timeremainingquest").innerHTML = "Time Remaining";
     document.getElementById("constraintquest").innerHTML = " Constraints";
@@ -7668,169 +7668,169 @@
       document.getElementById("claim_reward_" + a).innerHTML = "CLAIM REWARD!";
     }
     document.getElementById("quit_chronoquest").innerHTML = " QUIT";
-    Et[_r.ΔᐃΔΔΔ] = ["mão"];
-    Et[_r.ᐃᐃΔΔⵠ] = ["terra", "está sujo!"];
-    Et[_r.ⲆⲆΔⲆᐃ] = ["areia", "entrou nos meus olhos!"];
-    Et[_r.ⵠᐃⵠⵠ] = ["madeira", "você não pode pegar o suficiente disso!"];
-    Et[_r.ᐃΔⵠⲆ] = ["pedra", "também chamado rocha"];
-    Et[_r.ᐃⲆⵠᐃ] = ["ouro", "seja generoso, dê para outros"];
-    Et[_r.ᐃⲆΔⵠ] = ["diamante", "o que você irá fazer com isso?"];
-    Et[_r.Ⲇⵠⵠⵠ] = ["ametista", "é mauve como lapa"];
-    Et[_r.ᐃⵠᐃⵠᐃ] = ["farinha", "usada na cozinha"];
-    Et[_r.ⲆᐃᐃⵠΔ] = ["biscoito", "biscoito da vovó", "comida: 50"];
-    Et[_r.ⵠᐃⲆⲆᐃ] = ["bolo", "bolo dos sonhos para gourmets", "comida: 100"];
-    Et[_r.ⵠⵠᐃᐃⵠ] = ["carne crua", "você pode cozinhar na fogueira", "envenenamento por comida: 10", "comida: 15"];
-    Et[_r.ΔΔⵠⵠⲆ] = ["carne assada", "um mal passado, por favor", "comida: 35"];
-    Et[_r.ΔΔᐃⵠⲆ] = ["peixe cru", "eu acho que ainda está vivo", "causa envenenamento por comida: 10", "comida: 18"];
-    Et[_r.ⵠⲆΔⲆᐃ] = ["peixe assado", "com limão é perfeito", "comida: 35"];
-    Et[_r.ⲆⵠΔⲆΔ] = ["pão", "um excelente pão francês", "é a moeda do mercado", "comida: 15"];
-    Et[_r.ⲆⲆΔⵠⵠ] = ["sanduíche", "saboroso com rissol de krabby", "comida: 100"];
-    Et[_r.ⲆⵠⲆⲆΔ] = ["doces", "apenas para crianças!", "comida: 100"];
-    Et[_r.ᐃΔᐃⵠⵠ] = ["cana-de-açúcar", "prove, é delicioso!", "comida: 100"];
-    Et[_r.ⵠᐃΔⲆⲆ] = ["pisca-pisca", "decoração perfeita de telhado"];
-    Et[_r.ⵠᐃΔⲆᐃ] = ["sementes de berries", "cresce como berrie", "nasce em: 2min", "cresce em: 55s", "precisa de água em: 3min 20s", "durabilidade: 700", "tempo de vida: 8 dias"];
-    Et[_r.ⵠᐃⲆⲆⲆ] = ["berry", "Berry saborosa!", "comida: 10"];
-    Et[_r.ⲆΔᐃΔΔ] = ["semente de trigo", "cresce como trigo", "nasce em: 2min", "cresce em: 16s", "precisa de água em: 2min", "durabilidade: 700", "tempo de vida: 8 days"];
-    Et[_r.ⲆΔΔᐃⵠ] = ["planta selvagem", "vira farinha quando coloca em um moinho de vento"];
-    Et[_r.ᐃⵠᐃᐃⵠ] = ["semente de abóbora", "cresce como abóbora", "nasce em: 2min 40s", "cresce em: 2min", "precisa de água em: 2min", "durabilidade: 700", "tempo de vida: 8 dias"];
-    Et[_r.ⵠᐃⵠΔⵠ] = ["abóbora", "é a lembrança do halloween", "comida: 30"];
-    Et[_r.ⲆⲆΔⲆⵠ] = ["semente de alho", "muito perigoso para vampiros", "dano: 20", "nassce: 4min", "cresce em: 1min 10s", "precisa de água em: 1min 40s", "durabilidade: 700", "tempo de vida: 8 dias"];
-    Et[_r.ⲆᐃΔᐃΔ] = ["alho", "cura você e reduz o frio", "comida: 14", "cura ao longo do tempo: 30", "efeito: 1"];
-    Et[_r.ᐃⲆⲆᐃΔ] = ["semente de mato de espinhos", "pode dar dano nos seus inimigos", "dano: 20", "nasce em: 4min", "cresce em: 15s", "precisa de água em: 3min", "durabilidade: 1000", "tempo de vida: 8 days"];
-    Et[_r.ᐃⲆᐃᐃΔ] = ["mato de espinhos", "pica!"];
-    Et[_r.ΔΔΔⵠⵠ] = ["pote", "sério, use isso", "com esse GMO fertilize suas plantas", "vai crescer mais rápido e com menos água", "durabilidade: 2000"];
-    Et[_r.ᐃΔΔΔⲆ] = ["gelo", "útil para fazer bolo e água"];
-    Et[_r.ᐃⵠᐃΔⵠ] = ["chave inglesa", "para reparar portas, muros e muros com espinho", "dano: 2"];
-    Et[_r.ⲆⵠⵠΔᐃ] = ["pele de lobo", "cachorro? mas onde está o cachorro?!"];
-    Et[_r.ⵠⵠΔⵠΔ] = ["pele de coelho", "o coelho era tão fofo..."];
-    Et[_r.ᐃΔΔⲆΔ] = ["pele pura", "você é uma fábrica de pão"];
-    Et[_r.ⵠⲆΔᐃᐃ] = ["pele negra", "você está pronto para fazer algo errado"];
-    Et[_r.ⲆΔΔᐃᐃ] = ["pele de inverno", "ele só queria um abraço"];
-    Et[_r.ⵠᐃΔⲆⵠ] = ["escala", "é pequeno como peixe!"];
-    Et[_r.ΔᐃΔⲆᐃ] = ["pele do kraken", "você não está com medo?"];
-    Et[_r.ΔᐃᐃⲆⲆ] = ["fogueira", "esquenta você!", "durabilidade: 150", "tempo de vida: 2min"];
-    Et[_r.ᐃΔΔⵠΔ] = ["fogueira grande", "te esquenta por mais tempo!", "durabilidade: 400", "tempo de vida: 6min"];
-    Et[_r.ⵠⲆΔⵠᐃ] = ["mesa de trabalho", "muito útil para fazer todos os objetos"];
-    Et[_r.ᐃΔⵠᐃⲆ] = ["linha", "usada para fazer chapéus e mochila"];
-    Et[_r.ⲆⲆⲆᐃⵠ] = ["linha de diamante", "usada para fazer chapéus especiais"];
-    Et[_r.ᐃⲆⲆⲆⲆ] = ["baú", "permite que você guarde itens", "durabilidade: 500"];
-    Et[_r.ΔⵠᐃΔᐃ] = ["espada de madeira", "isso funciona?", "dano: 12", "dano em construções: 4"];
-    Et[_r.ᐃᐃⲆΔⲆ] = ["espada de pedra", "seja legal com outros", "dano: 19", "dano em construções: 6"];
-    Et[_r.ⵠΔΔΔΔ] = ["espada de ouro", "rei da floresta", "dano: 22", "dano em construções: 7"];
-    Et[_r.ᐃΔⲆᐃΔ] = ["espada de diamante", "você pode sentir o poder", "dano: 24", "dano em construções: 8"];
-    Et[_r.ⵠΔᐃᐃⵠ] = ["espada de pirata", "AYYYYY!", "alcança mais distância que a espada normal", "dano: 24", "dano em construções: 8"];
-    Et[_r.ΔⲆᐃⵠΔ] = ["espada de ametista", "mauve é a cor mais bonita do mundo", "dano: 27", "dano em construções: 9"];
-    Et[_r.ⵠᐃᐃΔⵠ] = ["espada do dragão", "sem piedade!", "dano: 30", "dano em construções: 10"];
-    Et[_r.ⲆⲆΔᐃᐃ] = ["lança do dragão", "mate todos eles!", "dano: 22", "dano em construções: 6"];
-    Et[_r.ⲆΔⲆⲆⵠ] = ["picareta de madeira", "pode coletar apenas madeira e pedra", "dano: 1"];
+    Et[7] = ["mão"];
+    Et[140] = ["terra", "está sujo!"];
+    Et[126] = ["areia", "entrou nos meus olhos!"];
+    Et[109] = ["madeira", "você não pode pegar o suficiente disso!"];
+    Et[108] = ["pedra", "também chamado rocha"];
+    Et[111] = ["ouro", "seja generoso, dê para outros"];
+    Et[112] = ["diamante", "o que você irá fazer com isso?"];
+    Et[121] = ["ametista", "é mauve como lapa"];
+    Et[131] = ["farinha", "usada na cozinha"];
+    Et[133] = ["biscoito", "biscoito da vovó", "comida: 50"];
+    Et[136] = ["bolo", "bolo dos sonhos para gourmets", "comida: 100"];
+    Et[116] = ["carne crua", "você pode cozinhar na fogueira", "envenenamento por comida: 10", "comida: 15"];
+    Et[117] = ["carne assada", "um mal passado, por favor", "comida: 35"];
+    Et[137] = ["peixe cru", "eu acho que ainda está vivo", "causa envenenamento por comida: 10", "comida: 18"];
+    Et[138] = ["peixe assado", "com limão é perfeito", "comida: 35"];
+    Et[143] = ["pão", "um excelente pão francês", "é a moeda do mercado", "comida: 15"];
+    Et[145] = ["sanduíche", "saboroso com rissol de krabby", "comida: 100"];
+    Et[200] = ["doces", "apenas para crianças!", "comida: 100"];
+    Et[199] = ["cana-de-açúcar", "prove, é delicioso!", "comida: 100"];
+    Et[201] = ["pisca-pisca", "decoração perfeita de telhado"];
+    Et[115] = ["sementes de berries", "cresce como berrie", "nasce em: 2min", "cresce em: 55s", "precisa de água em: 3min 20s", "durabilidade: 700", "tempo de vida: 8 dias"];
+    Et[110] = ["berry", "Berry saborosa!", "comida: 10"];
+    Et[132] = ["semente de trigo", "cresce como trigo", "nasce em: 2min", "cresce em: 16s", "precisa de água em: 2min", "durabilidade: 700", "tempo de vida: 8 days"];
+    Et[134] = ["planta selvagem", "vira farinha quando coloca em um moinho de vento"];
+    Et[188] = ["semente de abóbora", "cresce como abóbora", "nasce em: 2min 40s", "cresce em: 2min", "precisa de água em: 2min", "durabilidade: 700", "tempo de vida: 8 dias"];
+    Et[189] = ["abóbora", "é a lembrança do halloween", "comida: 30"];
+    Et[191] = ["semente de alho", "muito perigoso para vampiros", "dano: 20", "nassce: 4min", "cresce em: 1min 10s", "precisa de água em: 1min 40s", "durabilidade: 700", "tempo de vida: 8 dias"];
+    Et[192] = ["alho", "cura você e reduz o frio", "comida: 14", "cura ao longo do tempo: 30", "efeito: 1"];
+    Et[193] = ["semente de mato de espinhos", "pode dar dano nos seus inimigos", "dano: 20", "nasce em: 4min", "cresce em: 15s", "precisa de água em: 3min", "durabilidade: 1000", "tempo de vida: 8 days"];
+    Et[194] = ["mato de espinhos", "pica!"];
+    Et[141] = ["pote", "sério, use isso", "com esse GMO fertilize suas plantas", "vai crescer mais rápido e com menos água", "durabilidade: 2000"];
+    Et[142] = ["gelo", "útil para fazer bolo e água"];
+    Et[55] = ["chave inglesa", "para reparar portas, muros e muros com espinho", "dano: 2"];
+    Et[174] = ["pele de lobo", "cachorro? mas onde está o cachorro?!"];
+    Et[2] = ["pele de coelho", "o coelho era tão fofo..."];
+    Et[178] = ["pele pura", "você é uma fábrica de pão"];
+    Et[179] = ["pele negra", "você está pronto para fazer algo errado"];
+    Et[146] = ["pele de inverno", "ele só queria um abraço"];
+    Et[139] = ["escala", "é pequeno como peixe!"];
+    Et[129] = ["pele do kraken", "você não está com medo?"];
+    Et[113] = ["fogueira", "esquenta você!", "durabilidade: 150", "tempo de vida: 2min"];
+    Et[118] = ["fogueira grande", "te esquenta por mais tempo!", "durabilidade: 400", "tempo de vida: 6min"];
+    Et[114] = ["mesa de trabalho", "muito útil para fazer todos os objetos"];
+    Et[161] = ["linha", "usada para fazer chapéus e mochila"];
+    Et[147] = ["linha de diamante", "usada para fazer chapéus especiais"];
+    Et[167] = ["baú", "permite que você guarde itens", "durabilidade: 500"];
+    Et[57] = ["espada de madeira", "isso funciona?", "dano: 12", "dano em construções: 4"];
+    Et[0] = ["espada de pedra", "seja legal com outros", "dano: 19", "dano em construções: 6"];
+    Et[5] = ["espada de ouro", "rei da floresta", "dano: 22", "dano em construções: 7"];
+    Et[6] = ["espada de diamante", "você pode sentir o poder", "dano: 24", "dano em construções: 8"];
+    Et[9] = ["espada de pirata", "AYYYYY!", "alcança mais distância que a espada normal", "dano: 24", "dano em construções: 8"];
+    Et[30] = ["espada de ametista", "mauve é a cor mais bonita do mundo", "dano: 27", "dano em construções: 9"];
+    Et[62] = ["espada do dragão", "sem piedade!", "dano: 30", "dano em construções: 10"];
+    Et[16] = ["lança do dragão", "mate todos eles!", "dano: 22", "dano em construções: 6"];
+    Et[8] = ["picareta de madeira", "pode coletar apenas madeira e pedra", "dano: 1"];
     Et[_r.ⲆᐃΔⵠΔΔᐃⲆⲆ] = ["picareta de pedra", "pode coletar madeira, pedra e ouro", "dano: 2"];
-    Et[_r.ⵠᐃⲆΔΔ] = ["picareta de ouro", "pode coletar diamante", "dano: 3", "dano em construções: 1"];
-    Et[_r.ᐃⲆⵠΔⲆ] = ["picareta de diamante", "pode coletar tudo", "dano: 4", "dano em construções: 1"];
-    Et[_r.ΔⲆⲆⵠⲆ] = ["picareta de ametista", "pode coletar tudo, parece fantastico!", "dano: 5", "dano em construções: 1"];
-    Et[_r.ⲆᐃΔⲆΔ] = ["martelo de pedra", "útil para destruir construções", "não funciona bem no diamante e na ametista", "dano: 2", "dano em construções: 20"];
-    Et[_r.ⲆⲆⵠⲆⲆ] = ["martelo de ouro", "útil para destruir construções", "não funciona bem na ametista", "dano: 3", "dano em construções: 30"];
-    Et[_r.ⵠΔΔΔⵠ] = ["martelo de diamante", "útil para destruir construções", "dano: 4", "dano em construções: 40"];
-    Et[_r.ᐃⵠⵠⵠᐃ] = ["martelo de ametista", "útil para destruir construções", "dano: 5", "dano em construções: 50"];
-    Et[_r.ⵠⵠᐃᐃⲆ] = ["super martelo", "você planeja destruir o mundo?", "dano: 12", "dano em construções: 70"];
-    Et[_r.ᐃᐃΔⲆⲆ] = ["lança de madeira", "parece um graveto de madeira mas pica.", "dano: 10", "dano em construções: 2"];
-    Et[_r.ⵠΔᐃⵠᐃ] = ["lança de pedra", "o começo da evolução!", "dano: 14", "dano em construções: 4"];
-    Et[_r.ⵠᐃᐃⵠΔ] = ["lança de ouro", "cuidado, pica!", "dano: 15", "dano em construções: 5"];
-    Et[_r.ᐃᐃᐃᐃⲆ] = ["lança de diamante", "você está pronto para matar um dragão", "Dano: 17", "dano em construções: 5"];
-    Et[_r.ᐃΔⵠⲆᐃ] = ["lança de ametista", "dragões não te amedrontam", "Dano: 18", "dano em construções: 6"];
-    Et[_r.ᐃΔΔΔΔ] = ["pá de pedral", "cave o chão para pegar terra, areia e gelo", "você também pode pegar minerais", "dano: 2"];
-    Et[_r.ⲆΔΔⵠⵠ] = ["pá de ouro", "cave o chão para pegar terra, areia e gelo", "você também pode pegar minerais", "dano: 3", "dano em construções: 1"];
-    Et[_r.ⵠᐃⵠᐃΔ] = ["pá de diamante", "cave o chão para pegar terra, areia e gelo", "você também pode pegar minerais", "dano: 4", "dano em construções: 1"];
-    Et[_r.ⵠᐃⲆⲆⵠ] = ["pá de ametista", "cave o chão para pegar terra, areia e gelo", "você também pode pegar minerais", "dano: 5", "dano em construções: 1"];
-    Et[_r.ᐃᐃⲆⵠⵠ] = ["capacete de madeira", "melhor que nada", "defesa de jogadores: 1", "defesa de animais: 4"];
-    Et[_r.Δᐃᐃⵠᐃ] = ["capacete de pedra", "você está pronto para a batalha!", "defesa de jogadores: 2", "Animals Defense: 8"];
-    Et[_r.ΔᐃΔⲆⲆ] = ["capacete de ouro", "AKA o capacete dos selvagens", "defesa de jogadores: 4", "defesa de animais: 13"];
-    Et[_r.ᐃⲆⲆⵠᐃ] = ["capacete de diamante", "não se precipite tanto", "defesa de jogadores: 5", "defesa de animais: 19"];
-    Et[_r.ⵠⲆⲆⵠⵠ] = ["capacete de ametista", "você não tem medo de mais nada", "defesa de jogadores: 6", "defesa de animais: 23"];
-    Et[_r.ᐃⵠΔᐃΔ] = ["capacete do dragão", "você vai conquistar o mundo", "defesa de jogadores: 8", "defesa de animais: 27"];
-    Et[_r.ⲆᐃᐃΔᐃ] = ["chapéu de explorador", "animais não vão te atacar", "mas não faça barulho!", "quente fora da água"];
-    Et[_r.ᐃᐃⵠⲆⲆ] = ["gorro de natal", "Oh, oh, oh, feliz natal", "quente fora da água e neve"];
-    Et[_r.ΔⲆΔⲆⲆ] = ["chapéu de elfo", "não deixe-se ser explorado, seu pequeno elfo de neve!", "quente fora da água e neve"];
-    Et[_r.ⲆΔⵠⵠᐃ] = ["capuz", "você é um trapaceiro", "você pode roubar alguém apenas se", "1) é de noite", "2)você não está segurando nada", "3) se você n foi tocado por 5 segundos", "4) você não está perto de uma fogueira", "5) seu alvo não está com equipamento camponês", "quente fora da água e na neve"];
-    Et[_r.ᐃⲆᐃⲆᐃ] = ["protetor de orelhas", "algum tipo de chapka pequena.", "quente fora da água e neve"];
-    Et[_r.ᐃⵠⵠⵠΔ] = ["Chapka", "também chamado de casaco.", "esquenta fora da água e na neve", "muito quente"];
-    Et[_r.ᐃⲆⲆΔΔ] = ["Chapéu de inverno", "Muito confortável", "Muito quente"];
-    Et[_r.ΔᐃⲆⵠⵠ] = ["túnica", "suas plantas crescem rápido", "quente fora da água e na neve"];
-    Et[_r.ΔΔᐃⲆΔ] = ["capuz de inferno", "você só pode roubar alguém se", "é de noite", "-você não está segurando nada", "- se você não foi tocado por 4 segundos", "- você não está perto de uma fogueira", "-seu alvo não está com equipamento de camponês de inverno", "esquenta fora da água e na neve"];
-    Et[_r.ΔᐃⵠⲆΔ] = ["camponês de inverno", "suas plantas crescem rápido", "quente fora da água e na neve"];
-    Et[_r.ᐃⲆⵠⲆⲆ] = ["máscara de mergulho", "você é rápido na água", "quente na água", "defesa de jogadores: 2, defesa de animais: 8"];
-    Et[_r.ᐃⵠⵠⲆΔ] = ["super máscara de mergulho", "você é muito rápido na água", "quente na água", "defesa de jogadores: 4, defesa de animais: 16"];
-    Et[_r.ᐃⲆΔᐃᐃ] = ["esfera do dragão", "dado na questt"];
-    Et[_r.ⵠⵠⲆⵠⲆ] = ["coração de dragão", "torna você num fantasmas na morte!", "você é um fantasma por 60 segundos", "ache uma pedra da ressurreição"];
-    Et[_r.ΔᐃΔᐃⵠ] = ["pedra verde", "você não vai trapacear, promete?"];
-    Et[_r.ⵠⲆⲆΔᐃ] = ["pedra laranja", "apenas um pirata de verdade pode achar-lo!"];
-    Et[_r.ΔΔⲆⲆᐃ] = ["pedra azul", "para pessoas muito gentis"];
-    Et[_r.ᐃⲆΔⵠⵠ] = ["coroa verde", "você se regenera muito rápido", "regenera ao longo do tempo: 40", "defesa de jogadores: 4, defesa de animais: 16"];
-    Et[_r.ⵠᐃⵠⵠΔ] = ["coroa laranja", "de repente você se sente muito sortudo", "defesa de jogadores: 4, defesa de animais: 16"];
-    Et[_r.ⲆⲆᐃᐃΔ] = ["coroa azul", "quando você morrer, você vira um fantasma", "você perderá sua arma", "defesa de jogadores: 4, defesa de animais: 16"];
-    Et[_r.ΔΔᐃΔΔ] = ["balde", "útil para encher um poço", "um balde equivale a doze garrafas"];
-    Et[_r.ⲆΔⵠΔᐃ] = ["balde vazio", "você precisa encher esse balde perto de uma fonte de água"];
-    Et[_r.ΔᐃᐃⵠΔ] = ["garrafa", "permite que você beba água em qualquer lugar", "água: 50"];
-    Et[_r.ᐃⲆⵠΔᐃ] = ["garrafa vazia", "você pode encher essa garrafa perto de uma fonte de água"];
-    Et[_r.ⲆΔᐃΔⲆ] = ["regador vazio", "você deve enche-lo com uma fonte de água para usa-lo"];
-    Et[_r.ᐃᐃΔⵠΔ] = ["regador", "permite regar as plantas", "dano: 1"];
-    Et[_r.ⵠⲆᐃᐃ] = ["mochila", "mais espaço para seus itens!"];
-    Et[_r.ⵠΔΔΔⲆ] = ["papel", "usado para fazer o livro"];
-    Et[_r.ᐃⵠΔΔⲆ] = ["livro", "permite reduzir consideradamente o tempo de construções", "mas precisa está equipado para fucionar", "dano: 1"];
-    Et[_r.ᐃΔᐃⲆᐃ] = ["bandagem", "recupera sua vida mais rapidamente", "Heal over time: 30", "Effect: 5"];
-    Et[_r.ⵠⵠⲆⵠᐃ] = ["fechadura", "permite você trancar seu baú"];
-    Et[_r.ᐃⵠᐃⲆⵠ] = ["chave", "permite destrancar um baú"];
-    Et[_r.ⲆⵠᐃᐃΔ] = ["Totem", "permite você criar um time", "compartilha portas e baús", "edifício prejudicial não quer machucar seu amigo"];
-    Et[_r.ⲆᐃⲆᐃⵠ] = ["ponte", "muito útil na água", "permite você beber sem se afogar", "anda rápido na água"];
-    Et[_r.ⵠΔᐃᐃᐃ] = ["placa", "deixe uma mensagem para outros", "durabilidade: 200"];
-    Et[_r.ⲆᐃⵠΔΔ] = ["telhado", "esconde você um pouco e te esquenta!"];
-    Et[_r.ⲆⵠⲆⵠⵠ] = ["poço", "permite encher garrafas", "durabilidade: 1000"];
-    Et[_r.ⲆⲆⲆⲆⵠ] = ["muro de madeira", "você sabia que o muro dança?", "durabilidade: 1000"];
-    Et[_r.ΔᐃⵠⲆⲆ] = ["muro de pedra", "é um pocu mais sério.", "durabilidade: 1500"];
-    Et[_r.ᐃᐃᐃᐃᐃ] = ["muro de ouro", "ouro nos seus muros? é muito chamativo.", "durabilidade: 2000"];
-    Et[_r.ⵠᐃⲆᐃⵠ] = ["muro de diamante", "tão brilhoso, veja seus olhos", "durabilidade: 2500"];
-    Et[_r.ᐃΔⵠⵠΔ] = ["muro de ametista", "você está muito assustado de sair!", "durabilidade: 3000"];
-    Et[_r.ⵠⵠΔⵠⲆ] = ["espiga de madeira", "pode dar dano nos seus inimigos", "dano: 10, dano no acerto: 2", "durabilidade: 150"];
-    Et[_r.ⲆᐃⲆΔΔ] = ["espiga de pedra", "eu não quero ser seu inimigo.", "dano: 20", "dano no acerto: 3", "durabilidade: 300"];
-    Et[_r.Ⲇᐃⵠᐃⵠ] = ["espiga de ouro", "você é tão cruel.", "dano: 30", "dano no acerto: 3", "durabilidade: 600"];
-    Et[_r.ⲆⵠᐃΔΔ] = ["espiga de diamante", "você não gosta de ter companhia.", "dano: 40", "dano no acerto: 4", "durabilidade: 1200"];
-    Et[_r.ᐃⲆⵠᐃᐃ] = ["espiga de ametista", "o que diabos seu vizinhos fizeram para você?", "dano: 50", "dano no acerto: 4", "durabilidade: 2400"];
-    Et[_r.ΔⵠⵠⲆᐃ] = ["porta de madeira", "pode ser aberta ou fechada por você ou seus amigos", "durabilidade: 1000"];
-    Et[_r.ⵠΔᐃⲆΔ] = ["porta de pedra", "uma porta mais forte é mais sério", "durabilidade: 1500"];
-    Et[_r.ᐃΔⵠⵠⵠ] = ["porta de ouro", "você está re-construindo o el dorado?", "durabilidade: 2000"];
-    Et[_r.ⵠΔᐃΔΔ] = ["porta de diamante", "para uma casa brilhante", "durabilidade: 2500"];
-    Et[_r.Δⵠᐃⵠᐃ] = ["porta de ametista", "é a sua casa um lugar trancado seguro?", "durabilidade: 3500"];
-    Et[_r.ⲆᐃΔᐃⵠ] = ["fornalha", "esquenta você", "consumi madeira em todo 5 segundos", "durabilidade: 1000"];
-    Et[_r.ⵠΔⲆⲆΔ] = ["moinho de vento", "pode produzir farinha do trigo", "demora 5 segundos para fazer farinha", "dá pontos ao trabalhar", "durabilidade: 2000"];
-    Et[_r.Δᐃᐃᐃᐃ] = ["forno de pão", "permite fazer pão feito de farinha", "demora 10 segundos para fazer pão", "dá pontos ao trabalhar", "durabilidade: 2000"];
-    Et[_r.ⲆⲆⵠⵠᐃ] = ["pedra da ressurreição", "é mágico", "te ressuscita se você for um fantasmas", "você vai perder sua arma", "durabilidade 200: 200"];
-    Et[ΔΔᐃ.ⵠⵠΔⵠΔⲆᐃ] = "você não pode entrar no servidor";
-    Et[ΔΔᐃ.ⵠⵠᐃⲆⲆᐃⲆ] = "kickado: ";
-    Et[ΔΔᐃ.ⵠᐃΔⲆⲆⲆⲆ] = "sua chave está em uso por outra pessoa";
-    Et[ΔΔᐃ.ⲆᐃΔⲆⲆᐃⲆ] = "sua chave está errada";
-    Et[ΔΔᐃ.ⵠᐃᐃⲆᐃᐃᐃ] = "você tem uma versão velha, limpe seu cache";
-    Et[ΔΔᐃ.ΔⲆᐃΔΔΔⵠ] = "não tem mais recursos";
-    Et[ΔΔᐃ.ⲆΔⲆᐃᐃⵠᐃ] = "você sobreviveu 1 dia";
-    Et[ΔΔᐃ.ⵠΔᐃΔᐃⵠΔ] = "você sobreviveu ";
-    Et[ΔΔᐃ.ᐃⵠⲆⲆᐃΔⵠ] = " dias";
-    Et[ΔΔᐃ.ⲆᐃΔⲆᐃᐃᐃ] = "você está morto ;-;";
-    Et[ΔΔᐃ.ⲆΔΔⵠᐃⲆΔ] = "servidor não pôde achar um local de spawn! spam o botão de play!";
-    Et[ΔΔᐃ.ⵠⵠⲆᐃᐃΔΔ] = "servidor está cheio! spam o botão de play!";
-    Et[ΔΔᐃ.EMPTY] = "não tem recursos";
-    Et[ΔΔᐃ.ⵠⲆᐃⲆⵠᐃⵠ] = "inventário está cheio (botão direito para deletar itens)";
-    Et[ΔΔᐃ.ⲆᐃᐃⲆᐃᐃⲆ] = " está morto";
-    Et[ΔΔᐃ.ⲆᐃⲆⵠⲆᐃⲆ] = "essa não é a ferramenta certa";
-    Et[ΔΔᐃ.ΔⵠⵠⲆᐃᐃⵠ] = "você entrou no time";
-    Et[ΔΔᐃ.ᐃⵠᐃᐃᐃⲆΔ] = "você está morto";
-    Et[ΔΔᐃ.ⲆᐃⵠΔᐃᐃⲆ] = "entrou no time";
-    Et[ΔΔᐃ.ⲆΔΔΔⵠⲆᐃ] = "seu time foi destruido";
-    Et[ΔΔᐃ.ⵠⲆⲆΔᐃᐃΔ] = "você saiu do time";
-    Et[ΔΔᐃ.ᐃⵠⲆᐃᐃᐃᐃ] = " saiu do time";
-    Et[ΔΔᐃ.ΔᐃⵠΔⵠ] = "alguém roubou sua ficha :>";
-    Et[ΔΔᐃ.ᐃⵠⵠⲆᐃᐃΔ] = "escolha um servidor";
-    Et[ΔΔᐃ.ᐃᐃⲆⲆⲆ] = "jogadores";
-    Et[ΔΔᐃ.ⵠᐃΔⲆᐃⲆᐃ] = "jogadores totais";
-    Et[ΔΔᐃ.ᐃᐃⵠⵠⵠᐃΔ] = "jogadores nesse modo";
-    Et[ΔΔᐃ.ⲆⲆⵠᐃⵠⵠⵠ] = "Coming soon...";
+    Et[3] = ["picareta de ouro", "pode coletar diamante", "dano: 3", "dano em construções: 1"];
+    Et[4] = ["picareta de diamante", "pode coletar tudo", "dano: 4", "dano em construções: 1"];
+    Et[31] = ["picareta de ametista", "pode coletar tudo, parece fantastico!", "dano: 5", "dano em construções: 1"];
+    Et[35] = ["martelo de pedra", "útil para destruir construções", "não funciona bem no diamante e na ametista", "dano: 2", "dano em construções: 20"];
+    Et[36] = ["martelo de ouro", "útil para destruir construções", "não funciona bem na ametista", "dano: 3", "dano em construções: 30"];
+    Et[37] = ["martelo de diamante", "útil para destruir construções", "dano: 4", "dano em construções: 40"];
+    Et[38] = ["martelo de ametista", "útil para destruir construções", "dano: 5", "dano em construções: 50"];
+    Et[45] = ["super martelo", "você planeja destruir o mundo?", "dano: 12", "dano em construções: 70"];
+    Et[12] = ["lança de madeira", "parece um graveto de madeira mas pica.", "dano: 10", "dano em construções: 2"];
+    Et[13] = ["lança de pedra", "o começo da evolução!", "dano: 14", "dano em construções: 4"];
+    Et[14] = ["lança de ouro", "cuidado, pica!", "dano: 15", "dano em construções: 5"];
+    Et[15] = ["lança de diamante", "você está pronto para matar um dragão", "Dano: 17", "dano em construções: 5"];
+    Et[33] = ["lança de ametista", "dragões não te amedrontam", "Dano: 18", "dano em construções: 6"];
+    Et[46] = ["pá de pedral", "cave o chão para pegar terra, areia e gelo", "você também pode pegar minerais", "dano: 2"];
+    Et[50] = ["pá de ouro", "cave o chão para pegar terra, areia e gelo", "você também pode pegar minerais", "dano: 3", "dano em construções: 1"];
+    Et[51] = ["pá de diamante", "cave o chão para pegar terra, areia e gelo", "você também pode pegar minerais", "dano: 4", "dano em construções: 1"];
+    Et[52] = ["pá de ametista", "cave o chão para pegar terra, areia e gelo", "você também pode pegar minerais", "dano: 5", "dano em construções: 1"];
+    Et[58] = ["capacete de madeira", "melhor que nada", "defesa de jogadores: 1", "defesa de animais: 4"];
+    Et[25] = ["capacete de pedra", "você está pronto para a batalha!", "defesa de jogadores: 2", "Animals Defense: 8"];
+    Et[26] = ["capacete de ouro", "AKA o capacete dos selvagens", "defesa de jogadores: 4", "defesa de animais: 13"];
+    Et[27] = ["capacete de diamante", "não se precipite tanto", "defesa de jogadores: 5", "defesa de animais: 19"];
+    Et[43] = ["capacete de ametista", "você não tem medo de mais nada", "defesa de jogadores: 6", "defesa de animais: 23"];
+    Et[59] = ["capacete do dragão", "você vai conquistar o mundo", "defesa de jogadores: 8", "defesa de animais: 27"];
+    Et[23] = ["chapéu de explorador", "animais não vão te atacar", "mas não faça barulho!", "quente fora da água"];
+    Et[41] = ["gorro de natal", "Oh, oh, oh, feliz natal", "quente fora da água e neve"];
+    Et[42] = ["chapéu de elfo", "não deixe-se ser explorado, seu pequeno elfo de neve!", "quente fora da água e neve"];
+    Et[83] = ["capuz", "você é um trapaceiro", "você pode roubar alguém apenas se", "1) é de noite", "2)você não está segurando nada", "3) se você n foi tocado por 5 segundos", "4) você não está perto de uma fogueira", "5) seu alvo não está com equipamento camponês", "quente fora da água e na neve"];
+    Et[10] = ["protetor de orelhas", "algum tipo de chapka pequena.", "quente fora da água e neve"];
+    Et[11] = ["Chapka", "também chamado de casaco.", "esquenta fora da água e na neve", "muito quente"];
+    Et[40] = ["Chapéu de inverno", "Muito confortável", "Muito quente"];
+    Et[84] = ["túnica", "suas plantas crescem rápido", "quente fora da água e na neve"];
+    Et[85] = ["capuz de inferno", "você só pode roubar alguém se", "é de noite", "-você não está segurando nada", "- se você não foi tocado por 4 segundos", "- você não está perto de uma fogueira", "-seu alvo não está com equipamento de camponês de inverno", "esquenta fora da água e na neve"];
+    Et[86] = ["camponês de inverno", "suas plantas crescem rápido", "quente fora da água e na neve"];
+    Et[48] = ["máscara de mergulho", "você é rápido na água", "quente na água", "defesa de jogadores: 2, defesa de animais: 8"];
+    Et[47] = ["super máscara de mergulho", "você é muito rápido na água", "quente na água", "defesa de jogadores: 4, defesa de animais: 16"];
+    Et[185] = ["esfera do dragão", "dado na questt"];
+    Et[149] = ["coração de dragão", "torna você num fantasmas na morte!", "você é um fantasma por 60 segundos", "ache uma pedra da ressurreição"];
+    Et[175] = ["pedra verde", "você não vai trapacear, promete?"];
+    Et[176] = ["pedra laranja", "apenas um pirata de verdade pode achar-lo!"];
+    Et[177] = ["pedra azul", "para pessoas muito gentis"];
+    Et[77] = ["coroa verde", "você se regenera muito rápido", "regenera ao longo do tempo: 40", "defesa de jogadores: 4, defesa de animais: 16"];
+    Et[78] = ["coroa laranja", "de repente você se sente muito sortudo", "defesa de jogadores: 4, defesa de animais: 16"];
+    Et[79] = ["coroa azul", "quando você morrer, você vira um fantasma", "você perderá sua arma", "defesa de jogadores: 4, defesa de animais: 16"];
+    Et[180] = ["balde", "útil para encher um poço", "um balde equivale a doze garrafas"];
+    Et[181] = ["balde vazio", "você precisa encher esse balde perto de uma fonte de água"];
+    Et[127] = ["garrafa", "permite que você beba água em qualquer lugar", "água: 50"];
+    Et[128] = ["garrafa vazia", "você pode encher essa garrafa perto de uma fonte de água"];
+    Et[130] = ["regador vazio", "você deve enche-lo com uma fonte de água para usa-lo"];
+    Et[49] = ["regador", "permite regar as plantas", "dano: 1"];
+    Et[29] = ["mochila", "mais espaço para seus itens!"];
+    Et[120] = ["papel", "usado para fazer o livro"];
+    Et[28] = ["livro", "permite reduzir consideradamente o tempo de construções", "mas precisa está equipado para fucionar", "dano: 1"];
+    Et[195] = ["bandagem", "recupera sua vida mais rapidamente", "Heal over time: 30", "Effect: 5"];
+    Et[148] = ["fechadura", "permite você trancar seu baú"];
+    Et[158] = ["chave", "permite destrancar um baú"];
+    Et[159] = ["Totem", "permite você criar um time", "compartilha portas e baús", "edifício prejudicial não quer machucar seu amigo"];
+    Et[125] = ["ponte", "muito útil na água", "permite você beber sem se afogar", "anda rápido na água"];
+    Et[183] = ["placa", "deixe uma mensagem para outros", "durabilidade: 200"];
+    Et[190] = ["telhado", "esconde você um pouco e te esquenta!"];
+    Et[182] = ["poço", "permite encher garrafas", "durabilidade: 1000"];
+    Et[162] = ["muro de madeira", "você sabia que o muro dança?", "durabilidade: 1000"];
+    Et[163] = ["muro de pedra", "é um pocu mais sério.", "durabilidade: 1500"];
+    Et[164] = ["muro de ouro", "ouro nos seus muros? é muito chamativo.", "durabilidade: 2000"];
+    Et[165] = ["muro de diamante", "tão brilhoso, veja seus olhos", "durabilidade: 2500"];
+    Et[122] = ["muro de ametista", "você está muito assustado de sair!", "durabilidade: 3000"];
+    Et[160] = ["espiga de madeira", "pode dar dano nos seus inimigos", "dano: 10, dano no acerto: 2", "durabilidade: 150"];
+    Et[168] = ["espiga de pedra", "eu não quero ser seu inimigo.", "dano: 20", "dano no acerto: 3", "durabilidade: 300"];
+    Et[169] = ["espiga de ouro", "você é tão cruel.", "dano: 30", "dano no acerto: 3", "durabilidade: 600"];
+    Et[170] = ["espiga de diamante", "você não gosta de ter companhia.", "dano: 40", "dano no acerto: 4", "durabilidade: 1200"];
+    Et[123] = ["espiga de ametista", "o que diabos seu vizinhos fizeram para você?", "dano: 50", "dano no acerto: 4", "durabilidade: 2400"];
+    Et[166] = ["porta de madeira", "pode ser aberta ou fechada por você ou seus amigos", "durabilidade: 1000"];
+    Et[171] = ["porta de pedra", "uma porta mais forte é mais sério", "durabilidade: 1500"];
+    Et[172] = ["porta de ouro", "você está re-construindo o el dorado?", "durabilidade: 2000"];
+    Et[173] = ["porta de diamante", "para uma casa brilhante", "durabilidade: 2500"];
+    Et[124] = ["porta de ametista", "é a sua casa um lugar trancado seguro?", "durabilidade: 3500"];
+    Et[119] = ["fornalha", "esquenta você", "consumi madeira em todo 5 segundos", "durabilidade: 1000"];
+    Et[135] = ["moinho de vento", "pode produzir farinha do trigo", "demora 5 segundos para fazer farinha", "dá pontos ao trabalhar", "durabilidade: 2000"];
+    Et[144] = ["forno de pão", "permite fazer pão feito de farinha", "demora 10 segundos para fazer pão", "dá pontos ao trabalhar", "durabilidade: 2000"];
+    Et[151] = ["pedra da ressurreição", "é mágico", "te ressuscita se você for um fantasmas", "você vai perder sua arma", "durabilidade 200: 200"];
+    Et[300] = "você não pode entrar no servidor";
+    Et[301] = "kickado: ";
+    Et[302] = "sua chave está em uso por outra pessoa";
+    Et[303] = "sua chave está errada";
+    Et[304] = "você tem uma versão velha, limpe seu cache";
+    Et[305] = "não tem mais recursos";
+    Et[306] = "você sobreviveu 1 dia";
+    Et[307] = "você sobreviveu ";
+    Et[308] = " dias";
+    Et[309] = "você está morto ;-;";
+    Et[310] = "servidor não pôde achar um local de spawn! spam o botão de play!";
+    Et[311] = "servidor está cheio! spam o botão de play!";
+    Et[312] = "não tem recursos";
+    Et[313] = "inventário está cheio (botão direito para deletar itens)";
+    Et[314] = " está morto";
+    Et[315] = "essa não é a ferramenta certa";
+    Et[316] = "você entrou no time";
+    Et[317] = "você está morto";
+    Et[318] = "entrou no time";
+    Et[319] = "seu time foi destruido";
+    Et[320] = "você saiu do time";
+    Et[321] = " saiu do time";
+    Et[322] = "alguém roubou sua ficha :>";
+    Et[323] = "escolha um servidor";
+    Et[324] = "jogadores";
+    Et[325] = "jogadores totais";
+    Et[326] = "jogadores nesse modo";
+    Et[327] = "Coming soon...";
     document.getElementById("nickname_input").placeholder = "Apelido";
     Gt[wj] = ["você morreu sem motivo"];
     Gt[1] = ["você morreu de fome, como o jogo diz"];
@@ -7876,23 +7876,23 @@
   }
   const pt = kg;
   function qt() {
-    Et[_r.ⵠᐃΔⵠΔ] = ["You feel a great power emanating from this orb"];
+    Et[184] = ["You feel a great power emanating from this orb"];
     Gt[22] = ["This crab, though frightening in nature, pinched your fingertips so hard that you had a heart attack."];
-    Et[_r.ⲆⵠᐃΔᐃ] = ["Crab sticks", "Oh, yeah? Is there crab in the crab sticks?", "Food: 20"];
-    Et[ΔΔᐃ.ⲆΔⵠⵠⲆⲆΔ] = " BACK TO THE GAME";
-    Et[ΔΔᐃ.ⵠⲆⵠⵠⵠᐃⲆ] = " Share on Twitter";
-    Et[ΔΔᐃ.ⵠᐃᐃⲆΔᐃᐃ] = " Share on Facebook";
-    Et[ΔΔᐃ.ΔΔⲆⲆⵠⲆΔ] = "You can buy items on the shop in the next game with your points";
-    Et[ΔΔᐃ.POINTS] = "points";
-    Et[ΔΔᐃ.ⵠΔΔᐃᐃⲆⲆ] = "Score";
-    Et[ΔΔᐃ.ⲆⵠⲆΔⲆⲆᐃ] = "Kill";
-    Et[ΔΔᐃ.ⵠⲆΔⵠΔⵠⲆ] = "Days survived";
-    Et[ΔΔᐃ.ⵠⲆΔᐃⵠΔⲆ] = "Building method: Free. Press G to change";
-    Et[ΔΔᐃ.ⵠⲆᐃᐃᐃΔⵠ] = "Building method: Grid. Press G to change";
-    Et[_r.ⵠⲆⵠᐃᐃ] = ["Crab Claw", "Crab claws can also be eaten", "Food: 10"];
-    Et[_r.Ⲇᐃᐃᐃᐃ] = ["Crab Spear", "Allow you to calm crabs, and heal them", "Damage: 14", "Building Damage: 4"];
-    Et[_r.ⲆⲆΔΔⵠ] = ["Crab Helmet", "You are the king of crabs!", "Crabs follow you", "They can't hit you and you can't hit them", "Players Defense: 4", "Animals Defense: 13"];
-    Et[_r.ΔⲆⵠΔΔ] = ["Bed", "Relax in this confortable bed", "You are less cold, less thirsty, and less hungry", "You will be cured faster", "Durability: 400"];
+    Et[196] = ["Crab sticks", "Oh, yeah? Is there crab in the crab sticks?", "Food: 20"];
+    Et[328] = " BACK TO THE GAME";
+    Et[329] = " Share on Twitter";
+    Et[330] = " Share on Facebook";
+    Et[331] = "You can buy items on the shop in the next game with your points";
+    Et[332] = "points";
+    Et[333] = "Score";
+    Et[334] = "Kill";
+    Et[335] = "Days survived";
+    Et[336] = "Building method: Free. Press G to change";
+    Et[337] = "Building method: Grid. Press G to change";
+    Et[197] = ["Crab Claw", "Crab claws can also be eaten", "Food: 10"];
+    Et[18] = ["Crab Spear", "Allow you to calm crabs, and heal them", "Damage: 14", "Building Damage: 4"];
+    Et[61] = ["Crab Helmet", "You are the king of crabs!", "Crabs follow you", "They can't hit you and you can't hit them", "Players Defense: 4", "Animals Defense: 13"];
+    Et[198] = ["Bed", "Relax in this confortable bed", "You are less cold, less thirsty, and less hungry", "You will be cured faster", "Durability: 400"];
     document.getElementById("typequest").innerHTML = "Chrono Quests";
     document.getElementById("timeremainingquest").innerHTML = "Time Remaining";
     document.getElementById("constraintquest").innerHTML = " Constraints";
@@ -7909,169 +7909,169 @@
       document.getElementById("claim_reward_" + a).innerHTML = "CLAIM REWARD!";
     }
     document.getElementById("quit_chronoquest").innerHTML = " QUIT";
-    Et[_r.ΔᐃΔΔΔ] = ["Mano"];
-    Et[_r.ᐃᐃΔΔⵠ] = ["Tierra", "¡Tan limpia como mis manos!"];
-    Et[_r.ⲆⲆΔⲆᐃ] = ["Arena", "¡Tengo arena en mis ojos!"];
-    Et[_r.ⵠᐃⵠⵠ] = ["Madera", "¡Nunca hay suficiente!"];
-    Et[_r.ᐃΔⵠⲆ] = ["Piedra", "También llamada roca."];
-    Et[_r.ᐃⲆⵠᐃ] = ["Oro", "Sé generoso, compártelo con los otros"];
-    Et[_r.ᐃⲆΔⵠ] = ["Diamante", "¿Que vas a hacer con él?"];
-    Et[_r.Ⲇⵠⵠⵠ] = ["Amatista", "Es Mauve como Lapa"];
-    Et[_r.ᐃⵠᐃⵠᐃ] = ["Harina", "Usada para cocinar."];
-    Et[_r.ⲆᐃᐃⵠΔ] = ["Galleta", "Una galleta de la abuelita", "Comida: 50"];
-    Et[_r.ⵠᐃⲆⲆᐃ] = ["Tarta", "¡Cumpleaños Feliz!", "Comida: 100"];
-    Et[_r.ⵠⵠᐃᐃⵠ] = ["Carne Cruda", "Se cocina con fuego", "Causa veneno. 10", "Comida: 15"];
-    Et[_r.ΔΔⵠⵠⲆ] = ["Carne Cocinada", "es la supervivencia del más fuerte :'(", "Comida: 35"];
-    Et[_r.ΔΔᐃⵠⲆ] = ["Pescado Crudo", "Creo que sigue vivo", "Causa veneno de comida: 10", "Comida: 18"];
-    Et[_r.ⵠⲆΔⲆᐃ] = ["Pescado Cocinado", "Con limón sería perfecto", "Comida: 35"];
-    Et[_r.ⲆⵠΔⲆΔ] = ["Pan", "¡Caliente, desde Francia!", "Es dinero usado en la tienda", "Comida: 15"];
-    Et[_r.ⲆⲆΔⵠⵠ] = ["Bocadillo", "Sabe como un Krabby Patty", "Comida: 100"];
-    Et[_r.ⲆⵠⲆⲆΔ] = ["Caramelos", "¡Solo para niños/as!", "Comida: 100"];
-    Et[_r.ᐃΔᐃⵠⵠ] = ["Caña de Azúcar", "Pruébala, es deliciosa", "Comida: 100"];
-    Et[_r.ⵠᐃΔⲆⲆ] = ["Guirnalda", "Perfecta para decorar el techo"];
-    Et[_r.ⵠᐃΔⲆᐃ] = ["Semillas de Bayas", "Se convierte en bayas", "Nacimiento: 2 Minutos", "Crecimiento: 55 Segundos", "Necesita agua: 3 Minutos 20 Segundos", "Durabilidad: 700", "Tiempo de vida: 8 Días"];
-    Et[_r.ⵠᐃⲆⲆⲆ] = ["Baya", "No es venenosa.", "Comida: 10"];
-    Et[_r.ⲆΔᐃΔΔ] = ["Semilla de Trigo", "Se convierte en Trigo ", "Nacimiento: 2 Minutos", "Crecimiento: 16 Segundos", "Necesita agua: 2 Minutos", "Durabilidad: 700", "Tiempo de vida: 8 Días"];
-    Et[_r.ⲆΔΔᐃⵠ] = ["Trigo Silvestre", "Se convierte en harina cuando se coloca en un molino"];
-    Et[_r.ᐃⵠᐃᐃⵠ] = ["Semilla de Calabaza", "Crece a Calabazas", "Nacimiento: 2 Minutos 40 Segundos", "Crecimiento: 2 Minutos", "Necesita agua: 2 Minutos", "Durabilidad: 700", "Tiempo de vida: 8 Días"];
-    Et[_r.ⵠᐃⵠΔⵠ] = ["Calabaza", "Me recuerda a Halloween", "Comida: 30"];
-    Et[_r.ⲆⲆΔⲆⵠ] = ["Semilla de Ajo", "Muy peligroso para vampiros", "Daño: 20", "Nacimiento: 4 Minutos", "Crecimiento: 1 Minutos 10 Segundos", "Necesita Agua: 1 Minutos 40 Segundos", "Durabilidad: 700", "Tiempo de Vida: 8 Días"];
-    Et[_r.ⲆᐃΔᐃΔ] = ["Ajo", "Te sana y reduce el frio", "Comida: 14", "sanación con eliempo: 30", "Efecto: 1"];
-    Et[_r.ᐃⲆⲆᐃΔ] = ["Semilla de Planta de Espinas", "Puede dañar a tus enemigos", "Daño por contacto: 20", "Nacimiento: 4 Minutos", "Crecimiento: 15 Segundos", "Necesita Agua: 3 Minutos", "Durabilidad: 1000", "Tiempo de Vida: 8 Días"];
-    Et[_r.ᐃⲆᐃᐃΔ] = ["Planta de Espinas", "¡Te daña!"];
-    Et[_r.ΔΔΔⵠⵠ] = ["Parcela", "En serio, úsala", "Se usa para plantar plantas en invierno o sobre puentes", "Tus plantas crecerán muy rápido y necesitarán menos agua", "Durabilidad: 2000"];
-    Et[_r.ᐃΔΔΔⲆ] = ["Hielo", "Bueno para hacer tartas y agua"];
-    Et[_r.ᐃⵠᐃΔⵠ] = ["Llave de Reparación", "Puede reparar paredes, puertas y pinchos", "Daño: 2"];
-    Et[_r.ⲆⵠⵠΔᐃ] = ["Pelaje de Lobo", "¿Perrito? ¡¿Donde esta el perrito?!"];
-    Et[_r.ⵠⵠΔⵠΔ] = ["Pelaje de Conejo", "El Conejo era muy lindo..."];
-    Et[_r.ᐃΔΔⲆΔ] = ["Pelaje Puro", "¡Eres una maquina de pan!"];
-    Et[_r.ⵠⲆΔᐃᐃ] = ["Pelaje Oscuro", "¿Estás listo para hacer algo malo?"];
-    Et[_r.ⲆΔΔᐃᐃ] = ["Pelaje de Invierno", "Esos animales solo querían un abrazo..."];
-    Et[_r.ⵠᐃΔⲆⵠ] = ["Escamas", "¡Huele a pescado!"];
-    Et[_r.ΔᐃΔⲆᐃ] = ["Piel del Kraken", "¡¿No tienes mucho miedo?!"];
-    Et[_r.ΔᐃᐃⲆⲆ] = ["Fogata", "¡Te calienta!", "Durabilidad: 150", "Tiempo de vida: 2 Minutos"];
-    Et[_r.ᐃΔΔⵠΔ] = ["Fogata Grande", "¡Te calienta por más tiempo!", "Durabilidad: 400", "Tiempo de Vida: 6 Minutos"];
-    Et[_r.ⵠⲆΔⵠᐃ] = ["Mesa de Trabajo", "¡Te sirve mucho para crear cosas de todos tipos!"];
-    Et[_r.ᐃΔⵠᐃⲆ] = ["Hilo", "Usado para craftear ropa y mochila"];
-    Et[_r.ⲆⲆⲆᐃⵠ] = ["Hilo de Diamante", "Usado para craftear ropa especial"];
-    Et[_r.ᐃⲆⲆⲆⲆ] = ["Cofre", "Te permite guardar cosas, o compartirlas", "Durabilidad: 500"];
-    Et[_r.ΔⵠᐃΔᐃ] = ["Espada de Madera", "¿Eso funciona?", "Daño: 12", "Daño para estructuras: 4"];
-    Et[_r.ᐃᐃⲆΔⲆ] = ["Espada de Piedra", "Sé bueno con los otros", "Daño: 19", "Daño para estructuras: 6"];
-    Et[_r.ⵠΔΔΔΔ] = ["Espada de Oro", "¡Rey de la selva!", "Daño: 22", "Daño para estructuras: 7"];
-    Et[_r.ᐃΔⲆᐃΔ] = ["Espada de Diamante", "Puedes sentir el poder", "Daño: 24", "Daño para estructuras: 8"];
-    Et[_r.ⵠΔᐃᐃⵠ] = ["Espada de Pirata", "Arrrrr!", "¡Mejor distancia que una espada normal", "Daño: 24", "Daño para estructuras: 8"];
-    Et[_r.ΔⲆᐃⵠΔ] = ["Espada de Amatista", "Mauve es el mejor color del mundo :3", "Daño: 27", "Daño para estructuras: 9"];
-    Et[_r.ⵠᐃᐃΔⵠ] = ["Espada del Dragón", "¡Tienes el poder de un Dragón!", "Daño: 30", "Daño para estructuras: 10"];
-    Et[_r.ⲆⲆΔᐃᐃ] = ["Lanza del Dragón", "¡Mátalos a todos!", "Daño: 22", "Daño para estructuras: 6"];
-    Et[_r.ⲆΔⲆⲆⵠ] = ["Pico de Madera", "Solo puede minar madera y piedra", "Daño: 1"];
-    Et[_r.ⲆⵠⵠⲆⲆ] = ["Pico de Piedra", "Puede minar hasta oro", "Daño: 2"];
-    Et[_r.ⵠᐃⲆΔΔ] = ["Pico de Oro", "Puede minar hasta Diamante", "Daño: 3", "Daño para estructuras: 1"];
-    Et[_r.ᐃⲆⵠΔⲆ] = ["Pico de Diamante", "¡Puede minarlo todo!", "Daño: 4", "Daño para estructuras: 1"];
-    Et[_r.ΔⲆⲆⵠⲆ] = ["Pico de Amatista", "¡Puede minarlo todo, parece fantastico!", "Daño: 5", "Daño para estructuras: 1"];
-    Et[_r.ⲆᐃΔⲆΔ] = ["Martillo de Piedra", "Bueno para destruir estructuras", "No funciona bien con diamante y amatista", "Daño: 2", "Daño para estructuras: 20"];
-    Et[_r.ⲆⲆⵠⲆⲆ] = ["Martillo de Oro", "Bueno para destruir estructuras", "No funciona bien con amatista ", "Daño: 3", "Daño para estructuras: 30"];
-    Et[_r.ⵠΔΔΔⵠ] = ["Martillo de Diamante", "Bueno para destruir estructuras", "Daño: 4", "Daño para estructuras: 40"];
-    Et[_r.ᐃⵠⵠⵠᐃ] = ["Martillo de Amatista", "Bueno para destruir estructuras", "Daño: 5", "Daño para estructuras: 50"];
-    Et[_r.ⵠⵠᐃᐃⲆ] = ["Super Martillo", "¿Has planeado destruir el mundo?", "Daño: 12", "Daño para estructuras: 70"];
-    Et[_r.ᐃᐃΔⲆⲆ] = ["Lanza de Madera", "Como un palo de madera, pero mata.", "Daño: 10", "Daño para estructuras: 2"];
-    Et[_r.ⵠΔᐃⵠᐃ] = ["Lanza de Piedra", "¡El comienzo de la evolución!", "Daño: 14", "Daño para estructuras: 4"];
-    Et[_r.ⵠᐃᐃⵠΔ] = ["Lanza de Oro", "¡Cuidado, te hace mucho daño!", "Daño: 15", "Daño para estructuras: 5"];
-    Et[_r.ᐃᐃᐃᐃⲆ] = ["Lanza de Diamante", "¡Estas preparado para matar al Dragon!", "Daño: 17", "Daño para estructuras: 5"];
-    Et[_r.ᐃΔⵠⲆᐃ] = ["Lanza de Amatista", "Los dragones te tienen miedo", "Daño: 18", "Daño para estructuras: 6"];
-    Et[_r.ᐃΔΔΔΔ] = ["Pala de Piedra", "Cava para conseguir tierra, arena y hielo", "También puedes conseguir minerales", "Daño: 2"];
-    Et[_r.ⲆΔΔⵠⵠ] = ["Pala de Oro", "Cava para conseguir tierra, arena y hielo", "También puedes conseguir minerales", "Daño: 3", "Daño para estructuras: 1"];
-    Et[_r.ⵠᐃⵠᐃΔ] = ["Pala de Diamante", "Cava para conseguir tierra, arena y hielo", "También puedes conseguir minerales", "Daño: 4", "Daño para estructuras: 1"];
-    Et[_r.ⵠᐃⲆⲆⵠ] = ["Pala de Amatista", "Cava para conseguir tierra, arena y hielo", "También puedes conseguir minerales", "Daño: 5", "Daño para estructuras: 1"];
-    Et[_r.ᐃᐃⲆⵠⵠ] = ["Casco de Madera", "¡Mejor que nada!", "Protección contra jugadores: 1", "Protección contra animales: 4"];
-    Et[_r.Δᐃᐃⵠᐃ] = ["Casco de Piedra", "¡Estas listo para la batalla!", "Protección contra jugadores: 2", "Protección contra animales: 8"];
-    Et[_r.ΔᐃΔⲆⲆ] = ["Casco de Oro", "AKA el casco de los salvajes", "Protección contra jugadores: 4", "Protección contra animales: 13"];
-    Et[_r.ᐃⲆⲆⵠᐃ] = ["Casco de Diamante", "No ataques tanto", "Protección de jugadores: 5", "Protección contra animales: 19"];
-    Et[_r.ⵠⲆⲆⵠⵠ] = ["Casco de Amatista", "¡No tienes miedo de nada!", "Protección contra jugadores: 6", "Protección contra animales: 23"];
-    Et[_r.ᐃⵠΔᐃΔ] = ["Casco del Dragón", "¡Vas a dominar el mundo!", "Protección contra jugadores: 8", "Protección contra animales: 27"];
-    Et[_r.ⲆᐃᐃΔᐃ] = ["Gorro del Explorador", "Los animales no te atacarán", "¡Pero no ataques!", " Te calienta en el invierno y fuera del agua"];
-    Et[_r.ᐃᐃⵠⲆⲆ] = ["Gorro de Navidad", "¡Ho, ho, ho, feliz Navidad!", "Te calienta en el invierno y fuera del  agua"];
-    Et[_r.ΔⲆΔⲆⲆ] = ["Gorro del Duende", "¡No dejes que te descubren que eres, duende del hielo!", "Te calienta en el invierno y fuera del agua"];
-    Et[_r.ⲆΔⵠⵠᐃ] = ["Capucha", "¡Eres un ladron!", "Puedes robar de alguien solo si", "1) Es de noche", "2) No tienes nada en tu mano", "3) Si no te han tocado en los  8 segundos anteriores", "4) No estas cerca de una fogata", "5) Si tu objetivo no lleva puesto una gorra de campesino", "Te calienta en invierno y fuera del agua"];
-    Et[_r.ᐃⲆᐃⲆᐃ] = ["Orejeras", "Como un abrigo pequeño.", "Te calienta en invierno y fuera del agua"];
-    Et[_r.ᐃⵠⵠⵠΔ] = ["Chapka", "También llamado abrigo.", "Te calienta en el invierno y fuera del agua"];
-    Et[_r.ᐃⲆⲆΔΔ] = ["Gorro y Bufanda ", "Muy cómodo, muy caliente"];
-    Et[_r.ΔᐃⲆⵠⵠ] = ["Gorra de Campesino", "Tus plantas crecen mas rápido", "Te Calienta en el invierno y fuera del agua"];
-    Et[_r.ΔΔᐃⲆΔ] = ["Capucha de Invierno", "Puedes robar de alguien solo si", "1) Es de noche", "2) No tienes nada en tu mano", "3) Si no te han tocado antes de 8 segundos", "4) No estas cerca de un fuego", "5) Si tu objetivo no lleva puesto una Gorra de Campesino", "Te calienta en invierno y fuera del agua"];
-    Et[_r.ΔᐃⵠⲆΔ] = ["Gorra de Invierno del Campesino", "Tus plantas crecen aún más rápido", "Te calienta en invierno y fuera del agua"];
-    Et[_r.ᐃⲆⵠⲆⲆ] = ["Máscara de Buceo", "Eres un tiburón en el agua", "Calienta en el agua", "Protección contra jugadores: 2, Protección contra animales: 8"];
-    Et[_r.ᐃⵠⵠⲆΔ] = ["Súper Máscara de Buceo", "Eres muy rápido en agua", "Calienta en el agua", "Defensa del Jugador: 4, Defensa de los animales: 16"];
-    Et[_r.ᐃⲆΔᐃᐃ] = ["Esfera del Dragón", "Dada en la misión"];
-    Et[_r.ⵠⵠⲆⵠⲆ] = ["Corazón del Dragón", "¡Te convierte en un fantasma cuando mueres!", "Eres un fantasma por 60 segundos", "Encuentra una Piedra de resurreción"];
-    Et[_r.ΔᐃΔᐃⵠ] = ["Gema Verde", "¿¿No has hecho trampas, verdad??"];
-    Et[_r.ⵠⲆⲆΔᐃ] = ["Gema Naranja", "¡Solo un pirata verdadero lo puede encontrar!"];
-    Et[_r.ΔΔⲆⲆᐃ] = ["Gema Azul", "Para gente muy amable"];
-    Et[_r.ᐃⲆΔⵠⵠ] = ["Corona Verde", "Te sanas muy rápido", "Sanación con el tiempo: 40", "Protección contra jugadores: 4, Protección contra animales: 16"];
-    Et[_r.ⵠᐃⵠⵠΔ] = ["Corona Naranja", "Ahora tienes much suerte", "Protección contra jugadores: 4, Protección contra animales: 16"];
-    Et[_r.ⲆⲆᐃᐃΔ] = ["Corona Azul", "Cuando mueres, te conviertes en un fantasma", "Pero perderás tu alma", "Protección contra jugador: 4, Protección contra animales: 16"];
-    Et[_r.ΔΔᐃΔΔ] = ["Cubo", "Bueno para rellenar botellas", "Un cubo es equivalente a 12 botellas"];
-    Et[_r.ⲆΔⵠΔᐃ] = ["Cubo Vacío", "Tienes que llenar este cubo con agua"];
-    Et[_r.ΔᐃᐃⵠΔ] = ["Botella", "Te permite beber agua donde quieras", "Agua: 50"];
-    Et[_r.ᐃⲆⵠΔᐃ] = ["Botella Vacia", "La puedes llenar de agua"];
-    Et[_r.ⲆΔᐃΔⲆ] = ["Regadera Vacía", "La tienes que llenar de agua"];
-    Et[_r.ᐃᐃΔⵠΔ] = ["Regadera", "Te permite regar las plantas", "Daño: 1"];
-    Et[_r.ⵠⲆᐃᐃ] = ["Mochila", "¡Mas espacio para tus cosas!"];
-    Et[_r.ⵠΔΔΔⲆ] = ["Hoja", "Usada para hacer un libro"];
-    Et[_r.ᐃⵠΔΔⲆ] = ["Libro", "Reduce el tiempo de elaboración", "Lo tienes que tener en la mano para que funcione", "Daño: 1"];
-    Et[_r.ᐃΔᐃⲆᐃ] = ["Vendaje", "Recuperas vida mas rapido", "Sanación tiempo: 30", "Efecto: 5"];
-    Et[_r.ⵠⵠⲆⵠᐃ] = ["Cerradura", "Te permite cerrar tu cofre"];
-    Et[_r.ᐃⵠᐃⲆⵠ] = ["Llave", "Te permite abrir un cofre cerrado"];
-    Et[_r.ⲆⵠᐃᐃΔ] = ["Tótem", "Te permite crear un equipo", "Compartir puertas y cofres cerrados", "Tus pinchos no dañan al resto tu equipo"];
-    Et[_r.ⲆᐃⲆᐃⵠ] = ["Puente", "Muy útil en el agua", "Te permite beber agua sin tener que ahogarse", "Puedes nadar más rápido encima del agua"];
-    Et[_r.ⵠΔᐃᐃᐃ] = ["Cartel", "Sirve para dejar un mensage para otros", "Durabilidad: 200"];
-    Et[_r.ⲆᐃⵠΔΔ] = ["Techo", "Te esconde un poco y te protege del frío"];
-    Et[_r.ⲆⵠⲆⵠⵠ] = ["Fuente", "Permite rellenar botellas", "Durabilidad: 1000"];
-    Et[_r.ⲆⲆⲆⲆⵠ] = ["Pared de Madera", "Es solo una pared.", "Durabilidad: 1000"];
-    Et[_r.ΔᐃⵠⲆⲆ] = ["Pared de Piedra", "Es un poco más serio", "Durabilidad: 1500"];
-    Et[_r.ᐃᐃᐃᐃᐃ] = ["Pared de Oro", "¿Oro en de tus paredes? Eres rico", "Durabilidad: 2000"];
-    Et[_r.ⵠᐃⲆᐃⵠ] = ["Pared de Diamante", "Muy brillante, cuidado con tus ojos", "Durabilidad: 2500"];
-    Et[_r.ᐃΔⵠⵠΔ] = ["Pared de Amatista", "¡Debes tener mucho miedo de lo que hay fuera!", "Durabilidad: 3500"];
-    Et[_r.ⵠⵠΔⵠⲆ] = ["Pincho de Madera", "Puede dañar a tus enemigos", "Daño: 10, Daño por golpe: 2", "Durabilidad: 150"];
-    Et[_r.ⲆᐃⲆΔΔ] = ["Pincho de Piedra", "No querría ser tu enemigo.", "Daño: 20", "Daño por contacto: 3", "Durabilidad: 300"];
-    Et[_r.Ⲇᐃⵠᐃⵠ] = ["Pincho de Oro", "¡Eres tan cruel!", "Daño: 30", "Daño por golpe: 3", "Durabilidad: 600"];
-    Et[_r.ⲆⵠᐃΔΔ] = ["Pincho de Diamante", "No te gusta tener compañía.", "Daño: 40", "Daño por contacto: 4", "Durabilidad: 1200"];
-    Et[_r.ᐃⲆⵠᐃᐃ] = ["Pincho de Amatista", "¡¿Que demonios te hicieron tus vecinos?!", "Daño: 50", "Daño por contacto: 4", "Durabilidad: 2400"];
-    Et[_r.ΔⵠⵠⲆᐃ] = ["Puerta de Madera", "Puedes abrir y cerrarla ", "Durabilidad: 1000"];
-    Et[_r.ⵠΔᐃⲆΔ] = ["Puerta de Piedra", "Una puerta más buena es más seria", "Durabilidad: 1500"];
-    Et[_r.ᐃΔⵠⵠⵠ] = ["Puerta de Oro", "¿Estas reconstruyendo El Dorado?", "Durabilidad: 2000"];
-    Et[_r.ⵠΔᐃΔΔ] = ["Puerta de Diamante", "Para una casa brillante", "Durabilidad: 2500"];
-    Et[_r.Δⵠᐃⵠᐃ] = ["Puerta de Amatista", "¿Tu casa es una caja fuerte?", "Durabilidad: 3500"];
-    Et[_r.ⲆᐃΔᐃⵠ] = ["Caldera", "Te calienta", "Consume 1 Madera cada 5 segundos", "Durabilidad: 1000"];
-    Et[_r.ⵠΔⲆⲆΔ] = ["Molino", "Puede producir harina a partir del trigo", "Necesita 5 segundos para producir harina", "Devuelve los puntos que trabaja", "Durabilidad: 2000"];
-    Et[_r.Δᐃᐃᐃᐃ] = ["Horno de Pan", "Produce pan de harina", "Necesita 10 segundos para producir Pan", "Devuelve los puntos que trabaja", "Durabilidad: 2000"];
-    Et[_r.ⲆⲆⵠⵠᐃ] = ["Piedra de Resurreción", "¡Es magia!", "Te resucitacuando eres una fantasma", "Perderás tu arma", "Durabilidad: 200"];
-    Et[ΔΔᐃ.ⵠⵠΔⵠΔⲆᐃ] = "No puedes unirte a este servidor";
-    Et[ΔΔᐃ.ⵠⵠᐃⲆⲆᐃⲆ] = "Expulsado: ";
-    Et[ΔΔᐃ.ⵠᐃΔⲆⲆⲆⲆ] = "Tu llave ya está usada";
-    Et[ΔΔᐃ.ⲆᐃΔⲆⲆᐃⲆ] = "Tu llave está mal";
-    Et[ΔΔᐃ.ⵠᐃᐃⲆᐃᐃᐃ] = "Tienes una versión antigua, limpia tu cache";
-    Et[ΔΔᐃ.ΔⲆᐃΔΔΔⵠ] = "No hay mas recursos";
-    Et[ΔΔᐃ.ⲆΔⲆᐃᐃⵠᐃ] = "Has sobrevivido 1 día";
-    Et[ΔΔᐃ.ⵠΔᐃΔᐃⵠΔ] = "Has sobrevivido ";
-    Et[ΔΔᐃ.ᐃⵠⲆⲆᐃΔⵠ] = " días";
-    Et[ΔΔᐃ.ⲆᐃΔⲆᐃᐃᐃ] = "Estás muerto ;-;";
-    Et[ΔΔᐃ.ⲆΔΔⵠᐃⲆΔ] = "No se encuentra un lugar para unirse, ¡spamea el botón de jugar!";
-    Et[ΔΔᐃ.ⵠⵠⲆᐃᐃΔΔ] = "El servidor esta lleno, ¡spamea el botón de jugar!";
-    Et[ΔΔᐃ.EMPTY] = "Recurso vacio";
-    Et[ΔΔᐃ.ⵠⲆᐃⲆⵠᐃⵠ] = "¡Inventario lleno!(Haz click derecho para borrar cosas) ";
-    Et[ΔΔᐃ.ⲆᐃᐃⲆᐃᐃⲆ] = " está muerto";
-    Et[ΔΔᐃ.ⲆᐃⲆⵠⲆᐃⲆ] = "Esta no es la herramienta correcta";
-    Et[ΔΔᐃ.ΔⵠⵠⲆᐃᐃⵠ] = "Te has unido a un equipo";
-    Et[ΔΔᐃ.ᐃⵠᐃᐃᐃⲆΔ] = "Estás muerto";
-    Et[ΔΔᐃ.ⲆᐃⵠΔᐃᐃⲆ] = " se unió al equipo";
-    Et[ΔΔᐃ.ⲆΔΔΔⵠⲆᐃ] = "Tu equipo ha sido destruido";
-    Et[ΔΔᐃ.ⵠⲆⲆΔᐃᐃΔ] = "Has dejado el equipo";
-    Et[ΔΔᐃ.ᐃⵠⲆᐃᐃᐃᐃ] = " dejo el equipo ";
-    Et[ΔΔᐃ.ΔᐃⵠΔⵠ] = "Alguien te robó tu token :>";
-    Et[ΔΔᐃ.ᐃⵠⵠⲆᐃᐃΔ] = "Elige un servidor";
-    Et[ΔΔᐃ.ᐃᐃⲆⲆⲆ] = "jugadores";
-    Et[ΔΔᐃ.ⵠᐃΔⲆᐃⲆᐃ] = "total de jugadores";
-    Et[ΔΔᐃ.ᐃᐃⵠⵠⵠᐃΔ] = "Jugadores en este modo de juego";
-    Et[ΔΔᐃ.ⲆⲆⵠᐃⵠⵠⵠ] = "Próximamente...";
+    Et[7] = ["Mano"];
+    Et[140] = ["Tierra", "¡Tan limpia como mis manos!"];
+    Et[126] = ["Arena", "¡Tengo arena en mis ojos!"];
+    Et[109] = ["Madera", "¡Nunca hay suficiente!"];
+    Et[108] = ["Piedra", "También llamada roca."];
+    Et[111] = ["Oro", "Sé generoso, compártelo con los otros"];
+    Et[112] = ["Diamante", "¿Que vas a hacer con él?"];
+    Et[121] = ["Amatista", "Es Mauve como Lapa"];
+    Et[131] = ["Harina", "Usada para cocinar."];
+    Et[133] = ["Galleta", "Una galleta de la abuelita", "Comida: 50"];
+    Et[136] = ["Tarta", "¡Cumpleaños Feliz!", "Comida: 100"];
+    Et[116] = ["Carne Cruda", "Se cocina con fuego", "Causa veneno. 10", "Comida: 15"];
+    Et[117] = ["Carne Cocinada", "es la supervivencia del más fuerte :'(", "Comida: 35"];
+    Et[137] = ["Pescado Crudo", "Creo que sigue vivo", "Causa veneno de comida: 10", "Comida: 18"];
+    Et[138] = ["Pescado Cocinado", "Con limón sería perfecto", "Comida: 35"];
+    Et[143] = ["Pan", "¡Caliente, desde Francia!", "Es dinero usado en la tienda", "Comida: 15"];
+    Et[145] = ["Bocadillo", "Sabe como un Krabby Patty", "Comida: 100"];
+    Et[200] = ["Caramelos", "¡Solo para niños/as!", "Comida: 100"];
+    Et[199] = ["Caña de Azúcar", "Pruébala, es deliciosa", "Comida: 100"];
+    Et[201] = ["Guirnalda", "Perfecta para decorar el techo"];
+    Et[115] = ["Semillas de Bayas", "Se convierte en bayas", "Nacimiento: 2 Minutos", "Crecimiento: 55 Segundos", "Necesita agua: 3 Minutos 20 Segundos", "Durabilidad: 700", "Tiempo de vida: 8 Días"];
+    Et[110] = ["Baya", "No es venenosa.", "Comida: 10"];
+    Et[132] = ["Semilla de Trigo", "Se convierte en Trigo ", "Nacimiento: 2 Minutos", "Crecimiento: 16 Segundos", "Necesita agua: 2 Minutos", "Durabilidad: 700", "Tiempo de vida: 8 Días"];
+    Et[134] = ["Trigo Silvestre", "Se convierte en harina cuando se coloca en un molino"];
+    Et[188] = ["Semilla de Calabaza", "Crece a Calabazas", "Nacimiento: 2 Minutos 40 Segundos", "Crecimiento: 2 Minutos", "Necesita agua: 2 Minutos", "Durabilidad: 700", "Tiempo de vida: 8 Días"];
+    Et[189] = ["Calabaza", "Me recuerda a Halloween", "Comida: 30"];
+    Et[191] = ["Semilla de Ajo", "Muy peligroso para vampiros", "Daño: 20", "Nacimiento: 4 Minutos", "Crecimiento: 1 Minutos 10 Segundos", "Necesita Agua: 1 Minutos 40 Segundos", "Durabilidad: 700", "Tiempo de Vida: 8 Días"];
+    Et[192] = ["Ajo", "Te sana y reduce el frio", "Comida: 14", "sanación con eliempo: 30", "Efecto: 1"];
+    Et[193] = ["Semilla de Planta de Espinas", "Puede dañar a tus enemigos", "Daño por contacto: 20", "Nacimiento: 4 Minutos", "Crecimiento: 15 Segundos", "Necesita Agua: 3 Minutos", "Durabilidad: 1000", "Tiempo de Vida: 8 Días"];
+    Et[194] = ["Planta de Espinas", "¡Te daña!"];
+    Et[141] = ["Parcela", "En serio, úsala", "Se usa para plantar plantas en invierno o sobre puentes", "Tus plantas crecerán muy rápido y necesitarán menos agua", "Durabilidad: 2000"];
+    Et[142] = ["Hielo", "Bueno para hacer tartas y agua"];
+    Et[55] = ["Llave de Reparación", "Puede reparar paredes, puertas y pinchos", "Daño: 2"];
+    Et[174] = ["Pelaje de Lobo", "¿Perrito? ¡¿Donde esta el perrito?!"];
+    Et[2] = ["Pelaje de Conejo", "El Conejo era muy lindo..."];
+    Et[178] = ["Pelaje Puro", "¡Eres una maquina de pan!"];
+    Et[179] = ["Pelaje Oscuro", "¿Estás listo para hacer algo malo?"];
+    Et[146] = ["Pelaje de Invierno", "Esos animales solo querían un abrazo..."];
+    Et[139] = ["Escamas", "¡Huele a pescado!"];
+    Et[129] = ["Piel del Kraken", "¡¿No tienes mucho miedo?!"];
+    Et[113] = ["Fogata", "¡Te calienta!", "Durabilidad: 150", "Tiempo de vida: 2 Minutos"];
+    Et[118] = ["Fogata Grande", "¡Te calienta por más tiempo!", "Durabilidad: 400", "Tiempo de Vida: 6 Minutos"];
+    Et[114] = ["Mesa de Trabajo", "¡Te sirve mucho para crear cosas de todos tipos!"];
+    Et[161] = ["Hilo", "Usado para craftear ropa y mochila"];
+    Et[147] = ["Hilo de Diamante", "Usado para craftear ropa especial"];
+    Et[167] = ["Cofre", "Te permite guardar cosas, o compartirlas", "Durabilidad: 500"];
+    Et[57] = ["Espada de Madera", "¿Eso funciona?", "Daño: 12", "Daño para estructuras: 4"];
+    Et[0] = ["Espada de Piedra", "Sé bueno con los otros", "Daño: 19", "Daño para estructuras: 6"];
+    Et[5] = ["Espada de Oro", "¡Rey de la selva!", "Daño: 22", "Daño para estructuras: 7"];
+    Et[6] = ["Espada de Diamante", "Puedes sentir el poder", "Daño: 24", "Daño para estructuras: 8"];
+    Et[9] = ["Espada de Pirata", "Arrrrr!", "¡Mejor distancia que una espada normal", "Daño: 24", "Daño para estructuras: 8"];
+    Et[30] = ["Espada de Amatista", "Mauve es el mejor color del mundo :3", "Daño: 27", "Daño para estructuras: 9"];
+    Et[62] = ["Espada del Dragón", "¡Tienes el poder de un Dragón!", "Daño: 30", "Daño para estructuras: 10"];
+    Et[16] = ["Lanza del Dragón", "¡Mátalos a todos!", "Daño: 22", "Daño para estructuras: 6"];
+    Et[8] = ["Pico de Madera", "Solo puede minar madera y piedra", "Daño: 1"];
+    Et[1] = ["Pico de Piedra", "Puede minar hasta oro", "Daño: 2"];
+    Et[3] = ["Pico de Oro", "Puede minar hasta Diamante", "Daño: 3", "Daño para estructuras: 1"];
+    Et[4] = ["Pico de Diamante", "¡Puede minarlo todo!", "Daño: 4", "Daño para estructuras: 1"];
+    Et[31] = ["Pico de Amatista", "¡Puede minarlo todo, parece fantastico!", "Daño: 5", "Daño para estructuras: 1"];
+    Et[35] = ["Martillo de Piedra", "Bueno para destruir estructuras", "No funciona bien con diamante y amatista", "Daño: 2", "Daño para estructuras: 20"];
+    Et[36] = ["Martillo de Oro", "Bueno para destruir estructuras", "No funciona bien con amatista ", "Daño: 3", "Daño para estructuras: 30"];
+    Et[37] = ["Martillo de Diamante", "Bueno para destruir estructuras", "Daño: 4", "Daño para estructuras: 40"];
+    Et[38] = ["Martillo de Amatista", "Bueno para destruir estructuras", "Daño: 5", "Daño para estructuras: 50"];
+    Et[45] = ["Super Martillo", "¿Has planeado destruir el mundo?", "Daño: 12", "Daño para estructuras: 70"];
+    Et[12] = ["Lanza de Madera", "Como un palo de madera, pero mata.", "Daño: 10", "Daño para estructuras: 2"];
+    Et[13] = ["Lanza de Piedra", "¡El comienzo de la evolución!", "Daño: 14", "Daño para estructuras: 4"];
+    Et[14] = ["Lanza de Oro", "¡Cuidado, te hace mucho daño!", "Daño: 15", "Daño para estructuras: 5"];
+    Et[15] = ["Lanza de Diamante", "¡Estas preparado para matar al Dragon!", "Daño: 17", "Daño para estructuras: 5"];
+    Et[33] = ["Lanza de Amatista", "Los dragones te tienen miedo", "Daño: 18", "Daño para estructuras: 6"];
+    Et[46] = ["Pala de Piedra", "Cava para conseguir tierra, arena y hielo", "También puedes conseguir minerales", "Daño: 2"];
+    Et[50] = ["Pala de Oro", "Cava para conseguir tierra, arena y hielo", "También puedes conseguir minerales", "Daño: 3", "Daño para estructuras: 1"];
+    Et[51] = ["Pala de Diamante", "Cava para conseguir tierra, arena y hielo", "También puedes conseguir minerales", "Daño: 4", "Daño para estructuras: 1"];
+    Et[52] = ["Pala de Amatista", "Cava para conseguir tierra, arena y hielo", "También puedes conseguir minerales", "Daño: 5", "Daño para estructuras: 1"];
+    Et[58] = ["Casco de Madera", "¡Mejor que nada!", "Protección contra jugadores: 1", "Protección contra animales: 4"];
+    Et[25] = ["Casco de Piedra", "¡Estas listo para la batalla!", "Protección contra jugadores: 2", "Protección contra animales: 8"];
+    Et[26] = ["Casco de Oro", "AKA el casco de los salvajes", "Protección contra jugadores: 4", "Protección contra animales: 13"];
+    Et[27] = ["Casco de Diamante", "No ataques tanto", "Protección de jugadores: 5", "Protección contra animales: 19"];
+    Et[43] = ["Casco de Amatista", "¡No tienes miedo de nada!", "Protección contra jugadores: 6", "Protección contra animales: 23"];
+    Et[59] = ["Casco del Dragón", "¡Vas a dominar el mundo!", "Protección contra jugadores: 8", "Protección contra animales: 27"];
+    Et[23] = ["Gorro del Explorador", "Los animales no te atacarán", "¡Pero no ataques!", " Te calienta en el invierno y fuera del agua"];
+    Et[41] = ["Gorro de Navidad", "¡Ho, ho, ho, feliz Navidad!", "Te calienta en el invierno y fuera del  agua"];
+    Et[42] = ["Gorro del Duende", "¡No dejes que te descubren que eres, duende del hielo!", "Te calienta en el invierno y fuera del agua"];
+    Et[83] = ["Capucha", "¡Eres un ladron!", "Puedes robar de alguien solo si", "1) Es de noche", "2) No tienes nada en tu mano", "3) Si no te han tocado en los  8 segundos anteriores", "4) No estas cerca de una fogata", "5) Si tu objetivo no lleva puesto una gorra de campesino", "Te calienta en invierno y fuera del agua"];
+    Et[10] = ["Orejeras", "Como un abrigo pequeño.", "Te calienta en invierno y fuera del agua"];
+    Et[11] = ["Chapka", "También llamado abrigo.", "Te calienta en el invierno y fuera del agua"];
+    Et[40] = ["Gorro y Bufanda ", "Muy cómodo, muy caliente"];
+    Et[84] = ["Gorra de Campesino", "Tus plantas crecen mas rápido", "Te Calienta en el invierno y fuera del agua"];
+    Et[85] = ["Capucha de Invierno", "Puedes robar de alguien solo si", "1) Es de noche", "2) No tienes nada en tu mano", "3) Si no te han tocado antes de 8 segundos", "4) No estas cerca de un fuego", "5) Si tu objetivo no lleva puesto una Gorra de Campesino", "Te calienta en invierno y fuera del agua"];
+    Et[86] = ["Gorra de Invierno del Campesino", "Tus plantas crecen aún más rápido", "Te calienta en invierno y fuera del agua"];
+    Et[48] = ["Máscara de Buceo", "Eres un tiburón en el agua", "Calienta en el agua", "Protección contra jugadores: 2, Protección contra animales: 8"];
+    Et[47] = ["Súper Máscara de Buceo", "Eres muy rápido en agua", "Calienta en el agua", "Defensa del Jugador: 4, Defensa de los animales: 16"];
+    Et[185] = ["Esfera del Dragón", "Dada en la misión"];
+    Et[149] = ["Corazón del Dragón", "¡Te convierte en un fantasma cuando mueres!", "Eres un fantasma por 60 segundos", "Encuentra una Piedra de resurreción"];
+    Et[175] = ["Gema Verde", "¿¿No has hecho trampas, verdad??"];
+    Et[176] = ["Gema Naranja", "¡Solo un pirata verdadero lo puede encontrar!"];
+    Et[177] = ["Gema Azul", "Para gente muy amable"];
+    Et[77] = ["Corona Verde", "Te sanas muy rápido", "Sanación con el tiempo: 40", "Protección contra jugadores: 4, Protección contra animales: 16"];
+    Et[78] = ["Corona Naranja", "Ahora tienes much suerte", "Protección contra jugadores: 4, Protección contra animales: 16"];
+    Et[79] = ["Corona Azul", "Cuando mueres, te conviertes en un fantasma", "Pero perderás tu alma", "Protección contra jugador: 4, Protección contra animales: 16"];
+    Et[180] = ["Cubo", "Bueno para rellenar botellas", "Un cubo es equivalente a 12 botellas"];
+    Et[181] = ["Cubo Vacío", "Tienes que llenar este cubo con agua"];
+    Et[127] = ["Botella", "Te permite beber agua donde quieras", "Agua: 50"];
+    Et[128] = ["Botella Vacia", "La puedes llenar de agua"];
+    Et[130] = ["Regadera Vacía", "La tienes que llenar de agua"];
+    Et[49] = ["Regadera", "Te permite regar las plantas", "Daño: 1"];
+    Et[29] = ["Mochila", "¡Mas espacio para tus cosas!"];
+    Et[120] = ["Hoja", "Usada para hacer un libro"];
+    Et[28] = ["Libro", "Reduce el tiempo de elaboración", "Lo tienes que tener en la mano para que funcione", "Daño: 1"];
+    Et[195] = ["Vendaje", "Recuperas vida mas rapido", "Sanación tiempo: 30", "Efecto: 5"];
+    Et[148] = ["Cerradura", "Te permite cerrar tu cofre"];
+    Et[158] = ["Llave", "Te permite abrir un cofre cerrado"];
+    Et[159] = ["Tótem", "Te permite crear un equipo", "Compartir puertas y cofres cerrados", "Tus pinchos no dañan al resto tu equipo"];
+    Et[125] = ["Puente", "Muy útil en el agua", "Te permite beber agua sin tener que ahogarse", "Puedes nadar más rápido encima del agua"];
+    Et[183] = ["Cartel", "Sirve para dejar un mensage para otros", "Durabilidad: 200"];
+    Et[190] = ["Techo", "Te esconde un poco y te protege del frío"];
+    Et[182] = ["Fuente", "Permite rellenar botellas", "Durabilidad: 1000"];
+    Et[162] = ["Pared de Madera", "Es solo una pared.", "Durabilidad: 1000"];
+    Et[163] = ["Pared de Piedra", "Es un poco más serio", "Durabilidad: 1500"];
+    Et[164] = ["Pared de Oro", "¿Oro en de tus paredes? Eres rico", "Durabilidad: 2000"];
+    Et[165] = ["Pared de Diamante", "Muy brillante, cuidado con tus ojos", "Durabilidad: 2500"];
+    Et[122] = ["Pared de Amatista", "¡Debes tener mucho miedo de lo que hay fuera!", "Durabilidad: 3500"];
+    Et[160] = ["Pincho de Madera", "Puede dañar a tus enemigos", "Daño: 10, Daño por golpe: 2", "Durabilidad: 150"];
+    Et[168] = ["Pincho de Piedra", "No querría ser tu enemigo.", "Daño: 20", "Daño por contacto: 3", "Durabilidad: 300"];
+    Et[169] = ["Pincho de Oro", "¡Eres tan cruel!", "Daño: 30", "Daño por golpe: 3", "Durabilidad: 600"];
+    Et[170] = ["Pincho de Diamante", "No te gusta tener compañía.", "Daño: 40", "Daño por contacto: 4", "Durabilidad: 1200"];
+    Et[123] = ["Pincho de Amatista", "¡¿Que demonios te hicieron tus vecinos?!", "Daño: 50", "Daño por contacto: 4", "Durabilidad: 2400"];
+    Et[166] = ["Puerta de Madera", "Puedes abrir y cerrarla ", "Durabilidad: 1000"];
+    Et[171] = ["Puerta de Piedra", "Una puerta más buena es más seria", "Durabilidad: 1500"];
+    Et[172] = ["Puerta de Oro", "¿Estas reconstruyendo El Dorado?", "Durabilidad: 2000"];
+    Et[173] = ["Puerta de Diamante", "Para una casa brillante", "Durabilidad: 2500"];
+    Et[124] = ["Puerta de Amatista", "¿Tu casa es una caja fuerte?", "Durabilidad: 3500"];
+    Et[119] = ["Caldera", "Te calienta", "Consume 1 Madera cada 5 segundos", "Durabilidad: 1000"];
+    Et[135] = ["Molino", "Puede producir harina a partir del trigo", "Necesita 5 segundos para producir harina", "Devuelve los puntos que trabaja", "Durabilidad: 2000"];
+    Et[144] = ["Horno de Pan", "Produce pan de harina", "Necesita 10 segundos para producir Pan", "Devuelve los puntos que trabaja", "Durabilidad: 2000"];
+    Et[151] = ["Piedra de Resurreción", "¡Es magia!", "Te resucitacuando eres una fantasma", "Perderás tu arma", "Durabilidad: 200"];
+    Et[300] = "No puedes unirte a este servidor";
+    Et[301] = "Expulsado: ";
+    Et[302] = "Tu llave ya está usada";
+    Et[303] = "Tu llave está mal";
+    Et[304] = "Tienes una versión antigua, limpia tu cache";
+    Et[305] = "No hay mas recursos";
+    Et[306] = "Has sobrevivido 1 día";
+    Et[307] = "Has sobrevivido ";
+    Et[308] = " días";
+    Et[309] = "Estás muerto ;-;";
+    Et[310] = "No se encuentra un lugar para unirse, ¡spamea el botón de jugar!";
+    Et[311] = "El servidor esta lleno, ¡spamea el botón de jugar!";
+    Et[312] = "Recurso vacio";
+    Et[313] = "¡Inventario lleno!(Haz click derecho para borrar cosas) ";
+    Et[314] = " está muerto";
+    Et[315] = "Esta no es la herramienta correcta";
+    Et[316] = "Te has unido a un equipo";
+    Et[317] = "Estás muerto";
+    Et[318] = " se unió al equipo";
+    Et[319] = "Tu equipo ha sido destruido";
+    Et[320] = "Has dejado el equipo";
+    Et[321] = " dejo el equipo ";
+    Et[322] = "Alguien te robó tu token :>";
+    Et[323] = "Elige un servidor";
+    Et[324] = "jugadores";
+    Et[325] = "total de jugadores";
+    Et[326] = "Jugadores en este modo de juego";
+    Et[327] = "Próximamente...";
     document.getElementById("nickname_input").placeholder = "Apodo";
     Gt[ig] = ["Has muerto por ninguna razón"];
     Gt[mk] = ["Has muerto de hambre, como implica el nombre del juego dice"];
@@ -8118,23 +8118,23 @@
     return ~(j & 26964) & 26964 | ~(j & 26964) & j;
   }
   function zt() {
-    Et[_r.ⵠᐃΔⵠΔ] = ["You feel a great power emanating from this orb"];
+    Et[184] = ["You feel a great power emanating from this orb"];
     Gt[22] = ["This crab, though frightening in nature, pinched your fingertips so hard that you had a heart attack."];
-    Et[_r.ⲆⵠᐃΔᐃ] = ["Crab sticks", "Oh, yeah? Is there crab in the crab sticks?", "Food: 20"];
-    Et[ΔΔᐃ.ⲆΔⵠⵠⲆⲆΔ] = " BACK TO THE GAME";
-    Et[ΔΔᐃ.ⵠⲆⵠⵠⵠᐃⲆ] = " Share on Twitter";
-    Et[ΔΔᐃ.ⵠᐃᐃⲆΔᐃᐃ] = " Share on Facebook";
-    Et[ΔΔᐃ.ΔΔⲆⲆⵠⲆΔ] = "You can buy items on the shop in the next game with your points";
-    Et[ΔΔᐃ.POINTS] = "points";
-    Et[ΔΔᐃ.ⵠΔΔᐃᐃⲆⲆ] = "Score";
-    Et[ΔΔᐃ.ⲆⵠⲆΔⲆⲆᐃ] = "Kill";
-    Et[ΔΔᐃ.ⵠⲆΔⵠΔⵠⲆ] = "Days survived";
-    Et[ΔΔᐃ.ⵠⲆΔᐃⵠΔⲆ] = "Building method: Free. Press G to change";
-    Et[ΔΔᐃ.ⵠⲆᐃᐃᐃΔⵠ] = "Building method: Grid. Press G to change";
-    Et[_r.ⵠⲆⵠᐃᐃ] = ["Crab Claw", "Crab claws can also be eaten", "Food: 10"];
-    Et[_r.Ⲇᐃᐃᐃᐃ] = ["Crab Spear", "Allow you to calm crabs, and heal them", "Damage: 14", "Building Damage: 4"];
-    Et[_r.ⲆⲆΔΔⵠ] = ["Crab Helmet", "You are the king of crabs!", "Crabs follow you", "They can't hit you and you can't hit them", "Players Defense: 4", "Animals Defense: 13"];
-    Et[_r.ΔⲆⵠΔΔ] = ["Bed", "Relax in this confortable bed", "You are less cold, less thirsty, and less hungry", "You will be cured faster", "Durability: 400"];
+    Et[196] = ["Crab sticks", "Oh, yeah? Is there crab in the crab sticks?", "Food: 20"];
+    Et[328] = " BACK TO THE GAME";
+    Et[329] = " Share on Twitter";
+    Et[330] = " Share on Facebook";
+    Et[331] = "You can buy items on the shop in the next game with your points";
+    Et[332] = "points";
+    Et[333] = "Score";
+    Et[334] = "Kill";
+    Et[335] = "Days survived";
+    Et[336] = "Building method: Free. Press G to change";
+    Et[337] = "Building method: Grid. Press G to change";
+    Et[197] = ["Crab Claw", "Crab claws can also be eaten", "Food: 10"];
+    Et[18] = ["Crab Spear", "Allow you to calm crabs, and heal them", "Damage: 14", "Building Damage: 4"];
+    Et[61] = ["Crab Helmet", "You are the king of crabs!", "Crabs follow you", "They can't hit you and you can't hit them", "Players Defense: 4", "Animals Defense: 13"];
+    Et[198] = ["Bed", "Relax in this confortable bed", "You are less cold, less thirsty, and less hungry", "You will be cured faster", "Durability: 400"];
     document.getElementById("typequest").innerHTML = "Chrono Quests";
     document.getElementById("timeremainingquest").innerHTML = "Time Remaining";
     document.getElementById("constraintquest").innerHTML = " Constraints";
@@ -8151,169 +8151,169 @@
       document.getElementById("claim_reward_" + a).innerHTML = "CLAIM REWARD!";
     }
     document.getElementById("quit_chronoquest").innerHTML = " QUIT";
-    Et[_r.ΔᐃΔΔΔ] = ["Hand"];
-    Et[_r.ᐃᐃΔΔⵠ] = ["Boden", "Dreckig!"];
-    Et[_r.ⲆⲆΔⲆᐃ] = ["Sand", "Ich habe es in meine Augen bekommen!"];
-    Et[_r.ⵠᐃⵠⵠ] = ["Holz", "Du kannst niemals zu viel haben!"];
-    Et[_r.ᐃΔⵠⲆ] = ["Stein", "Auch Fels gennant"];
-    Et[_r.ᐃⲆⵠᐃ] = ["Gold", "Sei großzügig, gib anderen etwas ab "];
-    Et[_r.ᐃⲆΔⵠ] = ["Diamant", "Was wirst du daraus machen?"];
-    Et[_r.Ⲇⵠⵠⵠ] = ["Amethyst", "Es ist Mauve farbend, genauso wie Lapa"];
-    Et[_r.ᐃⵠᐃⵠᐃ] = ["Mehl", "wird fürs Backen gebraucht"];
-    Et[_r.ⲆᐃᐃⵠΔ] = ["Keks", "Ein prächtiger Keks von Großmutter", "Essen: 50"];
-    Et[_r.ⵠᐃⲆⲆᐃ] = ["Ein Kuchen", "Perfekter Kuchen für Gourmets", "Essen: 100"];
-    Et[_r.ⵠⵠᐃᐃⵠ] = ["rohes Fleisch", "Du kannst es mit einem Feuer braten", "verursacht Lebensmittelvergiftung: 10", "Essen: 15"];
-    Et[_r.ΔΔⵠⵠⲆ] = ["gebratenes Fleisch", "Einmal blutiges Steak, bitte", "Essen: 35"];
-    Et[_r.ΔΔᐃⵠⲆ] = ["roher Fisch", "Ich glaube es lebt noch", "verursacht Lebensmittelvergiftung: 10", "Essen: 18"];
-    Et[_r.ⵠⲆΔⲆᐃ] = ["gebratener Fisch", "Mit einer Zitrone ist es perfekt", "Essen: 35"];
-    Et[_r.ⲆⵠΔⲆΔ] = ["Brot", "Ein vorzügliches französiches Brot", "Es wird als Währung im Markt benutzt", "Essen: 15"];
-    Et[_r.ⲆⲆΔⵠⵠ] = ["Sandwich", "Schmeckt wie Krabbenburger", "Essen: 100"];
-    Et[_r.ⲆⵠⲆⲆΔ] = ["Süßigkeiten", "Nur für Kinder!", "Essen: 100"];
-    Et[_r.ᐃΔᐃⵠⵠ] = ["Zuckerstange", "Probier mal, es schmeckt hervorragend", "Essen: 100"];
-    Et[_r.ⵠᐃΔⲆⲆ] = ["Girlande", "perfekter Schmuck für Dächer"];
-    Et[_r.ⵠᐃΔⲆᐃ] = ["Beeren Saatgut", "Wird eine Beere", "Entstehung: 2min", "Wachstum: 55s", "Wasserbedarf: 3min 20s", "Haltbarkeit: 700", "Lebenszeit: 8 Tage"];
-    Et[_r.ⵠᐃⲆⲆⲆ] = ["Beere", "Beeren lecker!", "Essen: 10"];
-    Et[_r.ⲆΔᐃΔΔ] = ["Weizen Saatgut", "Wird zu Weizen", "Entstehung: 2min", "Wachstum: 16s", "Wasserbedarf: 2min", "Haltbarkeit: 700", "Lebenszeit: 8 Tage"];
-    Et[_r.ⲆΔΔᐃⵠ] = ["Wildes Weizen", "Wenn es in eine Windmühle platziert wird, wird es zu Mehl"];
-    Et[_r.ᐃⵠᐃᐃⵠ] = ["Kürbis Saatgut", "Wird zu Kürbis", "Entstehung: 2min 40s", "Wachstum: 2min", "Wasserbedarf: 2min", "Haltbarkeit: 700", "Lebenszeit: 8 Tage"];
-    Et[_r.ⵠᐃⵠΔⵠ] = ["Kürbis", "Es erinnert mich an Halloween", "Essen: 30"];
-    Et[_r.ⲆⲆΔⲆⵠ] = ["Knoblauch Saatgut", "Sehr gefährlich für Vampire", "Schaden: 20", "Entstehung: 4min", "Wachstum: 1min 10s", "Wasserbedarf: 1min 40s", "Haltbarkeit: 700", "Lebenszeit: 8 Tage"];
-    Et[_r.ⲆᐃΔᐃΔ] = ["Knoblauch", "Heilt dich und hält die Kälte fern", "Essen: 14", "Heilung über Zeit: 30", "Effekt: 1"];
-    Et[_r.ᐃⲆⲆᐃΔ] = ["Dornenbusch Saatgut", "Kann deinen Gegnern Schaden zufügen", "Schaden: 20", "Entstehung: 4min", "Wachstum: 15s", "Wasserbedarf: 3min", "Haltbarkeit: 1000", "Lebenszeit: 8 Tage"];
-    Et[_r.ᐃⲆᐃᐃΔ] = ["Dornenbusch", "Es sticht!"];
-    Et[_r.ΔΔΔⵠⵠ] = ["Topf", "Ernsthaft, benutz es", "Mit diesem GMO dünger deine Pflanzen", "lässt sie schneller wachsen und reduziert den Wasserverbrauch", "Haltbarkeit: 2000"];
-    Et[_r.ᐃΔΔΔⲆ] = ["Eis", "Nützlich um Kuchen und Wasser herzustellen"];
-    Et[_r.ᐃⵠᐃΔⵠ] = ["Schraubenschlüssel", "Es kann Wände, Türen und Stacheln reparieren", "Schaden: 2"];
-    Et[_r.ⲆⵠⵠΔᐃ] = ["Wolfsfell", "Welpe? Aber wo ist der Welpe?!"];
-    Et[_r.ⵠⵠΔⵠΔ] = ["Hasenfell", "Der Hase war so süß..."];
-    Et[_r.ᐃΔΔⲆΔ] = ["Klares Fell", "Du bist eine Brotfabrik"];
-    Et[_r.ⵠⲆΔᐃᐃ] = ["Dunkles Fell", "Du machst dich bereit etwas falsches zu vollführen"];
-    Et[_r.ⲆΔΔᐃᐃ] = ["Winter Fell", "Diese Tiere wollten nur eine Umarmung..."];
-    Et[_r.ⵠᐃΔⲆⵠ] = ["Schuppen", "Es riecht wie Fisch!"];
-    Et[_r.ΔᐃΔⲆᐃ] = ["Kraken Haut", "Warst du nicht zu ängstlich?"];
-    Et[_r.ΔᐃᐃⲆⲆ] = ["Lagerfeuer", "Wärmt dich!", "Haltbarkeit: 150", "Lebensdauer: 2min"];
-    Et[_r.ᐃΔΔⵠΔ] = ["Großes Lagerfeuer", "Wärmt dich länger!", "Haltbarkeit: 400", "Lebensdauer: 6min"];
-    Et[_r.ⵠⲆΔⵠᐃ] = ["Werkbank", "Sehr nützlich um allerlei Sachen herzustellen"];
-    Et[_r.ᐃΔⵠᐃⲆ] = ["Faden", "Wird benötigt um Mützen und Rucksäcke herzustellen  "];
-    Et[_r.ⲆⲆⲆᐃⵠ] = ["Diamant Faden", "Wird für spezielle Mützen gebraucht"];
-    Et[_r.ᐃⲆⲆⲆⲆ] = ["Truhe", "Damit kannst du Gegenstände lagern", "Haltbarkeit: 500"];
-    Et[_r.ΔⵠᐃΔᐃ] = ["Holzschwert", "Funktioniert das?", "Schaden: 12", "Schaden an Gebäuden: 4"];
-    Et[_r.ᐃᐃⲆΔⲆ] = ["Steinschwert", "Sei nett zu Anderen", "Schaden: 19", "Schaden an Gebäuden: 6"];
-    Et[_r.ⵠΔΔΔΔ] = ["Goldschwert", "König des Waldes", "Schaden: 22", "Schaden an Gebäuden: 7"];
-    Et[_r.ᐃΔⲆᐃΔ] = ["Diamantschwert", "Du kannst die Kraft spüren", "Schaden: 24", "Schaden an Gebäuden: 8"];
-    Et[_r.ⵠΔᐃᐃⵠ] = ["Piratenschwert", "Ayyyyy!", "Hat eine höhere Reichweite als ein normales Schwert", "Schaden: 24", "Schaden an Gebäuden: 8"];
-    Et[_r.ΔⲆᐃⵠΔ] = ["Amethystschwert", "Mauve ist die schönste Farbe der Welt", "Schaden: 27", "Schaden an Gebäuden: 9"];
-    Et[_r.ⵠᐃᐃΔⵠ] = ["Drachenschwert", "Keine Gnade!", "Schaden: 30", "Schaden an Gebäuden: 10"];
-    Et[_r.ⲆⲆΔᐃᐃ] = ["Drachenspeer", "Töte sie alle!", "Schaden: 22", "Schaden an Gebäuden: 6"];
-    Et[_r.ⲆΔⲆⲆⵠ] = ["Holzspitzhacke", "Kann nur Holz und Stein abbauen", "Schaden: 1"];
-    Et[_r.ⲆⵠⵠⲆⲆ] = ["Steinspitzhacke", "Kann Holz, Stein und Gold abbauen", "Schaden: 2"];
-    Et[_r.ⵠᐃⲆΔΔ] = ["Goldspitzhacke", "Kann auch Diamanten abbauen", "Schaden: 3", "Schaden an Gebäuden: 1"];
-    Et[_r.ᐃⲆⵠΔⲆ] = ["Diamantspitzhacke", "Kann alles abbauen", "Schaden: 4", "Schaden an Gebäuden: 1"];
-    Et[_r.ΔⲆⲆⵠⲆ] = ["Amethystspitzhacke", "Kann alles abbauen, sieht außerdem gut aus!", "Schaden: 5", "Schaden an Gebäuden: 1"];
-    Et[_r.ⲆᐃΔⲆΔ] = ["Steinhammer", "Nützlich um Gebäude zu zerstören", "Funktioniert nicht gut gegen Diamant oder Amethyst", "Schaden: 2", "Schaden an Gebäuden: 20"];
-    Et[_r.ⲆⲆⵠⲆⲆ] = ["Goldhammer", "Nützlich um Gebäude zu zerstören", "Funktioniert nicht gut gegen Amethyst", "Schaden: 3", "Schaden an Gebäuden: 30"];
-    Et[_r.ⵠΔΔΔⵠ] = ["Diamanthammer", "Nützlich um Gebäude zu zerstören", "Schaden: 4", "Schaden an Gebäuden: 40"];
-    Et[_r.ᐃⵠⵠⵠᐃ] = ["Amethysthammer", "Nützlich um Gebäude zu zerstören", "Schaden: 5", "Schaden an Gebäuden: 50"];
-    Et[_r.ⵠⵠᐃᐃⲆ] = ["Superhammer", "Willst du die Welt zerstören?", "Schaden: 12", "Schaden an Gebäuden: 70"];
-    Et[_r.ᐃᐃΔⲆⲆ] = ["Holzspeer", "Wie ein Stock, nur mit dem Unterschied, dass es sticht.", "Schaden: 10", "Schaden an Gebäuden: 2"];
-    Et[_r.ⵠΔᐃⵠᐃ] = ["Steinspeer", "Der Anfang der Evolution!", "Schaden: 14", "Schaden an Gebäuden: 4"];
-    Et[_r.ⵠᐃᐃⵠΔ] = ["Goldspeer", "Pass auf, es sticht!", "Schaden: 15", "Schaden an Gebäuden: 5"];
-    Et[_r.ᐃᐃᐃᐃⲆ] = ["Diamantspeer", "Du bist bereit einen Drachen zu töten", "Schaden: 17", "Schaden an Gebäuden: 5"];
-    Et[_r.ᐃΔⵠⲆᐃ] = ["AmethystSpeer", "Drachen jagen dir keine Angst mehr ein", "Schaden: 18", "Schaden an Gebäuden: 6"];
-    Et[_r.ᐃΔΔΔΔ] = ["Steinschaufel", "Grab herum um Dreck, Eis und Sand zu bekommen", "Du kannst auch Mineralien bekommen", "Schaden: 2"];
-    Et[_r.ⲆΔΔⵠⵠ] = ["Goldschaufel", "Grab herum um Dreck, Eis und Sand zu bekommen", "Du kannst auch Mineralien bekommen", "Schaden: 3", "Schaden an Gebäuden: 1"];
-    Et[_r.ⵠᐃⵠᐃΔ] = ["Diamantschaufel", "Grab herum um Dreck, Eis und Sand zu bekommen", "Du kannst auch Mineralien bekommen", "Schaden: 4", "Schaden an Gebäuden: 1"];
-    Et[_r.ⵠᐃⲆⲆⵠ] = ["Amethystschaufel", "Grab herum um Dreck, Eis und Sand zu bekommen", "Du kannst auch Mineralien bekommen", "Schaden: 5", "Schaden an Gebäuden: 1"];
-    Et[_r.ᐃᐃⲆⵠⵠ] = ["Holzhelm", "Besser als nichts", "Verteidigung gegen Spieler: 1", "Verteidigung gegen Tiere: 4"];
-    Et[_r.Δᐃᐃⵠᐃ] = ["Steinhelm", "Du bist bereit zu kämpfen!", "Verteidigung gegen Spieler: 2", "Verteidigung gegen Tiere: 8"];
-    Et[_r.ΔᐃΔⲆⲆ] = ["Goldhelm", "AKA Der Helm der Unbarmherzigen", "Verteidigung gegen Spieler: 4", "Verteidigung gegen Tiere: 13"];
-    Et[_r.ᐃⲆⲆⵠᐃ] = ["Diamanthelm", "Gib nicht zu viel an", "Verteidigung gegen Spieler: 5", "Verteidigung gegen Tiere: 19"];
-    Et[_r.ⵠⲆⲆⵠⵠ] = ["Amethysthelm", "Du musst vor nichts mehr angst haben", "Verteidigung gegen Spieler: 6", "Verteidigung gegen Tiere: 23"];
-    Et[_r.ᐃⵠΔᐃΔ] = ["Drachenhelm", "Du wirst die Welt erobern", "Verteidigung gegen Spieler: 8", "Verteidigung gegen Tiere: 27"];
-    Et[_r.ⲆᐃᐃΔᐃ] = ["Erkunderhut", "Tiere beachten dich nicht mehr", "mach aber keine Geräusche!", "Hält dich warm außerhalb von Wasser und Winter"];
-    Et[_r.ᐃᐃⵠⲆⲆ] = ["Weihnachtshut", "Oh, oh, oh, fröhliche Weihnachten", "Hält dich warm außerhalb von Wasser und Winter"];
-    Et[_r.ΔⲆΔⲆⲆ] = ["Elfenhut", "Lass dich nicht ausnutzen, du kleiner Schneeelf!", "Hält dich warm außerhalb von Wasser und Winter"];
-    Et[_r.ⲆΔⵠⵠᐃ] = ["Kapuze", "Du bist ein Schurke", "Du kannst jemand bestehlen solange:", "1) Es nacht ist", "2) Du nichts trägst", "3) dich niemand für acht Sekunden berührt hat", "4) Du nicht in der Nähe eines Feuers bist", "5) Dein Ziel keine Bauernkleidung trägt", "Hält dich warm außerhalb von Wasser und Winter"];
-    Et[_r.ᐃⲆᐃⲆᐃ] = ["Ohrwärmer", "Eine Art kleiner chapka.", "Hält dich warm außerhalb von Wasser und Winter"];
-    Et[_r.ᐃⵠⵠⵠΔ] = ["Chapka", "Auch Mantel genannt.", "Hält dich warm außerhalb von Wasser und Winter"];
-    Et[_r.ᐃⲆⲆΔΔ] = ["Winterschaal und Kappe", "Sehr angenehm", "Sehr Warm"];
-    Et[_r.ΔᐃⲆⵠⵠ] = ["Bauer", "Deine Pflanzen wachsen schneller", "Hält dich warm außerhalb von Wasser und Winter"];
-    Et[_r.ΔΔᐃⲆΔ] = ["Winterkapuze", "Du bist ein Wilder Schurke", "Du kannst jemand bestehlen solange:", "1) Es nacht ist", "2) Du nichts trägst", "3) dich niemand für vier Sekunden berührt hat", "4) Du nicht in der Nähe eines Feuers bist", "5) Dein Ziel keine Winterbauernkleidung trägt", "Hält dich warm außerhalb von Wasser und Winter"];
-    Et[_r.ΔᐃⵠⲆΔ] = ["Winterbauern", "Deine Pflanzen wachsen deutlich schneller", "Hält dich warm außerhalb von Wasser und Winter"];
-    Et[_r.ᐃⲆⵠⲆⲆ] = ["Tauchermaske", "Du bist schneller im Wasser", "Hält dich warm im Wasser", "Verteidigung gegen Spieler: 2, Verteidigung gegen Tiere: 8"];
-    Et[_r.ᐃⵠⵠⲆΔ] = ["Supertauchermaske", "Du bist sehr schnell im Wasser", "Hält dich warm im Wasser", "Verteidigung gegen Spieler: 4, Verteidigung gegen Tiere: 16"];
-    Et[_r.ᐃⲆΔᐃᐃ] = ["Drachenkugel", "Erhalten bei abschließung der Quest"];
-    Et[_r.ⵠⵠⲆⵠⲆ] = ["Drachenherz", "Verwandelt dich in einen Geist, sobald du stirbst!", "Du bist für 60 Sekunden ein Geist", "Finde ein Wiederbelebungsstein."];
-    Et[_r.ΔᐃΔᐃⵠ] = ["Grüner Edelstein", "Du hast nicht gemogelt, versprochen?"];
-    Et[_r.ⵠⲆⲆΔᐃ] = ["Orangener Edelstein", "Nur ein echter Pirat findet ihn!"];
-    Et[_r.ΔΔⲆⲆᐃ] = ["Blauer Edelstein", "Für sehr nette Leute"];
-    Et[_r.ᐃⲆΔⵠⵠ] = ["Grüne Krone", "Du heilst dich selbst sehr schnell", "Heilung über Zeit: 40", "Verteidigung gegen Spieler: 4, Verteidigung gegen Tiere: 16"];
-    Et[_r.ⵠᐃⵠⵠΔ] = ["Orangene Krone", "Du fühlst dich plötzlich als hättest du mehr Glück", "Verteidigung gegen Spieler: 4, Verteidigung gegen Tiere: 16"];
-    Et[_r.ⲆⲆᐃᐃΔ] = ["Blaue Krone", "Sobald du stirbst wirst du ein Geist", "Du wirst allerdings dein Schwert und deine Spitzhacke verlieren", "Verteidigung gegen Spieler: 4, Verteidigung gegen Tiere: 16"];
-    Et[_r.ΔΔᐃΔΔ] = ["Eimer", "Nützlich um einen Brunnen zu füllen", "Ein Eimer ist vergleichbar mit zwölf Flaschen"];
-    Et[_r.ⲆΔⵠΔᐃ] = ["Leerer Eimer", "Du musst den Eimer in der Nähe einer Wasserquelle füllen"];
-    Et[_r.ΔᐃᐃⵠΔ] = ["Flasche", "Erlaubt dir überall Wasser zu trinken", "Wasser: 50"];
-    Et[_r.ᐃⲆⵠΔᐃ] = ["Leere Flasche", "Du musst die Flasche in der Nähe einer Wasserquelle füllen"];
-    Et[_r.ⲆΔᐃΔⲆ] = ["Leere Gießkanne", "Du musst es mit einer Wasserquelle füllen"];
-    Et[_r.ᐃᐃΔⵠΔ] = ["Gießkanne", "Erlaubt das wässern von Pflanzen", "Schaden: 1"];
-    Et[_r.ⵠⲆᐃᐃ] = ["Rucksack", "Mehr Platz im Inventar!"];
-    Et[_r.ⵠΔΔΔⲆ] = ["Papier", "Wird fürs Büchermachen verwendet"];
-    Et[_r.ᐃⵠΔΔⲆ] = ["Buch", "Reduziert die benötigte Zeit beim herstellen von Gegenständen", "Muss in der Hand gehalten werden um den Effekt zu nutzen", "Schaden: 1"];
-    Et[_r.ᐃΔᐃⲆᐃ] = ["Verband", "Heile dich schneller", "Heilung über Zeit: 30", "Effekt: 5"];
-    Et[_r.ⵠⵠⲆⵠᐃ] = ["Schloss", "Erlaubt dir deine Truhe zu verschließen"];
-    Et[_r.ᐃⵠᐃⲆⵠ] = ["Dietrich", "Erlaubt dir eine verschlossene Truhe zu öffnen"];
-    Et[_r.ⲆⵠᐃᐃΔ] = ["Totem", "Erlaubt dir ein Team zu gründen", "Teile Türen und Truhen", "verletzende Strukturen schaden deinen Freunden nicht mehr"];
-    Et[_r.ⲆᐃⲆᐃⵠ] = ["Brücke", "Sehr nützlich über Wasser", "Es erlaubt dir zu trinken ohne zu ertrinken", "lässt dich schneller auf dem Wasser laufen"];
-    Et[_r.ⵠΔᐃᐃᐃ] = ["Schild", "Hinterlasse eine Nachricht für andere hier", "Haltbarkeit: 200"];
-    Et[_r.ⲆᐃⵠΔΔ] = ["Dach", "Versteckt dich ein wenig und hält warm dabei!"];
-    Et[_r.ⲆⵠⲆⵠⵠ] = ["Brunnen", "Erlaubt dir deine Flasche zu füllen, eine mobile Wasserquelle", "Haltbarkeit: 1000"];
-    Et[_r.ⲆⲆⲆⲆⵠ] = ["Holzwand", "Kennst du den Wandtanz?", "Haltbarkeit: 1000"];
-    Et[_r.ΔᐃⵠⲆⲆ] = ["Steinwand", "Es sieht ein wenig Ernsthafter aus.", "Haltbarkeit: 1500"];
-    Et[_r.ᐃᐃᐃᐃᐃ] = ["Goldwand", "Gold an deiner Wand? Es leuchtet ein wenig.", "Haltbarkeit: 2000"];
-    Et[_r.ⵠᐃⲆᐃⵠ] = ["Diamantwand", "So leuchtend, pass auf deine Augen auf", "Haltbarkeit: 2500"];
-    Et[_r.ᐃΔⵠⵠΔ] = ["Amethystwand", "Du musst dich wirklich fürchten raus zu gehen!", "Haltbarkeit: 3000"];
-    Et[_r.ⵠⵠΔⵠⲆ] = ["Holzstacheln", "Kann deine Gegner verletzen", "Schaden: 10, Schaden beim Angreifen: 2", "Haltbarkeit: 150"];
-    Et[_r.ⲆᐃⲆΔΔ] = ["Steinstacheln", "Ich würde lieber nicht dein Gegner sein.", "Schaden: 20", "Schaden beim Angreifen: 3", "Haltbarkeit: 300"];
-    Et[_r.Ⲇᐃⵠᐃⵠ] = ["Goldstacheln", "Du bist grausam.", "Schaden: 30", "Schaden beim Angreifen: 3", "Haltbarkeit: 600"];
-    Et[_r.ⲆⵠᐃΔΔ] = ["Diamantstacheln", "Du magst Gesellschaft nicht.", "Schaden: 40", "Schaden beim Angreifen: 4", "Haltbarkeit: 1200"];
-    Et[_r.ᐃⲆⵠᐃᐃ] = ["Amethyststacheln", "Was zur Hölle haben deine Nachbarn dir angetan?", "Schaden: 50", "Schaden beim Angreifen: 4", "Haltbarkeit: 2400"];
-    Et[_r.ΔⵠⵠⲆᐃ] = ["Holztür", "Kann von dir oder deinen Freunden geöffnet werden", "Haltbarkeit: 1000"];
-    Et[_r.ⵠΔᐃⲆΔ] = ["Steintür", "Eine stärkere Tür ist ernsthafter", "Haltbarkeit: 1500"];
-    Et[_r.ᐃΔⵠⵠⵠ] = ["Goldtür", "Baust du el dorado?", "Haltbarkeit: 2000"];
-    Et[_r.ⵠΔᐃΔΔ] = ["Diamanttür", "Für ein scheinendes Haus", "Haltbarkeit: 2500"];
-    Et[_r.Δⵠᐃⵠᐃ] = ["Amethysttür", "Ist dein Haus ein verschlossener Safe?", "Haltbarkeit: 3500"];
-    Et[_r.ⲆᐃΔᐃⵠ] = ["Ofen", "Wärmt dich", "Es verbraucht alle 5 Sekunden eine Einheit Holz", "Haltbarkeit: 1000"];
-    Et[_r.ⵠΔⲆⲆΔ] = ["Windmühle", "Kann mit Weizen, Mehl herstellen", "Es braucht 5 Sekunden um Mehl herzustellen", "Gibt dir Punkte während es arbeitet", "Haltbarkeit: 2000"];
-    Et[_r.Δᐃᐃᐃᐃ] = ["Brotofen", "Erlaubt dir mit Mehl, Brot herzustellen", "Es braucht 5 Sekunden um Brot herzustellen", "Gibt dir Punkte während es arbeitet", "Haltbarkeit: 2000"];
-    Et[_r.ⲆⲆⵠⵠᐃ] = ["Wiederbelebungsstein", "Es ist Magie", "Wiederbelebt dich, wenn du ein Geist bist", "Du wirst deine Waffe und Spitzhacke verlieren", "Haltbarkeit: 200"];
-    Et[ΔΔᐃ.ⵠⵠΔⵠΔⲆᐃ] = "Du kannst diesem Server nicht beitreten";
-    Et[ΔΔᐃ.ⵠⵠᐃⲆⲆᐃⲆ] = "Gekickt: ";
-    Et[ΔΔᐃ.ⵠᐃΔⲆⲆⲆⲆ] = "Dein Schlüssel wurde bereits von jemand anderem benutzt";
-    Et[ΔΔᐃ.ⲆᐃΔⲆⲆᐃⲆ] = "Dein Schlüssel ist falsch";
-    Et[ΔΔᐃ.ⵠᐃᐃⲆᐃᐃᐃ] = "Deine Version ist veraltet, säubere dein Cache";
-    Et[ΔΔᐃ.ΔⲆᐃΔΔΔⵠ] = "Es gibt keine neuen Ressourcen";
-    Et[ΔΔᐃ.ⲆΔⲆᐃᐃⵠᐃ] = "Du hast einen Tag überlebt";
-    Et[ΔΔᐃ.ⵠΔᐃΔᐃⵠΔ] = "Du hast überlebt ";
-    Et[ΔΔᐃ.ᐃⵠⲆⲆᐃΔⵠ] = " Tage";
-    Et[ΔΔᐃ.ⲆᐃΔⲆᐃᐃᐃ] = "Du bist gestorben ;-;";
-    Et[ΔΔᐃ.ⲆΔΔⵠᐃⲆΔ] = "Server kann kein Spawnplatz finden! Drücke immer wieder auf spielen!";
-    Et[ΔΔᐃ.ⵠⵠⲆᐃᐃΔΔ] = "Server ist voll! Drücke immer wieder auf spielen!";
-    Et[ΔΔᐃ.EMPTY] = "Ressource ist leer";
-    Et[ΔΔᐃ.ⵠⲆᐃⲆⵠᐃⵠ] = "Dein Inventar ist voll (rechts-klick um Gegenstände zu entfernen)";
-    Et[ΔΔᐃ.ⲆᐃᐃⲆᐃᐃⲆ] = " ist gestorben";
-    Et[ΔΔᐃ.ⲆᐃⲆⵠⲆᐃⲆ] = "Das ist nicht das richtige Werkzeug";
-    Et[ΔΔᐃ.ΔⵠⵠⲆᐃᐃⵠ] = "Du bist einem Team beigetreten";
-    Et[ΔΔᐃ.ᐃⵠᐃᐃᐃⲆΔ] = "Du bist gestorben";
-    Et[ΔΔᐃ.ⲆᐃⵠΔᐃᐃⲆ] = " ist dem Team beigetreten";
-    Et[ΔΔᐃ.ⲆΔΔΔⵠⲆᐃ] = "Dein Team wurde zerstört";
-    Et[ΔΔᐃ.ⵠⲆⲆΔᐃᐃΔ] = "Du hast das Team verlassen";
-    Et[ΔΔᐃ.ᐃⵠⲆᐃᐃᐃᐃ] = " hat das Team verlassen";
-    Et[ΔΔᐃ.ΔᐃⵠΔⵠ] = "Jemand hat dein Token gestohlen :>";
-    Et[ΔΔᐃ.ᐃⵠⵠⲆᐃᐃΔ] = "Suche dir ein Server aus";
-    Et[ΔΔᐃ.ᐃᐃⲆⲆⲆ] = "Spieler";
-    Et[ΔΔᐃ.ⵠᐃΔⲆᐃⲆᐃ] = "alle Spieler";
-    Et[ΔΔᐃ.ᐃᐃⵠⵠⵠᐃΔ] = "Spieler in diesem Modus";
-    Et[ΔΔᐃ.ⲆⲆⵠᐃⵠⵠⵠ] = "Bald verfügbar...";
+    Et[7] = ["Hand"];
+    Et[140] = ["Boden", "Dreckig!"];
+    Et[126] = ["Sand", "Ich habe es in meine Augen bekommen!"];
+    Et[109] = ["Holz", "Du kannst niemals zu viel haben!"];
+    Et[108] = ["Stein", "Auch Fels gennant"];
+    Et[111] = ["Gold", "Sei großzügig, gib anderen etwas ab "];
+    Et[112] = ["Diamant", "Was wirst du daraus machen?"];
+    Et[121] = ["Amethyst", "Es ist Mauve farbend, genauso wie Lapa"];
+    Et[131] = ["Mehl", "wird fürs Backen gebraucht"];
+    Et[133] = ["Keks", "Ein prächtiger Keks von Großmutter", "Essen: 50"];
+    Et[136] = ["Ein Kuchen", "Perfekter Kuchen für Gourmets", "Essen: 100"];
+    Et[116] = ["rohes Fleisch", "Du kannst es mit einem Feuer braten", "verursacht Lebensmittelvergiftung: 10", "Essen: 15"];
+    Et[117] = ["gebratenes Fleisch", "Einmal blutiges Steak, bitte", "Essen: 35"];
+    Et[137] = ["roher Fisch", "Ich glaube es lebt noch", "verursacht Lebensmittelvergiftung: 10", "Essen: 18"];
+    Et[138] = ["gebratener Fisch", "Mit einer Zitrone ist es perfekt", "Essen: 35"];
+    Et[143] = ["Brot", "Ein vorzügliches französiches Brot", "Es wird als Währung im Markt benutzt", "Essen: 15"];
+    Et[145] = ["Sandwich", "Schmeckt wie Krabbenburger", "Essen: 100"];
+    Et[200] = ["Süßigkeiten", "Nur für Kinder!", "Essen: 100"];
+    Et[199] = ["Zuckerstange", "Probier mal, es schmeckt hervorragend", "Essen: 100"];
+    Et[201] = ["Girlande", "perfekter Schmuck für Dächer"];
+    Et[115] = ["Beeren Saatgut", "Wird eine Beere", "Entstehung: 2min", "Wachstum: 55s", "Wasserbedarf: 3min 20s", "Haltbarkeit: 700", "Lebenszeit: 8 Tage"];
+    Et[110] = ["Beere", "Beeren lecker!", "Essen: 10"];
+    Et[132] = ["Weizen Saatgut", "Wird zu Weizen", "Entstehung: 2min", "Wachstum: 16s", "Wasserbedarf: 2min", "Haltbarkeit: 700", "Lebenszeit: 8 Tage"];
+    Et[134] = ["Wildes Weizen", "Wenn es in eine Windmühle platziert wird, wird es zu Mehl"];
+    Et[188] = ["Kürbis Saatgut", "Wird zu Kürbis", "Entstehung: 2min 40s", "Wachstum: 2min", "Wasserbedarf: 2min", "Haltbarkeit: 700", "Lebenszeit: 8 Tage"];
+    Et[189] = ["Kürbis", "Es erinnert mich an Halloween", "Essen: 30"];
+    Et[191] = ["Knoblauch Saatgut", "Sehr gefährlich für Vampire", "Schaden: 20", "Entstehung: 4min", "Wachstum: 1min 10s", "Wasserbedarf: 1min 40s", "Haltbarkeit: 700", "Lebenszeit: 8 Tage"];
+    Et[192] = ["Knoblauch", "Heilt dich und hält die Kälte fern", "Essen: 14", "Heilung über Zeit: 30", "Effekt: 1"];
+    Et[193] = ["Dornenbusch Saatgut", "Kann deinen Gegnern Schaden zufügen", "Schaden: 20", "Entstehung: 4min", "Wachstum: 15s", "Wasserbedarf: 3min", "Haltbarkeit: 1000", "Lebenszeit: 8 Tage"];
+    Et[194] = ["Dornenbusch", "Es sticht!"];
+    Et[141] = ["Topf", "Ernsthaft, benutz es", "Mit diesem GMO dünger deine Pflanzen", "lässt sie schneller wachsen und reduziert den Wasserverbrauch", "Haltbarkeit: 2000"];
+    Et[142] = ["Eis", "Nützlich um Kuchen und Wasser herzustellen"];
+    Et[55] = ["Schraubenschlüssel", "Es kann Wände, Türen und Stacheln reparieren", "Schaden: 2"];
+    Et[174] = ["Wolfsfell", "Welpe? Aber wo ist der Welpe?!"];
+    Et[2] = ["Hasenfell", "Der Hase war so süß..."];
+    Et[178] = ["Klares Fell", "Du bist eine Brotfabrik"];
+    Et[179] = ["Dunkles Fell", "Du machst dich bereit etwas falsches zu vollführen"];
+    Et[146] = ["Winter Fell", "Diese Tiere wollten nur eine Umarmung..."];
+    Et[139] = ["Schuppen", "Es riecht wie Fisch!"];
+    Et[129] = ["Kraken Haut", "Warst du nicht zu ängstlich?"];
+    Et[113] = ["Lagerfeuer", "Wärmt dich!", "Haltbarkeit: 150", "Lebensdauer: 2min"];
+    Et[118] = ["Großes Lagerfeuer", "Wärmt dich länger!", "Haltbarkeit: 400", "Lebensdauer: 6min"];
+    Et[114] = ["Werkbank", "Sehr nützlich um allerlei Sachen herzustellen"];
+    Et[161] = ["Faden", "Wird benötigt um Mützen und Rucksäcke herzustellen  "];
+    Et[147] = ["Diamant Faden", "Wird für spezielle Mützen gebraucht"];
+    Et[167] = ["Truhe", "Damit kannst du Gegenstände lagern", "Haltbarkeit: 500"];
+    Et[57] = ["Holzschwert", "Funktioniert das?", "Schaden: 12", "Schaden an Gebäuden: 4"];
+    Et[0] = ["Steinschwert", "Sei nett zu Anderen", "Schaden: 19", "Schaden an Gebäuden: 6"];
+    Et[5] = ["Goldschwert", "König des Waldes", "Schaden: 22", "Schaden an Gebäuden: 7"];
+    Et[6] = ["Diamantschwert", "Du kannst die Kraft spüren", "Schaden: 24", "Schaden an Gebäuden: 8"];
+    Et[9] = ["Piratenschwert", "Ayyyyy!", "Hat eine höhere Reichweite als ein normales Schwert", "Schaden: 24", "Schaden an Gebäuden: 8"];
+    Et[30] = ["Amethystschwert", "Mauve ist die schönste Farbe der Welt", "Schaden: 27", "Schaden an Gebäuden: 9"];
+    Et[62] = ["Drachenschwert", "Keine Gnade!", "Schaden: 30", "Schaden an Gebäuden: 10"];
+    Et[16] = ["Drachenspeer", "Töte sie alle!", "Schaden: 22", "Schaden an Gebäuden: 6"];
+    Et[8] = ["Holzspitzhacke", "Kann nur Holz und Stein abbauen", "Schaden: 1"];
+    Et[1] = ["Steinspitzhacke", "Kann Holz, Stein und Gold abbauen", "Schaden: 2"];
+    Et[3] = ["Goldspitzhacke", "Kann auch Diamanten abbauen", "Schaden: 3", "Schaden an Gebäuden: 1"];
+    Et[4] = ["Diamantspitzhacke", "Kann alles abbauen", "Schaden: 4", "Schaden an Gebäuden: 1"];
+    Et[31] = ["Amethystspitzhacke", "Kann alles abbauen, sieht außerdem gut aus!", "Schaden: 5", "Schaden an Gebäuden: 1"];
+    Et[35] = ["Steinhammer", "Nützlich um Gebäude zu zerstören", "Funktioniert nicht gut gegen Diamant oder Amethyst", "Schaden: 2", "Schaden an Gebäuden: 20"];
+    Et[36] = ["Goldhammer", "Nützlich um Gebäude zu zerstören", "Funktioniert nicht gut gegen Amethyst", "Schaden: 3", "Schaden an Gebäuden: 30"];
+    Et[37] = ["Diamanthammer", "Nützlich um Gebäude zu zerstören", "Schaden: 4", "Schaden an Gebäuden: 40"];
+    Et[38] = ["Amethysthammer", "Nützlich um Gebäude zu zerstören", "Schaden: 5", "Schaden an Gebäuden: 50"];
+    Et[45] = ["Superhammer", "Willst du die Welt zerstören?", "Schaden: 12", "Schaden an Gebäuden: 70"];
+    Et[12] = ["Holzspeer", "Wie ein Stock, nur mit dem Unterschied, dass es sticht.", "Schaden: 10", "Schaden an Gebäuden: 2"];
+    Et[13] = ["Steinspeer", "Der Anfang der Evolution!", "Schaden: 14", "Schaden an Gebäuden: 4"];
+    Et[14] = ["Goldspeer", "Pass auf, es sticht!", "Schaden: 15", "Schaden an Gebäuden: 5"];
+    Et[15] = ["Diamantspeer", "Du bist bereit einen Drachen zu töten", "Schaden: 17", "Schaden an Gebäuden: 5"];
+    Et[33] = ["AmethystSpeer", "Drachen jagen dir keine Angst mehr ein", "Schaden: 18", "Schaden an Gebäuden: 6"];
+    Et[46] = ["Steinschaufel", "Grab herum um Dreck, Eis und Sand zu bekommen", "Du kannst auch Mineralien bekommen", "Schaden: 2"];
+    Et[50] = ["Goldschaufel", "Grab herum um Dreck, Eis und Sand zu bekommen", "Du kannst auch Mineralien bekommen", "Schaden: 3", "Schaden an Gebäuden: 1"];
+    Et[51] = ["Diamantschaufel", "Grab herum um Dreck, Eis und Sand zu bekommen", "Du kannst auch Mineralien bekommen", "Schaden: 4", "Schaden an Gebäuden: 1"];
+    Et[52] = ["Amethystschaufel", "Grab herum um Dreck, Eis und Sand zu bekommen", "Du kannst auch Mineralien bekommen", "Schaden: 5", "Schaden an Gebäuden: 1"];
+    Et[58] = ["Holzhelm", "Besser als nichts", "Verteidigung gegen Spieler: 1", "Verteidigung gegen Tiere: 4"];
+    Et[25] = ["Steinhelm", "Du bist bereit zu kämpfen!", "Verteidigung gegen Spieler: 2", "Verteidigung gegen Tiere: 8"];
+    Et[26] = ["Goldhelm", "AKA Der Helm der Unbarmherzigen", "Verteidigung gegen Spieler: 4", "Verteidigung gegen Tiere: 13"];
+    Et[27] = ["Diamanthelm", "Gib nicht zu viel an", "Verteidigung gegen Spieler: 5", "Verteidigung gegen Tiere: 19"];
+    Et[43] = ["Amethysthelm", "Du musst vor nichts mehr angst haben", "Verteidigung gegen Spieler: 6", "Verteidigung gegen Tiere: 23"];
+    Et[59] = ["Drachenhelm", "Du wirst die Welt erobern", "Verteidigung gegen Spieler: 8", "Verteidigung gegen Tiere: 27"];
+    Et[23] = ["Erkunderhut", "Tiere beachten dich nicht mehr", "mach aber keine Geräusche!", "Hält dich warm außerhalb von Wasser und Winter"];
+    Et[41] = ["Weihnachtshut", "Oh, oh, oh, fröhliche Weihnachten", "Hält dich warm außerhalb von Wasser und Winter"];
+    Et[42] = ["Elfenhut", "Lass dich nicht ausnutzen, du kleiner Schneeelf!", "Hält dich warm außerhalb von Wasser und Winter"];
+    Et[83] = ["Kapuze", "Du bist ein Schurke", "Du kannst jemand bestehlen solange:", "1) Es nacht ist", "2) Du nichts trägst", "3) dich niemand für acht Sekunden berührt hat", "4) Du nicht in der Nähe eines Feuers bist", "5) Dein Ziel keine Bauernkleidung trägt", "Hält dich warm außerhalb von Wasser und Winter"];
+    Et[10] = ["Ohrwärmer", "Eine Art kleiner chapka.", "Hält dich warm außerhalb von Wasser und Winter"];
+    Et[11] = ["Chapka", "Auch Mantel genannt.", "Hält dich warm außerhalb von Wasser und Winter"];
+    Et[40] = ["Winterschaal und Kappe", "Sehr angenehm", "Sehr Warm"];
+    Et[84] = ["Bauer", "Deine Pflanzen wachsen schneller", "Hält dich warm außerhalb von Wasser und Winter"];
+    Et[85] = ["Winterkapuze", "Du bist ein Wilder Schurke", "Du kannst jemand bestehlen solange:", "1) Es nacht ist", "2) Du nichts trägst", "3) dich niemand für vier Sekunden berührt hat", "4) Du nicht in der Nähe eines Feuers bist", "5) Dein Ziel keine Winterbauernkleidung trägt", "Hält dich warm außerhalb von Wasser und Winter"];
+    Et[86] = ["Winterbauern", "Deine Pflanzen wachsen deutlich schneller", "Hält dich warm außerhalb von Wasser und Winter"];
+    Et[48] = ["Tauchermaske", "Du bist schneller im Wasser", "Hält dich warm im Wasser", "Verteidigung gegen Spieler: 2, Verteidigung gegen Tiere: 8"];
+    Et[47] = ["Supertauchermaske", "Du bist sehr schnell im Wasser", "Hält dich warm im Wasser", "Verteidigung gegen Spieler: 4, Verteidigung gegen Tiere: 16"];
+    Et[185] = ["Drachenkugel", "Erhalten bei abschließung der Quest"];
+    Et[149] = ["Drachenherz", "Verwandelt dich in einen Geist, sobald du stirbst!", "Du bist für 60 Sekunden ein Geist", "Finde ein Wiederbelebungsstein."];
+    Et[175] = ["Grüner Edelstein", "Du hast nicht gemogelt, versprochen?"];
+    Et[176] = ["Orangener Edelstein", "Nur ein echter Pirat findet ihn!"];
+    Et[177] = ["Blauer Edelstein", "Für sehr nette Leute"];
+    Et[77] = ["Grüne Krone", "Du heilst dich selbst sehr schnell", "Heilung über Zeit: 40", "Verteidigung gegen Spieler: 4, Verteidigung gegen Tiere: 16"];
+    Et[78] = ["Orangene Krone", "Du fühlst dich plötzlich als hättest du mehr Glück", "Verteidigung gegen Spieler: 4, Verteidigung gegen Tiere: 16"];
+    Et[79] = ["Blaue Krone", "Sobald du stirbst wirst du ein Geist", "Du wirst allerdings dein Schwert und deine Spitzhacke verlieren", "Verteidigung gegen Spieler: 4, Verteidigung gegen Tiere: 16"];
+    Et[180] = ["Eimer", "Nützlich um einen Brunnen zu füllen", "Ein Eimer ist vergleichbar mit zwölf Flaschen"];
+    Et[181] = ["Leerer Eimer", "Du musst den Eimer in der Nähe einer Wasserquelle füllen"];
+    Et[127] = ["Flasche", "Erlaubt dir überall Wasser zu trinken", "Wasser: 50"];
+    Et[128] = ["Leere Flasche", "Du musst die Flasche in der Nähe einer Wasserquelle füllen"];
+    Et[130] = ["Leere Gießkanne", "Du musst es mit einer Wasserquelle füllen"];
+    Et[49] = ["Gießkanne", "Erlaubt das wässern von Pflanzen", "Schaden: 1"];
+    Et[29] = ["Rucksack", "Mehr Platz im Inventar!"];
+    Et[120] = ["Papier", "Wird fürs Büchermachen verwendet"];
+    Et[28] = ["Buch", "Reduziert die benötigte Zeit beim herstellen von Gegenständen", "Muss in der Hand gehalten werden um den Effekt zu nutzen", "Schaden: 1"];
+    Et[195] = ["Verband", "Heile dich schneller", "Heilung über Zeit: 30", "Effekt: 5"];
+    Et[148] = ["Schloss", "Erlaubt dir deine Truhe zu verschließen"];
+    Et[158] = ["Dietrich", "Erlaubt dir eine verschlossene Truhe zu öffnen"];
+    Et[159] = ["Totem", "Erlaubt dir ein Team zu gründen", "Teile Türen und Truhen", "verletzende Strukturen schaden deinen Freunden nicht mehr"];
+    Et[125] = ["Brücke", "Sehr nützlich über Wasser", "Es erlaubt dir zu trinken ohne zu ertrinken", "lässt dich schneller auf dem Wasser laufen"];
+    Et[183] = ["Schild", "Hinterlasse eine Nachricht für andere hier", "Haltbarkeit: 200"];
+    Et[190] = ["Dach", "Versteckt dich ein wenig und hält warm dabei!"];
+    Et[182] = ["Brunnen", "Erlaubt dir deine Flasche zu füllen, eine mobile Wasserquelle", "Haltbarkeit: 1000"];
+    Et[162] = ["Holzwand", "Kennst du den Wandtanz?", "Haltbarkeit: 1000"];
+    Et[163] = ["Steinwand", "Es sieht ein wenig Ernsthafter aus.", "Haltbarkeit: 1500"];
+    Et[164] = ["Goldwand", "Gold an deiner Wand? Es leuchtet ein wenig.", "Haltbarkeit: 2000"];
+    Et[165] = ["Diamantwand", "So leuchtend, pass auf deine Augen auf", "Haltbarkeit: 2500"];
+    Et[122] = ["Amethystwand", "Du musst dich wirklich fürchten raus zu gehen!", "Haltbarkeit: 3000"];
+    Et[160] = ["Holzstacheln", "Kann deine Gegner verletzen", "Schaden: 10, Schaden beim Angreifen: 2", "Haltbarkeit: 150"];
+    Et[168] = ["Steinstacheln", "Ich würde lieber nicht dein Gegner sein.", "Schaden: 20", "Schaden beim Angreifen: 3", "Haltbarkeit: 300"];
+    Et[169] = ["Goldstacheln", "Du bist grausam.", "Schaden: 30", "Schaden beim Angreifen: 3", "Haltbarkeit: 600"];
+    Et[170] = ["Diamantstacheln", "Du magst Gesellschaft nicht.", "Schaden: 40", "Schaden beim Angreifen: 4", "Haltbarkeit: 1200"];
+    Et[123] = ["Amethyststacheln", "Was zur Hölle haben deine Nachbarn dir angetan?", "Schaden: 50", "Schaden beim Angreifen: 4", "Haltbarkeit: 2400"];
+    Et[166] = ["Holztür", "Kann von dir oder deinen Freunden geöffnet werden", "Haltbarkeit: 1000"];
+    Et[171] = ["Steintür", "Eine stärkere Tür ist ernsthafter", "Haltbarkeit: 1500"];
+    Et[172] = ["Goldtür", "Baust du el dorado?", "Haltbarkeit: 2000"];
+    Et[173] = ["Diamanttür", "Für ein scheinendes Haus", "Haltbarkeit: 2500"];
+    Et[124] = ["Amethysttür", "Ist dein Haus ein verschlossener Safe?", "Haltbarkeit: 3500"];
+    Et[119] = ["Ofen", "Wärmt dich", "Es verbraucht alle 5 Sekunden eine Einheit Holz", "Haltbarkeit: 1000"];
+    Et[135] = ["Windmühle", "Kann mit Weizen, Mehl herstellen", "Es braucht 5 Sekunden um Mehl herzustellen", "Gibt dir Punkte während es arbeitet", "Haltbarkeit: 2000"];
+    Et[144] = ["Brotofen", "Erlaubt dir mit Mehl, Brot herzustellen", "Es braucht 5 Sekunden um Brot herzustellen", "Gibt dir Punkte während es arbeitet", "Haltbarkeit: 2000"];
+    Et[151] = ["Wiederbelebungsstein", "Es ist Magie", "Wiederbelebt dich, wenn du ein Geist bist", "Du wirst deine Waffe und Spitzhacke verlieren", "Haltbarkeit: 200"];
+    Et[300] = "Du kannst diesem Server nicht beitreten";
+    Et[301] = "Gekickt: ";
+    Et[302] = "Dein Schlüssel wurde bereits von jemand anderem benutzt";
+    Et[303] = "Dein Schlüssel ist falsch";
+    Et[304] = "Deine Version ist veraltet, säubere dein Cache";
+    Et[305] = "Es gibt keine neuen Ressourcen";
+    Et[306] = "Du hast einen Tag überlebt";
+    Et[307] = "Du hast überlebt ";
+    Et[308] = " Tage";
+    Et[309] = "Du bist gestorben ;-;";
+    Et[310] = "Server kann kein Spawnplatz finden! Drücke immer wieder auf spielen!";
+    Et[311] = "Server ist voll! Drücke immer wieder auf spielen!";
+    Et[312] = "Ressource ist leer";
+    Et[313] = "Dein Inventar ist voll (rechts-klick um Gegenstände zu entfernen)";
+    Et[314] = " ist gestorben";
+    Et[315] = "Das ist nicht das richtige Werkzeug";
+    Et[316] = "Du bist einem Team beigetreten";
+    Et[317] = "Du bist gestorben";
+    Et[318] = " ist dem Team beigetreten";
+    Et[319] = "Dein Team wurde zerstört";
+    Et[320] = "Du hast das Team verlassen";
+    Et[321] = " hat das Team verlassen";
+    Et[322] = "Jemand hat dein Token gestohlen :>";
+    Et[323] = "Suche dir ein Server aus";
+    Et[324] = "Spieler";
+    Et[325] = "alle Spieler";
+    Et[326] = "Spieler in diesem Modus";
+    Et[327] = "Bald verfügbar...";
     document.getElementById("nickname_input").placeholder = "Spitzname";
     Gt[ig] = ["Du wurdest ohne Grund getötet"];
     Gt[og] = ["Du bist verhungert, wie der Name des Spiels andeutet"];
@@ -8342,23 +8342,23 @@
   }
   const At = tk;
   function Bt() {
-    Et[_r.ⵠᐃΔⵠΔ] = ["You feel a great power emanating from this orb"];
+    Et[184] = ["You feel a great power emanating from this orb"];
     Gt[22] = ["This crab, though frightening in nature, pinched your fingertips so hard that you had a heart attack."];
-    Et[_r.ⲆⵠᐃΔᐃ] = ["Crab sticks", "Oh, yeah? Is there crab in the crab sticks?", "Food: 20"];
-    Et[ΔΔᐃ.ⲆΔⵠⵠⲆⲆΔ] = " BACK TO THE GAME";
-    Et[ΔΔᐃ.ⵠⲆⵠⵠⵠᐃⲆ] = " Share on Twitter";
-    Et[ΔΔᐃ.ⵠᐃᐃⲆΔᐃᐃ] = " Share on Facebook";
-    Et[ΔΔᐃ.ΔΔⲆⲆⵠⲆΔ] = "You can buy items on the shop in the next game with your points";
-    Et[ΔΔᐃ.POINTS] = "points";
-    Et[ΔΔᐃ.ⵠΔΔᐃᐃⲆⲆ] = "Score";
-    Et[ΔΔᐃ.ⲆⵠⲆΔⲆⲆᐃ] = "Kill";
-    Et[ΔΔᐃ.ⵠⲆΔⵠΔⵠⲆ] = "Days survived";
-    Et[ΔΔᐃ.ⵠⲆΔᐃⵠΔⲆ] = "Building method: Free. Press G to change";
-    Et[ΔΔᐃ.ⵠⲆᐃᐃᐃΔⵠ] = "Building method: Grid. Press G to change";
-    Et[_r.ⵠⲆⵠᐃᐃ] = ["Crab Claw", "Crab claws can also be eaten", "Food: 10"];
-    Et[_r.Ⲇᐃᐃᐃᐃ] = ["Crab Spear", "Allow you to calm crabs, and heal them", "Damage: 14", "Building Damage: 4"];
-    Et[_r.ⲆⲆΔΔⵠ] = ["Crab Helmet", "You are the king of crabs!", "Crabs follow you", "They can't hit you and you can't hit them", "Players Defense: 4", "Animals Defense: 13"];
-    Et[_r.ΔⲆⵠΔΔ] = ["Bed", "Relax in this confortable bed", "You are less cold, less thirsty, and less hungry", "You will be cured faster", "Durability: 400"];
+    Et[196] = ["Crab sticks", "Oh, yeah? Is there crab in the crab sticks?", "Food: 20"];
+    Et[328] = " BACK TO THE GAME";
+    Et[329] = " Share on Twitter";
+    Et[330] = " Share on Facebook";
+    Et[331] = "You can buy items on the shop in the next game with your points";
+    Et[332] = "points";
+    Et[333] = "Score";
+    Et[334] = "Kill";
+    Et[335] = "Days survived";
+    Et[336] = "Building method: Free. Press G to change";
+    Et[337] = "Building method: Grid. Press G to change";
+    Et[197] = ["Crab Claw", "Crab claws can also be eaten", "Food: 10"];
+    Et[18] = ["Crab Spear", "Allow you to calm crabs, and heal them", "Damage: 14", "Building Damage: 4"];
+    Et[61] = ["Crab Helmet", "You are the king of crabs!", "Crabs follow you", "They can't hit you and you can't hit them", "Players Defense: 4", "Animals Defense: 13"];
+    Et[198] = ["Bed", "Relax in this confortable bed", "You are less cold, less thirsty, and less hungry", "You will be cured faster", "Durability: 400"];
     document.getElementById("typequest").innerHTML = "Chrono Quests";
     document.getElementById("timeremainingquest").innerHTML = "Time Remaining";
     document.getElementById("constraintquest").innerHTML = " Constraints";
@@ -8375,169 +8375,169 @@
       document.getElementById("claim_reward_" + a).innerHTML = "CLAIM REWARD!";
     }
     document.getElementById("quit_chronoquest").innerHTML = " QUIT";
-    Et[_r.ΔᐃΔΔΔ] = ["Ręka"];
-    Et[_r.ᐃᐃΔΔⵠ] = ["Ziemia", "Brudna!"];
-    Et[_r.ⲆⲆΔⲆᐃ] = ["Piasek", "Mam go w oczach!"];
-    Et[_r.ⵠᐃⵠⵠ] = ["Drewno", "Nie możesz mieć go wystarczająco!"];
-    Et[_r.ᐃΔⵠⲆ] = ["Kamień", "Także nazywany skałą"];
-    Et[_r.ᐃⲆⵠᐃ] = ["Złoto", "Bądź hojny, daj trochę innym"];
-    Et[_r.ᐃⲆΔⵠ] = ["Diament", "Co z nim zrobisz?"];
-    Et[_r.Ⲇⵠⵠⵠ] = ["Ametyst", "Jest Fiołkowy jak Lapa"];
-    Et[_r.ᐃⵠᐃⵠᐃ] = ["Mąka", "Używana w gotowaniu"];
-    Et[_r.ⲆᐃᐃⵠΔ] = ["Ciastko", "Przepyszne ciasteczko od babci", "Jedzenie: 50"];
-    Et[_r.ⵠᐃⲆⲆᐃ] = ["Ciasto", "Raj dla smakoszy", "Jedzenie: 100"];
-    Et[_r.ⵠⵠᐃᐃⵠ] = ["Surowe mięso", "Możesz je upiec w ogniu", "Powoduje zatrucie pokarmowe: 10", "Jedzenie: 15"];
-    Et[_r.ΔΔⵠⵠⲆ] = ["Pieczone mięso", "Krwisty stek, proszę", "Jedzenie: 35"];
-    Et[_r.ΔΔᐃⵠⲆ] = ["Surowa ryba", "Myślę, że nadal jest żywa", "Powoduje zatrucie pokarmowe: 10", "Jedzenie: 18"];
-    Et[_r.ⵠⲆΔⲆᐃ] = ["Pieczona ryba", "Z cytryną jest idealna", " Jedzenie: 35"];
-    Et[_r.ⲆⵠΔⲆΔ] = ["Chleb", "Świetny Francuski chleb", "Jest walutą używaną w markecie", "Jedzenie: 15"];
-    Et[_r.ⲆⲆΔⵠⵠ] = ["Kanapka", "Smakuje jak kraboburger", "Jedzenie: 100"];
-    Et[_r.ⲆⵠⲆⲆΔ] = ["Cukierki", "Tylko dla dzieci!", "Jedzenie: 100"];
-    Et[_r.ᐃΔᐃⵠⵠ] = ["Laska cukrowa", "Spróbuj, jest przepyszna", "Jedzenie: 100"];
-    Et[_r.ⵠᐃΔⲆⲆ] = ["Girlanda", "Idealna do dekorowania dachów"];
-    Et[_r.ⵠᐃΔⲆᐃ] = ["Nasionko jagody", "Wyrośnie w jagody", "Narodziny: 2min", "Rośnięcie: 55s", "Podlewanie: 3min 20s", "Wytrzymałość: 700", "Czas życia: 8 dni"];
-    Et[_r.ⵠᐃⲆⲆⲆ] = ["Jagody", "Jagody są pyszne!", "Jedzenie: 10"];
-    Et[_r.ⲆΔᐃΔΔ] = ["Nasiono pszenicy", "Wyrośnie w pszenicę", "Narodziny: 2min", "Rośnięcie: 16s", "Podlewanie: 2min", "Wytrzymałość: 700", "Czas życia: 8 dni"];
-    Et[_r.ⲆΔΔᐃⵠ] = ["Pszenica", "Zamienia się w mąkę jeżeli wrzucisz ją do wiatraka"];
-    Et[_r.ᐃⵠᐃᐃⵠ] = ["Nasiono dyni", "Wyrośnie w dynię", "Narodziny: 2min 40s", "Rośnięcie: 2min", "Podlewanie: 2min", "Wytrzymałość: 700", "Czas życia: 8 dni"];
-    Et[_r.ⵠᐃⵠΔⵠ] = ["Dynia", "Przypomina mi o Halloween", "Jedzenie: 30"];
-    Et[_r.ⲆⲆΔⲆⵠ] = ["Nasionko czosnku", "Bardzo niebezpieczne dla wampirów", "Obrażenia: 20", "Narodziny: 4min", "Rośnięcie: 1min 10s", "Podlewanie: 1min 40s", "Wytrzymałość: 700", "Czas życia: 8 dni"];
-    Et[_r.ⲆᐃΔᐃΔ] = ["Czosnek", "Leczy cię i redukuje zimno", "Jedzenie: 14", "Uzdrawia z biegiem czasu: 30", "Efekt: 1"];
-    Et[_r.ᐃⲆⲆᐃΔ] = ["Nasiono kolczastego krzewu", "Może zranić twoich wrogów", "Obrażenia: 20", "Narodziny: 4min", "Rośnięcie: 15s", "Podlewanie: 3min", "Wytrzymałość: 1000", "Czas życia: 8 dni"];
-    Et[_r.ᐃⲆᐃᐃΔ] = ["Kolczasty krzew", "Kłuje!"];
-    Et[_r.ΔΔΔⵠⵠ] = ["Donica", "Naprawdę, użyj jej", "Z tym genetycznie modyfikowanym nawozem, twoje rośliny", "będą rosły znacznie szybciej i będą potrzebować mniej wody", "Wytrzymałość: 2000"];
-    Et[_r.ᐃΔΔΔⲆ] = ["Lód", "Użyteczny do robienia ciast i wody"];
-    Et[_r.ᐃⵠᐃΔⵠ] = ["Klucz mechaniczny", "Do naprawiania drzwi i kolców", "Uszkodzenie: 2"];
-    Et[_r.ⲆⵠⵠΔᐃ] = ["Wilcza skóra", "Szczeniaczek? Ale gdzie jest szczeniaczek?!"];
-    Et[_r.ⵠⵠΔⵠΔ] = ["Skóra królika", "Ten królik był taki słodziutki..."];
-    Et[_r.ᐃΔΔⲆΔ] = ["Skóra", "Jesteś fabryką chleba"];
-    Et[_r.ⵠⲆΔᐃᐃ] = ["Ciemna skóra", "Byłeś gotowy zrobić coś złego"];
-    Et[_r.ⲆΔΔᐃᐃ] = ["Zimowa skóra", "Te zwierzęta chciały się tylko przytulić..."];
-    Et[_r.ⵠᐃΔⲆⵠ] = ["Łuski", "Pachnie jak ryba!"];
-    Et[_r.ΔᐃΔⲆᐃ] = ["Skóra krakena", "Nie byłeś zbyt przestraszony?"];
-    Et[_r.ΔᐃᐃⲆⲆ] = ["Ognisko", "Ociepli cię!", "Wytrzymałość: 150", "Czas życia: 2min"];
-    Et[_r.ᐃΔΔⵠΔ] = ["Duże ognisko", "Ociepli cię na dłużej!", "Wytrzymałość: 400", "Czas życia: 6min"];
-    Et[_r.ⵠⲆΔⵠᐃ] = ["Stół rzemieślniczy", "Użyteczny do stwarzania przedmiotów"];
-    Et[_r.ᐃΔⵠᐃⲆ] = ["Nić", "Używany w tworzeniu czapek i plecaków"];
-    Et[_r.ⲆⲆⲆᐃⵠ] = ["Diamentowa nić", "Używana w tworzeniu specjalnych czapek"];
-    Et[_r.ᐃⲆⲆⲆⲆ] = ["Skrzynia", "Pozwala ci na przechowywanie przedmiotów", "Wytrzymałość: 500"];
-    Et[_r.ΔⵠᐃΔᐃ] = ["Drewniany miecz", "To coś działa?", "Obrażenia: 12", "Obrażenia do budowli: 4"];
-    Et[_r.ᐃᐃⲆΔⲆ] = ["Kamienny miecz", "Bądź miły dla innych", "Obrażenia: 19", "Obrażenia do budowli: 6"];
-    Et[_r.ⵠΔΔΔΔ] = ["Złoty miecz", "Król lasu", "Obrażenia: 22", "Obrażenia do budowli: 7"];
-    Et[_r.ᐃΔⲆᐃΔ] = ["Diamentowy miecz", "Możesz poczuć moc", "Obrażenia: 24", "Obrażenia do budowli: 8"];
-    Et[_r.ⵠΔᐃᐃⵠ] = ["Piracki miecz", "Ayyyyy!", "Dłuższy niż zwykły miecz", "Obrażenia: 24", "Obrażenia do budowli: 8"];
-    Et[_r.ΔⲆᐃⵠΔ] = ["Ametystowy miecz", "fiołkowy to najpiękniejszy kolor na świecie", "Damage: 27", "Obrażenia do budowli: 9"];
-    Et[_r.ⵠᐃᐃΔⵠ] = ["Smoczy miecz", "Bez litości!", "Obrażenia: 30", "Obrażenia do budowli: 10"];
-    Et[_r.ⲆⲆΔᐃᐃ] = ["Smocza włócznia", "Zabij ich wszystkich!", "Obrażenia: 22", "Obrażenia do budowli: 6"];
-    Et[_r.ⲆΔⲆⲆⵠ] = ["Drewniany kilof", "Może wydobywać tylko kamienie i drewno", "Obrażenia: 1"];
-    Et[_r.ⲆⵠⵠⲆⲆ] = ["Kamienny kilof", "Może wydobywać drewno, kamienie i złoto", "Obrażenia: 2"];
-    Et[_r.ⵠᐃⲆΔΔ] = ["Złoty kilof", "Może także wydobywać diamenty", "Obrażenia: 3", "Obrażenia do budowli: 1"];
-    Et[_r.ᐃⲆⵠΔⲆ] = ["Diamentowy kilof", "Może wydobywać wszystko", "Obrażenia: 4", "Obrażenia do budowli: 1"];
-    Et[_r.ΔⲆⲆⵠⲆ] = ["Ametystowy kilof", "Może wydobywać wszystko. Wygląda fantastycznie!", "Obrażenia: 5", "Obrażenia do budowli: 1"];
-    Et[_r.ⲆᐃΔⲆΔ] = ["Kamienny młot", "Pomocny w niszczeniu budowli", "Nie działa najlepiej na ametyście", "Obrażenia: 2", "Obrażenia do budowli: 20"];
-    Et[_r.ⲆⲆⵠⲆⲆ] = ["Złoty młot", "Pomocny w niszczeniu budowli", "Nie działa najlepiej na ametyście", "Obrażenia: 3", "Obrażenia do budowli: 30"];
-    Et[_r.ⵠΔΔΔⵠ] = ["Diamentowy młot", "Pomocny w niszczeniu budowli", "Obrażenia: 4", "Obrażenia do budowli: 40"];
-    Et[_r.ᐃⵠⵠⵠᐃ] = ["Ametystowy młot", "Pomocny w niszczeniu budowli", "Obrażenia: 5", "Obrażenia do budowli: 50"];
-    Et[_r.ⵠⵠᐃᐃⲆ] = ["Super młot", "Miałeś kiedyś plan zniszczenia świata?", "Obrażenia: 12", "Obrażenia do budowli: 70"];
-    Et[_r.ᐃᐃΔⲆⲆ] = ["Drewniana włócznia", "Jak patyk, ale kłuje.", "Obrażenia: 10", "Obrażenia do budowli: 2"];
-    Et[_r.ⵠΔᐃⵠᐃ] = ["Kamienna włócznia", "Początek ewolucji!", "Obrażenia: 14", "Obrażenia do budowli: 4"];
-    Et[_r.ⵠᐃᐃⵠΔ] = ["Złota włócznia", "Uważaj, kłuje!", "Obrażenia: 15", "Obrażenia do budowli: 5"];
-    Et[_r.ᐃᐃᐃᐃⲆ] = ["Diamentowa włócznia", "Jesteś gotowy, aby zabić smoka", "Obrażenia: 17", "Obrażenia do budowli: 5"];
-    Et[_r.ᐃΔⵠⲆᐃ] = ["Ametystowa włócznia", "Smoki już nie są dla ciebie zagrożeniem", "Obrażenia: 18", "Obrażenia do budowli: 6"];
-    Et[_r.ᐃΔΔΔΔ] = ["Kamienna łopata", "Kop w ziemi aby zdobyć ziemię, lód i piasek", "Możesz także zdobyć minerały", "Obrażenia: 2"];
-    Et[_r.ⲆΔΔⵠⵠ] = ["Złota łopata", "Kop w ziemi aby zdobyć ziemię, lód i piasek", "Możesz także zdobyć minerały", "Obrażenia: 3", "Obrażenia do budowli: 1"];
-    Et[_r.ⵠᐃⵠᐃΔ] = ["Diamentowa łopata", "Kop w ziemi aby zdobyć ziemię, lód i piasek", "Możesz także zdobyć minerały", "Obrażenia: 4", "Obrażenia do budowli: 1"];
-    Et[_r.ⵠᐃⲆⲆⵠ] = ["Ametystowa łopata", "Kop w ziemi aby zdobyć ziemię, lód i piasek", "Możesz także zdobyć minerały", "Obrażenia: 5", "Obrażenia do budowli: 1"];
-    Et[_r.ᐃᐃⲆⵠⵠ] = ["Drewniany hełm", "Lepsze niż nic", "Obrona przed graczami: 1", "Obrona przed zwierzętami: 4"];
-    Et[_r.Δᐃᐃⵠᐃ] = ["Kamienny hełm", "Jesteś gotowy do bitwy!", "Obrona przed graczami: 2", "Obrona przed zwierzętami: 8"];
-    Et[_r.ΔᐃΔⲆⲆ] = ["Złoty hełm", "Zwany także hełmem barbarzyńców", "Obrona przed graczami: 4", "Obrona przed zwierzętami: 13"];
-    Et[_r.ᐃⲆⲆⵠᐃ] = ["Diamentowy hełm", "Nie przechwalaj się za bardzo", "Obrona przed graczami: 5", "Obrona przed zwierzętami: 19"];
-    Et[_r.ⵠⲆⲆⵠⵠ] = ["Ametystowy hełm", "Nie boisz się już niczego", "Obrona przed graczami: 6", "Obrona przed zwierzętami: 23"];
-    Et[_r.ᐃⵠΔᐃΔ] = ["Smoczy hełm", "Zmierzysz się z całym światem", "Obrona przed graczami: 8", "Obrona przed zwierzętami: 27"];
-    Et[_r.ⲆᐃᐃΔᐃ] = ["Czapka odkrywcy", "Zwierzęta nie będą zwracały na ciebie uwagi", "ale nie rób hałasu!", "Ciepło w i poza zimą"];
-    Et[_r.ᐃᐃⵠⲆⲆ] = ["świąteczna czapka", "Oh, oh, oh, Wesołych Świąt", "Ciepło w i poza zimą"];
-    Et[_r.ΔⲆΔⲆⲆ] = ["Czapka elfa", "Nie pozwól się być wykorzystywanym, mały śnieżny elfie!", "Ciepło w i poza zimą"];
-    Et[_r.ⲆΔⵠⵠᐃ] = ["Kaptur", "Jesteś łobuzem", "Możesz coś komuś ukraść jeśli", "- Jest noc", "- Nic przy sobie nie masz", "- Jeżeli nic przez chwilę nie dotykałeś", "- Nie jesteś blisko ognia", "- Twój cel nie jest ubrany w chłopską tunikę", "Jest ciepło w i poza zimą"];
-    Et[_r.ᐃⲆᐃⲆᐃ] = ["Nauszniki", "Jakiś inny rodzaj małej czapki.", "Ciepło w i poza zimą"];
-    Et[_r.ᐃⵠⵠⵠΔ] = ["Czapka", "Także nazywana płaszczem.", "Ciepła w i poza zimą"];
-    Et[_r.ᐃⲆⲆΔΔ] = ["Szal i czapka", "Bardzo wygodna, bardzo ciepła"];
-    Et[_r.ΔᐃⲆⵠⵠ] = ["Chłopska tunika", "Twoje rośliny rosną szybciej", "Ciepła w i poza zimą"];
-    Et[_r.ΔΔᐃⲆΔ] = ["Zimowy kaptur", "Możesz coś komuś ukraść jeśli", "- Jest noc", "- Nic przy sobie nie masz", "- Jeżeli nic przez chwilę nie dotykałeś", "- Nie jesteś blisko ognia", "- Twój cel nie jest ubrany w tunikę zimowego chłopa", "Jest ciepło w i poza zimą"];
-    Et[_r.ΔᐃⵠⲆΔ] = ["Zimowa chłopska tunika", "Twoje rośliny rosną szybciej", "Ciepło w i poza zimą"];
-    Et[_r.ᐃⲆⵠⲆⲆ] = ["Maska do nurkowania", "Jesteś szybki w wodzie", "Ciepło", "Obrona przed graczami: 2, Obrona przed zwierzętami: 8"];
-    Et[_r.ᐃⵠⵠⲆΔ] = ["Strój głębinowy", "Jesteś bardzo szybki w wodzie", "Ciepło ci w wodzie", "Obrona przed graczami: 4, Obrona przed zwierzętami: 16"];
-    Et[_r.ᐃⲆΔᐃᐃ] = ["Smocza kula", "Zdobyta podczas zadania"];
-    Et[_r.ⵠⵠⲆⵠⲆ] = ["Smocze serce", "Zamienia cię w ducha po śmierci!", "Jesteś duchem na 60 sekund", "Znajdź kamień rezurekcyjny"];
-    Et[_r.ΔᐃΔᐃⵠ] = ["Zielony kryształ", "Nie oszukiwałeś, przysięgasz?"];
-    Et[_r.ⵠⲆⲆΔᐃ] = ["Pomarańczowy kryształ", "Tylko prawdziwy pirat może go znaleźć!"];
-    Et[_r.ΔΔⲆⲆᐃ] = ["Niebieski kryształ", "Dla zbyt miłych ludzi"];
-    Et[_r.ᐃⲆΔⵠⵠ] = ["Zielona korona", "Szybko się leczysz", "Uzdrawia z biegiem czasu: 40", "Obrona przed graczami: 4, Obrona przed zwierzętami: 16"];
-    Et[_r.ⵠᐃⵠⵠΔ] = ["Pomarańczowa korona", "Nagle poczułeś smak szczęścia", "Obrona przed graczami: 4, Obrona przed zwierzętami: 16"];
-    Et[_r.ⲆⲆᐃᐃΔ] = ["Niebieska korona", "Gdy już będziesz martwy, zamienisz się w ducha", "Przy okazji stracisz swoją broń i kilof", "Obrona przed graczami: 4, Obrona przed zwierzętami: 16"];
-    Et[_r.ΔΔᐃΔΔ] = ["Wiadro", "Również przydatne do napełnienia studni", "Jedno wiadro jest jak dwanaście butelek"];
-    Et[_r.ⲆΔⵠΔᐃ] = ["Puste wiadro", "Musisz napełnić to wiadro wodą"];
-    Et[_r.ΔᐃᐃⵠΔ] = ["Butelka", "Pozwala pić wodę wszędzie", "Woda: 50"];
-    Et[_r.ᐃⲆⵠΔᐃ] = ["Pusta butelka", "Możesz napełnić tą butelkę blisko źródła wody"];
-    Et[_r.ⲆΔᐃΔⲆ] = ["Pusta konewka", "Musisz ją napełnić w źródle wody, aby ją użyć"];
-    Et[_r.ᐃᐃΔⵠΔ] = ["Konewka", "Pozwala podlewać rośliny", "Obrażenia: 1"];
-    Et[_r.ⵠⲆᐃᐃ] = ["Plecak", "Więcej miejsca na twoje przedmioty!"];
-    Et[_r.ⵠΔΔΔⲆ] = ["Papier", "Używany w tworzeniu książki"];
-    Et[_r.ᐃⵠΔΔⲆ] = ["Książka", "Pozwala znacznie skrócić wytwarzanie", "Musisz ją nosić by zadziałała", "Uszkodzenie 1"];
-    Et[_r.ᐃΔᐃⲆᐃ] = ["Bandaż", "Szybciej zregeneruj życie", "Uzdrawia z biegiem czasu: 30", "Efekt: 5"];
-    Et[_r.ⵠⵠⲆⵠᐃ] = ["Zamek", "Pozwala ci zamknąć skrzynię"];
-    Et[_r.ᐃⵠᐃⲆⵠ] = ["Wytrych", "Pozwala ci odblokować jedną skrzynię"];
-    Et[_r.ⲆⵠᐃᐃΔ] = ["Totem", "Pozwala ci stworzyć drużynę", "Dziel się drzwiami i zamkniętymi skrzyniami", "Szkodliwe budynki nie zranią twoich przyjaciół"];
-    Et[_r.ⲆᐃⲆᐃⵠ] = ["Most", "Bardzo przydatny w wodzie", "Pozwala ci pić bez utonięcia", "Chodzisz szybciej w wodzie"];
-    Et[_r.ⵠΔᐃᐃᐃ] = ["Tabliczka", "Zostaw wiadomość dla innych", "Wytrzymałość: 200"];
-    Et[_r.ⲆᐃⵠΔΔ] = ["Dach", "Trochę cie ogrzewa i chowa!"];
-    Et[_r.ⲆⵠⲆⵠⵠ] = ["Studnia", "Umożliwia napełnienie butelki", "Wytrzymałość: 1000"];
-    Et[_r.ⲆⲆⲆⲆⵠ] = ["Drewniany mur", "Znasz taniec ścian?", "Wytrzymałość: 1000"];
-    Et[_r.ΔᐃⵠⲆⲆ] = ["Kamienny mur", "Jest to trochę bardziej poważniejsze.", "Wytrzymałość: 1500"];
-    Et[_r.ᐃᐃᐃᐃᐃ] = [" Złoty mur", "Złoto na twoich murach? To trochę krzykliwe.", "Wytrzymałość: 2000"];
-    Et[_r.ⵠᐃⲆᐃⵠ] = ["Diamentowy mur", "Jaki błyszczący, uważaj na oczy", "Wytrzymałość: 2500"];
-    Et[_r.ᐃΔⵠⵠΔ] = ["Ametystowy mur", "Musisz bardzo się bać, aby wyjść!", "Wytrzymałość: 3000"];
-    Et[_r.ⵠⵠΔⵠⲆ] = ["Drewniany kolczasty mur", "Może uszkodzić wrogów", "Obrażenia: 10, Obrażenia po uszkodzeniu: 2", "Wytrzymałość: 150"];
-    Et[_r.ⲆᐃⲆΔΔ] = ["Kamienny kolczasty mur", "Nie chciałbym być twoim wrogiem.", "Obrażenia: 20", " Obrażenia po uszkodzeniu: 3", "Wytrzymałość: 300"];
-    Et[_r.Ⲇᐃⵠᐃⵠ] = ["Złoty kolczasty mur", "Jesteśtaki okrutny.", "Obrażenia: 30", " Obrażenia po uszkodzeniu: 3", "Wytrzymałość: 600"];
-    Et[_r.ⲆⵠᐃΔΔ] = ["Diamentowy kolczasty mur", "Raczej nie lubisz towarzystwa.", "Obrażenia: 40", "Obrażenia po uszkodzeniu: 4", "Wytrzymałość: 1200"];
-    Et[_r.ᐃⲆⵠᐃᐃ] = ["Ametystowy kolczasty mur", "Co ci sąsiedzi ci zrobili?", "Obrażenia: 50", "Obrażenia po uszkodzeniu: 4", "Wytrzymałość: 2400"];
-    Et[_r.ΔⵠⵠⲆᐃ] = ["Drewniane drzwi", "Może być otwarte przez ciebie lub przyjaciół", "Wytrzymałość: 1000"];
-    Et[_r.ⵠΔᐃⲆΔ] = ["Kamienne drzwi", "Solidne drzwi są bardziej poważne ", "Wytrzymałość: 1500"];
-    Et[_r.ᐃΔⵠⵠⵠ] = ["Złote drzwi", "Czy odbudowujesz El Dorado?", "Wytrzymałość: 2000"];
-    Et[_r.ⵠΔᐃΔΔ] = ["Diamentowe drzwi", "Dla błyszczącego domu", "Wytrzymałość: 2500"];
-    Et[_r.Δⵠᐃⵠᐃ] = ["Ametystowe drzwi", "Czy twój dom to zamknięty sejf?", "Wytrzymałość: 3000"];
-    Et[_r.ⲆᐃΔᐃⵠ] = ["Piec", "Ogrzewa cię", "Zużywa drewno co 5 sekund", "Wytrzymałość: 1000"];
-    Et[_r.ⵠΔⲆⲆΔ] = ["Młyn", "Może produkować mąkę z pszenicy", "Przygotowanie mąki zajmuje 5 sekund", "Zwraca punkty podczas pracy", "Wytrzymałość: 2000"];
-    Et[_r.Δᐃᐃᐃᐃ] = ["Piec do chleba", "Pozwala na wypiek chleba z mąki", "Przygotowanie chleba zajmuje 10 sekund", "Zwraca punkty podczas pracy", "Wytrzymałość: 2000"];
-    Et[_r.ⲆⲆⵠⵠᐃ] = ["Kamień rezurekcyjny", "To magia", "Wskrzesi cię jeśli jesteś duchem", "Stracisz swoja broń i kilof", "Wytrzymałość: 200"];
-    Et[ΔΔᐃ.ⵠⵠΔⵠΔⲆᐃ] = "Nie możesz dołączyć do tego serwera";
-    Et[ΔΔᐃ.ⵠⵠᐃⲆⲆᐃⲆ] = "Wyrzucony: ";
-    Et[ΔΔᐃ.ⵠᐃΔⲆⲆⲆⲆ] = "Twój klucz jest aktualnie używany przez innego gracza";
-    Et[ΔΔᐃ.ⲆᐃΔⲆⲆᐃⲆ] = "Twój klucz jest nieprawidłowy";
-    Et[ΔΔᐃ.ⵠᐃᐃⲆᐃᐃᐃ] = "Posiadasz starszą wersję, musisz wyczyścić swoją pamięć";
-    Et[ΔΔᐃ.ΔⲆᐃΔΔΔⵠ] = "Nie ma nowych minerałów, zwierząt, i jedzenia";
-    Et[ΔΔᐃ.ⲆΔⲆᐃᐃⵠᐃ] = "Przeżyłeś 1 dzień";
-    Et[ΔΔᐃ.ⵠΔᐃΔᐃⵠΔ] = "Przeżyłeś ";
-    Et[ΔΔᐃ.ᐃⵠⲆⲆᐃΔⵠ] = " dni";
-    Et[ΔΔᐃ.ⲆᐃΔⲆᐃᐃᐃ] = "Jesteś martwy ;-;";
-    Et[ΔΔᐃ.ⲆΔΔⵠᐃⲆΔ] = "Serwer nie może znaleźć miejsca na spawn! Spamuj przycisk zagraj! Lub wybierz inny serwer...";
-    Et[ΔΔᐃ.ⵠⵠⲆᐃᐃΔΔ] = "Serwer jest pełny! Spamuj przycisk zagraj!";
-    Et[ΔΔᐃ.EMPTY] = "Źródło jest puste";
-    Et[ΔΔᐃ.ⵠⲆᐃⲆⵠᐃⵠ] = "Ekwipunek jest pełny (użyj prawego przycisku myszy, żeby wyrzucić przedmiot)";
-    Et[ΔΔᐃ.ⲆᐃᐃⲆᐃᐃⲆ] = " jest martwy";
-    Et[ΔΔᐃ.ⲆᐃⲆⵠⲆᐃⲆ] = "To nie jest właściwe narzędzie";
-    Et[ΔΔᐃ.ΔⵠⵠⲆᐃᐃⵠ] = "Dołączyłeś do drużyny";
-    Et[ΔΔᐃ.ᐃⵠᐃᐃᐃⲆΔ] = "Jesteś martwy";
-    Et[ΔΔᐃ.ⲆᐃⵠΔᐃᐃⲆ] = " dołączył do drużyny";
-    Et[ΔΔᐃ.ⲆΔΔΔⵠⲆᐃ] = "Twoja drużyna została zniszczona";
-    Et[ΔΔᐃ.ⵠⲆⲆΔᐃᐃΔ] = " Opuściłeś drużynę";
-    Et[ΔΔᐃ.ᐃⵠⲆᐃᐃᐃᐃ] = " opuścił drużynę";
-    Et[ΔΔᐃ.ΔᐃⵠΔⵠ] = "Ktoś ukradł twój żeton :>";
-    Et[ΔΔᐃ.ᐃⵠⵠⲆᐃᐃΔ] = "Wybierz serwer";
-    Et[ΔΔᐃ.ᐃᐃⲆⲆⲆ] = "graczy";
-    Et[ΔΔᐃ.ⵠᐃΔⲆᐃⲆᐃ] = "wszystkich graczy";
-    Et[ΔΔᐃ.ᐃᐃⵠⵠⵠᐃΔ] = "graczy w tym trybie";
-    Et[ΔΔᐃ.ⲆⲆⵠᐃⵠⵠⵠ] = "Już wkrótce...";
+    Et[7] = ["Ręka"];
+    Et[140] = ["Ziemia", "Brudna!"];
+    Et[126] = ["Piasek", "Mam go w oczach!"];
+    Et[109] = ["Drewno", "Nie możesz mieć go wystarczająco!"];
+    Et[108] = ["Kamień", "Także nazywany skałą"];
+    Et[111] = ["Złoto", "Bądź hojny, daj trochę innym"];
+    Et[112] = ["Diament", "Co z nim zrobisz?"];
+    Et[121] = ["Ametyst", "Jest Fiołkowy jak Lapa"];
+    Et[131] = ["Mąka", "Używana w gotowaniu"];
+    Et[133] = ["Ciastko", "Przepyszne ciasteczko od babci", "Jedzenie: 50"];
+    Et[136] = ["Ciasto", "Raj dla smakoszy", "Jedzenie: 100"];
+    Et[116] = ["Surowe mięso", "Możesz je upiec w ogniu", "Powoduje zatrucie pokarmowe: 10", "Jedzenie: 15"];
+    Et[117] = ["Pieczone mięso", "Krwisty stek, proszę", "Jedzenie: 35"];
+    Et[137] = ["Surowa ryba", "Myślę, że nadal jest żywa", "Powoduje zatrucie pokarmowe: 10", "Jedzenie: 18"];
+    Et[138] = ["Pieczona ryba", "Z cytryną jest idealna", " Jedzenie: 35"];
+    Et[143] = ["Chleb", "Świetny Francuski chleb", "Jest walutą używaną w markecie", "Jedzenie: 15"];
+    Et[145] = ["Kanapka", "Smakuje jak kraboburger", "Jedzenie: 100"];
+    Et[200] = ["Cukierki", "Tylko dla dzieci!", "Jedzenie: 100"];
+    Et[199] = ["Laska cukrowa", "Spróbuj, jest przepyszna", "Jedzenie: 100"];
+    Et[201] = ["Girlanda", "Idealna do dekorowania dachów"];
+    Et[115] = ["Nasionko jagody", "Wyrośnie w jagody", "Narodziny: 2min", "Rośnięcie: 55s", "Podlewanie: 3min 20s", "Wytrzymałość: 700", "Czas życia: 8 dni"];
+    Et[110] = ["Jagody", "Jagody są pyszne!", "Jedzenie: 10"];
+    Et[132] = ["Nasiono pszenicy", "Wyrośnie w pszenicę", "Narodziny: 2min", "Rośnięcie: 16s", "Podlewanie: 2min", "Wytrzymałość: 700", "Czas życia: 8 dni"];
+    Et[134] = ["Pszenica", "Zamienia się w mąkę jeżeli wrzucisz ją do wiatraka"];
+    Et[188] = ["Nasiono dyni", "Wyrośnie w dynię", "Narodziny: 2min 40s", "Rośnięcie: 2min", "Podlewanie: 2min", "Wytrzymałość: 700", "Czas życia: 8 dni"];
+    Et[189] = ["Dynia", "Przypomina mi o Halloween", "Jedzenie: 30"];
+    Et[191] = ["Nasionko czosnku", "Bardzo niebezpieczne dla wampirów", "Obrażenia: 20", "Narodziny: 4min", "Rośnięcie: 1min 10s", "Podlewanie: 1min 40s", "Wytrzymałość: 700", "Czas życia: 8 dni"];
+    Et[192] = ["Czosnek", "Leczy cię i redukuje zimno", "Jedzenie: 14", "Uzdrawia z biegiem czasu: 30", "Efekt: 1"];
+    Et[193] = ["Nasiono kolczastego krzewu", "Może zranić twoich wrogów", "Obrażenia: 20", "Narodziny: 4min", "Rośnięcie: 15s", "Podlewanie: 3min", "Wytrzymałość: 1000", "Czas życia: 8 dni"];
+    Et[194] = ["Kolczasty krzew", "Kłuje!"];
+    Et[141] = ["Donica", "Naprawdę, użyj jej", "Z tym genetycznie modyfikowanym nawozem, twoje rośliny", "będą rosły znacznie szybciej i będą potrzebować mniej wody", "Wytrzymałość: 2000"];
+    Et[142] = ["Lód", "Użyteczny do robienia ciast i wody"];
+    Et[55] = ["Klucz mechaniczny", "Do naprawiania drzwi i kolców", "Uszkodzenie: 2"];
+    Et[174] = ["Wilcza skóra", "Szczeniaczek? Ale gdzie jest szczeniaczek?!"];
+    Et[2] = ["Skóra królika", "Ten królik był taki słodziutki..."];
+    Et[178] = ["Skóra", "Jesteś fabryką chleba"];
+    Et[179] = ["Ciemna skóra", "Byłeś gotowy zrobić coś złego"];
+    Et[146] = ["Zimowa skóra", "Te zwierzęta chciały się tylko przytulić..."];
+    Et[139] = ["Łuski", "Pachnie jak ryba!"];
+    Et[129] = ["Skóra krakena", "Nie byłeś zbyt przestraszony?"];
+    Et[113] = ["Ognisko", "Ociepli cię!", "Wytrzymałość: 150", "Czas życia: 2min"];
+    Et[118] = ["Duże ognisko", "Ociepli cię na dłużej!", "Wytrzymałość: 400", "Czas życia: 6min"];
+    Et[114] = ["Stół rzemieślniczy", "Użyteczny do stwarzania przedmiotów"];
+    Et[161] = ["Nić", "Używany w tworzeniu czapek i plecaków"];
+    Et[147] = ["Diamentowa nić", "Używana w tworzeniu specjalnych czapek"];
+    Et[167] = ["Skrzynia", "Pozwala ci na przechowywanie przedmiotów", "Wytrzymałość: 500"];
+    Et[57] = ["Drewniany miecz", "To coś działa?", "Obrażenia: 12", "Obrażenia do budowli: 4"];
+    Et[0] = ["Kamienny miecz", "Bądź miły dla innych", "Obrażenia: 19", "Obrażenia do budowli: 6"];
+    Et[5] = ["Złoty miecz", "Król lasu", "Obrażenia: 22", "Obrażenia do budowli: 7"];
+    Et[6] = ["Diamentowy miecz", "Możesz poczuć moc", "Obrażenia: 24", "Obrażenia do budowli: 8"];
+    Et[9] = ["Piracki miecz", "Ayyyyy!", "Dłuższy niż zwykły miecz", "Obrażenia: 24", "Obrażenia do budowli: 8"];
+    Et[30] = ["Ametystowy miecz", "fiołkowy to najpiękniejszy kolor na świecie", "Damage: 27", "Obrażenia do budowli: 9"];
+    Et[62] = ["Smoczy miecz", "Bez litości!", "Obrażenia: 30", "Obrażenia do budowli: 10"];
+    Et[16] = ["Smocza włócznia", "Zabij ich wszystkich!", "Obrażenia: 22", "Obrażenia do budowli: 6"];
+    Et[8] = ["Drewniany kilof", "Może wydobywać tylko kamienie i drewno", "Obrażenia: 1"];
+    Et[1] = ["Kamienny kilof", "Może wydobywać drewno, kamienie i złoto", "Obrażenia: 2"];
+    Et[3] = ["Złoty kilof", "Może także wydobywać diamenty", "Obrażenia: 3", "Obrażenia do budowli: 1"];
+    Et[4] = ["Diamentowy kilof", "Może wydobywać wszystko", "Obrażenia: 4", "Obrażenia do budowli: 1"];
+    Et[31] = ["Ametystowy kilof", "Może wydobywać wszystko. Wygląda fantastycznie!", "Obrażenia: 5", "Obrażenia do budowli: 1"];
+    Et[35] = ["Kamienny młot", "Pomocny w niszczeniu budowli", "Nie działa najlepiej na ametyście", "Obrażenia: 2", "Obrażenia do budowli: 20"];
+    Et[36] = ["Złoty młot", "Pomocny w niszczeniu budowli", "Nie działa najlepiej na ametyście", "Obrażenia: 3", "Obrażenia do budowli: 30"];
+    Et[37] = ["Diamentowy młot", "Pomocny w niszczeniu budowli", "Obrażenia: 4", "Obrażenia do budowli: 40"];
+    Et[38] = ["Ametystowy młot", "Pomocny w niszczeniu budowli", "Obrażenia: 5", "Obrażenia do budowli: 50"];
+    Et[45] = ["Super młot", "Miałeś kiedyś plan zniszczenia świata?", "Obrażenia: 12", "Obrażenia do budowli: 70"];
+    Et[12] = ["Drewniana włócznia", "Jak patyk, ale kłuje.", "Obrażenia: 10", "Obrażenia do budowli: 2"];
+    Et[13] = ["Kamienna włócznia", "Początek ewolucji!", "Obrażenia: 14", "Obrażenia do budowli: 4"];
+    Et[14] = ["Złota włócznia", "Uważaj, kłuje!", "Obrażenia: 15", "Obrażenia do budowli: 5"];
+    Et[15] = ["Diamentowa włócznia", "Jesteś gotowy, aby zabić smoka", "Obrażenia: 17", "Obrażenia do budowli: 5"];
+    Et[33] = ["Ametystowa włócznia", "Smoki już nie są dla ciebie zagrożeniem", "Obrażenia: 18", "Obrażenia do budowli: 6"];
+    Et[46] = ["Kamienna łopata", "Kop w ziemi aby zdobyć ziemię, lód i piasek", "Możesz także zdobyć minerały", "Obrażenia: 2"];
+    Et[50] = ["Złota łopata", "Kop w ziemi aby zdobyć ziemię, lód i piasek", "Możesz także zdobyć minerały", "Obrażenia: 3", "Obrażenia do budowli: 1"];
+    Et[51] = ["Diamentowa łopata", "Kop w ziemi aby zdobyć ziemię, lód i piasek", "Możesz także zdobyć minerały", "Obrażenia: 4", "Obrażenia do budowli: 1"];
+    Et[52] = ["Ametystowa łopata", "Kop w ziemi aby zdobyć ziemię, lód i piasek", "Możesz także zdobyć minerały", "Obrażenia: 5", "Obrażenia do budowli: 1"];
+    Et[58] = ["Drewniany hełm", "Lepsze niż nic", "Obrona przed graczami: 1", "Obrona przed zwierzętami: 4"];
+    Et[25] = ["Kamienny hełm", "Jesteś gotowy do bitwy!", "Obrona przed graczami: 2", "Obrona przed zwierzętami: 8"];
+    Et[26] = ["Złoty hełm", "Zwany także hełmem barbarzyńców", "Obrona przed graczami: 4", "Obrona przed zwierzętami: 13"];
+    Et[27] = ["Diamentowy hełm", "Nie przechwalaj się za bardzo", "Obrona przed graczami: 5", "Obrona przed zwierzętami: 19"];
+    Et[43] = ["Ametystowy hełm", "Nie boisz się już niczego", "Obrona przed graczami: 6", "Obrona przed zwierzętami: 23"];
+    Et[59] = ["Smoczy hełm", "Zmierzysz się z całym światem", "Obrona przed graczami: 8", "Obrona przed zwierzętami: 27"];
+    Et[23] = ["Czapka odkrywcy", "Zwierzęta nie będą zwracały na ciebie uwagi", "ale nie rób hałasu!", "Ciepło w i poza zimą"];
+    Et[41] = ["świąteczna czapka", "Oh, oh, oh, Wesołych Świąt", "Ciepło w i poza zimą"];
+    Et[42] = ["Czapka elfa", "Nie pozwól się być wykorzystywanym, mały śnieżny elfie!", "Ciepło w i poza zimą"];
+    Et[83] = ["Kaptur", "Jesteś łobuzem", "Możesz coś komuś ukraść jeśli", "- Jest noc", "- Nic przy sobie nie masz", "- Jeżeli nic przez chwilę nie dotykałeś", "- Nie jesteś blisko ognia", "- Twój cel nie jest ubrany w chłopską tunikę", "Jest ciepło w i poza zimą"];
+    Et[10] = ["Nauszniki", "Jakiś inny rodzaj małej czapki.", "Ciepło w i poza zimą"];
+    Et[11] = ["Czapka", "Także nazywana płaszczem.", "Ciepła w i poza zimą"];
+    Et[40] = ["Szal i czapka", "Bardzo wygodna, bardzo ciepła"];
+    Et[84] = ["Chłopska tunika", "Twoje rośliny rosną szybciej", "Ciepła w i poza zimą"];
+    Et[85] = ["Zimowy kaptur", "Możesz coś komuś ukraść jeśli", "- Jest noc", "- Nic przy sobie nie masz", "- Jeżeli nic przez chwilę nie dotykałeś", "- Nie jesteś blisko ognia", "- Twój cel nie jest ubrany w tunikę zimowego chłopa", "Jest ciepło w i poza zimą"];
+    Et[86] = ["Zimowa chłopska tunika", "Twoje rośliny rosną szybciej", "Ciepło w i poza zimą"];
+    Et[48] = ["Maska do nurkowania", "Jesteś szybki w wodzie", "Ciepło", "Obrona przed graczami: 2, Obrona przed zwierzętami: 8"];
+    Et[47] = ["Strój głębinowy", "Jesteś bardzo szybki w wodzie", "Ciepło ci w wodzie", "Obrona przed graczami: 4, Obrona przed zwierzętami: 16"];
+    Et[185] = ["Smocza kula", "Zdobyta podczas zadania"];
+    Et[149] = ["Smocze serce", "Zamienia cię w ducha po śmierci!", "Jesteś duchem na 60 sekund", "Znajdź kamień rezurekcyjny"];
+    Et[175] = ["Zielony kryształ", "Nie oszukiwałeś, przysięgasz?"];
+    Et[176] = ["Pomarańczowy kryształ", "Tylko prawdziwy pirat może go znaleźć!"];
+    Et[177] = ["Niebieski kryształ", "Dla zbyt miłych ludzi"];
+    Et[77] = ["Zielona korona", "Szybko się leczysz", "Uzdrawia z biegiem czasu: 40", "Obrona przed graczami: 4, Obrona przed zwierzętami: 16"];
+    Et[78] = ["Pomarańczowa korona", "Nagle poczułeś smak szczęścia", "Obrona przed graczami: 4, Obrona przed zwierzętami: 16"];
+    Et[79] = ["Niebieska korona", "Gdy już będziesz martwy, zamienisz się w ducha", "Przy okazji stracisz swoją broń i kilof", "Obrona przed graczami: 4, Obrona przed zwierzętami: 16"];
+    Et[180] = ["Wiadro", "Również przydatne do napełnienia studni", "Jedno wiadro jest jak dwanaście butelek"];
+    Et[181] = ["Puste wiadro", "Musisz napełnić to wiadro wodą"];
+    Et[127] = ["Butelka", "Pozwala pić wodę wszędzie", "Woda: 50"];
+    Et[128] = ["Pusta butelka", "Możesz napełnić tą butelkę blisko źródła wody"];
+    Et[130] = ["Pusta konewka", "Musisz ją napełnić w źródle wody, aby ją użyć"];
+    Et[49] = ["Konewka", "Pozwala podlewać rośliny", "Obrażenia: 1"];
+    Et[29] = ["Plecak", "Więcej miejsca na twoje przedmioty!"];
+    Et[120] = ["Papier", "Używany w tworzeniu książki"];
+    Et[28] = ["Książka", "Pozwala znacznie skrócić wytwarzanie", "Musisz ją nosić by zadziałała", "Uszkodzenie 1"];
+    Et[195] = ["Bandaż", "Szybciej zregeneruj życie", "Uzdrawia z biegiem czasu: 30", "Efekt: 5"];
+    Et[148] = ["Zamek", "Pozwala ci zamknąć skrzynię"];
+    Et[158] = ["Wytrych", "Pozwala ci odblokować jedną skrzynię"];
+    Et[159] = ["Totem", "Pozwala ci stworzyć drużynę", "Dziel się drzwiami i zamkniętymi skrzyniami", "Szkodliwe budynki nie zranią twoich przyjaciół"];
+    Et[125] = ["Most", "Bardzo przydatny w wodzie", "Pozwala ci pić bez utonięcia", "Chodzisz szybciej w wodzie"];
+    Et[183] = ["Tabliczka", "Zostaw wiadomość dla innych", "Wytrzymałość: 200"];
+    Et[190] = ["Dach", "Trochę cie ogrzewa i chowa!"];
+    Et[182] = ["Studnia", "Umożliwia napełnienie butelki", "Wytrzymałość: 1000"];
+    Et[162] = ["Drewniany mur", "Znasz taniec ścian?", "Wytrzymałość: 1000"];
+    Et[163] = ["Kamienny mur", "Jest to trochę bardziej poważniejsze.", "Wytrzymałość: 1500"];
+    Et[164] = [" Złoty mur", "Złoto na twoich murach? To trochę krzykliwe.", "Wytrzymałość: 2000"];
+    Et[165] = ["Diamentowy mur", "Jaki błyszczący, uważaj na oczy", "Wytrzymałość: 2500"];
+    Et[122] = ["Ametystowy mur", "Musisz bardzo się bać, aby wyjść!", "Wytrzymałość: 3000"];
+    Et[160] = ["Drewniany kolczasty mur", "Może uszkodzić wrogów", "Obrażenia: 10, Obrażenia po uszkodzeniu: 2", "Wytrzymałość: 150"];
+    Et[168] = ["Kamienny kolczasty mur", "Nie chciałbym być twoim wrogiem.", "Obrażenia: 20", " Obrażenia po uszkodzeniu: 3", "Wytrzymałość: 300"];
+    Et[169] = ["Złoty kolczasty mur", "Jesteśtaki okrutny.", "Obrażenia: 30", " Obrażenia po uszkodzeniu: 3", "Wytrzymałość: 600"];
+    Et[170] = ["Diamentowy kolczasty mur", "Raczej nie lubisz towarzystwa.", "Obrażenia: 40", "Obrażenia po uszkodzeniu: 4", "Wytrzymałość: 1200"];
+    Et[123] = ["Ametystowy kolczasty mur", "Co ci sąsiedzi ci zrobili?", "Obrażenia: 50", "Obrażenia po uszkodzeniu: 4", "Wytrzymałość: 2400"];
+    Et[166] = ["Drewniane drzwi", "Może być otwarte przez ciebie lub przyjaciół", "Wytrzymałość: 1000"];
+    Et[171] = ["Kamienne drzwi", "Solidne drzwi są bardziej poważne ", "Wytrzymałość: 1500"];
+    Et[172] = ["Złote drzwi", "Czy odbudowujesz El Dorado?", "Wytrzymałość: 2000"];
+    Et[173] = ["Diamentowe drzwi", "Dla błyszczącego domu", "Wytrzymałość: 2500"];
+    Et[124] = ["Ametystowe drzwi", "Czy twój dom to zamknięty sejf?", "Wytrzymałość: 3000"];
+    Et[119] = ["Piec", "Ogrzewa cię", "Zużywa drewno co 5 sekund", "Wytrzymałość: 1000"];
+    Et[135] = ["Młyn", "Może produkować mąkę z pszenicy", "Przygotowanie mąki zajmuje 5 sekund", "Zwraca punkty podczas pracy", "Wytrzymałość: 2000"];
+    Et[144] = ["Piec do chleba", "Pozwala na wypiek chleba z mąki", "Przygotowanie chleba zajmuje 10 sekund", "Zwraca punkty podczas pracy", "Wytrzymałość: 2000"];
+    Et[151] = ["Kamień rezurekcyjny", "To magia", "Wskrzesi cię jeśli jesteś duchem", "Stracisz swoja broń i kilof", "Wytrzymałość: 200"];
+    Et[300] = "Nie możesz dołączyć do tego serwera";
+    Et[301] = "Wyrzucony: ";
+    Et[302] = "Twój klucz jest aktualnie używany przez innego gracza";
+    Et[303] = "Twój klucz jest nieprawidłowy";
+    Et[304] = "Posiadasz starszą wersję, musisz wyczyścić swoją pamięć";
+    Et[305] = "Nie ma nowych minerałów, zwierząt, i jedzenia";
+    Et[306] = "Przeżyłeś 1 dzień";
+    Et[307] = "Przeżyłeś ";
+    Et[308] = " dni";
+    Et[309] = "Jesteś martwy ;-;";
+    Et[310] = "Serwer nie może znaleźć miejsca na spawn! Spamuj przycisk zagraj! Lub wybierz inny serwer...";
+    Et[311] = "Serwer jest pełny! Spamuj przycisk zagraj!";
+    Et[312] = "Źródło jest puste";
+    Et[313] = "Ekwipunek jest pełny (użyj prawego przycisku myszy, żeby wyrzucić przedmiot)";
+    Et[314] = " jest martwy";
+    Et[315] = "To nie jest właściwe narzędzie";
+    Et[316] = "Dołączyłeś do drużyny";
+    Et[317] = "Jesteś martwy";
+    Et[318] = " dołączył do drużyny";
+    Et[319] = "Twoja drużyna została zniszczona";
+    Et[320] = " Opuściłeś drużynę";
+    Et[321] = " opuścił drużynę";
+    Et[322] = "Ktoś ukradł twój żeton :>";
+    Et[323] = "Wybierz serwer";
+    Et[324] = "graczy";
+    Et[325] = "wszystkich graczy";
+    Et[326] = "graczy w tym trybie";
+    Et[327] = "Już wkrótce...";
     document.getElementById("nickname_input").placeholder = "Przydomek";
     Gt[Mg] = ["Zostałeś zabity bez powodu"];
     Gt[mk] = ["Umarłeś z głodu, jak nazwa gry wskazuje"];
@@ -8566,23 +8566,23 @@
   }
   const Ct = Pl;
   var Dt = function () {
-    Et[_r.ⵠᐃΔⵠΔ] = ["You feel a great power emanating from this orb"];
+    Et[184] = ["You feel a great power emanating from this orb"];
     Gt[22] = ["This crab, though frightening in nature, pinched your fingertips so hard that you had a heart attack."];
-    Et[_r.ⲆⵠᐃΔᐃ] = ["Crab sticks", "Oh, yeah? Is there crab in the crab sticks?", "Food: 20"];
-    Et[ΔΔᐃ.ⲆΔⵠⵠⲆⲆΔ] = " RETOUR AU JEU";
-    Et[ΔΔᐃ.ⵠⲆⵠⵠⵠᐃⲆ] = " Partage sur Twitter";
-    Et[ΔΔᐃ.ⵠᐃᐃⲆΔᐃᐃ] = " Partage sur Facebook";
-    Et[ΔΔᐃ.ΔΔⲆⲆⵠⲆΔ] = "Tu peux acheter des objets dans le magasin à ta prochaine partie avec tes points";
-    Et[ΔΔᐃ.POINTS] = "points";
-    Et[ΔΔᐃ.ⵠΔΔᐃᐃⲆⲆ] = "Score";
-    Et[ΔΔᐃ.ⲆⵠⲆΔⲆⲆᐃ] = "Tués";
-    Et[ΔΔᐃ.ⵠⲆΔⵠΔⵠⲆ] = "Jours survécus";
-    Et[ΔΔᐃ.ⵠⲆΔᐃⵠΔⲆ] = "Mode de construction: Libre. Appuie sur G pour changer";
-    Et[ΔΔᐃ.ⵠⲆᐃᐃᐃΔⵠ] = "Mode de construction: Grille. Appuie sur G pour changer";
-    Et[_r.ⵠⲆⵠᐃᐃ] = ["Pince de crabe", "Les pinces de crabes peuvent aussi être mangées", "Food: 10"];
-    Et[_r.Ⲇᐃᐃᐃᐃ] = ["Lance en crabe", "Te permet de soigner les crabes et de les calmer", "Donne un bonus de +10 degats quand elle est portée", "avec un casque un crabe sur un Crab King", "Damage: 14", "Building Damage: 4"];
-    Et[_r.ⲆⲆΔΔⵠ] = ["Casque en crabe", "Tu es le Roi des Crabes!", "Les crabes te suivent", "Ils ne peuvent pas te frapper et toi non plus", "Players Defense: 4", "Animals Defense: 13"];
-    Et[_r.ΔⲆⵠΔΔ] = ["Lit", "Repose-toi dans ce lit douillet", "Tu as moins froid, moins faim et moins soif", "Tu te régénères plus vite", "Durability: 400"];
+    Et[196] = ["Crab sticks", "Oh, yeah? Is there crab in the crab sticks?", "Food: 20"];
+    Et[328] = " RETOUR AU JEU";
+    Et[329] = " Partage sur Twitter";
+    Et[330] = " Partage sur Facebook";
+    Et[331] = "Tu peux acheter des objets dans le magasin à ta prochaine partie avec tes points";
+    Et[332] = "points";
+    Et[333] = "Score";
+    Et[334] = "Tués";
+    Et[335] = "Jours survécus";
+    Et[336] = "Mode de construction: Libre. Appuie sur G pour changer";
+    Et[337] = "Mode de construction: Grille. Appuie sur G pour changer";
+    Et[197] = ["Pince de crabe", "Les pinces de crabes peuvent aussi être mangées", "Food: 10"];
+    Et[18] = ["Lance en crabe", "Te permet de soigner les crabes et de les calmer", "Donne un bonus de +10 degats quand elle est portée", "avec un casque un crabe sur un Crab King", "Damage: 14", "Building Damage: 4"];
+    Et[61] = ["Casque en crabe", "Tu es le Roi des Crabes!", "Les crabes te suivent", "Ils ne peuvent pas te frapper et toi non plus", "Players Defense: 4", "Animals Defense: 13"];
+    Et[198] = ["Lit", "Repose-toi dans ce lit douillet", "Tu as moins froid, moins faim et moins soif", "Tu te régénères plus vite", "Durability: 400"];
     document.getElementById("typequest").innerHTML = "Chrono Quêtes";
     document.getElementById("timeremainingquest").innerHTML = "Temps Restant";
     document.getElementById("constraintquest").innerHTML = " Contraintes";
@@ -8599,169 +8599,169 @@
       document.getElementById("claim_reward_" + a).innerHTML = "RÉCOMPENSE!";
     }
     document.getElementById("quit_chronoquest").innerHTML = " QUITTER";
-    Et[_r.ΔᐃΔΔΔ] = ["Main"];
-    Et[_r.ᐃᐃΔΔⵠ] = ["Terre", "C'est sale!"];
-    Et[_r.ⲆⲆΔⲆᐃ] = ["Sable", "J'en ai dans les yeux"];
-    Et[_r.ⵠᐃⵠⵠ] = ["Bois", "Tu n'en auras jamais trop!"];
-    Et[_r.ᐃΔⵠⲆ] = ["Pierre", "Aussi appelée roche"];
-    Et[_r.ᐃⲆⵠᐃ] = ["Or", "Sois généreux, donne en aux autres"];
-    Et[_r.ᐃⲆΔⵠ] = ["Diamant", "Comme tes yeux! wesh"];
-    Et[_r.Ⲇⵠⵠⵠ] = ["Améthyste", "C'est Mauve comme Lapa"];
-    Et[_r.ᐃⵠᐃⵠᐃ] = ["Farine", "Utile pour la cuisine"];
-    Et[_r.ⲆᐃᐃⵠΔ] = ["Cookie", "Un somptueux cookie de Grand-Mère", "Nourriture: 50"];
-    Et[_r.ⵠᐃⲆⲆᐃ] = ["Gâteau", "Pour les fins gourmets", "Nourriture: 100"];
-    Et[_r.ⵠⵠᐃᐃⵠ] = ["Viande crue", "Tu peux la cuisiner avec du feu", "Intoxication: 10", "Nourriture: 15"];
-    Et[_r.ΔΔⵠⵠⲆ] = ["Viande cuite", "Un steak saignant, s'il vous plait", "Nourriture: 35"];
-    Et[_r.ΔΔᐃⵠⲆ] = ["Poisson cru", "Je crois que c'est encore vivant", "Intoxication: 10", "Nourriture: 18"];
-    Et[_r.ⵠⲆΔⲆᐃ] = ["Poisson cuit", "Avec du citron, c'est parfait", "Nourriture: 35"];
-    Et[_r.ⲆⵠΔⲆΔ] = ["Baguette", "Une tradition s'il vous plait", "C'est la monnaie du marché", "Nourriture: 15"];
-    Et[_r.ⲆⲆΔⵠⵠ] = ["Sandwich", "Le Jambon Beurre vaincra", "Nourriture: 100"];
-    Et[_r.ⲆⵠⲆⲆΔ] = ["Bonbons", "Il n'y a pas de dentiste ici", "Nourriture: 100"];
-    Et[_r.ᐃΔᐃⵠⵠ] = ["Canne à sucre", "Sans sucre de canne", "Nourriture: 20"];
-    Et[_r.ⵠᐃΔⲆⲆ] = ["Guirlandes", "Utilisable sur les toits"];
-    Et[_r.ⵠᐃΔⲆᐃ] = ["Graines de baies", "Deviennent des baies", "Naissance: 2min", "Croissance: 55s", "Arrosage: 3min 20s", "Durabilité: 700", "Durée de vie: 8 jours"];
-    Et[_r.ⵠᐃⲆⲆⲆ] = ["Baies", "Peu nourrissant", "Nourriture: 10"];
-    Et[_r.ⲆΔᐃΔΔ] = ["Graines de blé", "Deviennent du blé", "Naissance: 2min", "Croissance: 16s", "Arrosage: 2min", "Durabilité: 700", "Durée de vie: 8 jours"];
-    Et[_r.ⲆΔΔᐃⵠ] = ["Blé", "Peut être transformé en farine dans les moulins"];
-    Et[_r.ᐃⵠᐃᐃⵠ] = ["Graines de citrouille", "Deviennent des citrouilles", "Naissance: 2min 40s", "Croissance: 2min", "Arrosage: 2min", "Durabilité: 700", "Durée de vie: 8 jours"];
-    Et[_r.ⵠᐃⵠΔⵠ] = ["Citrouille", "Ça me rappelle Halloween", "Nourriture: 30"];
-    Et[_r.ⲆⲆΔⲆⵠ] = ["Graines d'ail", "Très dangereux pour les vampires", "Dégâts: 20", "Naissance: 4min", "Croissance: 1min 10s", "Arrosage: 1min 40s", "Durabilité: 700", "Durée de vie: 8 jours"];
-    Et[_r.ⲆᐃΔᐃΔ] = ["Ail", "Soigne et réduit le froid", "Nourriture: 14", "Soigne sur le temps: 30", "Effet: 1 fois"];
-    Et[_r.ᐃⲆⲆᐃΔ] = ["Graines de ronces", "Peuvent blesser vos ennemis", "Dégâts: 20", "Naissance: 4min", "Croissance: 15s", "Arrosage: 3min", "Durabilité: 1000", "Durée de vie: 8 jours"];
-    Et[_r.ᐃⲆᐃᐃΔ] = ["Ronces", "Ça pique!"];
-    Et[_r.ΔΔΔⵠⵠ] = ["Terreau", "Indispensable", "Vos plantes grandiront plus vite", "et auront besoin de moins d'eau", "Durabilité: 2000"];
-    Et[_r.ᐃΔΔΔⲆ] = ["Glace", "Pratique pour faire de l'eau et des gâteaux"];
-    Et[_r.ᐃⵠᐃΔⵠ] = ["Clé à molette", "Pour réparer les portes, les murs et les piques", "Dégâts: 2"];
-    Et[_r.ⲆⵠⵠΔᐃ] = ["Peau de loup", "Il était où le gentil ti Youki?"];
-    Et[_r.ⵠⵠΔⵠΔ] = ["Peau de lapin", "Vous êtes un monstre"];
-    Et[_r.ᐃΔΔⲆΔ] = ["Fourrure blanche", "Tu es une usine à pain"];
-    Et[_r.ⵠⲆΔᐃᐃ] = ["Fourrure noire", "Tu te sens prêt à faire quelque chose de mal"];
-    Et[_r.ⲆΔΔᐃᐃ] = ["Fourrure d'hiver", "Il voulait juste un calin"];
-    Et[_r.ⵠᐃΔⲆⵠ] = ["Écailles", "Ça sent le poisson!"];
-    Et[_r.ΔᐃΔⲆᐃ] = ["Peau du kraken", "Tu n'as pas eu trop peur?"];
-    Et[_r.ΔᐃᐃⲆⲆ] = ["Feu de camp", "Réchauffe", "Durabilité: 150", "Durée de vie: 2min"];
-    Et[_r.ᐃΔΔⵠΔ] = ["Grand feu de camp", "Réchauffe plus longtemps", "Durabilité: 400", "Durée de vie: 6min"];
-    Et[_r.ⵠⲆΔⵠᐃ] = ["Établi", "Utile pour fabriquer toute sorte d'objets"];
-    Et[_r.ᐃΔⵠᐃⲆ] = ["Fil", "Utile pour faire des chapeaux et un sac"];
-    Et[_r.ⲆⲆⲆᐃⵠ] = ["Fil de diamant", "Utile pour faire des chapeaux"];
-    Et[_r.ᐃⲆⲆⲆⲆ] = ["Coffre", "Permet de ranger des objets", "Durabilité: 500"];
-    Et[_r.ΔⵠᐃΔᐃ] = ["Épée en bois", "C'est pour les enfants", "Dégâts: 12", "Démolition: 4"];
-    Et[_r.ᐃᐃⲆΔⲆ] = ["Épée en pierre", "Sois gentil avec les autres", "Dégâts: 19", "Démolition: 6"];
-    Et[_r.ⵠΔΔΔΔ] = ["Épée en or", "Roi de la forêt", "Dégâts: 22", "Démolition: 7"];
-    Et[_r.ᐃΔⲆᐃΔ] = ["Épée en diamant", "Tu te sens puissant", "Dégâts: 24", "Démolition: 8"];
-    Et[_r.ⵠΔᐃᐃⵠ] = ["Épée de pirate", "Marin d'eau douce!", "Meilleure portée qu'une épée normale", "Dégâts: 24", "Démolition: 8"];
-    Et[_r.ΔⲆᐃⵠΔ] = ["Épée en améthyste", "Mauve est la plus belle couleur du monde", "Dégâts: 27", "Démolition: 9"];
-    Et[_r.ⵠᐃᐃΔⵠ] = ["Épée du Dragon", "Pas de pitié!", "Dégâts: 30", "Démolition: 10"];
-    Et[_r.ⲆⲆΔᐃᐃ] = ["Lance du Dragon", "Tuez-les tous!", "Dégâts: 22", "Démolition: 6"];
-    Et[_r.ⲆΔⲆⲆⵠ] = ["Pioche en bois", "Peut récolter du bois et de la pierre", "Dégâts: 1"];
-    Et[_r.ⲆⵠⵠⲆⲆ] = ["Pioche en pierre", "Peut aussi récolter de l'or", "Dégâts: 2"];
-    Et[_r.ⵠᐃⲆΔΔ] = ["Pioche en or", "Peut aussi récolter du diamant", "Dégâts: 3", "Démolition: 1"];
-    Et[_r.ᐃⲆⵠΔⲆ] = ["Pioche en diamant", "Peut tout récolter", "Dégâts: 4", "Démolition: 1"];
-    Et[_r.ΔⲆⲆⵠⲆ] = ["Pioche en améthyste", "Peut tout récolter", "Dégâts: 5", "Démolition: 1"];
-    Et[_r.ⲆᐃΔⲆΔ] = ["Marteau en pierre", "Utile pour détruire les bâtiments", "Ne marche pas bien sur du diamant et améthyste", "Dégâts: 2", "Démolition: 20"];
-    Et[_r.ⲆⲆⵠⲆⲆ] = ["Marteau en or", "Utile pour détruire les bâtiments", "Ne marche pas bien sur l'améthyste", "Dégâts: 3", "Démolition: 30"];
-    Et[_r.ⵠΔΔΔⵠ] = ["Marteau en diamant", "Utile pour détruire les bâtiments", "Dégâts: 4", "Démolition: 40"];
-    Et[_r.ᐃⵠⵠⵠᐃ] = ["Marteau en améthyste", "Utile pour détruire les bâtiments", "Dégâts: 5", "Démolition: 50"];
-    Et[_r.ⵠⵠᐃᐃⲆ] = ["Super Marteau", "As-tu prévu de détruire le monde?", "Dégâts: 12", "Démolition: 70"];
-    Et[_r.ᐃᐃΔⲆⲆ] = ["Lance en bois", "Plus de peur que de mal", "Dégâts: 10", "Démolition: 2"];
-    Et[_r.ⵠΔᐃⵠᐃ] = ["Lance en pierre", "C'est le début de l'évolution", "Dégâts: 14", "Démolition: 4"];
-    Et[_r.ⵠᐃᐃⵠΔ] = ["Lance en or", "Attention, ça pique!", "Dégâts: 15", "Buildings Dégâts: 5"];
-    Et[_r.ᐃᐃᐃᐃⲆ] = ["Lance en diamant", "Tu es prêt à tuer les dragons", "Dégâts: 17", "Buildings Dégâts: 5"];
-    Et[_r.ᐃΔⵠⲆᐃ] = ["Lance en améthyste", "Les dragons ne te font plus peur", "Dégâts: 18", "Buildings Dégâts: 6"];
-    Et[_r.ᐃΔΔΔΔ] = ["Pelle en pierre", "Creuse la terre, le sable et la neige", "Peut aussi récupérer des minéraux", "Dégâts: 2"];
-    Et[_r.ⲆΔΔⵠⵠ] = ["Pelle en or", "Creuse la terre, le sable et la neige", "Peut aussi récupérer des minéraux", "Dégâts: 3", "Buildings Dégâts: 1"];
-    Et[_r.ⵠᐃⵠᐃΔ] = ["Pelle en diamant", "Creuse la terre, le sable et la neige", "Peut aussi récupérer des minéraux", "Dégâts: 4", "Buildings Dégâts: 1"];
-    Et[_r.ⵠᐃⲆⲆⵠ] = ["Pelle en améthyste", "Creuse la terre, le sable et la neige", "Peut aussi récupérer des minéraux", "Dégâts: 5", "Buildings Dégâts: 1"];
-    Et[_r.ᐃᐃⲆⵠⵠ] = ["Casque en bois", "Mieux que rien", "Défense: 1", "Défense contre animaux: 4"];
-    Et[_r.Δᐃᐃⵠᐃ] = ["Casque en pierre", "Prêt pour la bataille", "Défense: 2", "Défense contre animaux: 8"];
-    Et[_r.ΔᐃΔⲆⲆ] = ["Casque en or", "Alias le casque des sauvages", "Défense: 4", "Défense contre animaux: 13"];
-    Et[_r.ᐃⲆⲆⵠᐃ] = ["Casque en diamant", "Ne te vante pas trop", "Défense: 5", "Défense contre animaux: 19"];
-    Et[_r.ⵠⲆⲆⵠⵠ] = ["Casque en améthyste", "Tu n'as plus peur de rien", "Défense: 6", "Défense contre animaux: 23"];
-    Et[_r.ᐃⵠΔᐃΔ] = ["Casque du Dragon", "Tu vas conquérir le monde", "Défense: 8", "Défense contre animaux: 27"];
-    Et[_r.ⲆᐃᐃΔᐃ] = ["Chapeau d'explorateur", "Les animaux t'ignorent", "Mais ne faites pas de bruit!", "Réchauffe en dehors de l'eau et dans l'hiver"];
-    Et[_r.ᐃᐃⵠⲆⲆ] = ["Chapeau du Père Noël", "Oh, oh, oh, Joyeux Nöel!", "Réchauffe en dehors de l'eau et dans l'hiver"];
-    Et[_r.ΔⲆΔⲆⲆ] = ["Chapeau du lutin de Nöel", "Tu as vu le nouveau chef d'oeuvre d'Alain Chabat?", "Réchauffe en dehors de l'eau et dans l'hiver"];
-    Et[_r.ⲆΔⵠⵠᐃ] = ["Capuche", "Voyou!", "Tu peux voler seulement si", "1) Il fait nuit", "2) Tu as les mains libres", "3) Tu n'as pas été touché depuis 8 secondes", "4) Tu es loin d'un feu", "5) Ta cible n'est pas un paysan", "Réchauffe en dehors de l'eau et dans l'hiver"];
-    Et[_r.ᐃⲆᐃⲆᐃ] = ["Cache-oreilles", "Une sorte de petite chapka.", "Réchauffe en dehors de l'eau et dans l'hiver"];
-    Et[_r.ᐃⵠⵠⵠΔ] = ["Chapka", "Comment ça va, camarade?", "Réchauffe en dehors de l'eau et dans l'hiver"];
-    Et[_r.ᐃⲆⲆΔΔ] = ["Bonnet d'hiver", "Très confortable", "Très chaud"];
-    Et[_r.ΔᐃⲆⵠⵠ] = ["Tunique", "Les plantes poussent plus vite", "Réchauffe en dehors de l'eau et dans l'hiver"];
-    Et[_r.ΔΔᐃⲆΔ] = ["Capuche d'hiver", "Tu peux voler seulement si", "1) Il fait nuit", "2) Tu as les mains libres", "3) Tu n'as pas été touché depuis 4 secondes", "4) Tu es loin d'un feu", "5) Ta cible n'est pas un paysan d'hiver", "Réchauffe en dehors de l'eau et dans l'hiver"];
-    Et[_r.ΔᐃⵠⲆΔ] = ["Tunique d'hiver", "Tes plantes poussent plus vite", "Réchauffe en dehors de l'eau et dans l'hiver"];
-    Et[_r.ᐃⲆⵠⲆⲆ] = ["Masque de plongée", "Tu es rapide dans l'eau", "Réchauffe dans l'eau", "Défense: 2, Défense contre animaux: 8"];
-    Et[_r.ᐃⵠⵠⲆΔ] = ["Scaphandre", "Tu es très rapide dans l'eau", "Réchauffe dans l'eau", "Défense: 4, Défense contre animaux: 16"];
-    Et[_r.ᐃⲆΔᐃᐃ] = ["Orbe du Dragon", "Donné en Quête"];
-    Et[_r.ⵠⵠⲆⵠⲆ] = ["Coeur de Dragon", "Te change en fantôme!", "Tu es un fantôme pendant 1 min", "Trouve une pierre de résurrection"];
-    Et[_r.ΔᐃΔᐃⵠ] = ["Gemme verte", "Tu n'as pas triché, promis?"];
-    Et[_r.ⵠⲆⲆΔᐃ] = ["Gemme orange", "Seul un vrai pirate peut l'obtenir!"];
-    Et[_r.ΔΔⲆⲆᐃ] = ["Gemme bleue", "Pour les gens trop gentils"];
-    Et[_r.ᐃⲆΔⵠⵠ] = ["Couronne verte", "Te soigne très rapidement", "Soigne sur le temps: 40", "Défense: 4, Défense contre animaux: 16"];
-    Et[_r.ⵠᐃⵠⵠΔ] = ["Couronne orange", "Tu te sens soudainement très chanceux", "Défense: 4, Défense contre animaux: 16"];
-    Et[_r.ⲆⲆᐃᐃΔ] = ["Couronne bleue", "Une fois mort, tu deviens un fantôme", "Tu perdras toutes tes arguments", "Défense: 4, Défense contre animaux: 16"];
-    Et[_r.ΔΔᐃΔΔ] = ["Seau", "Utile pour remplir un puit", "Un sceau est équivalent à 20 bouteilles"];
-    Et[_r.ⲆΔⵠΔᐃ] = ["Seau vide", "Pour remplir ce seau, approche-toi d'une source d'eau"];
-    Et[_r.ΔᐃᐃⵠΔ] = ["Bouteille", "Te permet de boire n'importe où", "Eau: 50"];
-    Et[_r.ᐃⲆⵠΔᐃ] = ["Bouteille vide", "Tu peux remplir cette bouteille près d'une source d'eau"];
-    Et[_r.ⲆΔᐃΔⲆ] = ["Arrosoir vide", "Doit être rempli près d'une source d'eau"];
-    Et[_r.ᐃᐃΔⵠΔ] = ["Arrosoir", "Permet d'arroser les plantes", "Dégâts: 1"];
-    Et[_r.ⵠⲆᐃᐃ] = ["Sac", "Plus de place dans ton inventaire!"];
-    Et[_r.ⵠΔΔΔⲆ] = ["Papier", "Pour fabriquer toute sorte d'objets"];
-    Et[_r.ᐃⵠΔΔⲆ] = ["Livre", "Réduit considérablement le temps de fabrication", "Doit être porté pour fonctionner", "Dégâts: 1"];
-    Et[_r.ᐃΔᐃⲆᐃ] = ["Bandage", "Soigne plus rapidement", "Soigne sur le temps: 30", "Effet: 5"];
-    Et[_r.ⵠⵠⲆⵠᐃ] = ["Cadenas", "Pour verrouiller un coffre"];
-    Et[_r.ᐃⵠᐃⲆⵠ] = ["Clé", "Pour déverrouiller un coffre"];
-    Et[_r.ⲆⵠᐃᐃΔ] = ["Totem", "Te permet de créer une équipe", "Partage les portes et les coffres", "Les piques ne toucheront pas tes amis"];
-    Et[_r.ⲆᐃⲆᐃⵠ] = ["Pont", "Très utile sur l'eau", "Te permet de boire sans te noyer", "Marche plus vite sur l'eau"];
-    Et[_r.ⵠΔᐃᐃᐃ] = ["Pancarte", "Laisse un message aux autres", "Durabilité: 200"];
-    Et[_r.ⲆᐃⵠΔΔ] = ["Toit", "Te cache un peu et te réchauffe"];
-    Et[_r.ⲆⵠⲆⵠⵠ] = ["Puit", "Permet de remplir des bouteilles", "Durabilité: 1000"];
-    Et[_r.ⲆⲆⲆⲆⵠ] = ["Mur en bois", "Tu connais la danse des murs?", "Durabilité: 1000"];
-    Et[_r.ΔᐃⵠⲆⲆ] = ["Mur en pierre", "Ça fait un peu plus sérieux", "Durabilité: 1500"];
-    Et[_r.ᐃᐃᐃᐃᐃ] = ["Mur en or", "De l'or sur tes murs? C'est un peu voyant", "Durabilité: 2000"];
-    Et[_r.ⵠᐃⲆᐃⵠ] = ["Mur en diamant", "Très brillant, cache tes yeux", "Durabilité: 2500"];
-    Et[_r.ᐃΔⵠⵠΔ] = ["Mur en améthyste", "Tu dois avoir très peur de sortir dehors!", "Durabilité: 3500"];
-    Et[_r.ⵠⵠΔⵠⲆ] = ["Piques en bois", "Peut blesser tes ennemis", "Dégâts: 10, Dégâts par coup: 2", "Durabilité: 150"];
-    Et[_r.ⲆᐃⲆΔΔ] = ["Pique en pierre", "Je ne voudrais pas être ton ennemi", "Dégâts: 20", "Dégâts par coup: 3", "Durabilité: 300"];
-    Et[_r.Ⲇᐃⵠᐃⵠ] = ["Pique en or", "Tu es si cruel", "Dégâts: 30", "Dégâts par coup: 3", "Durabilité: 600"];
-    Et[_r.ⲆⵠᐃΔΔ] = ["Pique en diamant", "Tu n'as pas l'air d'aimer la compagnie", "Dégâts: 40", "Dégâts par coup: 4", "Durabilité: 1200"];
-    Et[_r.ᐃⲆⵠᐃᐃ] = ["Pique en améthyste", "Mais qu'est ce que ton voisin t'a fait?", "Dégâts: 50", "Dégâts par coup: 4", "Durabilité: 2400"];
-    Et[_r.ΔⵠⵠⲆᐃ] = ["Porte en bois", "Peut être ouvert ou fermé par toi ou tes amis", "Durabilité: 1000"];
-    Et[_r.ⵠΔᐃⲆΔ] = ["Porte en pierre", "Tu connais les trois petits cochons?", "Durabilité: 1500"];
-    Et[_r.ᐃΔⵠⵠⵠ] = ["Porte en or", "Tu reconstruis l'el dorado?", "Durabilité: 2000"];
-    Et[_r.ⵠΔᐃΔΔ] = ["Porte en diamant", "Pour une maison éclatante", "Durabilité: 2500"];
-    Et[_r.Δⵠᐃⵠᐃ] = ["Porte en améthyste", "Est-ce que ta maison est un coffre-fort?", "Durabilité: 3000"];
-    Et[_r.ⲆᐃΔᐃⵠ] = ["Chaudière", "Réchauffe", "Consume du bois toutes les 5 sec", "Durabilité: 1000"];
-    Et[_r.ⵠΔⲆⲆΔ] = ["Moulin", "Peut produire de la farine à partir du blé", "Prends 5 sec pour faire de la farine", "Tu obtiens des points quand c'est en marche", "Durabilité: 2000"];
-    Et[_r.Δᐃᐃᐃᐃ] = ["Four à pain", "Produit du pain avec de la farine et du bois", "Prends 10 sec pour faire du pain", "Tu obtiens des points quand c'est en marche", "Durabilité: 2000"];
-    Et[_r.ⲆⲆⵠⵠᐃ] = ["Pierre de résurrection", "Magie magie!", "Te ressuscite si tu es un fantôme", "Tu perds toutes tes armes", "Durabilité: 200"];
-    Et[ΔΔᐃ.ⵠⵠΔⵠΔⲆᐃ] = "Tu ne peux pas rejoindre le serveur";
-    Et[ΔΔᐃ.ⵠⵠᐃⲆⲆᐃⲆ] = "Expulsé: ";
-    Et[ΔΔᐃ.ⵠᐃΔⲆⲆⲆⲆ] = "Ta clé est déjà utilisée par quelqu'un d'autre";
-    Et[ΔΔᐃ.ⲆᐃΔⲆⲆᐃⲆ] = "Ta clé est fausse";
-    Et[ΔΔᐃ.ⵠᐃᐃⲆᐃᐃᐃ] = "Tu as une vieille version, rafraichis tes caches";
-    Et[ΔΔᐃ.ΔⲆᐃΔΔΔⵠ] = "Il n'y a plus de nouvelles ressources";
-    Et[ΔΔᐃ.ⲆΔⲆᐃᐃⵠᐃ] = "Tu as survécu 1 jour";
-    Et[ΔΔᐃ.ⵠΔᐃΔᐃⵠΔ] = "Tu as survécu ";
-    Et[ΔΔᐃ.ᐃⵠⲆⲆᐃΔⵠ] = " jours";
-    Et[ΔΔᐃ.ⲆᐃΔⲆᐃᐃᐃ] = "Tu es mort ;-;";
-    Et[ΔΔᐃ.ⲆΔΔⵠᐃⲆΔ] = "Le serveur ne trouve pas de points d'apparitions! Spam le bouton jouer!";
-    Et[ΔΔᐃ.ⵠⵠⲆᐃᐃΔΔ] = "Le serveur est complet! Spam le bouton jouer";
-    Et[ΔΔᐃ.EMPTY] = "Cette ressource est vide";
-    Et[ΔΔᐃ.ⵠⲆᐃⲆⵠᐃⵠ] = "Ton inventaire est rempli (Clic droit pour supprimer un objet)";
-    Et[ΔΔᐃ.ⲆᐃᐃⲆᐃᐃⲆ] = " est mort";
-    Et[ΔΔᐃ.ⲆᐃⲆⵠⲆᐃⲆ] = "Ce n'est pas le bon outil";
-    Et[ΔΔᐃ.ΔⵠⵠⲆᐃᐃⵠ] = "Tu as rejoins une équipe";
-    Et[ΔΔᐃ.ᐃⵠᐃᐃᐃⲆΔ] = "Tu es mort";
-    Et[ΔΔᐃ.ⲆᐃⵠΔᐃᐃⲆ] = " a rejoint l'équipe";
-    Et[ΔΔᐃ.ⲆΔΔΔⵠⲆᐃ] = "Ton équipe a été détruite";
-    Et[ΔΔᐃ.ⵠⲆⲆΔᐃᐃΔ] = "Tu as quitté l'équipe";
-    Et[ΔΔᐃ.ᐃⵠⲆᐃᐃᐃᐃ] = " a quitté l'équipe";
-    Et[ΔΔᐃ.ΔᐃⵠΔⵠ] = "Quelqu'un a volé ton token :>";
-    Et[ΔΔᐃ.ᐃⵠⵠⲆᐃᐃΔ] = "Choisis un serveur";
-    Et[ΔΔᐃ.ᐃᐃⲆⲆⲆ] = "joueurs";
-    Et[ΔΔᐃ.ⵠᐃΔⲆᐃⲆᐃ] = "joueurs";
-    Et[ΔΔᐃ.ᐃᐃⵠⵠⵠᐃΔ] = "joueurs dans ce mode";
-    Et[ΔΔᐃ.ⲆⲆⵠᐃⵠⵠⵠ] = "Bientôt...";
+    Et[7] = ["Main"];
+    Et[140] = ["Terre", "C'est sale!"];
+    Et[126] = ["Sable", "J'en ai dans les yeux"];
+    Et[109] = ["Bois", "Tu n'en auras jamais trop!"];
+    Et[108] = ["Pierre", "Aussi appelée roche"];
+    Et[111] = ["Or", "Sois généreux, donne en aux autres"];
+    Et[112] = ["Diamant", "Comme tes yeux! wesh"];
+    Et[121] = ["Améthyste", "C'est Mauve comme Lapa"];
+    Et[131] = ["Farine", "Utile pour la cuisine"];
+    Et[133] = ["Cookie", "Un somptueux cookie de Grand-Mère", "Nourriture: 50"];
+    Et[136] = ["Gâteau", "Pour les fins gourmets", "Nourriture: 100"];
+    Et[116] = ["Viande crue", "Tu peux la cuisiner avec du feu", "Intoxication: 10", "Nourriture: 15"];
+    Et[117] = ["Viande cuite", "Un steak saignant, s'il vous plait", "Nourriture: 35"];
+    Et[137] = ["Poisson cru", "Je crois que c'est encore vivant", "Intoxication: 10", "Nourriture: 18"];
+    Et[138] = ["Poisson cuit", "Avec du citron, c'est parfait", "Nourriture: 35"];
+    Et[143] = ["Baguette", "Une tradition s'il vous plait", "C'est la monnaie du marché", "Nourriture: 15"];
+    Et[145] = ["Sandwich", "Le Jambon Beurre vaincra", "Nourriture: 100"];
+    Et[200] = ["Bonbons", "Il n'y a pas de dentiste ici", "Nourriture: 100"];
+    Et[199] = ["Canne à sucre", "Sans sucre de canne", "Nourriture: 20"];
+    Et[201] = ["Guirlandes", "Utilisable sur les toits"];
+    Et[115] = ["Graines de baies", "Deviennent des baies", "Naissance: 2min", "Croissance: 55s", "Arrosage: 3min 20s", "Durabilité: 700", "Durée de vie: 8 jours"];
+    Et[110] = ["Baies", "Peu nourrissant", "Nourriture: 10"];
+    Et[132] = ["Graines de blé", "Deviennent du blé", "Naissance: 2min", "Croissance: 16s", "Arrosage: 2min", "Durabilité: 700", "Durée de vie: 8 jours"];
+    Et[134] = ["Blé", "Peut être transformé en farine dans les moulins"];
+    Et[188] = ["Graines de citrouille", "Deviennent des citrouilles", "Naissance: 2min 40s", "Croissance: 2min", "Arrosage: 2min", "Durabilité: 700", "Durée de vie: 8 jours"];
+    Et[189] = ["Citrouille", "Ça me rappelle Halloween", "Nourriture: 30"];
+    Et[191] = ["Graines d'ail", "Très dangereux pour les vampires", "Dégâts: 20", "Naissance: 4min", "Croissance: 1min 10s", "Arrosage: 1min 40s", "Durabilité: 700", "Durée de vie: 8 jours"];
+    Et[192] = ["Ail", "Soigne et réduit le froid", "Nourriture: 14", "Soigne sur le temps: 30", "Effet: 1 fois"];
+    Et[193] = ["Graines de ronces", "Peuvent blesser vos ennemis", "Dégâts: 20", "Naissance: 4min", "Croissance: 15s", "Arrosage: 3min", "Durabilité: 1000", "Durée de vie: 8 jours"];
+    Et[194] = ["Ronces", "Ça pique!"];
+    Et[141] = ["Terreau", "Indispensable", "Vos plantes grandiront plus vite", "et auront besoin de moins d'eau", "Durabilité: 2000"];
+    Et[142] = ["Glace", "Pratique pour faire de l'eau et des gâteaux"];
+    Et[55] = ["Clé à molette", "Pour réparer les portes, les murs et les piques", "Dégâts: 2"];
+    Et[174] = ["Peau de loup", "Il était où le gentil ti Youki?"];
+    Et[2] = ["Peau de lapin", "Vous êtes un monstre"];
+    Et[178] = ["Fourrure blanche", "Tu es une usine à pain"];
+    Et[179] = ["Fourrure noire", "Tu te sens prêt à faire quelque chose de mal"];
+    Et[146] = ["Fourrure d'hiver", "Il voulait juste un calin"];
+    Et[139] = ["Écailles", "Ça sent le poisson!"];
+    Et[129] = ["Peau du kraken", "Tu n'as pas eu trop peur?"];
+    Et[113] = ["Feu de camp", "Réchauffe", "Durabilité: 150", "Durée de vie: 2min"];
+    Et[118] = ["Grand feu de camp", "Réchauffe plus longtemps", "Durabilité: 400", "Durée de vie: 6min"];
+    Et[114] = ["Établi", "Utile pour fabriquer toute sorte d'objets"];
+    Et[161] = ["Fil", "Utile pour faire des chapeaux et un sac"];
+    Et[147] = ["Fil de diamant", "Utile pour faire des chapeaux"];
+    Et[167] = ["Coffre", "Permet de ranger des objets", "Durabilité: 500"];
+    Et[57] = ["Épée en bois", "C'est pour les enfants", "Dégâts: 12", "Démolition: 4"];
+    Et[0] = ["Épée en pierre", "Sois gentil avec les autres", "Dégâts: 19", "Démolition: 6"];
+    Et[5] = ["Épée en or", "Roi de la forêt", "Dégâts: 22", "Démolition: 7"];
+    Et[6] = ["Épée en diamant", "Tu te sens puissant", "Dégâts: 24", "Démolition: 8"];
+    Et[9] = ["Épée de pirate", "Marin d'eau douce!", "Meilleure portée qu'une épée normale", "Dégâts: 24", "Démolition: 8"];
+    Et[30] = ["Épée en améthyste", "Mauve est la plus belle couleur du monde", "Dégâts: 27", "Démolition: 9"];
+    Et[62] = ["Épée du Dragon", "Pas de pitié!", "Dégâts: 30", "Démolition: 10"];
+    Et[16] = ["Lance du Dragon", "Tuez-les tous!", "Dégâts: 22", "Démolition: 6"];
+    Et[8] = ["Pioche en bois", "Peut récolter du bois et de la pierre", "Dégâts: 1"];
+    Et[1] = ["Pioche en pierre", "Peut aussi récolter de l'or", "Dégâts: 2"];
+    Et[3] = ["Pioche en or", "Peut aussi récolter du diamant", "Dégâts: 3", "Démolition: 1"];
+    Et[4] = ["Pioche en diamant", "Peut tout récolter", "Dégâts: 4", "Démolition: 1"];
+    Et[31] = ["Pioche en améthyste", "Peut tout récolter", "Dégâts: 5", "Démolition: 1"];
+    Et[35] = ["Marteau en pierre", "Utile pour détruire les bâtiments", "Ne marche pas bien sur du diamant et améthyste", "Dégâts: 2", "Démolition: 20"];
+    Et[36] = ["Marteau en or", "Utile pour détruire les bâtiments", "Ne marche pas bien sur l'améthyste", "Dégâts: 3", "Démolition: 30"];
+    Et[37] = ["Marteau en diamant", "Utile pour détruire les bâtiments", "Dégâts: 4", "Démolition: 40"];
+    Et[38] = ["Marteau en améthyste", "Utile pour détruire les bâtiments", "Dégâts: 5", "Démolition: 50"];
+    Et[45] = ["Super Marteau", "As-tu prévu de détruire le monde?", "Dégâts: 12", "Démolition: 70"];
+    Et[12] = ["Lance en bois", "Plus de peur que de mal", "Dégâts: 10", "Démolition: 2"];
+    Et[13] = ["Lance en pierre", "C'est le début de l'évolution", "Dégâts: 14", "Démolition: 4"];
+    Et[14] = ["Lance en or", "Attention, ça pique!", "Dégâts: 15", "Buildings Dégâts: 5"];
+    Et[15] = ["Lance en diamant", "Tu es prêt à tuer les dragons", "Dégâts: 17", "Buildings Dégâts: 5"];
+    Et[33] = ["Lance en améthyste", "Les dragons ne te font plus peur", "Dégâts: 18", "Buildings Dégâts: 6"];
+    Et[46] = ["Pelle en pierre", "Creuse la terre, le sable et la neige", "Peut aussi récupérer des minéraux", "Dégâts: 2"];
+    Et[50] = ["Pelle en or", "Creuse la terre, le sable et la neige", "Peut aussi récupérer des minéraux", "Dégâts: 3", "Buildings Dégâts: 1"];
+    Et[51] = ["Pelle en diamant", "Creuse la terre, le sable et la neige", "Peut aussi récupérer des minéraux", "Dégâts: 4", "Buildings Dégâts: 1"];
+    Et[52] = ["Pelle en améthyste", "Creuse la terre, le sable et la neige", "Peut aussi récupérer des minéraux", "Dégâts: 5", "Buildings Dégâts: 1"];
+    Et[58] = ["Casque en bois", "Mieux que rien", "Défense: 1", "Défense contre animaux: 4"];
+    Et[25] = ["Casque en pierre", "Prêt pour la bataille", "Défense: 2", "Défense contre animaux: 8"];
+    Et[26] = ["Casque en or", "Alias le casque des sauvages", "Défense: 4", "Défense contre animaux: 13"];
+    Et[27] = ["Casque en diamant", "Ne te vante pas trop", "Défense: 5", "Défense contre animaux: 19"];
+    Et[43] = ["Casque en améthyste", "Tu n'as plus peur de rien", "Défense: 6", "Défense contre animaux: 23"];
+    Et[59] = ["Casque du Dragon", "Tu vas conquérir le monde", "Défense: 8", "Défense contre animaux: 27"];
+    Et[23] = ["Chapeau d'explorateur", "Les animaux t'ignorent", "Mais ne faites pas de bruit!", "Réchauffe en dehors de l'eau et dans l'hiver"];
+    Et[41] = ["Chapeau du Père Noël", "Oh, oh, oh, Joyeux Nöel!", "Réchauffe en dehors de l'eau et dans l'hiver"];
+    Et[42] = ["Chapeau du lutin de Nöel", "Tu as vu le nouveau chef d'oeuvre d'Alain Chabat?", "Réchauffe en dehors de l'eau et dans l'hiver"];
+    Et[83] = ["Capuche", "Voyou!", "Tu peux voler seulement si", "1) Il fait nuit", "2) Tu as les mains libres", "3) Tu n'as pas été touché depuis 8 secondes", "4) Tu es loin d'un feu", "5) Ta cible n'est pas un paysan", "Réchauffe en dehors de l'eau et dans l'hiver"];
+    Et[10] = ["Cache-oreilles", "Une sorte de petite chapka.", "Réchauffe en dehors de l'eau et dans l'hiver"];
+    Et[11] = ["Chapka", "Comment ça va, camarade?", "Réchauffe en dehors de l'eau et dans l'hiver"];
+    Et[40] = ["Bonnet d'hiver", "Très confortable", "Très chaud"];
+    Et[84] = ["Tunique", "Les plantes poussent plus vite", "Réchauffe en dehors de l'eau et dans l'hiver"];
+    Et[85] = ["Capuche d'hiver", "Tu peux voler seulement si", "1) Il fait nuit", "2) Tu as les mains libres", "3) Tu n'as pas été touché depuis 4 secondes", "4) Tu es loin d'un feu", "5) Ta cible n'est pas un paysan d'hiver", "Réchauffe en dehors de l'eau et dans l'hiver"];
+    Et[86] = ["Tunique d'hiver", "Tes plantes poussent plus vite", "Réchauffe en dehors de l'eau et dans l'hiver"];
+    Et[48] = ["Masque de plongée", "Tu es rapide dans l'eau", "Réchauffe dans l'eau", "Défense: 2, Défense contre animaux: 8"];
+    Et[47] = ["Scaphandre", "Tu es très rapide dans l'eau", "Réchauffe dans l'eau", "Défense: 4, Défense contre animaux: 16"];
+    Et[185] = ["Orbe du Dragon", "Donné en Quête"];
+    Et[149] = ["Coeur de Dragon", "Te change en fantôme!", "Tu es un fantôme pendant 1 min", "Trouve une pierre de résurrection"];
+    Et[175] = ["Gemme verte", "Tu n'as pas triché, promis?"];
+    Et[176] = ["Gemme orange", "Seul un vrai pirate peut l'obtenir!"];
+    Et[177] = ["Gemme bleue", "Pour les gens trop gentils"];
+    Et[77] = ["Couronne verte", "Te soigne très rapidement", "Soigne sur le temps: 40", "Défense: 4, Défense contre animaux: 16"];
+    Et[78] = ["Couronne orange", "Tu te sens soudainement très chanceux", "Défense: 4, Défense contre animaux: 16"];
+    Et[79] = ["Couronne bleue", "Une fois mort, tu deviens un fantôme", "Tu perdras toutes tes arguments", "Défense: 4, Défense contre animaux: 16"];
+    Et[180] = ["Seau", "Utile pour remplir un puit", "Un sceau est équivalent à 20 bouteilles"];
+    Et[181] = ["Seau vide", "Pour remplir ce seau, approche-toi d'une source d'eau"];
+    Et[127] = ["Bouteille", "Te permet de boire n'importe où", "Eau: 50"];
+    Et[128] = ["Bouteille vide", "Tu peux remplir cette bouteille près d'une source d'eau"];
+    Et[130] = ["Arrosoir vide", "Doit être rempli près d'une source d'eau"];
+    Et[49] = ["Arrosoir", "Permet d'arroser les plantes", "Dégâts: 1"];
+    Et[29] = ["Sac", "Plus de place dans ton inventaire!"];
+    Et[120] = ["Papier", "Pour fabriquer toute sorte d'objets"];
+    Et[28] = ["Livre", "Réduit considérablement le temps de fabrication", "Doit être porté pour fonctionner", "Dégâts: 1"];
+    Et[195] = ["Bandage", "Soigne plus rapidement", "Soigne sur le temps: 30", "Effet: 5"];
+    Et[148] = ["Cadenas", "Pour verrouiller un coffre"];
+    Et[158] = ["Clé", "Pour déverrouiller un coffre"];
+    Et[159] = ["Totem", "Te permet de créer une équipe", "Partage les portes et les coffres", "Les piques ne toucheront pas tes amis"];
+    Et[125] = ["Pont", "Très utile sur l'eau", "Te permet de boire sans te noyer", "Marche plus vite sur l'eau"];
+    Et[183] = ["Pancarte", "Laisse un message aux autres", "Durabilité: 200"];
+    Et[190] = ["Toit", "Te cache un peu et te réchauffe"];
+    Et[182] = ["Puit", "Permet de remplir des bouteilles", "Durabilité: 1000"];
+    Et[162] = ["Mur en bois", "Tu connais la danse des murs?", "Durabilité: 1000"];
+    Et[163] = ["Mur en pierre", "Ça fait un peu plus sérieux", "Durabilité: 1500"];
+    Et[164] = ["Mur en or", "De l'or sur tes murs? C'est un peu voyant", "Durabilité: 2000"];
+    Et[165] = ["Mur en diamant", "Très brillant, cache tes yeux", "Durabilité: 2500"];
+    Et[122] = ["Mur en améthyste", "Tu dois avoir très peur de sortir dehors!", "Durabilité: 3500"];
+    Et[160] = ["Piques en bois", "Peut blesser tes ennemis", "Dégâts: 10, Dégâts par coup: 2", "Durabilité: 150"];
+    Et[168] = ["Pique en pierre", "Je ne voudrais pas être ton ennemi", "Dégâts: 20", "Dégâts par coup: 3", "Durabilité: 300"];
+    Et[169] = ["Pique en or", "Tu es si cruel", "Dégâts: 30", "Dégâts par coup: 3", "Durabilité: 600"];
+    Et[170] = ["Pique en diamant", "Tu n'as pas l'air d'aimer la compagnie", "Dégâts: 40", "Dégâts par coup: 4", "Durabilité: 1200"];
+    Et[123] = ["Pique en améthyste", "Mais qu'est ce que ton voisin t'a fait?", "Dégâts: 50", "Dégâts par coup: 4", "Durabilité: 2400"];
+    Et[166] = ["Porte en bois", "Peut être ouvert ou fermé par toi ou tes amis", "Durabilité: 1000"];
+    Et[171] = ["Porte en pierre", "Tu connais les trois petits cochons?", "Durabilité: 1500"];
+    Et[172] = ["Porte en or", "Tu reconstruis l'el dorado?", "Durabilité: 2000"];
+    Et[173] = ["Porte en diamant", "Pour une maison éclatante", "Durabilité: 2500"];
+    Et[124] = ["Porte en améthyste", "Est-ce que ta maison est un coffre-fort?", "Durabilité: 3000"];
+    Et[119] = ["Chaudière", "Réchauffe", "Consume du bois toutes les 5 sec", "Durabilité: 1000"];
+    Et[135] = ["Moulin", "Peut produire de la farine à partir du blé", "Prends 5 sec pour faire de la farine", "Tu obtiens des points quand c'est en marche", "Durabilité: 2000"];
+    Et[144] = ["Four à pain", "Produit du pain avec de la farine et du bois", "Prends 10 sec pour faire du pain", "Tu obtiens des points quand c'est en marche", "Durabilité: 2000"];
+    Et[151] = ["Pierre de résurrection", "Magie magie!", "Te ressuscite si tu es un fantôme", "Tu perds toutes tes armes", "Durabilité: 200"];
+    Et[300] = "Tu ne peux pas rejoindre le serveur";
+    Et[301] = "Expulsé: ";
+    Et[302] = "Ta clé est déjà utilisée par quelqu'un d'autre";
+    Et[303] = "Ta clé est fausse";
+    Et[304] = "Tu as une vieille version, rafraichis tes caches";
+    Et[305] = "Il n'y a plus de nouvelles ressources";
+    Et[306] = "Tu as survécu 1 jour";
+    Et[307] = "Tu as survécu ";
+    Et[308] = " jours";
+    Et[309] = "Tu es mort ;-;";
+    Et[310] = "Le serveur ne trouve pas de points d'apparitions! Spam le bouton jouer!";
+    Et[311] = "Le serveur est complet! Spam le bouton jouer";
+    Et[312] = "Cette ressource est vide";
+    Et[313] = "Ton inventaire est rempli (Clic droit pour supprimer un objet)";
+    Et[314] = " est mort";
+    Et[315] = "Ce n'est pas le bon outil";
+    Et[316] = "Tu as rejoins une équipe";
+    Et[317] = "Tu es mort";
+    Et[318] = " a rejoint l'équipe";
+    Et[319] = "Ton équipe a été détruite";
+    Et[320] = "Tu as quitté l'équipe";
+    Et[321] = " a quitté l'équipe";
+    Et[322] = "Quelqu'un a volé ton token :>";
+    Et[323] = "Choisis un serveur";
+    Et[324] = "joueurs";
+    Et[325] = "joueurs";
+    Et[326] = "joueurs dans ce mode";
+    Et[327] = "Bientôt...";
     document.getElementById("nickname_input").placeholder = "Surnom";
     Gt[Rq] = ["Tu as été tué sans raison particulière, juste comme ça"];
     Gt[Xn] = ["Tu es mort de faim, c'est plutôt ironique, non?"];
@@ -11694,12 +11694,12 @@
         var m = d * 193 / cf.ⲆⵠⲆⵠᐃ;
         var n = j.width / 3.5;
         var o = j.height / 3.5;
-        ΔΔ[Xr.ΔⵠⲆⵠΔ][i].drawImage(j, k - n / Ug, m - o / as, n, o);
+        ΔΔ[818][i].drawImage(j, k - n / Ug, m - o / as, n, o);
         k = e * 600 / cf.ⵠⲆᐃⲆᐃ;
         m = d * 600 / cf.ⲆⵠⲆⵠᐃ;
         n = j.width / 1.5;
         o = j.height / 1.5;
-        ΔΔ[Xr.ΔΔⵠᐃⵠ][i].drawImage(j, k - n / 2, m - o / Vh, n, o);
+        ΔΔ[819][i].drawImage(j, k - n / 2, m - o / Vh, n, o);
       }
     }
   }
@@ -11716,10 +11716,10 @@
   }
   ⵠⵠⲆΔⵠΔⲆᐃΔ = function () {
     for (var b = 0; b < 2; b++) {
-      ΔΔ[Xr.ΔⵠⲆⵠΔ][b].clearRect(Hi, 0, 193, 193);
-      ΔΔ[Xr.ΔⵠⲆⵠΔ][b].drawImage(ⵠᐃΔⲆ.MAP[b], 0, 0, 193, 193);
-      ΔΔ[Xr.ΔΔⵠᐃⵠ][b].clearRect(0, Qs, 600, 600);
-      ΔΔ[Xr.ΔΔⵠᐃⵠ][b].drawImage(ⵠᐃΔⲆ.MAP[b], 0, 0, 600, 600);
+      ΔΔ[818][b].clearRect(Hi, 0, 193, 193);
+      ΔΔ[818][b].drawImage(ⵠᐃΔⲆ.MAP[b], 0, 0, 193, 193);
+      ΔΔ[819][b].clearRect(0, Qs, 600, 600);
+      ΔΔ[819][b].drawImage(ⵠᐃΔⲆ.MAP[b], 0, 0, 600, 600);
       for (var c = cf.Ⲇᐃᐃᐃ.length - 1; c >= 0; c--) {
         var d = cf.Ⲇᐃᐃᐃ[c];
         var f = d.x1 * 193 / (ql * cf.ⵠⲆᐃⲆᐃ);
@@ -11731,24 +11731,24 @@
         var u = d.w * 600 / (Ph * cf.ⵠⲆᐃⲆᐃ);
         var v = d.ΔⵠⲆ * 600 / (xh * cf.ⲆⵠⲆⵠᐃ);
         if (cf.ⵠΔΔⵠⲆ === d.ⵠⵠⵠ) {
-          ΔΔ[Xr.ΔⵠⲆⵠΔ][b].drawImage(ⵠᐃΔⲆ.FOREST[b], f, j, k, m);
-          ΔΔ[Xr.ΔΔⵠᐃⵠ][b].drawImage(ⵠᐃΔⲆ.FOREST[b], p, q, u, v);
+          ΔΔ[818][b].drawImage(ⵠᐃΔⲆ.FOREST[b], f, j, k, m);
+          ΔΔ[819][b].drawImage(ⵠᐃΔⲆ.FOREST[b], p, q, u, v);
         }
         if (d.ⵠⵠⵠ === cf.ᐃΔΔΔⵠⵠΔ) {
-          ΔΔ[Xr.ΔⵠⲆⵠΔ][b].drawImage(ⵠᐃΔⲆ.WINTER[b], f, j, k, m);
-          ΔΔ[Xr.ΔΔⵠᐃⵠ][b].drawImage(ⵠᐃΔⲆ.WINTER[b], p, q, u, v);
+          ΔΔ[818][b].drawImage(ⵠᐃΔⲆ.WINTER[b], f, j, k, m);
+          ΔΔ[819][b].drawImage(ⵠᐃΔⲆ.WINTER[b], p, q, u, v);
         }
         if (d.ⵠⵠⵠ === cf.ⵠⵠⲆΔⵠΔΔ) {
-          ΔΔ[Xr.ΔⵠⲆⵠΔ][b].drawImage(ⵠᐃΔⲆ.LAVA[b], f, j, k, m);
-          ΔΔ[Xr.ΔΔⵠᐃⵠ][b].drawImage(ⵠᐃΔⲆ.LAVA[b], p, q, u, v);
+          ΔΔ[818][b].drawImage(ⵠᐃΔⲆ.LAVA[b], f, j, k, m);
+          ΔΔ[819][b].drawImage(ⵠᐃΔⲆ.LAVA[b], p, q, u, v);
         }
         if (cf.ΔᐃΔΔⲆⲆⲆ === d.ⵠⵠⵠ) {
-          ΔΔ[Xr.ΔⵠⲆⵠΔ][b].drawImage(ⵠᐃΔⲆ.CAVE[b], f, j, k, m);
-          ΔΔ[Xr.ΔΔⵠᐃⵠ][b].drawImage(ⵠᐃΔⲆ.CAVE[b], p, q, u, v);
+          ΔΔ[818][b].drawImage(ⵠᐃΔⲆ.CAVE[b], f, j, k, m);
+          ΔΔ[819][b].drawImage(ⵠᐃΔⲆ.CAVE[b], p, q, u, v);
         }
         if (cf.ᐃⵠⵠᐃΔᐃΔ === d.ⵠⵠⵠ) {
-          ΔΔ[Xr.ΔⵠⲆⵠΔ][b].drawImage(ⵠᐃΔⲆ.DESERT[b], f, j, k, m);
-          ΔΔ[Xr.ΔΔⵠᐃⵠ][b].drawImage(ⵠᐃΔⲆ.DESERT[b], p, q, u, v);
+          ΔΔ[818][b].drawImage(ⵠᐃΔⲆ.DESERT[b], f, j, k, m);
+          ΔΔ[819][b].drawImage(ⵠᐃΔⲆ.DESERT[b], p, q, u, v);
         }
       }
     }
@@ -15324,27 +15324,27 @@
     };
     kw.ΔⵠⲆΔⵠᐃⲆ = ⲆⵠⵠΔΔᐃⲆ(ΔⲆⵠⲆ.ᐃⵠΔᐃⲆ, 21);
     kw.ⵠⲆⵠⲆⵠⲆᐃ = ⲆⵠⵠΔΔᐃⲆ(ΔⲆⵠⲆ.ᐃⵠΔᐃⲆ, 20);
-    ΔΔ[Xr.ᐃⲆΔᐃΔᐃⲆ] = [];
-    ΔΔ[Xr.ΔᐃΔΔΔ] = [];
-    ΔΔ[Xr.Δⵠᐃᐃⵠ] = [];
-    ΔΔ[Xr.ᐃⵠΔΔⲆ] = [];
-    ΔΔ[Xr.ⵠⲆᐃᐃ] = [];
-    ΔΔ[Xr.ΔⲆⵠⲆⵠ] = [];
+    ΔΔ[255] = [];
+    ΔΔ[7] = [];
+    ΔΔ[250] = [];
+    ΔΔ[28] = [];
+    ΔΔ[29] = [];
+    ΔΔ[796] = [];
     for (var a = 0; a < ΔⲆⵠⲆ.ᐃⵠΔᐃⲆ.length; a++) {
-      ΔΔ[Xr.ᐃⲆΔᐃΔᐃⲆ][a] = [ΔⲆⵠⲆ.ᐃⵠΔᐃⲆ[a].ⵠΔⲆ, ΔⲆⵠⲆ.ᐃⵠΔᐃⲆ[a].ⵠᐃᐃ];
-      ΔΔ[Xr.ΔᐃΔΔΔ][a] = [ΔⲆⵠⲆ.ᐃⵠΔᐃⲆ[a].ⵠⲆᐃⵠ, ΔⲆⵠⲆ.ᐃⵠΔᐃⲆ[a].ⵠⵠΔᐃ];
+      ΔΔ[255][a] = [ΔⲆⵠⲆ.ᐃⵠΔᐃⲆ[a].ⵠΔⲆ, ΔⲆⵠⲆ.ᐃⵠΔᐃⲆ[a].ⵠᐃᐃ];
+      ΔΔ[7][a] = [ΔⲆⵠⲆ.ᐃⵠΔᐃⲆ[a].ⵠⲆᐃⵠ, ΔⲆⵠⲆ.ᐃⵠΔᐃⲆ[a].ⵠⵠΔᐃ];
     }
     for (a = 0; a < ΔⲆⵠⲆ.ᐃⵠΔΔⲆ.length; a++) {
-      ΔΔ[Xr.ᐃⵠΔΔⲆ][a] = [ΔⲆⵠⲆ.ᐃⵠΔΔⲆ[a].ⵠΔⲆ, ΔⲆⵠⲆ.ᐃⵠΔΔⲆ[a].ⵠᐃᐃ];
+      ΔΔ[28][a] = [ΔⲆⵠⲆ.ᐃⵠΔΔⲆ[a].ⵠΔⲆ, ΔⲆⵠⲆ.ᐃⵠΔΔⲆ[a].ⵠᐃᐃ];
     }
     for (a = 0; ΔⲆⵠⲆ.Δⵠᐃᐃⵠ.length > a; a++) {
-      ΔΔ[Xr.Δⵠᐃᐃⵠ][a] = [ΔⲆⵠⲆ.Δⵠᐃᐃⵠ[a].ⵠΔⲆ, ΔⲆⵠⲆ.Δⵠᐃᐃⵠ[a].ⵠᐃᐃ];
+      ΔΔ[250][a] = [ΔⲆⵠⲆ.Δⵠᐃᐃⵠ[a].ⵠΔⲆ, ΔⲆⵠⲆ.Δⵠᐃᐃⵠ[a].ⵠᐃᐃ];
     }
     for (a = Da; ΔⲆⵠⲆ.ⵠⲆᐃᐃ.length > a; a++) {
-      ΔΔ[Xr.ⵠⲆᐃᐃ][a] = [ΔⲆⵠⲆ.ⵠⲆᐃᐃ[a].ⵠΔⲆ, ΔⲆⵠⲆ.ⵠⲆᐃᐃ[a].ⵠᐃᐃ];
+      ΔΔ[29][a] = [ΔⲆⵠⲆ.ⵠⲆᐃᐃ[a].ⵠΔⲆ, ΔⲆⵠⲆ.ⵠⲆᐃᐃ[a].ⵠᐃᐃ];
     }
     for (a = os; ΔⲆⵠⲆ.ΔⲆⵠⲆⵠ.length > a; a++) {
-      ΔΔ[Xr.ΔⲆⵠⲆⵠ][a] = [ΔⲆⵠⲆ.ΔⲆⵠⲆⵠ[a].ⵠΔⲆ, ΔⲆⵠⲆ.ΔⲆⵠⲆⵠ[a].ⵠᐃᐃ];
+      ΔΔ[796][a] = [ΔⲆⵠⲆ.ΔⲆⵠⲆⵠ[a].ⵠΔⲆ, ΔⲆⵠⲆ.ΔⲆⵠⲆⵠ[a].ⵠᐃᐃ];
     }
   };
   const cb = wr;
@@ -22202,42 +22202,42 @@
   }
   function yd() {
     var b = Ww.time;
-    if (ΔΔ[Xr.ⵠⲆⲆᐃᐃ]) {
-      ho.drawImage(ΔΔ[Xr.ⵠⲆⲆᐃᐃ][b][1], bo + 480, lq + 190);
-      ho.drawImage(ΔΔ[Xr.ⵠⲆⲆᐃᐃ][b][2], bo + 180, lq - 430);
-      ho.drawImage(ΔΔ[Xr.ⵠⲆⲆᐃᐃ][b][og], bo - 855, lq + 100);
-      ho.drawImage(ΔΔ[Xr.ⵠⲆⲆᐃᐃ][b][0], bo - 550, lq - 300);
-      ho.drawImage(ΔΔ[Xr.ⵠⲆⲆᐃᐃ][b][st], bo - 1020, lq - 520);
+    if (ΔΔ[285]) {
+      ho.drawImage(ΔΔ[285][b][1], bo + 480, lq + 190);
+      ho.drawImage(ΔΔ[285][b][2], bo + 180, lq - 430);
+      ho.drawImage(ΔΔ[285][b][og], bo - 855, lq + 100);
+      ho.drawImage(ΔΔ[285][b][0], bo - 550, lq - 300);
+      ho.drawImage(ΔΔ[285][b][st], bo - 1020, lq - 520);
     }
-    if (ΔΔ[Xr.ⵠⵠⲆΔΔ]) {
-      ho.drawImage(ΔΔ[Xr.ⵠⵠⲆΔΔ][b][sd], bo - 80, lq - 640);
-      ho.drawImage(ΔΔ[Xr.ⵠⵠⲆΔΔ][b][Te], bo + 80, lq + 490);
-      ho.drawImage(ΔΔ[Xr.ⵠⵠⲆΔΔ][b][2], bo - 180, lq - 700);
-      ho.drawImage(ΔΔ[Xr.ⵠⵠⲆΔΔ][b][wj], bo + 550, lq + 100);
-      ho.drawImage(ΔΔ[Xr.ⵠⵠⲆΔΔ][b][1], bo + 450, lq + 300);
-      ho.drawImage(ΔΔ[Xr.ⵠⵠⲆΔΔ][b][gs], bo + 780, lq + 300);
-      ho.drawImage(ΔΔ[Xr.ⵠⵠⲆΔΔ][b][2], bo + 980, lq + 200);
-      ho.drawImage(ΔΔ[Xr.ⵠⵠⲆΔΔ][b][eh], bo + 680, lq + 600);
-      ho.drawImage(ΔΔ[Xr.ⵠⵠⲆΔΔ][b][H], bo - 380, lq + ql);
-      ho.drawImage(ΔΔ[Xr.ⵠⵠⲆΔΔ][b][2], bo + 280, lq + 250);
+    if (ΔΔ[108]) {
+      ho.drawImage(ΔΔ[108][b][sd], bo - 80, lq - 640);
+      ho.drawImage(ΔΔ[108][b][Te], bo + 80, lq + 490);
+      ho.drawImage(ΔΔ[108][b][2], bo - 180, lq - 700);
+      ho.drawImage(ΔΔ[108][b][wj], bo + 550, lq + 100);
+      ho.drawImage(ΔΔ[108][b][1], bo + 450, lq + 300);
+      ho.drawImage(ΔΔ[108][b][gs], bo + 780, lq + 300);
+      ho.drawImage(ΔΔ[108][b][2], bo + 980, lq + 200);
+      ho.drawImage(ΔΔ[108][b][eh], bo + 680, lq + 600);
+      ho.drawImage(ΔΔ[108][b][H], bo - 380, lq + ql);
+      ho.drawImage(ΔΔ[108][b][2], bo + 280, lq + 250);
     }
-    if (ΔΔ[Xr.ⵠᐃⲆⲆⲆ]) {
-      ho.drawImage(ΔΔ[Xr.ⵠᐃⲆⲆⲆ][b][Mg], bo - 590, lq);
-      ho.drawImage(ΔΔ[Xr.ⵠᐃⲆⲆⲆ][b][0], bo + 120, lq - 390);
-      ho.drawImage(ΔΔ[Xr.ⵠᐃⲆⲆⲆ][b][0], bo - 270, lq + 340);
+    if (ΔΔ[110]) {
+      ho.drawImage(ΔΔ[110][b][Mg], bo - 590, lq);
+      ho.drawImage(ΔΔ[110][b][0], bo + 120, lq - 390);
+      ho.drawImage(ΔΔ[110][b][0], bo - 270, lq + 340);
     }
-    if (ΔΔ[Xr.ΔΔⵠⲆ]) {
-      ho.drawImage(ΔΔ[Xr.ΔΔⵠⲆ][b][4], bo - 700, lq - 600);
-      ho.drawImage(ΔΔ[Xr.ΔΔⵠⲆ][b][Ob], bo - 970, lq - 250);
-      ho.drawImage(ΔΔ[Xr.ΔΔⵠⲆ][b][5], bo - 720, lq - 200);
-      ho.drawImage(ΔΔ[Xr.ΔΔⵠⲆ][b][2], bo - 1020, lq + 340);
-      ho.drawImage(ΔΔ[Xr.ΔΔⵠⲆ][b][Hi], bo - 1120, lq - 0);
-      ho.drawImage(ΔΔ[Xr.ΔΔⵠⲆ][b][za], bo - 650, lq - 330);
-      ho.drawImage(ΔΔ[Xr.ΔΔⵠⲆ][b][Ng], bo - 495, lq - 90);
-      ho.drawImage(ΔΔ[Xr.ΔΔⵠⲆ][b][3], bo - 520, lq + 340);
-      ho.drawImage(ΔΔ[Xr.ΔΔⵠⲆ][b][Ul], bo + 830, lq - 520);
+    if (ΔΔ[109]) {
+      ho.drawImage(ΔΔ[109][b][4], bo - 700, lq - 600);
+      ho.drawImage(ΔΔ[109][b][Ob], bo - 970, lq - 250);
+      ho.drawImage(ΔΔ[109][b][5], bo - 720, lq - 200);
+      ho.drawImage(ΔΔ[109][b][2], bo - 1020, lq + 340);
+      ho.drawImage(ΔΔ[109][b][Hi], bo - 1120, lq - 0);
+      ho.drawImage(ΔΔ[109][b][za], bo - 650, lq - 330);
+      ho.drawImage(ΔΔ[109][b][Ng], bo - 495, lq - 90);
+      ho.drawImage(ΔΔ[109][b][3], bo - 520, lq + 340);
+      ho.drawImage(ΔΔ[109][b][Ul], bo + 830, lq - 520);
     }
-    ΔΔ[Xr.ᐃⵠᐃᐃᐃ];
+    ΔΔ[413];
     if (Xw && cf) {
       var c = Xw.ⵠᐃⲆ.x;
       var d = Xw.ⵠᐃⲆ.y;
@@ -22249,7 +22249,7 @@
       var g = Ww.items;
       g[rs].x = 400;
       g[2].y = 100;
-      g[2].ᐃⵠᐃⵠ(Xr.ⵠⲆΔⵠᐃ);
+      g[2].ᐃⵠᐃⵠ(114);
       (f = g[au]).x = -500;
       f.y = 100;
       f.Δᐃⵠⵠ[0].x = f.x - 20.5;
@@ -22263,7 +22263,7 @@
       f.Δᐃⵠⵠ[Vn].x = f.x - 7.5;
       f.Δᐃⵠⵠ[4].y = f.y + 14.5;
       for (var h = 0; f.info > h; h++) {
-        f.Δᐃⵠⵠ[h].ᐃⵠᐃⵠ(Xr.ⵠⵠⵠⲆΔ);
+        f.Δᐃⵠⵠ[h].ᐃⵠᐃⵠ(294);
       }
       (f = g[Js]).x = 210;
       f.y = -290;
@@ -22278,11 +22278,11 @@
       f.Δᐃⵠⵠ[Mq].x = f.x - 7.5;
       f.Δᐃⵠⵠ[nl].y = f.y + 14.5;
       for (h = 0; h < f.info; h++) {
-        f.Δᐃⵠⵠ[h].ᐃⵠᐃⵠ(Xr.ⵠⵠⵠⲆΔ);
+        f.Δᐃⵠⵠ[h].ᐃⵠᐃⵠ(294);
       }
       g[0].x = 450;
       g[0].y = -_j;
-      g[0].ⲆᐃⲆⲆᐃ(Xr.ⲆⲆᐃⵠΔⲆⵠ);
+      g[0].ⲆᐃⲆⲆᐃ(113);
       g[ya].ᐃΔᐃⵠᐃ();
       Xw.ⵠᐃⲆ.x = c;
       Xw.ⵠᐃⲆ.y = d;
@@ -22729,7 +22729,7 @@
     new Date().getTime();
     rm();
     (function () {
-      ΔΔ[Xr.ⵠⵠⵠⵠΔⲆΔ] = bu(za, [{
+      ΔΔ[814] = bu(za, [{
         f: Sd,
         x: 0,
         y: wj,
@@ -22737,236 +22737,236 @@
         r: mj,
         c: ["#352b10", "#c06937", "#cd733b", "#b25e34", "#244e2b", "#214224", "#6f4424", "#3c3009"]
       }], 0.2, ["#3ba578", "#4eb687", "#3da34d"], 0.5);
-      ΔΔ[Xr.ⲆⵠΔⲆΔⲆⵠ] = ΔΔ[Xr.ⵠⵠⵠⵠΔⲆΔ];
-      ΔΔ[Xr.ⵠⵠᐃⵠᐃᐃⵠ] = [];
-      ΔΔ[Xr.ⵠⵠᐃⵠᐃᐃⵠ][Rq] = Ⲇⵠ.ⲆᐃⵠⲆΔΔΔ;
-      ΔΔ[Xr.ⵠⵠᐃⵠᐃᐃⵠ][1] = Ⲇⵠ.ⲆΔᐃⲆⵠΔⲆ;
-      ΔΔ[Xr.ⵠⵠᐃⵠᐃᐃⵠ][2] = Ⲇⵠ.ᐃᐃⵠΔᐃⲆΔ;
-      ΔΔ[Xr.ᐃΔⵠᐃⲆⵠⲆ] = ΔΔ[Xr.ⵠⵠᐃⵠᐃᐃⵠ];
-      ΔΔ[Xr.ⵠᐃⲆᐃΔᐃᐃ] = [];
-      ΔΔ[Xr.ⵠᐃⲆᐃΔᐃᐃ][eu] = Ⲇⵠ.ⲆΔᐃᐃᐃⵠΔ;
-      ΔΔ[Xr.ⵠᐃⲆᐃΔᐃᐃ][1] = Ⲇⵠ.ᐃⵠΔΔΔⵠⵠ;
-      ΔΔ[Xr.ⵠᐃⲆᐃΔᐃᐃ][2] = Ⲇⵠ.ⲆᐃⲆᐃⵠⵠᐃ;
-      ΔΔ[Xr.ⵠΔⵠᐃΔⲆⲆ] = ΔΔ[Xr.ⵠᐃⲆᐃΔᐃᐃ];
-      ΔΔ[Xr.ΔᐃΔΔⲆⵠᐃ] = [];
-      ΔΔ[Xr.ΔᐃΔΔⲆⵠᐃ][Rq] = Ⲇⵠ.ⲆΔᐃΔⲆⲆᐃ;
-      ΔΔ[Xr.ΔᐃΔΔⲆⵠᐃ][1] = Ⲇⵠ.ⵠⵠⲆᐃᐃⵠⲆ;
-      ΔΔ[Xr.ΔᐃΔΔⲆⵠᐃ][Hj] = Ⲇⵠ.ᐃⲆᐃⲆⲆⲆᐃ;
-      ΔΔ[Xr.ΔᐃΔⲆⲆⵠⲆ] = ΔΔ[Xr.ΔᐃΔΔⲆⵠᐃ];
-      ΔΔ[Xr.ⲆⲆΔΔΔΔᐃ] = [];
-      ΔΔ[Xr.ⲆⲆΔΔΔΔᐃ][Rq] = Ⲇⵠ.ⲆᐃᐃⲆᐃⲆᐃ;
-      ΔΔ[Xr.ⲆⲆΔΔΔΔᐃ][wt] = Ⲇⵠ.ⵠᐃⲆⵠΔΔⵠ;
-      ΔΔ[Xr.ⲆⲆΔΔΔΔᐃ][Pn] = Ⲇⵠ.ᐃΔⲆΔᐃⲆΔ;
-      ΔΔ[Xr.ᐃⵠⲆΔΔⵠⵠ] = ΔΔ[Xr.ⲆⲆΔΔΔΔᐃ];
-      ΔΔ[Xr.ⲆΔᐃΔⵠΔⵠ] = [];
-      ΔΔ[Xr.ⲆΔᐃΔⵠΔⵠ][0] = Ⲇⵠ.ΔΔⵠⵠΔᐃⲆ;
-      ΔΔ[Xr.ⲆΔᐃΔⵠΔⵠ][og] = Ⲇⵠ.ᐃΔᐃΔⵠⲆΔ;
-      ΔΔ[Xr.ⲆΔᐃΔⵠΔⵠ][Vg] = Ⲇⵠ.ΔⵠⵠⲆⲆᐃΔ;
-      ΔΔ[Xr.ΔⵠΔΔΔΔⵠ] = ΔΔ[Xr.ⲆΔᐃΔⵠΔⵠ];
-      ΔΔ[Xr.ΔⲆᐃⲆⲆⲆⲆ] = [];
-      ΔΔ[Xr.ΔⲆᐃⲆⲆⲆⲆ][In] = Ⲇⵠ.ᐃⲆΔⵠᐃᐃⵠ;
-      ΔΔ[Xr.ΔⲆᐃⲆⲆⲆⲆ][1] = Ⲇⵠ.ᐃΔΔᐃᐃΔᐃ;
-      ΔΔ[Xr.ΔⲆᐃⲆⲆⲆⲆ][2] = Ⲇⵠ.ⵠΔᐃΔⲆᐃΔ;
-      ΔΔ[Xr.ΔⲆⲆᐃᐃᐃⵠ] = ΔΔ[Xr.ΔⲆᐃⲆⲆⲆⲆ];
-      ΔΔ[Xr.ΔⲆΔⲆⵠⵠᐃ] = ΔΔ[Xr.ΔⲆᐃⲆⲆⲆⲆ];
-      ΔΔ[Xr.ⵠᐃⲆⵠⵠⵠΔ] = [];
-      ΔΔ[Xr.ⵠᐃⲆⵠⵠⵠΔ][Lr] = Ⲇⵠ.ⲆⵠᐃᐃᐃΔⵠᐃᐃ;
-      ΔΔ[Xr.ⵠᐃⲆⵠⵠⵠΔ][Oq] = Ⲇⵠ.ⵠⵠΔⵠⲆⲆᐃⵠᐃ;
-      ΔΔ[Xr.ⵠᐃⲆⵠⵠⵠΔ][2] = Ⲇⵠ.ⵠⵠᐃⲆΔΔᐃⲆΔ;
-      ΔΔ[Xr.ⵠᐃⲆᐃΔⵠᐃ] = ΔΔ[Xr.ⵠᐃⲆⵠⵠⵠΔ];
-      ΔΔ[Xr.ⲆΔΔᐃⵠⲆⲆ] = ΔΔ[Xr.ⵠᐃⲆⵠⵠⵠΔ];
-      ΔΔ[Xr.ΔΔᐃΔⲆΔⵠ] = [];
-      ΔΔ[Xr.ΔΔᐃΔⲆΔⵠ][fl] = Ⲇⵠ.ΔᐃⵠΔΔⲆΔ;
-      ΔΔ[Xr.ΔΔᐃΔⲆΔⵠ][1] = Ⲇⵠ.ᐃⲆᐃᐃᐃⲆⵠ;
-      ΔΔ[Xr.ΔΔᐃΔⲆΔⵠ][2] = Ⲇⵠ.ⲆⵠᐃⲆΔⵠⵠ;
-      ΔΔ[Xr.ⲆᐃⵠᐃᐃΔΔ] = ΔΔ[Xr.ΔΔᐃΔⲆΔⵠ];
-      ΔΔ[Xr.ⵠⲆⲆᐃⵠΔᐃ] = ΔΔ[Xr.ΔΔᐃΔⲆΔⵠ];
-      ΔΔ[Xr.ⲆᐃⵠⲆΔⵠⲆ] = [];
-      ΔΔ[Xr.ⲆᐃⵠⲆΔⵠⲆ][0] = Ⲇⵠ.ⲆⲆⲆᐃΔⵠΔ;
-      ΔΔ[Xr.ⲆᐃⵠⲆΔⵠⲆ][zg] = Ⲇⵠ.ΔΔΔⵠᐃΔⲆ;
-      ΔΔ[Xr.ⲆᐃⵠⲆΔⵠⲆ][2] = Ⲇⵠ.ᐃⵠⲆᐃⲆᐃᐃ;
-      ΔΔ[Xr.ⲆⵠⵠΔᐃᐃⲆ] = ΔΔ[Xr.ⲆᐃⵠⲆΔⵠⲆ];
-      ΔΔ[Xr.ⵠⵠΔⵠᐃΔⵠ] = ΔΔ[Xr.ⲆᐃⵠⲆΔⵠⲆ];
-      ΔΔ[Xr.ⲆΔᐃⲆΔΔᐃ] = [];
-      ΔΔ[Xr.ⲆΔᐃⲆΔΔᐃ][ig] = Ⲇⵠ.ΔⵠᐃⲆⵠⲆᐃ;
-      ΔΔ[Xr.ⲆΔᐃⲆΔΔᐃ][hb] = Ⲇⵠ.ⲆΔΔᐃⵠΔΔ;
-      ΔΔ[Xr.ⲆΔᐃⲆΔΔᐃ][2] = Ⲇⵠ.ⲆᐃΔⲆⲆⵠᐃ;
-      ΔΔ[Xr.ⲆᐃΔⲆΔΔᐃ] = ΔΔ[Xr.ⲆΔᐃⲆΔΔᐃ];
-      ΔΔ[Xr.ᐃΔᐃⵠⵠΔⲆ] = [];
-      ΔΔ[Xr.ᐃΔᐃⵠⵠΔⲆ][ya] = Ⲇⵠ.ⵠⲆⲆⵠΔᐃⲆ;
-      ΔΔ[Xr.ᐃΔᐃⵠⵠΔⲆ][mk] = Ⲇⵠ.ⵠⵠᐃⵠⲆⵠᐃ;
-      ΔΔ[Xr.ᐃΔᐃⵠⵠΔⲆ][It] = Ⲇⵠ.ΔⵠΔⵠᐃᐃᐃ;
-      ΔΔ[Xr.ᐃΔΔᐃΔᐃᐃ] = ΔΔ[Xr.ᐃΔᐃⵠⵠΔⲆ];
-      ΔΔ[Xr.ᐃⵠᐃⲆᐃΔⵠ] = ΔΔ[Xr.ᐃΔᐃⵠⵠΔⲆ];
-      ΔΔ[Xr.ⲆⲆΔⲆⵠⲆΔ] = [];
-      ΔΔ[Xr.ⲆⲆΔⲆⵠⲆΔ][0] = Ⲇⵠ.ᐃⵠⵠΔΔⲆⵠ;
-      ΔΔ[Xr.ⲆⲆΔⲆⵠⲆΔ][wt] = Ⲇⵠ.ⲆΔⲆᐃⵠΔΔ;
-      ΔΔ[Xr.ⲆⲆΔⲆⵠⲆΔ][2] = Ⲇⵠ.ᐃⵠΔᐃⵠᐃⵠ;
-      ΔΔ[Xr.ΔⵠⲆⲆΔⲆⲆ] = ΔΔ[Xr.ⲆⲆΔⲆⵠⲆΔ];
-      ΔΔ[Xr.ⵠⵠᐃⵠⵠⵠᐃ] = ΔΔ[Xr.ⲆⲆΔⲆⵠⲆΔ];
-      ΔΔ[Xr.ⵠᐃΔΔⲆⲆⵠ] = [];
-      ΔΔ[Xr.ⵠᐃΔΔⲆⲆⵠ][Bb] = Ⲇⵠ.ΔⲆⵠⲆᐃᐃⵠ;
-      ΔΔ[Xr.ⵠᐃΔΔⲆⲆⵠ][1] = Ⲇⵠ.ⲆᐃΔⲆⲆᐃΔ;
-      ΔΔ[Xr.ⵠᐃΔΔⲆⲆⵠ][2] = Ⲇⵠ.ᐃⵠᐃⵠⲆⲆⵠ;
-      ΔΔ[Xr.ᐃⲆⵠⵠΔΔᐃ] = ΔΔ[Xr.ⵠᐃΔΔⲆⲆⵠ];
-      ΔΔ[Xr.ⲆⵠΔΔΔΔΔ] = ΔΔ[Xr.ⵠᐃΔΔⲆⲆⵠ];
-      ΔΔ[Xr.ΔΔⲆⵠΔⵠⵠ] = [];
-      ΔΔ[Xr.ΔΔⲆⵠΔⵠⵠ][Ih] = Ⲇⵠ.ⲆᐃⵠΔⲆΔΔ;
-      ΔΔ[Xr.ΔΔⲆⵠΔⵠⵠ][1] = Ⲇⵠ.ⲆⵠⲆΔᐃⵠⵠ;
-      ΔΔ[Xr.ΔΔⲆⵠΔⵠⵠ][2] = Ⲇⵠ.ⲆⵠⲆⲆⵠⲆΔ;
-      ΔΔ[Xr.ᐃᐃⵠΔⲆⲆⲆ] = ΔΔ[Xr.ΔΔⲆⵠΔⵠⵠ];
-      ΔΔ[Xr.ΔᐃⵠΔᐃⵠⲆ] = ΔΔ[Xr.ΔΔⲆⵠΔⵠⵠ];
-      ΔΔ[Xr.ⲆᐃΔⵠΔΔⲆ] = [];
-      ΔΔ[Xr.ⲆᐃΔⵠΔΔⲆ][0] = Ⲇⵠ.ᐃⵠᐃⵠⵠᐃⲆ;
-      ΔΔ[Xr.ⲆᐃΔⵠΔΔⲆ][mk] = Ⲇⵠ.ᐃΔⲆⵠᐃⲆⲆ;
-      ΔΔ[Xr.ⲆᐃΔⵠΔΔⲆ][2] = Ⲇⵠ.ᐃⲆΔⵠⲆⲆⵠ;
-      ΔΔ[Xr.ᐃⵠⵠⲆᐃⵠΔ] = ΔΔ[Xr.ⲆᐃΔⵠΔΔⲆ];
-      ΔΔ[Xr.ⲆⲆΔⵠΔΔⵠ] = ΔΔ[Xr.ⲆᐃΔⵠΔΔⲆ];
-      ΔΔ[Xr.ΔᐃⲆⵠᐃⲆⲆ] = [];
-      ΔΔ[Xr.ΔᐃⲆⵠᐃⲆⲆ][Hi] = Ⲇⵠ.ⲆᐃⲆΔⵠᐃⵠ;
-      ΔΔ[Xr.ΔᐃⲆⵠᐃⲆⲆ][sd] = Ⲇⵠ.ⲆΔⲆᐃⵠⲆΔ;
-      ΔΔ[Xr.ΔᐃⲆⵠᐃⲆⲆ][rs] = Ⲇⵠ.ΔⲆⵠⵠⵠⲆⵠ;
-      ΔΔ[Xr.ⲆⲆⵠⵠΔⲆⵠ] = ΔΔ[Xr.ΔᐃⲆⵠᐃⲆⲆ];
-      ΔΔ[Xr.ⵠⲆⵠⵠΔⵠⵠ] = ΔΔ[Xr.ΔᐃⲆⵠᐃⲆⲆ];
-      ΔΔ[Xr.ᐃΔᐃᐃΔⲆⲆ] = [];
-      ΔΔ[Xr.ᐃΔᐃᐃΔⲆⲆ][Bb] = Ⲇⵠ.ⵠΔⲆΔⲆⵠᐃ;
-      ΔΔ[Xr.ᐃΔᐃᐃΔⲆⲆ][Xn] = Ⲇⵠ.ⵠⲆΔⵠΔΔⵠ;
-      ΔΔ[Xr.ᐃΔᐃᐃΔⲆⲆ][Ul] = Ⲇⵠ.ⲆⲆⲆΔΔΔΔ;
-      ΔΔ[Xr.ᐃⵠᐃᐃⲆΔⵠ] = ΔΔ[Xr.ᐃΔᐃᐃΔⲆⲆ];
-      ΔΔ[Xr.ΔⲆⲆΔⵠⲆⲆ] = ΔΔ[Xr.ᐃΔᐃᐃΔⲆⲆ];
-      ΔΔ[Xr.ΔᐃⲆᐃᐃΔᐃ] = [];
-      ΔΔ[Xr.ΔᐃⲆᐃᐃΔᐃ][0] = Ⲇⵠ.ΔΔⲆΔᐃΔᐃ;
-      ΔΔ[Xr.ΔᐃⲆᐃᐃΔᐃ][og] = Ⲇⵠ.ᐃⲆⲆΔⲆⲆⵠ;
-      ΔΔ[Xr.ΔᐃⲆᐃᐃΔᐃ][lr] = Ⲇⵠ.ᐃᐃᐃᐃΔᐃⲆ;
-      ΔΔ[Xr.ΔΔⲆΔⲆⵠⲆ] = ΔΔ[Xr.ΔᐃⲆᐃᐃΔᐃ];
-      ΔΔ[Xr.ᐃᐃᐃⵠΔᐃᐃ] = ΔΔ[Xr.ΔᐃⲆᐃᐃΔᐃ];
-      ΔΔ[Xr.ΔᐃⵠΔᐃⲆΔ] = [];
-      ΔΔ[Xr.ΔᐃⵠΔᐃⲆΔ][Hi] = Ⲇⵠ.ⲆⲆᐃᐃⲆⵠΔ;
-      ΔΔ[Xr.ΔᐃⵠΔᐃⲆΔ][1] = Ⲇⵠ.ⵠᐃⲆΔᐃⲆΔ;
-      ΔΔ[Xr.ΔᐃⵠΔᐃⲆΔ][xj] = Ⲇⵠ.ΔᐃⲆⲆᐃⵠΔ;
-      ΔΔ[Xr.ⲆΔⲆⲆⵠⵠΔ] = ΔΔ[Xr.ΔᐃⵠΔᐃⲆΔ];
-      ΔΔ[Xr.ⵠᐃᐃⲆⲆⵠⲆ] = ΔΔ[Xr.ΔᐃⵠΔᐃⲆΔ];
-      ΔΔ[Xr.ᐃⵠⲆⲆⲆᐃⵠ] = [];
-      ΔΔ[Xr.ᐃⵠⲆⲆⲆᐃⵠ][0] = Ⲇⵠ.ⵠⵠⵠΔᐃⲆⲆ;
-      ΔΔ[Xr.ᐃⵠⲆⲆⲆᐃⵠ][zg] = Ⲇⵠ.ᐃΔⲆᐃⲆᐃⵠᐃⲆ;
-      ΔΔ[Xr.ᐃⵠⲆⲆⲆᐃⵠ][2] = Ⲇⵠ.ⲆⵠᐃΔᐃΔᐃᐃᐃ;
-      ΔΔ[Xr.ᐃⵠⲆΔΔⵠΔ] = ΔΔ[Xr.ᐃⵠⲆⲆⲆᐃⵠ];
-      ΔΔ[Xr.ⵠⵠⲆΔΔᐃⲆ] = ΔΔ[Xr.ᐃⵠⲆⲆⲆᐃⵠ];
-      ΔΔ[Xr.ⲆΔΔⲆⵠⲆⲆ] = [];
-      ΔΔ[Xr.ⲆΔΔⲆⵠⲆⲆ][ig] = Ⲇⵠ.ᐃΔᐃⲆᐃΔⵠΔΔ;
-      ΔΔ[Xr.ⲆΔΔⲆⵠⲆⲆ][1] = Ⲇⵠ.ᐃᐃⲆΔᐃⲆⵠⲆⵠ;
-      ΔΔ[Xr.ⲆΔΔⲆⵠⲆⲆ][Pn] = Ⲇⵠ.ΔⲆⲆᐃⲆΔⵠⵠΔ;
-      ΔΔ[Xr.ΔⲆᐃⲆⲆⵠΔ] = ΔΔ[Xr.ⲆΔΔⲆⵠⲆⲆ];
-      ΔΔ[Xr.ᐃᐃᐃᐃⲆⵠᐃ] = ΔΔ[Xr.ⲆΔΔⲆⵠⲆⲆ];
-      ΔΔ[Xr.ⲆⵠⵠⲆΔⵠᐃ] = [];
-      ΔΔ[Xr.ⲆⵠⵠⲆΔⵠᐃ][0] = Ⲇⵠ.ᐃᐃᐃᐃᐃᐃᐃⵠᐃ;
-      ΔΔ[Xr.ⲆⵠⵠⲆΔⵠᐃ][Te] = Ⲇⵠ.ⲆⵠΔᐃᐃⵠⲆᐃᐃ;
-      ΔΔ[Xr.ⲆⵠⵠⲆΔⵠᐃ][Ob] = Ⲇⵠ.ⵠⵠΔⵠⵠᐃⵠⲆⲆ;
-      ΔΔ[Xr.ⵠⲆⲆΔⲆⲆΔ] = ΔΔ[Xr.ⲆⵠⵠⲆΔⵠᐃ];
-      ΔΔ[Xr.ⵠⵠᐃΔⲆΔⵠ] = ΔΔ[Xr.ⲆⵠⵠⲆΔⵠᐃ];
-      ΔΔ[Xr.ⵠΔᐃᐃⲆᐃᐃ] = [];
-      ΔΔ[Xr.ⵠΔᐃᐃⲆᐃᐃ][0] = Ⲇⵠ.ⲆᐃⲆᐃᐃᐃⲆΔΔ;
-      ΔΔ[Xr.ⵠΔᐃᐃⲆᐃᐃ][1] = Ⲇⵠ.ⲆᐃⲆⲆᐃⵠᐃᐃΔ;
-      ΔΔ[Xr.ⵠΔᐃᐃⲆᐃᐃ][Ob] = Ⲇⵠ.ΔᐃⵠΔΔΔΔⲆΔ;
-      ΔΔ[Xr.ΔⲆᐃΔᐃΔⲆ] = ΔΔ[Xr.ⵠΔᐃᐃⲆᐃᐃ];
-      ΔΔ[Xr.ⲆᐃⵠΔⵠΔⵠ] = ΔΔ[Xr.ⵠΔᐃᐃⲆᐃᐃ];
-      ΔΔ[Xr.ⲆᐃΔⲆᐃᐃⵠ] = [];
-      ΔΔ[Xr.ⲆᐃΔⲆᐃᐃⵠ][ya] = Ⲇⵠ.ΔΔΔΔⵠⵠⵠᐃΔ;
-      ΔΔ[Xr.ⲆᐃΔⲆᐃᐃⵠ][1] = Ⲇⵠ.ΔⲆΔⲆᐃⲆⵠΔⲆ;
-      ΔΔ[Xr.ⲆᐃΔⲆᐃᐃⵠ][Lt] = Ⲇⵠ.ΔⲆᐃⲆᐃᐃⲆΔᐃ;
-      ΔΔ[Xr.ΔᐃᐃΔΔΔᐃ] = ΔΔ[Xr.ⲆᐃΔⲆᐃᐃⵠ];
-      ΔΔ[Xr.ᐃⲆᐃΔⲆⵠᐃ] = ΔΔ[Xr.ⲆᐃΔⲆᐃᐃⵠ];
-      ΔΔ[Xr.ᐃᐃᐃⵠⲆⲆᐃ] = [];
-      ΔΔ[Xr.ᐃᐃᐃⵠⲆⲆᐃ][eu] = Ⲇⵠ.ⵠᐃⵠΔΔΔΔⵠᐃ;
-      ΔΔ[Xr.ᐃᐃᐃⵠⲆⲆᐃ][zg] = Ⲇⵠ.ⲆᐃⵠΔΔⲆᐃⲆᐃ;
-      ΔΔ[Xr.ᐃᐃᐃⵠⲆⲆᐃ][2] = Ⲇⵠ.ⲆΔⲆⵠⵠᐃⲆⲆᐃ;
-      ΔΔ[Xr.ᐃⵠⵠᐃⲆᐃΔ] = ΔΔ[Xr.ᐃᐃᐃⵠⲆⲆᐃ];
-      ΔΔ[Xr.ⵠⲆΔⲆΔᐃⵠ] = ΔΔ[Xr.ᐃᐃᐃⵠⲆⲆᐃ];
-      ΔΔ[Xr.ΔⲆΔᐃΔⲆΔ] = [];
-      ΔΔ[Xr.ΔⲆΔᐃΔⲆΔ][0] = Ⲇⵠ.ᐃⲆⲆⵠᐃΔᐃⵠⵠ;
-      ΔΔ[Xr.ΔⲆΔᐃΔⲆΔ][1] = Ⲇⵠ.ΔⲆᐃⲆᐃᐃⲆΔΔ;
-      ΔΔ[Xr.ΔⲆΔᐃΔⲆΔ][2] = Ⲇⵠ.ᐃΔⲆⲆⲆⵠⲆΔⵠ;
-      ΔΔ[Xr.ⵠⵠⵠⲆΔⲆΔ] = ΔΔ[Xr.ΔⲆΔᐃΔⲆΔ];
-      ΔΔ[Xr.ⲆᐃⵠⲆᐃᐃⵠ] = ΔΔ[Xr.ΔⲆΔᐃΔⲆΔ];
-      ΔΔ[Xr.ᐃΔⵠⲆⲆⵠⲆ] = [];
-      ΔΔ[Xr.ᐃΔⵠⲆⲆⵠⲆ][0] = Ⲇⵠ.ⲆⵠⲆΔⵠⵠᐃⵠⲆ;
-      ΔΔ[Xr.ᐃΔⵠⲆⲆⵠⲆ][zg] = Ⲇⵠ.ᐃΔᐃᐃⲆⵠⵠᐃΔ;
-      ΔΔ[Xr.ᐃΔⵠⲆⲆⵠⲆ][2] = Ⲇⵠ.ᐃⲆΔⲆⲆᐃⵠᐃᐃ;
-      ΔΔ[Xr.ⲆᐃᐃᐃⵠᐃⲆ] = ΔΔ[Xr.ᐃΔⵠⲆⲆⵠⲆ];
-      ΔΔ[Xr.ⲆᐃⲆⲆⲆᐃᐃ] = ΔΔ[Xr.ᐃΔⵠⲆⲆⵠⲆ];
-      ΔΔ[Xr.ⲆⵠⵠᐃᐃⲆⲆ] = [];
-      ΔΔ[Xr.ⲆⵠⵠᐃᐃⲆⲆ][wj] = Ⲇⵠ.ᐃᐃⵠⲆⲆⵠᐃⵠⵠ;
-      ΔΔ[Xr.ⲆⵠⵠᐃᐃⲆⲆ][1] = Ⲇⵠ.ΔᐃΔᐃⵠΔᐃᐃΔ;
-      ΔΔ[Xr.ⲆⵠⵠᐃᐃⲆⲆ][2] = Ⲇⵠ.ⵠⵠⲆΔⵠⵠΔᐃⵠ;
-      ΔΔ[Xr.ⲆⵠᐃᐃΔⵠΔ] = ΔΔ[Xr.ⲆⵠⵠᐃᐃⲆⲆ];
-      ΔΔ[Xr.ᐃΔᐃΔΔᐃᐃ] = ΔΔ[Xr.ⲆⵠⵠᐃᐃⲆⲆ];
-      ΔΔ[Xr.ΔⲆⵠᐃᐃⲆΔ] = [];
-      ΔΔ[Xr.ΔⲆⵠᐃᐃⲆΔ][Ih] = Ⲇⵠ.ΔᐃᐃⵠᐃᐃΔᐃΔ;
-      ΔΔ[Xr.ΔⲆⵠᐃᐃⲆΔ][1] = Ⲇⵠ.ⲆᐃᐃΔᐃΔⲆⵠᐃ;
-      ΔΔ[Xr.ΔⲆⵠᐃᐃⲆΔ][2] = Ⲇⵠ.ΔⵠⲆⲆⵠⵠΔΔⲆ;
-      ΔΔ[Xr.ⲆⲆⵠⵠΔⵠᐃ] = ΔΔ[Xr.ΔⲆⵠᐃᐃⲆΔ];
-      ΔΔ[Xr.ⵠΔⲆᐃⲆⵠΔ] = ΔΔ[Xr.ΔⲆⵠᐃᐃⲆΔ];
-      ΔΔ[Xr.ΔⵠΔⵠΔΔⲆ] = [];
-      ΔΔ[Xr.ΔⵠΔⵠΔΔⲆ][wj] = Ⲇⵠ.ΔΔⵠⵠΔⲆΔⵠⵠ;
-      ΔΔ[Xr.ΔⵠΔⵠΔΔⲆ][pu] = Ⲇⵠ.ⵠᐃΔΔᐃᐃᐃΔᐃ;
-      ΔΔ[Xr.ΔⵠΔⵠΔΔⲆ][2] = Ⲇⵠ.ᐃⲆΔⲆᐃⵠⲆⲆΔ;
-      ΔΔ[Xr.ⵠΔᐃᐃΔΔᐃ] = ΔΔ[Xr.ΔⵠΔⵠΔΔⲆ];
-      ΔΔ[Xr.ΔⲆΔⵠⵠᐃⵠ] = ΔΔ[Xr.ΔⵠΔⵠΔΔⲆ];
-      ΔΔ[Xr.ⵠᐃⲆⵠΔⵠⵠ] = [];
-      ΔΔ[Xr.ⵠᐃⲆⵠΔⵠⵠ][Hi] = Ⲇⵠ.ⲆᐃᐃⲆΔⲆⵠⲆⵠ;
-      ΔΔ[Xr.ⵠᐃⲆⵠΔⵠⵠ][au] = Ⲇⵠ.ᐃⲆⵠⵠΔΔⵠⲆΔ;
-      ΔΔ[Xr.ⵠᐃⲆⵠΔⵠⵠ][2] = Ⲇⵠ.ⵠᐃᐃⵠⲆⲆⲆΔᐃ;
-      ΔΔ[Xr.ⵠΔⲆⲆⵠⲆⵠ] = ΔΔ[Xr.ⵠᐃⲆⵠΔⵠⵠ];
-      ΔΔ[Xr.ⵠⵠⲆᐃΔᐃᐃ] = ΔΔ[Xr.ⵠᐃⲆⵠΔⵠⵠ];
-      ΔΔ[Xr.ⵠᐃΔΔΔᐃⵠ] = [];
-      ΔΔ[Xr.ⵠᐃΔΔΔᐃⵠ][os] = Ⲇⵠ.ᐃⲆⵠᐃΔΔⵠᐃⲆ;
-      ΔΔ[Xr.ⵠᐃΔΔΔᐃⵠ][1] = Ⲇⵠ.ΔⲆᐃⲆΔⲆⲆΔᐃ;
-      ΔΔ[Xr.ⵠᐃΔΔΔᐃⵠ][Ob] = Ⲇⵠ.ΔᐃⲆⵠᐃⲆⲆⲆΔ;
-      ΔΔ[Xr.ᐃⵠⲆⲆᐃⵠΔ] = ΔΔ[Xr.ⵠᐃΔΔΔᐃⵠ];
-      ΔΔ[Xr.ⵠᐃⵠⵠΔΔⵠ] = ΔΔ[Xr.ⵠᐃΔΔΔᐃⵠ];
-      ΔΔ[Xr.ⵠⲆᐃᐃΔΔⵠ] = [];
-      ΔΔ[Xr.ⵠⲆᐃᐃΔΔⵠ][Rq] = Ⲇⵠ.ᐃᐃᐃⲆⵠⵠᐃⵠⲆ;
-      ΔΔ[Xr.ⵠⲆᐃᐃΔΔⵠ][hb] = Ⲇⵠ.ᐃⵠΔΔᐃᐃⵠᐃᐃ;
-      ΔΔ[Xr.ⵠⲆᐃᐃΔΔⵠ][pq] = Ⲇⵠ.ⵠᐃΔⲆΔᐃⵠᐃⵠ;
-      ΔΔ[Xr.ΔᐃⵠᐃΔΔⲆ] = ΔΔ[Xr.ⵠⲆᐃᐃΔΔⵠ];
-      ΔΔ[Xr.ΔⵠᐃΔⲆⲆΔ] = ΔΔ[Xr.ⵠⲆᐃᐃΔΔⵠ];
-      ΔΔ[Xr.ⲆⲆⲆⵠᐃᐃᐃ] = [];
-      ΔΔ[Xr.ⲆⲆⲆⵠᐃᐃᐃ][0] = Ⲇⵠ.ⲆΔⲆⲆⲆᐃΔⵠⵠ;
-      ΔΔ[Xr.ⲆⲆⲆⵠᐃᐃᐃ][1] = Ⲇⵠ.ΔᐃΔΔΔᐃᐃⲆᐃ;
-      ΔΔ[Xr.ⲆⲆⲆⵠᐃᐃᐃ][2] = Ⲇⵠ.ΔΔΔᐃⲆⵠⲆΔⵠ;
-      ΔΔ[Xr.ΔⲆⵠΔᐃⵠⵠ] = ΔΔ[Xr.ⲆⲆⲆⵠᐃᐃᐃ];
-      ΔΔ[Xr.ⲆⲆⵠⵠⲆᐃⵠ] = ΔΔ[Xr.ⲆⲆⲆⵠᐃᐃᐃ];
-      ΔΔ[Xr.ⲆⵠΔΔΔΔᐃ] = [];
-      ΔΔ[Xr.ⲆⵠΔΔΔΔᐃ][0] = Ⲇⵠ.ΔΔⵠᐃⵠⵠΔⵠⵠ;
-      ΔΔ[Xr.ⲆⵠΔΔΔΔᐃ][Tl] = Ⲇⵠ.ΔᐃⲆⲆᐃᐃⵠⲆⲆ;
-      ΔΔ[Xr.ⲆⵠΔΔΔΔᐃ][2] = Ⲇⵠ.ᐃΔᐃⵠⲆⲆⲆⵠⵠ;
-      ΔΔ[Xr.ΔⵠⲆⲆᐃᐃΔ] = ΔΔ[Xr.ⲆⵠΔΔΔΔᐃ];
-      ΔΔ[Xr.ⵠⵠᐃⲆᐃⲆᐃ] = ΔΔ[Xr.ⲆⵠΔΔΔΔᐃ];
-      ΔΔ[Xr.ⵠⵠⲆⵠⵠᐃⵠ] = [];
-      ΔΔ[Xr.ⵠⵠⲆⵠⵠᐃⵠ][0] = Ⲇⵠ.ⵠⲆΔᐃΔᐃΔΔⲆ;
-      ΔΔ[Xr.ⵠⵠⲆⵠⵠᐃⵠ][1] = Ⲇⵠ.ΔⵠΔᐃᐃᐃⵠΔⲆ;
-      ΔΔ[Xr.ⵠⵠⲆⵠⵠᐃⵠ][Vh] = Ⲇⵠ.ᐃⵠⲆᐃΔⲆⵠⲆⵠ;
-      ΔΔ[Xr.ⲆᐃᐃΔΔᐃⲆ] = ΔΔ[Xr.ⵠⵠⲆⵠⵠᐃⵠ];
-      ΔΔ[Xr.ΔΔᐃᐃΔᐃⲆ] = ΔΔ[Xr.ⵠⵠⲆⵠⵠᐃⵠ];
-      ΔΔ[Xr.ᐃᐃᐃⲆᐃᐃⲆ] = [];
-      ΔΔ[Xr.ᐃᐃᐃⲆᐃᐃⲆ][wg] = Ⲇⵠ.ⵠⵠⵠⵠⲆΔᐃΔⵠ;
-      ΔΔ[Xr.ᐃᐃᐃⲆᐃᐃⲆ][Hg] = Ⲇⵠ.ⲆⲆⲆΔⲆⲆΔⵠⵠ;
-      ΔΔ[Xr.ᐃᐃᐃⲆᐃᐃⲆ][xq] = Ⲇⵠ.ᐃᐃⲆᐃᐃⵠⲆᐃΔ;
-      ΔΔ[Xr.ⵠⲆᐃⲆⲆΔⲆ] = ΔΔ[Xr.ᐃᐃᐃⲆᐃᐃⲆ];
-      ΔΔ[Xr.ΔⲆⲆΔΔᐃⵠ] = ΔΔ[Xr.ᐃᐃᐃⲆᐃᐃⲆ];
-      ΔΔ[Xr.ΔΔΔΔⲆᐃⵠ] = [];
-      ΔΔ[Xr.ΔΔΔΔⲆᐃⵠ][os] = Ⲇⵠ.ⲆⵠⲆⵠⵠΔⲆ;
-      ΔΔ[Xr.ΔΔΔΔⲆᐃⵠ][og] = Ⲇⵠ.ⵠⲆⲆΔᐃⵠᐃ;
-      ΔΔ[Xr.ΔΔΔΔⲆᐃⵠ][2] = Ⲇⵠ.ᐃⲆⲆⲆΔⲆⲆ;
-      ΔΔ[Xr.ᐃⵠⵠⲆᐃᐃᐃ] = ΔΔ[Xr.ΔΔΔΔⲆᐃⵠ];
-      ΔΔ[Xr.ⵠⵠᐃⲆᐃᐃⲆ] = ΔΔ[Xr.ΔΔΔΔⲆᐃⵠ];
-      ΔΔ[Xr.ΔⵠᐃⲆΔⵠⲆ] = [];
-      ΔΔ[Xr.ΔⵠᐃⲆΔⵠⲆ][Ih] = Ⲇⵠ.ⲆᐃⲆⵠⲆⵠΔ;
-      ΔΔ[Xr.ΔⵠᐃⲆΔⵠⲆ][1] = Ⲇⵠ.ᐃᐃⵠΔⵠⲆᐃ;
-      ΔΔ[Xr.ΔⵠᐃⲆΔⵠⲆ][2] = Ⲇⵠ.ΔⵠΔⵠⲆⵠⵠ;
-      ΔΔ[Xr.ᐃΔⵠⵠⲆᐃΔ] = ΔΔ[Xr.ΔⵠᐃⲆΔⵠⲆ];
-      ΔΔ[Xr.ᐃⵠⵠᐃⵠᐃᐃⲆⲆ] = ΔΔ[Xr.ΔⵠᐃⲆΔⵠⲆ];
-      ΔΔ[Xr.ᐃⵠᐃᐃⲆⵠΔ] = bu(hb, [{
+      ΔΔ[815] = ΔΔ[814];
+      ΔΔ[955] = [];
+      ΔΔ[955][Rq] = Ⲇⵠ.ⲆᐃⵠⲆΔΔΔ;
+      ΔΔ[955][1] = Ⲇⵠ.ⲆΔᐃⲆⵠΔⲆ;
+      ΔΔ[955][2] = Ⲇⵠ.ᐃᐃⵠΔᐃⲆΔ;
+      ΔΔ[956] = ΔΔ[955];
+      ΔΔ[972] = [];
+      ΔΔ[972][eu] = Ⲇⵠ.ⲆΔᐃᐃᐃⵠΔ;
+      ΔΔ[972][1] = Ⲇⵠ.ᐃⵠΔΔΔⵠⵠ;
+      ΔΔ[972][2] = Ⲇⵠ.ⲆᐃⲆᐃⵠⵠᐃ;
+      ΔΔ[973] = ΔΔ[972];
+      ΔΔ[987] = [];
+      ΔΔ[987][Rq] = Ⲇⵠ.ⲆΔᐃΔⲆⲆᐃ;
+      ΔΔ[987][1] = Ⲇⵠ.ⵠⵠⲆᐃᐃⵠⲆ;
+      ΔΔ[987][Hj] = Ⲇⵠ.ᐃⲆᐃⲆⲆⲆᐃ;
+      ΔΔ[988] = ΔΔ[987];
+      ΔΔ[1154] = [];
+      ΔΔ[1154][Rq] = Ⲇⵠ.ⲆᐃᐃⲆᐃⲆᐃ;
+      ΔΔ[1154][wt] = Ⲇⵠ.ⵠᐃⲆⵠΔΔⵠ;
+      ΔΔ[1154][Pn] = Ⲇⵠ.ᐃΔⲆΔᐃⲆΔ;
+      ΔΔ[1155] = ΔΔ[1154];
+      ΔΔ[965] = [];
+      ΔΔ[965][0] = Ⲇⵠ.ΔΔⵠⵠΔᐃⲆ;
+      ΔΔ[965][og] = Ⲇⵠ.ᐃΔᐃΔⵠⲆΔ;
+      ΔΔ[965][Vg] = Ⲇⵠ.ΔⵠⵠⲆⲆᐃΔ;
+      ΔΔ[974] = ΔΔ[965];
+      ΔΔ[1028] = [];
+      ΔΔ[1028][In] = Ⲇⵠ.ᐃⲆΔⵠᐃᐃⵠ;
+      ΔΔ[1028][1] = Ⲇⵠ.ᐃΔΔᐃᐃΔᐃ;
+      ΔΔ[1028][2] = Ⲇⵠ.ⵠΔᐃΔⲆᐃΔ;
+      ΔΔ[1029] = ΔΔ[1028];
+      ΔΔ[1027] = ΔΔ[1028];
+      ΔΔ[712] = [];
+      ΔΔ[712][Lr] = Ⲇⵠ.ⲆⵠᐃᐃᐃΔⵠᐃᐃ;
+      ΔΔ[712][Oq] = Ⲇⵠ.ⵠⵠΔⵠⲆⲆᐃⵠᐃ;
+      ΔΔ[712][2] = Ⲇⵠ.ⵠⵠᐃⲆΔΔᐃⲆΔ;
+      ΔΔ[713] = ΔΔ[712];
+      ΔΔ[714] = ΔΔ[712];
+      ΔΔ[1031] = [];
+      ΔΔ[1031][fl] = Ⲇⵠ.ΔᐃⵠΔΔⲆΔ;
+      ΔΔ[1031][1] = Ⲇⵠ.ᐃⲆᐃᐃᐃⲆⵠ;
+      ΔΔ[1031][2] = Ⲇⵠ.ⲆⵠᐃⲆΔⵠⵠ;
+      ΔΔ[1032] = ΔΔ[1031];
+      ΔΔ[1030] = ΔΔ[1031];
+      ΔΔ[423] = [];
+      ΔΔ[423][0] = Ⲇⵠ.ⲆⲆⲆᐃΔⵠΔ;
+      ΔΔ[423][zg] = Ⲇⵠ.ΔΔΔⵠᐃΔⲆ;
+      ΔΔ[423][2] = Ⲇⵠ.ᐃⵠⲆᐃⲆᐃᐃ;
+      ΔΔ[425] = ΔΔ[423];
+      ΔΔ[424] = ΔΔ[423];
+      ΔΔ[1233] = [];
+      ΔΔ[1233][ig] = Ⲇⵠ.ΔⵠᐃⲆⵠⲆᐃ;
+      ΔΔ[1233][hb] = Ⲇⵠ.ⲆΔΔᐃⵠΔΔ;
+      ΔΔ[1233][2] = Ⲇⵠ.ⲆᐃΔⲆⲆⵠᐃ;
+      ΔΔ[1234] = ΔΔ[1233];
+      ΔΔ[1230] = [];
+      ΔΔ[1230][ya] = Ⲇⵠ.ⵠⲆⲆⵠΔᐃⲆ;
+      ΔΔ[1230][mk] = Ⲇⵠ.ⵠⵠᐃⵠⲆⵠᐃ;
+      ΔΔ[1230][It] = Ⲇⵠ.ΔⵠΔⵠᐃᐃᐃ;
+      ΔΔ[1232] = ΔΔ[1230];
+      ΔΔ[1231] = ΔΔ[1230];
+      ΔΔ[569] = [];
+      ΔΔ[569][0] = Ⲇⵠ.ᐃⵠⵠΔΔⲆⵠ;
+      ΔΔ[569][wt] = Ⲇⵠ.ⲆΔⲆᐃⵠΔΔ;
+      ΔΔ[569][2] = Ⲇⵠ.ᐃⵠΔᐃⵠᐃⵠ;
+      ΔΔ[571] = ΔΔ[569];
+      ΔΔ[570] = ΔΔ[569];
+      ΔΔ[1166] = [];
+      ΔΔ[1166][Bb] = Ⲇⵠ.ΔⲆⵠⲆᐃᐃⵠ;
+      ΔΔ[1166][1] = Ⲇⵠ.ⲆᐃΔⲆⲆᐃΔ;
+      ΔΔ[1166][2] = Ⲇⵠ.ᐃⵠᐃⵠⲆⲆⵠ;
+      ΔΔ[1167] = ΔΔ[1166];
+      ΔΔ[1168] = ΔΔ[1166];
+      ΔΔ[572] = [];
+      ΔΔ[572][Ih] = Ⲇⵠ.ⲆᐃⵠΔⲆΔΔ;
+      ΔΔ[572][1] = Ⲇⵠ.ⲆⵠⲆΔᐃⵠⵠ;
+      ΔΔ[572][2] = Ⲇⵠ.ⲆⵠⲆⲆⵠⲆΔ;
+      ΔΔ[574] = ΔΔ[572];
+      ΔΔ[573] = ΔΔ[572];
+      ΔΔ[1169] = [];
+      ΔΔ[1169][0] = Ⲇⵠ.ᐃⵠᐃⵠⵠᐃⲆ;
+      ΔΔ[1169][mk] = Ⲇⵠ.ᐃΔⲆⵠᐃⲆⲆ;
+      ΔΔ[1169][2] = Ⲇⵠ.ᐃⲆΔⵠⲆⲆⵠ;
+      ΔΔ[1170] = ΔΔ[1169];
+      ΔΔ[1171] = ΔΔ[1169];
+      ΔΔ[575] = [];
+      ΔΔ[575][Hi] = Ⲇⵠ.ⲆᐃⲆΔⵠᐃⵠ;
+      ΔΔ[575][sd] = Ⲇⵠ.ⲆΔⲆᐃⵠⲆΔ;
+      ΔΔ[575][rs] = Ⲇⵠ.ΔⲆⵠⵠⵠⲆⵠ;
+      ΔΔ[577] = ΔΔ[575];
+      ΔΔ[576] = ΔΔ[575];
+      ΔΔ[1172] = [];
+      ΔΔ[1172][Bb] = Ⲇⵠ.ⵠΔⲆΔⲆⵠᐃ;
+      ΔΔ[1172][Xn] = Ⲇⵠ.ⵠⲆΔⵠΔΔⵠ;
+      ΔΔ[1172][Ul] = Ⲇⵠ.ⲆⲆⲆΔΔΔΔ;
+      ΔΔ[1173] = ΔΔ[1172];
+      ΔΔ[1174] = ΔΔ[1172];
+      ΔΔ[578] = [];
+      ΔΔ[578][0] = Ⲇⵠ.ΔΔⲆΔᐃΔᐃ;
+      ΔΔ[578][og] = Ⲇⵠ.ᐃⲆⲆΔⲆⲆⵠ;
+      ΔΔ[578][lr] = Ⲇⵠ.ᐃᐃᐃᐃΔᐃⲆ;
+      ΔΔ[580] = ΔΔ[578];
+      ΔΔ[579] = ΔΔ[578];
+      ΔΔ[1175] = [];
+      ΔΔ[1175][Hi] = Ⲇⵠ.ⲆⲆᐃᐃⲆⵠΔ;
+      ΔΔ[1175][1] = Ⲇⵠ.ⵠᐃⲆΔᐃⲆΔ;
+      ΔΔ[1175][xj] = Ⲇⵠ.ΔᐃⲆⲆᐃⵠΔ;
+      ΔΔ[1176] = ΔΔ[1175];
+      ΔΔ[1177] = ΔΔ[1175];
+      ΔΔ[581] = [];
+      ΔΔ[581][0] = Ⲇⵠ.ⵠⵠⵠΔᐃⲆⲆ;
+      ΔΔ[581][zg] = Ⲇⵠ.ᐃΔⲆᐃⲆᐃⵠᐃⲆ;
+      ΔΔ[581][2] = Ⲇⵠ.ⲆⵠᐃΔᐃΔᐃᐃᐃ;
+      ΔΔ[583] = ΔΔ[581];
+      ΔΔ[582] = ΔΔ[581];
+      ΔΔ[1178] = [];
+      ΔΔ[1178][ig] = Ⲇⵠ.ᐃΔᐃⲆᐃΔⵠΔΔ;
+      ΔΔ[1178][1] = Ⲇⵠ.ᐃᐃⲆΔᐃⲆⵠⲆⵠ;
+      ΔΔ[1178][Pn] = Ⲇⵠ.ΔⲆⲆᐃⲆΔⵠⵠΔ;
+      ΔΔ[1179] = ΔΔ[1178];
+      ΔΔ[1180] = ΔΔ[1178];
+      ΔΔ[584] = [];
+      ΔΔ[584][0] = Ⲇⵠ.ᐃᐃᐃᐃᐃᐃᐃⵠᐃ;
+      ΔΔ[584][Te] = Ⲇⵠ.ⲆⵠΔᐃᐃⵠⲆᐃᐃ;
+      ΔΔ[584][Ob] = Ⲇⵠ.ⵠⵠΔⵠⵠᐃⵠⲆⲆ;
+      ΔΔ[586] = ΔΔ[584];
+      ΔΔ[585] = ΔΔ[584];
+      ΔΔ[1181] = [];
+      ΔΔ[1181][0] = Ⲇⵠ.ⲆᐃⲆᐃᐃᐃⲆΔΔ;
+      ΔΔ[1181][1] = Ⲇⵠ.ⲆᐃⲆⲆᐃⵠᐃᐃΔ;
+      ΔΔ[1181][Ob] = Ⲇⵠ.ΔᐃⵠΔΔΔΔⲆΔ;
+      ΔΔ[1182] = ΔΔ[1181];
+      ΔΔ[1183] = ΔΔ[1181];
+      ΔΔ[587] = [];
+      ΔΔ[587][ya] = Ⲇⵠ.ΔΔΔΔⵠⵠⵠᐃΔ;
+      ΔΔ[587][1] = Ⲇⵠ.ΔⲆΔⲆᐃⲆⵠΔⲆ;
+      ΔΔ[587][Lt] = Ⲇⵠ.ΔⲆᐃⲆᐃᐃⲆΔᐃ;
+      ΔΔ[589] = ΔΔ[587];
+      ΔΔ[588] = ΔΔ[587];
+      ΔΔ[1184] = [];
+      ΔΔ[1184][eu] = Ⲇⵠ.ⵠᐃⵠΔΔΔΔⵠᐃ;
+      ΔΔ[1184][zg] = Ⲇⵠ.ⲆᐃⵠΔΔⲆᐃⲆᐃ;
+      ΔΔ[1184][2] = Ⲇⵠ.ⲆΔⲆⵠⵠᐃⲆⲆᐃ;
+      ΔΔ[1185] = ΔΔ[1184];
+      ΔΔ[1186] = ΔΔ[1184];
+      ΔΔ[1257] = [];
+      ΔΔ[1257][0] = Ⲇⵠ.ᐃⲆⲆⵠᐃΔᐃⵠⵠ;
+      ΔΔ[1257][1] = Ⲇⵠ.ΔⲆᐃⲆᐃᐃⲆΔΔ;
+      ΔΔ[1257][2] = Ⲇⵠ.ᐃΔⲆⲆⲆⵠⲆΔⵠ;
+      ΔΔ[1258] = ΔΔ[1257];
+      ΔΔ[1256] = ΔΔ[1257];
+      ΔΔ[1260] = [];
+      ΔΔ[1260][0] = Ⲇⵠ.ⲆⵠⲆΔⵠⵠᐃⵠⲆ;
+      ΔΔ[1260][zg] = Ⲇⵠ.ᐃΔᐃᐃⲆⵠⵠᐃΔ;
+      ΔΔ[1260][2] = Ⲇⵠ.ᐃⲆΔⲆⲆᐃⵠᐃᐃ;
+      ΔΔ[1261] = ΔΔ[1260];
+      ΔΔ[1259] = ΔΔ[1260];
+      ΔΔ[1263] = [];
+      ΔΔ[1263][wj] = Ⲇⵠ.ᐃᐃⵠⲆⲆⵠᐃⵠⵠ;
+      ΔΔ[1263][1] = Ⲇⵠ.ΔᐃΔᐃⵠΔᐃᐃΔ;
+      ΔΔ[1263][2] = Ⲇⵠ.ⵠⵠⲆΔⵠⵠΔᐃⵠ;
+      ΔΔ[1264] = ΔΔ[1263];
+      ΔΔ[1262] = ΔΔ[1263];
+      ΔΔ[1266] = [];
+      ΔΔ[1266][Ih] = Ⲇⵠ.ΔᐃᐃⵠᐃᐃΔᐃΔ;
+      ΔΔ[1266][1] = Ⲇⵠ.ⲆᐃᐃΔᐃΔⲆⵠᐃ;
+      ΔΔ[1266][2] = Ⲇⵠ.ΔⵠⲆⲆⵠⵠΔΔⲆ;
+      ΔΔ[1267] = ΔΔ[1266];
+      ΔΔ[1265] = ΔΔ[1266];
+      ΔΔ[1269] = [];
+      ΔΔ[1269][wj] = Ⲇⵠ.ΔΔⵠⵠΔⲆΔⵠⵠ;
+      ΔΔ[1269][pu] = Ⲇⵠ.ⵠᐃΔΔᐃᐃᐃΔᐃ;
+      ΔΔ[1269][2] = Ⲇⵠ.ᐃⲆΔⲆᐃⵠⲆⲆΔ;
+      ΔΔ[1270] = ΔΔ[1269];
+      ΔΔ[1268] = ΔΔ[1269];
+      ΔΔ[1272] = [];
+      ΔΔ[1272][Hi] = Ⲇⵠ.ⲆᐃᐃⲆΔⲆⵠⲆⵠ;
+      ΔΔ[1272][au] = Ⲇⵠ.ᐃⲆⵠⵠΔΔⵠⲆΔ;
+      ΔΔ[1272][2] = Ⲇⵠ.ⵠᐃᐃⵠⲆⲆⲆΔᐃ;
+      ΔΔ[1273] = ΔΔ[1272];
+      ΔΔ[1271] = ΔΔ[1272];
+      ΔΔ[1239] = [];
+      ΔΔ[1239][os] = Ⲇⵠ.ᐃⲆⵠᐃΔΔⵠᐃⲆ;
+      ΔΔ[1239][1] = Ⲇⵠ.ΔⲆᐃⲆΔⲆⲆΔᐃ;
+      ΔΔ[1239][Ob] = Ⲇⵠ.ΔᐃⲆⵠᐃⲆⲆⲆΔ;
+      ΔΔ[1240] = ΔΔ[1239];
+      ΔΔ[1238] = ΔΔ[1239];
+      ΔΔ[1242] = [];
+      ΔΔ[1242][Rq] = Ⲇⵠ.ᐃᐃᐃⲆⵠⵠᐃⵠⲆ;
+      ΔΔ[1242][hb] = Ⲇⵠ.ᐃⵠΔΔᐃᐃⵠᐃᐃ;
+      ΔΔ[1242][pq] = Ⲇⵠ.ⵠᐃΔⲆΔᐃⵠᐃⵠ;
+      ΔΔ[1243] = ΔΔ[1242];
+      ΔΔ[1241] = ΔΔ[1242];
+      ΔΔ[1245] = [];
+      ΔΔ[1245][0] = Ⲇⵠ.ⲆΔⲆⲆⲆᐃΔⵠⵠ;
+      ΔΔ[1245][1] = Ⲇⵠ.ΔᐃΔΔΔᐃᐃⲆᐃ;
+      ΔΔ[1245][2] = Ⲇⵠ.ΔΔΔᐃⲆⵠⲆΔⵠ;
+      ΔΔ[1246] = ΔΔ[1245];
+      ΔΔ[1244] = ΔΔ[1245];
+      ΔΔ[1248] = [];
+      ΔΔ[1248][0] = Ⲇⵠ.ΔΔⵠᐃⵠⵠΔⵠⵠ;
+      ΔΔ[1248][Tl] = Ⲇⵠ.ΔᐃⲆⲆᐃᐃⵠⲆⲆ;
+      ΔΔ[1248][2] = Ⲇⵠ.ᐃΔᐃⵠⲆⲆⲆⵠⵠ;
+      ΔΔ[1249] = ΔΔ[1248];
+      ΔΔ[1247] = ΔΔ[1248];
+      ΔΔ[1251] = [];
+      ΔΔ[1251][0] = Ⲇⵠ.ⵠⲆΔᐃΔᐃΔΔⲆ;
+      ΔΔ[1251][1] = Ⲇⵠ.ΔⵠΔᐃᐃᐃⵠΔⲆ;
+      ΔΔ[1251][Vh] = Ⲇⵠ.ᐃⵠⲆᐃΔⲆⵠⲆⵠ;
+      ΔΔ[1252] = ΔΔ[1251];
+      ΔΔ[1250] = ΔΔ[1251];
+      ΔΔ[1254] = [];
+      ΔΔ[1254][wg] = Ⲇⵠ.ⵠⵠⵠⵠⲆΔᐃΔⵠ;
+      ΔΔ[1254][Hg] = Ⲇⵠ.ⲆⲆⲆΔⲆⲆΔⵠⵠ;
+      ΔΔ[1254][xq] = Ⲇⵠ.ᐃᐃⲆᐃᐃⵠⲆᐃΔ;
+      ΔΔ[1255] = ΔΔ[1254];
+      ΔΔ[1253] = ΔΔ[1254];
+      ΔΔ[1227] = [];
+      ΔΔ[1227][os] = Ⲇⵠ.ⲆⵠⲆⵠⵠΔⲆ;
+      ΔΔ[1227][og] = Ⲇⵠ.ⵠⲆⲆΔᐃⵠᐃ;
+      ΔΔ[1227][2] = Ⲇⵠ.ᐃⲆⲆⲆΔⲆⲆ;
+      ΔΔ[1229] = ΔΔ[1227];
+      ΔΔ[1228] = ΔΔ[1227];
+      ΔΔ[1187] = [];
+      ΔΔ[1187][Ih] = Ⲇⵠ.ⲆᐃⲆⵠⲆⵠΔ;
+      ΔΔ[1187][1] = Ⲇⵠ.ᐃᐃⵠΔⵠⲆᐃ;
+      ΔΔ[1187][2] = Ⲇⵠ.ΔⵠΔⵠⲆⵠⵠ;
+      ΔΔ[1188] = ΔΔ[1187];
+      ΔΔ[Xr.ᐃⵠⵠᐃⵠᐃᐃⲆⲆ] = ΔΔ[1187];
+      ΔΔ[840] = bu(hb, [{
         f: Jb,
         x: fl,
         y: Zj,
@@ -22974,8 +22974,8 @@
         r: 0,
         c: ["#352b10", "#e8e8e8", "#bbbbbb", "#e0e1e0", "#c4c4c4"]
       }], 0.22, ["#3ba578", "#4eb687", "#3da34d"], 0.5);
-      ΔΔ[Xr.ⵠⵠⵠΔⲆΔⲆ] = ΔΔ[Xr.ᐃⵠᐃᐃⲆⵠΔ];
-      ΔΔ[Xr.ⵠⲆⲆⵠⲆⲆⵠ] = bu(pu, [{
+      ΔΔ[841] = ΔΔ[840];
+      ΔΔ[850] = bu(pu, [{
         f: bc,
         x: wg,
         y: 0,
@@ -22983,8 +22983,8 @@
         r: 0,
         c: ["#352b10", "#349970", "#245c45", "#348361", "#e8e8e8", "#bbbbbb"]
       }], 0.2, ["#3ba578", "#4eb687", "#3da34d"], 0.5);
-      ΔΔ[Xr.ΔⲆΔⲆⵠⲆⵠ] = ΔΔ[Xr.ⵠⲆⲆⵠⲆⲆⵠ];
-      ΔΔ[Xr.ⵠᐃΔΔᐃⲆⲆ] = bu(1, [{
+      ΔΔ[851] = ΔΔ[850];
+      ΔΔ[644] = bu(1, [{
         f: Wt,
         x: -Tl,
         y: Hi,
@@ -23006,8 +23006,8 @@
         r: os,
         c: ["#0d1b1c", "#596560", "#394841", "#67766F", "#46554D", "#4C3B19", "#674C2A", "#7C5A29", "#596560", "#394841"]
       }], 0.4, ["#3ba578", "#4eb687", "#3da34d"], 0.5);
-      ΔΔ[Xr.ΔᐃΔⵠⲆΔⵠ] = ΔΔ[Xr.ⵠᐃΔΔᐃⲆⲆ];
-      ΔΔ[Xr.ΔΔΔΔᐃⲆⲆ] = bu(Xn, [{
+      ΔΔ[643] = ΔΔ[644];
+      ΔΔ[639] = bu(Xn, [{
         f: Xt,
         x: 0,
         y: 0,
@@ -23015,7 +23015,7 @@
         r: 0,
         c: ["#A89F67", "#9E8456"]
       }], 1.2, ["#3ba578", "#4eb687", "#3da34d"], 0.5);
-      ΔΔ[Xr.ᐃΔᐃⲆΔᐃⲆ] = bu(hb, [{
+      ΔΔ[800] = bu(hb, [{
         f: hd,
         x: ya,
         y: Lr,
@@ -23023,8 +23023,8 @@
         r: 0,
         c: ["#0d1b1c", "#44301b", "#57442a", "#523e26"]
       }], 0.14, ["#3ba578", "#4eb687", "#3da34d"], 0.5);
-      ΔΔ[Xr.ⵠⲆΔⵠⵠΔⲆ] = ΔΔ[Xr.ᐃΔᐃⲆΔᐃⲆ];
-      ΔΔ[Xr.ⵠⲆⵠⲆΔⲆⲆ] = bu(za, [{
+      ΔΔ[799] = ΔΔ[800];
+      ΔΔ[631] = bu(za, [{
         f: Nu,
         x: 0,
         y: 0,
@@ -23032,8 +23032,8 @@
         r: 0,
         c: ["#A89F67", "#9E8456"]
       }], 0.6, ["#3ba578", "#4eb687", "#3da34d"], 0.5);
-      ΔΔ[Xr.ΔΔⲆᐃᐃΔΔ] = ΔΔ[Xr.ⵠⲆⵠⲆΔⲆⲆ];
-      ΔΔ[Xr.ᐃΔⵠⲆᐃⲆᐃ] = bu(zs, [{
+      ΔΔ[632] = ΔΔ[631];
+      ΔΔ[311] = bu(zs, [{
         f: Nu,
         x: 0,
         y: 0,
@@ -23041,8 +23041,8 @@
         r: 0,
         c: ["#493d36", "#332b28"]
       }], 0.7, ["#3ba578", "#4eb687", "#3da34d"], 0.5);
-      ΔΔ[Xr.ᐃᐃⲆᐃⲆΔⵠ] = ΔΔ[Xr.ᐃΔⵠⲆᐃⲆᐃ];
-      ΔΔ[Xr.ⵠᐃⲆΔⵠΔΔ] = bu(Tl, [{
+      ΔΔ[284] = ΔΔ[311];
+      ΔΔ[808] = bu(Tl, [{
         f: Nu,
         x: 0,
         y: fl,
@@ -23050,8 +23050,8 @@
         r: 0,
         c: ["#c67933", "#b17238"]
       }], 0.6, ["#3ba578", "#4eb687", "#3da34d"], 0.5);
-      ΔΔ[Xr.ⲆᐃⲆⲆΔᐃΔ] = ΔΔ[Xr.ⵠᐃⲆΔⵠΔΔ];
-      ΔΔ[Xr.ⲆⵠⲆⵠⲆᐃΔ] = bu(1, [{
+      ΔΔ[809] = ΔΔ[808];
+      ΔΔ[834] = bu(1, [{
         f: Nu,
         x: mj,
         y: 0,
@@ -23059,8 +23059,8 @@
         r: 0,
         c: ["#e8e8e8", "#bbbbbb"]
       }], 0.6, ["#3ba578", "#4eb687", "#3da34d"], 0.5);
-      ΔΔ[Xr.ⲆΔⲆⲆⲆⵠⲆ] = ΔΔ[Xr.ⲆⵠⲆⵠⲆᐃΔ];
-      ΔΔ[Xr.ⵠⵠΔᐃⲆⲆᐃ] = bu(1, [{
+      ΔΔ[835] = ΔΔ[834];
+      ΔΔ[845] = bu(1, [{
         f: Nu,
         x: Lr,
         y: Mg,
@@ -23068,8 +23068,8 @@
         r: 0,
         c: ["#328a56", "#449573"]
       }], 0.6, ["#3ba578", "#4eb687", "#3da34d"], 0.5);
-      ΔΔ[Xr.ΔⲆΔᐃΔⲆⵠ] = ΔΔ[Xr.ⵠⵠΔᐃⲆⲆᐃ];
-      ΔΔ[Xr.ᐃᐃᐃᐃΔⲆⲆ] = bu(sd, [{
+      ΔΔ[846] = ΔΔ[845];
+      ΔΔ[949] = bu(sd, [{
         f: Nu,
         x: Bb,
         y: st,
@@ -23077,9 +23077,9 @@
         r: 0,
         c: ["#c98e2f", "#a36b11"]
       }], 0.6, ["#3ba578", "#4eb687", "#3da34d"], 0.5);
-      ΔΔ[Xr.ᐃᐃᐃΔᐃⲆⲆ] = ΔΔ[Xr.ᐃᐃᐃᐃΔⲆⲆ];
-      ΔΔ[Xr.ᐃⲆⲆΔⲆΔⵠ] = ΔΔ[Xr.ᐃᐃᐃᐃΔⲆⲆ];
-      ΔΔ[Xr.ΔΔᐃᐃΔⵠΔ] = bu(Tl, [{
+      ΔΔ[950] = ΔΔ[949];
+      ΔΔ[951] = ΔΔ[949];
+      ΔΔ[966] = bu(Tl, [{
         f: Nu,
         x: Yh,
         y: Hi,
@@ -23087,9 +23087,9 @@
         r: Bb,
         c: ["#13a56d", "#098a58"]
       }], 0.6, ["#3ba578", "#4eb687", "#3da34d"], 0.5);
-      ΔΔ[Xr.ⲆⲆΔⵠⲆΔⵠ] = ΔΔ[Xr.ΔΔᐃᐃΔⵠΔ];
-      ΔΔ[Xr.ΔⵠⵠⲆⵠᐃⵠ] = ΔΔ[Xr.ΔΔᐃᐃΔⵠΔ];
-      ΔΔ[Xr.ᐃⵠⲆᐃⵠΔⲆ] = bu(1, [{
+      ΔΔ[967] = ΔΔ[966];
+      ΔΔ[968] = ΔΔ[966];
+      ΔΔ[981] = bu(1, [{
         f: Nu,
         x: Yh,
         y: wg,
@@ -23097,9 +23097,9 @@
         r: 0,
         c: ["#3a8214", "#4a9c1e"]
       }], 0.6, ["#3ba578", "#4eb687", "#3da34d"], 0.5);
-      ΔΔ[Xr.ⲆΔⲆⵠᐃΔΔ] = ΔΔ[Xr.ᐃⵠⲆᐃⵠΔⲆ];
-      ΔΔ[Xr.ⵠΔᐃᐃⵠⵠⵠ] = ΔΔ[Xr.ᐃⵠⲆᐃⵠΔⲆ];
-      ΔΔ[Xr.ᐃᐃⵠΔΔΔⵠ] = bu(1, [{
+      ΔΔ[982] = ΔΔ[981];
+      ΔΔ[983] = ΔΔ[981];
+      ΔΔ[959] = bu(1, [{
         f: Nu,
         x: Da,
         y: wj,
@@ -23107,9 +23107,9 @@
         r: 0,
         c: ["#b22419", "#99110e"]
       }], 0.6, ["#3ba578", "#4eb687", "#3da34d"], 0.5);
-      ΔΔ[Xr.ᐃΔΔⲆⵠᐃⵠ] = ΔΔ[Xr.ᐃᐃⵠΔΔΔⵠ];
-      ΔΔ[Xr.ⲆⵠᐃᐃⲆΔΔ] = ΔΔ[Xr.ᐃᐃⵠΔΔΔⵠ];
-      ΔΔ[Xr.ⵠⲆⵠⲆⵠΔⲆ] = bu(gs, [{
+      ΔΔ[960] = ΔΔ[959];
+      ΔΔ[961] = ΔΔ[959];
+      ΔΔ[309] = bu(gs, [{
         f: ku,
         x: -2,
         y: -2,
@@ -23124,8 +23124,8 @@
         r: -Math.PI / ia,
         c: ["#efd435", "#ec8d35", "#e96132"]
       }], 0.3, ["#3ba578", "#4eb687", "#3da34d"], 0.5);
-      ΔΔ[Xr.ΔᐃΔᐃⵠⲆᐃ] = ΔΔ[Xr.ⵠⲆⵠⲆⵠΔⲆ];
-      ΔΔ[Xr.ⲆΔⵠⲆⲆⵠΔ] = bu(1, [{
+      ΔΔ[302] = ΔΔ[309];
+      ΔΔ[328] = bu(1, [{
         f: ou,
         x: -Vh,
         y: -1,
@@ -23140,8 +23140,8 @@
         r: -Math.PI / 7,
         c: ["#efd435", "#ec8d35", "#e96132"]
       }], 0.3, ["#3ba578", "#4eb687", "#3da34d"], 0.5);
-      ΔΔ[Xr.ΔᐃⵠᐃᐃⲆⵠ] = ΔΔ[Xr.ⲆΔⵠⲆⲆⵠΔ];
-      ΔΔ[Xr.ΔᐃⵠΔΔⵠⲆ] = bu(1, [{
+      ΔΔ[327] = ΔΔ[328];
+      ΔΔ[860] = bu(1, [{
         f: tu,
         x: vg,
         y: Yh,
@@ -23149,7 +23149,7 @@
         r: Math.PI / nr,
         c: ["#0d1b1c", "#4a3a22", "#362818", "#c7c7c7", "#909090", "#eceaea", "#bbbbbb", "#d6d1d1"]
       }], 0.1, ["#35b1b5", "#46c2c9", "#33b4e4"], 0.5);
-      ΔΔ[Xr.ᐃΔⲆΔⵠⲆΔ] = bu(1, [{
+      ΔΔ[865] = bu(1, [{
         f: Mu,
         x: Ob,
         y: 0,
@@ -23157,7 +23157,7 @@
         r: Math.PI / 5,
         c: ["#0d1b1c", "#ffffff", "#5f6061", "#eb2933", "#57b74e", "#42a54d", "#ac222a", "#e6636a"]
       }], 0.3, ["#35b1b5", "#46c2c9", "#33b4e4"], 0.5);
-      ΔΔ[Xr.ᐃΔΔΔⵠⲆⲆ] = bu(pu, [{
+      ΔΔ[829] = bu(pu, [{
         f: Iu,
         x: 2,
         y: os,
@@ -23165,7 +23165,7 @@
         r: Math.PI / Ll,
         c: ["#252525", "#73583e", "#493425", "#7d6144", "#5e4530", "#563e2b"]
       }], 0.15, ["#35b1b5", "#46c2c9", "#33b4e4"], 0.5);
-      ΔΔ[Xr.ⲆᐃⲆᐃᐃΔΔ] = bu(ie, [{
+      ΔΔ[261] = bu(ie, [{
         f: Cu,
         x: xq,
         y: 0,
@@ -23173,7 +23173,7 @@
         r: Math.PI / ta,
         c: ["#0d1b1c", "#939393", "#5f6061", "#b1afaf", "#493d36", "#332b28"]
       }], 0.15, ["#35b1b5", "#46c2c9", "#33b4e4"], 0.5);
-      ΔΔ[Xr.ΔΔᐃΔⲆΔⲆ] = bu(1, [{
+      ΔΔ[292] = bu(1, [{
         f: Gu,
         x: 2,
         y: os,
@@ -23181,7 +23181,7 @@
         r: Math.PI / ib,
         c: ["#0d1b1c", "#c4bc51", "#b29c32", "#c4bc51", "#493e26", "#382e19"]
       }], 0.15, ["#35b1b5", "#46c2c9", "#33b4e4"], 0.5);
-      ΔΔ[Xr.ᐃⵠⵠᐃᐃⵠᐃ] = bu(1, [{
+      ΔΔ[293] = bu(1, [{
         f: xu,
         x: 2,
         y: ya,
@@ -23189,7 +23189,7 @@
         r: Math.PI / hl,
         c: ["#0d1b1c", "#6ad9e8", "#29aaa1", "#95e9f5", "#022320", "#011e19", "#FFFFFF"]
       }], 0.15, ["#35b1b5", "#46c2c9", "#33b4e4"], 0.5);
-      ΔΔ[Xr.ⵠᐃⵠⲆΔᐃΔ] = bu(pu, [{
+      ΔΔ[455] = bu(pu, [{
         f: Ou,
         x: 2,
         y: Qs,
@@ -23197,7 +23197,7 @@
         r: Math.PI / ib,
         c: ["#0d1b1c", "#b864d6", "#8c29aa", "#cc81e7", "#262114", "#211108", "#FFFFFF"]
       }], 0.15, ["#35b1b5", "#46c2c9", "#33b4e4"], 0.5);
-      ΔΔ[Xr.ⵠᐃΔⲆᐃᐃⵠ] = bu(1, [{
+      ΔΔ[313] = bu(1, [{
         f: Eu,
         x: -2,
         y: 5,
@@ -23205,7 +23205,7 @@
         r: -Math.PI / z,
         c: ["#0d1b1c", "#000000", "#0d1b1c", "#4d2d14", "#432516", "#4d2d14", "#432516"]
       }], 0.45, ["#35b1b5", "#46c2c9", "#33b4e4"], 0.5);
-      ΔΔ[Xr.ᐃⲆᐃΔᐃᐃΔ] = bu(sd, [{
+      ΔΔ[312] = bu(sd, [{
         f: Eu,
         x: -Ul,
         y: q,
@@ -23213,7 +23213,7 @@
         r: -Math.PI / 5,
         c: ["#0d1b1c", "#000000", "#0d1b1c", "#4d2d14", "#432516", "#939393", "#5f6061"]
       }], 0.45, ["#35b1b5", "#46c2c9", "#33b4e4"], 0.5);
-      ΔΔ[Xr.ᐃΔΔΔⲆⵠᐃ] = bu(Oq, [{
+      ΔΔ[258] = bu(Oq, [{
         f: Eu,
         x: -Vg,
         y: 5,
@@ -23221,7 +23221,7 @@
         r: -Math.PI / Eq,
         c: ["#0d1b1c", "#000000", "#0d1b1c", "#493e26", "#382e19", "#c4bc51", "#b29c32"]
       }], 0.45, ["#35b1b5", "#46c2c9", "#33b4e4"], 0.5);
-      ΔΔ[Xr.ⲆⲆⲆⲆⲆⲆᐃ] = bu(Hg, [{
+      ΔΔ[296] = bu(Hg, [{
         f: Eu,
         x: -Ug,
         y: 5,
@@ -23229,7 +23229,7 @@
         r: -Math.PI / 5,
         c: ["#0d1b1c", "#000000", "#0d1b1c", "#262114", "#211108", "#63c9d6", "#29aaa1"]
       }], 0.45, ["#35b1b5", "#46c2c9", "#33b4e4"], 0.5);
-      ΔΔ[Xr.ΔⲆᐃⲆΔᐃⲆ] = bu(zg, [{
+      ΔΔ[458] = bu(zg, [{
         f: Eu,
         x: -Vh,
         y: 5,
@@ -23237,13 +23237,13 @@
         r: -Math.PI / Eq,
         c: ["#0d1b1c", "#000000", "#0d1b1c", "#262114", "#211108", "#b864d6", "#8c29aa"]
       }], 0.45, ["#35b1b5", "#46c2c9", "#33b4e4"], 0.5);
-      ΔΔ[Xr.ⵠΔΔᐃᐃΔᐃ] = [];
-      ΔΔ[Xr.ⵠΔΔᐃᐃΔᐃ][Qs] = Ⲇⵠ.ⵠⲆⲆΔᐃⵠⲆ;
-      ΔΔ[Xr.ⵠΔΔᐃᐃΔᐃ][$b] = Ⲇⵠ.ⲆΔⵠᐃᐃᐃⲆ;
-      ΔΔ[Xr.ⵠΔΔᐃᐃΔᐃ][2] = Ⲇⵠ.ΔⲆⵠΔⲆᐃⵠ;
-      ΔΔ[Xr.ᐃⲆᐃⵠᐃΔΔ] = ΔΔ[Xr.ⵠΔΔᐃᐃΔᐃ];
-      ΔΔ[Xr.ⲆΔⵠⵠΔⵠⲆ] = ΔΔ[Xr.ⵠΔΔᐃᐃΔᐃ];
-      ΔΔ[Xr.ⲆⵠⵠⲆⲆⲆᐃ] = bu(zg, [{
+      ΔΔ[1017] = [];
+      ΔΔ[1017][Qs] = Ⲇⵠ.ⵠⲆⲆΔᐃⵠⲆ;
+      ΔΔ[1017][$b] = Ⲇⵠ.ⲆΔⵠᐃᐃᐃⲆ;
+      ΔΔ[1017][2] = Ⲇⵠ.ΔⲆⵠΔⲆᐃⵠ;
+      ΔΔ[1019] = ΔΔ[1017];
+      ΔΔ[1018] = ΔΔ[1017];
+      ΔΔ[315] = bu(zg, [{
         f: ed,
         x: -nr,
         y: -5,
@@ -23251,7 +23251,7 @@
         r: wj,
         c: ["#252B28", "#58645F", "#75827D"]
       }], 0.23, ["#2b5c48", "#2b5c48", "#2b5c48"], 0.5);
-      ΔΔ[Xr.ᐃⲆΔΔⵠⲆΔ] = bu(Hg, [{
+      ΔΔ[297] = bu(Hg, [{
         f: rd,
         x: -q,
         y: -5,
@@ -23259,7 +23259,7 @@
         r: 0,
         c: ["#282823", "#877c2d", "#c4bc51"]
       }], 0.43, ["#2b5c48", "#2b5c48", "#2b5c48"], 0.5);
-      ΔΔ[Xr.ⲆⲆΔⵠᐃΔⲆ] = bu(1, [{
+      ΔΔ[298] = bu(1, [{
         f: od,
         x: -5,
         y: -Qu,
@@ -23267,7 +23267,7 @@
         r: 0,
         c: ["#232828", "#3fc9c9", "#74ede6"]
       }], 0.33, ["#2b5c48", "#2b5c48", "#2b5c48"], 0.5);
-      ΔΔ[Xr.ⵠⵠⵠΔΔᐃⵠ] = bu(Gh, [{
+      ΔΔ[316] = bu(Gh, [{
         f: ku,
         x: 0,
         y: -5,
@@ -23275,24 +23275,24 @@
         r: Math.PI / 2.5,
         c: ["#4d2d14", "#432516"]
       }], 0.3, ["#2b5c48", "#2b5c48", "#2b5c48"], 0.5);
-      ΔΔ[Xr.ᐃΔⲆᐃΔΔᐃ] = ΔΔ[Xr.ᐃΔΔΔⵠⲆⲆ];
-      ΔΔ[Xr.ᐃⲆΔⲆⵠⲆᐃ] = ΔΔ[Xr.ⲆᐃⲆᐃᐃΔΔ];
-      ΔΔ[Xr.ᐃⵠⵠⵠΔⵠΔ] = ΔΔ[Xr.ΔΔᐃΔⲆΔⲆ];
-      ΔΔ[Xr.ᐃᐃⲆᐃⲆᐃⲆ] = ΔΔ[Xr.ᐃⵠⵠᐃᐃⵠᐃ];
-      ΔΔ[Xr.ⲆΔⲆᐃⲆⵠᐃ] = ΔΔ[Xr.ⵠᐃⵠⲆΔᐃΔ];
-      ΔΔ[Xr.ⲆᐃⵠⲆᐃⵠⲆ] = ΔΔ[Xr.ⵠᐃΔⲆᐃᐃⵠ];
-      ΔΔ[Xr.ᐃⵠᐃⲆⵠΔⲆ] = ΔΔ[Xr.ᐃⲆᐃΔᐃᐃΔ];
-      ΔΔ[Xr.ⲆΔΔΔᐃⲆΔ] = ΔΔ[Xr.ᐃΔΔΔⲆⵠᐃ];
-      ΔΔ[Xr.ᐃΔᐃᐃᐃᐃᐃ] = ΔΔ[Xr.ⲆⲆⲆⲆⲆⲆᐃ];
-      ΔΔ[Xr.ᐃⵠᐃⵠΔΔᐃ] = ΔΔ[Xr.ΔⲆᐃⲆΔᐃⲆ];
-      ΔΔ[Xr.ⵠᐃΔⲆⲆⲆᐃ] = bu(Tl, [{
+      ΔΔ[830] = ΔΔ[829];
+      ΔΔ[254] = ΔΔ[261];
+      ΔΔ[290] = ΔΔ[292];
+      ΔΔ[291] = ΔΔ[293];
+      ΔΔ[456] = ΔΔ[455];
+      ΔΔ[314] = ΔΔ[313];
+      ΔΔ[256] = ΔΔ[312];
+      ΔΔ[295] = ΔΔ[258];
+      ΔΔ[257] = ΔΔ[296];
+      ΔΔ[460] = ΔΔ[458];
+      ΔΔ[277] = bu(Tl, [{
         f: Ub,
         x: 0,
         y: 0,
         a: 1,
         r: os
       }], 0.4, ["#3ba578", "#4eb687", "#3da34d"], 0.5);
-      ΔΔ[Xr.ⵠⲆᐃⵠᐃⵠᐃ] = bu(za, [{
+      ΔΔ[310] = bu(za, [{
         f: Xb,
         x: 0,
         y: 0,
@@ -23300,8 +23300,8 @@
         r: ig,
         c: ["#0d1b1c", "#4d2d14", "#432516", "#756e52", "#663f22", "#9e9577"]
       }], 0.45, ["#3ba578", "#4eb687", "#3da34d"], 0.5);
-      ΔΔ[Xr.ᐃΔΔⲆⵠᐃᐃ] = ΔΔ[Xr.ⵠⲆᐃⵠᐃⵠᐃ];
-      ΔΔ[Xr.ⵠᐃΔΔⵠⲆⲆ] = bu(Xn, [{
+      ΔΔ[262] = ΔΔ[310];
+      ΔΔ[329] = bu(Xn, [{
         f: Vc,
         x: -2,
         y: -2,
@@ -23309,8 +23309,8 @@
         r: 0,
         c: ["#0d1b1c", "#6a7570", "#939995", "#9baaa3", "#adbcb5", "#8a938e"]
       }], 0.4, ["#3ba578", "#4eb687", "#3da34d"], 0.5);
-      ΔΔ[Xr.ᐃⲆᐃⵠⲆΔᐃ] = ΔΔ[Xr.ⵠᐃΔΔⵠⲆⲆ];
-      ΔΔ[Xr.ⵠΔⵠⵠⵠⵠᐃ] = bu(Xn, [{
+      ΔΔ[263] = ΔΔ[329];
+      ΔΔ[331] = bu(Xn, [{
         f: Kc,
         x: Lr,
         y: 0,
@@ -23318,8 +23318,8 @@
         r: wg,
         c: ["#0d1b1c", "#5cc5ce", "#89d1d4", "#86d0d1", "#95d5d8", "#e0f2f6", "#b3e0e3"]
       }], 0.4, ["#3ba578", "#4eb687", "#3da34d"], 0.5);
-      ΔΔ[Xr.ⵠⲆⵠⵠⵠⲆⵠ] = ΔΔ[Xr.ⵠΔⵠⵠⵠⵠᐃ];
-      ΔΔ[Xr.ΔᐃⲆⲆⵠᐃⲆ] = bu(1, [{
+      ΔΔ[332] = ΔΔ[331];
+      ΔΔ[492] = bu(1, [{
         f: Vc,
         x: Rq,
         y: In,
@@ -23327,8 +23327,8 @@
         r: Rq,
         c: ["#0d1b1c", "#b15ecf", "#8c29aa", "#c26de0", "#af59cd", "#d588f1"]
       }], 0.4, ["#3ba578", "#4eb687", "#3da34d"], 0.5);
-      ΔΔ[Xr.ᐃⵠᐃΔᐃⵠⵠ] = ΔΔ[Xr.ΔᐃⲆⲆⵠᐃⲆ];
-      ΔΔ[Xr.Δⵠᐃⵠⵠᐃᐃ] = bu(1, [{
+      ΔΔ[493] = ΔΔ[492];
+      ΔΔ[330] = bu(1, [{
         f: nc,
         x: Hi,
         y: 0,
@@ -23336,8 +23336,8 @@
         r: 0,
         c: ["#0d1b1c", "#877d36", "#a08f47", "#a7983c", "#b29e4d", "#c1b06b"]
       }], 0.4, ["#3ba578", "#4eb687", "#3da34d"], 0.5);
-      ΔΔ[Xr.ΔΔⲆΔⵠⵠⵠ] = ΔΔ[Xr.Δⵠᐃⵠⵠᐃᐃ];
-      ΔΔ[Xr.ⵠᐃⲆⲆᐃᐃΔ] = bu(1, [{
+      ΔΔ[265] = ΔΔ[330];
+      ΔΔ[317] = bu(1, [{
         f: um,
         x: 0,
         y: 0,
@@ -23345,8 +23345,8 @@
         r: 0,
         c: ["#0d1b1c", "#4c3a15", "#634828", "#564021", "#634828", "#4c3a15"]
       }], 0.45, ["#3ba578", "#4eb687", "#3da34d"], 0.5);
-      ΔΔ[Xr.ᐃᐃⵠΔⲆᐃⲆ] = ΔΔ[Xr.ⵠᐃⲆⲆᐃᐃΔ];
-      ΔΔ[Xr.ⲆΔᐃᐃⲆⲆΔ] = bu(1, [{
+      ΔΔ[318] = ΔΔ[317];
+      ΔΔ[319] = bu(1, [{
         f: Oc,
         x: 0,
         y: 0,
@@ -23354,8 +23354,8 @@
         r: 0,
         c: ["#0d1b1c", "#5f6061", "#939393", "#4c3a15", "#634828", "#564021", "#634828", "#4c3a15"]
       }], 0.35, ["#3ba578", "#4eb687", "#3da34d"], 0.5);
-      ΔΔ[Xr.ΔΔΔΔⵠΔᐃ] = ΔΔ[Xr.ⲆΔᐃᐃⲆⲆΔ];
-      ΔΔ[Xr.ᐃΔⲆᐃⲆⲆΔ] = bu(gs, [{
+      ΔΔ[320] = ΔΔ[319];
+      ΔΔ[362] = bu(gs, [{
         f: Tc,
         x: In,
         y: 0,
@@ -23363,8 +23363,8 @@
         r: In,
         c: ["#0d1b1c", "#5f6061", "#939393", "#877d36", "#a08f47", "#a7983c", "#b29e4d", "#c1b06b"]
       }], 0.35, ["#3ba578", "#4eb687", "#3da34d"], 0.5);
-      ΔΔ[Xr.ⵠⵠᐃΔⵠⵠⲆ] = ΔΔ[Xr.ᐃΔⲆᐃⲆⲆΔ];
-      ΔΔ[Xr.ⲆⲆⵠⵠΔⵠΔ] = bu(Xn, [{
+      ΔΔ[363] = ΔΔ[362];
+      ΔΔ[364] = bu(Xn, [{
         f: Tc,
         x: 0,
         y: Ih,
@@ -23372,8 +23372,8 @@
         r: 0,
         c: ["#0d1b1c", "#7d8b90", "#9facaa", "#5cc5ce", "#89d1d4", "#86d0d1", "#95d5d8", "#e0f2f6", "#b3e0e3"]
       }], 0.35, ["#3ba578", "#4eb687", "#3da34d"], 0.5);
-      ΔΔ[Xr.ⲆⲆΔⲆΔⵠⲆ] = ΔΔ[Xr.ⲆⲆⵠⵠΔⵠΔ];
-      ΔΔ[Xr.ᐃΔᐃⲆᐃΔⵠ] = bu(1, [{
+      ΔΔ[365] = ΔΔ[364];
+      ΔΔ[361] = bu(1, [{
         f: Rd,
         x: 0,
         y: 0,
@@ -23381,8 +23381,8 @@
         r: ya,
         c: ["#0d1b1c", "#5f6061", "#939393", "#6a7570", "#939995", "#9baaa3", "#adbcb5", "#8a938e"]
       }], 0.35, ["#3ba578", "#4eb687", "#3da34d"], 0.5);
-      ΔΔ[Xr.ⵠⵠⲆⵠΔⵠⲆ] = ΔΔ[Xr.ᐃΔᐃⲆᐃΔⵠ];
-      ΔΔ[Xr.ⲆᐃⵠᐃᐃⲆᐃ] = bu(Te, [{
+      ΔΔ[360] = ΔΔ[361];
+      ΔΔ[495] = bu(Te, [{
         f: Rd,
         x: 0,
         y: 0,
@@ -23390,8 +23390,8 @@
         r: ya,
         c: ["#0d1b1c", "#5f6061", "#939393", "#b15ecf", "#8c29aa", "#c26de0", "#af59cd", "#d588f1"]
       }], 0.35, ["#3ba578", "#4eb687", "#3da34d"], 0.5);
-      ΔΔ[Xr.ΔᐃⲆⵠⲆⲆⵠ] = ΔΔ[Xr.ⲆᐃⵠᐃᐃⲆᐃ];
-      ΔΔ[Xr.ᐃᐃⵠⵠⲆΔⵠ] = bu(Gh, [{
+      ΔΔ[496] = ΔΔ[495];
+      ΔΔ[335] = bu(Gh, [{
         f: Kd,
         x: 0,
         y: Bb,
@@ -23399,8 +23399,8 @@
         r: 0,
         c: ["#0d1b1c", "#4c3b19", "#574122", "#644928", "#574122", "#735534"]
       }], 0.6, ["#3ba578", "#4eb687", "#3da34d"], 0.5);
-      ΔΔ[Xr.ΔⵠΔΔᐃⲆᐃ] = ΔΔ[Xr.ᐃᐃⵠⵠⲆΔⵠ];
-      ΔΔ[Xr.ΔᐃⵠⵠᐃⲆⵠ] = bu(pu, [{
+      ΔΔ[268] = ΔΔ[335];
+      ΔΔ[372] = bu(pu, [{
         f: Md,
         x: 0,
         y: wg,
@@ -23408,8 +23408,8 @@
         r: Zj,
         c: ["#0d1b1c", "#6a7570", "#939995", "#9baaa3", "#8a938e", "#adbcb5"]
       }], 0.6, ["#3ba578", "#4eb687", "#3da34d"], 0.5);
-      ΔΔ[Xr.ΔᐃⲆⲆⵠⲆΔ] = ΔΔ[Xr.ΔᐃⵠⵠᐃⲆⵠ];
-      ΔΔ[Xr.ΔⵠΔΔΔᐃⲆ] = bu(ie, [{
+      ΔΔ[371] = ΔΔ[372];
+      ΔΔ[499] = bu(ie, [{
         f: Md,
         x: 0,
         y: 0,
@@ -23417,8 +23417,8 @@
         r: Ih,
         c: ["#0d1b1c", "#b15ecf", "#8c29aa", "#c26de0", "#af59cd", "#d588f1"]
       }], 0.6, ["#3ba578", "#4eb687", "#3da34d"], 0.5);
-      ΔΔ[Xr.ⲆⵠᐃⲆⲆⵠⵠ] = ΔΔ[Xr.ΔⵠΔΔΔᐃⲆ];
-      ΔΔ[Xr.ΔⲆᐃΔⲆⵠᐃ] = bu(1, [{
+      ΔΔ[498] = ΔΔ[499];
+      ΔΔ[375] = bu(1, [{
         f: ym,
         x: Yh,
         y: 0,
@@ -23426,8 +23426,8 @@
         r: Zj,
         c: ["#0d1b1c", "#877d36", "#a08f47", "#a7983c", "#9a8636", "#c1b06b"]
       }], 0.6, ["#3ba578", "#4eb687", "#3da34d"], 0.5);
-      ΔΔ[Xr.ⲆⵠⵠΔΔΔᐃ] = ΔΔ[Xr.ΔⲆᐃΔⲆⵠᐃ];
-      ΔΔ[Xr.ⲆΔΔⵠΔⵠⲆ] = bu(1, [{
+      ΔΔ[374] = ΔΔ[375];
+      ΔΔ[378] = bu(1, [{
         f: Ec,
         x: 0,
         y: 0,
@@ -23435,8 +23435,8 @@
         r: 0,
         c: ["#0d1b1c", "#5cc5ce", "#89d1d4", "#86d0d1", "#95d5d8", "#e0f2f6", "#b3e0e3"]
       }], 0.6, ["#3ba578", "#4eb687", "#3da34d"], 0.5);
-      ΔΔ[Xr.ᐃΔΔΔⲆⵠⲆ] = ΔΔ[Xr.ⲆΔΔⵠΔⵠⲆ];
-      ΔΔ[Xr.ⵠⲆⲆⲆᐃⵠᐃ] = bu(zg, [{
+      ΔΔ[377] = ΔΔ[378];
+      ΔΔ[337] = bu(zg, [{
         f: wd,
         x: Da,
         y: 2,
@@ -23444,8 +23444,8 @@
         r: 0,
         c: ["#133a2b", "#9e8838", "#c4a23a", "#4c3b19", "#614627", "#614627", "#614627", "#c4a23a", "#c4a23a", "#c4a23a"]
       }], 0.35, ["#3ba578", "#4eb687", "#3da34d"], 0.5);
-      ΔΔ[Xr.ΔⲆΔᐃᐃΔΔ] = ΔΔ[Xr.ⵠⲆⲆⲆᐃⵠᐃ];
-      ΔΔ[Xr.ⵠⲆⲆΔΔΔⵠ] = bu(1, [{
+      ΔΔ[338] = ΔΔ[337];
+      ΔΔ[300] = bu(1, [{
         f: Zb,
         x: 0,
         y: -yr,
@@ -23453,7 +23453,7 @@
         r: 0,
         c: ["#dd5d57", "#ffffff", "#5e5d5e", "#ffffff"]
       }], 1.4, ["#3ba578", "#4eb687", "#3da34d"], 0.5);
-      ΔΔ[Xr.ᐃⲆⲆⲆⲆΔᐃ] = bu(za, [{
+      ΔΔ[323] = bu(za, [{
         f: Zb,
         x: ya,
         y: -3,
@@ -23461,8 +23461,8 @@
         r: 0,
         c: ["#602920", "#844f49", "#5e5d5e", "#d3ccc7"]
       }], 1.4, ["#3ba578", "#4eb687", "#3da34d"], 0.5);
-      ΔΔ[Xr.ⵠΔⲆⲆΔⵠΔ] = ΔΔ[Xr.ᐃⲆⲆⲆⲆΔᐃ];
-      ΔΔ[Xr.ΔⵠΔΔΔᐃᐃ] = bu(1, [{
+      ΔΔ[325] = ΔΔ[323];
+      ΔΔ[305] = bu(1, [{
         f: du,
         x: -ci,
         y: -Tt,
@@ -23470,7 +23470,7 @@
         r: 0,
         c: ["#cec0c4", "#ffffff", "#6d6768"]
       }], 0.9, ["#3ba578", "#4eb687", "#3da34d"], 0.5);
-      ΔΔ[Xr.ⲆⲆᐃⲆᐃΔᐃ] = bu(1, [{
+      ΔΔ[513] = bu(1, [{
         f: du,
         x: -3,
         y: -ea,
@@ -23478,8 +23478,8 @@
         r: mj,
         c: ["#d4e9ec", "#37b1d7", "#506c71"]
       }], 0.9, ["#3ba578", "#4eb687", "#3da34d"], 0.5);
-      ΔΔ[Xr.ΔⲆⲆⵠᐃⲆᐃ] = ΔΔ[Xr.ⲆⲆᐃⲆᐃΔᐃ];
-      ΔΔ[Xr.ΔⲆᐃΔΔᐃᐃ] = bu(mk, [{
+      ΔΔ[515] = ΔΔ[513];
+      ΔΔ[368] = bu(mk, [{
         f: Ru,
         x: -I,
         y: -nq,
@@ -23487,7 +23487,7 @@
         r: 0,
         c: ["#ef96be", "#ffffff"]
       }], 0.5, ["#2b5c48", "#2b5c48", "#2b5c48"], 0.5);
-      ΔΔ[Xr.ⵠΔᐃΔⵠⲆΔ] = bu($b, [{
+      ΔΔ[1162] = bu($b, [{
         f: Ru,
         x: -3,
         y: -sl,
@@ -23495,7 +23495,7 @@
         r: Da,
         c: ["#55423e", "#ffffff"]
       }], 0.5, ["#2b5c48", "#2b5c48", "#2b5c48"], 0.5);
-      ΔΔ[Xr.ⵠΔⵠⵠΔⵠⵠ] = bu(Gh, [{
+      ΔΔ[178] = bu(Gh, [{
         f: Ad,
         x: Rq,
         y: Mg,
@@ -23503,7 +23503,7 @@
         r: wj,
         c: ["#ffffff", "#e7e2e2", "#b35c46", "#a34d37"]
       }], 0.25, ["#2b5c48", "#2b5c48", "#2b5c48"], 0.5);
-      ΔΔ[Xr.ᐃⵠⲆⲆⵠΔΔ] = bu(1, [{
+      ΔΔ[179] = bu(1, [{
         f: Ad,
         x: 0,
         y: 0,
@@ -23511,7 +23511,7 @@
         r: 0,
         c: ["#14151b", "#000000", "#b35c46", "#a34d37"]
       }], 0.25, ["#2b5c48", "#2b5c48", "#2b5c48"], 0.5);
-      ΔΔ[Xr.ΔᐃᐃⲆΔΔᐃ] = bu(Te, [{
+      ΔΔ[624] = bu(Te, [{
         f: Ru,
         x: Bb,
         y: Yh,
@@ -23519,7 +23519,7 @@
         r: 0,
         c: ["#201851", "#b6222a"]
       }], 0.5, ["#2b5c48", "#2b5c48", "#2b5c48"], 0.5);
-      ΔΔ[Xr.ⵠⲆᐃⵠⲆᐃⵠ] = bu(zs, [{
+      ΔΔ[393] = bu(zs, [{
         f: Ru,
         x: -ut,
         y: -ea,
@@ -23527,7 +23527,7 @@
         r: 0,
         c: ["#231f20", "#b6222a"]
       }], 0.5, ["#2b5c48", "#2b5c48", "#2b5c48"], 0.5);
-      ΔΔ[Xr.ⵠᐃΔΔⵠⲆᐃ] = bu(Oq, [{
+      ΔΔ[505] = bu(Oq, [{
         f: Ru,
         x: -qu,
         y: -ut,
@@ -23535,7 +23535,7 @@
         r: 0,
         c: ["#ffffff", "#b6222a"]
       }], 0.5, ["#2b5c48", "#2b5c48", "#2b5c48"], 0.5);
-      ΔΔ[Xr.ᐃⵠⵠⲆⵠᐃⲆ] = bu(1, [{
+      ΔΔ[369] = bu(1, [{
         f: pm,
         x: 0,
         y: Bb,
@@ -23543,8 +23543,8 @@
         r: fl,
         c: ["#f9efeb", "#dfd1cb", "#3e3c25", "#4d4a2e"]
       }], 0.4, ["#35b1b5", "#46c2c9", "#33b4e4"], 0.5);
-      ΔΔ[Xr.ᐃⲆⲆⲆΔΔᐃ] = ΔΔ[Xr.ᐃⵠⵠⲆⵠᐃⲆ];
-      ΔΔ[Xr.ΔⲆⵠᐃΔⵠⵠ] = bu(ie, [{
+      ΔΔ[370] = ΔΔ[369];
+      ΔΔ[381] = bu(ie, [{
         f: Cc,
         x: wg,
         y: 0,
@@ -23552,8 +23552,8 @@
         r: 0,
         c: ["#3e3c25", "#4d4a2e", "#f9efeb", "#dfd1cb"]
       }], 0.4, ["#35b1b5", "#46c2c9", "#33b4e4"], 0.5);
-      ΔΔ[Xr.ⲆΔⲆⵠⲆⵠΔ] = ΔΔ[Xr.ΔⲆⵠᐃΔⵠⵠ];
-      ΔΔ[Xr.ᐃⵠⲆᐃΔᐃΔ] = bu(Xn, [{
+      ΔΔ[380] = ΔΔ[381];
+      ΔΔ[502] = bu(Xn, [{
         f: em,
         x: Da,
         y: Da,
@@ -23561,8 +23561,8 @@
         r: 0,
         c: ["#171a19", "#dee7e7", "#b8cccb", "#ffffff", "#e3e8e8"]
       }], 0.4, ["#35b1b5", "#46c2c9", "#33b4e4"], 0.5);
-      ΔΔ[Xr.ⲆⵠⵠᐃᐃΔΔ] = ΔΔ[Xr.ᐃⵠⲆᐃΔᐃΔ];
-      ΔΔ[Xr.ΔⵠᐃᐃⵠⵠⲆ] = bu(1, [{
+      ΔΔ[503] = ΔΔ[502];
+      ΔΔ[880] = bu(1, [{
         f: nu,
         x: os,
         y: Ig,
@@ -23570,8 +23570,8 @@
         r: 0,
         c: ["#171a19", "#c5232c", "#84191d", "#a72027", "#fef4f4", "#e9dad9"]
       }], 0.35, ["#35b1b5", "#46c2c9", "#33b4e4"], 0.5);
-      ΔΔ[Xr.ⵠⲆⵠⲆΔᐃⲆ] = ΔΔ[Xr.ΔⵠᐃᐃⵠⵠⲆ];
-      ΔΔ[Xr.ⲆΔᐃΔᐃᐃᐃ] = bu(hb, [{
+      ΔΔ[881] = ΔΔ[880];
+      ΔΔ[882] = bu(hb, [{
         f: iu,
         x: In,
         y: ta,
@@ -23579,8 +23579,8 @@
         r: 0,
         c: ["#171a19", "#0f964c", "#106e3b", "#138344", "#fef4f4", "#e9dad9", "#C5232C", "#A92D2D"]
       }], 0.35, ["#35b1b5", "#46c2c9", "#33b4e4"], 0.5);
-      ΔΔ[Xr.ⵠΔⲆⲆⲆⲆⲆ] = ΔΔ[Xr.ⲆΔᐃΔᐃᐃᐃ];
-      ΔΔ[Xr.ΔⲆΔⲆΔᐃΔ] = bu(hb, [{
+      ΔΔ[883] = ΔΔ[882];
+      ΔΔ[303] = bu(hb, [{
         f: cu,
         x: -H,
         y: -H,
@@ -23588,202 +23588,202 @@
         r: Qs,
         c: ["#ffffff", "#cec0c4"]
       }], 0.35, ["#3ba578", "#4eb687", "#3da34d"], 0.5);
-      ΔΔ[Xr.ⲆⵠⵠⲆᐃⵠⲆ] = ΔΔ[Xr.ΔⲆΔⲆΔᐃΔ];
-      ΔΔ[Xr.ⲆᐃⵠⵠⵠⵠΔ] = [];
-      ΔΔ[Xr.ⲆᐃⵠⵠⵠⵠΔ][Zj] = Ⲇⵠ.ΔⵠᐃᐃΔⲆᐃ;
-      ΔΔ[Xr.ⲆᐃⵠⵠⵠⵠΔ][mk] = Ⲇⵠ.ⵠⵠⲆΔⲆⵠⲆ;
-      ΔΔ[Xr.ⲆᐃⵠⵠⵠⵠΔ][Hj] = Ⲇⵠ.ⲆᐃⵠⵠⲆᐃΔ;
-      ΔΔ[Xr.ⵠⲆⵠᐃⲆⲆΔ] = ΔΔ[Xr.ⲆᐃⵠⵠⵠⵠΔ];
-      ΔΔ[Xr.ΔᐃᐃⵠΔⵠⵠ] = [];
-      ΔΔ[Xr.ΔᐃᐃⵠΔⵠⵠ][0] = Ⲇⵠ.ΔᐃⵠᐃⲆΔⵠ;
-      ΔΔ[Xr.ΔᐃᐃⵠΔⵠⵠ][1] = Ⲇⵠ.Ⲇⵠⵠᐃᐃᐃⵠ;
-      ΔΔ[Xr.ΔᐃᐃⵠΔⵠⵠ][xj] = Ⲇⵠ.ⲆᐃΔΔⵠΔΔ;
-      ΔΔ[Xr.ⲆᐃⵠΔΔΔⲆ] = ΔΔ[Xr.ΔᐃᐃⵠΔⵠⵠ];
-      ΔΔ[Xr.ⲆΔᐃΔΔⲆᐃ] = ΔΔ[Xr.ΔᐃᐃⵠΔⵠⵠ];
-      ΔΔ[Xr.ΔⵠΔΔⲆⵠᐃ] = [];
-      ΔΔ[Xr.ΔⵠΔΔⲆⵠᐃ][mj] = Ⲇⵠ.ΔⵠⵠᐃΔⵠⲆ;
-      ΔΔ[Xr.ΔⵠΔΔⲆⵠᐃ][gs] = Ⲇⵠ.ΔᐃᐃⵠⲆᐃᐃ;
-      ΔΔ[Xr.ΔⵠΔΔⲆⵠᐃ][2] = Ⲇⵠ.ⲆΔⵠⵠΔΔⵠ;
-      ΔΔ[Xr.ᐃⲆⲆⵠⲆᐃⲆ] = ΔΔ[Xr.ΔⵠΔΔⲆⵠᐃ];
-      ΔΔ[Xr.ᐃᐃⵠᐃⲆᐃⵠ] = ΔΔ[Xr.ΔⵠΔΔⲆⵠᐃ];
-      ΔΔ[Xr.ΔⵠᐃⲆᐃⲆΔ] = [];
-      ΔΔ[Xr.ΔⵠᐃⲆᐃⲆΔ][0] = Ⲇⵠ.ⲆⲆⵠⵠⵠⲆⲆ;
-      ΔΔ[Xr.ΔⵠᐃⲆᐃⲆΔ][1] = Ⲇⵠ.ⲆⲆⵠⵠⵠⲆⲆ;
-      ΔΔ[Xr.ΔⵠᐃⲆᐃⲆΔ][2] = Ⲇⵠ.ⲆⲆⵠⵠⵠⲆⲆ;
-      ΔΔ[Xr.ⲆᐃΔΔⲆΔᐃ] = ΔΔ[Xr.ΔⵠᐃⲆᐃⲆΔ];
-      ΔΔ[Xr.ⲆΔⵠⲆⵠⲆⵠ] = [];
-      ΔΔ[Xr.ⲆΔⵠⲆⵠⲆⵠ][0] = Ⲇⵠ.ΔᐃᐃᐃΔᐃⵠ;
-      ΔΔ[Xr.ⲆΔⵠⲆⵠⲆⵠ][1] = Ⲇⵠ.ⲆΔᐃⲆⵠⵠⵠ;
-      ΔΔ[Xr.ⲆΔⵠⲆⵠⲆⵠ][2] = Ⲇⵠ.ΔⲆⲆΔⲆΔΔ;
-      ΔΔ[Xr.ΔᐃⵠᐃᐃⲆᐃ] = ΔΔ[Xr.ⲆΔⵠⲆⵠⲆⵠ];
-      ΔΔ[Xr.ᐃⵠᐃⲆᐃⵠⲆ] = ΔΔ[Xr.ⲆΔⵠⲆⵠⲆⵠ];
-      ΔΔ[Xr.ⲆΔⲆⵠΔⵠΔ] = [];
-      ΔΔ[Xr.ⲆΔⲆⵠΔⵠΔ][Yh] = Ⲇⵠ.ⲆΔΔⵠⵠⲆⲆ;
-      ΔΔ[Xr.ⲆΔⲆⵠΔⵠΔ][1] = Ⲇⵠ.ⲆΔΔⵠⵠⲆⲆ;
-      ΔΔ[Xr.ⲆΔⲆⵠΔⵠΔ][Hj] = Ⲇⵠ.ⲆΔΔⵠⵠⲆⲆ;
-      ΔΔ[Xr.ΔⲆⲆᐃⲆⲆⵠ] = ΔΔ[Xr.ⲆΔⲆⵠΔⵠΔ];
-      ΔΔ[Xr.ⲆⲆᐃⵠᐃΔⲆ] = [];
-      ΔΔ[Xr.ⲆⲆᐃⵠᐃΔⲆ][0] = Ⲇⵠ.ⵠⵠⵠⲆᐃⵠᐃⲆᐃ;
-      ΔΔ[Xr.ⲆⲆᐃⵠᐃΔⲆ][gs] = Ⲇⵠ.ᐃΔᐃⵠⵠⲆⲆⲆΔ;
-      ΔΔ[Xr.ⲆⲆᐃⵠᐃΔⲆ][2] = Ⲇⵠ.ⵠⵠⵠΔⲆⵠᐃᐃΔ;
-      ΔΔ[Xr.ⵠᐃⲆⵠᐃΔⲆ] = ΔΔ[Xr.ⲆⲆᐃⵠᐃΔⲆ];
-      ΔΔ[Xr.ΔᐃᐃᐃⲆⵠⲆ] = ΔΔ[Xr.ⲆⲆᐃⵠᐃΔⲆ];
-      ΔΔ[Xr.ΔΔΔᐃΔⵠΔ] = [];
-      ΔΔ[Xr.ΔΔΔᐃΔⵠΔ][ig] = Ⲇⵠ.ⵠⲆⵠⵠΔⲆⵠ;
-      ΔΔ[Xr.ΔΔΔᐃΔⵠΔ][Oq] = Ⲇⵠ.ΔⲆⲆᐃⵠᐃⲆ;
-      ΔΔ[Xr.ΔΔΔᐃΔⵠΔ][Ug] = Ⲇⵠ.ᐃⲆᐃⲆΔᐃΔ;
-      ΔΔ[Xr.ⵠᐃΔᐃᐃᐃⲆ] = ΔΔ[Xr.ΔΔΔᐃΔⵠΔ];
-      ΔΔ[Xr.ⲆⵠΔΔᐃᐃΔ] = ΔΔ[Xr.ΔΔΔᐃΔⵠΔ];
-      ΔΔ[Xr.ⵠᐃⲆⵠᐃΔΔ] = [];
-      ΔΔ[Xr.ⵠᐃⲆⵠᐃΔΔ][0] = Ⲇⵠ.ΔΔⵠΔΔⵠⵠ;
-      ΔΔ[Xr.ⵠᐃⲆⵠᐃΔΔ][1] = Ⲇⵠ.ΔⵠⵠΔⵠⵠᐃ;
-      ΔΔ[Xr.ⵠᐃⲆⵠᐃΔΔ][It] = Ⲇⵠ.ⵠΔᐃΔᐃΔⲆ;
-      ΔΔ[Xr.ᐃⵠᐃⲆⲆⵠⲆ] = ΔΔ[Xr.ⵠᐃⲆⵠᐃΔΔ];
-      ΔΔ[Xr.ⲆᐃΔⵠΔᐃⵠ] = ΔΔ[Xr.ⵠᐃⲆⵠᐃΔΔ];
-      ΔΔ[Xr.ᐃᐃΔΔᐃΔⵠ] = [];
-      ΔΔ[Xr.ᐃᐃΔΔᐃΔⵠ][0] = Ⲇⵠ.ⲆⲆᐃᐃⵠⵠⲆ;
-      ΔΔ[Xr.ᐃᐃΔΔᐃΔⵠ][1] = Ⲇⵠ.ⵠΔᐃᐃΔᐃⲆ;
-      ΔΔ[Xr.ᐃᐃΔΔᐃΔⵠ][It] = Ⲇⵠ.ΔⵠΔᐃΔⲆⵠ;
-      ΔΔ[Xr.ⲆᐃΔⲆᐃᐃΔ] = ΔΔ[Xr.ᐃᐃΔΔᐃΔⵠ];
-      ΔΔ[Xr.ΔⲆΔᐃⲆᐃΔ] = ΔΔ[Xr.ᐃᐃΔΔᐃΔⵠ];
-      ΔΔ[Xr.ⵠᐃΔⵠᐃᐃᐃ] = [];
-      ΔΔ[Xr.ⵠᐃΔⵠᐃᐃᐃ][0] = Ⲇⵠ.ⵠⲆⵠΔⵠⲆⵠ;
-      ΔΔ[Xr.ⵠᐃΔⵠᐃᐃᐃ][1] = Ⲇⵠ.ΔⲆᐃᐃⲆⵠⲆ;
-      ΔΔ[Xr.ⵠᐃΔⵠᐃᐃᐃ][Vg] = Ⲇⵠ.ⵠⲆᐃⲆⵠᐃΔ;
-      ΔΔ[Xr.ⵠⲆᐃⵠⲆᐃᐃ] = ΔΔ[Xr.ⵠᐃΔⵠᐃᐃᐃ];
-      ΔΔ[Xr.ⵠⲆⲆⲆⲆⲆᐃ] = ΔΔ[Xr.ⵠᐃΔⵠᐃᐃᐃ];
-      ΔΔ[Xr.ΔⲆᐃⲆᐃⵠᐃ] = [];
-      ΔΔ[Xr.ΔⲆᐃⲆᐃⵠᐃ][0] = Ⲇⵠ.ᐃⵠⲆᐃⲆⲆⵠ;
-      ΔΔ[Xr.ΔⲆᐃⲆᐃⵠᐃ][1] = Ⲇⵠ.ᐃⵠΔΔⵠᐃⵠ;
-      ΔΔ[Xr.ΔⲆᐃⲆᐃⵠᐃ][Vg] = Ⲇⵠ.ⲆⲆᐃⵠⵠⵠᐃ;
-      ΔΔ[Xr.ΔΔⲆᐃᐃᐃᐃ] = ΔΔ[Xr.ΔⲆᐃⲆᐃⵠᐃ];
-      ΔΔ[Xr.ⵠΔⲆᐃⵠⵠᐃ] = ΔΔ[Xr.ΔⲆᐃⲆᐃⵠᐃ];
-      ΔΔ[Xr.ᐃⵠⲆΔⲆⲆⵠ] = [];
-      ΔΔ[Xr.ᐃⵠⲆΔⲆⲆⵠ][Hi] = Ⲇⵠ.ΔⲆΔⲆᐃⲆⵠ;
-      ΔΔ[Xr.ᐃⵠⲆΔⲆⲆⵠ][ie] = Ⲇⵠ.ⲆⲆⵠΔⵠⵠⵠ;
-      ΔΔ[Xr.ᐃⵠⲆΔⲆⲆⵠ][2] = Ⲇⵠ.ⲆⵠⲆᐃᐃⵠⵠ;
-      ΔΔ[Xr.ⲆᐃΔⵠᐃᐃⲆ] = ΔΔ[Xr.ᐃⵠⲆΔⲆⲆⵠ];
-      ΔΔ[Xr.ⵠⵠΔⲆΔΔᐃ] = ΔΔ[Xr.ᐃⵠⲆΔⲆⲆⵠ];
-      ΔΔ[Xr.ᐃⵠⵠⵠᐃΔΔ] = [];
-      ΔΔ[Xr.ᐃⵠⵠⵠᐃΔΔ][In] = Ⲇⵠ.ⵠⵠⵠΔΔⵠᐃ;
-      ΔΔ[Xr.ᐃⵠⵠⵠᐃΔΔ][Gh] = Ⲇⵠ.ᐃΔⵠⲆΔΔⲆ;
-      ΔΔ[Xr.ᐃⵠⵠⵠᐃΔΔ][2] = Ⲇⵠ.ⵠΔΔⲆΔΔΔ;
-      ΔΔ[Xr.ⵠᐃⲆⵠⵠⲆⵠ] = ΔΔ[Xr.ᐃⵠⵠⵠᐃΔΔ];
-      ΔΔ[Xr.ᐃᐃⵠⲆⵠΔⵠ] = ΔΔ[Xr.ᐃⵠⵠⵠᐃΔΔ];
-      ΔΔ[Xr.ᐃⵠΔⲆⵠⵠᐃ] = [];
-      ΔΔ[Xr.ᐃⵠΔⲆⵠⵠᐃ][0] = Ⲇⵠ.ⲆⵠᐃⲆᐃⵠⵠ;
-      ΔΔ[Xr.ᐃⵠΔⲆⵠⵠᐃ][1] = Ⲇⵠ.ⵠΔⲆᐃⵠⵠⲆ;
-      ΔΔ[Xr.ᐃⵠΔⲆⵠⵠᐃ][H] = Ⲇⵠ.ⵠᐃΔⲆΔⲆᐃ;
-      ΔΔ[Xr.ⲆΔⵠⲆⲆⵠⲆ] = ΔΔ[Xr.ᐃⵠΔⲆⵠⵠᐃ];
-      ΔΔ[Xr.ΔⵠᐃⲆⲆⵠΔ] = ΔΔ[Xr.ᐃⵠΔⲆⵠⵠᐃ];
-      ΔΔ[Xr.ΔᐃⵠΔⵠΔΔ] = [];
-      ΔΔ[Xr.ΔᐃⵠΔⵠΔΔ][0] = Ⲇⵠ.ⵠΔⲆⵠᐃⲆᐃ;
-      ΔΔ[Xr.ΔᐃⵠΔⵠΔΔ][1] = Ⲇⵠ.ᐃᐃΔⵠⵠⵠΔ;
-      ΔΔ[Xr.ΔᐃⵠΔⵠΔΔ][2] = Ⲇⵠ.ΔΔⵠΔΔⲆΔ;
-      ΔΔ[Xr.ΔⲆⲆⲆⲆΔΔ] = ΔΔ[Xr.ΔᐃⵠΔⵠΔΔ];
-      ΔΔ[Xr.ΔᐃⲆᐃⲆⲆⵠ] = ΔΔ[Xr.ΔᐃⵠΔⵠΔΔ];
-      ΔΔ[Xr.ⲆⲆⵠᐃⵠ] = [];
-      ΔΔ[Xr.ⲆⲆⵠᐃⵠ][0] = Ⲇⵠ.ⲆⲆⵠᐃⵠ;
-      ΔΔ[Xr.ⲆⲆⵠᐃⵠ][1] = Ⲇⵠ.ⲆⲆⵠᐃⵠ;
-      ΔΔ[Xr.ⲆⲆⵠᐃⵠ][2] = Ⲇⵠ.ⲆⲆⵠᐃⵠ;
-      ΔΔ[Xr.ΔⵠᐃⲆΔΔⲆⵠΔ] = ΔΔ[Xr.ⲆⲆⵠᐃⵠ];
-      ΔΔ[Xr.ΔΔᐃⵠⲆⵠᐃ] = ΔΔ[Xr.ⲆⲆⵠᐃⵠ];
-      ΔΔ[Xr.ΔⲆΔⵠᐃ] = [];
-      ΔΔ[Xr.ΔⲆΔⵠᐃ][0] = Ⲇⵠ.ΔⲆΔⵠᐃ;
-      ΔΔ[Xr.ΔⲆΔⵠᐃ][wt] = Ⲇⵠ.ΔⲆΔⵠᐃ;
-      ΔΔ[Xr.ΔⲆΔⵠᐃ][2] = Ⲇⵠ.ΔⲆΔⵠᐃ;
-      ΔΔ[Xr.ⲆΔⲆᐃΔΔⵠⲆᐃ] = ΔΔ[Xr.ΔⲆΔⵠᐃ];
-      ΔΔ[Xr.ⲆⵠⲆᐃⵠΔⵠ] = ΔΔ[Xr.ΔⲆΔⵠᐃ];
-      ΔΔ[Xr.ΔⲆΔⵠⲆ] = [];
-      ΔΔ[Xr.ΔⲆΔⵠⲆ][eu] = Ⲇⵠ.ΔⲆΔⵠⲆ;
-      ΔΔ[Xr.ΔⲆΔⵠⲆ][za] = Ⲇⵠ.ΔⲆΔⵠⲆ;
-      ΔΔ[Xr.ΔⲆΔⵠⲆ][2] = Ⲇⵠ.ΔⲆΔⵠⲆ;
-      ΔΔ[Xr.ⵠΔᐃΔᐃⵠⲆⵠⵠ] = ΔΔ[Xr.ΔⲆΔⵠⲆ];
-      ΔΔ[Xr.ᐃⲆⲆⵠᐃᐃΔ] = ΔΔ[Xr.ΔⲆΔⵠⲆ];
-      ΔΔ[Xr.ΔΔⵠⵠⵠ] = [];
-      ΔΔ[Xr.ΔΔⵠⵠⵠ][Zj] = Ⲇⵠ.ΔΔⵠⵠⵠ;
-      ΔΔ[Xr.ΔΔⵠⵠⵠ][Te] = Ⲇⵠ.ΔΔⵠⵠⵠ;
-      ΔΔ[Xr.ΔΔⵠⵠⵠ][2] = Ⲇⵠ.ΔΔⵠⵠⵠ;
-      ΔΔ[Xr.ΔᐃⵠᐃᐃΔⲆ] = ΔΔ[Xr.ΔΔⵠⵠⵠ];
-      ΔΔ[Xr.ⲆⵠΔⵠⵠⵠⵠ] = [];
-      ΔΔ[Xr.ⲆⵠΔⵠⵠⵠⵠ][Lr] = Ⲇⵠ.ΔⵠᐃᐃⲆΔΔ;
-      ΔΔ[Xr.ⲆⵠΔⵠⵠⵠⵠ][zg] = Ⲇⵠ.ⵠⵠΔⲆᐃⲆⲆ;
-      ΔΔ[Xr.ⲆⵠΔⵠⵠⵠⵠ][Lt] = Ⲇⵠ.ᐃⵠΔΔᐃΔⵠ;
-      ΔΔ[Xr.ⵠΔΔⲆΔᐃΔ] = ΔΔ[Xr.ⲆⵠΔⵠⵠⵠⵠ];
-      ΔΔ[Xr.ⵠⵠΔΔᐃⵠⵠ] = ΔΔ[Xr.ⲆⵠΔⵠⵠⵠⵠ];
-      ΔΔ[Xr.ΔᐃⲆΔΔᐃⵠ] = [];
-      ΔΔ[Xr.ΔᐃⲆΔΔᐃⵠ][0] = Ⲇⵠ.ⲆᐃⲆⲆⵠΔΔ;
-      ΔΔ[Xr.ΔᐃⲆΔΔᐃⵠ][Wl] = Ⲇⵠ.ⲆⲆⲆⵠⵠᐃⲆ;
-      ΔΔ[Xr.ΔᐃⲆΔΔᐃⵠ][2] = Ⲇⵠ.ⲆᐃⵠᐃⲆⵠⲆ;
-      ΔΔ[Xr.ⲆⲆΔΔⲆᐃⲆ] = ΔΔ[Xr.ΔᐃⲆΔΔᐃⵠ];
-      ΔΔ[Xr.ΔᐃᐃⲆⲆⵠⲆ] = ΔΔ[Xr.ΔᐃⲆΔΔᐃⵠ];
-      ΔΔ[Xr.ΔⲆⵠⲆΔⲆⵠ] = [];
-      ΔΔ[Xr.ΔⲆⵠⲆΔⲆⵠ][os] = Ⲇⵠ.ⵠᐃⲆⵠⵠⲆΔ;
-      ΔΔ[Xr.ΔⲆⵠⲆΔⲆⵠ][Oq] = Ⲇⵠ.ᐃⵠᐃⵠⲆΔⲆ;
-      ΔΔ[Xr.ΔⲆⵠⲆΔⲆⵠ][Hj] = Ⲇⵠ.ΔΔⲆⵠΔᐃⵠ;
-      ΔΔ[Xr.ⲆⵠⵠΔⲆⵠⲆ] = ΔΔ[Xr.ΔⲆⵠⲆΔⲆⵠ];
-      ΔΔ[Xr.ⵠⲆᐃΔⵠΔⲆ] = ΔΔ[Xr.ΔⲆⵠⲆΔⲆⵠ];
-      ΔΔ[Xr.ⵠⵠⵠᐃⵠᐃΔ] = [];
-      ΔΔ[Xr.ⵠⵠⵠᐃⵠᐃΔ][0] = Ⲇⵠ.ⵠΔᐃᐃΔᐃⵠ;
-      ΔΔ[Xr.ⵠⵠⵠᐃⵠᐃΔ][1] = Ⲇⵠ.ⵠⲆⵠᐃⲆΔᐃ;
-      ΔΔ[Xr.ⵠⵠⵠᐃⵠᐃΔ][vg] = Ⲇⵠ.ΔΔⲆᐃⵠΔᐃ;
-      ΔΔ[Xr.ΔΔⵠᐃⲆΔΔ] = ΔΔ[Xr.ⵠⵠⵠᐃⵠᐃΔ];
-      ΔΔ[Xr.ΔⵠΔⵠⵠⲆⵠ] = ΔΔ[Xr.ⵠⵠⵠᐃⵠᐃΔ];
-      ΔΔ[Xr.ⲆⵠⲆⲆᐃⲆᐃ] = [];
-      ΔΔ[Xr.ⲆⵠⲆⲆᐃⲆᐃ][0] = Ⲇⵠ.ᐃⲆⵠΔΔⵠᐃ;
-      ΔΔ[Xr.ⲆⵠⲆⲆᐃⲆᐃ][Gh] = Ⲇⵠ.ΔⵠᐃΔⵠⲆⲆ;
-      ΔΔ[Xr.ⲆⵠⲆⲆᐃⲆᐃ][2] = Ⲇⵠ.ⲆⵠΔⵠᐃᐃⵠ;
-      ΔΔ[Xr.ⲆⵠᐃᐃⲆΔᐃ] = ΔΔ[Xr.ⲆⵠⲆⲆᐃⲆᐃ];
-      ΔΔ[Xr.ⵠⵠⵠᐃΔⲆΔ] = ΔΔ[Xr.ⲆⵠⲆⲆᐃⲆᐃ];
-      ΔΔ[Xr.ᐃⲆⲆᐃⲆΔⵠ] = [];
-      ΔΔ[Xr.ᐃⲆⲆᐃⲆΔⵠ][ya] = Ⲇⵠ.ⲆΔⵠᐃⵠⲆⲆ;
-      ΔΔ[Xr.ᐃⲆⲆᐃⲆΔⵠ][Xn] = Ⲇⵠ.ⵠⵠΔⵠⵠΔΔ;
-      ΔΔ[Xr.ᐃⲆⲆᐃⲆΔⵠ][H] = Ⲇⵠ.ⲆⲆⵠΔᐃⵠΔ;
-      ΔΔ[Xr.ΔᐃⲆᐃⲆⵠΔ] = ΔΔ[Xr.ᐃⲆⲆᐃⲆΔⵠ];
-      ΔΔ[Xr.ⵠΔⵠⵠⵠᐃⵠ] = ΔΔ[Xr.ᐃⲆⲆᐃⲆΔⵠ];
-      ΔΔ[Xr.ⲆⵠΔᐃⵠᐃΔ] = [];
-      ΔΔ[Xr.ⲆⵠΔᐃⵠᐃΔ][Hi] = Ⲇⵠ.ⵠΔⵠⵠΔⵠᐃⲆΔ;
-      ΔΔ[Xr.ⲆⵠΔᐃⵠᐃΔ][au] = Ⲇⵠ.ᐃⵠⵠⵠᐃⲆⵠᐃΔ;
-      ΔΔ[Xr.ⲆⵠΔᐃⵠᐃΔ][Hj] = Ⲇⵠ.ᐃⲆᐃᐃⵠⵠⲆⵠⲆ;
-      ΔΔ[Xr.ᐃΔⲆⲆⵠΔΔ] = ΔΔ[Xr.ⲆⵠΔᐃⵠᐃΔ];
-      ΔΔ[Xr.ΔⵠⵠᐃⲆΔΔ] = ΔΔ[Xr.ⲆⵠΔᐃⵠᐃΔ];
-      ΔΔ[Xr.ⵠⲆⲆᐃⵠⵠⵠ] = [];
-      ΔΔ[Xr.ⵠⲆⲆᐃⵠⵠⵠ][0] = Ⲇⵠ.ⵠΔⵠᐃⵠΔⵠ;
-      ΔΔ[Xr.ⵠⲆⲆᐃⵠⵠⵠ][1] = Ⲇⵠ.ⵠⵠⵠⵠⵠⵠΔ;
-      ΔΔ[Xr.ⵠⲆⲆᐃⵠⵠⵠ][xj] = Ⲇⵠ.ⵠⲆⲆⲆᐃⲆᐃ;
-      ΔΔ[Xr.ⵠⵠᐃΔⵠᐃΔ] = ΔΔ[Xr.ⵠⲆⲆᐃⵠⵠⵠ];
-      ΔΔ[Xr.ⲆⲆⵠΔⲆⵠⵠ] = ΔΔ[Xr.ⵠⲆⲆᐃⵠⵠⵠ];
-      ΔΔ[Xr.ΔΔⵠΔⲆⲆΔ] = [];
-      ΔΔ[Xr.ΔΔⵠΔⲆⲆΔ][Rq] = Ⲇⵠ.ⲆⲆΔⵠᐃⲆⵠ;
-      ΔΔ[Xr.ΔΔⵠΔⲆⲆΔ][pu] = Ⲇⵠ.ⵠⵠⲆⵠⵠᐃⲆ;
-      ΔΔ[Xr.ΔΔⵠΔⲆⲆΔ][Lt] = Ⲇⵠ.ΔΔⵠΔⵠⲆΔ;
-      ΔΔ[Xr.ⵠΔᐃᐃⵠΔⵠ] = ΔΔ[Xr.ΔΔⵠΔⲆⲆΔ];
-      ΔΔ[Xr.ⲆΔⲆΔΔⲆⵠ] = ΔΔ[Xr.ΔΔⵠΔⲆⲆΔ];
-      ΔΔ[Xr.ⵠⲆⵠΔΔΔⲆ] = [];
-      ΔΔ[Xr.ⵠⲆⵠΔΔΔⲆ][Hi] = Ⲇⵠ.ⲆⲆᐃⲆⲆⵠᐃ;
-      ΔΔ[Xr.ⵠⲆⵠΔΔΔⲆ][zg] = Ⲇⵠ.ΔⲆᐃΔΔΔⲆ;
-      ΔΔ[Xr.ⵠⲆⵠΔΔΔⲆ][2] = Ⲇⵠ.ΔⵠᐃⲆΔⲆⲆ;
-      ΔΔ[Xr.ᐃΔⵠᐃᐃΔᐃ] = ΔΔ[Xr.ⵠⲆⵠΔΔΔⲆ];
-      ΔΔ[Xr.ΔΔΔᐃΔⲆⲆ] = ΔΔ[Xr.ⵠⲆⵠΔΔΔⲆ];
-      ΔΔ[Xr.ΔΔᐃⲆᐃⵠⲆ] = [];
-      ΔΔ[Xr.ΔΔᐃⲆᐃⵠⲆ][eu] = Ⲇⵠ.ΔⲆΔΔⲆⵠⵠ;
-      ΔΔ[Xr.ΔΔᐃⲆᐃⵠⲆ][1] = Ⲇⵠ.ΔΔⲆⵠᐃⲆⵠ;
-      ΔΔ[Xr.ΔΔᐃⲆᐃⵠⲆ][2] = Ⲇⵠ.ΔⵠⲆΔⲆⵠΔ;
-      ΔΔ[Xr.ⲆⵠⵠΔᐃⵠᐃ] = ΔΔ[Xr.ΔΔᐃⲆᐃⵠⲆ];
-      ΔΔ[Xr.ⵠⲆⵠᐃⵠᐃⵠ] = ΔΔ[Xr.ΔΔᐃⲆᐃⵠⲆ];
-      ΔΔ[Xr.ⵠᐃⲆⵠⵠΔⵠ] = [];
-      ΔΔ[Xr.ⵠᐃⲆⵠⵠΔⵠ][Ih] = Ⲇⵠ.ΔⵠⵠⲆΔⵠᐃ;
-      ΔΔ[Xr.ⵠᐃⲆⵠⵠΔⵠ][pu] = Ⲇⵠ.ΔⲆΔⵠⵠᐃΔ;
-      ΔΔ[Xr.ⵠᐃⲆⵠⵠΔⵠ][2] = Ⲇⵠ.ⲆΔⲆⲆⲆⵠᐃ;
-      ΔΔ[Xr.ⵠⲆⲆⵠⵠⵠᐃ] = ΔΔ[Xr.ⵠᐃⲆⵠⵠΔⵠ];
-      ΔΔ[Xr.Ⲇᐃᐃⵠᐃᐃⵠ] = ΔΔ[Xr.ⵠᐃⲆⵠⵠΔⵠ];
-      ΔΔ[Xr.ᐃⵠⵠᐃᐃⵠⲆ] = [];
-      ΔΔ[Xr.ᐃⵠⵠᐃᐃⵠⲆ][ya] = Ⲇⵠ.ΔⵠᐃΔᐃⲆⵠ;
-      ΔΔ[Xr.ᐃⵠⵠᐃᐃⵠⲆ][1] = Ⲇⵠ.ⲆⵠΔⵠⲆⲆΔ;
-      ΔΔ[Xr.ᐃⵠⵠᐃᐃⵠⲆ][2] = Ⲇⵠ.ⲆⲆΔⵠΔⲆⵠ;
-      ΔΔ[Xr.ⵠᐃᐃⲆᐃⲆⵠ] = ΔΔ[Xr.ᐃⵠⵠᐃᐃⵠⲆ];
-      ΔΔ[Xr.ⵠᐃΔⵠᐃⲆΔ] = ΔΔ[Xr.ᐃⵠⵠᐃᐃⵠⲆ];
-      ΔΔ[Xr.ⵠⵠᐃⵠⲆⲆᐃ] = bu(Xn, [{
+      ΔΔ[304] = ΔΔ[303];
+      ΔΔ[392] = [];
+      ΔΔ[392][Zj] = Ⲇⵠ.ΔⵠᐃᐃΔⲆᐃ;
+      ΔΔ[392][mk] = Ⲇⵠ.ⵠⵠⲆΔⲆⵠⲆ;
+      ΔΔ[392][Hj] = Ⲇⵠ.ⲆᐃⵠⵠⲆᐃΔ;
+      ΔΔ[367] = ΔΔ[392];
+      ΔΔ[975] = [];
+      ΔΔ[975][0] = Ⲇⵠ.ΔᐃⵠᐃⲆΔⵠ;
+      ΔΔ[975][1] = Ⲇⵠ.Ⲇⵠⵠᐃᐃᐃⵠ;
+      ΔΔ[975][xj] = Ⲇⵠ.ⲆᐃΔΔⵠΔΔ;
+      ΔΔ[977] = ΔΔ[975];
+      ΔΔ[976] = ΔΔ[975];
+      ΔΔ[978] = [];
+      ΔΔ[978][mj] = Ⲇⵠ.ΔⵠⵠᐃΔⵠⲆ;
+      ΔΔ[978][gs] = Ⲇⵠ.ΔᐃᐃⵠⲆᐃᐃ;
+      ΔΔ[978][2] = Ⲇⵠ.ⲆΔⵠⵠΔΔⵠ;
+      ΔΔ[980] = ΔΔ[978];
+      ΔΔ[979] = ΔΔ[978];
+      ΔΔ[1158] = [];
+      ΔΔ[1158][0] = Ⲇⵠ.ⲆⲆⵠⵠⵠⲆⲆ;
+      ΔΔ[1158][1] = Ⲇⵠ.ⲆⲆⵠⵠⵠⲆⲆ;
+      ΔΔ[1158][2] = Ⲇⵠ.ⲆⲆⵠⵠⵠⲆⲆ;
+      ΔΔ[1159] = ΔΔ[1158];
+      ΔΔ[426] = [];
+      ΔΔ[426][0] = Ⲇⵠ.ΔᐃᐃᐃΔᐃⵠ;
+      ΔΔ[426][1] = Ⲇⵠ.ⲆΔᐃⲆⵠⵠⵠ;
+      ΔΔ[426][2] = Ⲇⵠ.ΔⲆⲆΔⲆΔΔ;
+      ΔΔ[427] = ΔΔ[426];
+      ΔΔ[428] = ΔΔ[426];
+      ΔΔ[1160] = [];
+      ΔΔ[1160][Yh] = Ⲇⵠ.ⲆΔΔⵠⵠⲆⲆ;
+      ΔΔ[1160][1] = Ⲇⵠ.ⲆΔΔⵠⵠⲆⲆ;
+      ΔΔ[1160][Hj] = Ⲇⵠ.ⲆΔΔⵠⵠⲆⲆ;
+      ΔΔ[1161] = ΔΔ[1160];
+      ΔΔ[1236] = [];
+      ΔΔ[1236][0] = Ⲇⵠ.ⵠⵠⵠⲆᐃⵠᐃⲆᐃ;
+      ΔΔ[1236][gs] = Ⲇⵠ.ᐃΔᐃⵠⵠⲆⲆⲆΔ;
+      ΔΔ[1236][2] = Ⲇⵠ.ⵠⵠⵠΔⲆⵠᐃᐃΔ;
+      ΔΔ[1235] = ΔΔ[1236];
+      ΔΔ[1237] = ΔΔ[1236];
+      ΔΔ[991] = [];
+      ΔΔ[991][ig] = Ⲇⵠ.ⵠⲆⵠⵠΔⲆⵠ;
+      ΔΔ[991][Oq] = Ⲇⵠ.ΔⲆⲆᐃⵠᐃⲆ;
+      ΔΔ[991][Ug] = Ⲇⵠ.ᐃⲆᐃⲆΔᐃΔ;
+      ΔΔ[990] = ΔΔ[991];
+      ΔΔ[992] = ΔΔ[991];
+      ΔΔ[994] = [];
+      ΔΔ[994][0] = Ⲇⵠ.ΔΔⵠΔΔⵠⵠ;
+      ΔΔ[994][1] = Ⲇⵠ.ΔⵠⵠΔⵠⵠᐃ;
+      ΔΔ[994][It] = Ⲇⵠ.ⵠΔᐃΔᐃΔⲆ;
+      ΔΔ[993] = ΔΔ[994];
+      ΔΔ[995] = ΔΔ[994];
+      ΔΔ[997] = [];
+      ΔΔ[997][0] = Ⲇⵠ.ⲆⲆᐃᐃⵠⵠⲆ;
+      ΔΔ[997][1] = Ⲇⵠ.ⵠΔᐃᐃΔᐃⲆ;
+      ΔΔ[997][It] = Ⲇⵠ.ΔⵠΔᐃΔⲆⵠ;
+      ΔΔ[996] = ΔΔ[997];
+      ΔΔ[998] = ΔΔ[997];
+      ΔΔ[1000] = [];
+      ΔΔ[1000][0] = Ⲇⵠ.ⵠⲆⵠΔⵠⲆⵠ;
+      ΔΔ[1000][1] = Ⲇⵠ.ΔⲆᐃᐃⲆⵠⲆ;
+      ΔΔ[1000][Vg] = Ⲇⵠ.ⵠⲆᐃⲆⵠᐃΔ;
+      ΔΔ[999] = ΔΔ[1000];
+      ΔΔ[1001] = ΔΔ[1000];
+      ΔΔ[1003] = [];
+      ΔΔ[1003][0] = Ⲇⵠ.ᐃⵠⲆᐃⲆⲆⵠ;
+      ΔΔ[1003][1] = Ⲇⵠ.ᐃⵠΔΔⵠᐃⵠ;
+      ΔΔ[1003][Vg] = Ⲇⵠ.ⲆⲆᐃⵠⵠⵠᐃ;
+      ΔΔ[1002] = ΔΔ[1003];
+      ΔΔ[1004] = ΔΔ[1003];
+      ΔΔ[1006] = [];
+      ΔΔ[1006][Hi] = Ⲇⵠ.ΔⲆΔⲆᐃⲆⵠ;
+      ΔΔ[1006][ie] = Ⲇⵠ.ⲆⲆⵠΔⵠⵠⵠ;
+      ΔΔ[1006][2] = Ⲇⵠ.ⲆⵠⲆᐃᐃⵠⵠ;
+      ΔΔ[1005] = ΔΔ[1006];
+      ΔΔ[1007] = ΔΔ[1006];
+      ΔΔ[1009] = [];
+      ΔΔ[1009][In] = Ⲇⵠ.ⵠⵠⵠΔΔⵠᐃ;
+      ΔΔ[1009][Gh] = Ⲇⵠ.ᐃΔⵠⲆΔΔⲆ;
+      ΔΔ[1009][2] = Ⲇⵠ.ⵠΔΔⲆΔΔΔ;
+      ΔΔ[1008] = ΔΔ[1009];
+      ΔΔ[1010] = ΔΔ[1009];
+      ΔΔ[1012] = [];
+      ΔΔ[1012][0] = Ⲇⵠ.ⲆⵠᐃⲆᐃⵠⵠ;
+      ΔΔ[1012][1] = Ⲇⵠ.ⵠΔⲆᐃⵠⵠⲆ;
+      ΔΔ[1012][H] = Ⲇⵠ.ⵠᐃΔⲆΔⲆᐃ;
+      ΔΔ[1011] = ΔΔ[1012];
+      ΔΔ[1013] = ΔΔ[1012];
+      ΔΔ[1015] = [];
+      ΔΔ[1015][0] = Ⲇⵠ.ⵠΔⲆⵠᐃⲆᐃ;
+      ΔΔ[1015][1] = Ⲇⵠ.ᐃᐃΔⵠⵠⵠΔ;
+      ΔΔ[1015][2] = Ⲇⵠ.ΔΔⵠΔΔⲆΔ;
+      ΔΔ[1014] = ΔΔ[1015];
+      ΔΔ[1016] = ΔΔ[1015];
+      ΔΔ[1035] = [];
+      ΔΔ[1035][0] = Ⲇⵠ.ⲆⲆⵠᐃⵠ;
+      ΔΔ[1035][1] = Ⲇⵠ.ⲆⲆⵠᐃⵠ;
+      ΔΔ[1035][2] = Ⲇⵠ.ⲆⲆⵠᐃⵠ;
+      ΔΔ[Xr.ΔⵠᐃⲆΔΔⲆⵠΔ] = ΔΔ[1035];
+      ΔΔ[1036] = ΔΔ[1035];
+      ΔΔ[1037] = [];
+      ΔΔ[1037][0] = Ⲇⵠ.ΔⲆΔⵠᐃ;
+      ΔΔ[1037][wt] = Ⲇⵠ.ΔⲆΔⵠᐃ;
+      ΔΔ[1037][2] = Ⲇⵠ.ΔⲆΔⵠᐃ;
+      ΔΔ[Xr.ⲆΔⲆᐃΔΔⵠⲆᐃ] = ΔΔ[1037];
+      ΔΔ[1038] = ΔΔ[1037];
+      ΔΔ[1039] = [];
+      ΔΔ[1039][eu] = Ⲇⵠ.ΔⲆΔⵠⲆ;
+      ΔΔ[1039][za] = Ⲇⵠ.ΔⲆΔⵠⲆ;
+      ΔΔ[1039][2] = Ⲇⵠ.ΔⲆΔⵠⲆ;
+      ΔΔ[Xr.ⵠΔᐃΔᐃⵠⲆⵠⵠ] = ΔΔ[1039];
+      ΔΔ[1040] = ΔΔ[1039];
+      ΔΔ[1156] = [];
+      ΔΔ[1156][Zj] = Ⲇⵠ.ΔΔⵠⵠⵠ;
+      ΔΔ[1156][Te] = Ⲇⵠ.ΔΔⵠⵠⵠ;
+      ΔΔ[1156][2] = Ⲇⵠ.ΔΔⵠⵠⵠ;
+      ΔΔ[1157] = ΔΔ[1156];
+      ΔΔ[1046] = [];
+      ΔΔ[1046][Lr] = Ⲇⵠ.ΔⵠᐃᐃⲆΔΔ;
+      ΔΔ[1046][zg] = Ⲇⵠ.ⵠⵠΔⲆᐃⲆⲆ;
+      ΔΔ[1046][Lt] = Ⲇⵠ.ᐃⵠΔΔᐃΔⵠ;
+      ΔΔ[1048] = ΔΔ[1046];
+      ΔΔ[1047] = ΔΔ[1046];
+      ΔΔ[744] = [];
+      ΔΔ[744][0] = Ⲇⵠ.ⲆᐃⲆⲆⵠΔΔ;
+      ΔΔ[744][Wl] = Ⲇⵠ.ⲆⲆⲆⵠⵠᐃⲆ;
+      ΔΔ[744][2] = Ⲇⵠ.ⲆᐃⵠᐃⲆⵠⲆ;
+      ΔΔ[746] = ΔΔ[744];
+      ΔΔ[745] = ΔΔ[744];
+      ΔΔ[747] = [];
+      ΔΔ[747][os] = Ⲇⵠ.ⵠᐃⲆⵠⵠⲆΔ;
+      ΔΔ[747][Oq] = Ⲇⵠ.ᐃⵠᐃⵠⲆΔⲆ;
+      ΔΔ[747][Hj] = Ⲇⵠ.ΔΔⲆⵠΔᐃⵠ;
+      ΔΔ[749] = ΔΔ[747];
+      ΔΔ[748] = ΔΔ[747];
+      ΔΔ[1049] = [];
+      ΔΔ[1049][0] = Ⲇⵠ.ⵠΔᐃᐃΔᐃⵠ;
+      ΔΔ[1049][1] = Ⲇⵠ.ⵠⲆⵠᐃⲆΔᐃ;
+      ΔΔ[1049][vg] = Ⲇⵠ.ΔΔⲆᐃⵠΔᐃ;
+      ΔΔ[1051] = ΔΔ[1049];
+      ΔΔ[1050] = ΔΔ[1049];
+      ΔΔ[1189] = [];
+      ΔΔ[1189][0] = Ⲇⵠ.ᐃⲆⵠΔΔⵠᐃ;
+      ΔΔ[1189][Gh] = Ⲇⵠ.ΔⵠᐃΔⵠⲆⲆ;
+      ΔΔ[1189][2] = Ⲇⵠ.ⲆⵠΔⵠᐃᐃⵠ;
+      ΔΔ[1191] = ΔΔ[1189];
+      ΔΔ[1190] = ΔΔ[1189];
+      ΔΔ[1110] = [];
+      ΔΔ[1110][ya] = Ⲇⵠ.ⲆΔⵠᐃⵠⲆⲆ;
+      ΔΔ[1110][Xn] = Ⲇⵠ.ⵠⵠΔⵠⵠΔΔ;
+      ΔΔ[1110][H] = Ⲇⵠ.ⲆⲆⵠΔᐃⵠΔ;
+      ΔΔ[1112] = ΔΔ[1110];
+      ΔΔ[1111] = ΔΔ[1110];
+      ΔΔ[1131] = [];
+      ΔΔ[1131][Hi] = Ⲇⵠ.ⵠΔⵠⵠΔⵠᐃⲆΔ;
+      ΔΔ[1131][au] = Ⲇⵠ.ᐃⵠⵠⵠᐃⲆⵠᐃΔ;
+      ΔΔ[1131][Hj] = Ⲇⵠ.ᐃⲆᐃᐃⵠⵠⲆⵠⲆ;
+      ΔΔ[1133] = ΔΔ[1131];
+      ΔΔ[1132] = ΔΔ[1131];
+      ΔΔ[1137] = [];
+      ΔΔ[1137][0] = Ⲇⵠ.ⵠΔⵠᐃⵠΔⵠ;
+      ΔΔ[1137][1] = Ⲇⵠ.ⵠⵠⵠⵠⵠⵠΔ;
+      ΔΔ[1137][xj] = Ⲇⵠ.ⵠⲆⲆⲆᐃⲆᐃ;
+      ΔΔ[1138] = ΔΔ[1137];
+      ΔΔ[1139] = ΔΔ[1137];
+      ΔΔ[1140] = [];
+      ΔΔ[1140][Rq] = Ⲇⵠ.ⲆⲆΔⵠᐃⲆⵠ;
+      ΔΔ[1140][pu] = Ⲇⵠ.ⵠⵠⲆⵠⵠᐃⲆ;
+      ΔΔ[1140][Lt] = Ⲇⵠ.ΔΔⵠΔⵠⲆΔ;
+      ΔΔ[1141] = ΔΔ[1140];
+      ΔΔ[1142] = ΔΔ[1140];
+      ΔΔ[1117] = [];
+      ΔΔ[1117][Hi] = Ⲇⵠ.ⲆⲆᐃⲆⲆⵠᐃ;
+      ΔΔ[1117][zg] = Ⲇⵠ.ΔⲆᐃΔΔΔⲆ;
+      ΔΔ[1117][2] = Ⲇⵠ.ΔⵠᐃⲆΔⲆⲆ;
+      ΔΔ[1116] = ΔΔ[1117];
+      ΔΔ[1118] = ΔΔ[1117];
+      ΔΔ[1080] = [];
+      ΔΔ[1080][eu] = Ⲇⵠ.ΔⲆΔΔⲆⵠⵠ;
+      ΔΔ[1080][1] = Ⲇⵠ.ΔΔⲆⵠᐃⲆⵠ;
+      ΔΔ[1080][2] = Ⲇⵠ.ΔⵠⲆΔⲆⵠΔ;
+      ΔΔ[1082] = ΔΔ[1080];
+      ΔΔ[1081] = ΔΔ[1080];
+      ΔΔ[1224] = [];
+      ΔΔ[1224][Ih] = Ⲇⵠ.ΔⵠⵠⲆΔⵠᐃ;
+      ΔΔ[1224][pu] = Ⲇⵠ.ΔⲆΔⵠⵠᐃΔ;
+      ΔΔ[1224][2] = Ⲇⵠ.ⲆΔⲆⲆⲆⵠᐃ;
+      ΔΔ[1226] = ΔΔ[1224];
+      ΔΔ[1225] = ΔΔ[1224];
+      ΔΔ[1095] = [];
+      ΔΔ[1095][ya] = Ⲇⵠ.ΔⵠᐃΔᐃⲆⵠ;
+      ΔΔ[1095][1] = Ⲇⵠ.ⲆⵠΔⵠⲆⲆΔ;
+      ΔΔ[1095][2] = Ⲇⵠ.ⲆⲆΔⵠΔⲆⵠ;
+      ΔΔ[1097] = ΔΔ[1095];
+      ΔΔ[1096] = ΔΔ[1095];
+      ΔΔ[717] = bu(Xn, [{
         f: Hc,
         x: 0,
         y: 0,
@@ -23798,8 +23798,8 @@
         r: Ih,
         c: ["#e4c027"]
       }], 0.14, ["#3ba578", "#4eb687", "#3da34d"], 0.5);
-      ΔΔ[Xr.ᐃΔΔΔⵠⵠᐃ] = ΔΔ[Xr.ⵠⵠᐃⵠⲆⲆᐃ];
-      ΔΔ[Xr.ᐃⵠⲆΔᐃᐃⵠ] = bu(Tl, [{
+      ΔΔ[718] = ΔΔ[717];
+      ΔΔ[408] = bu(Tl, [{
         f: Nc,
         x: eu,
         y: 0,
@@ -23807,8 +23807,8 @@
         r: Ih,
         c: ["#0d1b1c", "#939393", "#5f6061", "#c0c0c0", "#ffad22", "#fffdd5", "#fee764"]
       }], 0.18, ["#3ba578", "#4eb687", "#3da34d"], 0.5);
-      ΔΔ[Xr.ⲆⲆⵠᐃΔⲆᐃ] = ΔΔ[Xr.ᐃⵠⲆΔᐃᐃⵠ];
-      ΔΔ[Xr.ᐃΔⲆⵠⲆᐃⲆ] = bu(1, [{
+      ΔΔ[409] = ΔΔ[408];
+      ΔΔ[907] = bu(1, [{
         f: Pc,
         x: 0,
         y: mj,
@@ -23816,9 +23816,9 @@
         r: 0,
         c: ["#0d1b1c", "#554139", "#3f332a", "#261912", "#eee6c5", "#d1c599", "#554139", "#3f332a", "#86509b", "#703a99", "#ded4b4", "#d6ceab", "#c796c2", "#bc83b7", "#ffffff", "#87519c", "#703e94", "#3eb67f", "#218f65", "#efe7c5", "#d093c4"]
       }], 0.32, ["#3ba578", "#4eb687", "#3da34d"], 0.5);
-      ΔΔ[Xr.ᐃᐃⵠΔⵠΔᐃ] = ΔΔ[Xr.ᐃΔⲆⵠⲆᐃⲆ];
-      ΔΔ[Xr.ⵠⵠΔᐃⲆΔΔ] = ΔΔ[Xr.ᐃΔⲆⵠⲆᐃⲆ];
-      ΔΔ[Xr.ᐃΔᐃΔⵠⵠΔ] = bu(1, [{
+      ΔΔ[909] = ΔΔ[907];
+      ΔΔ[908] = ΔΔ[907];
+      ΔΔ[197] = bu(1, [{
         f: pd,
         x: os,
         y: Lr,
@@ -23826,8 +23826,8 @@
         r: 0,
         c: ["#0d1b1c", "#c04933", "#a33e2b", "#ee593d", "#c04933"]
       }], 0.17, ["#3ba578", "#4eb687", "#3da34d"], 0.5);
-      ΔΔ[Xr.ΔᐃⵠⵠⲆⵠⲆ] = ΔΔ[Xr.ᐃΔᐃΔⵠⵠΔ];
-      ΔΔ[Xr.ΔⲆⵠᐃᐃᐃⵠ] = bu(1, [{
+      ΔΔ[906] = ΔΔ[197];
+      ΔΔ[901] = bu(1, [{
         f: dm,
         x: 2,
         y: Bb,
@@ -23835,9 +23835,9 @@
         r: Math.PI / kq,
         c: ["#0d1b1c", "#58452b", "#47341d", "#ee593d", "#c04933", "#c04933", "#a33e2b", "#c3be9a", "#7f6d52"]
       }], 0.12, ["#35b1b5", "#46c2c9", "#33b4e4"], 0.5);
-      ΔΔ[Xr.ⲆⲆᐃΔⲆⵠΔ] = ΔΔ[Xr.ΔⲆⵠᐃᐃᐃⵠ];
-      ΔΔ[Xr.ᐃⲆⵠΔΔⲆⵠ] = ΔΔ[Xr.ΔⲆⵠᐃᐃᐃⵠ];
-      ΔΔ[Xr.ΔⲆΔᐃⲆⵠΔ] = bu(Xn, [{
+      ΔΔ[900] = ΔΔ[901];
+      ΔΔ[899] = ΔΔ[901];
+      ΔΔ[401] = bu(Xn, [{
         f: gc,
         x: eh,
         y: 0,
@@ -23845,8 +23845,8 @@
         r: Math.PI / 5,
         c: ["#0d1b1c", "#58452b", "#47341d", "#765d42", "#c3be9a", "#7f6d52"]
       }], 0.12, ["#35b1b5", "#46c2c9", "#33b4e4"], 0.5);
-      ΔΔ[Xr.ᐃᐃⵠⵠⲆΔΔ] = ΔΔ[Xr.ΔⲆΔᐃⲆⵠΔ];
-      ΔΔ[Xr.ⵠⵠΔΔΔΔⲆ] = bu(Wl, [{
+      ΔΔ[402] = ΔΔ[401];
+      ΔΔ[395] = bu(Wl, [{
         f: uc,
         x: xj,
         y: 0,
@@ -23854,8 +23854,8 @@
         r: Math.PI / Qu,
         c: ["#0d1b1c", "#4d2d14", "#432516", "#c3be9a", "#7f6d52", "#7a7575", "#454749", "#8c8787", "#939393", "#5f6061", "#aaa6a6"]
       }], 0.12, ["#35b1b5", "#46c2c9", "#33b4e4"], 0.5);
-      ΔΔ[Xr.ΔⵠⵠᐃᐃΔᐃ] = ΔΔ[Xr.ⵠⵠΔΔΔΔⲆ];
-      ΔΔ[Xr.ⵠⲆⵠΔⲆⵠᐃ] = bu(pu, [{
+      ΔΔ[396] = ΔΔ[395];
+      ΔΔ[398] = bu(pu, [{
         f: Lc,
         x: as,
         y: 0,
@@ -23863,8 +23863,8 @@
         r: Math.PI / Hh,
         c: ["#0d1b1c", "#493e26", "#382e19", "#a69e39", "#9c8828", "#bab143", "#c4bc51", "#b29c32", "#d2ca59"]
       }], 0.12, ["#35b1b5", "#46c2c9", "#33b4e4"], 0.5);
-      ΔΔ[Xr.ᐃⲆⲆᐃⲆΔⲆ] = ΔΔ[Xr.ⵠⲆⵠΔⲆⵠᐃ];
-      ΔΔ[Xr.ᐃᐃᐃⵠΔᐃΔ] = bu(zg, [{
+      ΔΔ[399] = ΔΔ[398];
+      ΔΔ[404] = bu(zg, [{
         f: vd,
         x: 2,
         y: Bb,
@@ -23872,8 +23872,8 @@
         r: Math.PI / ib,
         c: ["#0d1b1c", "#262114", "#211108", "#4ba8b4", "#198a82", "#6ccad7", "#63c9d6", "#29aaa1", "#7bd9e6"]
       }], 0.12, ["#35b1b5", "#46c2c9", "#33b4e4"], 0.5);
-      ΔΔ[Xr.ΔⵠᐃΔⲆⵠⵠ] = ΔΔ[Xr.ᐃᐃᐃⵠΔᐃΔ];
-      ΔΔ[Xr.ⵠΔⵠⲆᐃⲆᐃ] = bu(sd, [{
+      ΔΔ[405] = ΔΔ[404];
+      ΔΔ[472] = bu(sd, [{
         f: Gd,
         x: Pn,
         y: st,
@@ -23881,8 +23881,8 @@
         r: Math.PI / 5,
         c: ["#0d1b1c", "#262114", "#211108", "#9443b1", "#6f1988", "#a752c6", "#9e35be", "#8c29aa", "#b864d6"]
       }], 0.12, ["#35b1b5", "#46c2c9", "#33b4e4"], 0.5);
-      ΔΔ[Xr.ⲆΔⵠΔⲆᐃⵠ] = ΔΔ[Xr.ⵠΔⵠⲆᐃⲆᐃ];
-      ΔΔ[Xr.ⵠⲆΔⵠⲆⲆᐃ] = bu(sd, [{
+      ΔΔ[473] = ΔΔ[472];
+      ΔΔ[874] = bu(sd, [{
         f: Gc,
         x: rs,
         y: mj,
@@ -23890,9 +23890,9 @@
         r: Math.PI / 5,
         c: ["#0d1b1c", "#1e2b34", "#151c24", "#99d7dd", "#7dcbd1", "#c6e8eb", "#aadee8", "#b7e2e5"]
       }], 0.38, ["#35b1b5", "#46c2c9", "#33b4e4"], 0.5);
-      ΔΔ[Xr.ⵠΔⲆⲆΔᐃⲆ] = ΔΔ[Xr.ⵠⲆΔⵠⲆⲆᐃ];
-      ΔΔ[Xr.ⵠᐃᐃⲆⵠⲆⲆ] = ΔΔ[Xr.ⵠⲆΔⵠⲆⲆᐃ];
-      ΔΔ[Xr.ΔᐃᐃᐃΔⵠΔ] = bu(1, [{
+      ΔΔ[876] = ΔΔ[874];
+      ΔΔ[875] = ΔΔ[874];
+      ΔΔ[477] = bu(1, [{
         f: oc,
         x: H,
         y: mj,
@@ -23900,8 +23900,8 @@
         r: Math.PI / ta,
         c: ["#0d1b1c", "#4d2d14", "#432516", "#939393", "#5f6061"]
       }], 0.52, ["#35b1b5", "#46c2c9", "#33b4e4"], 0.5);
-      ΔΔ[Xr.ᐃΔᐃΔⵠᐃΔ] = ΔΔ[Xr.ΔᐃᐃᐃΔⵠΔ];
-      ΔΔ[Xr.ⲆΔᐃⵠΔᐃᐃ] = bu(pu, [{
+      ΔΔ[478] = ΔΔ[477];
+      ΔΔ[709] = bu(pu, [{
         f: hm,
         x: Mg,
         y: Lr,
@@ -23909,8 +23909,8 @@
         r: Math.PI / mb,
         c: ["#0d1b1c", "#939393", "#5f6061"]
       }], 0.3, ["#35b1b5", "#46c2c9", "#33b4e4"], 0.5);
-      ΔΔ[Xr.ⵠⵠⲆΔΔᐃᐃ] = ΔΔ[Xr.ⲆΔᐃⵠΔᐃᐃ];
-      ΔΔ[Xr.ᐃⲆⲆΔᐃΔⵠ] = bu(pu, [{
+      ΔΔ[711] = ΔΔ[709];
+      ΔΔ[550] = bu(pu, [{
         f: hc,
         x: 2,
         y: wg,
@@ -23918,8 +23918,8 @@
         r: Math.PI / 5,
         c: ["#0d1b1c", "#9b5927", "#7a3610", "#1e0302", "#0d825b", "#6bd16e", "#17915d", "#89e5aa", "#16935d", "#a0efc4", "#28b26d", "#cdf4cb", "#42cc90"]
       }], 0.52, ["#35b1b5", "#46c2c9", "#33b4e4"], 0.5);
-      ΔΔ[Xr.ⵠⲆᐃⲆΔⲆⲆ] = ΔΔ[Xr.ᐃⲆⲆΔᐃΔⵠ];
-      ΔΔ[Xr.ΔᐃⵠⵠΔⲆΔ] = bu(mk, [{
+      ΔΔ[551] = ΔΔ[550];
+      ΔΔ[480] = bu(mk, [{
         f: oc,
         x: rs,
         y: 0,
@@ -23927,8 +23927,8 @@
         r: Math.PI / Oj,
         c: ["#0d1b1c", "#493e26", "#382e19", "#c4bc51", "#b29c32"]
       }], 0.52, ["#35b1b5", "#46c2c9", "#33b4e4"], 0.5);
-      ΔΔ[Xr.ΔⵠΔⵠᐃΔΔ] = ΔΔ[Xr.ΔᐃⵠⵠΔⲆΔ];
-      ΔΔ[Xr.ᐃⲆⲆⵠᐃᐃⲆ] = bu(1, [{
+      ΔΔ[481] = ΔΔ[480];
+      ΔΔ[483] = bu(1, [{
         f: oc,
         x: Lt,
         y: 0,
@@ -23936,8 +23936,8 @@
         r: Math.PI / z,
         c: ["#0d1b1c", "#262114", "#211108", "#63c9d6", "#29aaa1"]
       }], 0.52, ["#35b1b5", "#46c2c9", "#33b4e4"], 0.5);
-      ΔΔ[Xr.ᐃⵠΔᐃⵠⵠΔ] = ΔΔ[Xr.ᐃⲆⲆⵠᐃᐃⲆ];
-      ΔΔ[Xr.ⲆᐃⵠⵠΔⵠΔ] = bu(zs, [{
+      ΔΔ[484] = ΔΔ[483];
+      ΔΔ[486] = bu(zs, [{
         f: oc,
         x: Hj,
         y: fl,
@@ -23945,50 +23945,50 @@
         r: Math.PI / hl,
         c: ["#0d1b1c", "#262114", "#211108", "#b864d6", "#8c29aa"]
       }], 0.52, ["#35b1b5", "#46c2c9", "#33b4e4"], 0.5);
-      ΔΔ[Xr.ⲆⲆⵠᐃΔⲆΔ] = ΔΔ[Xr.ⲆᐃⵠⵠΔⵠΔ];
-      ΔΔ[Xr.ᐃΔΔⲆᐃᐃⵠ] = [];
-      ΔΔ[Xr.ᐃΔΔⲆᐃᐃⵠ][Mg] = Ⲇⵠ.ΔⲆⵠⲆΔᐃΔ;
-      ΔΔ[Xr.ᐃΔΔⲆᐃᐃⵠ][ie] = Ⲇⵠ.ⵠⲆᐃΔᐃᐃΔ;
-      ΔΔ[Xr.ᐃΔΔⲆᐃᐃⵠ][2] = Ⲇⵠ.ᐃⲆⵠⵠⲆⲆΔ;
-      ΔΔ[Xr.ⲆᐃⵠⲆΔΔⵠ] = ΔΔ[Xr.ᐃΔΔⲆᐃᐃⵠ];
-      ΔΔ[Xr.ⵠⵠᐃⵠΔᐃⲆ] = ΔΔ[Xr.ᐃΔΔⲆᐃᐃⵠ];
-      ΔΔ[Xr.ᐃⵠᐃⵠⲆⵠⵠ] = [];
-      ΔΔ[Xr.ᐃⵠᐃⵠⲆⵠⵠ][Yh] = Ⲇⵠ.ΔΔᐃⵠᐃⲆΔ;
-      ΔΔ[Xr.ᐃⵠᐃⵠⲆⵠⵠ][Oq] = Ⲇⵠ.ⲆΔᐃⲆΔΔⲆ;
-      ΔΔ[Xr.ᐃⵠᐃⵠⲆⵠⵠ][Rl] = Ⲇⵠ.Ⲇⵠᐃᐃᐃᐃᐃ;
-      ΔΔ[Xr.ⵠΔⵠᐃⵠⲆᐃ] = ΔΔ[Xr.ᐃⵠᐃⵠⲆⵠⵠ];
-      ΔΔ[Xr.ⵠⲆΔⲆⲆΔⵠ] = ΔΔ[Xr.ᐃⵠᐃⵠⲆⵠⵠ];
-      ΔΔ[Xr.ᐃⵠΔⵠⵠΔⲆ] = [];
-      ΔΔ[Xr.ᐃⵠΔⵠⵠΔⲆ][0] = Ⲇⵠ.ΔᐃᐃΔⵠᐃΔ;
-      ΔΔ[Xr.ᐃⵠΔⵠⵠΔⲆ][1] = Ⲇⵠ.ⵠΔΔⵠΔΔᐃ;
-      ΔΔ[Xr.ᐃⵠΔⵠⵠΔⲆ][2] = Ⲇⵠ.ⵠᐃⲆⵠΔⵠⲆ;
-      ΔΔ[Xr.ⵠⵠⲆΔΔᐃⵠ] = ΔΔ[Xr.ᐃⵠΔⵠⵠΔⲆ];
-      ΔΔ[Xr.ⵠᐃΔⲆΔⲆⵠ] = ΔΔ[Xr.ᐃⵠΔⵠⵠΔⲆ];
-      ΔΔ[Xr.ⵠⵠⲆᐃⵠᐃⲆ] = [];
-      ΔΔ[Xr.ⵠⵠⲆᐃⵠᐃⲆ][Bb] = Ⲇⵠ.ᐃⵠΔΔⵠᐃⲆ;
-      ΔΔ[Xr.ⵠⵠⲆᐃⵠᐃⲆ][mk] = Ⲇⵠ.ⵠⵠᐃⲆⵠᐃⲆ;
-      ΔΔ[Xr.ⵠⵠⲆᐃⵠᐃⲆ][2] = Ⲇⵠ.ⲆΔⵠᐃᐃⵠᐃ;
-      ΔΔ[Xr.ᐃᐃⵠᐃᐃΔᐃ] = ΔΔ[Xr.ⵠⵠⲆᐃⵠᐃⲆ];
-      ΔΔ[Xr.ᐃⵠⲆⵠⲆᐃΔ] = ΔΔ[Xr.ⵠⵠⲆᐃⵠᐃⲆ];
-      ΔΔ[Xr.ⵠⵠᐃΔⲆⵠᐃ] = [];
-      ΔΔ[Xr.ⵠⵠᐃΔⲆⵠᐃ][Zj] = Ⲇⵠ.ΔⵠΔᐃᐃⲆᐃ;
-      ΔΔ[Xr.ⵠⵠᐃΔⲆⵠᐃ][1] = Ⲇⵠ.ᐃⵠΔⲆⲆⲆⲆ;
-      ΔΔ[Xr.ⵠⵠᐃΔⲆⵠᐃ][2] = Ⲇⵠ.ᐃⵠᐃᐃᐃΔⵠ;
-      ΔΔ[Xr.ᐃᐃΔⲆᐃᐃⲆ] = ΔΔ[Xr.ⵠⵠᐃΔⲆⵠᐃ];
-      ΔΔ[Xr.ᐃᐃΔⵠΔⵠᐃ] = ΔΔ[Xr.ⵠⵠᐃΔⲆⵠᐃ];
-      ΔΔ[Xr.ᐃΔⲆᐃΔⲆᐃ] = [];
-      ΔΔ[Xr.ᐃΔⲆᐃΔⲆᐃ][Lr] = Ⲇⵠ.ⵠΔᐃⲆᐃΔᐃ;
-      ΔΔ[Xr.ᐃΔⲆᐃΔⲆᐃ][sd] = Ⲇⵠ.ΔΔΔⵠⲆΔᐃ;
-      ΔΔ[Xr.ᐃΔⲆᐃΔⲆᐃ][Rl] = Ⲇⵠ.ᐃⲆⲆᐃᐃᐃᐃ;
-      ΔΔ[Xr.ⲆⲆⵠᐃΔΔᐃ] = ΔΔ[Xr.ᐃΔⲆᐃΔⲆᐃ];
-      ΔΔ[Xr.ⵠΔⲆΔⲆⲆᐃ] = ΔΔ[Xr.ᐃΔⲆᐃΔⲆᐃ];
-      ΔΔ[Xr.ⵠΔⲆᐃⵠⵠΔ] = [];
-      ΔΔ[Xr.ⵠΔⲆᐃⵠⵠΔ][wj] = Ⲇⵠ.ⵠᐃⲆᐃᐃΔⲆ;
-      ΔΔ[Xr.ⵠΔⲆᐃⵠⵠΔ][Hg] = Ⲇⵠ.ΔⲆΔΔᐃΔⵠ;
-      ΔΔ[Xr.ⵠΔⲆᐃⵠⵠΔ][Ug] = Ⲇⵠ.ᐃᐃᐃⵠⵠⲆΔ;
-      ΔΔ[Xr.ΔᐃᐃᐃᐃⲆⲆ] = ΔΔ[Xr.ⵠΔⲆᐃⵠⵠΔ];
-      ΔΔ[Xr.ᐃⵠⲆⲆΔⲆⲆ] = ΔΔ[Xr.ⵠΔⲆᐃⵠⵠΔ];
-      ΔΔ[Xr.ΔᐃⲆⵠΔΔⵠ] = bu(Tl, [{
+      ΔΔ[487] = ΔΔ[486];
+      ΔΔ[489] = [];
+      ΔΔ[489][Mg] = Ⲇⵠ.ΔⲆⵠⲆΔᐃΔ;
+      ΔΔ[489][ie] = Ⲇⵠ.ⵠⲆᐃΔᐃᐃΔ;
+      ΔΔ[489][2] = Ⲇⵠ.ᐃⲆⵠⵠⲆⲆΔ;
+      ΔΔ[491] = ΔΔ[489];
+      ΔΔ[490] = ΔΔ[489];
+      ΔΔ[1195] = [];
+      ΔΔ[1195][Yh] = Ⲇⵠ.ΔΔᐃⵠᐃⲆΔ;
+      ΔΔ[1195][Oq] = Ⲇⵠ.ⲆΔᐃⲆΔΔⲆ;
+      ΔΔ[1195][Rl] = Ⲇⵠ.Ⲇⵠᐃᐃᐃᐃᐃ;
+      ΔΔ[1197] = ΔΔ[1195];
+      ΔΔ[1196] = ΔΔ[1195];
+      ΔΔ[1199] = [];
+      ΔΔ[1199][0] = Ⲇⵠ.ΔᐃᐃΔⵠᐃΔ;
+      ΔΔ[1199][1] = Ⲇⵠ.ⵠΔΔⵠΔΔᐃ;
+      ΔΔ[1199][2] = Ⲇⵠ.ⵠᐃⲆⵠΔⵠⲆ;
+      ΔΔ[1201] = ΔΔ[1199];
+      ΔΔ[1200] = ΔΔ[1199];
+      ΔΔ[1203] = [];
+      ΔΔ[1203][Bb] = Ⲇⵠ.ᐃⵠΔΔⵠᐃⲆ;
+      ΔΔ[1203][mk] = Ⲇⵠ.ⵠⵠᐃⲆⵠᐃⲆ;
+      ΔΔ[1203][2] = Ⲇⵠ.ⲆΔⵠᐃᐃⵠᐃ;
+      ΔΔ[1205] = ΔΔ[1203];
+      ΔΔ[1204] = ΔΔ[1203];
+      ΔΔ[1207] = [];
+      ΔΔ[1207][Zj] = Ⲇⵠ.ΔⵠΔᐃᐃⲆᐃ;
+      ΔΔ[1207][1] = Ⲇⵠ.ᐃⵠΔⲆⲆⲆⲆ;
+      ΔΔ[1207][2] = Ⲇⵠ.ᐃⵠᐃᐃᐃΔⵠ;
+      ΔΔ[1209] = ΔΔ[1207];
+      ΔΔ[1208] = ΔΔ[1207];
+      ΔΔ[1211] = [];
+      ΔΔ[1211][Lr] = Ⲇⵠ.ⵠΔᐃⲆᐃΔᐃ;
+      ΔΔ[1211][sd] = Ⲇⵠ.ΔΔΔⵠⲆΔᐃ;
+      ΔΔ[1211][Rl] = Ⲇⵠ.ᐃⲆⲆᐃᐃᐃᐃ;
+      ΔΔ[1213] = ΔΔ[1211];
+      ΔΔ[1212] = ΔΔ[1211];
+      ΔΔ[1215] = [];
+      ΔΔ[1215][wj] = Ⲇⵠ.ⵠᐃⲆᐃᐃΔⲆ;
+      ΔΔ[1215][Hg] = Ⲇⵠ.ΔⲆΔΔᐃΔⵠ;
+      ΔΔ[1215][Ug] = Ⲇⵠ.ᐃᐃᐃⵠⵠⲆΔ;
+      ΔΔ[1217] = ΔΔ[1215];
+      ΔΔ[1216] = ΔΔ[1215];
+      ΔΔ[518] = bu(Tl, [{
         f: Zc,
         x: -2,
         y: -2,
@@ -23996,8 +23996,8 @@
         r: 0,
         c: ["#141414", "#816511", "#c4a23a", "#3a3a3a"]
       }], 0.8, ["#2b5c48", "#2b5c48", "#2b5c48"], 0.5);
-      ΔΔ[Xr.ⲆΔᐃΔⵠΔⲆ] = ΔΔ[Xr.ΔᐃⲆⵠΔΔⵠ];
-      ΔΔ[Xr.ⵠⲆΔΔⵠᐃΔ] = bu(zg, [{
+      ΔΔ[519] = ΔΔ[518];
+      ΔΔ[532] = bu(zg, [{
         f: zm,
         x: -2,
         y: -2,
@@ -24005,8 +24005,8 @@
         r: -Math.PI / q,
         c: ["#141414", "#c4a23a", "#816511"]
       }], 0.08, ["#2b5c48", "#2b5c48", "#2b5c48"], 0.5);
-      ΔΔ[Xr.ⵠⵠⵠΔΔⵠⲆ] = ΔΔ[Xr.ⵠⲆΔΔⵠᐃΔ];
-      ΔΔ[Xr.ᐃᐃᐃⲆᐃⲆⲆ] = bu(pu, [{
+      ΔΔ[533] = ΔΔ[532];
+      ΔΔ[521] = bu(pu, [{
         f: md,
         x: -2,
         y: -lr,
@@ -24014,7 +24014,7 @@
         r: 0,
         c: ["#141414", "#178a99", "#0a6372", "#03282e"]
       }], 0.3, ["#2b5c48", "#2b5c48", "#2b5c48"], 0.7);
-      ΔΔ[Xr.ΔΔΔΔⵠⲆⲆ] = bu(Tl, [{
+      ΔΔ[523] = bu(Tl, [{
         f: md,
         x: -2,
         y: -2,
@@ -24022,7 +24022,7 @@
         r: Lr,
         c: ["#120202", "#991616", "#750a0a", "#120202"]
       }], 0.3, ["#2b5c48", "#2b5c48", "#2b5c48"], 0.7);
-      ΔΔ[Xr.ⵠⵠⵠΔⵠⲆⲆ] = bu(hb, [{
+      ΔΔ[529] = bu(hb, [{
         f: xd,
         x: os,
         y: 0,
@@ -24051,8 +24051,8 @@
         r: In,
         c: ["#a9e4ed", "#86d4e0", "#418ba5", "#59b8ce"]
       }], 0.3, ["#3ba578", "#4eb687", "#3da34d"], 0.5);
-      ΔΔ[Xr.ⵠΔΔΔⵠᐃⵠ] = ΔΔ[Xr.ⵠⵠⵠΔⵠⲆⲆ];
-      ΔΔ[Xr.ᐃΔΔᐃΔΔΔ] = bu(1, [{
+      ΔΔ[530] = ΔΔ[529];
+      ΔΔ[553] = bu(1, [{
         f: Ld,
         x: 45,
         y: 70,
@@ -24060,8 +24060,8 @@
         r: 0,
         c: ["#0d1b1c", "#4c3a15", "#634828", "#564021"]
       }], 0.6, ["#3ba578", "#4eb687", "#3da34d"], 0.5);
-      ΔΔ[Xr.ⲆᐃΔⲆⵠⵠᐃ] = ΔΔ[Xr.ᐃΔΔᐃΔΔΔ];
-      ΔΔ[Xr.ⵠⲆⵠᐃΔⲆΔ] = bu(za, [{
+      ΔΔ[555] = ΔΔ[553];
+      ΔΔ[541] = bu(za, [{
         f: om,
         x: 0,
         y: eu,
@@ -24069,8 +24069,8 @@
         r: Yh,
         c: ["#0d1b1c", "#8c55b7", "#652d8e", "#79359e", "#5eccd1", "#4badad", "#9e6ac6"]
       }], 0.52, ["#35b1b5", "#46c2c9", "#33b4e4"], 0.5);
-      ΔΔ[Xr.Ⲇⵠᐃᐃᐃᐃⵠ] = ΔΔ[Xr.ⵠⲆⵠᐃΔⲆΔ];
-      ΔΔ[Xr.ΔⵠΔⵠⵠⵠΔ] = bu(Te, [{
+      ΔΔ[542] = ΔΔ[541];
+      ΔΔ[779] = bu(Te, [{
         f: Xd,
         x: eu,
         y: 0,
@@ -24078,8 +24078,8 @@
         r: mj,
         c: ["#2a2938", "#242330", "#313041", "#1b1a25"]
       }], 0.12, ["#35b1b5", "#46c2c9", "#33b4e4"], 0.5);
-      ΔΔ[Xr.ΔⲆⵠⵠᐃΔᐃ] = ΔΔ[Xr.ΔⵠΔⵠⵠⵠΔ];
-      ΔΔ[Xr.ᐃᐃΔᐃⲆⵠⲆ] = bu(Hg, [{
+      ΔΔ[780] = ΔΔ[779];
+      ΔΔ[767] = bu(Hg, [{
         f: pc,
         x: Bb,
         y: 0,
@@ -24087,8 +24087,8 @@
         r: 0,
         c: ["#2a2938", "#242330", "#313041"]
       }], 0.25, ["#35b1b5", "#46c2c9", "#33b4e4"], 0.5);
-      ΔΔ[Xr.ΔΔᐃᐃⵠⲆΔ] = ΔΔ[Xr.ᐃᐃΔᐃⲆⵠⲆ];
-      ΔΔ[Xr.ᐃⲆⲆᐃⲆᐃᐃ] = bu(1, [{
+      ΔΔ[768] = ΔΔ[767];
+      ΔΔ[776] = bu(1, [{
         f: Wc,
         x: ya,
         y: 3,
@@ -24096,8 +24096,8 @@
         r: eu,
         c: ["#1d1d22", "#e2e1e1", "#d2cbcb", "#cfcbc8", "#beb5b5", "#ada0a0"]
       }], 0.39, ["#35b1b5", "#46c2c9", "#33b4e4"], 0.5);
-      ΔΔ[Xr.ⲆᐃⲆᐃΔⲆⵠ] = ΔΔ[Xr.ᐃⲆⲆᐃⲆᐃᐃ];
-      ΔΔ[Xr.ⵠᐃᐃⵠⵠΔⲆ] = bu(1, [{
+      ΔΔ[777] = ΔΔ[776];
+      ΔΔ[771] = bu(1, [{
         f: Wc,
         x: 0,
         y: 3,
@@ -24105,8 +24105,8 @@
         r: 0,
         c: ["#1d1d22", "#8c7654", "#785f4c", "#a88e6c", "#785f4c", "#705845"]
       }], 0.39, ["#35b1b5", "#46c2c9", "#33b4e4"], 0.5);
-      ΔΔ[Xr.ⵠᐃΔᐃᐃᐃΔ] = ΔΔ[Xr.ⵠᐃᐃⵠⵠΔⲆ];
-      ΔΔ[Xr.ⲆΔΔΔΔⵠᐃ] = bu(1, [{
+      ΔΔ[772] = ΔΔ[771];
+      ΔΔ[756] = bu(1, [{
         f: ud,
         x: 0,
         y: lg,
@@ -24114,8 +24114,8 @@
         r: ya,
         c: ["#0d1b1c", "#A5A244", "#D8DC74", "#C0BF55", "#49B669", "#19994C", "#71C187"]
       }], 0.15, ["#35b1b5", "#46c2c9", "#33b4e4"], 0.5);
-      ΔΔ[Xr.ⵠⵠᐃⲆΔⲆᐃ] = ΔΔ[Xr.ⲆΔΔΔΔⵠᐃ];
-      ΔΔ[Xr.ⵠⵠΔᐃᐃⲆⵠ] = bu(1, [{
+      ΔΔ[758] = ΔΔ[756];
+      ΔΔ[760] = bu(1, [{
         f: ud,
         x: Qs,
         y: 10,
@@ -24123,8 +24123,8 @@
         r: st,
         c: ["#0d1b1c", "#A5A244", "#D8DC74", "#C0BF55", "#C45727", "#994617", "#DB9358"]
       }], 0.15, ["#35b1b5", "#46c2c9", "#33b4e4"], 0.5);
-      ΔΔ[Xr.ⲆⲆⲆᐃΔΔⵠ] = ΔΔ[Xr.ⵠⵠΔᐃᐃⲆⵠ];
-      ΔΔ[Xr.ΔᐃⵠᐃⲆⵠⲆ] = bu(sd, [{
+      ΔΔ[762] = ΔΔ[760];
+      ΔΔ[764] = bu(sd, [{
         f: ud,
         x: In,
         y: 10,
@@ -24132,8 +24132,8 @@
         r: ya,
         c: ["#0d1b1c", "#A5A244", "#D8DC74", "#C0BF55", "#2792C1", "#196599", "#59C0D8"]
       }], 0.15, ["#35b1b5", "#46c2c9", "#33b4e4"], 0.5);
-      ΔΔ[Xr.ᐃⵠⲆΔⵠⲆⲆ] = ΔΔ[Xr.ΔᐃⵠᐃⲆⵠⲆ];
-      ΔΔ[Xr.ⵠⲆⵠΔⵠⲆⲆ] = bu(Gh, [{
+      ΔΔ[770] = ΔΔ[764];
+      ΔΔ[910] = bu(Gh, [{
         f: Jd,
         x: -1,
         y: mj,
@@ -24141,9 +24141,9 @@
         r: Mg,
         c: ["#000000", "#b03431", "#94312d", "#bd3c33", "#de5445"]
       }], 0.15, ["#35b1b5", "#46c2c9", "#33b4e4"], 0.5);
-      ΔΔ[Xr.ⲆᐃᐃᐃΔΔⲆ] = ΔΔ[Xr.ⵠⲆⵠΔⵠⲆⲆ];
-      ΔΔ[Xr.ⲆⵠᐃⲆΔΔⵠ] = ΔΔ[Xr.ⵠⲆⵠΔⵠⲆⲆ];
-      ΔΔ[Xr.ᐃⲆⵠΔΔⵠⵠ] = bu(Gh, [{
+      ΔΔ[912] = ΔΔ[910];
+      ΔΔ[911] = ΔΔ[910];
+      ΔΔ[732] = bu(Gh, [{
         f: wc,
         x: 0,
         y: Lr,
@@ -24151,8 +24151,8 @@
         r: 0,
         c: ["#0d1b1c", "#cae9eb", "#75bcae", "#ffffff", "#51736d", "#2b4d48", "#1b3a3a", "#80ccca", "#59ada7"]
       }], 0.2, ["#35b1b5", "#46c2c9", "#33b4e4"], 0.5);
-      ΔΔ[Xr.ⵠᐃⲆΔΔΔⲆ] = ΔΔ[Xr.ᐃⲆⵠΔΔⵠⵠ];
-      ΔΔ[Xr.ⵠⲆⵠᐃⵠΔⵠ] = bu(1, [{
+      ΔΔ[734] = ΔΔ[732];
+      ΔΔ[563] = bu(1, [{
         f: Uc,
         x: 0,
         y: Hi,
@@ -24160,8 +24160,8 @@
         r: Math.PI / Zg,
         c: ["#0d1b1c", "#284c4a", "#193533", "#c7efef", "#7fccca"]
       }], 0.75, ["#35b1b5", "#46c2c9", "#33b4e4"], 0.5);
-      ΔΔ[Xr.ⵠΔⲆⵠΔⵠⲆ] = ΔΔ[Xr.ⵠⲆⵠᐃⵠΔⵠ];
-      ΔΔ[Xr.ᐃᐃⵠᐃⲆΔⲆ] = bu(Te, [{
+      ΔΔ[564] = ΔΔ[563];
+      ΔΔ[751] = bu(Te, [{
         f: gm,
         x: st,
         y: 0,
@@ -24169,7 +24169,7 @@
         r: 0,
         c: ["#44bae0", "#9fdae9", "#7dd1ea", "#c6e8ef"]
       }], 0.55, ["#2b5c48", "#2b5c48", "#2b5c48"], 0.5);
-      ΔΔ[Xr.ᐃᐃᐃΔⵠΔᐃ] = bu(wt, [{
+      ΔΔ[252] = bu(wt, [{
         f: Ic,
         x: Hi,
         y: wg,
@@ -24177,7 +24177,7 @@
         r: Mg,
         c: ["#44bae0", "#9fdae9", "#7dd1ea", "#c6e8ef"]
       }], 0.55, ["#2b5c48", "#2b5c48", "#2b5c48"], 0.5);
-      ΔΔ[Xr.ΔⵠᐃᐃⲆᐃⵠ] = bu(1, [{
+      ΔΔ[753] = bu(1, [{
         f: gm,
         x: 0,
         y: 0,
@@ -24185,7 +24185,7 @@
         r: st,
         c: ["#e04444", "#e99f9f", "#eb7e7e", "#eec6c6"]
       }], 0.55, ["#2b5c48", "#2b5c48", "#2b5c48"], 0.5);
-      ΔΔ[Xr.ᐃᐃᐃⲆⲆᐃΔ] = bu(Xn, [{
+      ΔΔ[253] = bu(Xn, [{
         f: Ic,
         x: 0,
         y: 0,
@@ -24193,7 +24193,7 @@
         r: 0,
         c: ["#e04444", "#e99f9f", "#eb7e7e", "#eec6c6"]
       }], 0.55, ["#2b5c48", "#2b5c48", "#2b5c48"], 0.5);
-      ΔΔ[Xr.ᐃⵠⵠⲆΔΔⲆ] = bu(1, [{
+      ΔΔ[176] = bu(1, [{
         f: vm,
         x: 0,
         y: wj,
@@ -24201,7 +24201,7 @@
         r: 0,
         c: ["#59ba72", "#94d966", "#5aa628", "#0d1b1c", "#38874d"]
       }], 0.35, ["#2b5c48", "#2b5c48", "#2b5c48"], 0.5);
-      ΔΔ[Xr.ⵠΔᐃⲆᐃΔΔ] = bu($b, [{
+      ΔΔ[177] = bu($b, [{
         f: vm,
         x: Yh,
         y: ya,
@@ -24209,7 +24209,7 @@
         r: 0,
         c: ["#C45727", "#de7d46", "#DB9358", "#0d1b1c", "#994617"]
       }], 0.35, ["#2b5c48", "#2b5c48", "#2b5c48"], 0.5);
-      ΔΔ[Xr.ⲆⵠⲆⵠⲆⲆᐃ] = bu(zs, [{
+      ΔΔ[175] = bu(zs, [{
         f: vm,
         x: os,
         y: Hi,
@@ -24217,7 +24217,7 @@
         r: 0,
         c: ["#3a9dbd", "#59C0D8", "#48abcb", "#0d1b1c", "#196599"]
       }], 0.35, ["#2b5c48", "#2b5c48", "#2b5c48"], 0.5);
-      ΔΔ[Xr.ᐃΔΔⵠΔᐃⲆ] = bu(1, [{
+      ΔΔ[616] = bu(1, [{
         f: nm,
         x: os,
         y: 0,
@@ -24225,8 +24225,8 @@
         r: Math.PI / Eq,
         c: ["#0d1b1c", "#6d5041", "#4f3d35", "#939393", "#5f6061", "#757575"]
       }], 0.45, ["#35b1b5", "#46c2c9", "#33b4e4"], 0.5);
-      ΔΔ[Xr.ᐃⵠⲆΔᐃⲆᐃ] = ΔΔ[Xr.ᐃΔΔⵠΔᐃⲆ];
-      ΔΔ[Xr.ⲆΔΔᐃᐃᐃⵠ] = bu(1, [{
+      ΔΔ[618] = ΔΔ[616];
+      ΔΔ[699] = bu(1, [{
         f: nm,
         x: Yh,
         y: 0,
@@ -24234,8 +24234,8 @@
         r: Math.PI / 5,
         c: ["#0d1b1c", "#493e26", "#382e19", "#c4bc51", "#b29c32", "#b4ac45"]
       }], 0.45, ["#35b1b5", "#46c2c9", "#33b4e4"], 0.5);
-      ΔΔ[Xr.ΔᐃᐃⵠⲆΔⵠ] = ΔΔ[Xr.ⲆΔΔᐃᐃᐃⵠ];
-      ΔΔ[Xr.ⲆΔⵠΔⵠⲆⲆ] = bu(wt, [{
+      ΔΔ[700] = ΔΔ[699];
+      ΔΔ[702] = bu(wt, [{
         f: nm,
         x: mj,
         y: ya,
@@ -24243,8 +24243,8 @@
         r: Math.PI / Qu,
         c: ["#0d1b1c", "#262114", "#211108", "#63c9d6", "#29aaa1", "#42aab8"]
       }], 0.45, ["#35b1b5", "#46c2c9", "#33b4e4"], 0.5);
-      ΔΔ[Xr.ⲆᐃⵠᐃΔⲆⵠ] = ΔΔ[Xr.ⲆΔⵠΔⵠⲆⲆ];
-      ΔΔ[Xr.ⲆΔⵠⲆΔΔⵠ] = bu(1, [{
+      ΔΔ[704] = ΔΔ[702];
+      ΔΔ[705] = bu(1, [{
         f: nm,
         x: ya,
         y: ig,
@@ -24252,8 +24252,8 @@
         r: Math.PI / M,
         c: ["#0d1b1c", "#262114", "#211108", "#b864d6", "#8c29aa", "#a853c7"]
       }], 0.45, ["#35b1b5", "#46c2c9", "#33b4e4"], 0.5);
-      ΔΔ[Xr.ⲆᐃⵠⲆΔᐃᐃ] = ΔΔ[Xr.ⲆΔⵠⲆΔΔⵠ];
-      ΔΔ[Xr.ⲆⵠΔΔⵠⵠΔ] = bu(Tl, [{
+      ΔΔ[706] = ΔΔ[705];
+      ΔΔ[420] = bu(Tl, [{
         f: vc,
         x: 0,
         y: mj,
@@ -24261,8 +24261,8 @@
         r: eu,
         c: ["#c9a65f", "#ae863f", "#655530", "#4a391c", "#ebdd79", "#4a421c"]
       }], 0.35, ["#35b1b5", "#46c2c9", "#33b4e4"], 0.5);
-      ΔΔ[Xr.ⲆⲆⵠⵠⲆⲆᐃ] = ΔΔ[Xr.ⲆⵠΔΔⵠⵠΔ];
-      ΔΔ[Xr.ᐃⲆᐃΔⵠⵠⵠ] = bu(1, [{
+      ΔΔ[421] = ΔΔ[420];
+      ΔΔ[826] = bu(1, [{
         f: Bc,
         x: 0,
         y: 0,
@@ -24270,8 +24270,8 @@
         r: mj,
         c: ["#252525", "#73583e", "#493425", "#7d6144"]
       }], 0.35, ["#35b1b5", "#46c2c9", "#33b4e4"], 0.5);
-      ΔΔ[Xr.ⵠⲆΔᐃⲆⲆⲆ] = ΔΔ[Xr.ᐃⲆᐃΔⵠⵠⵠ];
-      ΔΔ[Xr.ΔⲆⵠⵠⲆⲆΔ] = bu(Oq, [{
+      ΔΔ[827] = ΔΔ[826];
+      ΔΔ[429] = bu(Oq, [{
         f: Nd,
         x: 0,
         y: -2,
@@ -24279,8 +24279,8 @@
         r: Zj,
         c: ["#252525", "#808080", "#4a4a4a", "#9e9c8b", "#615c53", "#686969", "#8a8776", "#555555", "#747474", "#969696", "#454545"]
       }], 0.4, ["#35b1b5", "#46c2c9", "#33b4e4"], 0.5);
-      ΔΔ[Xr.ⲆⲆⵠⵠᐃⵠᐃ] = ΔΔ[Xr.ΔⲆⵠⵠⲆⲆΔ];
-      ΔΔ[Xr.ᐃΔⲆΔᐃᐃⲆ] = bu(1, [{
+      ΔΔ[430] = ΔΔ[429];
+      ΔΔ[432] = bu(1, [{
         f: Ed,
         x: Rq,
         y: Ih,
@@ -24288,8 +24288,8 @@
         r: 0,
         c: ["#dbce71", "#b29c32", "#c4bc51"]
       }], 0.35, ["#35b1b5", "#46c2c9", "#33b4e4"], 0.5);
-      ΔΔ[Xr.ⲆᐃⲆⵠⲆᐃⵠ] = ΔΔ[Xr.ᐃΔⲆΔᐃᐃⲆ];
-      ΔΔ[Xr.ΔⲆⵠΔᐃⲆⲆ] = bu(1, [{
+      ΔΔ[433] = ΔΔ[432];
+      ΔΔ[435] = bu(1, [{
         f: cm,
         x: eu,
         y: 0,
@@ -24297,8 +24297,8 @@
         r: 0,
         c: ["#717171", "#485252", "#555555", "#65c7cd", "#4aadad", "#358d8b", "#c1e6ea", "#a6dce4"]
       }], 0.45, ["#35b1b5", "#46c2c9", "#33b4e4"], 0.5);
-      ΔΔ[Xr.ⵠᐃⵠΔⵠⵠⵠ] = ΔΔ[Xr.ΔⲆⵠΔᐃⲆⲆ];
-      ΔΔ[Xr.ⲆᐃΔⵠⵠⵠΔ] = bu(ie, [{
+      ΔΔ[436] = ΔΔ[435];
+      ΔΔ[438] = bu(ie, [{
         f: Qd,
         x: 0,
         y: wj,
@@ -24306,8 +24306,8 @@
         r: 0,
         c: ["#511f00", "#2f1300", "#ffffff", "#d4d4d4", "#5b2400", "#984e21"]
       }], 0.15, ["#35b1b5", "#46c2c9", "#33b4e4"], 0.5);
-      ΔΔ[Xr.ᐃⵠⵠᐃⲆΔⵠ] = ΔΔ[Xr.ⲆᐃΔⵠⵠⵠΔ];
-      ΔΔ[Xr.ⵠΔⲆᐃⵠᐃΔ] = bu(1, [{
+      ΔΔ[439] = ΔΔ[438];
+      ΔΔ[441] = bu(1, [{
         f: fd,
         x: ya,
         y: wj,
@@ -24315,8 +24315,8 @@
         r: st,
         c: ["#221e1b", "#ffffff", "#f6f0e7"]
       }], 0.3, ["#2b5c48", "#2b5c48", "#2b5c48"], 0.5);
-      ΔΔ[Xr.ⲆⲆΔΔⵠⵠⵠ] = ΔΔ[Xr.ⵠΔⲆᐃⵠᐃΔ];
-      ΔΔ[Xr.ⵠⲆΔᐃΔᐃⲆ] = bu(1, [{
+      ΔΔ[442] = ΔΔ[441];
+      ΔΔ[418] = bu(1, [{
         f: Jc,
         x: -5,
         y: -hl,
@@ -24324,7 +24324,7 @@
         r: fl,
         c: ["#1d051e", "#c27add", "#cd98e5"]
       }], 0.31, ["#2b5c48", "#2b5c48", "#2b5c48"], 0.5);
-      ΔΔ[Xr.ⵠᐃⲆⲆΔΔᐃ] = bu(Wl, [{
+      ΔΔ[609] = bu(Wl, [{
         f: cd,
         x: 0,
         y: st,
@@ -24332,7 +24332,7 @@
         r: 0,
         c: ["#D7C393", "#a48c6c"]
       }], 0.22, ["#2b5c48", "#2b5c48", "#2b5c48"], 0.5);
-      ΔΔ[Xr.ΔᐃΔᐃΔΔⵠ] = bu(og, [{
+      ΔΔ[142] = bu(og, [{
         f: tm,
         x: 0,
         y: Mg,
@@ -24340,7 +24340,7 @@
         r: In,
         c: ["#93CBCE", "#E9F6F6"]
       }], 0.3, ["#35b1b5", "#46c2c9", "#33b4e4"], 0.5);
-      ΔΔ[Xr.ⲆΔⲆΔΔΔⲆ] = bu(1, [{
+      ΔΔ[140] = bu(1, [{
         f: cd,
         x: ig,
         y: mj,
@@ -24348,7 +24348,7 @@
         r: 0,
         c: ["#866432", "#6b4f25"]
       }], 0.22, ["#2b5c48", "#2b5c48", "#2b5c48"], 0.5);
-      ΔΔ[Xr.ΔⵠΔⲆⲆⵠⵠ] = bu(1, [{
+      ΔΔ[180] = bu(1, [{
         f: wm,
         x: nq,
         y: 2,
@@ -24356,7 +24356,7 @@
         r: 0,
         c: ["#1e2021", "#674C2A", "#4C3B19", "#2f2211", "#785931", "#1678a2"]
       }], 0.22, ["#2b5c48", "#2b5c48", "#2b5c48"], 0.5);
-      ΔΔ[Xr.ΔΔΔΔⲆᐃᐃ] = bu(1, [{
+      ΔΔ[181] = bu(1, [{
         f: Cd,
         x: 3,
         y: Hj,
@@ -24364,9 +24364,9 @@
         r: In,
         c: ["#1e2021", "#674C2A", "#4C3B19", "#2f2211", "#785931", "#1678a2"]
       }], 0.22, ["#2b5c48", "#2b5c48", "#2b5c48"], 0.5);
-      ΔΔ[Xr.ᐃⵠΔⵠⲆΔⵠ] = ΔΔ[Xr.ΔⵠΔⲆⲆⵠⵠ];
-      ΔΔ[Xr.ⲆᐃᐃⵠⵠΔᐃ] = ΔΔ[Xr.ΔΔΔΔⲆᐃᐃ];
-      ΔΔ[Xr.ⲆⵠΔⲆⵠΔΔ] = bu(1, [{
+      ΔΔ[784] = ΔΔ[180];
+      ΔΔ[785] = ΔΔ[181];
+      ΔΔ[789] = bu(1, [{
         f: Mc,
         x: 0,
         y: 0,
@@ -24374,8 +24374,8 @@
         r: 0,
         c: ["#1e2021", "#717273", "#606162", "#a09f9f", "#878787", "#454545"]
       }], 0.1, ["#3ba578", "#4eb687", "#3da34d"], 0.5);
-      ΔΔ[Xr.ᐃᐃⵠⵠⲆⵠΔ] = ΔΔ[Xr.ⲆⵠΔⲆⵠΔΔ];
-      ΔΔ[Xr.ΔⵠᐃΔⲆᐃⵠ] = bu(1, [{
+      ΔΔ[791] = ΔΔ[789];
+      ΔΔ[613] = bu(1, [{
         f: Ac,
         x: 0,
         y: os,
@@ -24383,7 +24383,7 @@
         r: Math.PI / hl,
         c: ["#C6AF81", "#C98435", "#B26F31", "#53A4D5", "#388AC7", "#C1C0C0", "#EAEAEA"]
       }], 0.18, ["#3ba578", "#4eb687", "#3da34d"], 0.5);
-      ΔΔ[Xr.ΔⲆⵠⵠᐃᐃⲆ] = bu(1, [{
+      ΔΔ[612] = bu(1, [{
         f: ic,
         x: Zj,
         y: 0,
@@ -24391,9 +24391,9 @@
         r: Math.PI / z,
         c: ["#C6AF81", "#C98435", "#B26F31", "#53A4D5", "#388AC7", "#C1C0C0", "#EAEAEA"]
       }], 0.18, ["#2b5c48", "#2b5c48", "#2b5c48"], 0.5);
-      ΔΔ[Xr.ⵠⲆᐃᐃᐃᐃⵠ] = ΔΔ[Xr.ΔⵠᐃΔⲆᐃⵠ];
-      ΔΔ[Xr.ΔᐃⲆⲆⵠΔᐃ] = ΔΔ[Xr.ΔⲆⵠⵠᐃᐃⲆ];
-      ΔΔ[Xr.ΔⲆΔⲆᐃᐃⵠ] = bu(1, [{
+      ΔΔ[715] = ΔΔ[613];
+      ΔΔ[611] = ΔΔ[612];
+      ΔΔ[634] = bu(1, [{
         f: Pu,
         x: Da,
         y: os,
@@ -24401,8 +24401,8 @@
         r: ig,
         c: ["#eedacc", "#dfbda7", "#dab094", "#63391a", "#523124"]
       }], 0.3, ["#3ba578", "#4eb687", "#3da34d"], 0.5);
-      ΔΔ[Xr.ΔΔΔᐃᐃᐃⵠ] = ΔΔ[Xr.ΔⲆΔⲆᐃᐃⵠ];
-      ΔΔ[Xr.ⲆⲆⲆΔᐃⵠΔ] = bu(1, [{
+      ΔΔ[635] = ΔΔ[634];
+      ΔΔ[200] = bu(1, [{
         f: Ku,
         x: mj,
         y: Qs,
@@ -24410,7 +24410,7 @@
         r: 0,
         c: ["#1a1011", "#e29c2b", "#b76413", "#d6c418", "#e0bf32", "#b78a1a", "#aa1a17", "#cc9f2f", "#cc741d", "#b51524", "#bc1522", "#991922", "#a01ed5", "#d51e81"]
       }], 0.3, ["#3ba578", "#4eb687", "#3da34d"], 0.5);
-      ΔΔ[Xr.ⲆⲆⲆΔΔⲆⵠ] = bu(ie, [{
+      ΔΔ[866] = bu(ie, [{
         f: Lu,
         x: Ih,
         y: st,
@@ -24418,7 +24418,7 @@
         r: 0,
         c: ["#1a1011", "#693c2a", "#54311f", "#9f7a3d", "#492d1d", "#dbb175", "#54311f", "#9f7a3d", "#604720"]
       }], 0.6, ["#3ba578", "#4eb687", "#3da34d"], 0.5);
-      ΔΔ[Xr.ⲆᐃᐃΔᐃᐃⲆ] = bu(gs, [{
+      ΔΔ[143] = bu(gs, [{
         f: am,
         x: Da,
         y: -2,
@@ -24426,8 +24426,8 @@
         r: os,
         c: ["#1d051e", "#bf8d51", "#7d5133", "#e8d6bf", "#e0c8a9", "#ab7a3f"]
       }], 0.17, ["#3ba578", "#4eb687", "#3da34d"], 0.5);
-      ΔΔ[Xr.ΔΔᐃⲆᐃⲆⵠ] = ΔΔ[Xr.ⲆᐃᐃΔᐃᐃⲆ];
-      ΔΔ[Xr.ⵠΔⲆⲆⵠⵠⵠ] = bu(gs, [{
+      ΔΔ[690] = ΔΔ[143];
+      ΔΔ[662] = bu(gs, [{
         f: Fc,
         x: -ub,
         y: -5,
@@ -24435,7 +24435,7 @@
         r: Hi,
         c: ["#1d051e", "#63767c", "#424f51", "#6c8288", "#536468", "#202020", "#ffffff", "#806f60", "#514942", "#756557"]
       }], 0.23, ["#3ba578", "#4eb687", "#3da34d"], 0.5);
-      ΔΔ[Xr.ΔᐃΔΔΔⵠⲆ] = bu(Te, [{
+      ΔΔ[664] = bu(Te, [{
         f: Dd,
         x: In,
         y: Bb,
@@ -24443,8 +24443,8 @@
         r: Yh,
         c: ["#1d051e", "#42261A", "#281818"]
       }], 0.23, ["#3ba578", "#4eb687", "#3da34d"], 0.5);
-      ΔΔ[Xr.ⲆⲆΔⲆΔⲆⵠ] = ΔΔ[Xr.ΔᐃΔΔΔⵠⲆ];
-      ΔΔ[Xr.ⲆΔᐃⲆΔᐃΔ] = bu(za, [{
+      ΔΔ[666] = ΔΔ[664];
+      ΔΔ[649] = bu(za, [{
         f: Xc,
         x: -3,
         y: ig,
@@ -24452,8 +24452,8 @@
         r: 0,
         c: ["#1e2021", "#65A8B7", "#2E85A0", "#14275B", "#081826", "#1A3163", "#0C1944", "#89C4CE", "#2E85A0"]
       }], 0.2, ["#35b1b5", "#46c2c9", "#33b4e4"], 0.5);
-      ΔΔ[Xr.ⲆⲆⲆⵠΔΔΔ] = ΔΔ[Xr.ⲆΔᐃⲆΔᐃΔ];
-      ΔΔ[Xr.ⵠⵠΔᐃᐃⵠᐃ] = bu(Tl, [{
+      ΔΔ[650] = ΔΔ[649];
+      ΔΔ[674] = bu(Tl, [{
         f: Ut,
         x: wg,
         y: wj,
@@ -24461,7 +24461,7 @@
         r: 0,
         c: ["#1e2021", "#961B1B", "#702727", "#C43B3B"]
       }], 0.15, ["#2b5c48", "#2b5c48", "#2b5c48"], 0.5);
-      ΔΔ[Xr.ⵠΔΔⵠΔⲆⲆ] = bu(1, [{
+      ΔΔ[646] = bu(1, [{
         f: Yd,
         x: ig,
         y: wg,
@@ -24469,8 +24469,8 @@
         r: 0,
         c: ["#F0D200", "#B09A00", "#79359E", "#652D8E", "#1e2021"]
       }], 0.3, ["#35b1b5", "#46c2c9", "#33b4e4"], 0.5);
-      ΔΔ[Xr.ⲆᐃⲆⵠⲆⲆΔ] = ΔΔ[Xr.ⵠΔΔⵠΔⲆⲆ];
-      ΔΔ[Xr.ⲆᐃΔⵠΔΔΔ] = bu(1, [{
+      ΔΔ[647] = ΔΔ[646];
+      ΔΔ[685] = bu(1, [{
         f: Pd,
         x: st,
         y: In,
@@ -24478,8 +24478,8 @@
         r: 0,
         c: ["#1e2021", "#352E1E", "#4C3B19", "#574122"]
       }], 0.3, ["#3ba578", "#4eb687", "#3da34d"], 0.5);
-      ΔΔ[Xr.ⵠⲆⵠΔⵠΔⲆ] = ΔΔ[Xr.ⲆᐃΔⵠΔΔΔ];
-      ΔΔ[Xr.ⲆᐃⵠᐃⲆΔⲆ] = bu(1, [{
+      ΔΔ[684] = ΔΔ[685];
+      ΔΔ[870] = bu(1, [{
         f: Mb,
         x: -5,
         y: -kq,
@@ -24487,8 +24487,8 @@
         r: Rq,
         c: ["#e2d63b", "#ee71a9", "#42b672"]
       }], $b, ["#3ba578", "#4eb687", "#3da34d"], 0.5);
-      ΔΔ[Xr.ΔⵠᐃⵠΔⵠᐃ] = ΔΔ[Xr.ⲆᐃⵠᐃⲆΔⲆ];
-      ΔΔ[Xr.ⵠⵠⵠᐃᐃΔⲆ] = bu(za, [{
+      ΔΔ[871] = ΔΔ[870];
+      ΔΔ[605] = bu(za, [{
         f: dd,
         x: 0,
         y: 0,
@@ -24496,8 +24496,8 @@
         r: Da,
         c: ["#1e2021", "#332715", "#4C3B19", "#574122"]
       }], 0.5, ["#3ba578", "#4eb687", "#3da34d"], 0.5);
-      ΔΔ[Xr.ΔⲆⲆΔΔⵠᐃ] = ΔΔ[Xr.ⵠⵠⵠᐃᐃΔⲆ];
-      ΔΔ[Xr.ⵠⲆⵠⵠᐃᐃΔ] = bu(1, [{
+      ΔΔ[604] = ΔΔ[605];
+      ΔΔ[842] = bu(1, [{
         f: Db,
         x: 0,
         y: 0,
@@ -24505,8 +24505,8 @@
         r: 0,
         c: ["#1e2021", "#352618", "#402b18", "#4c3b19", "#574122", "#52391e"]
       }], 0.3, ["#3ba578", "#4eb687", "#3da34d"], 0.5);
-      ΔΔ[Xr.ΔᐃΔᐃᐃⲆΔ] = ΔΔ[Xr.ⵠⲆⵠⵠᐃᐃΔ];
-      ΔΔ[Xr.ⵠⵠᐃΔⲆⲆⵠ] = bu(1, [{
+      ΔΔ[843] = ΔΔ[842];
+      ΔΔ[652] = bu(1, [{
         f: sc,
         x: -mk,
         y: Da,
@@ -24514,8 +24514,8 @@
         r: -Math.PI / 5,
         c: ["#1e2021", "#674C2A", "#4C3B19", "#594225", "#1678a2"]
       }], 0.4, ["#35b1b5", "#46c2c9", "#33b4e4"], 0.7);
-      ΔΔ[Xr.ⲆⲆΔᐃⵠⲆⲆ] = ΔΔ[Xr.ⵠⵠᐃΔⲆⲆⵠ];
-      ΔΔ[Xr.ⲆᐃΔᐃᐃᐃⵠ] = bu(Oq, [{
+      ΔΔ[654] = ΔΔ[652];
+      ΔΔ[626] = bu(Oq, [{
         f: sc,
         x: -zs,
         y: 0,
@@ -24523,8 +24523,8 @@
         r: -Math.PI / Ll,
         c: ["#1e2021", "#674C2A", "#4C3B19", "#594225", "#3F2D18", "#2D2112"]
       }], 0.4, ["#2b5c48", "#2b5c48", "#2b5c48"], 0.5);
-      ΔΔ[Xr.ΔᐃᐃⵠⲆⲆⵠ] = ΔΔ[Xr.ⲆᐃΔᐃᐃᐃⵠ];
-      ΔΔ[Xr.ΔⲆⵠᐃⵠᐃᐃ] = bu(1, [{
+      ΔΔ[627] = ΔΔ[626];
+      ΔΔ[629] = bu(1, [{
         f: Sc,
         x: fl,
         y: Zj,
@@ -24532,7 +24532,7 @@
         r: wg,
         c: ["#B3AA8E", "#817961", "#EBEAE2", "#E0DFD8"]
       }], 0.25, ["#2b5c48", "#2b5c48", "#2b5c48"], 0.5);
-      ΔΔ[Xr.ⲆⲆⵠⵠⲆⲆΔ] = bu(mk, [{
+      ΔΔ[196] = bu(mk, [{
         f: zu,
         x: 0,
         y: 0,
@@ -24540,8 +24540,8 @@
         r: Rq,
         c: ["#1e2021", "#ed5f4f", "#ce4545", "#ffffff", "#e2dad7"]
       }], 0.2, ["#3ba578", "#4eb687", "#3da34d"], 0.5);
-      ΔΔ[Xr.ᐃⲆᐃᐃΔᐃⵠ] = ΔΔ[Xr.ⲆⲆⵠⵠⲆⲆΔ];
-      ΔΔ[Xr.ⲆᐃΔⵠⵠᐃⵠ] = bu(1, [{
+      ΔΔ[898] = ΔΔ[196];
+      ΔΔ[659] = bu(1, [{
         f: Vd,
         x: 0,
         y: 0,
@@ -24549,8 +24549,8 @@
         r: 0,
         c: ["#1e2021", "#63391a", "#523124", "#d2c4b9", "#c1aca2", "#d8cbc2", "#c8b5ac", "#ac222a", "#e6636a"]
       }], 0.25, ["#3ba578", "#4eb687", "#3da34d"], 0.5);
-      ΔΔ[Xr.ᐃᐃⲆΔᐃⲆᐃ] = ΔΔ[Xr.ⲆᐃΔⵠⵠᐃⵠ];
-      ΔΔ[Xr.ⵠⵠⲆⵠⵠⵠⵠ] = bu(wt, [{
+      ΔΔ[660] = ΔΔ[659];
+      ΔΔ[145] = bu(wt, [{
         f: Vt,
         x: -pq,
         y: -8,
@@ -24558,145 +24558,145 @@
         r: Bb,
         c: ["#dfd6bc", "#7b5139", "#bf8d50", "#834e49", "#602820", "#d7ccaa"]
       }], 0.25, ["#3ba578", "#4eb687", "#3da34d"], 0.5);
-      ΔΔ[Xr.ᐃᐃⲆⲆᐃΔΔ] = ΔΔ[Xr.ⵠⵠⲆⵠⵠⵠⵠ];
-      ΔΔ[Xr.ⵠⵠΔⵠᐃᐃⵠ] = [];
-      ΔΔ[Xr.ⵠⵠΔⵠᐃᐃⵠ][0] = Ⲇⵠ.ⲆᐃᐃᐃΔᐃⵠ;
-      ΔΔ[Xr.ⵠⵠΔⵠᐃᐃⵠ][1] = Ⲇⵠ.ΔᐃⲆⲆⵠⵠᐃ;
-      ΔΔ[Xr.ⵠⵠΔⵠᐃᐃⵠ][2] = Ⲇⵠ.ΔⲆⲆᐃΔⵠⵠ;
-      ΔΔ[Xr.ΔⵠΔΔΔΔᐃ] = ΔΔ[Xr.ⵠⵠΔⵠᐃᐃⵠ];
-      ΔΔ[Xr.ᐃΔⵠᐃⵠᐃⲆ] = ΔΔ[Xr.ⵠⵠΔⵠᐃᐃⵠ];
-      ΔΔ[Xr.ᐃΔΔᐃⲆᐃⲆ] = [];
-      ΔΔ[Xr.ᐃΔΔᐃⲆᐃⲆ][Bb] = Ⲇⵠ.ⲆⵠΔⵠⲆⲆⲆ;
-      ΔΔ[Xr.ᐃΔΔᐃⲆᐃⲆ][1] = Ⲇⵠ.ⲆⲆⲆⵠⲆⲆⲆ;
-      ΔΔ[Xr.ᐃΔΔᐃⲆᐃⲆ][2] = Ⲇⵠ.ΔⲆⵠΔⵠⲆⵠ;
-      ΔΔ[Xr.ⵠᐃⲆⲆⲆⲆᐃ] = ΔΔ[Xr.ᐃΔΔᐃⲆᐃⲆ];
-      ΔΔ[Xr.ⲆᐃⵠᐃⵠᐃⲆ] = ΔΔ[Xr.ᐃΔΔᐃⲆᐃⲆ];
-      ΔΔ[Xr.ᐃᐃᐃᐃⵠⲆⲆ] = ΔΔ[Xr.ⵠᐃΔᐃⵠⵠᐃ];
-      ΔΔ[Xr.ⵠⵠⵠⵠᐃⲆⵠ] = ΔΔ[Xr.ⵠᐃΔᐃⵠⵠᐃ];
-      ΔΔ[Xr.ⵠᐃΔᐃⵠⵠᐃ] = [];
-      ΔΔ[Xr.ⵠᐃΔᐃⵠⵠᐃ][0] = Ⲇⵠ.ⵠΔⵠⲆⵠᐃΔ;
-      ΔΔ[Xr.ⵠᐃΔᐃⵠⵠᐃ][1] = Ⲇⵠ.ⲆΔⵠⲆⵠⲆΔ;
-      ΔΔ[Xr.ⵠᐃΔᐃⵠⵠᐃ][2] = Ⲇⵠ.ⲆⵠΔᐃⲆⲆⲆ;
-      ΔΔ[Xr.ᐃᐃᐃᐃⵠⲆⲆ] = ΔΔ[Xr.ⵠᐃΔᐃⵠⵠᐃ];
-      ΔΔ[Xr.ⵠⵠⵠⵠᐃⲆⵠ] = ΔΔ[Xr.ⵠᐃΔᐃⵠⵠᐃ];
-      ΔΔ[Xr.ⲆᐃᐃⵠᐃΔΔ] = [];
-      ΔΔ[Xr.ⲆᐃᐃⵠᐃΔΔ][In] = Ⲇⵠ.ᐃⲆᐃⵠᐃⵠⵠ;
-      ΔΔ[Xr.ⲆᐃᐃⵠᐃΔΔ][au] = Ⲇⵠ.ΔΔⲆⲆⲆΔΔ;
-      ΔΔ[Xr.ⲆᐃᐃⵠᐃΔΔ][2] = Ⲇⵠ.ᐃᐃⵠΔⵠⵠΔ;
-      ΔΔ[Xr.ⵠΔΔΔΔⲆⲆ] = ΔΔ[Xr.ⲆᐃᐃⵠᐃΔΔ];
-      ΔΔ[Xr.ᐃⵠΔⵠⲆⲆⲆ] = ΔΔ[Xr.ⲆᐃᐃⵠᐃΔΔ];
-      ΔΔ[Xr.ΔᐃᐃΔᐃΔⵠ] = [];
-      ΔΔ[Xr.ΔᐃᐃΔᐃΔⵠ][Qs] = Ⲇⵠ.ⵠⵠⵠᐃⲆⲆΔ;
-      ΔΔ[Xr.ΔᐃᐃΔᐃΔⵠ][Oq] = Ⲇⵠ.ⲆⲆᐃΔᐃⲆⲆ;
-      ΔΔ[Xr.ΔᐃᐃΔᐃΔⵠ][2] = Ⲇⵠ.ⵠΔᐃⵠⲆⵠⵠ;
-      ΔΔ[Xr.ᐃⵠΔⵠⵠⵠᐃ] = ΔΔ[Xr.ΔᐃᐃΔᐃΔⵠ];
-      ΔΔ[Xr.ⲆᐃΔⲆΔⲆⵠ] = ΔΔ[Xr.ΔᐃᐃΔᐃΔⵠ];
-      ΔΔ[Xr.ᐃᐃⵠᐃᐃΔΔ] = [];
-      ΔΔ[Xr.ᐃᐃⵠᐃᐃΔΔ][Ih] = Ⲇⵠ.ᐃᐃᐃⵠⵠⲆⵠ;
-      ΔΔ[Xr.ᐃᐃⵠᐃᐃΔΔ][1] = Ⲇⵠ.ⲆᐃⵠⲆⵠΔⵠ;
-      ΔΔ[Xr.ᐃᐃⵠᐃᐃΔΔ][2] = Ⲇⵠ.ⲆᐃⲆΔⲆΔⲆ;
-      ΔΔ[Xr.ⲆᐃΔⲆⵠΔⵠ] = ΔΔ[Xr.ᐃᐃⵠᐃᐃΔΔ];
-      ΔΔ[Xr.ⵠΔⵠⲆΔᐃⲆ] = ΔΔ[Xr.ᐃᐃⵠᐃᐃΔΔ];
-      ΔΔ[Xr.ᐃΔΔᐃⵠᐃⵠ] = [];
-      ΔΔ[Xr.ᐃΔΔᐃⵠᐃⵠ][ya] = Ⲇⵠ.ΔⲆⵠⵠΔⲆΔ;
-      ΔΔ[Xr.ᐃΔΔᐃⵠᐃⵠ][au] = Ⲇⵠ.ⵠΔⵠⵠⲆᐃⵠ;
-      ΔΔ[Xr.ᐃΔΔᐃⵠᐃⵠ][It] = Ⲇⵠ.ⲆⵠⵠⵠΔΔΔ;
-      ΔΔ[Xr.ⲆⲆᐃΔⲆᐃᐃ] = ΔΔ[Xr.ᐃΔΔᐃⵠᐃⵠ];
-      ΔΔ[Xr.ΔⲆⵠⵠⲆⵠⲆ] = ΔΔ[Xr.ᐃΔΔᐃⵠᐃⵠ];
-      ΔΔ[Xr.ⵠⵠΔΔⵠᐃᐃ] = [];
-      ΔΔ[Xr.ⵠⵠΔΔⵠᐃᐃ][0] = Ⲇⵠ.ⵠΔⵠⲆⲆⵠⲆ;
-      ΔΔ[Xr.ⵠⵠΔΔⵠᐃᐃ][Tl] = Ⲇⵠ.ⲆⵠᐃⵠΔⵠᐃ;
-      ΔΔ[Xr.ⵠⵠΔΔⵠᐃᐃ][Vh] = Ⲇⵠ.ᐃᐃΔΔⲆΔᐃ;
-      ΔΔ[Xr.ⵠΔⲆⲆⲆⲆᐃ] = ΔΔ[Xr.ⵠⵠΔΔⵠᐃᐃ];
-      ΔΔ[Xr.ⵠΔΔΔΔᐃⲆ] = ΔΔ[Xr.ⵠⵠΔΔⵠᐃᐃ];
-      ΔΔ[Xr.ⲆᐃⵠⲆⲆᐃⲆ] = [];
-      ΔΔ[Xr.ⲆᐃⵠⲆⲆᐃⲆ][Hi] = Ⲇⵠ.ⲆΔⵠᐃᐃⲆᐃ;
-      ΔΔ[Xr.ⲆᐃⵠⲆⲆᐃⲆ][1] = Ⲇⵠ.ⵠΔᐃⵠΔⵠⵠ;
-      ΔΔ[Xr.ⲆᐃⵠⲆⲆᐃⲆ][2] = Ⲇⵠ.ᐃᐃⵠᐃⲆⲆⲆ;
-      ΔΔ[Xr.ⵠⵠⵠⵠΔⲆⲆ] = ΔΔ[Xr.ⲆᐃⵠⲆⲆᐃⲆ];
-      ΔΔ[Xr.ᐃᐃⲆᐃⵠΔⵠ] = ΔΔ[Xr.ⲆᐃⵠⲆⲆᐃⲆ];
-      ΔΔ[Xr.ΔⵠΔΔⲆᐃⵠ] = [];
-      ΔΔ[Xr.ΔⵠΔΔⲆᐃⵠ][0] = Ⲇⵠ.ⵠΔΔⵠᐃⵠΔ;
-      ΔΔ[Xr.ΔⵠΔΔⲆᐃⵠ][1] = Ⲇⵠ.ⵠⲆΔΔΔⵠⵠ;
-      ΔΔ[Xr.ΔⵠΔΔⲆᐃⵠ][H] = Ⲇⵠ.ⵠⵠΔΔⲆᐃΔ;
-      ΔΔ[Xr.ⵠⲆⲆⵠΔⲆᐃᐃΔ] = ΔΔ[Xr.ΔⵠΔΔⲆᐃⵠ];
-      ΔΔ[Xr.ΔΔⵠᐃⲆⲆⲆ] = ΔΔ[Xr.ΔⵠΔΔⲆᐃⵠ];
-      ΔΔ[Xr.ⵠⵠⵠⲆⵠΔᐃ] = [];
-      ΔΔ[Xr.ⵠⵠⵠⲆⵠΔᐃ][Da] = Ⲇⵠ.ΔⵠᐃⲆⵠᐃᐃ;
-      ΔΔ[Xr.ⵠⵠⵠⲆⵠΔᐃ][1] = Ⲇⵠ.ⲆⵠΔΔⵠΔΔ;
-      ΔΔ[Xr.ⵠⵠⵠⲆⵠΔᐃ][Rl] = Ⲇⵠ.ⵠᐃⲆⲆⲆⲆⲆ;
-      ΔΔ[Xr.ΔⲆⵠΔⲆⲆⲆ] = ΔΔ[Xr.ⵠⵠⵠⲆⵠΔᐃ];
-      ΔΔ[Xr.ⲆᐃⲆᐃᐃᐃⲆ] = ΔΔ[Xr.ⵠⵠⵠⲆⵠΔᐃ];
-      ΔΔ[Xr.ⵠⵠᐃⵠᐃⵠᐃ] = [];
-      ΔΔ[Xr.ⵠⵠᐃⵠᐃⵠᐃ][Yh] = Ⲇⵠ.ΔᐃⵠⵠⵠⵠΔ;
-      ΔΔ[Xr.ⵠⵠᐃⵠᐃⵠᐃ][1] = Ⲇⵠ.ⲆᐃΔᐃⵠᐃΔ;
-      ΔΔ[Xr.ⵠⵠᐃⵠᐃⵠᐃ][lr] = Ⲇⵠ.ΔΔᐃΔΔⲆⵠ;
-      ΔΔ[Xr.ΔΔⲆᐃᐃᐃⵠ] = ΔΔ[Xr.ⵠⵠᐃⵠᐃⵠᐃ];
-      ΔΔ[Xr.ⵠΔᐃᐃⵠᐃΔ] = ΔΔ[Xr.ⵠⵠᐃⵠᐃⵠᐃ];
-      ΔΔ[Xr.ᐃⵠⵠⵠΔᐃⵠ] = [];
-      ΔΔ[Xr.ᐃⵠⵠⵠΔᐃⵠ][0] = Ⲇⵠ.ᐃΔᐃᐃⲆᐃᐃ;
-      ΔΔ[Xr.ᐃⵠⵠⵠΔᐃⵠ][au] = Ⲇⵠ.ⵠⵠⲆᐃᐃᐃᐃ;
-      ΔΔ[Xr.ᐃⵠⵠⵠΔᐃⵠ][Vg] = Ⲇⵠ.ᐃᐃΔⵠⵠⲆΔ;
-      ΔΔ[Xr.ⲆⵠΔᐃΔⲆⵠ] = ΔΔ[Xr.ᐃⵠⵠⵠΔᐃⵠ];
-      ΔΔ[Xr.ⲆⲆⵠⵠᐃΔᐃ] = [];
-      ΔΔ[Xr.ⲆⲆⵠⵠᐃΔᐃ][wj] = Ⲇⵠ.ⵠⲆᐃΔⵠⲆⲆ;
-      ΔΔ[Xr.ⲆⲆⵠⵠᐃΔᐃ][1] = Ⲇⵠ.ᐃΔⵠⵠⲆⵠⲆ;
-      ΔΔ[Xr.ⲆⲆⵠⵠᐃΔᐃ][H] = Ⲇⵠ.ᐃᐃᐃⲆⵠᐃΔ;
-      ΔΔ[Xr.ⲆⲆⵠᐃᐃⵠᐃ] = ΔΔ[Xr.ⲆⲆⵠⵠᐃΔᐃ];
-      ΔΔ[Xr.ᐃⵠⲆᐃΔⵠᐃ] = ΔΔ[Xr.ᐃΔΔⵠΔᐃⲆ];
-      ΔΔ[Xr.ⲆⵠᐃᐃᐃΔᐃ] = ΔΔ[Xr.ⲆΔΔᐃᐃᐃⵠ];
-      ΔΔ[Xr.ᐃⲆΔⲆΔᐃΔ] = ΔΔ[Xr.ⲆΔⵠΔⵠⲆⲆ];
-      ΔΔ[Xr.ᐃᐃⵠΔΔΔⲆ] = ΔΔ[Xr.ⲆΔⵠⲆΔΔⵠ];
-      ΔΔ[Xr.ΔᐃΔΔⲆᐃⲆ] = ΔΔ[Xr.ᐃΔⵠⲆᐃⲆᐃ];
-      ΔΔ[Xr.ⵠΔᐃᐃᐃⲆⵠ] = ΔΔ[Xr.ⵠⲆⵠⲆΔⲆⲆ];
-      ΔΔ[Xr.ᐃΔΔΔΔⵠΔ] = ΔΔ[Xr.ⵠᐃΔΔᐃⲆⲆ];
-      ΔΔ[Xr.ⵠΔᐃⵠⲆⵠΔ] = ΔΔ[Xr.ΔΔΔΔᐃⲆⲆ];
-      ΔΔ[Xr.ΔΔⲆⲆⵠⵠᐃ] = ΔΔ[Xr.ⵠⲆⵠⲆⵠΔⲆ];
-      ΔΔ[Xr.ⵠᐃΔⵠⲆΔΔ] = ΔΔ[Xr.ᐃᐃᐃΔⵠΔᐃ];
-      ΔΔ[Xr.ᐃⲆΔⲆⵠΔᐃ] = ΔΔ[Xr.ᐃᐃⵠᐃⲆΔⲆ];
-      ΔΔ[Xr.ⵠⵠᐃⲆᐃᐃⵠ] = ΔΔ[Xr.ᐃᐃᐃⲆⲆᐃΔ];
-      ΔΔ[Xr.ⵠΔⲆⲆᐃⲆⲆ] = ΔΔ[Xr.ΔⵠᐃᐃⲆᐃⵠ];
-      ΔΔ[Xr.ⵠⵠΔΔⲆⵠΔ] = ΔΔ[Xr.ⲆΔⵠⲆⲆⵠΔ];
-      ΔΔ[Xr.ΔᐃⲆⵠⲆΔⲆ] = ΔΔ[Xr.ᐃΔⲆΔⵠⲆΔ];
-      ΔΔ[Xr.ΔΔΔⲆΔⵠΔ] = ΔΔ[Xr.ΔᐃⵠΔΔⵠⲆ];
-      ΔΔ[Xr.ΔⲆⲆⵠΔⵠⲆ] = ΔΔ[Xr.ᐃΔΔΔⵠⲆⲆ];
-      ΔΔ[Xr.ⲆⵠⲆᐃⲆⲆⵠ] = ΔΔ[Xr.ⲆᐃⲆᐃᐃΔΔ];
-      ΔΔ[Xr.ΔᐃᐃᐃᐃΔᐃ] = ΔΔ[Xr.ᐃⵠⲆⲆᐃⵠⵠ];
-      ΔΔ[Xr.ᐃΔⲆⲆⵠⵠΔ] = ΔΔ[Xr.ΔΔᐃΔⲆΔⲆ];
-      ΔΔ[Xr.ᐃΔⵠΔΔᐃΔ] = ΔΔ[Xr.ᐃⵠⵠᐃᐃⵠᐃ];
-      ΔΔ[Xr.ⲆᐃΔΔΔΔⵠ] = ΔΔ[Xr.ⵠᐃⵠⲆΔᐃΔ];
-      ΔΔ[Xr.ⵠⲆΔΔⲆΔᐃ] = ΔΔ[Xr.ⵠᐃΔⲆᐃᐃⵠ];
-      ΔΔ[Xr.ⵠⵠⵠⵠⵠⲆᐃ] = ΔΔ[Xr.ᐃⲆᐃΔᐃᐃΔ];
-      ΔΔ[Xr.ΔΔⵠᐃⵠⵠⵠ] = ΔΔ[Xr.ᐃΔΔΔⲆⵠᐃ];
-      ΔΔ[Xr.ⵠΔΔΔⵠΔⵠ] = ΔΔ[Xr.ⲆⲆⲆⲆⲆⲆᐃ];
-      ΔΔ[Xr.ⵠⵠΔΔΔⲆΔ] = ΔΔ[Xr.ΔⲆᐃⲆΔᐃⲆ];
-      ΔΔ[Xr.ᐃⵠᐃⵠⵠΔΔ] = ΔΔ[Xr.ⲆⵠⵠⲆⲆⲆᐃ];
-      ΔΔ[Xr.ⵠΔⲆΔᐃⲆⵠ] = ΔΔ[Xr.ᐃⲆΔΔⵠⲆΔ];
-      ΔΔ[Xr.ᐃᐃᐃᐃⲆΔΔ] = ΔΔ[Xr.ⲆⲆΔⵠᐃΔⲆ];
-      ΔΔ[Xr.ⵠΔⵠⲆⵠᐃⵠ] = ΔΔ[Xr.ⵠⵠⵠΔΔᐃⵠ];
-      ΔΔ[Xr.ΔⵠΔⵠᐃⵠᐃ] = ΔΔ[Xr.ⵠᐃΔⲆⲆⲆᐃ];
-      ΔΔ[Xr.ΔⲆⲆⲆⲆᐃⲆ] = ΔΔ[Xr.ⵠⲆᐃⵠᐃⵠᐃ];
-      ΔΔ[Xr.ⵠⵠⲆⲆⵠⲆᐃ] = ΔΔ[Xr.ⵠᐃΔΔⵠⲆⲆ];
-      ΔΔ[Xr.ᐃΔΔᐃⵠᐃᐃ] = ΔΔ[Xr.ⵠΔⵠⵠⵠⵠᐃ];
-      ΔΔ[Xr.ⲆⲆᐃΔⵠΔⵠ] = ΔΔ[Xr.Δⵠᐃⵠⵠᐃᐃ];
-      ΔΔ[Xr.ⵠⵠⲆⲆⵠᐃⵠ] = ΔΔ[Xr.ΔᐃⲆⲆⵠᐃⲆ];
-      ΔΔ[Xr.ⵠᐃΔⵠᐃᐃΔ] = ΔΔ[Xr.ⵠᐃⲆⲆᐃᐃΔ];
-      ΔΔ[Xr.ⵠΔⵠⲆᐃⲆⲆ] = ΔΔ[Xr.ⲆΔᐃᐃⲆⲆΔ];
-      ΔΔ[Xr.ⵠᐃΔΔΔⲆᐃ] = ΔΔ[Xr.ⵠⲆⲆΔΔΔⵠ];
-      ΔΔ[Xr.ᐃⵠᐃⵠᐃⲆΔ] = ΔΔ[Xr.ᐃⲆⲆⲆⲆΔᐃ];
-      ΔΔ[Xr.ⲆᐃⵠᐃⲆⲆΔ] = ΔΔ[Xr.ΔⵠΔΔΔᐃᐃ];
-      ΔΔ[Xr.ΔⲆⲆΔΔⵠⲆ] = ΔΔ[Xr.ⲆⲆᐃⲆᐃΔᐃ];
-      ΔΔ[Xr.ΔⲆⵠΔⲆⵠⵠ] = ΔΔ[Xr.ΔⲆΔⲆΔᐃΔ];
-      ΔΔ[Xr.ⵠⵠᐃΔΔᐃᐃ] = ΔΔ[Xr.ΔᐃⲆⵠΔΔⵠ];
-      ΔΔ[Xr.ⲆΔᐃⲆᐃⵠⲆ] = ΔΔ[Xr.ⵠⲆΔΔⵠᐃΔ];
-      ΔΔ[Xr.ᐃΔΔᐃⲆᐃᐃ] = ΔΔ[Xr.ⵠⵠⵠΔⵠⲆⲆ];
-      ΔΔ[Xr.ⵠⲆⵠᐃΔᐃⵠ] = ΔΔ[Xr.ᐃᐃᐃⲆᐃⲆⲆ];
-      ΔΔ[Xr.ᐃᐃⵠⵠᐃⲆΔ] = ΔΔ[Xr.ΔΔΔΔⵠⲆⲆ];
-      ΔΔ[Xr.ᐃⵠⵠⵠᐃᐃⵠ] = ΔΔ[Xr.ⵠⲆⵠᐃⵠΔⵠ];
-      ΔΔ[Xr.ⵠᐃΔΔᐃⲆᐃ] = ΔΔ[Xr.ᐃΔΔᐃΔΔΔ];
-      ΔΔ[Xr.ⵠᐃᐃᐃᐃΔΔ] = ΔΔ[Xr.ᐃᐃⵠⵠⲆΔⵠ];
-      ΔΔ[Xr.ⲆᐃⲆⲆΔⲆΔ] = ΔΔ[Xr.ⵠⲆⲆⲆᐃⵠᐃ];
-      ΔΔ[Xr.ΔⲆᐃΔᐃᐃⲆ] = pr(function (a, b, c) {
+      ΔΔ[730] = ΔΔ[145];
+      ΔΔ[566] = [];
+      ΔΔ[566][0] = Ⲇⵠ.ⲆᐃᐃᐃΔᐃⵠ;
+      ΔΔ[566][1] = Ⲇⵠ.ΔᐃⲆⲆⵠⵠᐃ;
+      ΔΔ[566][2] = Ⲇⵠ.ΔⲆⲆᐃΔⵠⵠ;
+      ΔΔ[567] = ΔΔ[566];
+      ΔΔ[568] = ΔΔ[566];
+      ΔΔ[877] = [];
+      ΔΔ[877][Bb] = Ⲇⵠ.ⲆⵠΔⵠⲆⲆⲆ;
+      ΔΔ[877][1] = Ⲇⵠ.ⲆⲆⲆⵠⲆⲆⲆ;
+      ΔΔ[877][2] = Ⲇⵠ.ΔⲆⵠΔⵠⲆⵠ;
+      ΔΔ[879] = ΔΔ[877];
+      ΔΔ[878] = ΔΔ[877];
+      ΔΔ[933] = ΔΔ[932];
+      ΔΔ[934] = ΔΔ[932];
+      ΔΔ[932] = [];
+      ΔΔ[932][0] = Ⲇⵠ.ⵠΔⵠⲆⵠᐃΔ;
+      ΔΔ[932][1] = Ⲇⵠ.ⲆΔⵠⲆⵠⲆΔ;
+      ΔΔ[932][2] = Ⲇⵠ.ⲆⵠΔᐃⲆⲆⲆ;
+      ΔΔ[933] = ΔΔ[932];
+      ΔΔ[934] = ΔΔ[932];
+      ΔΔ[943] = [];
+      ΔΔ[943][In] = Ⲇⵠ.ᐃⲆᐃⵠᐃⵠⵠ;
+      ΔΔ[943][au] = Ⲇⵠ.ΔΔⲆⲆⲆΔΔ;
+      ΔΔ[943][2] = Ⲇⵠ.ᐃᐃⵠΔⵠⵠΔ;
+      ΔΔ[944] = ΔΔ[943];
+      ΔΔ[945] = ΔΔ[943];
+      ΔΔ[921] = [];
+      ΔΔ[921][Qs] = Ⲇⵠ.ⵠⵠⵠᐃⲆⲆΔ;
+      ΔΔ[921][Oq] = Ⲇⵠ.ⲆⲆᐃΔᐃⲆⲆ;
+      ΔΔ[921][2] = Ⲇⵠ.ⵠΔᐃⵠⲆⵠⵠ;
+      ΔΔ[922] = ΔΔ[921];
+      ΔΔ[923] = ΔΔ[921];
+      ΔΔ[925] = [];
+      ΔΔ[925][Ih] = Ⲇⵠ.ᐃᐃᐃⵠⵠⲆⵠ;
+      ΔΔ[925][1] = Ⲇⵠ.ⲆᐃⵠⲆⵠΔⵠ;
+      ΔΔ[925][2] = Ⲇⵠ.ⲆᐃⲆΔⲆΔⲆ;
+      ΔΔ[926] = ΔΔ[925];
+      ΔΔ[927] = ΔΔ[925];
+      ΔΔ[929] = [];
+      ΔΔ[929][ya] = Ⲇⵠ.ΔⲆⵠⵠΔⲆΔ;
+      ΔΔ[929][au] = Ⲇⵠ.ⵠΔⵠⵠⲆᐃⵠ;
+      ΔΔ[929][It] = Ⲇⵠ.ⲆⵠⵠⵠΔΔΔ;
+      ΔΔ[930] = ΔΔ[929];
+      ΔΔ[931] = ΔΔ[929];
+      ΔΔ[946] = [];
+      ΔΔ[946][0] = Ⲇⵠ.ⵠΔⵠⲆⲆⵠⲆ;
+      ΔΔ[946][Tl] = Ⲇⵠ.ⲆⵠᐃⵠΔⵠᐃ;
+      ΔΔ[946][Vh] = Ⲇⵠ.ᐃᐃΔΔⲆΔᐃ;
+      ΔΔ[947] = ΔΔ[946];
+      ΔΔ[948] = ΔΔ[946];
+      ΔΔ[735] = [];
+      ΔΔ[735][Hi] = Ⲇⵠ.ⲆΔⵠᐃᐃⲆᐃ;
+      ΔΔ[735][1] = Ⲇⵠ.ⵠΔᐃⵠΔⵠⵠ;
+      ΔΔ[735][2] = Ⲇⵠ.ᐃᐃⵠᐃⲆⲆⲆ;
+      ΔΔ[737] = ΔΔ[735];
+      ΔΔ[736] = ΔΔ[735];
+      ΔΔ[1164] = [];
+      ΔΔ[1164][0] = Ⲇⵠ.ⵠΔΔⵠᐃⵠΔ;
+      ΔΔ[1164][1] = Ⲇⵠ.ⵠⲆΔΔΔⵠⵠ;
+      ΔΔ[1164][H] = Ⲇⵠ.ⵠⵠΔΔⲆᐃΔ;
+      ΔΔ[Xr.ⵠⲆⲆⵠΔⲆᐃᐃΔ] = ΔΔ[1164];
+      ΔΔ[1165] = ΔΔ[1164];
+      ΔΔ[738] = [];
+      ΔΔ[738][Da] = Ⲇⵠ.ΔⵠᐃⲆⵠᐃᐃ;
+      ΔΔ[738][1] = Ⲇⵠ.ⲆⵠΔΔⵠΔΔ;
+      ΔΔ[738][Rl] = Ⲇⵠ.ⵠᐃⲆⲆⲆⲆⲆ;
+      ΔΔ[740] = ΔΔ[738];
+      ΔΔ[739] = ΔΔ[738];
+      ΔΔ[741] = [];
+      ΔΔ[741][Yh] = Ⲇⵠ.ΔᐃⵠⵠⵠⵠΔ;
+      ΔΔ[741][1] = Ⲇⵠ.ⲆᐃΔᐃⵠᐃΔ;
+      ΔΔ[741][lr] = Ⲇⵠ.ΔΔᐃΔΔⲆⵠ;
+      ΔΔ[743] = ΔΔ[741];
+      ΔΔ[742] = ΔΔ[741];
+      ΔΔ[938] = [];
+      ΔΔ[938][0] = Ⲇⵠ.ᐃΔᐃᐃⲆᐃᐃ;
+      ΔΔ[938][au] = Ⲇⵠ.ⵠⵠⲆᐃᐃᐃᐃ;
+      ΔΔ[938][Vg] = Ⲇⵠ.ᐃᐃΔⵠⵠⲆΔ;
+      ΔΔ[939] = ΔΔ[938];
+      ΔΔ[936] = [];
+      ΔΔ[936][wj] = Ⲇⵠ.ⵠⲆᐃΔⵠⲆⲆ;
+      ΔΔ[936][1] = Ⲇⵠ.ᐃΔⵠⵠⲆⵠⲆ;
+      ΔΔ[936][H] = Ⲇⵠ.ᐃᐃᐃⲆⵠᐃΔ;
+      ΔΔ[937] = ΔΔ[936];
+      ΔΔ[617] = ΔΔ[616];
+      ΔΔ[701] = ΔΔ[699];
+      ΔΔ[703] = ΔΔ[702];
+      ΔΔ[707] = ΔΔ[705];
+      ΔΔ[348] = ΔΔ[311];
+      ΔΔ[633] = ΔΔ[631];
+      ΔΔ[645] = ΔΔ[644];
+      ΔΔ[640] = ΔΔ[639];
+      ΔΔ[273] = ΔΔ[309];
+      ΔΔ[590] = ΔΔ[252];
+      ΔΔ[752] = ΔΔ[751];
+      ΔΔ[591] = ΔΔ[253];
+      ΔΔ[754] = ΔΔ[753];
+      ΔΔ[276] = ΔΔ[328];
+      ΔΔ[863] = ΔΔ[865];
+      ΔΔ[862] = ΔΔ[860];
+      ΔΔ[831] = ΔΔ[829];
+      ΔΔ[340] = ΔΔ[261];
+      ΔΔ[596] = ΔΔ[594];
+      ΔΔ[345] = ΔΔ[292];
+      ΔΔ[346] = ΔΔ[293];
+      ΔΔ[457] = ΔΔ[455];
+      ΔΔ[274] = ΔΔ[313];
+      ΔΔ[341] = ΔΔ[312];
+      ΔΔ[272] = ΔΔ[258];
+      ΔΔ[344] = ΔΔ[296];
+      ΔΔ[459] = ΔΔ[458];
+      ΔΔ[342] = ΔΔ[315];
+      ΔΔ[270] = ΔΔ[297];
+      ΔΔ[271] = ΔΔ[298];
+      ΔΔ[343] = ΔΔ[316];
+      ΔΔ[269] = ΔΔ[277];
+      ΔΔ[358] = ΔΔ[310];
+      ΔΔ[354] = ΔΔ[329];
+      ΔΔ[356] = ΔΔ[331];
+      ΔΔ[355] = ΔΔ[330];
+      ΔΔ[494] = ΔΔ[492];
+      ΔΔ[349] = ΔΔ[317];
+      ΔΔ[350] = ΔΔ[319];
+      ΔΔ[275] = ΔΔ[300];
+      ΔΔ[351] = ΔΔ[323];
+      ΔΔ[353] = ΔΔ[305];
+      ΔΔ[514] = ΔΔ[513];
+      ΔΔ[352] = ΔΔ[303];
+      ΔΔ[520] = ΔΔ[518];
+      ΔΔ[534] = ΔΔ[532];
+      ΔΔ[531] = ΔΔ[529];
+      ΔΔ[522] = ΔΔ[521];
+      ΔΔ[524] = ΔΔ[523];
+      ΔΔ[565] = ΔΔ[563];
+      ΔΔ[554] = ΔΔ[553];
+      ΔΔ[357] = ΔΔ[335];
+      ΔΔ[359] = ΔΔ[337];
+      ΔΔ[339] = pr(function (a, b, c) {
         var d = document.createElement("canvas");
         var e = d.getContext("2d");
         d.width = a * 118;
@@ -24716,7 +24716,7 @@
         db(e, c[pq]);
         return d;
       }(0.8, 0, ["#4c3b19", "#c4a23a", "#c4a23a", "#c4a23a"]));
-      ΔΔ[Xr.ΔᐃⲆΔⲆΔⲆ] = bu(0.5, [{
+      ΔΔ[366] = bu(0.5, [{
         f: Od,
         x: 0,
         y: 2,
@@ -24724,134 +24724,134 @@
         r: Ih,
         c: ["#ffffff"]
       }], 0.16, ["#c4a23a", "#d0ad41", "#b89733"], 0.9);
-      ΔΔ[Xr.ΔⵠⲆⲆⲆⲆΔ] = ΔΔ[Xr.ᐃΔᐃⲆᐃΔⵠ];
-      ΔΔ[Xr.ⵠⲆᐃᐃΔⵠΔ] = ΔΔ[Xr.ᐃΔⲆᐃⲆⲆΔ];
-      ΔΔ[Xr.ⲆΔᐃΔⲆΔΔ] = ΔΔ[Xr.ⲆⲆⵠⵠΔⵠΔ];
-      ΔΔ[Xr.ᐃⵠᐃⲆΔⵠⵠ] = ΔΔ[Xr.ⲆᐃⵠᐃᐃⲆᐃ];
-      ΔΔ[Xr.ᐃⵠᐃⵠΔⲆΔ] = ΔΔ[Xr.ⲆᐃⵠⵠⵠⵠΔ];
-      ΔΔ[Xr.ᐃⲆⲆΔΔⲆΔ] = ΔΔ[Xr.ⵠΔⵠⵠΔⵠⵠ];
-      ΔΔ[Xr.ᐃᐃᐃⲆᐃΔᐃ] = ΔΔ[Xr.ᐃⵠⲆⲆⵠΔΔ];
-      ΔΔ[Xr.ⲆⵠⵠⲆⵠᐃⵠ] = ΔΔ[Xr.ΔⲆᐃΔΔᐃᐃ];
-      ΔΔ[Xr.ⵠⲆᐃⲆⲆⵠⲆ] = ΔΔ[Xr.ΔᐃᐃⲆΔΔᐃ];
-      ΔΔ[Xr.ⲆⵠⵠⵠⵠΔΔ] = ΔΔ[Xr.ⵠⲆᐃⵠⲆᐃⵠ];
-      ΔΔ[Xr.ΔᐃⵠⲆⵠᐃΔ] = ΔΔ[Xr.ⵠΔᐃΔⵠⲆΔ];
-      ΔΔ[Xr.ⵠⲆⲆΔⲆⲆⲆ] = ΔΔ[Xr.ⵠᐃΔΔⵠⲆᐃ];
-      ΔΔ[Xr.ⲆⵠᐃΔⲆᐃⵠ] = ΔΔ[Xr.ᐃⵠⵠⲆⵠᐃⲆ];
-      ΔΔ[Xr.ⲆⵠⲆᐃⵠⵠΔ] = ΔΔ[Xr.ᐃⵠⲆᐃΔᐃΔ];
-      ΔΔ[Xr.ΔⲆⲆᐃᐃΔⲆ] = ΔΔ[Xr.ΔᐃⵠⵠᐃⲆⵠ];
-      ΔΔ[Xr.ⲆⲆΔᐃⲆⲆⵠ] = ΔΔ[Xr.ΔⲆᐃΔⲆⵠᐃ];
-      ΔΔ[Xr.ⲆⲆΔᐃⲆΔΔ] = ΔΔ[Xr.ⲆΔΔⵠΔⵠⲆ];
-      ΔΔ[Xr.ᐃᐃᐃΔⵠⵠᐃ] = ΔΔ[Xr.ΔⵠΔΔΔᐃⲆ];
-      ΔΔ[Xr.ΔΔΔΔΔⲆⵠ] = ΔΔ[Xr.ΔⲆⵠᐃΔⵠⵠ];
-      ΔΔ[Xr.ⵠΔΔᐃⲆⵠᐃ] = ΔΔ[Xr.ΔⲆΔᐃⲆⵠΔ];
-      ΔΔ[Xr.ⲆⲆᐃΔⵠⵠⲆ] = ΔΔ[Xr.ⵠⵠΔΔΔΔⲆ];
-      ΔΔ[Xr.ⵠᐃⲆΔⲆⵠⲆ] = ΔΔ[Xr.ⵠⲆⵠΔⲆⵠᐃ];
-      ΔΔ[Xr.ᐃⲆⲆΔΔⵠⵠ] = ΔΔ[Xr.ᐃᐃᐃⵠΔᐃΔ];
-      ΔΔ[Xr.ⵠⵠⵠᐃⵠⵠⵠ] = ΔΔ[Xr.ⵠΔⵠⲆᐃⲆᐃ];
-      ΔΔ[Xr.ⵠᐃᐃⲆⵠⲆⲆ] = ΔΔ[Xr.ⵠⲆΔⵠⲆⲆᐃ];
-      ΔΔ[Xr.ⵠᐃΔᐃⲆΔⲆ] = ΔΔ[Xr.ᐃⲆⲆΔᐃΔⵠ];
-      ΔΔ[Xr.ⵠᐃⵠΔΔⵠΔ] = ΔΔ[Xr.ⲆΔᐃⵠΔᐃᐃ];
-      ΔΔ[Xr.ᐃⲆⲆⵠⵠⲆᐃ] = ΔΔ[Xr.ΔᐃᐃᐃΔⵠΔ];
-      ΔΔ[Xr.ᐃΔⵠⲆⲆⲆᐃ] = ΔΔ[Xr.ΔᐃⵠⵠΔⲆΔ];
-      ΔΔ[Xr.ⵠⵠᐃᐃⵠⲆΔ] = ΔΔ[Xr.ᐃⲆⲆⵠᐃᐃⲆ];
-      ΔΔ[Xr.ᐃⲆᐃⲆᐃΔΔ] = ΔΔ[Xr.ⲆᐃⵠⵠΔⵠΔ];
-      ΔΔ[Xr.ⲆᐃⲆⵠᐃⵠᐃ] = ΔΔ[Xr.ᐃⵠⲆΔᐃᐃⵠ];
-      ΔΔ[Xr.ⲆᐃᐃⵠⲆⵠⲆ] = ΔΔ[Xr.ⵠⵠᐃⵠⲆⲆᐃ];
-      ΔΔ[Xr.ΔⲆⲆΔⵠⵠᐃ] = ΔΔ[Xr.ⲆⵠΔΔⵠⵠΔ];
-      ΔΔ[Xr.ⲆΔΔΔⲆᐃΔ] = ΔΔ[Xr.ΔⲆⵠⵠⲆⲆΔ];
-      ΔΔ[Xr.ΔⵠᐃᐃⵠⲆⲆ] = ΔΔ[Xr.ᐃΔⲆΔᐃᐃⲆ];
-      ΔΔ[Xr.ⲆᐃⲆⲆⲆᐃⲆ] = ΔΔ[Xr.ΔⲆⵠΔᐃⲆⲆ];
-      ΔΔ[Xr.ᐃᐃⵠⵠᐃΔᐃ] = ΔΔ[Xr.ⵠⲆⵠᐃΔⲆΔ];
-      ΔΔ[Xr.ᐃⲆⵠᐃᐃⵠⲆ] = ΔΔ[Xr.ᐃⲆⵠΔΔⵠⵠ];
-      ΔΔ[Xr.ΔⵠⵠΔⲆⵠΔ] = ΔΔ[Xr.ⲆᐃΔⵠⵠⵠΔ];
-      ΔΔ[Xr.ΔⵠᐃΔΔⵠᐃ] = ΔΔ[Xr.ⵠΔⲆᐃⵠᐃΔ];
-      ΔΔ[Xr.ⵠᐃⵠⵠⵠⵠΔ] = ΔΔ[Xr.ⵠⲆΔᐃΔᐃⲆ];
-      ΔΔ[Xr.ⲆⵠⵠΔᐃᐃᐃ] = ΔΔ[Xr.ⵠⵠⵠᐃᐃΔⲆ];
-      ΔΔ[Xr.ΔⲆⲆⲆΔᐃᐃ] = ΔΔ[Xr.ⵠⲆⵠⵠᐃᐃΔ];
-      ΔΔ[Xr.ⵠΔⵠᐃᐃⵠᐃ] = ΔΔ[Xr.ⲆᐃΔⵠΔΔΔ];
-      ΔΔ[Xr.ΔΔⵠⵠⲆΔⵠ] = ΔΔ[Xr.ⵠᐃⲆⲆΔΔᐃ];
-      ΔΔ[Xr.ΔΔΔΔᐃⵠⵠ] = ΔΔ[Xr.ⲆᐃᐃΔᐃᐃⲆ];
-      ΔΔ[Xr.ΔⵠⵠᐃᐃⲆⵠ] = ΔΔ[Xr.ΔᐃΔᐃΔΔⵠ];
-      ΔΔ[Xr.ⲆᐃⵠⲆⵠⲆΔ] = ΔΔ[Xr.ⲆΔⲆΔΔΔⲆ];
-      ΔΔ[Xr.ᐃΔᐃⵠⵠᐃⲆ] = ΔΔ[Xr.ΔⵠᐃΔⲆᐃⵠ];
-      ΔΔ[Xr.ΔᐃⵠⲆΔⵠᐃ] = ΔΔ[Xr.ΔⲆⵠⵠᐃᐃⲆ];
-      ΔΔ[Xr.ⲆᐃⵠᐃⲆⵠⵠ] = ΔΔ[Xr.ⲆᐃΔᐃᐃᐃⵠ];
-      ΔΔ[Xr.ᐃⲆⵠⵠⵠΔⵠ] = ΔΔ[Xr.ΔⲆⵠᐃⵠᐃᐃ];
-      ΔΔ[Xr.ΔⲆⵠΔᐃⵠᐃ] = ΔΔ[Xr.ΔⲆΔⲆᐃᐃⵠ];
-      ΔΔ[Xr.ΔⲆᐃᐃⵠⲆⲆ] = ΔΔ[Xr.ⲆⲆⲆΔᐃⵠΔ];
-      ΔΔ[Xr.ᐃⵠⲆⲆΔⲆΔ] = ΔΔ[Xr.ⲆⲆⲆΔΔⲆⵠ];
-      ΔΔ[Xr.ΔᐃΔᐃΔᐃΔ] = ΔΔ[Xr.ⵠΔΔⵠΔⲆⲆ];
-      ΔΔ[Xr.ⵠᐃΔⵠΔⵠᐃ] = ΔΔ[Xr.ⲆΔᐃⲆΔᐃΔ];
-      ΔΔ[Xr.ⵠΔⵠΔᐃⵠⲆ] = ΔΔ[Xr.ⵠⵠᐃΔⲆⲆⵠ];
-      ΔΔ[Xr.ΔΔᐃᐃⲆᐃΔ] = ΔΔ[Xr.ⲆᐃΔⵠⵠᐃⵠ];
-      ΔΔ[Xr.ᐃⲆᐃᐃΔᐃⵠ] = ΔΔ[Xr.ⲆⲆⵠⵠⲆⲆΔ];
-      ΔΔ[Xr.ⲆΔΔⵠⵠⵠΔ] = ΔΔ[Xr.ⵠΔⲆⲆⵠⵠⵠ];
-      ΔΔ[Xr.ⵠⵠᐃⵠⵠΔⲆ] = ΔΔ[Xr.ΔᐃΔΔΔⵠⲆ];
-      ΔΔ[Xr.ⲆⵠᐃⵠⲆⵠᐃ] = ΔΔ[Xr.ⵠⵠΔᐃᐃⵠᐃ];
-      ΔΔ[Xr.ᐃᐃⲆΔᐃᐃⵠ] = ΔΔ[Xr.ⵠⵠⲆⵠⵠⵠⵠ];
-      ΔΔ[Xr.ⵠΔⵠⵠᐃΔᐃ] = ΔΔ[Xr.ⲆΔΔΔΔⵠᐃ];
-      ΔΔ[Xr.ⵠΔⲆΔΔᐃΔ] = ΔΔ[Xr.ᐃⵠⵠⲆΔΔⲆ];
-      ΔΔ[Xr.ΔⵠⲆᐃⲆⵠΔ] = ΔΔ[Xr.ⵠⵠΔᐃᐃⲆⵠ];
-      ΔΔ[Xr.ⲆΔᐃⵠᐃᐃΔ] = ΔΔ[Xr.ⵠΔᐃⲆᐃΔΔ];
-      ΔΔ[Xr.ⲆⲆⵠᐃΔᐃᐃ] = ΔΔ[Xr.ΔᐃⵠᐃⲆⵠⲆ];
-      ΔΔ[Xr.ΔⲆᐃⲆᐃⵠΔ] = ΔΔ[Xr.ⲆⵠⲆⵠⲆⲆᐃ];
-      ΔΔ[Xr.ⲆⲆⵠⲆᐃΔΔ] = ΔΔ[Xr.ᐃᐃΔᐃⲆⵠⲆ];
-      ΔΔ[Xr.ⲆΔΔⲆⲆΔΔ] = ΔΔ[Xr.ⵠᐃᐃⵠⵠΔⲆ];
-      ΔΔ[Xr.ΔⵠⲆⵠᐃᐃⲆ] = ΔΔ[Xr.ᐃⲆⲆᐃⲆᐃᐃ];
-      ΔΔ[Xr.ⲆᐃΔᐃⵠΔⲆ] = ΔΔ[Xr.ΔⵠΔⵠⵠⵠΔ];
-      ΔΔ[Xr.ⲆΔᐃᐃᐃᐃⵠ] = ΔΔ[Xr.ΔΔΔΔⲆᐃᐃ];
-      ΔΔ[Xr.ΔⲆᐃᐃΔⵠⲆ] = ΔΔ[Xr.ΔⵠΔⲆⲆⵠⵠ];
-      ΔΔ[Xr.ᐃΔⵠΔⲆᐃΔ] = ΔΔ[Xr.ⲆⵠΔⲆⵠΔΔ];
-      ΔΔ[Xr.ΔΔᐃΔΔΔⲆ] = ΔΔ[Xr.ᐃΔᐃⲆΔᐃⲆ];
-      ΔΔ[Xr.ⲆΔⲆⵠΔⲆΔ] = ΔΔ[Xr.ⵠᐃⲆΔⵠΔΔ];
-      ΔΔ[Xr.ΔΔⵠΔᐃΔΔ] = ΔΔ[Xr.ⲆⵠⲆⵠⲆᐃΔ];
-      ΔΔ[Xr.ΔⲆᐃᐃⲆⵠⵠ] = ΔΔ[Xr.ⵠⵠΔᐃⲆⲆᐃ];
-      ΔΔ[Xr.ⲆΔⲆⲆᐃΔⲆ] = ΔΔ[Xr.ᐃⲆᐃΔⵠⵠⵠ];
+      ΔΔ[382] = ΔΔ[361];
+      ΔΔ[383] = ΔΔ[362];
+      ΔΔ[384] = ΔΔ[364];
+      ΔΔ[497] = ΔΔ[495];
+      ΔΔ[385] = ΔΔ[392];
+      ΔΔ[774] = ΔΔ[178];
+      ΔΔ[775] = ΔΔ[179];
+      ΔΔ[386] = ΔΔ[368];
+      ΔΔ[625] = ΔΔ[624];
+      ΔΔ[394] = ΔΔ[393];
+      ΔΔ[1163] = ΔΔ[1162];
+      ΔΔ[506] = ΔΔ[505];
+      ΔΔ[387] = ΔΔ[369];
+      ΔΔ[504] = ΔΔ[502];
+      ΔΔ[388] = ΔΔ[372];
+      ΔΔ[389] = ΔΔ[375];
+      ΔΔ[390] = ΔΔ[378];
+      ΔΔ[501] = ΔΔ[499];
+      ΔΔ[391] = ΔΔ[381];
+      ΔΔ[403] = ΔΔ[401];
+      ΔΔ[397] = ΔΔ[395];
+      ΔΔ[400] = ΔΔ[398];
+      ΔΔ[406] = ΔΔ[404];
+      ΔΔ[474] = ΔΔ[472];
+      ΔΔ[875] = ΔΔ[874];
+      ΔΔ[552] = ΔΔ[550];
+      ΔΔ[710] = ΔΔ[709];
+      ΔΔ[479] = ΔΔ[477];
+      ΔΔ[482] = ΔΔ[480];
+      ΔΔ[485] = ΔΔ[483];
+      ΔΔ[488] = ΔΔ[486];
+      ΔΔ[410] = ΔΔ[408];
+      ΔΔ[719] = ΔΔ[717];
+      ΔΔ[422] = ΔΔ[420];
+      ΔΔ[431] = ΔΔ[429];
+      ΔΔ[434] = ΔΔ[432];
+      ΔΔ[437] = ΔΔ[435];
+      ΔΔ[543] = ΔΔ[541];
+      ΔΔ[733] = ΔΔ[732];
+      ΔΔ[440] = ΔΔ[438];
+      ΔΔ[443] = ΔΔ[441];
+      ΔΔ[446] = ΔΔ[418];
+      ΔΔ[606] = ΔΔ[605];
+      ΔΔ[844] = ΔΔ[842];
+      ΔΔ[683] = ΔΔ[685];
+      ΔΔ[610] = ΔΔ[609];
+      ΔΔ[689] = ΔΔ[143];
+      ΔΔ[686] = ΔΔ[142];
+      ΔΔ[682] = ΔΔ[140];
+      ΔΔ[615] = ΔΔ[613];
+      ΔΔ[614] = ΔΔ[612];
+      ΔΔ[628] = ΔΔ[626];
+      ΔΔ[630] = ΔΔ[629];
+      ΔΔ[636] = ΔΔ[634];
+      ΔΔ[868] = ΔΔ[200];
+      ΔΔ[867] = ΔΔ[866];
+      ΔΔ[648] = ΔΔ[646];
+      ΔΔ[651] = ΔΔ[649];
+      ΔΔ[653] = ΔΔ[652];
+      ΔΔ[661] = ΔΔ[659];
+      ΔΔ[898] = ΔΔ[196];
+      ΔΔ[663] = ΔΔ[662];
+      ΔΔ[665] = ΔΔ[664];
+      ΔΔ[675] = ΔΔ[674];
+      ΔΔ[731] = ΔΔ[145];
+      ΔΔ[757] = ΔΔ[756];
+      ΔΔ[759] = ΔΔ[176];
+      ΔΔ[761] = ΔΔ[760];
+      ΔΔ[763] = ΔΔ[177];
+      ΔΔ[765] = ΔΔ[764];
+      ΔΔ[766] = ΔΔ[175];
+      ΔΔ[769] = ΔΔ[767];
+      ΔΔ[773] = ΔΔ[771];
+      ΔΔ[778] = ΔΔ[776];
+      ΔΔ[781] = ΔΔ[779];
+      ΔΔ[787] = ΔΔ[181];
+      ΔΔ[786] = ΔΔ[180];
+      ΔΔ[790] = ΔΔ[789];
+      ΔΔ[801] = ΔΔ[800];
+      ΔΔ[810] = ΔΔ[808];
+      ΔΔ[836] = ΔΔ[834];
+      ΔΔ[847] = ΔΔ[845];
+      ΔΔ[828] = ΔΔ[826];
     })();
-    ΔΔ[Xr.ⵠⲆᐃᐃⵠΔᐃ] = [];
-    ΔΔ[Xr.ⵠⲆᐃᐃⵠΔᐃ][Xr.ⲆᐃΔ] = [];
-    ΔΔ[Xr.ⵠⲆᐃᐃⵠΔᐃ][Xr.ΔⲆⵠ] = [];
+    ΔΔ[540] = [];
+    ΔΔ[540][Xr.ⲆᐃΔ] = [];
+    ΔΔ[540][Xr.ΔⲆⵠ] = [];
     for (var a = fl; a < Xr.ⲆⵠᐃᐃᐃⲆᐃ; a++) {
-      ΔΔ[Xr.ⵠⲆᐃᐃⵠΔᐃ][Xr.ⲆᐃΔ].push(pr(tc(1, 4 + a, "#59B8CE")));
-      ΔΔ[Xr.ⵠⲆᐃᐃⵠΔᐃ][Xr.ΔⲆⵠ].push(pr(tc(1, Ct + a, "#90DDD9")));
+      ΔΔ[540][Xr.ⲆᐃΔ].push(pr(tc(1, 4 + a, "#59B8CE")));
+      ΔΔ[540][Xr.ΔⲆⵠ].push(pr(tc(1, Ct + a, "#90DDD9")));
     }
-    ΔΔ[Xr.ⲆⵠⲆΔⵠΔⲆ] = [];
-    ΔΔ[Xr.ⲆⵠⲆΔⵠΔⲆ][Xr.ⲆᐃΔ] = [];
-    ΔΔ[Xr.ⲆⵠⲆΔⵠΔⲆ][Xr.ΔⲆⵠ] = [];
+    ΔΔ[470] = [];
+    ΔΔ[470][Xr.ⲆᐃΔ] = [];
+    ΔΔ[470][Xr.ΔⲆⵠ] = [];
     for (a = 0; a < Xr.ⵠᐃⵠⵠΔᐃⲆ; a++) {
-      ΔΔ[Xr.ⲆⵠⲆΔⵠΔⲆ][Xr.ⲆᐃΔ].push(pr(tc(1, 4 + a, "#fff")));
-      ΔΔ[Xr.ⲆⵠⲆΔⵠΔⲆ][Xr.ΔⲆⵠ].push(pr(tc(1, 4 + a, "#fff")));
+      ΔΔ[470][Xr.ⲆᐃΔ].push(pr(tc(1, 4 + a, "#fff")));
+      ΔΔ[470][Xr.ΔⲆⵠ].push(pr(tc(1, 4 + a, "#fff")));
     }
-    ΔΔ[Xr.ΔⲆⲆⵠΔⵠᐃ] = [];
-    ΔΔ[Xr.ΔⲆⲆⵠΔⵠᐃ][Xr.ⲆᐃΔ] = [];
-    ΔΔ[Xr.ΔⲆⲆⵠΔⵠᐃ][Xr.ΔⲆⵠ] = [];
+    ΔΔ[471] = [];
+    ΔΔ[471][Xr.ⲆᐃΔ] = [];
+    ΔΔ[471][Xr.ΔⲆⵠ] = [];
     for (a = 0; Xr.ⵠᐃⵠⵠΔᐃⲆ > a; a++) {
-      ΔΔ[Xr.ΔⲆⲆⵠΔⵠᐃ][Xr.ⲆᐃΔ].push(pr(tc(1, Na + a, "#DDCD8A")));
-      ΔΔ[Xr.ΔⲆⲆⵠΔⵠᐃ][Xr.ΔⲆⵠ].push(pr(tc(1, 6 + a, "#155E57")));
+      ΔΔ[471][Xr.ⲆᐃΔ].push(pr(tc(1, Na + a, "#DDCD8A")));
+      ΔΔ[471][Xr.ΔⲆⵠ].push(pr(tc(1, 6 + a, "#155E57")));
     }
-    ΔΔ[Xr.ᐃⲆⵠᐃⲆⵠⲆ] = [];
-    ΔΔ[Xr.ᐃⲆⵠᐃⲆⵠⲆ][Xr.ⲆᐃΔ] = [];
-    ΔΔ[Xr.ᐃⲆⵠᐃⲆⵠⲆ][Xr.ΔⲆⵠ] = [];
+    ΔΔ[942] = [];
+    ΔΔ[942][Xr.ⲆᐃΔ] = [];
+    ΔΔ[942][Xr.ΔⲆⵠ] = [];
     for (a = Hi; a < Xr.ᐃᐃⲆⲆⵠᐃΔ; a++) {
-      ΔΔ[Xr.ᐃⲆⵠᐃⲆⵠⲆ][Xr.ⲆᐃΔ].push(pr(tc(1, Vn + a, "#353326")));
-      ΔΔ[Xr.ᐃⲆⵠᐃⲆⵠⲆ][Xr.ΔⲆⵠ].push(pr(tc(1, Wg + a, "#1D2526")));
+      ΔΔ[942][Xr.ⲆᐃΔ].push(pr(tc(1, Vn + a, "#353326")));
+      ΔΔ[942][Xr.ΔⲆⵠ].push(pr(tc(1, Wg + a, "#1D2526")));
     }
-    ΔΔ[Xr.ⵠᐃΔⲆⲆ] = [];
-    ΔΔ[Xr.ⵠᐃΔⲆⲆ][Xr.ⲆᐃΔ] = pr(_b(1.5, 0, ["#ee71a9"]));
-    ΔΔ[Xr.ⵠᐃΔⲆⲆ][Xr.ΔⲆⵠ] = pr(_b(1.5, 0, ["#ee71a9"]));
-    ΔΔ[Xr.ᐃⵠᐃⵠⲆ] = [ΔΔ[Xr.ⵠᐃΔⲆⲆ]];
-    ΔΔ[Xr.ᐃⵠᐃⵠⲆ][$b] = [];
-    ΔΔ[Xr.ᐃⵠᐃⵠⲆ][2] = [];
-    ΔΔ[Xr.ᐃⵠᐃⵠⲆ][3] = [];
-    ΔΔ[Xr.ᐃⵠᐃⵠⲆ][4] = [];
-    ΔΔ[Xr.ᐃⵠᐃⵠⲆ][1][Xr.ⲆᐃΔ] = pr(_b(1.5, 0, ["#e2d63b"]));
-    ΔΔ[Xr.ᐃⵠᐃⵠⲆ][$b][Xr.ΔⲆⵠ] = pr(_b(1.5, 0, ["#e2d63b"]));
-    ΔΔ[Xr.ᐃⵠᐃⵠⲆ][2][Xr.ⲆᐃΔ] = pr(_b(1.5, 0, ["#309cbd"]));
-    ΔΔ[Xr.ᐃⵠᐃⵠⲆ][2][Xr.ΔⲆⵠ] = pr(_b(1.5, 0, ["#309cbd"]));
-    ΔΔ[Xr.ᐃⵠᐃⵠⲆ][ut][Xr.ⲆᐃΔ] = pr(_b(1.5, 0, ["#cd232d"]));
-    ΔΔ[Xr.ᐃⵠᐃⵠⲆ][3][Xr.ΔⲆⵠ] = pr(_b(1.5, 0, ["#cd232d"]));
-    ΔΔ[Xr.ᐃⵠᐃⵠⲆ][ls][Xr.ⲆᐃΔ] = pr(_b(1.5, 0, ["#42b672"]));
-    ΔΔ[Xr.ᐃⵠᐃⵠⲆ][4][Xr.ΔⲆⵠ] = pr(_b(1.5, 0, ["#42b672"]));
+    ΔΔ[201] = [];
+    ΔΔ[201][Xr.ⲆᐃΔ] = pr(_b(1.5, 0, ["#ee71a9"]));
+    ΔΔ[201][Xr.ΔⲆⵠ] = pr(_b(1.5, 0, ["#ee71a9"]));
+    ΔΔ[872] = [ΔΔ[201]];
+    ΔΔ[872][$b] = [];
+    ΔΔ[872][2] = [];
+    ΔΔ[872][3] = [];
+    ΔΔ[872][4] = [];
+    ΔΔ[872][1][Xr.ⲆᐃΔ] = pr(_b(1.5, 0, ["#e2d63b"]));
+    ΔΔ[872][$b][Xr.ΔⲆⵠ] = pr(_b(1.5, 0, ["#e2d63b"]));
+    ΔΔ[872][2][Xr.ⲆᐃΔ] = pr(_b(1.5, 0, ["#309cbd"]));
+    ΔΔ[872][2][Xr.ΔⲆⵠ] = pr(_b(1.5, 0, ["#309cbd"]));
+    ΔΔ[872][ut][Xr.ⲆᐃΔ] = pr(_b(1.5, 0, ["#cd232d"]));
+    ΔΔ[872][3][Xr.ΔⲆⵠ] = pr(_b(1.5, 0, ["#cd232d"]));
+    ΔΔ[872][ls][Xr.ⲆᐃΔ] = pr(_b(1.5, 0, ["#42b672"]));
+    ΔΔ[872][4][Xr.ΔⲆⵠ] = pr(_b(1.5, 0, ["#42b672"]));
     if (ᐃⵠΔⲆ.ΔᐃΔⵠᐃᐃΔ("cti", dj.location.href)) {
       document.getElementById("version").innerHTML += "[CTI]";
     } else {
@@ -24860,7 +24860,7 @@
         return a;
       };
     }
-    ΔΔ[Xr.ⵠⲆⲆⲆⲆΔⲆ] = pr(function () {
+    ΔΔ[797] = pr(function () {
       var a = document.createElement("canvas");
       var b = a.getContext("2d");
       a.width = 460;
@@ -24878,218 +24878,218 @@
       }
       return a;
     }());
-    ΔΔ[Xr.ⵠⵠⲆΔΔ] = [];
-    ΔΔ[Xr.ⵠⵠⲆΔΔ][Xr.ⲆᐃΔ] = [];
-    ΔΔ[Xr.ⵠⵠⲆΔΔ][Xr.ΔⲆⵠ] = [];
-    ΔΔ[Xr.ⵠⵠⲆΔΔ][Xr.ⲆᐃΔ].push(pr(ed(1.1, 0, ["#0a2d18", "#c3d1cb", "#e4efe8"])));
-    ΔΔ[Xr.ⵠⵠⲆΔΔ][Xr.ⲆᐃΔ].push(pr(ed(0.9, 0, ["#0a2d18", "#c3d1cb", "#e4efe8"])));
-    ΔΔ[Xr.ⵠⵠⲆΔΔ][Xr.ⲆᐃΔ].push(pr(ed(0.6, 0, ["#0a2d18", "#c3d1cb", "#e4efe8"])));
-    ΔΔ[Xr.ⵠⵠⲆΔΔ][Xr.ΔⲆⵠ].push(pr(ed(1.1, 0, ["#0a2728", "#3c8e88", "#40a39b"])));
-    ΔΔ[Xr.ⵠⵠⲆΔΔ][Xr.ΔⲆⵠ].push(pr(ed(0.9, 0, ["#0a2728", "#3c8e88", "#40a39b"])));
-    ΔΔ[Xr.ⵠⵠⲆΔΔ][Xr.ΔⲆⵠ].push(pr(ed(0.6, 0, ["#0a2728", "#3c8e88", "#40a39b"])));
-    ΔΔ[Xr.ᐃⲆⵠᐃ] = [];
-    ΔΔ[Xr.ᐃⲆⵠᐃ][Xr.ⲆᐃΔ] = [];
-    ΔΔ[Xr.ᐃⲆⵠᐃ][Xr.ΔⲆⵠ] = [];
-    ΔΔ[Xr.ᐃⲆⵠᐃ][Xr.ⲆᐃΔ].push(pr(rd(1.5, 0, ["#2b280a", "#ddcf8a", "#f4efc6"])));
-    ΔΔ[Xr.ᐃⲆⵠᐃ][Xr.ⲆᐃΔ].push(pr(rd(1.3, 0, ["#2b280a", "#ddcf8a", "#f4efc6"])));
-    ΔΔ[Xr.ᐃⲆⵠᐃ][Xr.ⲆᐃΔ].push(pr(rd(1.1, 0, ["#2b280a", "#ddcf8a", "#f4efc6"])));
-    ΔΔ[Xr.ᐃⲆⵠᐃ][Xr.ΔⲆⵠ].push(pr(rd(1.5, 0, ["#030d14", "#1b4444", "#16605a"])));
-    ΔΔ[Xr.ᐃⲆⵠᐃ][Xr.ΔⲆⵠ].push(pr(rd(1.3, 0, ["#030d14", "#1b4444", "#16605a"])));
-    ΔΔ[Xr.ᐃⲆⵠᐃ][Xr.ΔⲆⵠ].push(pr(rd(1.1, 0, ["#030d14", "#1b4444", "#16605a"])));
-    ΔΔ[Xr.ᐃⲆΔⵠ] = [];
-    ΔΔ[Xr.ᐃⲆΔⵠ][Xr.ⲆᐃΔ] = [];
-    ΔΔ[Xr.ᐃⲆΔⵠ][Xr.ΔⲆⵠ] = [];
-    ΔΔ[Xr.ᐃⲆΔⵠ][Xr.ⲆᐃΔ].push(pr(od(1.1, 0, ["#232828", "#3fc9c9", "#74ede6"])));
-    ΔΔ[Xr.ᐃⲆΔⵠ][Xr.ⲆᐃΔ].push(pr(od(0.9, 0, ["#232828", "#3fc9c9", "#74ede6"])));
-    ΔΔ[Xr.ᐃⲆΔⵠ][Xr.ⲆᐃΔ].push(pr(od(0.7, 0, ["#232828", "#3fc9c9", "#74ede6"])));
-    ΔΔ[Xr.ᐃⲆΔⵠ][Xr.ΔⲆⵠ].push(pr(od(1.1, 0, ["#030d14", "#2b9390", "#57bcb5"])));
-    ΔΔ[Xr.ᐃⲆΔⵠ][Xr.ΔⲆⵠ].push(pr(od(0.9, 0, ["#030d14", "#2b9390", "#57bcb5"])));
-    ΔΔ[Xr.ᐃⲆΔⵠ][Xr.ΔⲆⵠ].push(pr(od(0.7, 0, ["#030d14", "#2b9390", "#57bcb5"])));
-    ΔΔ[Xr.ⵠΔᐃⵠⲆ] = [];
-    ΔΔ[Xr.ⵠΔᐃⵠⲆ][Xr.ⲆᐃΔ] = Ⲇⵠ.ᐃⵠⲆⵠⵠⵠΔ;
-    ΔΔ[Xr.ⵠΔᐃⵠⲆ][Xr.ΔⲆⵠ] = Ⲇⵠ.ΔᐃᐃΔⲆⲆⲆ;
-    ΔΔ[Xr.ᐃᐃⵠᐃⲆ] = [];
-    ΔΔ[Xr.ᐃᐃⵠᐃⲆ][Xr.ⲆᐃΔ] = pr(Fu(0.6, ["#0d1b1c"]));
-    ΔΔ[Xr.ᐃᐃⵠᐃⲆ][Xr.ΔⲆⵠ] = pr(Fu(0.6, ["#030d14"]));
-    ΔΔ[Xr.ⲆⵠⵠⲆΔ] = [];
-    ΔΔ[Xr.ⲆⵠⵠⲆΔ][Xr.ⲆᐃΔ] = pr(lu(0.6, ["#2a2938", "#242330"]));
-    ΔΔ[Xr.ⲆⵠⵠⲆΔ][Xr.ΔⲆⵠ] = pr(lu(0.6, ["#1b1e30", "#161921"]));
-    ΔΔ[Xr.ΔⵠΔᐃΔᐃᐃ] = [];
-    ΔΔ[Xr.ΔⵠΔᐃΔᐃᐃ][Xr.ⲆᐃΔ] = pr(Rb(0.6, 0, ["#0d1b1c", "#759e6e", "#55604b", "#7d7252", "#575043"]));
-    ΔΔ[Xr.ΔⵠΔᐃΔᐃᐃ][Xr.ΔⲆⵠ] = pr(Rb(0.6, 0, ["#030d14", "#11635e", "#02373e", "#0b524d", "#07423f"]));
-    ΔΔ[Xr.ⲆⲆⵠⲆⵠᐃⵠ] = [];
-    ΔΔ[Xr.ⲆⲆⵠⲆⵠᐃⵠ][Xr.ⲆᐃΔ] = pr(Fb(0.6, 0, ["#0d1b1c", "#759e6e", "#55604b", "#f9ccd4", "#891a1e", "#da232e", "#a52026", "#a02d28", "#721819", "#FFFFFF"]));
-    ΔΔ[Xr.ⲆⲆⵠⲆⵠᐃⵠ][Xr.ΔⲆⵠ] = pr(Fb(0.6, 0, ["#030d14", "#11635e", "#02373e", "#167771", "#0c5752", "#401d49", "#2e1336", "#261336", "#23163c", "#FFFFFF"]));
-    ΔΔ[Xr.ⲆⵠᐃⲆⲆᐃΔ] = [];
-    ΔΔ[Xr.ⲆⵠᐃⲆⲆᐃΔ][Xr.ⲆᐃΔ] = pr(mu(0.4, ["#0d1b1c", "#759e6e", "#55604b"]));
-    ΔΔ[Xr.ⲆⵠᐃⲆⲆᐃΔ][Xr.ΔⲆⵠ] = pr(mu(0.4, ["#030d14", "#11635e", "#02373e"]));
-    ΔΔ[Xr.ᐃΔⲆᐃⵠⲆⵠ] = pr(Gb(0.6, ["#BB0000"]));
-    ΔΔ[Xr.ᐃⵠΔΔᐃΔΔ] = pr(Gb(0.6, ["#DBE71C"]));
-    ΔΔ[Xr.ᐃᐃᐃᐃⵠΔᐃ] = pr(Gb(0.6, ["#00BB00"]));
-    ΔΔ[Xr.ΔΔⵠⲆ] = [];
-    ΔΔ[Xr.ΔΔⵠⲆ][Xr.ⲆᐃΔ] = [];
-    ΔΔ[Xr.ΔΔⵠⲆ][Xr.ΔⲆⵠ] = [];
-    ΔΔ[Xr.ΔΔⵠⲆ][Xr.ⲆᐃΔ].push(Bu(1.1, ["#242503", "#8e7c0c", "#6d5903", "#9e8320", "#f0f4f0", "#FFFFFF"], false, 0));
-    ΔΔ[Xr.ΔΔⵠⲆ][Xr.ⲆᐃΔ].push(Bu(1.1, ["#242503", "#8e7c0c", "#6d5903", "#9e8320", "#f0f4f0", "#FFFFFF"], true, Bb));
-    ΔΔ[Xr.ΔΔⵠⲆ][Xr.ⲆᐃΔ].push(Bu(0.9, ["#242503", "#898e0c", "#757303", "#9e9b20", "#f0f4f0", "#FFFFFF"], false, ya));
-    ΔΔ[Xr.ΔΔⵠⲆ][Xr.ⲆᐃΔ].push(Bu(0.9, ["#242503", "#963400", "#7c2200", "#a83204", "#f0f4f0", "#FFFFFF"], kh, ig));
-    ΔΔ[Xr.ΔΔⵠⲆ][Xr.ⲆᐃΔ].push(Bu(0.7, ["#242503", "#6d5a09", "#77591a", "#7b5a1f", "#f0f4f0", "#FFFFFF"], false, Yh));
-    ΔΔ[Xr.ΔΔⵠⲆ][Xr.ⲆᐃΔ].push(Bu(0.7, ["#242503", "#703700", "#813009", "#813009", "#f0f4f0", "#FFFFFF"], us, Mg));
-    ΔΔ[Xr.ΔΔⵠⲆ][Xr.ΔⲆⵠ].push(Bu(1.1, ["#030d14", "#12493d", "#0e3831", "#155247", "#f0f4f0", "#16695f"], false, 0));
-    ΔΔ[Xr.ΔΔⵠⲆ][Xr.ΔⲆⵠ].push(Bu(1.1, ["#030d14", "#12493d", "#0e3831", "#155247", "#16695f"], true, wg));
-    ΔΔ[Xr.ΔΔⵠⲆ][Xr.ΔⲆⵠ].push(Bu(0.9, ["#030d14", "#0b3629", "#144437", "#174235", "#16695f"], Ta, 0));
-    ΔΔ[Xr.ΔΔⵠⲆ][Xr.ΔⲆⵠ].push(Bu(0.9, ["#030d14", "#0d2522", "#0c2821", "#0d2a28", "#16695f"], true, Lr));
-    ΔΔ[Xr.ΔΔⵠⲆ][Xr.ΔⲆⵠ].push(Bu(0.7, ["#030d14", "#082b1f", "#073328", "#073327", "#16695f"], false, wg));
-    ΔΔ[Xr.ΔΔⵠⲆ][Xr.ΔⲆⵠ].push(Bu(0.7, ["#030d14", "#0c2823", "#0b2b23", "#0c2d24", "#16695f"], true, 0));
-    ΔΔ[Xr.ΔⵠᐃⲆΔ] = [];
-    ΔΔ[Xr.ΔⵠᐃⲆΔ][Xr.ⲆᐃΔ] = [];
-    ΔΔ[Xr.ΔⵠᐃⲆΔ][Xr.ΔⲆⵠ] = [];
-    ΔΔ[Xr.ΔⵠᐃⲆΔ][Xr.ⲆᐃΔ].push(pr(vu(Du(1.1, ["#242503", "#4d2d14", "#432516", "#756608", "#5b4a02", "#8b731b"], false), ΔΔ[Xr.ΔΔⵠⲆ][Xr.ⲆᐃΔ][0])));
-    ΔΔ[Xr.ΔⵠᐃⲆΔ][Xr.ⲆᐃΔ].push(pr(vu(Du(1.1, ["#242503", "#4d2d14", "#432516", "#756608", "#5b4a02", "#8b731b"], true), ΔΔ[Xr.ΔΔⵠⲆ][Xr.ⲆᐃΔ][Te])));
-    ΔΔ[Xr.ΔⵠᐃⲆΔ][Xr.ΔⲆⵠ].push(pr(vu(Du(1.1, ["#030d14", "#031619", "#041c21", "#0e3b31", "#0b2e28", "#10443a"], jl), ΔΔ[Xr.ΔΔⵠⲆ][Xr.ΔⲆⵠ][Qs])));
-    ΔΔ[Xr.ΔⵠᐃⲆΔ][Xr.ΔⲆⵠ].push(pr(vu(Du(1.1, ["#030d14", "#031619", "#041c21", "#0e3b31", "#0b2e28", "#10443a"], true), ΔΔ[Xr.ΔΔⵠⲆ][Xr.ΔⲆⵠ][1])));
-    ΔΔ[Xr.ΔⵠᐃⲆΔ][Xr.ⲆᐃΔ].push(pr(vu(Du(0.9, ["#242503", "#4d2d14", "#432516", "#6d6c09", "#686609", "#777310"], false), ΔΔ[Xr.ΔΔⵠⲆ][Xr.ⲆᐃΔ][Ug])));
-    ΔΔ[Xr.ΔⵠᐃⲆΔ][Xr.ⲆᐃΔ].push(pr(vu(Du(0.9, ["#242503", "#4d2d14", "#432516", "#6d6c09", "#686609", "#777310"], mh), ΔΔ[Xr.ΔΔⵠⲆ][Xr.ⲆᐃΔ][2])));
-    ΔΔ[Xr.ΔⵠᐃⲆΔ][Xr.ΔⲆⵠ].push(pr(vu(Du(0.9, ["#030d14", "#031619", "#041c21", "#0d2522", "#0c2821", "#0d2a28"], Qg), ΔΔ[Xr.ΔΔⵠⲆ][Xr.ΔⲆⵠ][xj])));
-    ΔΔ[Xr.ΔⵠᐃⲆΔ][Xr.ΔⲆⵠ].push(pr(vu(Du(0.9, ["#030d14", "#031619", "#041c21", "#0c2823", "#0b2b23", "#0c2d24"], Gq), ΔΔ[Xr.ΔΔⵠⲆ][Xr.ΔⲆⵠ][Tt])));
-    ΔΔ[Xr.ΔΔⵠⲆ][Xr.ⲆᐃΔ][5] = pr(ΔΔ[Xr.ΔΔⵠⲆ][Xr.ⲆᐃΔ][5]);
-    ΔΔ[Xr.ΔΔⵠⲆ][Xr.ⲆᐃΔ][4] = pr(ΔΔ[Xr.ΔΔⵠⲆ][Xr.ⲆᐃΔ][4]);
-    ΔΔ[Xr.ΔΔⵠⲆ][Xr.ⲆᐃΔ][ea] = pr(ΔΔ[Xr.ΔΔⵠⲆ][Xr.ⲆᐃΔ][ut]);
-    ΔΔ[Xr.ΔΔⵠⲆ][Xr.ⲆᐃΔ][2] = pr(ΔΔ[Xr.ΔΔⵠⲆ][Xr.ⲆᐃΔ][2]);
-    ΔΔ[Xr.ΔΔⵠⲆ][Xr.ⲆᐃΔ][pu] = pr(ΔΔ[Xr.ΔΔⵠⲆ][Xr.ⲆᐃΔ][1]);
-    ΔΔ[Xr.ΔΔⵠⲆ][Xr.ⲆᐃΔ][0] = pr(ΔΔ[Xr.ΔΔⵠⲆ][Xr.ⲆᐃΔ][0]);
-    ΔΔ[Xr.ΔΔⵠⲆ][Xr.ΔⲆⵠ][5] = pr(ΔΔ[Xr.ΔΔⵠⲆ][Xr.ΔⲆⵠ][Oj]);
-    ΔΔ[Xr.ΔΔⵠⲆ][Xr.ΔⲆⵠ][$i] = pr(ΔΔ[Xr.ΔΔⵠⲆ][Xr.ΔⲆⵠ][ba]);
-    ΔΔ[Xr.ΔΔⵠⲆ][Xr.ΔⲆⵠ][3] = pr(ΔΔ[Xr.ΔΔⵠⲆ][Xr.ΔⲆⵠ][yr]);
-    ΔΔ[Xr.ΔΔⵠⲆ][Xr.ΔⲆⵠ][Rl] = pr(ΔΔ[Xr.ΔΔⵠⲆ][Xr.ΔⲆⵠ][2]);
-    ΔΔ[Xr.ΔΔⵠⲆ][Xr.ΔⲆⵠ][Te] = pr(ΔΔ[Xr.ΔΔⵠⲆ][Xr.ΔⲆⵠ][1]);
-    ΔΔ[Xr.ΔΔⵠⲆ][Xr.ΔⲆⵠ][Lr] = pr(ΔΔ[Xr.ΔΔⵠⲆ][Xr.ΔⲆⵠ][0]);
-    ΔΔ[Xr.ⲆΔⲆⲆⵠ] = [];
-    ΔΔ[Xr.ⲆΔⲆⲆⵠ][Xr.ⲆᐃΔ] = pr(wb(Ct, Eu(0.75, true, ["#0d1b1c", "#000000", "#0d1b1c", "#4d2d14", "#432516", "#4d2d14", "#432516"])));
-    ΔΔ[Xr.ⲆΔⲆⲆⵠ][Xr.ΔⲆⵠ] = pr(wb(Wg, Eu(0.75, true, ["#030d14", "#000000", "#030d14", "#0d2e33", "#0b2326", "#0d2e33", "#0b2326"])));
-    ΔΔ[Xr.ⲆⵠⵠⲆⲆ] = [];
-    ΔΔ[Xr.ⲆⵠⵠⲆⲆ][Xr.ⲆᐃΔ] = pr(wb($i, Eu(0.75, true, ["#0d1b1c", "#000000", "#0d1b1c", "#4d2d14", "#432516", "#939393", "#5f6061"])));
-    ΔΔ[Xr.ⲆⵠⵠⲆⲆ][Xr.ΔⲆⵠ] = pr(wb(4, Eu(0.75, true, ["#030d14", "#000000", "#030d14", "#0d2e33", "#0b2326", "#485e66", "#1f343f"])));
-    ΔΔ[Xr.ⵠᐃⲆΔΔ] = [];
-    ΔΔ[Xr.ⵠᐃⲆΔΔ][Xr.ⲆᐃΔ] = pr(wb(4, Eu(0.75, xk, ["#0d1b1c", "#000000", "#0d1b1c", "#493e26", "#382e19", "#c4bc51", "#b29c32"])));
-    ΔΔ[Xr.ⵠᐃⲆΔΔ][Xr.ΔⲆⵠ] = pr(wb(Mq, Eu(0.75, oa, ["#030d14", "#000000", "#030d14", "#263947", "#263947", "#43aa82", "#29997c"])));
-    ΔΔ[Xr.ᐃⲆⵠΔⲆ] = [];
-    ΔΔ[Xr.ᐃⲆⵠΔⲆ][Xr.ⲆᐃΔ] = pr(wb(ls, Eu(0.75, true, ["#0d1b1c", "#000000", "#0d1b1c", "#262114", "#211108", "#63c9d6", "#29aaa1"])));
-    ΔΔ[Xr.ᐃⲆⵠΔⲆ][Xr.ΔⲆⵠ] = pr(wb(4, Eu(0.75, true, ["#030d14", "#000000", "#030d14", "#111316", "#0a0b0c", "#73dde5", "#3dc4c0"])));
-    ΔΔ[Xr.ΔⲆⲆⵠⲆ] = [];
-    ΔΔ[Xr.ΔⲆⲆⵠⲆ][Xr.ⲆᐃΔ] = pr(wb(4, Eu(0.75, true, ["#0d1b1c", "#000000", "#0d1b1c", "#262114", "#211108", "#b864d6", "#8c29aa"])));
-    ΔΔ[Xr.ΔⲆⲆⵠⲆ][Xr.ΔⲆⵠ] = pr(wb(es, Eu(0.75, true, ["#030d14", "#000000", "#030d14", "#111316", "#0a0b0c", "#8359d3", "#764eb5"])));
-    ΔΔ[Xr.ⵠΔᐃᐃⵠ] = [];
-    ΔΔ[Xr.ⵠΔᐃᐃⵠ][Xr.ⲆᐃΔ] = pr(wb(3, tu(0.17, true, ["#0d1b1c", "#4a3a22", "#362818", "#c7c7c7", "#909090", "#eceaea", "#bbbbbb", "#d6d1d1"])));
-    ΔΔ[Xr.ⵠΔᐃᐃⵠ][Xr.ΔⲆⵠ] = pr(wb(I, tu(0.17, us, ["#0d1b1c", "#0d2e33", "#0b2326", "#59737d", "#364f59", "#618395", "#4d768c", "#54859f"])));
-    ΔΔ[Xr.ᐃΔᐃⵠⵠ] = [];
-    ΔΔ[Xr.ᐃΔᐃⵠⵠ][Xr.ⲆᐃΔ] = pr(wb(I, Mu(0.32, xk, ["#0d1b1c", "#ffffff", "#5f6061", "#eb2933", "#57b74e", "#42a54d", "#ac222a", "#e6636a"])));
-    ΔΔ[Xr.ᐃΔᐃⵠⵠ][Xr.ΔⲆⵠ] = pr(wb(Tt, Mu(0.42, Gj, ["#0d1b1c", "#485e66", "#1f343f", "#0d2e33", "#0b2326"])));
-    ΔΔ[Xr.ΔⵠᐃΔᐃ] = [];
-    ΔΔ[Xr.ΔⵠᐃΔᐃ][Xr.ⲆᐃΔ] = pr(wb(xb, Iu(0.4, fs, ["#0d1b1c", "#73583e", "#493425", "#7d6144", "#5e4530", "#473221", "#745840"])));
-    ΔΔ[Xr.ΔⵠᐃΔᐃ][Xr.ΔⲆⵠ] = pr(wb(fn, Iu(0.4, true, ["#0d1b1c", "#0b3d3a", "#092b2a", "#144642", "#082927", "#092b29"])));
-    ΔΔ[Xr.ᐃᐃⲆΔⲆ] = [];
-    ΔΔ[Xr.ᐃᐃⲆΔⲆ][Xr.ⲆᐃΔ] = pr(wb(3, Cu(0.4, true, ["#0d1b1c", "#939393", "#5f6061", "#b1afaf", "#493d36", "#332b28"])));
-    ΔΔ[Xr.ᐃᐃⲆΔⲆ][Xr.ΔⲆⵠ] = pr(wb(3, Cu(0.4, true, ["#0d1b1c", "#485e66", "#1f343f", "#5d757e", "#0d2e33", "#0b2326"])));
-    ΔΔ[Xr.ⵠΔΔΔΔ] = [];
-    ΔΔ[Xr.ⵠΔΔΔΔ][Xr.ⲆᐃΔ] = pr(wb(3, Gu(0.4, true, ["#0d1b1c", "#c4bc51", "#b29c32", "#c4bc51", "#493e26", "#382e19"])));
-    ΔΔ[Xr.ⵠΔΔΔΔ][Xr.ΔⲆⵠ] = pr(wb(3, Gu(0.4, un, ["#0d1b1c", "#43aa82", "#29997c", "#54bf96", "#263947", "#182935"])));
-    ΔΔ[Xr.ᐃΔⲆᐃΔ] = [];
-    ΔΔ[Xr.ᐃΔⲆᐃΔ][Xr.ⲆᐃΔ] = pr(wb(3, xu(0.4, true, ["#0d1b1c", "#6ad9e8", "#29aaa1", "#95e9f5", "#022320", "#011e19", "#FFFFFF"])));
-    ΔΔ[Xr.ᐃΔⲆᐃΔ][Xr.ΔⲆⵠ] = pr(wb(ci, xu(0.4, Tg, ["#0d1b1c", "#73dde5", "#3dc4c0", "#93eaf1", "#111316", "#0a0b0c"])));
-    ΔΔ[Xr.ΔⲆᐃⵠΔ] = [];
-    ΔΔ[Xr.ΔⲆᐃⵠΔ][Xr.ⲆᐃΔ] = pr(wb(ll, Ou(0.4, us, ["#0d1b1c", "#b864d6", "#8c29aa", "#cc81e7", "#262114", "#211108", "#FFFFFF"])));
-    ΔΔ[Xr.ΔⲆᐃⵠΔ][Xr.ΔⲆⵠ] = pr(wb(3, Ou(0.4, true, ["#0d1b1c", "#8359d3", "#764eb5", "#966de6", "#111316", "#0a0b0c"])));
-    ΔΔ[Xr.ⵠⲆⲆᐃᐃ] = [];
-    ΔΔ[Xr.ⵠⲆⲆᐃᐃ][Xr.ⲆᐃΔ] = [];
-    ΔΔ[Xr.ⵠⲆⲆᐃᐃ][Xr.ΔⲆⵠ] = [];
-    ΔΔ[Xr.ⵠⲆⲆᐃᐃ][Xr.ⲆᐃΔ].push(pr(Pm(0.9, false, ["#0d4f35"], 0)));
-    ΔΔ[Xr.ⵠⲆⲆᐃᐃ][Xr.ⲆᐃΔ].push(pr(Pm(0.9, false, ["#0d4f35"], 1)));
-    ΔΔ[Xr.ⵠⲆⲆᐃᐃ][Xr.ⲆᐃΔ].push(pr(Pm(0.9, C, ["#0d4f35"], 2)));
-    ΔΔ[Xr.ⵠⲆⲆᐃᐃ][Xr.ΔⲆⵠ].push(pr(Pm(0.9, false, ["#053339"], Bb)));
-    ΔΔ[Xr.ⵠⲆⲆᐃᐃ][Xr.ΔⲆⵠ].push(pr(Pm(0.9, false, ["#053339"], Oq)));
-    ΔΔ[Xr.ⵠⲆⲆᐃᐃ][Xr.ΔⲆⵠ].push(pr(Pm(0.9, al, ["#053339"], 2)));
-    ΔΔ[Xr.ⵠⲆⲆᐃᐃ][Xr.ⲆᐃΔ].push(pr(cc(0.8, ["#241301", "#ba6b0e", "#6d3f04"])));
-    ΔΔ[Xr.ⵠⲆⲆᐃᐃ][Xr.ⲆᐃΔ].push(pr(cc(0.8, ["#292002", "#ba930e", "#6d5704"])));
-    ΔΔ[Xr.ⵠⲆⲆᐃᐃ][Xr.ΔⲆⵠ].push(pr(cc(0.9, ["#052919", "#0a4738", "#06321f"])));
-    ΔΔ[Xr.ⵠⲆⲆᐃᐃ][Xr.ΔⲆⵠ].push(pr(cc(0.8, ["#052918", "#08491c", "#063417"])));
-    ΔΔ[Xr.ⵠΔᐃᐃᐃ] = [];
-    ΔΔ[Xr.ⵠΔᐃᐃᐃ][Xr.ⲆᐃΔ] = pr(wb(Math.PI / xj, hd(0.25, fs, ["#0d1b1c", "#44301b", "#57442a", "#523e26"])));
-    ΔΔ[Xr.ⵠΔᐃᐃᐃ][Xr.ΔⲆⵠ] = pr(wb(Math.PI / 2, hd(0.25, true, ["#030d14", "#082b22", "#0a2f2b", "#072824"])));
-    ΔΔ[Xr.ᐃⵠΔⵠⵠᐃΔ] = [];
-    ΔΔ[Xr.ᐃⵠΔⵠⵠᐃΔ].push(pr(ec(0.25, ["#44301b", "#57442a", "#523e26"], 0)));
-    ΔΔ[Xr.ᐃⵠΔⵠⵠᐃΔ].push(pr(ec(0.25, ["#4f371e", "#624d30", "#5e472c", "#eda80d"], 1)));
-    ΔΔ[Xr.ᐃⵠΔⵠⵠᐃΔ].push(pr(ec(0.25, ["#382715", "#4e3c25", "#473620", "#d7990c"], 2)));
-    ΔΔ[Xr.ᐃᐃᐃⲆΔ] = [];
-    ΔΔ[Xr.ᐃᐃᐃⲆΔ][Xr.ⲆᐃΔ] = [];
-    ΔΔ[Xr.ᐃᐃᐃⲆΔ][Xr.ΔⲆⵠ] = [];
-    ΔΔ[Xr.ᐃᐃᐃⲆΔ][Xr.ⲆᐃΔ].push(pr(wb(Math.PI / It, Fd(0.25, false, ["#0d1b1c", "#44301b", "#57442a", "#523e26", "#9b2b25"], 1))));
-    ΔΔ[Xr.ᐃᐃᐃⲆΔ][Xr.ΔⲆⵠ].push(pr(wb(Math.PI / 2, Fd(0.25, Ei, ["#030d14", "#082b22", "#0a2f2b", "#072824", "#9b2b25"], Gh))));
-    ΔΔ[Xr.ᐃᐃᐃⲆΔ][Xr.ⲆᐃΔ].push(pr(wb(Math.PI / Hj, Fd(0.25, false, ["#0d1b1c", "#44301b", "#57442a", "#523e26", "#4f9246"], 2))));
-    ΔΔ[Xr.ᐃᐃᐃⲆΔ][Xr.ΔⲆⵠ].push(pr(wb(Math.PI / 2, Fd(0.25, Tk, ["#030d14", "#082b22", "#0a2f2b", "#072824", "#4f9246"], rs))));
-    ΔΔ[Xr.ᐃᐃᐃⲆΔ][Xr.ⲆᐃΔ].push(pr(wb(Math.PI / Lt, Fd(0.25, xo, ["#0d1b1c", "#44301b", "#57442a", "#523e26", "#9b2b25", "#ffffff"], 3))));
-    ΔΔ[Xr.ᐃᐃᐃⲆΔ][Xr.ΔⲆⵠ].push(pr(wb(Math.PI / 2, Fd(0.25, false, ["#030d14", "#082b22", "#0a2f2b", "#072824", "#9b2b25", "#ffffff"], nq))));
-    ΔΔ[Xr.ᐃᐃᐃⲆΔ][Xr.ⲆᐃΔ].push(pr(wb(Math.PI / 2, Fd(0.25, Fh, ["#0d1b1c", "#44301b", "#57442a", "#523e26", "#9b2b25", "#362513"], 4))));
-    ΔΔ[Xr.ᐃᐃᐃⲆΔ][Xr.ΔⲆⵠ].push(pr(wb(Math.PI / 2, Fd(0.25, vt, ["#030d14", "#082b22", "#0a2f2b", "#072824", "#9b2b25", "#664d2e"], 4))));
-    ΔΔ[Xr.ⵠᐃⲆⲆⲆ] = [];
-    ΔΔ[Xr.ⵠᐃⲆⲆⲆ][Xr.ⲆᐃΔ] = [pr(ad(1.2, un, ["#352b10", "#80500b", "#7c4908"]))];
-    ΔΔ[Xr.ⵠᐃⲆⲆⲆ][Xr.ΔⲆⵠ] = [pr(ad(1.2, true, ["#030d14", "#0a3429", "#0a2f2b"]))];
-    ΔΔ[Xr.ⵠΔΔⲆⵠⵠⵠ] = [];
-    ΔΔ[Xr.ⵠΔΔⲆⵠⵠⵠ][Xr.ⲆᐃΔ] = pr(ad(0.8, true, ["#0e3022", "#68622D", "#665329"]));
-    ΔΔ[Xr.ⵠΔΔⲆⵠⵠⵠ][Xr.ΔⲆⵠ] = pr(ad(0.8, true, ["#030d14", "#0F3A24", "#083326"]));
-    ΔΔ[Xr.ⵠᐃⵠΔⵠ] = [];
-    ΔΔ[Xr.ⵠᐃⵠΔⵠ][Xr.ⲆᐃΔ] = pr(Sd(0.5, true, ["#1b170c", "#c67933", "#a6692f", "#bd7533", "#86683e", "#6e502d"]));
-    ΔΔ[Xr.ⵠᐃⵠΔⵠ][Xr.ΔⲆⵠ] = pr(Sd(0.5, true, ["#030d14", "#0a3429", "#0a2f2b", "#082f25", "#082925", "#0a3630"]));
-    ΔΔ[Xr.ⲆᐃΔᐃΔ] = [];
-    ΔΔ[Xr.ⲆᐃΔᐃΔ][Xr.ⲆᐃΔ] = pr(Jb(0.5, true, ["#1b170c", "#e8e8e8", "#d2cfcf", "#e0e1e0", "#c4c4c4"]));
-    ΔΔ[Xr.ⲆᐃΔᐃΔ][Xr.ΔⲆⵠ] = pr(Jb(0.5, Gq, ["#030d14", "#2b5254", "#264a46", "#396260", "#244743"]));
-    ΔΔ[Xr.ᐃⲆᐃᐃΔ] = [];
-    ΔΔ[Xr.ᐃⲆᐃᐃΔ][Xr.ⲆᐃΔ] = pr(bc(0.5, true, ["#1b170c", "#349970", "#245c45", "#348361", "#e8e8e8", "#bbbbbb"]));
-    ΔΔ[Xr.ᐃⲆᐃᐃΔ][Xr.ΔⲆⵠ] = pr(bc(0.5, Yl, ["#030d14", "#0d5551", "#074440", "#0f5c58", "#4e8784", "#3f7572"]));
-    ΔΔ[Xr.ΔΔᐃⵠΔᐃⲆ] = [];
-    ΔΔ[Xr.ΔΔᐃⵠΔᐃⲆ][Xr.ⲆᐃΔ] = pr(ad(0.8, Gq, ["#1b170c", "#0b8052", "#077b49"]));
-    ΔΔ[Xr.ΔΔᐃⵠΔᐃⲆ][Xr.ΔⲆⵠ] = pr(ad(0.8, ye, ["#030d14", "#084442", "#0a4049"]));
-    ΔΔ[Xr.ⵠᐃᐃⵠᐃⲆⵠ] = [];
-    ΔΔ[Xr.ⵠᐃᐃⵠᐃⲆⵠ][Xr.ⲆᐃΔ] = pr(Sd(0.5, na, ["#1b170c", "#68622D", "#665329", "#5e5823", "#86683e", "#6e502d"]));
-    ΔΔ[Xr.ⵠᐃᐃⵠᐃⲆⵠ][Xr.ΔⲆⵠ] = pr(Sd(0.5, na, ["#030d14", "#0F3A24", "#083326", "#0c301e", "#062a1f", "#083b2b"]));
-    ΔΔ[Xr.ⲆᐃΔΔᐃΔⵠ] = [];
-    ΔΔ[Xr.ⲆᐃΔΔᐃΔⵠ][Xr.ⲆᐃΔ] = pr(Jb(0.5, qn, ["#1b170c", "#adbe9e", "#7e9178", "#84aa84", "#527556"]));
-    ΔΔ[Xr.ⲆᐃΔΔᐃΔⵠ][Xr.ΔⲆⵠ] = pr(Jb(0.5, true, ["#030d14", "#164a44", "#124244", "#13373b", "#133e3e"]));
-    ΔΔ[Xr.ΔⵠⲆΔᐃⲆⵠ] = [];
-    ΔΔ[Xr.ΔⵠⲆΔᐃⲆⵠ][Xr.ⲆᐃΔ] = pr(bc(0.5, true, ["#1b170c", "#7a9160", "#4a5e3c", "#637e5a", "#c5cfc0", "#8a9685"]));
-    ΔΔ[Xr.ΔⵠⲆΔᐃⲆⵠ][Xr.ΔⲆⵠ] = pr(bc(0.5, true, ["#030d14", "#3e5d5b", "#2f4442", "#354e4c", "#637d7c", "#556b6a"]));
-    ΔΔ[Xr.ΔΔΔΔΔ] = [];
-    ΔΔ[Xr.ΔΔΔΔΔ][Xr.ⲆᐃΔ] = pr(Hd(0.45, true, ["#0e3022", "#ac222a", "#98171e", "#22a84f", "#1f924a"]));
-    ΔΔ[Xr.ΔΔΔΔΔ][Xr.ΔⲆⵠ] = pr(Hd(0.45, ye, ["#0e3022", "#19386e", "#0b2752", "#124252", "#0d3441"]));
-    ΔΔ[Xr.ⲆⵠΔᐃⲆΔᐃ] = pr(Hd(0.65, true, ["rgba(14, 48, 34, 0)", "#BB0000", "#BB0000", "#BB0000", "#BB0000"]));
-    ΔΔ[Xr.ⵠⵠⵠⲆΔ] = [];
-    ΔΔ[Xr.ⵠⵠⵠⲆΔ][Xr.ⲆᐃΔ] = pr(td(1.4, 0, ["#3d2a6e", "#8255b5"]));
-    ΔΔ[Xr.ⵠⵠⵠⲆΔ][Xr.ΔⲆⵠ] = pr(td(1.4, 0, ["#26124f", "#524082"]));
-    ΔΔ[Xr.ΔᐃᐃⲆⲆ] = [];
-    ΔΔ[Xr.ΔᐃᐃⲆⲆ][Xr.ⲆᐃΔ] = pr(hu(0.9, 0, ["#efd435", "#ec8d35", "#e96132"]));
-    ΔΔ[Xr.ΔᐃᐃⲆⲆ][Xr.ΔⲆⵠ] = pr(hu(0.9, 0, ["#efdb7b", "#efe854", "#e8ef62"]));
-    ΔΔ[Xr.ⵠᐃΔᐃⵠᐃⵠ] = [];
-    ΔΔ[Xr.ⵠᐃΔᐃⵠᐃⵠ][Xr.ⲆᐃΔ] = pr(ou(0.9, 0, ["#4d2d14", "#432516"]));
-    ΔΔ[Xr.ⵠᐃΔᐃⵠᐃⵠ][Xr.ΔⲆⵠ] = pr(ou(0.9, 0, ["#282404", "#0a0a01"]));
-    ΔΔ[Xr.ⲆⲆᐃⵠΔⲆⵠ] = [];
-    ΔΔ[Xr.ⲆⲆᐃⵠΔⲆⵠ][Xr.ⲆᐃΔ] = pr(ku(0.9, 0, ["#4d2d14", "#432516"]));
-    ΔΔ[Xr.ⲆⲆᐃⵠΔⲆⵠ][Xr.ΔⲆⵠ] = pr(ku(0.9, 0, ["#282404", "#0a0a01"]));
-    ΔΔ[Xr.ⲆᐃΔⵠⲆᐃΔ] = [];
-    ΔΔ[Xr.ⲆᐃΔⵠⲆᐃΔ][Xr.ⲆᐃΔ] = pr(fu(0.9, 0, ["#efd435"]));
-    ΔΔ[Xr.ⲆᐃΔⵠⲆᐃΔ][Xr.ΔⲆⵠ] = pr(fu(0.9, 0, ["#fffabb"]));
-    ΔΔ[Xr.ⲆΔᐃΔⵠⲆⵠ] = [];
-    ΔΔ[Xr.ⲆΔᐃΔⵠⲆⵠ][Xr.ⲆᐃΔ] = pr(ju(0.9, 0, ["#efd435"]));
-    ΔΔ[Xr.ⲆΔᐃΔⵠⲆⵠ][Xr.ΔⲆⵠ] = pr(ju(0.9, 0, ["#fffabb"]));
-    ΔΔ[Xr.ᐃⵠⲆΔⲆⵠⵠ] = [];
-    ΔΔ[Xr.ᐃⵠⲆΔⲆⵠⵠ][Xr.ⲆᐃΔ] = pr(fu(0.9, 0, ["#efd435"]));
-    ΔΔ[Xr.ᐃⵠⲆΔⲆⵠⵠ][Xr.ΔⲆⵠ] = pr(fu(0.9, 0, ["rgba(255, 84, 0, 1)"]));
-    ΔΔ[Xr.ᐃΔᐃⲆΔᐃΔ] = [];
-    ΔΔ[Xr.ᐃΔᐃⲆΔᐃΔ][Xr.ⲆᐃΔ] = pr(ju(0.9, 0, ["#efd435"]));
-    ΔΔ[Xr.ᐃΔᐃⲆΔᐃΔ][Xr.ΔⲆⵠ] = pr(ju(0.9, 0, ["#ff5704"]));
-    ΔΔ[Xr.ΔⵠⲆⵠⲆᐃΔ] = pr(qb(1, "#ffffff"));
-    ΔΔ[Xr.ⵠᐃⲆΔⲆΔⲆ] = pr(qb(1.5, "#ffffff"));
-    ΔΔ[Xr.ᐃΔⵠᐃᐃⲆΔ] = pr(nd(1, "Your score:", ul * 1, "#FFF"));
-    ΔΔ[Xr.ᐃᐃⲆᐃⵠⲆⵠ] = pr(function (a, b) {
+    ΔΔ[108] = [];
+    ΔΔ[108][Xr.ⲆᐃΔ] = [];
+    ΔΔ[108][Xr.ΔⲆⵠ] = [];
+    ΔΔ[108][Xr.ⲆᐃΔ].push(pr(ed(1.1, 0, ["#0a2d18", "#c3d1cb", "#e4efe8"])));
+    ΔΔ[108][Xr.ⲆᐃΔ].push(pr(ed(0.9, 0, ["#0a2d18", "#c3d1cb", "#e4efe8"])));
+    ΔΔ[108][Xr.ⲆᐃΔ].push(pr(ed(0.6, 0, ["#0a2d18", "#c3d1cb", "#e4efe8"])));
+    ΔΔ[108][Xr.ΔⲆⵠ].push(pr(ed(1.1, 0, ["#0a2728", "#3c8e88", "#40a39b"])));
+    ΔΔ[108][Xr.ΔⲆⵠ].push(pr(ed(0.9, 0, ["#0a2728", "#3c8e88", "#40a39b"])));
+    ΔΔ[108][Xr.ΔⲆⵠ].push(pr(ed(0.6, 0, ["#0a2728", "#3c8e88", "#40a39b"])));
+    ΔΔ[111] = [];
+    ΔΔ[111][Xr.ⲆᐃΔ] = [];
+    ΔΔ[111][Xr.ΔⲆⵠ] = [];
+    ΔΔ[111][Xr.ⲆᐃΔ].push(pr(rd(1.5, 0, ["#2b280a", "#ddcf8a", "#f4efc6"])));
+    ΔΔ[111][Xr.ⲆᐃΔ].push(pr(rd(1.3, 0, ["#2b280a", "#ddcf8a", "#f4efc6"])));
+    ΔΔ[111][Xr.ⲆᐃΔ].push(pr(rd(1.1, 0, ["#2b280a", "#ddcf8a", "#f4efc6"])));
+    ΔΔ[111][Xr.ΔⲆⵠ].push(pr(rd(1.5, 0, ["#030d14", "#1b4444", "#16605a"])));
+    ΔΔ[111][Xr.ΔⲆⵠ].push(pr(rd(1.3, 0, ["#030d14", "#1b4444", "#16605a"])));
+    ΔΔ[111][Xr.ΔⲆⵠ].push(pr(rd(1.1, 0, ["#030d14", "#1b4444", "#16605a"])));
+    ΔΔ[112] = [];
+    ΔΔ[112][Xr.ⲆᐃΔ] = [];
+    ΔΔ[112][Xr.ΔⲆⵠ] = [];
+    ΔΔ[112][Xr.ⲆᐃΔ].push(pr(od(1.1, 0, ["#232828", "#3fc9c9", "#74ede6"])));
+    ΔΔ[112][Xr.ⲆᐃΔ].push(pr(od(0.9, 0, ["#232828", "#3fc9c9", "#74ede6"])));
+    ΔΔ[112][Xr.ⲆᐃΔ].push(pr(od(0.7, 0, ["#232828", "#3fc9c9", "#74ede6"])));
+    ΔΔ[112][Xr.ΔⲆⵠ].push(pr(od(1.1, 0, ["#030d14", "#2b9390", "#57bcb5"])));
+    ΔΔ[112][Xr.ΔⲆⵠ].push(pr(od(0.9, 0, ["#030d14", "#2b9390", "#57bcb5"])));
+    ΔΔ[112][Xr.ΔⲆⵠ].push(pr(od(0.7, 0, ["#030d14", "#2b9390", "#57bcb5"])));
+    ΔΔ[239] = [];
+    ΔΔ[239][Xr.ⲆᐃΔ] = Ⲇⵠ.ᐃⵠⲆⵠⵠⵠΔ;
+    ΔΔ[239][Xr.ΔⲆⵠ] = Ⲇⵠ.ΔᐃᐃΔⲆⲆⲆ;
+    ΔΔ[286] = [];
+    ΔΔ[286][Xr.ⲆᐃΔ] = pr(Fu(0.6, ["#0d1b1c"]));
+    ΔΔ[286][Xr.ΔⲆⵠ] = pr(Fu(0.6, ["#030d14"]));
+    ΔΔ[793] = [];
+    ΔΔ[793][Xr.ⲆᐃΔ] = pr(lu(0.6, ["#2a2938", "#242330"]));
+    ΔΔ[793][Xr.ΔⲆⵠ] = pr(lu(0.6, ["#1b1e30", "#161921"]));
+    ΔΔ[820] = [];
+    ΔΔ[820][Xr.ⲆᐃΔ] = pr(Rb(0.6, 0, ["#0d1b1c", "#759e6e", "#55604b", "#7d7252", "#575043"]));
+    ΔΔ[820][Xr.ΔⲆⵠ] = pr(Rb(0.6, 0, ["#030d14", "#11635e", "#02373e", "#0b524d", "#07423f"]));
+    ΔΔ[821] = [];
+    ΔΔ[821][Xr.ⲆᐃΔ] = pr(Fb(0.6, 0, ["#0d1b1c", "#759e6e", "#55604b", "#f9ccd4", "#891a1e", "#da232e", "#a52026", "#a02d28", "#721819", "#FFFFFF"]));
+    ΔΔ[821][Xr.ΔⲆⵠ] = pr(Fb(0.6, 0, ["#030d14", "#11635e", "#02373e", "#167771", "#0c5752", "#401d49", "#2e1336", "#261336", "#23163c", "#FFFFFF"]));
+    ΔΔ[822] = [];
+    ΔΔ[822][Xr.ⲆᐃΔ] = pr(mu(0.4, ["#0d1b1c", "#759e6e", "#55604b"]));
+    ΔΔ[822][Xr.ΔⲆⵠ] = pr(mu(0.4, ["#030d14", "#11635e", "#02373e"]));
+    ΔΔ[823] = pr(Gb(0.6, ["#BB0000"]));
+    ΔΔ[824] = pr(Gb(0.6, ["#DBE71C"]));
+    ΔΔ[825] = pr(Gb(0.6, ["#00BB00"]));
+    ΔΔ[109] = [];
+    ΔΔ[109][Xr.ⲆᐃΔ] = [];
+    ΔΔ[109][Xr.ΔⲆⵠ] = [];
+    ΔΔ[109][Xr.ⲆᐃΔ].push(Bu(1.1, ["#242503", "#8e7c0c", "#6d5903", "#9e8320", "#f0f4f0", "#FFFFFF"], false, 0));
+    ΔΔ[109][Xr.ⲆᐃΔ].push(Bu(1.1, ["#242503", "#8e7c0c", "#6d5903", "#9e8320", "#f0f4f0", "#FFFFFF"], true, Bb));
+    ΔΔ[109][Xr.ⲆᐃΔ].push(Bu(0.9, ["#242503", "#898e0c", "#757303", "#9e9b20", "#f0f4f0", "#FFFFFF"], false, ya));
+    ΔΔ[109][Xr.ⲆᐃΔ].push(Bu(0.9, ["#242503", "#963400", "#7c2200", "#a83204", "#f0f4f0", "#FFFFFF"], kh, ig));
+    ΔΔ[109][Xr.ⲆᐃΔ].push(Bu(0.7, ["#242503", "#6d5a09", "#77591a", "#7b5a1f", "#f0f4f0", "#FFFFFF"], false, Yh));
+    ΔΔ[109][Xr.ⲆᐃΔ].push(Bu(0.7, ["#242503", "#703700", "#813009", "#813009", "#f0f4f0", "#FFFFFF"], us, Mg));
+    ΔΔ[109][Xr.ΔⲆⵠ].push(Bu(1.1, ["#030d14", "#12493d", "#0e3831", "#155247", "#f0f4f0", "#16695f"], false, 0));
+    ΔΔ[109][Xr.ΔⲆⵠ].push(Bu(1.1, ["#030d14", "#12493d", "#0e3831", "#155247", "#16695f"], true, wg));
+    ΔΔ[109][Xr.ΔⲆⵠ].push(Bu(0.9, ["#030d14", "#0b3629", "#144437", "#174235", "#16695f"], Ta, 0));
+    ΔΔ[109][Xr.ΔⲆⵠ].push(Bu(0.9, ["#030d14", "#0d2522", "#0c2821", "#0d2a28", "#16695f"], true, Lr));
+    ΔΔ[109][Xr.ΔⲆⵠ].push(Bu(0.7, ["#030d14", "#082b1f", "#073328", "#073327", "#16695f"], false, wg));
+    ΔΔ[109][Xr.ΔⲆⵠ].push(Bu(0.7, ["#030d14", "#0c2823", "#0b2b23", "#0c2d24", "#16695f"], true, 0));
+    ΔΔ[307] = [];
+    ΔΔ[307][Xr.ⲆᐃΔ] = [];
+    ΔΔ[307][Xr.ΔⲆⵠ] = [];
+    ΔΔ[307][Xr.ⲆᐃΔ].push(pr(vu(Du(1.1, ["#242503", "#4d2d14", "#432516", "#756608", "#5b4a02", "#8b731b"], false), ΔΔ[109][Xr.ⲆᐃΔ][0])));
+    ΔΔ[307][Xr.ⲆᐃΔ].push(pr(vu(Du(1.1, ["#242503", "#4d2d14", "#432516", "#756608", "#5b4a02", "#8b731b"], true), ΔΔ[109][Xr.ⲆᐃΔ][Te])));
+    ΔΔ[307][Xr.ΔⲆⵠ].push(pr(vu(Du(1.1, ["#030d14", "#031619", "#041c21", "#0e3b31", "#0b2e28", "#10443a"], jl), ΔΔ[109][Xr.ΔⲆⵠ][Qs])));
+    ΔΔ[307][Xr.ΔⲆⵠ].push(pr(vu(Du(1.1, ["#030d14", "#031619", "#041c21", "#0e3b31", "#0b2e28", "#10443a"], true), ΔΔ[109][Xr.ΔⲆⵠ][1])));
+    ΔΔ[307][Xr.ⲆᐃΔ].push(pr(vu(Du(0.9, ["#242503", "#4d2d14", "#432516", "#6d6c09", "#686609", "#777310"], false), ΔΔ[109][Xr.ⲆᐃΔ][Ug])));
+    ΔΔ[307][Xr.ⲆᐃΔ].push(pr(vu(Du(0.9, ["#242503", "#4d2d14", "#432516", "#6d6c09", "#686609", "#777310"], mh), ΔΔ[109][Xr.ⲆᐃΔ][2])));
+    ΔΔ[307][Xr.ΔⲆⵠ].push(pr(vu(Du(0.9, ["#030d14", "#031619", "#041c21", "#0d2522", "#0c2821", "#0d2a28"], Qg), ΔΔ[109][Xr.ΔⲆⵠ][xj])));
+    ΔΔ[307][Xr.ΔⲆⵠ].push(pr(vu(Du(0.9, ["#030d14", "#031619", "#041c21", "#0c2823", "#0b2b23", "#0c2d24"], Gq), ΔΔ[109][Xr.ΔⲆⵠ][Tt])));
+    ΔΔ[109][Xr.ⲆᐃΔ][5] = pr(ΔΔ[109][Xr.ⲆᐃΔ][5]);
+    ΔΔ[109][Xr.ⲆᐃΔ][4] = pr(ΔΔ[109][Xr.ⲆᐃΔ][4]);
+    ΔΔ[109][Xr.ⲆᐃΔ][ea] = pr(ΔΔ[109][Xr.ⲆᐃΔ][ut]);
+    ΔΔ[109][Xr.ⲆᐃΔ][2] = pr(ΔΔ[109][Xr.ⲆᐃΔ][2]);
+    ΔΔ[109][Xr.ⲆᐃΔ][pu] = pr(ΔΔ[109][Xr.ⲆᐃΔ][1]);
+    ΔΔ[109][Xr.ⲆᐃΔ][0] = pr(ΔΔ[109][Xr.ⲆᐃΔ][0]);
+    ΔΔ[109][Xr.ΔⲆⵠ][5] = pr(ΔΔ[109][Xr.ΔⲆⵠ][Oj]);
+    ΔΔ[109][Xr.ΔⲆⵠ][$i] = pr(ΔΔ[109][Xr.ΔⲆⵠ][ba]);
+    ΔΔ[109][Xr.ΔⲆⵠ][3] = pr(ΔΔ[109][Xr.ΔⲆⵠ][yr]);
+    ΔΔ[109][Xr.ΔⲆⵠ][Rl] = pr(ΔΔ[109][Xr.ΔⲆⵠ][2]);
+    ΔΔ[109][Xr.ΔⲆⵠ][Te] = pr(ΔΔ[109][Xr.ΔⲆⵠ][1]);
+    ΔΔ[109][Xr.ΔⲆⵠ][Lr] = pr(ΔΔ[109][Xr.ΔⲆⵠ][0]);
+    ΔΔ[8] = [];
+    ΔΔ[8][Xr.ⲆᐃΔ] = pr(wb(Ct, Eu(0.75, true, ["#0d1b1c", "#000000", "#0d1b1c", "#4d2d14", "#432516", "#4d2d14", "#432516"])));
+    ΔΔ[8][Xr.ΔⲆⵠ] = pr(wb(Wg, Eu(0.75, true, ["#030d14", "#000000", "#030d14", "#0d2e33", "#0b2326", "#0d2e33", "#0b2326"])));
+    ΔΔ[1] = [];
+    ΔΔ[1][Xr.ⲆᐃΔ] = pr(wb($i, Eu(0.75, true, ["#0d1b1c", "#000000", "#0d1b1c", "#4d2d14", "#432516", "#939393", "#5f6061"])));
+    ΔΔ[1][Xr.ΔⲆⵠ] = pr(wb(4, Eu(0.75, true, ["#030d14", "#000000", "#030d14", "#0d2e33", "#0b2326", "#485e66", "#1f343f"])));
+    ΔΔ[3] = [];
+    ΔΔ[3][Xr.ⲆᐃΔ] = pr(wb(4, Eu(0.75, xk, ["#0d1b1c", "#000000", "#0d1b1c", "#493e26", "#382e19", "#c4bc51", "#b29c32"])));
+    ΔΔ[3][Xr.ΔⲆⵠ] = pr(wb(Mq, Eu(0.75, oa, ["#030d14", "#000000", "#030d14", "#263947", "#263947", "#43aa82", "#29997c"])));
+    ΔΔ[4] = [];
+    ΔΔ[4][Xr.ⲆᐃΔ] = pr(wb(ls, Eu(0.75, true, ["#0d1b1c", "#000000", "#0d1b1c", "#262114", "#211108", "#63c9d6", "#29aaa1"])));
+    ΔΔ[4][Xr.ΔⲆⵠ] = pr(wb(4, Eu(0.75, true, ["#030d14", "#000000", "#030d14", "#111316", "#0a0b0c", "#73dde5", "#3dc4c0"])));
+    ΔΔ[31] = [];
+    ΔΔ[31][Xr.ⲆᐃΔ] = pr(wb(4, Eu(0.75, true, ["#0d1b1c", "#000000", "#0d1b1c", "#262114", "#211108", "#b864d6", "#8c29aa"])));
+    ΔΔ[31][Xr.ΔⲆⵠ] = pr(wb(es, Eu(0.75, true, ["#030d14", "#000000", "#030d14", "#111316", "#0a0b0c", "#8359d3", "#764eb5"])));
+    ΔΔ[9] = [];
+    ΔΔ[9][Xr.ⲆᐃΔ] = pr(wb(3, tu(0.17, true, ["#0d1b1c", "#4a3a22", "#362818", "#c7c7c7", "#909090", "#eceaea", "#bbbbbb", "#d6d1d1"])));
+    ΔΔ[9][Xr.ΔⲆⵠ] = pr(wb(I, tu(0.17, us, ["#0d1b1c", "#0d2e33", "#0b2326", "#59737d", "#364f59", "#618395", "#4d768c", "#54859f"])));
+    ΔΔ[199] = [];
+    ΔΔ[199][Xr.ⲆᐃΔ] = pr(wb(I, Mu(0.32, xk, ["#0d1b1c", "#ffffff", "#5f6061", "#eb2933", "#57b74e", "#42a54d", "#ac222a", "#e6636a"])));
+    ΔΔ[199][Xr.ΔⲆⵠ] = pr(wb(Tt, Mu(0.42, Gj, ["#0d1b1c", "#485e66", "#1f343f", "#0d2e33", "#0b2326"])));
+    ΔΔ[57] = [];
+    ΔΔ[57][Xr.ⲆᐃΔ] = pr(wb(xb, Iu(0.4, fs, ["#0d1b1c", "#73583e", "#493425", "#7d6144", "#5e4530", "#473221", "#745840"])));
+    ΔΔ[57][Xr.ΔⲆⵠ] = pr(wb(fn, Iu(0.4, true, ["#0d1b1c", "#0b3d3a", "#092b2a", "#144642", "#082927", "#092b29"])));
+    ΔΔ[0] = [];
+    ΔΔ[0][Xr.ⲆᐃΔ] = pr(wb(3, Cu(0.4, true, ["#0d1b1c", "#939393", "#5f6061", "#b1afaf", "#493d36", "#332b28"])));
+    ΔΔ[0][Xr.ΔⲆⵠ] = pr(wb(3, Cu(0.4, true, ["#0d1b1c", "#485e66", "#1f343f", "#5d757e", "#0d2e33", "#0b2326"])));
+    ΔΔ[5] = [];
+    ΔΔ[5][Xr.ⲆᐃΔ] = pr(wb(3, Gu(0.4, true, ["#0d1b1c", "#c4bc51", "#b29c32", "#c4bc51", "#493e26", "#382e19"])));
+    ΔΔ[5][Xr.ΔⲆⵠ] = pr(wb(3, Gu(0.4, un, ["#0d1b1c", "#43aa82", "#29997c", "#54bf96", "#263947", "#182935"])));
+    ΔΔ[6] = [];
+    ΔΔ[6][Xr.ⲆᐃΔ] = pr(wb(3, xu(0.4, true, ["#0d1b1c", "#6ad9e8", "#29aaa1", "#95e9f5", "#022320", "#011e19", "#FFFFFF"])));
+    ΔΔ[6][Xr.ΔⲆⵠ] = pr(wb(ci, xu(0.4, Tg, ["#0d1b1c", "#73dde5", "#3dc4c0", "#93eaf1", "#111316", "#0a0b0c"])));
+    ΔΔ[30] = [];
+    ΔΔ[30][Xr.ⲆᐃΔ] = pr(wb(ll, Ou(0.4, us, ["#0d1b1c", "#b864d6", "#8c29aa", "#cc81e7", "#262114", "#211108", "#FFFFFF"])));
+    ΔΔ[30][Xr.ΔⲆⵠ] = pr(wb(3, Ou(0.4, true, ["#0d1b1c", "#8359d3", "#764eb5", "#966de6", "#111316", "#0a0b0c"])));
+    ΔΔ[285] = [];
+    ΔΔ[285][Xr.ⲆᐃΔ] = [];
+    ΔΔ[285][Xr.ΔⲆⵠ] = [];
+    ΔΔ[285][Xr.ⲆᐃΔ].push(pr(Pm(0.9, false, ["#0d4f35"], 0)));
+    ΔΔ[285][Xr.ⲆᐃΔ].push(pr(Pm(0.9, false, ["#0d4f35"], 1)));
+    ΔΔ[285][Xr.ⲆᐃΔ].push(pr(Pm(0.9, C, ["#0d4f35"], 2)));
+    ΔΔ[285][Xr.ΔⲆⵠ].push(pr(Pm(0.9, false, ["#053339"], Bb)));
+    ΔΔ[285][Xr.ΔⲆⵠ].push(pr(Pm(0.9, false, ["#053339"], Oq)));
+    ΔΔ[285][Xr.ΔⲆⵠ].push(pr(Pm(0.9, al, ["#053339"], 2)));
+    ΔΔ[285][Xr.ⲆᐃΔ].push(pr(cc(0.8, ["#241301", "#ba6b0e", "#6d3f04"])));
+    ΔΔ[285][Xr.ⲆᐃΔ].push(pr(cc(0.8, ["#292002", "#ba930e", "#6d5704"])));
+    ΔΔ[285][Xr.ΔⲆⵠ].push(pr(cc(0.9, ["#052919", "#0a4738", "#06321f"])));
+    ΔΔ[285][Xr.ΔⲆⵠ].push(pr(cc(0.8, ["#052918", "#08491c", "#063417"])));
+    ΔΔ[183] = [];
+    ΔΔ[183][Xr.ⲆᐃΔ] = pr(wb(Math.PI / xj, hd(0.25, fs, ["#0d1b1c", "#44301b", "#57442a", "#523e26"])));
+    ΔΔ[183][Xr.ΔⲆⵠ] = pr(wb(Math.PI / 2, hd(0.25, true, ["#030d14", "#082b22", "#0a2f2b", "#072824"])));
+    ΔΔ[803] = [];
+    ΔΔ[803].push(pr(ec(0.25, ["#44301b", "#57442a", "#523e26"], 0)));
+    ΔΔ[803].push(pr(ec(0.25, ["#4f371e", "#624d30", "#5e472c", "#eda80d"], 1)));
+    ΔΔ[803].push(pr(ec(0.25, ["#382715", "#4e3c25", "#473620", "#d7990c"], 2)));
+    ΔΔ[802] = [];
+    ΔΔ[802][Xr.ⲆᐃΔ] = [];
+    ΔΔ[802][Xr.ΔⲆⵠ] = [];
+    ΔΔ[802][Xr.ⲆᐃΔ].push(pr(wb(Math.PI / It, Fd(0.25, false, ["#0d1b1c", "#44301b", "#57442a", "#523e26", "#9b2b25"], 1))));
+    ΔΔ[802][Xr.ΔⲆⵠ].push(pr(wb(Math.PI / 2, Fd(0.25, Ei, ["#030d14", "#082b22", "#0a2f2b", "#072824", "#9b2b25"], Gh))));
+    ΔΔ[802][Xr.ⲆᐃΔ].push(pr(wb(Math.PI / Hj, Fd(0.25, false, ["#0d1b1c", "#44301b", "#57442a", "#523e26", "#4f9246"], 2))));
+    ΔΔ[802][Xr.ΔⲆⵠ].push(pr(wb(Math.PI / 2, Fd(0.25, Tk, ["#030d14", "#082b22", "#0a2f2b", "#072824", "#4f9246"], rs))));
+    ΔΔ[802][Xr.ⲆᐃΔ].push(pr(wb(Math.PI / Lt, Fd(0.25, xo, ["#0d1b1c", "#44301b", "#57442a", "#523e26", "#9b2b25", "#ffffff"], 3))));
+    ΔΔ[802][Xr.ΔⲆⵠ].push(pr(wb(Math.PI / 2, Fd(0.25, false, ["#030d14", "#082b22", "#0a2f2b", "#072824", "#9b2b25", "#ffffff"], nq))));
+    ΔΔ[802][Xr.ⲆᐃΔ].push(pr(wb(Math.PI / 2, Fd(0.25, Fh, ["#0d1b1c", "#44301b", "#57442a", "#523e26", "#9b2b25", "#362513"], 4))));
+    ΔΔ[802][Xr.ΔⲆⵠ].push(pr(wb(Math.PI / 2, Fd(0.25, vt, ["#030d14", "#082b22", "#0a2f2b", "#072824", "#9b2b25", "#664d2e"], 4))));
+    ΔΔ[110] = [];
+    ΔΔ[110][Xr.ⲆᐃΔ] = [pr(ad(1.2, un, ["#352b10", "#80500b", "#7c4908"]))];
+    ΔΔ[110][Xr.ΔⲆⵠ] = [pr(ad(1.2, true, ["#030d14", "#0a3429", "#0a2f2b"]))];
+    ΔΔ[623] = [];
+    ΔΔ[623][Xr.ⲆᐃΔ] = pr(ad(0.8, true, ["#0e3022", "#68622D", "#665329"]));
+    ΔΔ[623][Xr.ΔⲆⵠ] = pr(ad(0.8, true, ["#030d14", "#0F3A24", "#083326"]));
+    ΔΔ[189] = [];
+    ΔΔ[189][Xr.ⲆᐃΔ] = pr(Sd(0.5, true, ["#1b170c", "#c67933", "#a6692f", "#bd7533", "#86683e", "#6e502d"]));
+    ΔΔ[189][Xr.ΔⲆⵠ] = pr(Sd(0.5, true, ["#030d14", "#0a3429", "#0a2f2b", "#082f25", "#082925", "#0a3630"]));
+    ΔΔ[192] = [];
+    ΔΔ[192][Xr.ⲆᐃΔ] = pr(Jb(0.5, true, ["#1b170c", "#e8e8e8", "#d2cfcf", "#e0e1e0", "#c4c4c4"]));
+    ΔΔ[192][Xr.ΔⲆⵠ] = pr(Jb(0.5, Gq, ["#030d14", "#2b5254", "#264a46", "#396260", "#244743"]));
+    ΔΔ[194] = [];
+    ΔΔ[194][Xr.ⲆᐃΔ] = pr(bc(0.5, true, ["#1b170c", "#349970", "#245c45", "#348361", "#e8e8e8", "#bbbbbb"]));
+    ΔΔ[194][Xr.ΔⲆⵠ] = pr(bc(0.5, Yl, ["#030d14", "#0d5551", "#074440", "#0f5c58", "#4e8784", "#3f7572"]));
+    ΔΔ[287] = [];
+    ΔΔ[287][Xr.ⲆᐃΔ] = pr(ad(0.8, Gq, ["#1b170c", "#0b8052", "#077b49"]));
+    ΔΔ[287][Xr.ΔⲆⵠ] = pr(ad(0.8, ye, ["#030d14", "#084442", "#0a4049"]));
+    ΔΔ[813] = [];
+    ΔΔ[813][Xr.ⲆᐃΔ] = pr(Sd(0.5, na, ["#1b170c", "#68622D", "#665329", "#5e5823", "#86683e", "#6e502d"]));
+    ΔΔ[813][Xr.ΔⲆⵠ] = pr(Sd(0.5, na, ["#030d14", "#0F3A24", "#083326", "#0c301e", "#062a1f", "#083b2b"]));
+    ΔΔ[839] = [];
+    ΔΔ[839][Xr.ⲆᐃΔ] = pr(Jb(0.5, qn, ["#1b170c", "#adbe9e", "#7e9178", "#84aa84", "#527556"]));
+    ΔΔ[839][Xr.ΔⲆⵠ] = pr(Jb(0.5, true, ["#030d14", "#164a44", "#124244", "#13373b", "#133e3e"]));
+    ΔΔ[869] = [];
+    ΔΔ[869][Xr.ⲆᐃΔ] = pr(bc(0.5, true, ["#1b170c", "#7a9160", "#4a5e3c", "#637e5a", "#c5cfc0", "#8a9685"]));
+    ΔΔ[869][Xr.ΔⲆⵠ] = pr(bc(0.5, true, ["#030d14", "#3e5d5b", "#2f4442", "#354e4c", "#637d7c", "#556b6a"]));
+    ΔΔ[854] = [];
+    ΔΔ[854][Xr.ⲆᐃΔ] = pr(Hd(0.45, true, ["#0e3022", "#ac222a", "#98171e", "#22a84f", "#1f924a"]));
+    ΔΔ[854][Xr.ΔⲆⵠ] = pr(Hd(0.45, ye, ["#0e3022", "#19386e", "#0b2752", "#124252", "#0d3441"]));
+    ΔΔ[859] = pr(Hd(0.65, true, ["rgba(14, 48, 34, 0)", "#BB0000", "#BB0000", "#BB0000", "#BB0000"]));
+    ΔΔ[294] = [];
+    ΔΔ[294][Xr.ⲆᐃΔ] = pr(td(1.4, 0, ["#3d2a6e", "#8255b5"]));
+    ΔΔ[294][Xr.ΔⲆⵠ] = pr(td(1.4, 0, ["#26124f", "#524082"]));
+    ΔΔ[288] = [];
+    ΔΔ[288][Xr.ⲆᐃΔ] = pr(hu(0.9, 0, ["#efd435", "#ec8d35", "#e96132"]));
+    ΔΔ[288][Xr.ΔⲆⵠ] = pr(hu(0.9, 0, ["#efdb7b", "#efe854", "#e8ef62"]));
+    ΔΔ[118] = [];
+    ΔΔ[118][Xr.ⲆᐃΔ] = pr(ou(0.9, 0, ["#4d2d14", "#432516"]));
+    ΔΔ[118][Xr.ΔⲆⵠ] = pr(ou(0.9, 0, ["#282404", "#0a0a01"]));
+    ΔΔ[113] = [];
+    ΔΔ[113][Xr.ⲆᐃΔ] = pr(ku(0.9, 0, ["#4d2d14", "#432516"]));
+    ΔΔ[113][Xr.ΔⲆⵠ] = pr(ku(0.9, 0, ["#282404", "#0a0a01"]));
+    ΔΔ[289] = [];
+    ΔΔ[289][Xr.ⲆᐃΔ] = pr(fu(0.9, 0, ["#efd435"]));
+    ΔΔ[289][Xr.ΔⲆⵠ] = pr(fu(0.9, 0, ["#fffabb"]));
+    ΔΔ[282] = [];
+    ΔΔ[282][Xr.ⲆᐃΔ] = pr(ju(0.9, 0, ["#efd435"]));
+    ΔΔ[282][Xr.ΔⲆⵠ] = pr(ju(0.9, 0, ["#fffabb"]));
+    ΔΔ[816] = [];
+    ΔΔ[816][Xr.ⲆᐃΔ] = pr(fu(0.9, 0, ["#efd435"]));
+    ΔΔ[816][Xr.ΔⲆⵠ] = pr(fu(0.9, 0, ["rgba(255, 84, 0, 1)"]));
+    ΔΔ[817] = [];
+    ΔΔ[817][Xr.ⲆᐃΔ] = pr(ju(0.9, 0, ["#efd435"]));
+    ΔΔ[817][Xr.ΔⲆⵠ] = pr(ju(0.9, 0, ["#ff5704"]));
+    ΔΔ[324] = pr(qb(1, "#ffffff"));
+    ΔΔ[301] = pr(qb(1.5, "#ffffff"));
+    ΔΔ[306] = pr(nd(1, "Your score:", ul * 1, "#FFF"));
+    ΔΔ[655] = pr(function (a, b) {
       var c = document.createElement("canvas");
       var d = c.getContext("2d");
       c.width = a * 243;
@@ -25153,47 +25153,47 @@
       db(d, b[gg]);
       return c;
     }(0.9, ["#596560", "#394841", "#543B1C", "#694D28", "#4D3C1A", "#694D28", "#DEE2E0", "#CDCCCC", "#7B5A31", "#7E8A85"]));
-    ΔΔ[Xr.ΔⵠᐃΔⲆⵠⲆ] = Ⲇⵠ.ΔⵠᐃΔⲆⵠⲆ;
-    ΔΔ[Xr.ⵠΔⲆⲆΔ] = [];
-    ΔΔ[Xr.ⵠΔⲆⲆΔ][Xr.ⲆᐃΔ] = pr(Wt(1.5, true, ["#0d1b1c", "#596560", "#394841", "#67766F", "#46554D", "#4C3B19", "#674C2A", "#7C5A29", "#596560", "#394841"]));
-    ΔΔ[Xr.ⵠΔⲆⲆΔ][Xr.ΔⲆⵠ] = pr(Wt(1.5, Gq, ["#030d14", "#163A3A", "#214C4B", "#1a4545", "#225755", "#07393D", "#07454a", "#0c484d", "#163A3A", "#214C4B"]));
-    ΔΔ[Xr.ⵠⲆᐃⵠⲆⲆⲆ] = [];
-    ΔΔ[Xr.ⵠⲆᐃⵠⲆⲆⲆ][Xr.ⲆᐃΔ] = pr(Yt(2, true, ["#0d1b1c", "#596560", "#394841", "#67766F", "#46554D", "#4C3B19", "#674C2A", "#7C5A29", "#596560", "#394841"]));
-    ΔΔ[Xr.ⵠⲆᐃⵠⲆⲆⲆ][Xr.ΔⲆⵠ] = pr(Yt(as * 1, true, ["#030d14", "#163A3A", "#214C4B", "#1a4545", "#225755", "#07393D", "#07454a", "#0c484d", "#163A3A", "#214C4B"]));
-    ΔΔ[Xr.ⲆⲆⲆᐃᐃΔᐃ] = [];
-    ΔΔ[Xr.ⲆⲆⲆᐃᐃΔᐃ][Xr.ⲆᐃΔ] = pr($t(1.5, true, ["#0d1b1c", "#596560", "#394841", "#67766F", "#46554D", "#4C3B19", "#674C2A", "#7C5A29", "#596560", "#394841"]));
-    ΔΔ[Xr.ⲆⲆⲆᐃᐃΔᐃ][Xr.ΔⲆⵠ] = pr($t(1.5, true, ["#030d14", "#163A3A", "#214C4B", "#1a4545", "#225755", "#07393D", "#07454a", "#0c484d", "#163A3A", "#214C4B"]));
-    ΔΔ[Xr.ⲆΔΔᐃⵠ] = [];
-    ΔΔ[Xr.ⲆΔΔᐃⵠ][Xr.ⲆᐃΔ] = pr(Xt(2.2, 0, ["#A89F67", "#9E8456"]));
-    ΔΔ[Xr.ⲆΔΔᐃⵠ][Xr.ΔⲆⵠ] = pr(Xt(2.2, 0, ["#0B4049", "#08383D"]));
-    ΔΔ[Xr.ΔΔⵠⲆⲆΔⲆ] = [];
-    ΔΔ[Xr.ΔΔⵠⲆⲆΔⲆ][Xr.ⲆᐃΔ] = pr(Xt(2.2, 0, ["#68622D", "#665329"]));
-    ΔΔ[Xr.ΔΔⵠⲆⲆΔⲆ][Xr.ΔⲆⵠ] = pr(Xt(2.2, 0, ["#0F3A24", "#083326"]));
-    ΔΔ[Xr.ᐃⲆᐃⲆΔ] = [];
-    ΔΔ[Xr.ᐃⲆᐃⲆΔ][Xr.ⲆᐃΔ] = pr(Nu(0.8, 0, ["#A89F67", "#9E8456"]));
-    ΔΔ[Xr.ᐃⲆᐃⲆΔ][Xr.ΔⲆⵠ] = pr(Nu(0.8, 0, ["#15514F", "#0F3F3D"]));
-    ΔΔ[Xr.ⵠᐃⵠⵠΔΔᐃ] = [];
-    ΔΔ[Xr.ⵠᐃⵠⵠΔΔᐃ][Xr.ⲆᐃΔ] = pr(Nu(0.8, 0, ["#c67933", "#b17238"]));
-    ΔΔ[Xr.ⵠᐃⵠⵠΔΔᐃ][Xr.ΔⲆⵠ] = pr(Nu(0.8, 0, ["#043c37", "#032b23"]));
-    ΔΔ[Xr.ᐃΔᐃᐃᐃΔⵠ] = [];
-    ΔΔ[Xr.ᐃΔᐃᐃᐃΔⵠ][Xr.ⲆᐃΔ] = pr(Nu(0.8, 0, ["#3a8214", "#4a9c1e"]));
-    ΔΔ[Xr.ᐃΔᐃᐃᐃΔⵠ][Xr.ΔⲆⵠ] = pr(Nu(0.8, 0, ["#032d29", "#044640"]));
-    ΔΔ[Xr.ᐃΔⵠΔᐃⵠⲆ] = [];
-    ΔΔ[Xr.ᐃΔⵠΔᐃⵠⲆ][Xr.ⲆᐃΔ] = pr(Nu(0.8, 0, ["#e8e8e8", "#bbbbbb"]));
-    ΔΔ[Xr.ᐃΔⵠΔᐃⵠⲆ][Xr.ΔⲆⵠ] = pr(Nu(0.8, 0, ["#1c6161", "#07413f"]));
-    ΔΔ[Xr.ⲆᐃⲆᐃᐃᐃᐃ] = [];
-    ΔΔ[Xr.ⲆᐃⲆᐃᐃᐃᐃ][Xr.ⲆᐃΔ] = pr(Nu(0.8, 0, ["#328a56", "#449573"]));
-    ΔΔ[Xr.ⲆᐃⲆᐃᐃᐃᐃ][Xr.ΔⲆⵠ] = pr(Nu(0.8, 0, ["#043c37", "#032b23"]));
-    ΔΔ[Xr.ⲆⲆᐃΔΔⵠΔ] = [];
-    ΔΔ[Xr.ⲆⲆᐃΔΔⵠΔ][Xr.ⲆᐃΔ] = pr(Nu(0.8, 0, ["#c98e2f", "#a36b11"]));
-    ΔΔ[Xr.ⲆⲆᐃΔΔⵠΔ][Xr.ΔⲆⵠ] = pr(Nu(0.8, 0, ["#043c37", "#032b23"]));
-    ΔΔ[Xr.ⲆᐃᐃⲆΔᐃΔ] = [];
-    ΔΔ[Xr.ⲆᐃᐃⲆΔᐃΔ][Xr.ⲆᐃΔ] = pr(Nu(0.8, 0, ["#b22419", "#99110e"]));
-    ΔΔ[Xr.ⲆᐃᐃⲆΔᐃΔ][Xr.ΔⲆⵠ] = pr(Nu(0.8, 0, ["#04323c", "#03222b"]));
-    ΔΔ[Xr.ⵠⵠⵠΔⲆⲆᐃ] = [];
-    ΔΔ[Xr.ⵠⵠⵠΔⲆⲆᐃ][Xr.ⲆᐃΔ] = pr(Nu(0.8, 0, ["#13a56d", "#098a58"]));
-    ΔΔ[Xr.ⵠⵠⵠΔⲆⲆᐃ][Xr.ΔⲆⵠ] = pr(Nu(0.8, 0, ["#043c37", "#032b23"]));
-    ΔΔ[Xr.ᐃⲆⲆᐃⵠᐃΔ] = bu(1, [{
+    ΔΔ[656] = Ⲇⵠ.ΔⵠᐃΔⲆⵠⲆ;
+    ΔΔ[135] = [];
+    ΔΔ[135][Xr.ⲆᐃΔ] = pr(Wt(1.5, true, ["#0d1b1c", "#596560", "#394841", "#67766F", "#46554D", "#4C3B19", "#674C2A", "#7C5A29", "#596560", "#394841"]));
+    ΔΔ[135][Xr.ΔⲆⵠ] = pr(Wt(1.5, Gq, ["#030d14", "#163A3A", "#214C4B", "#1a4545", "#225755", "#07393D", "#07454a", "#0c484d", "#163A3A", "#214C4B"]));
+    ΔΔ[641] = [];
+    ΔΔ[641][Xr.ⲆᐃΔ] = pr(Yt(2, true, ["#0d1b1c", "#596560", "#394841", "#67766F", "#46554D", "#4C3B19", "#674C2A", "#7C5A29", "#596560", "#394841"]));
+    ΔΔ[641][Xr.ΔⲆⵠ] = pr(Yt(as * 1, true, ["#030d14", "#163A3A", "#214C4B", "#1a4545", "#225755", "#07393D", "#07454a", "#0c484d", "#163A3A", "#214C4B"]));
+    ΔΔ[642] = [];
+    ΔΔ[642][Xr.ⲆᐃΔ] = pr($t(1.5, true, ["#0d1b1c", "#596560", "#394841", "#67766F", "#46554D", "#4C3B19", "#674C2A", "#7C5A29", "#596560", "#394841"]));
+    ΔΔ[642][Xr.ΔⲆⵠ] = pr($t(1.5, true, ["#030d14", "#163A3A", "#214C4B", "#1a4545", "#225755", "#07393D", "#07454a", "#0c484d", "#163A3A", "#214C4B"]));
+    ΔΔ[134] = [];
+    ΔΔ[134][Xr.ⲆᐃΔ] = pr(Xt(2.2, 0, ["#A89F67", "#9E8456"]));
+    ΔΔ[134][Xr.ΔⲆⵠ] = pr(Xt(2.2, 0, ["#0B4049", "#08383D"]));
+    ΔΔ[638] = [];
+    ΔΔ[638][Xr.ⲆᐃΔ] = pr(Xt(2.2, 0, ["#68622D", "#665329"]));
+    ΔΔ[638][Xr.ΔⲆⵠ] = pr(Xt(2.2, 0, ["#0F3A24", "#083326"]));
+    ΔΔ[321] = [];
+    ΔΔ[321][Xr.ⲆᐃΔ] = pr(Nu(0.8, 0, ["#A89F67", "#9E8456"]));
+    ΔΔ[321][Xr.ΔⲆⵠ] = pr(Nu(0.8, 0, ["#15514F", "#0F3F3D"]));
+    ΔΔ[811] = [];
+    ΔΔ[811][Xr.ⲆᐃΔ] = pr(Nu(0.8, 0, ["#c67933", "#b17238"]));
+    ΔΔ[811][Xr.ΔⲆⵠ] = pr(Nu(0.8, 0, ["#043c37", "#032b23"]));
+    ΔΔ[984] = [];
+    ΔΔ[984][Xr.ⲆᐃΔ] = pr(Nu(0.8, 0, ["#3a8214", "#4a9c1e"]));
+    ΔΔ[984][Xr.ΔⲆⵠ] = pr(Nu(0.8, 0, ["#032d29", "#044640"]));
+    ΔΔ[837] = [];
+    ΔΔ[837][Xr.ⲆᐃΔ] = pr(Nu(0.8, 0, ["#e8e8e8", "#bbbbbb"]));
+    ΔΔ[837][Xr.ΔⲆⵠ] = pr(Nu(0.8, 0, ["#1c6161", "#07413f"]));
+    ΔΔ[848] = [];
+    ΔΔ[848][Xr.ⲆᐃΔ] = pr(Nu(0.8, 0, ["#328a56", "#449573"]));
+    ΔΔ[848][Xr.ΔⲆⵠ] = pr(Nu(0.8, 0, ["#043c37", "#032b23"]));
+    ΔΔ[952] = [];
+    ΔΔ[952][Xr.ⲆᐃΔ] = pr(Nu(0.8, 0, ["#c98e2f", "#a36b11"]));
+    ΔΔ[952][Xr.ΔⲆⵠ] = pr(Nu(0.8, 0, ["#043c37", "#032b23"]));
+    ΔΔ[962] = [];
+    ΔΔ[962][Xr.ⲆᐃΔ] = pr(Nu(0.8, 0, ["#b22419", "#99110e"]));
+    ΔΔ[962][Xr.ΔⲆⵠ] = pr(Nu(0.8, 0, ["#04323c", "#03222b"]));
+    ΔΔ[969] = [];
+    ΔΔ[969][Xr.ⲆᐃΔ] = pr(Nu(0.8, 0, ["#13a56d", "#098a58"]));
+    ΔΔ[969][Xr.ΔⲆⵠ] = pr(Nu(0.8, 0, ["#043c37", "#032b23"]));
+    ΔΔ[657] = bu(1, [{
       f: Xt,
       x: wg,
       y: Zj,
@@ -25201,7 +25201,7 @@
       r: Rq,
       c: ["#A89F67", "#9E8456"]
     }], 1.2, ["#d2c77b", "#e7dc8f", "#bfb360"], 0.7);
-    ΔΔ[Xr.ᐃⵠΔⲆᐃⲆⵠ] = bu(zs, [{
+    ΔΔ[723] = bu(zs, [{
       f: ku,
       x: 0,
       y: 0,
@@ -25209,7 +25209,7 @@
       r: -Math.PI / Zg,
       c: ["#4d2d14", "#432516"]
     }], 0.3, ["#d2c77b", "#e7dc8f", "#bfb360"], 0.7);
-    ΔΔ[Xr.ⲆⲆᐃⵠⵠᐃⲆ] = bu(pu, [{
+    ΔΔ[724] = bu(pu, [{
       f: am,
       x: Rq,
       y: -Fk,
@@ -25217,134 +25217,134 @@
       r: Ih,
       c: ["#1d051e", "#bf8d51", "#7d5133", "#e8d6bf", "#e0c8a9", "#ab7a3f"]
     }], 0.15, ["#d2c77b", "#e7dc8f", "#bfb360"], 0.7);
-    ΔΔ[Xr.ΔᐃⵠⲆᐃΔΔ] = bu(0.9, [], 0.3, ["#2b5c48", "#2b5c48", "#2b5c48"], 0.5);
-    ΔΔ[Xr.ΔⵠⵠᐃⲆᐃΔ] = [];
-    ΔΔ[Xr.ΔⵠⵠᐃⲆᐃΔ][Xr.ⲆᐃΔ] = pr(jb(0.9, 0, ["#7d613e", "#9e7e5a"]));
-    ΔΔ[Xr.ΔⵠⵠᐃⲆᐃΔ][Xr.ΔⲆⵠ] = pr(jb(0.9, 0, ["#084442", "#125e5a"]));
-    ΔΔ[Xr.ⲆΔᐃΔΔ] = [];
-    ΔΔ[Xr.ⲆΔᐃΔΔ][Xr.ⲆᐃΔ] = pr(jb(0.9, 0, ["#9E8456", "#A89F67"]));
-    ΔΔ[Xr.ⲆΔᐃΔΔ][Xr.ΔⲆⵠ] = pr(jb(0.9, 0, ["#1b6f6a", "#0d4e4c"]));
-    ΔΔ[Xr.ⲆᐃⲆⵠⵠΔⵠ] = [];
-    ΔΔ[Xr.ⲆᐃⲆⵠⵠΔⵠ][Xr.ⲆᐃΔ] = pr(jb(0.9, 0, ["#665329", "#68622D"]));
-    ΔΔ[Xr.ⲆᐃⲆⵠⵠΔⵠ][Xr.ΔⲆⵠ] = pr(jb(0.9, 0, ["#083326", "#0F3A24"]));
-    ΔΔ[Xr.ⲆⲆⲆⵠⲆΔᐃ] = [];
-    ΔΔ[Xr.ⲆⲆⲆⵠⲆΔᐃ][Xr.ⲆᐃΔ] = pr(jb(0.9, 0, ["#c67933", "#ec952d"]));
-    ΔΔ[Xr.ⲆⲆⲆⵠⲆΔᐃ][Xr.ΔⲆⵠ] = pr(jb(0.9, 0, ["#0e6553", "#094437"]));
-    ΔΔ[Xr.ᐃⲆⵠᐃᐃⵠᐃ] = [];
-    ΔΔ[Xr.ᐃⲆⵠᐃᐃⵠᐃ][Xr.ⲆᐃΔ] = pr(jb(0.9, 0, ["#375809", "#4b770e"]));
-    ΔΔ[Xr.ᐃⲆⵠᐃᐃⵠᐃ][Xr.ΔⲆⵠ] = pr(jb(0.9, 0, ["#09542d", "#0d5d2f"]));
-    ΔΔ[Xr.ΔᐃΔᐃᐃⲆⵠ] = [];
-    ΔΔ[Xr.ΔᐃΔᐃᐃⲆⵠ][Xr.ⲆᐃΔ] = pr(jb(0.9, 0, ["#585809", "#72770e"]));
-    ΔΔ[Xr.ΔᐃΔᐃᐃⲆⵠ][Xr.ΔⲆⵠ] = pr(jb(0.9, 0, ["#295209", "#305d0d"]));
-    ΔΔ[Xr.ⲆᐃⵠΔⵠⲆⵠ] = [];
-    ΔΔ[Xr.ⲆᐃⵠΔⵠⲆⵠ][Xr.ⲆᐃΔ] = pr(jb(0.9, 0, ["#b9b094", "#e2d2c0"]));
-    ΔΔ[Xr.ⲆᐃⵠΔⵠⲆⵠ][Xr.ΔⲆⵠ] = pr(jb(0.9, 0, ["#126366", "#0d484b"]));
-    ΔΔ[Xr.ⵠᐃΔⲆⵠⲆⲆ] = [];
-    ΔΔ[Xr.ⵠᐃΔⲆⵠⲆⲆ][Xr.ⲆᐃΔ] = pr(jb(0.9, 0, ["#3f8662", "#30915d"]));
-    ΔΔ[Xr.ⵠᐃΔⲆⵠⲆⲆ][Xr.ΔⲆⵠ] = pr(jb(0.9, 0, ["#0e6553", "#094437"]));
-    ΔΔ[Xr.ΔⵠⲆΔᐃᐃⲆ] = [];
-    ΔΔ[Xr.ΔⵠⲆΔᐃᐃⲆ][Xr.ⲆᐃΔ] = pr(jb(0.9, 0, ["#c79153", "#dfa868"]));
-    ΔΔ[Xr.ΔⵠⲆΔᐃᐃⲆ][Xr.ΔⲆⵠ] = pr(jb(0.9, 0, ["#073927", "#075040"]));
-    ΔΔ[Xr.ᐃⵠⲆⵠΔΔΔ] = [];
-    ΔΔ[Xr.ᐃⵠⲆⵠΔΔΔ][Xr.ⲆᐃΔ] = pr(jb(0.9, 0, ["#768b5b", "#819984"]));
-    ΔΔ[Xr.ᐃⵠⲆⵠΔΔΔ][Xr.ΔⲆⵠ] = pr(jb(0.9, 0, ["#0c4540", "#0e5153"]));
-    ΔΔ[Xr.ⲆⲆΔᐃᐃᐃᐃ] = [];
-    ΔΔ[Xr.ⲆⲆΔᐃᐃᐃᐃ][Xr.ⲆᐃΔ] = pr(jb(0.9, 0, ["#567465", "#627c6e"]));
-    ΔΔ[Xr.ⲆⲆΔᐃᐃᐃᐃ][Xr.ΔⲆⵠ] = pr(jb(0.9, 0, ["#073927", "#075040"]));
-    ΔΔ[Xr.ⵠⲆᐃⲆᐃⵠᐃ] = [];
-    ΔΔ[Xr.ⵠⲆᐃⲆᐃⵠᐃ][Xr.ⲆᐃΔ] = pr(jb(0.9, 0, ["#996b3a", "#bf956b"]));
-    ΔΔ[Xr.ⵠⲆᐃⲆᐃⵠᐃ][Xr.ΔⲆⵠ] = pr(jb(0.9, 0, ["#0e6553", "#094437"]));
-    ΔΔ[Xr.ΔⵠΔⵠⲆΔᐃ] = [];
-    ΔΔ[Xr.ΔⵠΔⵠⲆΔᐃ][Xr.ⲆᐃΔ] = pr(jb(0.9, 0, ["#7a634a", "#a68f77"]));
-    ΔΔ[Xr.ΔⵠΔⵠⲆΔᐃ][Xr.ΔⲆⵠ] = pr(jb(0.9, 0, ["#1e4d43", "#113c32"]));
-    ΔΔ[Xr.ᐃᐃⲆᐃΔΔᐃ] = [];
-    ΔΔ[Xr.ᐃᐃⲆᐃΔΔᐃ][Xr.ⲆᐃΔ] = pr(jb(0.9, 0, ["#99403c", "#bc796c"]));
-    ΔΔ[Xr.ᐃᐃⲆᐃΔΔᐃ][Xr.ΔⲆⵠ] = pr(jb(0.9, 0, ["#1e434d", "#11303c"]));
-    ΔΔ[Xr.ᐃⵠⵠΔᐃⵠⲆ] = [];
-    ΔΔ[Xr.ᐃⵠⵠΔᐃⵠⲆ][Xr.ⲆᐃΔ] = pr(jb(0.9, 0, ["#88504e", "#b3857c"]));
-    ΔΔ[Xr.ᐃⵠⵠΔᐃⵠⲆ][Xr.ΔⲆⵠ] = pr(jb(0.9, 0, ["#253b41", "#162930"]));
-    ΔΔ[Xr.ᐃᐃⲆⲆⲆΔΔ] = [];
-    ΔΔ[Xr.ᐃᐃⲆⲆⲆΔΔ][Xr.ⲆᐃΔ] = pr(jb(0.9, 0, ["#0f8870", "#23af93"]));
-    ΔΔ[Xr.ᐃᐃⲆⲆⲆΔΔ][Xr.ΔⲆⵠ] = pr(jb(0.9, 0, ["#032829", "#083233"]));
-    ΔΔ[Xr.ⲆΔⵠⵠⲆΔΔ] = [];
-    ΔΔ[Xr.ⲆΔⵠⵠⲆΔΔ][Xr.ⲆᐃΔ] = pr(jb(0.9, 0, ["#618a20", "#84a74e"]));
-    ΔΔ[Xr.ⲆΔⵠⵠⲆΔΔ][Xr.ΔⲆⵠ] = pr(jb(0.9, 0, ["#1f4632", "#335d47"]));
-    ΔΔ[Xr.ⵠⲆΔⵠᐃ] = [];
-    ΔΔ[Xr.ⵠⲆΔⵠᐃ][Xr.ⲆᐃΔ] = pr(Xb(1.2, true, ["#0d1b1c", "#4d2d14", "#432516", "#756e52", "#663f22", "#9e9577"]));
-    ΔΔ[Xr.ⵠⲆΔⵠᐃ][Xr.ΔⲆⵠ] = pr(Xb(1.2, true, ["#030d14", "#0d2e33", "#072322", "#3e706b", "#123d3f", "#4e827c"]));
-    ΔΔ[Xr.ⲆⲆⲆⲆⵠ] = [];
-    ΔΔ[Xr.ⲆⲆⲆⲆⵠ][Xr.ⲆᐃΔ] = pr(um(Oq * 1, qn, ["#0d1b1c", "#4c3a15", "#634828", "#564021", "#634828", "#4c3a15"]));
-    ΔΔ[Xr.ⲆⲆⲆⲆⵠ][Xr.ΔⲆⵠ] = pr(um(1, Gq, ["#030d14", "#0d2e33", "#184747", "#123b3f", "#0d2e33", "#174444"]));
-    ΔΔ[Xr.ⵠᐃⲆᐃⵠ] = [];
-    ΔΔ[Xr.ⵠᐃⲆᐃⵠ][Xr.ⲆᐃΔ] = pr(Kc(1, true, ["#0d1b1c", "#5cc5ce", "#89d1d4", "#86d0d1", "#95d5d8", "#e0f2f6", "#b3e0e3"]));
-    ΔΔ[Xr.ⵠᐃⲆᐃⵠ][Xr.ΔⲆⵠ] = pr(Kc(1, true, ["#030d14", "#2b9390", "#43b5af", "#43b5af", "#4bbcb4", "#83ddd4", "#59c9c0"]));
-    ΔΔ[Xr.ᐃΔⵠⵠΔ] = [];
-    ΔΔ[Xr.ᐃΔⵠⵠΔ][Xr.ⲆᐃΔ] = pr(Vc(1, _g, ["#0d1b1c", "#b15ecf", "#8c29aa", "#c26de0", "#af59cd", "#d588f1"]));
-    ΔΔ[Xr.ᐃΔⵠⵠΔ][Xr.ΔⲆⵠ] = pr(Vc(1, true, ["#030d14", "#8359d3", "#764eb5", "#8f65de", "#7f55cc", "#9d77e6"]));
-    ΔΔ[Xr.ΔᐃⵠⲆⲆ] = [];
-    ΔΔ[Xr.ΔᐃⵠⲆⲆ][Xr.ⲆᐃΔ] = pr(Vc(1, Eh, ["#0d1b1c", "#6a7570", "#939995", "#9baaa3", "#adbcb5", "#8a938e"]));
-    ΔΔ[Xr.ΔᐃⵠⲆⲆ][Xr.ΔⲆⵠ] = pr(Vc(au * 1, ye, ["#030d14", "#163a3a", "#214c4b", "#1f4948", "#295957", "#1f5955"]));
-    ΔΔ[Xr.ᐃᐃᐃᐃᐃ] = [];
-    ΔΔ[Xr.ᐃᐃᐃᐃᐃ][Xr.ⲆᐃΔ] = pr(nc(og * 1, y, ["#0d1b1c", "#877d36", "#a08f47", "#a7983c", "#b29e4d", "#c1b06b"]));
-    ΔΔ[Xr.ᐃᐃᐃᐃᐃ][Xr.ΔⲆⵠ] = pr(nc(1, true, ["#030d14", "#1f4948", "#215e55", "#1f6058", "#2a7773", "#2c7a70"]));
-    ΔΔ[Xr.ⵠⵠΔⵠⲆ] = [];
-    ΔΔ[Xr.ⵠⵠΔⵠⲆ][Xr.ⲆᐃΔ] = pr(Oc(0.8, true, ["#0d1b1c", "#5f6061", "#939393", "#4c3a15", "#634828", "#564021", "#634828", "#4c3a15"]));
-    ΔΔ[Xr.ⵠⵠΔⵠⲆ][Xr.ΔⲆⵠ] = pr(Oc(0.8, true, ["#030d14", "#1f343f", "#485e66", "#0d2e33", "#184747", "#123b3f", "#0d2e33", "#174444"]));
-    ΔΔ[Xr.Ⲇᐃⵠᐃⵠ] = [];
-    ΔΔ[Xr.Ⲇᐃⵠᐃⵠ][Xr.ⲆᐃΔ] = pr(Tc(0.8, un, ["#0d1b1c", "#69685a", "#9c9683", "#877d36", "#a08f47", "#a7983c", "#b29e4d", "#c1b06b"]));
-    ΔΔ[Xr.Ⲇᐃⵠᐃⵠ][Xr.ΔⲆⵠ] = pr(Tc(0.8, true, ["#030d14", "#1a3732", "#1e544c", "#1f4948", "#215e55", "#1f6058", "#2a7773", "#2c7a70"]));
-    ΔΔ[Xr.ⲆⵠᐃΔΔ] = [];
-    ΔΔ[Xr.ⲆⵠᐃΔΔ][Xr.ⲆᐃΔ] = pr(fc(0.8, Gq, ["#0d1b1c", "#7d8b90", "#9facaa", "#5cc5ce", "#89d1d4", "#86d0d1", "#95d5d8", "#e0f2f6", "#b3e0e3"]));
-    ΔΔ[Xr.ⲆⵠᐃΔΔ][Xr.ΔⲆⵠ] = pr(fc(0.8, true, ["#030d14", "#2c4b55", "#546d77", "#2b9390", "#43b5af", "#43b5af", "#4bbcb4", "#83ddd4", "#59c9c0"]));
-    ΔΔ[Xr.ⲆᐃⲆΔΔ] = [];
-    ΔΔ[Xr.ⲆᐃⲆΔΔ][Xr.ⲆᐃΔ] = pr(Rd(0.8, true, ["#0d1b1c", "#6a7570", "#939393", "#6a7570", "#939995", "#9baaa3", "#adbcb5", "#8a938e"]));
-    ΔΔ[Xr.ⲆᐃⲆΔΔ][Xr.ΔⲆⵠ] = pr(Rd(0.8, _g, ["#030d14", "#1f343f", "#485e66", "#163a3a", "#214c4b", "#1f4948", "#295957", "#1f5955"]));
-    ΔΔ[Xr.ᐃⲆⵠᐃᐃ] = [];
-    ΔΔ[Xr.ᐃⲆⵠᐃᐃ][Xr.ⲆᐃΔ] = pr(Rd(0.8, true, ["#0d1b1c", "#6a7570", "#939393", "#b15ecf", "#8c29aa", "#c26de0", "#af59cd", "#d588f1"]));
-    ΔΔ[Xr.ᐃⲆⵠᐃᐃ][Xr.ΔⲆⵠ] = pr(Rd(0.8, true, ["#030d14", "#1f343f", "#485e66", "#8359d3", "#764eb5", "#8f65de", "#7f55cc", "#9d77e6"]));
-    ΔΔ[Xr.ⵠⲆΔᐃⵠⲆⲆ] = [];
-    ΔΔ[Xr.ⵠⲆΔᐃⵠⲆⲆ][Xr.ⲆᐃΔ] = pr(Kd(1.5, true, ["#0d1b1c", "#4c3b19", "#574122", "#644928", "#574122", "#735534", "#23a54e", "#1f934a", "#208e48", "#b12c2a", "#9c2625", "#ebd6a4", "#cca73f"]));
-    ΔΔ[Xr.ⵠⲆΔᐃⵠⲆⲆ][Xr.ΔⲆⵠ] = pr(Kd(1.5, true, ["#030d14", "#0d2e33", "#184747", "#123b3f", "#0d2e33", "#174444"]));
-    ΔΔ[Xr.ⵠᐃⵠΔⵠΔⲆ] = [];
-    ΔΔ[Xr.ⵠᐃⵠΔⵠΔⲆ][Xr.ⲆᐃΔ] = pr(Kd(hb * 1, Ei, ["#133a2b", "#133a2b", "#1a4935", "#1a4935", "#133a2b", "#1a4935"]));
-    ΔΔ[Xr.ⵠᐃⵠΔⵠΔⲆ][Xr.ΔⲆⵠ] = pr(Kd(1, Fh, ["#042b30", "#042b30", "#0b342b", "#0b342b", "#042b30", "#0b342b"]));
-    ΔΔ[Xr.ΔⵠΔⲆᐃⵠᐃ] = [];
-    ΔΔ[Xr.ΔⵠΔⲆᐃⵠᐃ][Xr.ⲆᐃΔ] = pr(Md(1.5, Yl, ["#0d1b1c", "#6a7570", "#939995", "#9baaa3", "#8a938e", "#adbcb5"]));
-    ΔΔ[Xr.ΔⵠΔⲆᐃⵠᐃ][Xr.ΔⲆⵠ] = pr(Md(1.5, Gq, ["#030d14", "#163a3a", "#214c4b", "#1f4948", "#164542", "#295957"]));
-    ΔΔ[Xr.ⵠΔⲆᐃᐃⲆᐃ] = [];
-    ΔΔ[Xr.ⵠΔⲆᐃᐃⲆᐃ][Xr.ⲆᐃΔ] = pr(Md(zs * 1, Fh, ["#133a2b", "#133a2b", "#1a4935", "#1a4935", "#133a2b", "#1a4935"]));
-    ΔΔ[Xr.ⵠΔⲆᐃᐃⲆᐃ][Xr.ΔⲆⵠ] = pr(Md(1, gh, ["#032428", "#032428", "#07393d", "#07393d", "#032428", "#07393d"]));
-    ΔΔ[Xr.ⵠᐃⲆᐃⲆⲆᐃ] = [];
-    ΔΔ[Xr.ⵠᐃⲆᐃⲆⲆᐃ][Xr.ⲆᐃΔ] = pr(Md(1.5, true, ["#0d1b1c", "#b15ecf", "#8c29aa", "#c26de0", "#af59cd", "#d588f1"]));
-    ΔΔ[Xr.ⵠᐃⲆᐃⲆⲆᐃ][Xr.ΔⲆⵠ] = pr(Md(1.5, true, ["#030d14", "#8359d3", "#764eb5", "#8f65de", "#7f55cc", "#9d77e6"]));
-    ΔΔ[Xr.ΔⲆⲆᐃΔⵠⲆ] = [];
-    ΔΔ[Xr.ΔⲆⲆᐃΔⵠⲆ][Xr.ⲆᐃΔ] = pr(Md(og * 1, jl, ["#133a2b", "#133a2b", "#1a4935", "#1a4935", "#133a2b", "#1a4935"]));
-    ΔΔ[Xr.ΔⲆⲆᐃΔⵠⲆ][Xr.ΔⲆⵠ] = pr(Md(1, false, ["#032428", "#032428", "#07393d", "#07393d", "#032428", "#07393d"]));
-    ΔΔ[Xr.ΔⲆⲆⲆⵠⲆⲆ] = [];
-    ΔΔ[Xr.ΔⲆⲆⲆⵠⲆⲆ][Xr.ⲆᐃΔ] = pr(ym(1.5, fs, ["#0d1b1c", "#877d36", "#a08f47", "#a7983c", "#9a8636", "#c1b06b"]));
-    ΔΔ[Xr.ΔⲆⲆⲆⵠⲆⲆ][Xr.ΔⲆⵠ] = pr(ym(1.5, true, ["#030d14", "#1f4948", "#215e55", "#1f6058", "#1f605c", "#2c7a70"]));
-    ΔΔ[Xr.ΔⲆⲆᐃᐃΔΔ] = [];
-    ΔΔ[Xr.ΔⲆⲆᐃᐃΔΔ][Xr.ⲆᐃΔ] = pr(ym(za * 1, Mh, ["#133a2b", "#133a2b", "#1a4935", "#1a4935", "#133a2b", "#1a4935"]));
-    ΔΔ[Xr.ΔⲆⲆᐃᐃΔΔ][Xr.ΔⲆⵠ] = pr(ym(1, false, ["#032428", "#032428", "#07393d", "#07393d", "#032428", "#07393d"]));
-    ΔΔ[Xr.ᐃⲆⲆΔⵠⵠⵠ] = [];
-    ΔΔ[Xr.ᐃⲆⲆΔⵠⵠⵠ][Xr.ⲆᐃΔ] = pr(Ec(1.5, true, ["#0d1b1c", "#5cc5ce", "#89d1d4", "#86d0d1", "#95d5d8", "#e0f2f6", "#b3e0e3"]));
-    ΔΔ[Xr.ᐃⲆⲆΔⵠⵠⵠ][Xr.ΔⲆⵠ] = pr(Ec(1.5, kh, ["#030d14", "#2b9390", "#43b5af", "#43b5af", "#4bbcb4", "#83ddd4", "#59c9c0"]));
-    ΔΔ[Xr.ᐃᐃᐃΔᐃΔⵠ] = [];
-    ΔΔ[Xr.ᐃᐃᐃΔᐃΔⵠ][Xr.ⲆᐃΔ] = pr(Ec(1, false, ["#133a2b", "#133a2b", "#1a4935", "#1a4935", "#133a2b", "#1a4935"]));
-    ΔΔ[Xr.ᐃᐃᐃΔᐃΔⵠ][Xr.ΔⲆⵠ] = pr(Ec(za * 1, Qg, ["#032428", "#032428", "#07393d", "#07393d", "#032428", "#07393d"]));
-    ΔΔ[Xr.ᐃⲆⲆⲆⲆ] = [];
-    ΔΔ[Xr.ᐃⲆⲆⲆⲆ][Xr.ⲆᐃΔ] = pr(wd(0.5, 0, ["#133a2b", "#9e8838", "#c4a23a", "#4c3b19", "#614627", "#614627", "#614627", "#c4a23a", "#c4a23a", "#c4a23a"]));
-    ΔΔ[Xr.ᐃⲆⲆⲆⲆ][Xr.ΔⲆⵠ] = pr(wd(0.5, 0, ["#032428", "#266161", "#2b6664", "#123335", "#1f5453", "#1f5453", "#1f5453", "#2b6664", "#2b6664", "#2b6664"]));
-    ΔΔ[Xr.ⵠΔΔⲆᐃ] = [];
-    ΔΔ[Xr.ⵠΔΔⲆᐃ][Xr.ⲆᐃΔ] = pr(Qc(0.5, ["#133a2b", "#9e8838", "#c4a23a", "#4c3b19", "#614627"]));
-    ΔΔ[Xr.ⵠΔΔⲆᐃ][Xr.ΔⲆⵠ] = pr(Qc(0.5, ["#032428", "#266161", "#2b6664", "#123335", "#1f5453"]));
-    ΔΔ[Xr.ⵠⵠⲆⵠΔ] = [];
-    ΔΔ[Xr.ⵠⵠⲆⵠΔ][Xr.ⲆᐃΔ] = pr(Vb(0.9, ["#0e3022", "#ee97bf", "#FFFFFF", "#000000", "#ffffff"]));
-    ΔΔ[Xr.ⵠⵠⲆⵠΔ][Xr.ΔⲆⵠ] = pr(Vb(0.9, ["#030d14", "#4d1b59", "#5d3f77", "#220e26", "#ffffff"]));
-    ΔΔ[Xr.ⵠΔᐃΔⵠ] = [];
-    ΔΔ[Xr.ⵠΔᐃΔⵠ][Xr.ⲆᐃΔ] = pr(wb(Math.PI, Pt(0.9, ["#000000", "#b7252c", "#b7252c", "#b7252c", "#FFFFFF", "#000000"])));
-    ΔΔ[Xr.ⵠΔᐃΔⵠ][Xr.ΔⲆⵠ] = pr(wb(Math.PI, Pt(0.9, ["#030d14", "#401d49", "#b7252c", "#401d49", "#FFFFFF", "#000000"])));
-    ΔΔ[Xr.ⲆΔⵠΔᐃΔⲆ] = pr(function (a, b) {
+    ΔΔ[334] = bu(0.9, [], 0.3, ["#2b5c48", "#2b5c48", "#2b5c48"], 0.5);
+    ΔΔ[115] = [];
+    ΔΔ[115][Xr.ⲆᐃΔ] = pr(jb(0.9, 0, ["#7d613e", "#9e7e5a"]));
+    ΔΔ[115][Xr.ΔⲆⵠ] = pr(jb(0.9, 0, ["#084442", "#125e5a"]));
+    ΔΔ[132] = [];
+    ΔΔ[132][Xr.ⲆᐃΔ] = pr(jb(0.9, 0, ["#9E8456", "#A89F67"]));
+    ΔΔ[132][Xr.ΔⲆⵠ] = pr(jb(0.9, 0, ["#1b6f6a", "#0d4e4c"]));
+    ΔΔ[668] = [];
+    ΔΔ[668][Xr.ⲆᐃΔ] = pr(jb(0.9, 0, ["#665329", "#68622D"]));
+    ΔΔ[668][Xr.ΔⲆⵠ] = pr(jb(0.9, 0, ["#083326", "#0F3A24"]));
+    ΔΔ[188] = [];
+    ΔΔ[188][Xr.ⲆᐃΔ] = pr(jb(0.9, 0, ["#c67933", "#ec952d"]));
+    ΔΔ[188][Xr.ΔⲆⵠ] = pr(jb(0.9, 0, ["#0e6553", "#094437"]));
+    ΔΔ[210] = [];
+    ΔΔ[210][Xr.ⲆᐃΔ] = pr(jb(0.9, 0, ["#375809", "#4b770e"]));
+    ΔΔ[210][Xr.ΔⲆⵠ] = pr(jb(0.9, 0, ["#09542d", "#0d5d2f"]));
+    ΔΔ[985] = [];
+    ΔΔ[985][Xr.ⲆᐃΔ] = pr(jb(0.9, 0, ["#585809", "#72770e"]));
+    ΔΔ[985][Xr.ΔⲆⵠ] = pr(jb(0.9, 0, ["#295209", "#305d0d"]));
+    ΔΔ[191] = [];
+    ΔΔ[191][Xr.ⲆᐃΔ] = pr(jb(0.9, 0, ["#b9b094", "#e2d2c0"]));
+    ΔΔ[191][Xr.ΔⲆⵠ] = pr(jb(0.9, 0, ["#126366", "#0d484b"]));
+    ΔΔ[193] = [];
+    ΔΔ[193][Xr.ⲆᐃΔ] = pr(jb(0.9, 0, ["#3f8662", "#30915d"]));
+    ΔΔ[193][Xr.ΔⲆⵠ] = pr(jb(0.9, 0, ["#0e6553", "#094437"]));
+    ΔΔ[812] = [];
+    ΔΔ[812][Xr.ⲆᐃΔ] = pr(jb(0.9, 0, ["#c79153", "#dfa868"]));
+    ΔΔ[812][Xr.ΔⲆⵠ] = pr(jb(0.9, 0, ["#073927", "#075040"]));
+    ΔΔ[838] = [];
+    ΔΔ[838][Xr.ⲆᐃΔ] = pr(jb(0.9, 0, ["#768b5b", "#819984"]));
+    ΔΔ[838][Xr.ΔⲆⵠ] = pr(jb(0.9, 0, ["#0c4540", "#0e5153"]));
+    ΔΔ[849] = [];
+    ΔΔ[849][Xr.ⲆᐃΔ] = pr(jb(0.9, 0, ["#567465", "#627c6e"]));
+    ΔΔ[849][Xr.ΔⲆⵠ] = pr(jb(0.9, 0, ["#073927", "#075040"]));
+    ΔΔ[204] = [];
+    ΔΔ[204][Xr.ⲆᐃΔ] = pr(jb(0.9, 0, ["#996b3a", "#bf956b"]));
+    ΔΔ[204][Xr.ΔⲆⵠ] = pr(jb(0.9, 0, ["#0e6553", "#094437"]));
+    ΔΔ[953] = [];
+    ΔΔ[953][Xr.ⲆᐃΔ] = pr(jb(0.9, 0, ["#7a634a", "#a68f77"]));
+    ΔΔ[953][Xr.ΔⲆⵠ] = pr(jb(0.9, 0, ["#1e4d43", "#113c32"]));
+    ΔΔ[206] = [];
+    ΔΔ[206][Xr.ⲆᐃΔ] = pr(jb(0.9, 0, ["#99403c", "#bc796c"]));
+    ΔΔ[206][Xr.ΔⲆⵠ] = pr(jb(0.9, 0, ["#1e434d", "#11303c"]));
+    ΔΔ[963] = [];
+    ΔΔ[963][Xr.ⲆᐃΔ] = pr(jb(0.9, 0, ["#88504e", "#b3857c"]));
+    ΔΔ[963][Xr.ΔⲆⵠ] = pr(jb(0.9, 0, ["#253b41", "#162930"]));
+    ΔΔ[208] = [];
+    ΔΔ[208][Xr.ⲆᐃΔ] = pr(jb(0.9, 0, ["#0f8870", "#23af93"]));
+    ΔΔ[208][Xr.ΔⲆⵠ] = pr(jb(0.9, 0, ["#032829", "#083233"]));
+    ΔΔ[970] = [];
+    ΔΔ[970][Xr.ⲆᐃΔ] = pr(jb(0.9, 0, ["#618a20", "#84a74e"]));
+    ΔΔ[970][Xr.ΔⲆⵠ] = pr(jb(0.9, 0, ["#1f4632", "#335d47"]));
+    ΔΔ[114] = [];
+    ΔΔ[114][Xr.ⲆᐃΔ] = pr(Xb(1.2, true, ["#0d1b1c", "#4d2d14", "#432516", "#756e52", "#663f22", "#9e9577"]));
+    ΔΔ[114][Xr.ΔⲆⵠ] = pr(Xb(1.2, true, ["#030d14", "#0d2e33", "#072322", "#3e706b", "#123d3f", "#4e827c"]));
+    ΔΔ[162] = [];
+    ΔΔ[162][Xr.ⲆᐃΔ] = pr(um(Oq * 1, qn, ["#0d1b1c", "#4c3a15", "#634828", "#564021", "#634828", "#4c3a15"]));
+    ΔΔ[162][Xr.ΔⲆⵠ] = pr(um(1, Gq, ["#030d14", "#0d2e33", "#184747", "#123b3f", "#0d2e33", "#174444"]));
+    ΔΔ[165] = [];
+    ΔΔ[165][Xr.ⲆᐃΔ] = pr(Kc(1, true, ["#0d1b1c", "#5cc5ce", "#89d1d4", "#86d0d1", "#95d5d8", "#e0f2f6", "#b3e0e3"]));
+    ΔΔ[165][Xr.ΔⲆⵠ] = pr(Kc(1, true, ["#030d14", "#2b9390", "#43b5af", "#43b5af", "#4bbcb4", "#83ddd4", "#59c9c0"]));
+    ΔΔ[122] = [];
+    ΔΔ[122][Xr.ⲆᐃΔ] = pr(Vc(1, _g, ["#0d1b1c", "#b15ecf", "#8c29aa", "#c26de0", "#af59cd", "#d588f1"]));
+    ΔΔ[122][Xr.ΔⲆⵠ] = pr(Vc(1, true, ["#030d14", "#8359d3", "#764eb5", "#8f65de", "#7f55cc", "#9d77e6"]));
+    ΔΔ[163] = [];
+    ΔΔ[163][Xr.ⲆᐃΔ] = pr(Vc(1, Eh, ["#0d1b1c", "#6a7570", "#939995", "#9baaa3", "#adbcb5", "#8a938e"]));
+    ΔΔ[163][Xr.ΔⲆⵠ] = pr(Vc(au * 1, ye, ["#030d14", "#163a3a", "#214c4b", "#1f4948", "#295957", "#1f5955"]));
+    ΔΔ[164] = [];
+    ΔΔ[164][Xr.ⲆᐃΔ] = pr(nc(og * 1, y, ["#0d1b1c", "#877d36", "#a08f47", "#a7983c", "#b29e4d", "#c1b06b"]));
+    ΔΔ[164][Xr.ΔⲆⵠ] = pr(nc(1, true, ["#030d14", "#1f4948", "#215e55", "#1f6058", "#2a7773", "#2c7a70"]));
+    ΔΔ[160] = [];
+    ΔΔ[160][Xr.ⲆᐃΔ] = pr(Oc(0.8, true, ["#0d1b1c", "#5f6061", "#939393", "#4c3a15", "#634828", "#564021", "#634828", "#4c3a15"]));
+    ΔΔ[160][Xr.ΔⲆⵠ] = pr(Oc(0.8, true, ["#030d14", "#1f343f", "#485e66", "#0d2e33", "#184747", "#123b3f", "#0d2e33", "#174444"]));
+    ΔΔ[169] = [];
+    ΔΔ[169][Xr.ⲆᐃΔ] = pr(Tc(0.8, un, ["#0d1b1c", "#69685a", "#9c9683", "#877d36", "#a08f47", "#a7983c", "#b29e4d", "#c1b06b"]));
+    ΔΔ[169][Xr.ΔⲆⵠ] = pr(Tc(0.8, true, ["#030d14", "#1a3732", "#1e544c", "#1f4948", "#215e55", "#1f6058", "#2a7773", "#2c7a70"]));
+    ΔΔ[170] = [];
+    ΔΔ[170][Xr.ⲆᐃΔ] = pr(fc(0.8, Gq, ["#0d1b1c", "#7d8b90", "#9facaa", "#5cc5ce", "#89d1d4", "#86d0d1", "#95d5d8", "#e0f2f6", "#b3e0e3"]));
+    ΔΔ[170][Xr.ΔⲆⵠ] = pr(fc(0.8, true, ["#030d14", "#2c4b55", "#546d77", "#2b9390", "#43b5af", "#43b5af", "#4bbcb4", "#83ddd4", "#59c9c0"]));
+    ΔΔ[168] = [];
+    ΔΔ[168][Xr.ⲆᐃΔ] = pr(Rd(0.8, true, ["#0d1b1c", "#6a7570", "#939393", "#6a7570", "#939995", "#9baaa3", "#adbcb5", "#8a938e"]));
+    ΔΔ[168][Xr.ΔⲆⵠ] = pr(Rd(0.8, _g, ["#030d14", "#1f343f", "#485e66", "#163a3a", "#214c4b", "#1f4948", "#295957", "#1f5955"]));
+    ΔΔ[123] = [];
+    ΔΔ[123][Xr.ⲆᐃΔ] = pr(Rd(0.8, true, ["#0d1b1c", "#6a7570", "#939393", "#b15ecf", "#8c29aa", "#c26de0", "#af59cd", "#d588f1"]));
+    ΔΔ[123][Xr.ΔⲆⵠ] = pr(Rd(0.8, true, ["#030d14", "#1f343f", "#485e66", "#8359d3", "#764eb5", "#8f65de", "#7f55cc", "#9d77e6"]));
+    ΔΔ[166] = [];
+    ΔΔ[166][Xr.ⲆᐃΔ] = pr(Kd(1.5, true, ["#0d1b1c", "#4c3b19", "#574122", "#644928", "#574122", "#735534", "#23a54e", "#1f934a", "#208e48", "#b12c2a", "#9c2625", "#ebd6a4", "#cca73f"]));
+    ΔΔ[166][Xr.ΔⲆⵠ] = pr(Kd(1.5, true, ["#030d14", "#0d2e33", "#184747", "#123b3f", "#0d2e33", "#174444"]));
+    ΔΔ[336] = [];
+    ΔΔ[336][Xr.ⲆᐃΔ] = pr(Kd(hb * 1, Ei, ["#133a2b", "#133a2b", "#1a4935", "#1a4935", "#133a2b", "#1a4935"]));
+    ΔΔ[336][Xr.ΔⲆⵠ] = pr(Kd(1, Fh, ["#042b30", "#042b30", "#0b342b", "#0b342b", "#042b30", "#0b342b"]));
+    ΔΔ[171] = [];
+    ΔΔ[171][Xr.ⲆᐃΔ] = pr(Md(1.5, Yl, ["#0d1b1c", "#6a7570", "#939995", "#9baaa3", "#8a938e", "#adbcb5"]));
+    ΔΔ[171][Xr.ΔⲆⵠ] = pr(Md(1.5, Gq, ["#030d14", "#163a3a", "#214c4b", "#1f4948", "#164542", "#295957"]));
+    ΔΔ[373] = [];
+    ΔΔ[373][Xr.ⲆᐃΔ] = pr(Md(zs * 1, Fh, ["#133a2b", "#133a2b", "#1a4935", "#1a4935", "#133a2b", "#1a4935"]));
+    ΔΔ[373][Xr.ΔⲆⵠ] = pr(Md(1, gh, ["#032428", "#032428", "#07393d", "#07393d", "#032428", "#07393d"]));
+    ΔΔ[124] = [];
+    ΔΔ[124][Xr.ⲆᐃΔ] = pr(Md(1.5, true, ["#0d1b1c", "#b15ecf", "#8c29aa", "#c26de0", "#af59cd", "#d588f1"]));
+    ΔΔ[124][Xr.ΔⲆⵠ] = pr(Md(1.5, true, ["#030d14", "#8359d3", "#764eb5", "#8f65de", "#7f55cc", "#9d77e6"]));
+    ΔΔ[500] = [];
+    ΔΔ[500][Xr.ⲆᐃΔ] = pr(Md(og * 1, jl, ["#133a2b", "#133a2b", "#1a4935", "#1a4935", "#133a2b", "#1a4935"]));
+    ΔΔ[500][Xr.ΔⲆⵠ] = pr(Md(1, false, ["#032428", "#032428", "#07393d", "#07393d", "#032428", "#07393d"]));
+    ΔΔ[172] = [];
+    ΔΔ[172][Xr.ⲆᐃΔ] = pr(ym(1.5, fs, ["#0d1b1c", "#877d36", "#a08f47", "#a7983c", "#9a8636", "#c1b06b"]));
+    ΔΔ[172][Xr.ΔⲆⵠ] = pr(ym(1.5, true, ["#030d14", "#1f4948", "#215e55", "#1f6058", "#1f605c", "#2c7a70"]));
+    ΔΔ[376] = [];
+    ΔΔ[376][Xr.ⲆᐃΔ] = pr(ym(za * 1, Mh, ["#133a2b", "#133a2b", "#1a4935", "#1a4935", "#133a2b", "#1a4935"]));
+    ΔΔ[376][Xr.ΔⲆⵠ] = pr(ym(1, false, ["#032428", "#032428", "#07393d", "#07393d", "#032428", "#07393d"]));
+    ΔΔ[173] = [];
+    ΔΔ[173][Xr.ⲆᐃΔ] = pr(Ec(1.5, true, ["#0d1b1c", "#5cc5ce", "#89d1d4", "#86d0d1", "#95d5d8", "#e0f2f6", "#b3e0e3"]));
+    ΔΔ[173][Xr.ΔⲆⵠ] = pr(Ec(1.5, kh, ["#030d14", "#2b9390", "#43b5af", "#43b5af", "#4bbcb4", "#83ddd4", "#59c9c0"]));
+    ΔΔ[379] = [];
+    ΔΔ[379][Xr.ⲆᐃΔ] = pr(Ec(1, false, ["#133a2b", "#133a2b", "#1a4935", "#1a4935", "#133a2b", "#1a4935"]));
+    ΔΔ[379][Xr.ΔⲆⵠ] = pr(Ec(za * 1, Qg, ["#032428", "#032428", "#07393d", "#07393d", "#032428", "#07393d"]));
+    ΔΔ[167] = [];
+    ΔΔ[167][Xr.ⲆᐃΔ] = pr(wd(0.5, 0, ["#133a2b", "#9e8838", "#c4a23a", "#4c3b19", "#614627", "#614627", "#614627", "#c4a23a", "#c4a23a", "#c4a23a"]));
+    ΔΔ[167][Xr.ΔⲆⵠ] = pr(wd(0.5, 0, ["#032428", "#266161", "#2b6664", "#123335", "#1f5453", "#1f5453", "#1f5453", "#2b6664", "#2b6664", "#2b6664"]));
+    ΔΔ[691] = [];
+    ΔΔ[691][Xr.ⲆᐃΔ] = pr(Qc(0.5, ["#133a2b", "#9e8838", "#c4a23a", "#4c3b19", "#614627"]));
+    ΔΔ[691][Xr.ΔⲆⵠ] = pr(Qc(0.5, ["#032428", "#266161", "#2b6664", "#123335", "#1f5453"]));
+    ΔΔ[264] = [];
+    ΔΔ[264][Xr.ⲆᐃΔ] = pr(Vb(0.9, ["#0e3022", "#ee97bf", "#FFFFFF", "#000000", "#ffffff"]));
+    ΔΔ[264][Xr.ΔⲆⵠ] = pr(Vb(0.9, ["#030d14", "#4d1b59", "#5d3f77", "#220e26", "#ffffff"]));
+    ΔΔ[260] = [];
+    ΔΔ[260][Xr.ⲆᐃΔ] = pr(wb(Math.PI, Pt(0.9, ["#000000", "#b7252c", "#b7252c", "#b7252c", "#FFFFFF", "#000000"])));
+    ΔΔ[260][Xr.ΔⲆⵠ] = pr(wb(Math.PI, Pt(0.9, ["#030d14", "#401d49", "#b7252c", "#401d49", "#FFFFFF", "#000000"])));
+    ΔΔ[266] = pr(function (a, b) {
       var c = document.createElement("canvas");
       var d = c.getContext("2d");
       c.width = a * 450;
@@ -25465,34 +25465,34 @@
       db(d, Hq, b[0], 4);
       return c;
     }(0.6, ["#FFFFFF"]));
-    ΔΔ[Xr.ΔⵠΔⵠⲆ] = [];
-    ΔΔ[Xr.ΔⵠΔⵠⲆ][Xr.ⲆᐃΔ] = pr(Kb(1.1, ["#0e3022", "#231f20", "#b7252c", "#7d7679", "#ffffff"]));
-    ΔΔ[Xr.ΔⵠΔⵠⲆ][Xr.ΔⲆⵠ] = pr(Kb(1.1, ["#030d14", "#1e181c", "#462966", "#3e3e4a", "#ffffff"]));
-    ΔΔ[Xr.ᐃⲆᐃⲆᐃ] = [];
-    ΔΔ[Xr.ᐃⲆᐃⲆᐃ][Xr.ⲆᐃΔ] = pr(pm(0.6, true, ["#f9efeb", "#dfd1cb", "#3e3c25", "#4d4a2e"]));
-    ΔΔ[Xr.ᐃⲆᐃⲆᐃ][Xr.ΔⲆⵠ] = pr(pm(0.6, oa, ["#478e8b", "#327e73", "#073030", "#08403f"]));
-    ΔΔ[Xr.ᐃⵠⵠⵠΔ] = [];
-    ΔΔ[Xr.ᐃⵠⵠⵠΔ][Xr.ⲆᐃΔ] = pr(Cc(0.6, true, ["#3e3c25", "#4d4a2e", "#f9efeb", "#dfd1cb"]));
-    ΔΔ[Xr.ᐃⵠⵠⵠΔ][Xr.ΔⲆⵠ] = pr(Cc(0.6, true, ["#073030", "#08403f", "#478e8b", "#327e73"]));
-    ΔΔ[Xr.ᐃⲆⲆΔΔ] = [];
-    ΔΔ[Xr.ᐃⲆⲆΔΔ][Xr.ⲆᐃΔ] = pr(em(0.63, xk, ["#171a19", "#dee7e7", "#b8cccb", "#ffffff", "#e3e8e8"]));
-    ΔΔ[Xr.ᐃⲆⲆΔΔ][Xr.ΔⲆⵠ] = pr(em(0.63, mh, ["#073030", "#368981", "#1c635e", "#7bbab4", "#469e95"]));
-    ΔΔ[Xr.ᐃᐃⵠⲆⲆ] = [];
-    ΔΔ[Xr.ᐃᐃⵠⲆⲆ][Xr.ⲆᐃΔ] = pr(nu(0.6, 0, ["#171a19", "#c5232c", "#84191d", "#a72027", "#fef4f4", "#e9dad9"]));
-    ΔΔ[Xr.ᐃᐃⵠⲆⲆ][Xr.ΔⲆⵠ] = pr(nu(0.6, 0, ["#073030", "#392966", "#2a194f", "#433379", "#66aaa3", "#469e95"]));
-    ΔΔ[Xr.ΔⲆΔⲆⲆ] = [];
-    ΔΔ[Xr.ΔⲆΔⲆⲆ][Xr.ⲆᐃΔ] = pr(iu(0.6, 0, ["#171a19", "#0f964c", "#106e3b", "#138344", "#fef4f4", "#e9dad9", "#C5232C", "#A92D2D"]));
-    ΔΔ[Xr.ΔⲆΔⲆⲆ][Xr.ΔⲆⵠ] = pr(iu(0.6, 0, ["#073030", "#124949", "#0e3838", "#15514f", "#66aaa3", "#469e95", "#292f66", "#202559"]));
-    ΔΔ[Xr.ⲆᐃⲆΔᐃⵠⲆ] = [];
-    ΔΔ[Xr.ⲆᐃⲆΔᐃⵠⲆ][Xr.ⲆᐃΔ] = pr(Hc(0.42, Gj, ["#0d1b1c", "#515C57", "#3A4942", "#68736F", "#C1C0C0", "#be8d50", "#7d5234", "#222825", "#4D5752", "#e48727", "#d4a872", "#343d39"]));
-    ΔΔ[Xr.ⲆᐃⲆΔᐃⵠⲆ][Xr.ΔⲆⵠ] = pr(Hc(0.42, mh, ["#0d1b1c", "#485E66", "#1F343F", "#60757D", "#C1C0C0", "#be8d50", "#7d5234", "#1F343F", "#344B51", "#D8E57F", "#dfa64e", "#192225"]));
-    ΔΔ[Xr.ΔⲆᐃⵠⵠⵠⵠ] = [];
-    ΔΔ[Xr.ΔⲆᐃⵠⵠⵠⵠ][Xr.ⲆᐃΔ] = pr(Td(0.9, ["#e4c027"]));
-    ΔΔ[Xr.ΔⲆᐃⵠⵠⵠⵠ][Xr.ΔⲆⵠ] = pr(Td(0.9, ["#D8E57F"]));
-    ΔΔ[Xr.ⲆᐃΔᐃⲆⵠⵠ] = [];
-    ΔΔ[Xr.ⲆᐃΔᐃⲆⵠⵠ][Xr.ⲆᐃΔ] = pr(Ud(0.42, y, ["#0d1b1c", "#515C57", "#3A4942", "#68736F", "#C1C0C0", "#be8d50", "#7d5234", "#222825", "#4D5752", "#e48727", "#d4a872", "#232a27"]));
-    ΔΔ[Xr.ⲆᐃΔᐃⲆⵠⵠ][Xr.ΔⲆⵠ] = pr(Ud(0.42, xk, ["#0d1b1c", "#485E66", "#1F343F", "#60757D", "#C1C0C0", "#be8d50", "#7d5234", "#1F343F", "#344B51", "#D8E57F", "#dfa64e", "#1b2529"]));
-    ΔΔ[Xr.ᐃⵠⲆⵠⲆⲆⵠ] = pr(function (a, b) {
+    ΔΔ[299] = [];
+    ΔΔ[299][Xr.ⲆᐃΔ] = pr(Kb(1.1, ["#0e3022", "#231f20", "#b7252c", "#7d7679", "#ffffff"]));
+    ΔΔ[299][Xr.ΔⲆⵠ] = pr(Kb(1.1, ["#030d14", "#1e181c", "#462966", "#3e3e4a", "#ffffff"]));
+    ΔΔ[10] = [];
+    ΔΔ[10][Xr.ⲆᐃΔ] = pr(pm(0.6, true, ["#f9efeb", "#dfd1cb", "#3e3c25", "#4d4a2e"]));
+    ΔΔ[10][Xr.ΔⲆⵠ] = pr(pm(0.6, oa, ["#478e8b", "#327e73", "#073030", "#08403f"]));
+    ΔΔ[11] = [];
+    ΔΔ[11][Xr.ⲆᐃΔ] = pr(Cc(0.6, true, ["#3e3c25", "#4d4a2e", "#f9efeb", "#dfd1cb"]));
+    ΔΔ[11][Xr.ΔⲆⵠ] = pr(Cc(0.6, true, ["#073030", "#08403f", "#478e8b", "#327e73"]));
+    ΔΔ[40] = [];
+    ΔΔ[40][Xr.ⲆᐃΔ] = pr(em(0.63, xk, ["#171a19", "#dee7e7", "#b8cccb", "#ffffff", "#e3e8e8"]));
+    ΔΔ[40][Xr.ΔⲆⵠ] = pr(em(0.63, mh, ["#073030", "#368981", "#1c635e", "#7bbab4", "#469e95"]));
+    ΔΔ[41] = [];
+    ΔΔ[41][Xr.ⲆᐃΔ] = pr(nu(0.6, 0, ["#171a19", "#c5232c", "#84191d", "#a72027", "#fef4f4", "#e9dad9"]));
+    ΔΔ[41][Xr.ΔⲆⵠ] = pr(nu(0.6, 0, ["#073030", "#392966", "#2a194f", "#433379", "#66aaa3", "#469e95"]));
+    ΔΔ[42] = [];
+    ΔΔ[42][Xr.ⲆᐃΔ] = pr(iu(0.6, 0, ["#171a19", "#0f964c", "#106e3b", "#138344", "#fef4f4", "#e9dad9", "#C5232C", "#A92D2D"]));
+    ΔΔ[42][Xr.ΔⲆⵠ] = pr(iu(0.6, 0, ["#073030", "#124949", "#0e3838", "#15514f", "#66aaa3", "#469e95", "#292f66", "#202559"]));
+    ΔΔ[716] = [];
+    ΔΔ[716][Xr.ⲆᐃΔ] = pr(Hc(0.42, Gj, ["#0d1b1c", "#515C57", "#3A4942", "#68736F", "#C1C0C0", "#be8d50", "#7d5234", "#222825", "#4D5752", "#e48727", "#d4a872", "#343d39"]));
+    ΔΔ[716][Xr.ΔⲆⵠ] = pr(Hc(0.42, mh, ["#0d1b1c", "#485E66", "#1F343F", "#60757D", "#C1C0C0", "#be8d50", "#7d5234", "#1F343F", "#344B51", "#D8E57F", "#dfa64e", "#192225"]));
+    ΔΔ[720] = [];
+    ΔΔ[720][Xr.ⲆᐃΔ] = pr(Td(0.9, ["#e4c027"]));
+    ΔΔ[720][Xr.ΔⲆⵠ] = pr(Td(0.9, ["#D8E57F"]));
+    ΔΔ[144] = [];
+    ΔΔ[144][Xr.ⲆᐃΔ] = pr(Ud(0.42, y, ["#0d1b1c", "#515C57", "#3A4942", "#68736F", "#C1C0C0", "#be8d50", "#7d5234", "#222825", "#4D5752", "#e48727", "#d4a872", "#232a27"]));
+    ΔΔ[144][Xr.ΔⲆⵠ] = pr(Ud(0.42, xk, ["#0d1b1c", "#485E66", "#1F343F", "#60757D", "#C1C0C0", "#be8d50", "#7d5234", "#1F343F", "#344B51", "#D8E57F", "#dfa64e", "#1b2529"]));
+    ΔΔ[722] = pr(function (a, b) {
       var c = document.createElement("canvas");
       var d = c.getContext("2d");
       c.width = a * 149;
@@ -25566,13 +25566,13 @@
       db(d, b[fn], b[3], a * 10);
       return c;
     }(1, ["#596560", "#394841", "#543B1C", "#694D28", "#7E8A85", "#384740", "#525956"]));
-    ΔΔ[Xr.ⲆⲆⵠΔᐃᐃⲆ] = [];
-    ΔΔ[Xr.ⲆⲆⵠΔᐃᐃⲆ][Xr.ⲆᐃΔ] = pr(Nc(0.5, true, ["#0d1b1c", "#939393", "#5f6061", "#c0c0c0", "#ffad22", "#fffdd5", "#fee764"]));
-    ΔΔ[Xr.ⲆⲆⵠΔᐃᐃⲆ][Xr.ΔⲆⵠ] = pr(Nc(0.5, true, ["#0d1b1c", "#485e66", "#1f343f", "#60757d", "#ffdc73", "#fffce2", "#fef259"]));
-    ΔΔ[Xr.ⲆⲆᐃⵠᐃⲆⵠ] = [];
-    ΔΔ[Xr.ⲆⲆᐃⵠᐃⲆⵠ][Xr.ⲆᐃΔ] = pr(ld(0.5, Yl, ["#0d1b1c", "#939393", "#5f6061", "#c0c0c0", "#4f4f4f", "#6c6c6c", "#454545"]));
-    ΔΔ[Xr.ⲆⲆᐃⵠᐃⲆⵠ][Xr.ΔⲆⵠ] = pr(ld(0.5, _g, ["#0d1b1c", "#485e66", "#1f343f", "#60757d", "#152229", "#0c1113", "#0c1113"]));
-    ΔΔ[Xr.ⵠⲆᐃΔᐃΔⲆ] = pr(function (a, b, c) {
+    ΔΔ[407] = [];
+    ΔΔ[407][Xr.ⲆᐃΔ] = pr(Nc(0.5, true, ["#0d1b1c", "#939393", "#5f6061", "#c0c0c0", "#ffad22", "#fffdd5", "#fee764"]));
+    ΔΔ[407][Xr.ΔⲆⵠ] = pr(Nc(0.5, true, ["#0d1b1c", "#485e66", "#1f343f", "#60757d", "#ffdc73", "#fffce2", "#fef259"]));
+    ΔΔ[119] = [];
+    ΔΔ[119][Xr.ⲆᐃΔ] = pr(ld(0.5, Yl, ["#0d1b1c", "#939393", "#5f6061", "#c0c0c0", "#4f4f4f", "#6c6c6c", "#454545"]));
+    ΔΔ[119][Xr.ΔⲆⵠ] = pr(ld(0.5, _g, ["#0d1b1c", "#485e66", "#1f343f", "#60757d", "#152229", "#0c1113", "#0c1113"]));
+    ΔΔ[411] = pr(function (a, b, c) {
       var d = document.createElement("canvas");
       var e = d.getContext("2d");
       d.width = a * 118;
@@ -25584,7 +25584,7 @@
       db(e, c[Zj], c[1], 4);
       return d;
     }(0.8, 0, ["#5f6061", "#939393"]));
-    ΔΔ[Xr.ᐃⲆⲆⵠΔⲆᐃ] = bu(1, [{
+    ΔΔ[412] = bu(1, [{
       f: ku,
       x: 0,
       y: ig,
@@ -25592,70 +25592,70 @@
       r: Math.PI / 2.5,
       c: ["#4d2d14", "#432516"]
     }], 0.3, ["#494949", "#5b5858", "#3d3b3b"], 1);
-    ΔΔ[Xr.ΔⲆⵠΔΔ] = [];
-    ΔΔ[Xr.ΔⲆⵠΔΔ][Xr.ⲆᐃΔ] = pr(Pc(1, true, ["#0d1b1c", "#554139", "#3f332a", "#261912", "#eee6c5", "#d1c599", "#554139", "#3f332a", "#86509b", "#703a99"]));
-    ΔΔ[Xr.ΔⲆⵠΔΔ][Xr.ΔⲆⵠ] = pr(Pc(1, Yl, ["#0d1b1c", "#0b3432", "#092b29", "#052120", "#104d5b", "#0b424f", "#0b3432", "#092b29", "#2b0b4a", "#23073e"]));
-    ΔΔ[Xr.ⲆᐃⲆⵠᐃⵠⵠ] = [];
-    ΔΔ[Xr.ⲆᐃⲆⵠᐃⵠⵠ][Xr.ⲆᐃΔ] = pr(ac(1, true, ["#0d1b1c", "#554139", "#3f332a", "#261912", "#eee6c5", "#d1c599", "#554139", "#3f332a", "#86509b", "#703a99"]));
-    ΔΔ[Xr.ⲆᐃⲆⵠᐃⵠⵠ][Xr.ΔⲆⵠ] = pr(ac(1, na, ["#0d1b1c", "#0b3432", "#092b29", "#052120", "#104d5b", "#083b37", "#0b3432", "#092b29", "#2b0b4a", "#23073e"]));
-    ΔΔ[Xr.Ⲇᐃᐃᐃᐃ] = [];
-    ΔΔ[Xr.Ⲇᐃᐃᐃᐃ][Xr.ⲆᐃΔ] = pr(wb(3, dm(0.7, Yl, ["#0d1b1c", "#58452b", "#47341d", "#ee593d", "#c04933", "#c04933", "#a33e2b", "#c3be9a", "#7f6d52"])));
-    ΔΔ[Xr.Ⲇᐃᐃᐃᐃ][Xr.ΔⲆⵠ] = pr(wb(Tr, dm(0.7, true, ["#0d1b1c", "#0b3432", "#092b29", "#34255d", "#281b4e", "#2f2157", "#281b4e", "#104d5b", "#083b37"])));
-    ΔΔ[Xr.ᐃᐃΔⲆⲆ] = [];
-    ΔΔ[Xr.ᐃᐃΔⲆⲆ][Xr.ⲆᐃΔ] = pr(wb(qo, gc(0.7, true, ["#0d1b1c", "#58452b", "#47341d", "#765d42", "#c3be9a", "#7f6d52"])));
-    ΔΔ[Xr.ᐃᐃΔⲆⲆ][Xr.ΔⲆⵠ] = pr(wb(3, gc(0.7, true, ["#0d1b1c", "#0b3432", "#092b29", "#0e4d49", "#1a6c67", "#07322f"])));
-    ΔΔ[Xr.ⵠΔᐃⵠᐃ] = [];
-    ΔΔ[Xr.ⵠΔᐃⵠᐃ][Xr.ⲆᐃΔ] = pr(wb(3, uc(0.65, true, ["#0d1b1c", "#4d2d14", "#432516", "#c3be9a", "#7f6d52", "#7a7575", "#454749", "#8c8787", "#939393", "#5f6061", "#aaa6a6"])));
-    ΔΔ[Xr.ⵠΔᐃⵠᐃ][Xr.ΔⲆⵠ] = pr(wb(3, uc(0.65, fs, ["#0d1b1c", "#0d2e33", "#0b2326", "#1a6c67", "#07322f", "#374950", "#101f26", "#2c3c42", "#485e66", "#1f343f", "#546e78"])));
-    ΔΔ[Xr.ⵠᐃᐃⵠΔ] = [];
-    ΔΔ[Xr.ⵠᐃᐃⵠΔ][Xr.ⲆᐃΔ] = pr(wb(nq, Lc(0.67, true, ["#0d1b1c", "#493e26", "#382e19", "#a69e39", "#9c8828", "#bab143", "#c4bc51", "#b29c32", "#d2ca59"])));
-    ΔΔ[Xr.ⵠᐃᐃⵠΔ][Xr.ΔⲆⵠ] = pr(wb(3, Lc(0.67, kh, ["#030d14", "#263947", "#182935", "#33916d", "#197c62", "#3eab81", "#43aa82", "#29997c", "#52be94"])));
-    ΔΔ[Xr.ᐃᐃᐃᐃⲆ] = [];
-    ΔΔ[Xr.ᐃᐃᐃᐃⲆ][Xr.ⲆᐃΔ] = pr(wb(Hk, vd(0.67, true, ["#0d1b1c", "#262114", "#211108", "#4ba8b4", "#198a82", "#6ccad7", "#63c9d6", "#29aaa1", "#7bd9e6"])));
-    ΔΔ[Xr.ᐃᐃᐃᐃⲆ][Xr.ΔⲆⵠ] = pr(wb(3, vd(0.67, true, ["#0d1b1c", "#111316", "#0a0b0c", "#4bbbc3", "#23a19d", "#54c5cd", "#4ad2ce", "#3dc4c0", "#73dde5"])));
-    ΔΔ[Xr.ᐃΔⵠⲆᐃ] = [];
-    ΔΔ[Xr.ᐃΔⵠⲆᐃ][Xr.ⲆᐃΔ] = pr(wb(fn, Gd(0.67, Tg, ["#0d1b1c", "#262114", "#211108", "#9443b1", "#6f1988", "#a752c6", "#9e35be", "#8c29aa", "#b864d6"])));
-    ΔΔ[Xr.ᐃΔⵠⲆᐃ][Xr.ΔⲆⵠ] = pr(wb(3, Gd(0.67, true, ["#0d1b1c", "#111316", "#0a0b0c", "#6e43bf", "#673fa4", "#784bcc", "#845bc6", "#764eb5", "#966be7"])));
-    ΔΔ[Xr.ⲆⲆΔᐃᐃ] = [];
-    ΔΔ[Xr.ⲆⲆΔᐃᐃ][Xr.ⲆᐃΔ] = pr(wb(3, Gc(sd * 1, true, ["#0d1b1c", "#1e2b34", "#151c24", "#99d7dd", "#7dcbd1", "#c6e8eb", "#aadee8", "#b7e2e5"])));
-    ΔΔ[Xr.ⲆⲆΔᐃᐃ][Xr.ΔⲆⵠ] = pr(wb(3, Gc(hb * 1, true, ["#0d1b1c", "#1c2026", "#0a0b0c", "#7dc6d9", "#6cbacf", "#87d2e6", "#49b2cf", "#87d2e6"])));
-    ΔΔ[Xr.ⲆᐃΔⲆΔ] = [];
-    ΔΔ[Xr.ⲆᐃΔⲆΔ][Xr.ⲆᐃΔ] = pr(wb(3, oc(1, true, ["#0d1b1c", "#4d2d14", "#432516", "#939393", "#5f6061"])));
-    ΔΔ[Xr.ⲆᐃΔⲆΔ][Xr.ΔⲆⵠ] = pr(wb(ll, oc(Xn * 1, cl, ["#030d14", "#263947", "#182935", "#485e66", "#1f343f"])));
-    ΔΔ[Xr.ᐃⵠᐃΔⵠ] = [];
-    ΔΔ[Xr.ᐃⵠᐃΔⵠ][Xr.ⲆᐃΔ] = pr(wb(3, hm(0.5, true, ["#0d1b1c", "#939393", "#5f6061"])));
-    ΔΔ[Xr.ᐃⵠᐃΔⵠ][Xr.ΔⲆⵠ] = pr(wb(Tr, hm(0.5, true, ["#030d14", "#485e66", "#1f343f"])));
-    ΔΔ[Xr.ⵠⵠᐃᐃⲆ] = [];
-    ΔΔ[Xr.ⵠⵠᐃᐃⲆ][Xr.ⲆᐃΔ] = pr(wb(3, hc($b * 1, cl, ["#0d1b1c", "#9b5927", "#7a3610", "#1e0302", "#0d825b", "#6bd16e", "#17915d", "#89e5aa", "#16935d", "#a0efc4", "#28b26d", "#cdf4cb"])));
-    ΔΔ[Xr.ⵠⵠᐃᐃⲆ][Xr.ΔⲆⵠ] = pr(wb(3, hc(1, true, ["#0d1b1c", "#2a4f4a", "#1e423d", "#1e0302", "#096b3f", "#3db76f", "#118254", "#40c696", "#0c7a50", "#59d8a4", "#249376", "#80d8c7"])));
-    ΔΔ[Xr.ⲆⲆⵠⲆⲆ] = [];
-    ΔΔ[Xr.ⲆⲆⵠⲆⲆ][Xr.ⲆᐃΔ] = pr(wb(Lg, oc(1, true, ["#0d1b1c", "#493e26", "#382e19", "#c4bc51", "#b29c32"])));
-    ΔΔ[Xr.ⲆⲆⵠⲆⲆ][Xr.ΔⲆⵠ] = pr(wb(nq, oc(1, us, ["#0d1b1c", "#0d2e33", "#0b2326", "#43aa82", "#29997c"])));
-    ΔΔ[Xr.ⵠΔΔΔⵠ] = [];
-    ΔΔ[Xr.ⵠΔΔΔⵠ][Xr.ⲆᐃΔ] = pr(wb(3, oc(Hg * 1, cl, ["#0d1b1c", "#262114", "#211108", "#63c9d6", "#29aaa1"])));
-    ΔΔ[Xr.ⵠΔΔΔⵠ][Xr.ΔⲆⵠ] = pr(wb(sl, oc(og * 1, na, ["#0d1b1c", "#111316", "#0a0b0c", "#73dde5", "#3dc4c0"])));
-    ΔΔ[Xr.ᐃⵠⵠⵠᐃ] = [];
-    ΔΔ[Xr.ᐃⵠⵠⵠᐃ][Xr.ⲆᐃΔ] = pr(wb(3, oc(og * 1, true, ["#0d1b1c", "#262114", "#211108", "#b864d6", "#8c29aa"])));
-    ΔΔ[Xr.ᐃⵠⵠⵠᐃ][Xr.ΔⲆⵠ] = pr(wb(ci, oc(hb * 1, true, ["#0d1b1c", "#111316", "#0a0b0c", "#8359d3", "#764eb5"])));
-    ΔΔ[Xr.ⵠⵠⲆⵠᐃ] = [];
-    ΔΔ[Xr.ⵠⵠⲆⵠᐃ][Xr.ⲆᐃΔ] = pr(Zc(0.55, al, ["#141414", "#816511", "#c4a23a", "#3a3a3a"]));
-    ΔΔ[Xr.ⵠⵠⲆⵠᐃ][Xr.ΔⲆⵠ] = pr(Zc(0.55, false, ["#080707", "#133d3c", "#2b6664", "#1b2529"]));
-    ΔΔ[Xr.ⲆΔᐃⵠⲆᐃΔ] = [];
-    ΔΔ[Xr.ⲆΔᐃⵠⲆᐃΔ].push(pr(Zc(0.8, false, ["#141414", "#816511", "#c4a23a", "#3a3a3a"])));
-    ΔΔ[Xr.ⲆΔᐃⵠⲆᐃΔ].push(pr(Zc(0.8, false, ["#141414", "#9f7d17", "#dab33c", "#474545"])));
-    ΔΔ[Xr.ⲆΔᐃⵠⲆᐃΔ].push(pr(Zc(0.8, vt, ["#141414", "#73590d", "#a88a2c", "#2a2828"])));
-    ΔΔ[Xr.ⵠⲆⲆⲆⵠᐃⲆ] = [];
-    ΔΔ[Xr.ⵠⲆⲆⲆⵠᐃⲆ].push(ΔΔ[Xr.ⲆΔᐃⵠⲆᐃΔ][mj]);
-    ΔΔ[Xr.ⵠⲆⲆⲆⵠᐃⲆ].push(ΔΔ[Xr.ⲆΔᐃⵠⲆᐃΔ][Bb]);
-    ΔΔ[Xr.ⵠⲆⲆⲆⵠᐃⲆ].push(ΔΔ[Xr.ⲆΔᐃⵠⲆᐃΔ][Qs]);
-    ΔΔ[Xr.ᐃⵠᐃⲆⵠ] = [];
-    ΔΔ[Xr.ᐃⵠᐃⲆⵠ][Xr.ⲆᐃΔ] = pr(zm(0.06, false, ["#141414", "#c4a23a", "#816511"]));
-    ΔΔ[Xr.ᐃⵠᐃⲆⵠ][Xr.ΔⲆⵠ] = pr(zm(0.06, false, ["#030d14", "#2b6664", "#133d3c"]));
-    ΔΔ[Xr.ⲆⲆⵠⲆΔΔⲆ] = [];
-    ΔΔ[Xr.ⲆⲆⵠⲆΔΔⲆ].push(pr(zm(0.08, false, ["#141414", "#c4a23a", "#816511"])));
-    ΔΔ[Xr.ⲆⲆⵠⲆΔΔⲆ].push(pr(zm(0.08, Tk, ["#141414", "#e2bd4e", "#a38018"])));
-    ΔΔ[Xr.ⲆⲆⵠⲆΔΔⲆ].push(pr(zm(0.08, vt, ["#141414", "#b0902e", "#634d09"])));
-    ΔΔ[Xr.ⵠⵠⲆⵠⲆ] = bu(1.5, [{
+    ΔΔ[198] = [];
+    ΔΔ[198][Xr.ⲆᐃΔ] = pr(Pc(1, true, ["#0d1b1c", "#554139", "#3f332a", "#261912", "#eee6c5", "#d1c599", "#554139", "#3f332a", "#86509b", "#703a99"]));
+    ΔΔ[198][Xr.ΔⲆⵠ] = pr(Pc(1, Yl, ["#0d1b1c", "#0b3432", "#092b29", "#052120", "#104d5b", "#0b424f", "#0b3432", "#092b29", "#2b0b4a", "#23073e"]));
+    ΔΔ[913] = [];
+    ΔΔ[913][Xr.ⲆᐃΔ] = pr(ac(1, true, ["#0d1b1c", "#554139", "#3f332a", "#261912", "#eee6c5", "#d1c599", "#554139", "#3f332a", "#86509b", "#703a99"]));
+    ΔΔ[913][Xr.ΔⲆⵠ] = pr(ac(1, na, ["#0d1b1c", "#0b3432", "#092b29", "#052120", "#104d5b", "#083b37", "#0b3432", "#092b29", "#2b0b4a", "#23073e"]));
+    ΔΔ[18] = [];
+    ΔΔ[18][Xr.ⲆᐃΔ] = pr(wb(3, dm(0.7, Yl, ["#0d1b1c", "#58452b", "#47341d", "#ee593d", "#c04933", "#c04933", "#a33e2b", "#c3be9a", "#7f6d52"])));
+    ΔΔ[18][Xr.ΔⲆⵠ] = pr(wb(Tr, dm(0.7, true, ["#0d1b1c", "#0b3432", "#092b29", "#34255d", "#281b4e", "#2f2157", "#281b4e", "#104d5b", "#083b37"])));
+    ΔΔ[12] = [];
+    ΔΔ[12][Xr.ⲆᐃΔ] = pr(wb(qo, gc(0.7, true, ["#0d1b1c", "#58452b", "#47341d", "#765d42", "#c3be9a", "#7f6d52"])));
+    ΔΔ[12][Xr.ΔⲆⵠ] = pr(wb(3, gc(0.7, true, ["#0d1b1c", "#0b3432", "#092b29", "#0e4d49", "#1a6c67", "#07322f"])));
+    ΔΔ[13] = [];
+    ΔΔ[13][Xr.ⲆᐃΔ] = pr(wb(3, uc(0.65, true, ["#0d1b1c", "#4d2d14", "#432516", "#c3be9a", "#7f6d52", "#7a7575", "#454749", "#8c8787", "#939393", "#5f6061", "#aaa6a6"])));
+    ΔΔ[13][Xr.ΔⲆⵠ] = pr(wb(3, uc(0.65, fs, ["#0d1b1c", "#0d2e33", "#0b2326", "#1a6c67", "#07322f", "#374950", "#101f26", "#2c3c42", "#485e66", "#1f343f", "#546e78"])));
+    ΔΔ[14] = [];
+    ΔΔ[14][Xr.ⲆᐃΔ] = pr(wb(nq, Lc(0.67, true, ["#0d1b1c", "#493e26", "#382e19", "#a69e39", "#9c8828", "#bab143", "#c4bc51", "#b29c32", "#d2ca59"])));
+    ΔΔ[14][Xr.ΔⲆⵠ] = pr(wb(3, Lc(0.67, kh, ["#030d14", "#263947", "#182935", "#33916d", "#197c62", "#3eab81", "#43aa82", "#29997c", "#52be94"])));
+    ΔΔ[15] = [];
+    ΔΔ[15][Xr.ⲆᐃΔ] = pr(wb(Hk, vd(0.67, true, ["#0d1b1c", "#262114", "#211108", "#4ba8b4", "#198a82", "#6ccad7", "#63c9d6", "#29aaa1", "#7bd9e6"])));
+    ΔΔ[15][Xr.ΔⲆⵠ] = pr(wb(3, vd(0.67, true, ["#0d1b1c", "#111316", "#0a0b0c", "#4bbbc3", "#23a19d", "#54c5cd", "#4ad2ce", "#3dc4c0", "#73dde5"])));
+    ΔΔ[33] = [];
+    ΔΔ[33][Xr.ⲆᐃΔ] = pr(wb(fn, Gd(0.67, Tg, ["#0d1b1c", "#262114", "#211108", "#9443b1", "#6f1988", "#a752c6", "#9e35be", "#8c29aa", "#b864d6"])));
+    ΔΔ[33][Xr.ΔⲆⵠ] = pr(wb(3, Gd(0.67, true, ["#0d1b1c", "#111316", "#0a0b0c", "#6e43bf", "#673fa4", "#784bcc", "#845bc6", "#764eb5", "#966be7"])));
+    ΔΔ[16] = [];
+    ΔΔ[16][Xr.ⲆᐃΔ] = pr(wb(3, Gc(sd * 1, true, ["#0d1b1c", "#1e2b34", "#151c24", "#99d7dd", "#7dcbd1", "#c6e8eb", "#aadee8", "#b7e2e5"])));
+    ΔΔ[16][Xr.ΔⲆⵠ] = pr(wb(3, Gc(hb * 1, true, ["#0d1b1c", "#1c2026", "#0a0b0c", "#7dc6d9", "#6cbacf", "#87d2e6", "#49b2cf", "#87d2e6"])));
+    ΔΔ[35] = [];
+    ΔΔ[35][Xr.ⲆᐃΔ] = pr(wb(3, oc(1, true, ["#0d1b1c", "#4d2d14", "#432516", "#939393", "#5f6061"])));
+    ΔΔ[35][Xr.ΔⲆⵠ] = pr(wb(ll, oc(Xn * 1, cl, ["#030d14", "#263947", "#182935", "#485e66", "#1f343f"])));
+    ΔΔ[55] = [];
+    ΔΔ[55][Xr.ⲆᐃΔ] = pr(wb(3, hm(0.5, true, ["#0d1b1c", "#939393", "#5f6061"])));
+    ΔΔ[55][Xr.ΔⲆⵠ] = pr(wb(Tr, hm(0.5, true, ["#030d14", "#485e66", "#1f343f"])));
+    ΔΔ[45] = [];
+    ΔΔ[45][Xr.ⲆᐃΔ] = pr(wb(3, hc($b * 1, cl, ["#0d1b1c", "#9b5927", "#7a3610", "#1e0302", "#0d825b", "#6bd16e", "#17915d", "#89e5aa", "#16935d", "#a0efc4", "#28b26d", "#cdf4cb"])));
+    ΔΔ[45][Xr.ΔⲆⵠ] = pr(wb(3, hc(1, true, ["#0d1b1c", "#2a4f4a", "#1e423d", "#1e0302", "#096b3f", "#3db76f", "#118254", "#40c696", "#0c7a50", "#59d8a4", "#249376", "#80d8c7"])));
+    ΔΔ[36] = [];
+    ΔΔ[36][Xr.ⲆᐃΔ] = pr(wb(Lg, oc(1, true, ["#0d1b1c", "#493e26", "#382e19", "#c4bc51", "#b29c32"])));
+    ΔΔ[36][Xr.ΔⲆⵠ] = pr(wb(nq, oc(1, us, ["#0d1b1c", "#0d2e33", "#0b2326", "#43aa82", "#29997c"])));
+    ΔΔ[37] = [];
+    ΔΔ[37][Xr.ⲆᐃΔ] = pr(wb(3, oc(Hg * 1, cl, ["#0d1b1c", "#262114", "#211108", "#63c9d6", "#29aaa1"])));
+    ΔΔ[37][Xr.ΔⲆⵠ] = pr(wb(sl, oc(og * 1, na, ["#0d1b1c", "#111316", "#0a0b0c", "#73dde5", "#3dc4c0"])));
+    ΔΔ[38] = [];
+    ΔΔ[38][Xr.ⲆᐃΔ] = pr(wb(3, oc(og * 1, true, ["#0d1b1c", "#262114", "#211108", "#b864d6", "#8c29aa"])));
+    ΔΔ[38][Xr.ΔⲆⵠ] = pr(wb(ci, oc(hb * 1, true, ["#0d1b1c", "#111316", "#0a0b0c", "#8359d3", "#764eb5"])));
+    ΔΔ[148] = [];
+    ΔΔ[148][Xr.ⲆᐃΔ] = pr(Zc(0.55, al, ["#141414", "#816511", "#c4a23a", "#3a3a3a"]));
+    ΔΔ[148][Xr.ΔⲆⵠ] = pr(Zc(0.55, false, ["#080707", "#133d3c", "#2b6664", "#1b2529"]));
+    ΔΔ[536] = [];
+    ΔΔ[536].push(pr(Zc(0.8, false, ["#141414", "#816511", "#c4a23a", "#3a3a3a"])));
+    ΔΔ[536].push(pr(Zc(0.8, false, ["#141414", "#9f7d17", "#dab33c", "#474545"])));
+    ΔΔ[536].push(pr(Zc(0.8, vt, ["#141414", "#73590d", "#a88a2c", "#2a2828"])));
+    ΔΔ[538] = [];
+    ΔΔ[538].push(ΔΔ[536][mj]);
+    ΔΔ[538].push(ΔΔ[536][Bb]);
+    ΔΔ[538].push(ΔΔ[536][Qs]);
+    ΔΔ[158] = [];
+    ΔΔ[158][Xr.ⲆᐃΔ] = pr(zm(0.06, false, ["#141414", "#c4a23a", "#816511"]));
+    ΔΔ[158][Xr.ΔⲆⵠ] = pr(zm(0.06, false, ["#030d14", "#2b6664", "#133d3c"]));
+    ΔΔ[535] = [];
+    ΔΔ[535].push(pr(zm(0.08, false, ["#141414", "#c4a23a", "#816511"])));
+    ΔΔ[535].push(pr(zm(0.08, Tk, ["#141414", "#e2bd4e", "#a38018"])));
+    ΔΔ[535].push(pr(zm(0.08, vt, ["#141414", "#b0902e", "#634d09"])));
+    ΔΔ[149] = bu(1.5, [{
       f: md,
       x: Lr,
       y: 0,
@@ -25663,70 +25663,70 @@
       r: wg,
       c: ["#141414", "#178a99", "#0a6372", "#03282e"]
     }], 0.45, ["#5bbcc9", "#73d2df", "#4daab6"], 0.9);
-    ΔΔ[Xr.ᐃᐃΔⲆᐃᐃᐃ] = [];
-    ΔΔ[Xr.ᐃᐃΔⲆᐃᐃᐃ][Xr.ⲆᐃΔ] = pr(xd(0.8, 0, ["#347f93", "#54a4ba"]));
-    ΔΔ[Xr.ᐃᐃΔⲆᐃᐃᐃ][Xr.ΔⲆⵠ] = pr(xd(0.8, 0, ["#98ede3", "#94f2e7"]));
-    ΔΔ[Xr.ΔᐃⵠⵠᐃⲆⲆ] = [];
-    ΔΔ[Xr.ΔᐃⵠⵠᐃⲆⲆ][Xr.ⲆᐃΔ] = pr(lm(0.8, Gq, ["#a9e4ed", "#86d4e0", "#418ba5", "#59b8ce"]));
-    ΔΔ[Xr.ΔᐃⵠⵠᐃⲆⲆ][Xr.ΔⲆⵠ] = pr(lm(0.8, true, ["#59c9c0", "#83ddd4", "#3fa097", "#90ddd9"]));
-    ΔΔ[Xr.ᐃⵠΔⵠⲆⲆᐃ] = [];
-    ΔΔ[Xr.ᐃⵠΔⵠⲆⲆᐃ][Xr.ⲆᐃΔ] = pr(lc(0.8, true, ["#a9e4ed", "#86d4e0"]));
-    ΔΔ[Xr.ᐃⵠΔⵠⲆⲆᐃ][Xr.ΔⲆⵠ] = pr(lc(0.8, Tg, ["#83ddd4", "#485e66"]));
-    ΔΔ[Xr.ⲆⲆⵠⵠᐃ] = [];
-    ΔΔ[Xr.ⲆⲆⵠⵠᐃ][Xr.ⲆᐃΔ] = pr(bm(0.8, true, ["#347f93", "#54a4ba", "#1c2528", "#a9e4ed", "#86d4e0", "#959da0", "#697072", "#929da0", "#afb9bc"]));
-    ΔΔ[Xr.ⲆⲆⵠⵠᐃ][Xr.ΔⲆⵠ] = pr(bm(0.8, true, ["#98ede3", "#94f2e7", "#1f343f", "#59c9c0", "#83ddd4", "#485e66", "#2d484f", "#546d6d", "#597b84"]));
-    ΔΔ[Xr.ΔⲆΔΔΔⲆΔ] = [];
-    ΔΔ[Xr.ΔⲆΔΔΔⲆΔ][Xr.ⲆᐃΔ] = Ⲇⵠ.ⵠⲆΔⲆᐃᐃᐃ;
-    ΔΔ[Xr.ΔⲆΔΔΔⲆΔ][Xr.ΔⲆⵠ] = Ⲇⵠ.ⵠⵠⵠⵠᐃΔⵠ;
-    ΔΔ[Xr.ⵠΔⲆⵠⲆⲆⲆ] = [];
-    ΔΔ[Xr.ⵠΔⲆⵠⲆⲆⲆ][Xr.ⲆᐃΔ] = Ⲇⵠ.ⵠⲆᐃᐃⲆᐃᐃ;
-    ΔΔ[Xr.ⵠΔⲆⵠⲆⲆⲆ][Xr.ΔⲆⵠ] = Ⲇⵠ.ⵠⵠⵠⵠΔⵠⲆ;
-    ΔΔ[Xr.ⲆΔⲆⵠⲆᐃⲆ] = [];
-    ΔΔ[Xr.ⲆΔⲆⵠⲆᐃⲆ][Xr.ⲆᐃΔ] = Ⲇⵠ.ⲆⵠᐃᐃΔΔⲆ;
-    ΔΔ[Xr.ⲆΔⲆⵠⲆᐃⲆ][Xr.ΔⲆⵠ] = Ⲇⵠ.ⲆΔⲆΔⵠᐃᐃ;
-    ΔΔ[Xr.ΔⲆΔΔⲆ] = [];
-    ΔΔ[Xr.ΔⲆΔΔⲆ][Xr.ⲆᐃΔ] = Ⲇⵠ.ⵠΔᐃΔⲆᐃⲆ;
-    ΔΔ[Xr.ΔⲆΔΔⲆ][Xr.ΔⲆⵠ] = Ⲇⵠ.ᐃⵠΔⵠⲆⵠᐃ;
-    ΔΔ[Xr.ΔΔⵠⵠⲆⵠΔ] = [];
-    ΔΔ[Xr.ΔΔⵠⵠⲆⵠΔ][Xr.ⲆᐃΔ] = Ⲇⵠ.ᐃΔΔⵠΔⲆᐃ;
-    ΔΔ[Xr.ΔΔⵠⵠⲆⵠΔ][Xr.ΔⲆⵠ] = Ⲇⵠ.ⵠΔΔⲆΔΔᐃ;
-    ΔΔ[Xr.ⲆᐃΔⲆⵠ] = [];
-    ΔΔ[Xr.ⲆᐃΔⲆⵠ][Xr.ⲆᐃΔ] = Ⲇⵠ.ⲆᐃΔᐃᐃⲆⲆ;
-    ΔΔ[Xr.ⲆᐃΔⲆⵠ][Xr.ΔⲆⵠ] = Ⲇⵠ.ⵠⲆΔΔᐃᐃΔ;
-    ΔΔ[Xr.ΔⲆΔⵠᐃᐃⵠ] = [];
-    ΔΔ[Xr.ΔⲆΔⵠᐃᐃⵠ][Xr.ⲆᐃΔ] = Ⲇⵠ.ⲆⲆⵠᐃⲆΔⵠ;
-    ΔΔ[Xr.ΔⲆΔⵠᐃᐃⵠ][Xr.ΔⲆⵠ] = Ⲇⵠ.ᐃⵠᐃⲆᐃⵠΔ;
-    ΔΔ[Xr.ⲆΔᐃⵠⲆ] = [];
-    ΔΔ[Xr.ⲆΔᐃⵠⲆ][Xr.ⲆᐃΔ] = Ⲇⵠ.ᐃΔΔΔⲆΔᐃ;
-    ΔΔ[Xr.ⲆΔᐃⵠⲆ][Xr.ΔⲆⵠ] = Ⲇⵠ.ⲆⲆΔΔⵠⲆⵠ;
-    ΔΔ[Xr.ᐃᐃΔΔᐃᐃᐃ] = [];
-    ΔΔ[Xr.ᐃᐃΔΔᐃᐃᐃ][Xr.ⲆᐃΔ] = Ⲇⵠ.ⲆᐃⲆΔⵠΔⲆ;
-    ΔΔ[Xr.ᐃᐃΔΔᐃᐃᐃ][Xr.ΔⲆⵠ] = Ⲇⵠ.ⲆᐃᐃᐃⲆⲆΔ;
-    ΔΔ[Xr.ΔⵠᐃⲆⵠ] = [];
-    ΔΔ[Xr.ΔⵠᐃⲆⵠ][Xr.ⲆᐃΔ] = Ⲇⵠ.ⵠᐃᐃⵠⵠⲆᐃ;
-    ΔΔ[Xr.ΔⵠᐃⲆⵠ][Xr.ΔⲆⵠ] = Ⲇⵠ.ᐃⵠΔⵠⲆΔᐃ;
-    ΔΔ[Xr.ⲆⵠⵠⲆᐃᐃΔ] = [];
-    ΔΔ[Xr.ⲆⵠⵠⲆᐃᐃΔ][Xr.ⲆᐃΔ] = Ⲇⵠ.ᐃⵠΔⲆΔᐃᐃ;
-    ΔΔ[Xr.ⲆⵠⵠⲆᐃᐃΔ][Xr.ΔⲆⵠ] = Ⲇⵠ.ΔᐃᐃΔⲆᐃᐃ;
-    ΔΔ[Xr.ΔⲆⵠⵠⵠ] = [];
-    ΔΔ[Xr.ΔⲆⵠⵠⵠ][Xr.ⲆᐃΔ] = Ⲇⵠ.ⵠⵠⵠΔⲆⵠⲆ;
-    ΔΔ[Xr.ΔⲆⵠⵠⵠ][Xr.ΔⲆⵠ] = Ⲇⵠ.ᐃⲆⲆⵠⲆᐃΔ;
-    ΔΔ[Xr.ⵠⵠΔΔⵠⲆⲆ] = [];
-    ΔΔ[Xr.ⵠⵠΔΔⵠⲆⲆ][Xr.ⲆᐃΔ] = Ⲇⵠ.ⲆᐃⵠⲆⲆᐃᐃ;
-    ΔΔ[Xr.ⵠⵠΔΔⵠⲆⲆ][Xr.ΔⲆⵠ] = Ⲇⵠ.ᐃᐃᐃΔⵠⲆᐃ;
-    ΔΔ[Xr.ⲆⲆⵠⵠΔ] = [];
-    ΔΔ[Xr.ⲆⲆⵠⵠΔ][Xr.ⲆᐃΔ] = Ⲇⵠ.ΔΔⲆⵠⲆⵠᐃ;
-    ΔΔ[Xr.ⲆⲆⵠⵠΔ][Xr.ΔⲆⵠ] = Ⲇⵠ.ΔⵠΔⵠⵠΔΔ;
-    ΔΔ[Xr.ᐃⲆⵠᐃΔ] = [];
-    ΔΔ[Xr.ᐃⲆⵠᐃΔ][Xr.ⲆᐃΔ] = Ⲇⵠ.ⵠᐃᐃᐃⵠᐃⵠ;
-    ΔΔ[Xr.ᐃⲆⵠᐃΔ][Xr.ΔⲆⵠ] = Ⲇⵠ.ⲆᐃΔᐃⲆⲆᐃ;
-    ΔΔ[Xr.ᐃΔᐃΔΔⵠᐃ] = Ⲇⵠ.ᐃΔᐃΔΔⵠᐃ;
-    ΔΔ[Xr.ⲆⵠᐃᐃΔ] = [];
-    ΔΔ[Xr.ⲆⵠᐃᐃΔ][Xr.ⲆᐃΔ] = pr(dc(0.75, true, ["#0d1b1c", "#4c3a15", "#634828", "#564021"]));
-    ΔΔ[Xr.ⲆⵠᐃᐃΔ][Xr.ΔⲆⵠ] = pr(dc(0.75, true, ["#030d14", "#0d2e33", "#184747", "#123b3f"]));
-    ΔΔ[Xr.ⲆΔⵠΔᐃⲆΔ] = pr(gd(0.3, ["#092813", "#1f773d"], 0));
-    ΔΔ[Xr.ΔⲆΔΔⵠᐃⵠ] = pr(gd(0.3, ["#092813", "#1f773d"], 1));
-    ΔΔ[Xr.ᐃⲆⲆⲆⵠᐃᐃ] = pr(function (a, b) {
+    ΔΔ[526] = [];
+    ΔΔ[526][Xr.ⲆᐃΔ] = pr(xd(0.8, 0, ["#347f93", "#54a4ba"]));
+    ΔΔ[526][Xr.ΔⲆⵠ] = pr(xd(0.8, 0, ["#98ede3", "#94f2e7"]));
+    ΔΔ[527] = [];
+    ΔΔ[527][Xr.ⲆᐃΔ] = pr(lm(0.8, Gq, ["#a9e4ed", "#86d4e0", "#418ba5", "#59b8ce"]));
+    ΔΔ[527][Xr.ΔⲆⵠ] = pr(lm(0.8, true, ["#59c9c0", "#83ddd4", "#3fa097", "#90ddd9"]));
+    ΔΔ[528] = [];
+    ΔΔ[528][Xr.ⲆᐃΔ] = pr(lc(0.8, true, ["#a9e4ed", "#86d4e0"]));
+    ΔΔ[528][Xr.ΔⲆⵠ] = pr(lc(0.8, Tg, ["#83ddd4", "#485e66"]));
+    ΔΔ[151] = [];
+    ΔΔ[151][Xr.ⲆᐃΔ] = pr(bm(0.8, true, ["#347f93", "#54a4ba", "#1c2528", "#a9e4ed", "#86d4e0", "#959da0", "#697072", "#929da0", "#afb9bc"]));
+    ΔΔ[151][Xr.ΔⲆⵠ] = pr(bm(0.8, true, ["#98ede3", "#94f2e7", "#1f343f", "#59c9c0", "#83ddd4", "#485e66", "#2d484f", "#546d6d", "#597b84"]));
+    ΔΔ[1192] = [];
+    ΔΔ[1192][Xr.ⲆᐃΔ] = Ⲇⵠ.ⵠⲆΔⲆᐃᐃᐃ;
+    ΔΔ[1192][Xr.ΔⲆⵠ] = Ⲇⵠ.ⵠⵠⵠⵠᐃΔⵠ;
+    ΔΔ[1193] = [];
+    ΔΔ[1193][Xr.ⲆᐃΔ] = Ⲇⵠ.ⵠⲆᐃᐃⲆᐃᐃ;
+    ΔΔ[1193][Xr.ΔⲆⵠ] = Ⲇⵠ.ⵠⵠⵠⵠΔⵠⲆ;
+    ΔΔ[1194] = [];
+    ΔΔ[1194][Xr.ⲆᐃΔ] = Ⲇⵠ.ⲆⵠᐃᐃΔΔⲆ;
+    ΔΔ[1194][Xr.ΔⲆⵠ] = Ⲇⵠ.ⲆΔⲆΔⵠᐃᐃ;
+    ΔΔ[152] = [];
+    ΔΔ[152][Xr.ⲆᐃΔ] = Ⲇⵠ.ⵠΔᐃΔⲆᐃⲆ;
+    ΔΔ[152][Xr.ΔⲆⵠ] = Ⲇⵠ.ᐃⵠΔⵠⲆⵠᐃ;
+    ΔΔ[1198] = [];
+    ΔΔ[1198][Xr.ⲆᐃΔ] = Ⲇⵠ.ᐃΔΔⵠΔⲆᐃ;
+    ΔΔ[1198][Xr.ΔⲆⵠ] = Ⲇⵠ.ⵠΔΔⲆΔΔᐃ;
+    ΔΔ[153] = [];
+    ΔΔ[153][Xr.ⲆᐃΔ] = Ⲇⵠ.ⲆᐃΔᐃᐃⲆⲆ;
+    ΔΔ[153][Xr.ΔⲆⵠ] = Ⲇⵠ.ⵠⲆΔΔᐃᐃΔ;
+    ΔΔ[1202] = [];
+    ΔΔ[1202][Xr.ⲆᐃΔ] = Ⲇⵠ.ⲆⲆⵠᐃⲆΔⵠ;
+    ΔΔ[1202][Xr.ΔⲆⵠ] = Ⲇⵠ.ᐃⵠᐃⲆᐃⵠΔ;
+    ΔΔ[154] = [];
+    ΔΔ[154][Xr.ⲆᐃΔ] = Ⲇⵠ.ᐃΔΔΔⲆΔᐃ;
+    ΔΔ[154][Xr.ΔⲆⵠ] = Ⲇⵠ.ⲆⲆΔΔⵠⲆⵠ;
+    ΔΔ[1206] = [];
+    ΔΔ[1206][Xr.ⲆᐃΔ] = Ⲇⵠ.ⲆᐃⲆΔⵠΔⲆ;
+    ΔΔ[1206][Xr.ΔⲆⵠ] = Ⲇⵠ.ⲆᐃᐃᐃⲆⲆΔ;
+    ΔΔ[155] = [];
+    ΔΔ[155][Xr.ⲆᐃΔ] = Ⲇⵠ.ⵠᐃᐃⵠⵠⲆᐃ;
+    ΔΔ[155][Xr.ΔⲆⵠ] = Ⲇⵠ.ᐃⵠΔⵠⲆΔᐃ;
+    ΔΔ[1210] = [];
+    ΔΔ[1210][Xr.ⲆᐃΔ] = Ⲇⵠ.ᐃⵠΔⲆΔᐃᐃ;
+    ΔΔ[1210][Xr.ΔⲆⵠ] = Ⲇⵠ.ΔᐃᐃΔⲆᐃᐃ;
+    ΔΔ[156] = [];
+    ΔΔ[156][Xr.ⲆᐃΔ] = Ⲇⵠ.ⵠⵠⵠΔⲆⵠⲆ;
+    ΔΔ[156][Xr.ΔⲆⵠ] = Ⲇⵠ.ᐃⲆⲆⵠⲆᐃΔ;
+    ΔΔ[1214] = [];
+    ΔΔ[1214][Xr.ⲆᐃΔ] = Ⲇⵠ.ⲆᐃⵠⲆⲆᐃᐃ;
+    ΔΔ[1214][Xr.ΔⲆⵠ] = Ⲇⵠ.ᐃᐃᐃΔⵠⲆᐃ;
+    ΔΔ[157] = [];
+    ΔΔ[157][Xr.ⲆᐃΔ] = Ⲇⵠ.ΔΔⲆⵠⲆⵠᐃ;
+    ΔΔ[157][Xr.ΔⲆⵠ] = Ⲇⵠ.ΔⵠΔⵠⵠΔΔ;
+    ΔΔ[245] = [];
+    ΔΔ[245][Xr.ⲆᐃΔ] = Ⲇⵠ.ⵠᐃᐃᐃⵠᐃⵠ;
+    ΔΔ[245][Xr.ΔⲆⵠ] = Ⲇⵠ.ⲆᐃΔᐃⲆⲆᐃ;
+    ΔΔ[246] = Ⲇⵠ.ᐃΔᐃΔΔⵠᐃ;
+    ΔΔ[159] = [];
+    ΔΔ[159][Xr.ⲆᐃΔ] = pr(dc(0.75, true, ["#0d1b1c", "#4c3a15", "#634828", "#564021"]));
+    ΔΔ[159][Xr.ΔⲆⵠ] = pr(dc(0.75, true, ["#030d14", "#0d2e33", "#184747", "#123b3f"]));
+    ΔΔ[558] = pr(gd(0.3, ["#092813", "#1f773d"], 0));
+    ΔΔ[559] = pr(gd(0.3, ["#092813", "#1f773d"], 1));
+    ΔΔ[885] = pr(function (a, b) {
       var c = document.createElement("canvas");
       var d = c.getContext("2d");
       c.width = a * 60;
@@ -25754,20 +25754,20 @@
       db(d, b[1]);
       return c;
     }(0.6, ["#092813", "#1f773d"]));
-    ΔΔ[Xr.ⲆᐃΔᐃⵠⲆⲆ] = [];
-    ΔΔ[Xr.ⲆᐃΔᐃⵠⲆⲆ].push(pr(Yc(0.7, ["#092813", "#1f773d", "#165b2b", "#4c3a15", "#1f773d"], fl)));
-    ΔΔ[Xr.ⲆᐃΔᐃⵠⲆⲆ].push(pr(Yc(0.7, ["#0b3719", "#228745", "#1a7034", "#614a1a", "#238845"], wg)));
-    ΔΔ[Xr.ⲆᐃΔᐃⵠⲆⲆ].push(pr(Yc(0.7, ["#092a14", "#186733", "#124a23", "#4c3a15", "#1b6735"], st)));
-    ΔΔ[Xr.ⵠᐃΔΔᐃᐃⵠ] = [];
+    ΔΔ[556] = [];
+    ΔΔ[556].push(pr(Yc(0.7, ["#092813", "#1f773d", "#165b2b", "#4c3a15", "#1f773d"], fl)));
+    ΔΔ[556].push(pr(Yc(0.7, ["#0b3719", "#228745", "#1a7034", "#614a1a", "#238845"], wg)));
+    ΔΔ[556].push(pr(Yc(0.7, ["#092a14", "#186733", "#124a23", "#4c3a15", "#1b6735"], st)));
+    ΔΔ[560] = [];
     var b = pr(Yc(0.7, ["#280e09", "#77371f", "#280e09", "#2e2410", "#77371f"], In));
-    ΔΔ[Xr.ⵠᐃΔΔᐃᐃⵠ].push(b);
-    ΔΔ[Xr.ⵠᐃΔΔᐃᐃⵠ].push(b);
-    ΔΔ[Xr.ⵠᐃΔΔᐃᐃⵠ].push(b);
-    ΔΔ[Xr.ΔᐃΔᐃⵠᐃΔ] = [];
-    ΔΔ[Xr.ΔᐃΔᐃⵠᐃΔ].push(pr(Yc(0.7, ["#092813", "#1f773d", "#165b2b", "#4c3a15", "#1f773d"], 1)));
-    ΔΔ[Xr.ΔᐃΔᐃⵠᐃΔ].push(pr(Yc(0.7, ["#0b3719", "#228745", "#1a7034", "#614a1a", "#238845"], zs)));
-    ΔΔ[Xr.ΔᐃΔᐃⵠᐃΔ].push(pr(Yc(0.7, ["#092a14", "#186733", "#124a23", "#4c3a15", "#1b6735"], 1)));
-    ΔΔ[Xr.ⵠⵠⵠⲆᐃΔⲆ] = pr(function (b, c) {
+    ΔΔ[560].push(b);
+    ΔΔ[560].push(b);
+    ΔΔ[560].push(b);
+    ΔΔ[557] = [];
+    ΔΔ[557].push(pr(Yc(0.7, ["#092813", "#1f773d", "#165b2b", "#4c3a15", "#1f773d"], 1)));
+    ΔΔ[557].push(pr(Yc(0.7, ["#0b3719", "#228745", "#1a7034", "#614a1a", "#238845"], zs)));
+    ΔΔ[557].push(pr(Yc(0.7, ["#092a14", "#186733", "#124a23", "#4c3a15", "#1b6735"], 1)));
+    ΔΔ[681] = pr(function (b, c) {
       var d = document.createElement("canvas");
       var e = d.getContext("2d");
       var f = b * 170;
@@ -25793,7 +25793,7 @@
       db(e, c[mj]);
       return d;
     }(0.3, ["#FFFFFF"]));
-    ΔΔ[Xr.ᐃᐃⲆⵠⵠΔᐃ] = pr(function (b, c) {
+    ΔΔ[794] = pr(function (b, c) {
       var d = document.createElement("canvas");
       var e = d.getContext("2d");
       var f = b * 130;
@@ -25810,8 +25810,8 @@
       db(e, c[0]);
       return d;
     }(0.3, ["#FFFFFF"]));
-    ΔΔ[Xr.ⲆⲆⵠᐃΔⵠᐃ] = pr(gd(0.4, ["rgba(255, 255, 255, 0)", "#FFFFFF"], Rq));
-    ΔΔ[Xr.ᐃⵠⲆⵠΔⵠⲆ] = pr(wb(Math.PI / 5, function (a, b) {
+    ΔΔ[562] = pr(gd(0.4, ["rgba(255, 255, 255, 0)", "#FFFFFF"], Rq));
+    ΔΔ[667] = pr(wb(Math.PI / 5, function (a, b) {
       var c = document.createElement("canvas");
       var d = c.getContext("2d");
       c.width = a * 316;
@@ -25850,79 +25850,79 @@
       db(d, b[wg], b[wj], a * 15);
       return c;
     }(0.2, ["#FFFFFF"])));
-    ΔΔ[Xr.ⵠⲆⲆⵠⵠ] = [];
-    ΔΔ[Xr.ⵠⲆⲆⵠⵠ][Xr.ⲆᐃΔ] = pr(om(0.85, Eh, ["#0d1b1c", "#8c55b7", "#652d8e", "#79359e", "#5eccd1", "#4badad", "#9e6ac6"]));
-    ΔΔ[Xr.ⵠⲆⲆⵠⵠ][Xr.ΔⲆⵠ] = pr(om(0.85, true, ["#0d1b1c", "#4e4e93", "#393977", "#444187", "#2b9390", "#277a74", "#7da8db"]));
-    ΔΔ[Xr.ΔᐃᐃᐃⲆⵠᐃ] = [];
-    ΔΔ[Xr.ΔᐃᐃᐃⲆⵠᐃ].push(pr(Yc(0.7, ["#280e09", "#77371f", "#280e09", "#2e2410", "#77371f"], 1)));
-    ΔΔ[Xr.ΔᐃᐃᐃⲆⵠᐃ].push(pr(Yc(0.7, ["#38130C", "#853D22", "#391402", "#3D3016", "#873E22"], zg)));
-    ΔΔ[Xr.ΔᐃᐃᐃⲆⵠᐃ].push(pr(Yc(0.7, ["#1C0A06", "#6B3019", "#1D0A06", "#251D0C", "#6A301A"], Hg)));
-    ΔΔ[Xr.ⲆΔⵠⵠᐃ] = [];
-    ΔΔ[Xr.ⲆΔⵠⵠᐃ][Xr.ⲆᐃΔ] = pr(pc(0.37, xk, ["#2a2938", "#242330", "#313041"]));
-    ΔΔ[Xr.ⲆΔⵠⵠᐃ][Xr.ΔⲆⵠ] = pr(pc(0.37, true, ["#1b1e30", "#161921", "#252f3e"]));
-    ΔΔ[Xr.ΔΔᐃⲆΔ] = [];
-    ΔΔ[Xr.ΔΔᐃⲆΔ][Xr.ⲆᐃΔ] = pr(Xd(0.17, qn, ["#2a2938", "#242330", "#313041", "#1b1a25", "#d62c0e"]));
-    ΔΔ[Xr.ΔΔᐃⲆΔ][Xr.ΔⲆⵠ] = pr(Xd(0.17, true, ["#1b1e30", "#161921", "#252f3e", "#0a0c11", "#d62c0e"]));
-    ΔΔ[Xr.ΔᐃⵠⲆΔ] = [];
-    ΔΔ[Xr.ΔᐃⵠⲆΔ][Xr.ⲆᐃΔ] = pr(Wc(0.55, true, ["#1d1d22", "#e2e1e1", "#d2cbcb", "#cfcbc8", "#beb5b5", "#ada0a0"], 1));
-    ΔΔ[Xr.ΔᐃⵠⲆΔ][Xr.ΔⲆⵠ] = pr(Wc(0.55, true, ["#1d1d22", "#216661", "#134945", "#2b8079", "#17504c"], 1));
-    ΔΔ[Xr.ΔᐃⲆⵠⵠ] = [];
-    ΔΔ[Xr.ΔᐃⲆⵠⵠ][Xr.ⲆᐃΔ] = pr(Wc(0.55, na, ["#1d1d22", "#8c7654", "#785f4c", "#a88e6c", "#785f4c", "#705845"], 0));
-    ΔΔ[Xr.ΔᐃⲆⵠⵠ][Xr.ΔⲆⵠ] = pr(Wc(0.55, Gq, ["#1d1d22", "#1b5752", "#0e3b37", "#23706a", "#11413e", "#0b322f"], ig));
-    ΔΔ[Xr.ᐃⲆΔⵠⵠ] = [];
-    ΔΔ[Xr.ᐃⲆΔⵠⵠ][Xr.ⲆᐃΔ] = pr(ud(0.2, Kj, ["#0d1b1c", "#A5A244", "#D8DC74", "#C0BF55", "#49B669", "#19994C", "#71C187"]));
-    ΔΔ[Xr.ᐃⲆΔⵠⵠ][Xr.ΔⲆⵠ] = pr(ud(0.2, true, ["#2b7c57", "#114933", "#1b6656", "#1a7961", "#3db76f", "#118254", "#40c696"]));
-    ΔΔ[Xr.ⵠᐃⵠⵠΔ] = [];
-    ΔΔ[Xr.ⵠᐃⵠⵠΔ][Xr.ⲆᐃΔ] = pr(ud(0.2, oa, ["#0d1b1c", "#A5A244", "#D8DC74", "#C0BF55", "#C45727", "#994617", "#DB9358"]));
-    ΔΔ[Xr.ⵠᐃⵠⵠΔ][Xr.ΔⲆⵠ] = pr(ud(0.2, true, ["#2b7c57", "#114933", "#1b6656", "#1a7961", "#69b681", "#509a75", "#7ec387"]));
-    ΔΔ[Xr.ⲆⲆᐃᐃΔ] = [];
-    ΔΔ[Xr.ⲆⲆᐃᐃΔ][Xr.ⲆᐃΔ] = pr(ud(0.2, true, ["#0d1b1c", "#A5A244", "#D8DC74", "#C0BF55", "#2792C1", "#196599", "#59C0D8"]));
-    ΔΔ[Xr.ⲆⲆᐃᐃΔ][Xr.ΔⲆⵠ] = pr(ud(0.2, un, ["#2b7c57", "#114933", "#1b6656", "#1a7961", "#19899e", "#16688b", "#4ea3c7"]));
-    ΔΔ[Xr.ⲆⲆΔΔⵠ] = [];
-    ΔΔ[Xr.ⲆⲆΔΔⵠ][Xr.ⲆᐃΔ] = pr(Jd(0.24, true, ["#000000", "#b03431", "#94312d", "#bd3c33", "#e45936"]));
-    ΔΔ[Xr.ⲆⲆΔΔⵠ][Xr.ΔⲆⵠ] = pr(Jd(0.24, us, ["#000000", "#1b103e", "#190f3b", "#261a4e", "#34255d"]));
-    ΔΔ[Xr.ᐃⵠΔᐃΔ] = [];
-    ΔΔ[Xr.ᐃⵠΔᐃΔ][Xr.ⲆᐃΔ] = pr(wc(0.32, fs, ["#0d1b1c", "#cae9eb", "#75bcae", "#ffffff", "#51736d", "#2b4d48", "#1b3a3a", "#80ccca", "#59ada7"]));
-    ΔΔ[Xr.ᐃⵠΔᐃΔ][Xr.ΔⲆⵠ] = pr(wc(0.32, _g, ["#0d1b1c", "#70c1d6", "#49b2cf", "#87cad9", "#367c93", "#113743", "#0c2c36", "#51a2b8", "#3a8ea4"]));
-    ΔΔ[Xr.ⵠᐃᐃΔⵠ] = [];
-    ΔΔ[Xr.ⵠᐃᐃΔⵠ][Xr.ⲆᐃΔ] = pr(wb(3, Uc(0.9, Bh, ["#0d1b1c", "#284c4a", "#193533", "#c8efef", "#7eccbb"])));
-    ΔΔ[Xr.ⵠᐃᐃΔⵠ][Xr.ΔⲆⵠ] = pr(wb(3, Uc(0.9, true, ["#0d1b1c", "#18332e", "#112320", "#87d2e6", "#49b2cf"])));
-    ΔΔ[Xr.ᐃⲆⲆΔΔΔΔ] = [];
-    ΔΔ[Xr.ᐃⲆⲆΔΔΔΔ][Xr.ⲆᐃΔ] = pr(wb(3, Uc(zg * 1, us, [Gs, cn, undefined, "#c8efef", "#c8efef"])));
-    ΔΔ[Xr.ᐃⲆⲆΔΔΔΔ][Xr.ΔⲆⵠ] = pr(wb(3, Uc(1, Kj, [j, tt, Hq, "#87d2e6", "#87d2e6"])));
-    ΔΔ[Xr.ⵠᐃⲆᐃⵠᐃΔ] = [];
-    ΔΔ[Xr.ⵠᐃⲆᐃⵠᐃΔ].push(pr(Dc(0.3, mh, ["#0d1b1c", "#392C16", "#5E3E1A", "#704821", "#654320", "#eda80d"], Bb)));
-    ΔΔ[Xr.ⵠᐃⲆᐃⵠᐃΔ].push(pr(Dc(0.3, true, ["#0d1b1c", "#392C16", "#5E3E1A", "#704821", "#654320", "#eda80d"], pu)));
-    ΔΔ[Xr.ⵠᐃⲆᐃⵠᐃΔ].push(pr(Dc(0.3, xk, ["#0d1b1c", "#392C16", "#5E3E1A", "#704821", "#654320", "#d7990c"], $b)));
-    ΔΔ[Xr.ⵠⲆΔΔΔΔⲆ] = [];
-    ΔΔ[Xr.ⵠⲆΔΔΔΔⲆ].push(pr(Rc(0.7, ["#392C16", "#5E3E1A", "#85592c", "#eda80d"], Bb)));
-    ΔΔ[Xr.ⵠⲆΔΔΔΔⲆ].push(pr(Rc(0.7, ["#392C16", "#5E3E1A", "#85592c", "#eda80d"], 1)));
-    ΔΔ[Xr.ⵠⲆΔΔΔΔⲆ].push(pr(Rc(0.7, ["#392C16", "#5E3E1A", "#85592c", "#eda80d"], 1)));
-    ΔΔ[Xr.ᐃΔⲆᐃΔΔⲆ] = [];
-    ΔΔ[Xr.ᐃΔⲆᐃΔΔⲆ].push(pr(Hu(0.4, ["#0d1b1c", "#392C16", "#5E3E1A", "#eda80d"], Mg, Gh)));
-    ΔΔ[Xr.ᐃΔⲆᐃΔΔⲆ].push(pr(Hu(0.4, ["#0d1b1c", "#392C16", "#5E3E1A", "#eda80d"], Wl, 1)));
-    ΔΔ[Xr.ᐃΔⲆᐃΔΔⲆ].push(pr(Hu(0.4, ["#0d1b1c", "#392C16", "#5E3E1A", "#d7990c"], 1, 1)));
-    ΔΔ[Xr.ⵠᐃᐃᐃΔΔᐃ] = [];
-    ΔΔ[Xr.ⵠᐃᐃᐃΔΔᐃ].push(pr(Hu(0.4, ["#0d1b1c", "#392C16", "#5E3E1A", "#eda80d"], fl, 0)));
-    ΔΔ[Xr.ⵠᐃᐃᐃΔΔᐃ].push(pr(Hu(0.4, ["#0d1b1c", "#392C16", "#5E3E1A", "#eda80d"], 1, ya)));
-    ΔΔ[Xr.ⵠᐃᐃᐃΔΔᐃ].push(pr(Hu(0.4, ["#0d1b1c", "#392C16", "#5E3E1A", "#d7990c"], 1, Zj)));
-    ΔΔ[Xr.ᐃΔΔΔΔ] = [];
-    ΔΔ[Xr.ᐃΔΔΔΔ][Xr.ⲆᐃΔ] = pr(wb(3, nm(0.7, Eh, ["#0d1b1c", "#6d5041", "#4f3d35", "#939393", "#5f6061", "#757575"])));
-    ΔΔ[Xr.ᐃΔΔΔΔ][Xr.ΔⲆⵠ] = pr(wb(3, nm(0.7, true, ["#0d1b1c", "#0d2e33", "#0b2326", "#485e66", "#1f343f", "#274352"])));
-    ΔΔ[Xr.ⲆΔΔⵠⵠ] = [];
-    ΔΔ[Xr.ⲆΔΔⵠⵠ][Xr.ⲆᐃΔ] = pr(wb(3, nm(0.7, Eh, ["#0d1b1c", "#493e26", "#382e19", "#c4bc51", "#b29c32", "#ada437"])));
-    ΔΔ[Xr.ⲆΔΔⵠⵠ][Xr.ΔⲆⵠ] = pr(wb(ll, nm(0.7, us, ["#0d1b1c", "#263947", "#182935", "#43aa82", "#29997c", "#32916c"])));
-    ΔΔ[Xr.ⵠᐃⵠᐃΔ] = [];
-    ΔΔ[Xr.ⵠᐃⵠᐃΔ][Xr.ⲆᐃΔ] = pr(wb(3, nm(0.7, Eh, ["#0d1b1c", "#262114", "#211108", "#63c9d6", "#29aaa1", "#42aab8"])));
-    ΔΔ[Xr.ⵠᐃⵠᐃΔ][Xr.ΔⲆⵠ] = pr(wb(3, nm(0.7, mh, ["#0d1b1c", "#111316", "#0a0b0c", "#73dde5", "#3dc4c0", "#49bdc6"])));
-    ΔΔ[Xr.ⵠᐃⲆⲆⵠ] = [];
-    ΔΔ[Xr.ⵠᐃⲆⲆⵠ][Xr.ⲆᐃΔ] = pr(wb(3, nm(0.7, true, ["#0d1b1c", "#262114", "#211108", "#b864d6", "#8c29aa", "#9641b5"])));
-    ΔΔ[Xr.ⵠᐃⲆⲆⵠ][Xr.ΔⲆⵠ] = pr(wb(Wb, nm(0.7, true, ["#0d1b1c", "#111316", "#0a0b0c", "#8359d3", "#764eb5", "#6f45c2"])));
-    ΔΔ[Xr.ⵠᐃⵠΔⵠⲆⲆ] = [];
-    ΔΔ[Xr.ⵠᐃⵠΔⵠⲆⲆ].push(pr(_c(0.7, ["#3b330d", "#b5a118", "#c8ac16"])));
-    ΔΔ[Xr.ⵠᐃⵠΔⵠⲆⲆ].push(pr(_c(0.7, ["#524712", "#c7b11c", "#d9ba18"])));
-    ΔΔ[Xr.ⵠᐃⵠΔⵠⲆⲆ].push(pr(_c(0.7, ["#2a2409", "#9f8e14", "#ad9511"])));
-    ΔΔ[Xr.ΔⵠΔᐃⲆΔⵠ] = pr(function (a, b) {
+    ΔΔ[43] = [];
+    ΔΔ[43][Xr.ⲆᐃΔ] = pr(om(0.85, Eh, ["#0d1b1c", "#8c55b7", "#652d8e", "#79359e", "#5eccd1", "#4badad", "#9e6ac6"]));
+    ΔΔ[43][Xr.ΔⲆⵠ] = pr(om(0.85, true, ["#0d1b1c", "#4e4e93", "#393977", "#444187", "#2b9390", "#277a74", "#7da8db"]));
+    ΔΔ[561] = [];
+    ΔΔ[561].push(pr(Yc(0.7, ["#280e09", "#77371f", "#280e09", "#2e2410", "#77371f"], 1)));
+    ΔΔ[561].push(pr(Yc(0.7, ["#38130C", "#853D22", "#391402", "#3D3016", "#873E22"], zg)));
+    ΔΔ[561].push(pr(Yc(0.7, ["#1C0A06", "#6B3019", "#1D0A06", "#251D0C", "#6A301A"], Hg)));
+    ΔΔ[83] = [];
+    ΔΔ[83][Xr.ⲆᐃΔ] = pr(pc(0.37, xk, ["#2a2938", "#242330", "#313041"]));
+    ΔΔ[83][Xr.ΔⲆⵠ] = pr(pc(0.37, true, ["#1b1e30", "#161921", "#252f3e"]));
+    ΔΔ[85] = [];
+    ΔΔ[85][Xr.ⲆᐃΔ] = pr(Xd(0.17, qn, ["#2a2938", "#242330", "#313041", "#1b1a25", "#d62c0e"]));
+    ΔΔ[85][Xr.ΔⲆⵠ] = pr(Xd(0.17, true, ["#1b1e30", "#161921", "#252f3e", "#0a0c11", "#d62c0e"]));
+    ΔΔ[86] = [];
+    ΔΔ[86][Xr.ⲆᐃΔ] = pr(Wc(0.55, true, ["#1d1d22", "#e2e1e1", "#d2cbcb", "#cfcbc8", "#beb5b5", "#ada0a0"], 1));
+    ΔΔ[86][Xr.ΔⲆⵠ] = pr(Wc(0.55, true, ["#1d1d22", "#216661", "#134945", "#2b8079", "#17504c"], 1));
+    ΔΔ[84] = [];
+    ΔΔ[84][Xr.ⲆᐃΔ] = pr(Wc(0.55, na, ["#1d1d22", "#8c7654", "#785f4c", "#a88e6c", "#785f4c", "#705845"], 0));
+    ΔΔ[84][Xr.ΔⲆⵠ] = pr(Wc(0.55, Gq, ["#1d1d22", "#1b5752", "#0e3b37", "#23706a", "#11413e", "#0b322f"], ig));
+    ΔΔ[77] = [];
+    ΔΔ[77][Xr.ⲆᐃΔ] = pr(ud(0.2, Kj, ["#0d1b1c", "#A5A244", "#D8DC74", "#C0BF55", "#49B669", "#19994C", "#71C187"]));
+    ΔΔ[77][Xr.ΔⲆⵠ] = pr(ud(0.2, true, ["#2b7c57", "#114933", "#1b6656", "#1a7961", "#3db76f", "#118254", "#40c696"]));
+    ΔΔ[78] = [];
+    ΔΔ[78][Xr.ⲆᐃΔ] = pr(ud(0.2, oa, ["#0d1b1c", "#A5A244", "#D8DC74", "#C0BF55", "#C45727", "#994617", "#DB9358"]));
+    ΔΔ[78][Xr.ΔⲆⵠ] = pr(ud(0.2, true, ["#2b7c57", "#114933", "#1b6656", "#1a7961", "#69b681", "#509a75", "#7ec387"]));
+    ΔΔ[79] = [];
+    ΔΔ[79][Xr.ⲆᐃΔ] = pr(ud(0.2, true, ["#0d1b1c", "#A5A244", "#D8DC74", "#C0BF55", "#2792C1", "#196599", "#59C0D8"]));
+    ΔΔ[79][Xr.ΔⲆⵠ] = pr(ud(0.2, un, ["#2b7c57", "#114933", "#1b6656", "#1a7961", "#19899e", "#16688b", "#4ea3c7"]));
+    ΔΔ[61] = [];
+    ΔΔ[61][Xr.ⲆᐃΔ] = pr(Jd(0.24, true, ["#000000", "#b03431", "#94312d", "#bd3c33", "#e45936"]));
+    ΔΔ[61][Xr.ΔⲆⵠ] = pr(Jd(0.24, us, ["#000000", "#1b103e", "#190f3b", "#261a4e", "#34255d"]));
+    ΔΔ[59] = [];
+    ΔΔ[59][Xr.ⲆᐃΔ] = pr(wc(0.32, fs, ["#0d1b1c", "#cae9eb", "#75bcae", "#ffffff", "#51736d", "#2b4d48", "#1b3a3a", "#80ccca", "#59ada7"]));
+    ΔΔ[59][Xr.ΔⲆⵠ] = pr(wc(0.32, _g, ["#0d1b1c", "#70c1d6", "#49b2cf", "#87cad9", "#367c93", "#113743", "#0c2c36", "#51a2b8", "#3a8ea4"]));
+    ΔΔ[62] = [];
+    ΔΔ[62][Xr.ⲆᐃΔ] = pr(wb(3, Uc(0.9, Bh, ["#0d1b1c", "#284c4a", "#193533", "#c8efef", "#7eccbb"])));
+    ΔΔ[62][Xr.ΔⲆⵠ] = pr(wb(3, Uc(0.9, true, ["#0d1b1c", "#18332e", "#112320", "#87d2e6", "#49b2cf"])));
+    ΔΔ[750] = [];
+    ΔΔ[750][Xr.ⲆᐃΔ] = pr(wb(3, Uc(zg * 1, us, [Gs, cn, undefined, "#c8efef", "#c8efef"])));
+    ΔΔ[750][Xr.ΔⲆⵠ] = pr(wb(3, Uc(1, Kj, [j, tt, Hq, "#87d2e6", "#87d2e6"])));
+    ΔΔ[755] = [];
+    ΔΔ[755].push(pr(Dc(0.3, mh, ["#0d1b1c", "#392C16", "#5E3E1A", "#704821", "#654320", "#eda80d"], Bb)));
+    ΔΔ[755].push(pr(Dc(0.3, true, ["#0d1b1c", "#392C16", "#5E3E1A", "#704821", "#654320", "#eda80d"], pu)));
+    ΔΔ[755].push(pr(Dc(0.3, xk, ["#0d1b1c", "#392C16", "#5E3E1A", "#704821", "#654320", "#d7990c"], $b)));
+    ΔΔ[795] = [];
+    ΔΔ[795].push(pr(Rc(0.7, ["#392C16", "#5E3E1A", "#85592c", "#eda80d"], Bb)));
+    ΔΔ[795].push(pr(Rc(0.7, ["#392C16", "#5E3E1A", "#85592c", "#eda80d"], 1)));
+    ΔΔ[795].push(pr(Rc(0.7, ["#392C16", "#5E3E1A", "#85592c", "#eda80d"], 1)));
+    ΔΔ[782] = [];
+    ΔΔ[782].push(pr(Hu(0.4, ["#0d1b1c", "#392C16", "#5E3E1A", "#eda80d"], Mg, Gh)));
+    ΔΔ[782].push(pr(Hu(0.4, ["#0d1b1c", "#392C16", "#5E3E1A", "#eda80d"], Wl, 1)));
+    ΔΔ[782].push(pr(Hu(0.4, ["#0d1b1c", "#392C16", "#5E3E1A", "#d7990c"], 1, 1)));
+    ΔΔ[783] = [];
+    ΔΔ[783].push(pr(Hu(0.4, ["#0d1b1c", "#392C16", "#5E3E1A", "#eda80d"], fl, 0)));
+    ΔΔ[783].push(pr(Hu(0.4, ["#0d1b1c", "#392C16", "#5E3E1A", "#eda80d"], 1, ya)));
+    ΔΔ[783].push(pr(Hu(0.4, ["#0d1b1c", "#392C16", "#5E3E1A", "#d7990c"], 1, Zj)));
+    ΔΔ[46] = [];
+    ΔΔ[46][Xr.ⲆᐃΔ] = pr(wb(3, nm(0.7, Eh, ["#0d1b1c", "#6d5041", "#4f3d35", "#939393", "#5f6061", "#757575"])));
+    ΔΔ[46][Xr.ΔⲆⵠ] = pr(wb(3, nm(0.7, true, ["#0d1b1c", "#0d2e33", "#0b2326", "#485e66", "#1f343f", "#274352"])));
+    ΔΔ[50] = [];
+    ΔΔ[50][Xr.ⲆᐃΔ] = pr(wb(3, nm(0.7, Eh, ["#0d1b1c", "#493e26", "#382e19", "#c4bc51", "#b29c32", "#ada437"])));
+    ΔΔ[50][Xr.ΔⲆⵠ] = pr(wb(ll, nm(0.7, us, ["#0d1b1c", "#263947", "#182935", "#43aa82", "#29997c", "#32916c"])));
+    ΔΔ[51] = [];
+    ΔΔ[51][Xr.ⲆᐃΔ] = pr(wb(3, nm(0.7, Eh, ["#0d1b1c", "#262114", "#211108", "#63c9d6", "#29aaa1", "#42aab8"])));
+    ΔΔ[51][Xr.ΔⲆⵠ] = pr(wb(3, nm(0.7, mh, ["#0d1b1c", "#111316", "#0a0b0c", "#73dde5", "#3dc4c0", "#49bdc6"])));
+    ΔΔ[52] = [];
+    ΔΔ[52][Xr.ⲆᐃΔ] = pr(wb(3, nm(0.7, true, ["#0d1b1c", "#262114", "#211108", "#b864d6", "#8c29aa", "#9641b5"])));
+    ΔΔ[52][Xr.ΔⲆⵠ] = pr(wb(Wb, nm(0.7, true, ["#0d1b1c", "#111316", "#0a0b0c", "#8359d3", "#764eb5", "#6f45c2"])));
+    ΔΔ[592] = [];
+    ΔΔ[592].push(pr(_c(0.7, ["#3b330d", "#b5a118", "#c8ac16"])));
+    ΔΔ[592].push(pr(_c(0.7, ["#524712", "#c7b11c", "#d9ba18"])));
+    ΔΔ[592].push(pr(_c(0.7, ["#2a2409", "#9f8e14", "#ad9511"])));
+    ΔΔ[326] = pr(function (a, b) {
       var c = document.createElement("canvas");
       var d = c.getContext("2d");
       c.width = a * 188;
@@ -25967,7 +25967,7 @@
       db(d, b[Yh], b[Lr], a * 2);
       return c;
     }(1.1, ["#BB0000"]));
-    ΔΔ[Xr.ⲆⵠⵠⲆᐃΔΔ] = pr(wb(Math.PI, function (a, b) {
+    ΔΔ[333] = pr(wb(Math.PI, function (a, b) {
       var c = document.createElement("canvas");
       var d = c.getContext("2d");
       c.width = a * 238;
@@ -26061,148 +26061,148 @@
       d.stroke();
       return c;
     }(0.9, "#BB0000")));
-    ΔΔ[Xr.ⲆᐃᐃΔᐃ] = [];
-    ΔΔ[Xr.ⲆᐃᐃΔᐃ][Xr.ⲆᐃΔ] = pr(vc(0.55, true, ["#c9a65f", "#ae863f", "#655530", "#4a391c", "#ebdd79", "#4a421c"]));
-    ΔΔ[Xr.ⲆᐃᐃΔᐃ][Xr.ΔⲆⵠ] = pr(vc(0.55, true, ["#15514f", "#0f3f3d", "#123335", "#0d2d2b", "#2b6664", "#070d16"]));
-    ΔΔ[Xr.ᐃᐃⲆⵠⵠ] = [];
-    ΔΔ[Xr.ᐃᐃⲆⵠⵠ][Xr.ⲆᐃΔ] = pr(Bc(0.55, kh, ["#252525", "#73583e", "#573f29", "#7d6144"]));
-    ΔΔ[Xr.ᐃᐃⲆⵠⵠ][Xr.ΔⲆⵠ] = pr(Bc(0.55, Bh, ["#0d3b39", "#144642", "#0b3230", "#154f4b"]));
-    ΔΔ[Xr.Δᐃᐃⵠᐃ] = [];
-    ΔΔ[Xr.Δᐃᐃⵠᐃ][Xr.ⲆᐃΔ] = pr(Nd(0.6, cl, ["#252525", "#808080", "#4a4a4a", "#9e9c8b", "#615c53", "#686969", "#8a8776", "#555555", "#747474", "#969696", "#454545"]));
-    ΔΔ[Xr.Δᐃᐃⵠᐃ][Xr.ΔⲆⵠ] = pr(Nd(0.6, qn, ["#030d14", "#1c4a4a", "#102d2d", "#255756", "#163d3c", "#194544", "#1f5252", "#184141", "#1c4a4a", "#255756", "#163a3a"]));
-    ΔΔ[Xr.ΔᐃΔⲆⲆ] = [];
-    ΔΔ[Xr.ΔᐃΔⲆⲆ][Xr.ⲆᐃΔ] = pr(Ed(0.58, Gj, ["#dbce71", "#b29c32", "#c4bc51"]));
-    ΔΔ[Xr.ΔᐃΔⲆⲆ][Xr.ΔⲆⵠ] = pr(Ed(0.58, Kj, ["#2b7c57", "#15543c", "#1a7961"]));
-    ΔΔ[Xr.ᐃⲆⲆⵠᐃ] = [];
-    ΔΔ[Xr.ᐃⲆⲆⵠᐃ][Xr.ⲆᐃΔ] = pr(cm(0.69, true, ["#717171", "#485252", "#555555", "#65c7cd", "#4aadad", "#358d8b", "#c1e6ea", "#a6dce4"]));
-    ΔΔ[Xr.ᐃⲆⲆⵠᐃ][Xr.ΔⲆⵠ] = pr(cm(0.69, un, ["#183f3f", "#092121", "#123335", "#2b9390", "#277a74", "#1f665f", "#83ddd4", "#59c9c0"]));
-    ΔΔ[Xr.ᐃⵠᐃᐃᐃ] = [];
-    ΔΔ[Xr.ᐃⵠᐃᐃᐃ][Xr.ⲆᐃΔ] = [];
-    ΔΔ[Xr.ᐃⵠᐃᐃᐃ][Xr.ΔⲆⵠ] = [];
-    ΔΔ[Xr.ᐃⵠᐃᐃᐃ][Xr.ⲆᐃΔ].push(pr(Tm(1.3, ["#0a2d18", "#124c34", "#227248", "#ccedd9", "#2d7a55", "#3c9660", "#afddc1", "#bbefd0", "#0a2d18", "#e4efe8"])));
-    ΔΔ[Xr.ᐃⵠᐃᐃᐃ][Xr.ⲆᐃΔ].push(pr(zd(1.5, ["#191919", "#134d35", "#247349", "#afddc1", "#bbefd0", "#e4efe8"])));
-    ΔΔ[Xr.ᐃⵠᐃᐃᐃ][Xr.ⲆᐃΔ].push(pr(Zd(1.5, ["#191919", "#134d35", "#247349", "#cde7d6", "#122d1c", "#e3eee7"])));
-    ΔΔ[Xr.ᐃⵠᐃᐃᐃ][Xr.ΔⲆⵠ].push(pr(Tm(1.3, ["#000000", "#0e3638", "#174a51", "#328587", "#174a51", "#1d5559", "#328587", "#48a8aa", "#0a2728", "#56afac"])));
-    ΔΔ[Xr.ᐃⵠᐃᐃᐃ][Xr.ΔⲆⵠ].push(pr(zd(1.5, ["#000000", "#0e3638", "#174a51", "#328587", "#48a8aa", "#56afac"])));
-    ΔΔ[Xr.ᐃⵠᐃᐃᐃ][Xr.ΔⲆⵠ].push(pr(Zd(1.5, ["#000000", "#0e3638", "#174a51", "#328587", "#0a2728", "#56afac"])));
-    ΔΔ[Xr.ᐃⵠΔⵠⵠ] = [];
-    ΔΔ[Xr.ᐃⵠΔⵠⵠ][Xr.ⲆᐃΔ] = pr(qd(1, ["#292b2b", "#57aba6", "#80ccca", "#c42333", "#a4dad9", "#3e8294", "#ffffff", "#57aba6", "#ffffff"]));
-    ΔΔ[Xr.ᐃⵠΔⵠⵠ][Xr.ΔⲆⵠ] = pr(qd(Te * 1, ["#050505", "#1d3a38", "#0b514a", "#200333", "#327570", "#1d3a38", "#ffffff", "#0b514a", "#63afa9"]));
-    ΔΔ[Xr.ᐃⵠⵠⲆΔⵠΔ] = [];
-    ΔΔ[Xr.ᐃⵠⵠⲆΔⵠΔ][Xr.ⲆᐃΔ] = pr(fm(1, ["#292b2b", "#a4dad9", "#1f3f3f", "#c1233b"]));
-    ΔΔ[Xr.ᐃⵠⵠⲆΔⵠΔ][Xr.ΔⲆⵠ] = pr(fm(zs * 1, ["#050505", "#327570", "#021724", "#200333"]));
-    ΔΔ[Xr.ᐃᐃΔⵠΔᐃⵠ] = [];
-    ΔΔ[Xr.ᐃᐃΔⵠΔᐃⵠ][Xr.ⲆᐃΔ] = pr(kd(sd * 1, ["#292b2b", "#a4dad9", "#1f3f3f", "#c1233b"]));
-    ΔΔ[Xr.ᐃᐃΔⵠΔᐃⵠ][Xr.ΔⲆⵠ] = pr(kd(hb * 1, ["#050505", "#327570", "#021724", "#200333"]));
-    ΔΔ[Xr.ⲆᐃΔⲆᐃⵠΔ] = [];
-    ΔΔ[Xr.ⲆᐃΔⲆᐃⵠΔ][Xr.ⲆᐃΔ] = [];
-    ΔΔ[Xr.ⲆᐃΔⲆᐃⵠΔ][Xr.ΔⲆⵠ] = [];
-    ΔΔ[Xr.ⲆᐃΔⲆᐃⵠΔ][Xr.ⲆᐃΔ] = [Ⲇⵠ.ⲆΔⲆᐃⲆⲆⲆ, Ⲇⵠ.ᐃⵠⲆⵠᐃᐃΔ, Ⲇⵠ.ᐃΔᐃⵠΔⲆᐃ, Ⲇⵠ.ⵠⵠⵠⵠᐃⵠΔ, Ⲇⵠ.ΔⲆᐃᐃΔⲆⲆ, Ⲇⵠ.ΔⲆⵠᐃⵠⵠⵠ, Ⲇⵠ.ΔⲆᐃⲆΔⲆⲆ, Ⲇⵠ.ⲆΔᐃⵠⵠΔᐃ, Ⲇⵠ.ΔΔⵠⵠⲆⵠⵠ, Ⲇⵠ.ⲆΔⵠⵠⵠᐃᐃ, Ⲇⵠ.ᐃᐃⲆⲆΔᐃⵠ, Ⲇⵠ.ΔΔΔᐃᐃᐃΔ, Ⲇⵠ.ᐃΔΔⵠⵠᐃᐃ, Ⲇⵠ.ᐃᐃᐃΔᐃⵠⵠ, Ⲇⵠ.ⲆⲆⲆⵠᐃⵠΔ, Ⲇⵠ.ᐃᐃⵠΔⵠᐃⵠ, Ⲇⵠ.ⵠΔᐃᐃⵠⵠΔ, Ⲇⵠ.ΔᐃᐃΔⵠΔⵠ, Ⲇⵠ.ⵠⲆⲆⲆᐃⲆΔ, Ⲇⵠ.ΔⵠⵠΔΔᐃΔ, Ⲇⵠ.ⲆⵠᐃⲆⵠΔᐃ, Ⲇⵠ.ᐃⵠΔᐃⵠⵠᐃ, Ⲇⵠ.ⵠᐃⲆᐃᐃⵠᐃ, Ⲇⵠ.ΔⲆⵠΔΔⲆⵠ, Ⲇⵠ.ᐃΔΔᐃᐃⲆⵠ, Ⲇⵠ.ᐃΔⵠΔⵠᐃΔ, Ⲇⵠ.ΔΔⲆΔⵠΔⵠ, Ⲇⵠ.ΔᐃⵠⲆⵠⲆΔ, Ⲇⵠ.ᐃΔⲆᐃᐃⲆᐃ, Ⲇⵠ.ⵠⵠᐃⵠᐃΔᐃ, Ⲇⵠ.ⲆⵠⵠΔⵠⵠΔ, Ⲇⵠ.ᐃᐃⲆⵠⲆⵠΔ, Ⲇⵠ.ᐃⲆᐃΔⵠΔᐃ, Ⲇⵠ.ΔΔⲆⵠⵠⵠΔ, Ⲇⵠ.ΔⲆⵠᐃⲆᐃᐃ, Ⲇⵠ.ⲆΔⲆΔⵠⵠⲆ, Ⲇⵠ.ᐃᐃⲆⲆᐃⲆΔ, Ⲇⵠ.ΔⲆΔΔⲆΔⲆ, Ⲇⵠ.ⲆⵠⵠⲆⵠⵠΔ, Ⲇⵠ.ⲆⵠⲆᐃΔⵠⵠ, Ⲇⵠ.ᐃΔᐃⲆⲆᐃᐃ, Ⲇⵠ.ⵠΔⵠⵠΔᐃⲆ, Ⲇⵠ.ΔⵠΔΔⵠᐃⵠ, Ⲇⵠ.ΔᐃⵠⵠΔⲆᐃ, Ⲇⵠ.ᐃΔᐃⵠⵠᐃΔ, Ⲇⵠ.ᐃⵠΔᐃΔⵠⲆ, Ⲇⵠ.ⵠⵠⲆⵠᐃⲆⲆ, Ⲇⵠ.ⲆⲆᐃᐃᐃⵠᐃ, Ⲇⵠ.ᐃΔⲆⲆΔᐃⵠ, Ⲇⵠ.ⵠΔⵠⵠⲆⵠⲆ, Ⲇⵠ.ⲆⲆᐃⲆΔΔᐃ, Ⲇⵠ.ΔⲆⲆⲆⵠΔⵠ, Ⲇⵠ.ⵠⲆⵠᐃⵠᐃⲆ, Ⲇⵠ.ⲆⲆⲆⲆⲆᐃⲆ, Ⲇⵠ.ᐃⲆⵠᐃⲆⵠᐃ, Ⲇⵠ.ΔⲆᐃᐃΔⵠⵠ];
-    ΔΔ[Xr.ⲆᐃΔⲆᐃⵠΔ][Xr.ΔⲆⵠ] = [Ⲇⵠ.ᐃⵠⵠⵠΔⲆᐃ, Ⲇⵠ.ⵠⲆΔⵠⲆⲆⵠ, Ⲇⵠ.ΔⵠⲆⲆΔΔⵠ, Ⲇⵠ.ᐃⵠⵠΔᐃᐃᐃ, Ⲇⵠ.ⵠΔᐃⵠᐃⵠΔ, Ⲇⵠ.ΔΔᐃΔΔⵠΔ, Ⲇⵠ.ΔᐃΔⲆᐃΔⵠ, Ⲇⵠ.ⲆᐃⵠᐃᐃⵠⲆ, Ⲇⵠ.ᐃΔⲆⲆⵠⲆⵠ, Ⲇⵠ.ⲆⲆᐃΔⲆⲆⲆ, Ⲇⵠ.ⵠΔᐃΔΔᐃᐃ, Ⲇⵠ.ⲆⲆΔᐃⲆᐃᐃ, Ⲇⵠ.ⲆⵠᐃⵠⵠⲆᐃ, Ⲇⵠ.ᐃΔᐃⵠⲆΔⲆ, Ⲇⵠ.ΔᐃᐃᐃⲆⵠⵠ, Ⲇⵠ.ΔΔⲆⵠⵠΔᐃ, Ⲇⵠ.ΔΔᐃⲆᐃᐃⲆ, Ⲇⵠ.ᐃⲆⵠⵠⲆΔⲆ, Ⲇⵠ.ΔⵠᐃΔⵠⲆⵠ, Ⲇⵠ.ΔⲆⲆⵠⵠⲆⲆ, Ⲇⵠ.ΔⵠΔⲆΔⵠⵠ, Ⲇⵠ.ⵠᐃᐃⵠⵠⲆⲆ, Ⲇⵠ.ⲆΔΔⵠΔⲆⲆ, Ⲇⵠ.ⲆⵠⲆᐃⵠⲆΔ, Ⲇⵠ.ΔᐃⵠΔⵠⵠⵠ, Ⲇⵠ.ΔⲆᐃⵠⵠΔᐃ, Ⲇⵠ.ⵠᐃⵠᐃᐃⵠⵠ, Ⲇⵠ.ΔᐃᐃᐃᐃⲆᐃ, Ⲇⵠ.ΔⵠΔⲆΔⲆΔ, Ⲇⵠ.ΔⲆⲆΔᐃⲆΔ, Ⲇⵠ.ⵠⲆⵠⲆⲆⲆᐃ, Ⲇⵠ.ΔⲆⵠⵠⵠⵠΔ, Ⲇⵠ.ⵠⵠⵠΔΔⵠΔ, Ⲇⵠ.ΔΔⵠⵠΔⲆⲆ, Ⲇⵠ.ⵠᐃⲆΔΔⲆᐃ, Ⲇⵠ.ⲆⵠⲆΔⲆⵠⵠ, Ⲇⵠ.ⵠᐃΔᐃⲆᐃⵠ, Ⲇⵠ.ⵠⵠⲆΔᐃΔᐃ, Ⲇⵠ.ⲆΔⲆΔᐃΔΔ, Ⲇⵠ.ⲆⲆⵠⲆΔΔⵠ, Ⲇⵠ.ⲆⲆⲆᐃΔᐃⵠ, Ⲇⵠ.ᐃⲆⵠⵠⵠⲆᐃ, Ⲇⵠ.ᐃⲆΔᐃⵠᐃΔ, Ⲇⵠ.ⵠᐃᐃⲆᐃᐃΔ, Ⲇⵠ.ⵠⲆΔΔⵠⵠⵠ, Ⲇⵠ.ᐃΔᐃΔᐃⵠΔ, Ⲇⵠ.ΔⵠΔΔⲆᐃⲆ, Ⲇⵠ.ᐃⲆΔⵠᐃΔΔ, Ⲇⵠ.ⵠⵠⵠᐃΔᐃⲆ, Ⲇⵠ.ᐃᐃⲆⵠΔᐃᐃ, Ⲇⵠ.ᐃⲆⲆᐃΔᐃⵠ, Ⲇⵠ.ⵠⲆΔⲆᐃΔⲆ, Ⲇⵠ.ⲆⲆΔⵠΔΔΔ, Ⲇⵠ.ᐃᐃᐃⵠᐃΔⵠ, Ⲇⵠ.ΔⵠⵠΔⵠΔⲆ, Ⲇⵠ.ΔⲆⲆⵠᐃΔᐃ];
-    ΔΔ[Xr.ⵠⲆᐃᐃⵠ] = [];
-    ΔΔ[Xr.ⵠⲆᐃᐃⵠ][Xr.ⲆᐃΔ] = [];
-    ΔΔ[Xr.ⵠⲆᐃᐃⵠ][Xr.ΔⲆⵠ] = [];
-    ΔΔ[Xr.ⵠⲆᐃᐃⵠ][Xr.ⲆᐃΔ].push(pr(id(1.1, ss, ["#252B28", "#747471", "#83827e"], wg)));
-    ΔΔ[Xr.ⵠⲆᐃᐃⵠ][Xr.ⲆᐃΔ].push(pr(id(0.9, false, ["#252B28", "#747471", "#83827e"], 1)));
-    ΔΔ[Xr.ⵠⲆᐃᐃⵠ][Xr.ⲆᐃΔ].push(pr(id(za * 1, Ta, ["#252B28", "#747471", "#83827e"], pq)));
-    ΔΔ[Xr.ⵠⲆᐃᐃⵠ][Xr.ⲆᐃΔ].push(pr(id(0.9, Ag, ["#252B28", "#747471", "#83827e"], Vh)));
-    ΔΔ[Xr.ⵠⲆᐃᐃⵠ][Xr.ΔⲆⵠ].push(pr(id(1.1, false, ["#030d14", "#123335", "#183f3f"], Rq)));
-    ΔΔ[Xr.ⵠⲆᐃᐃⵠ][Xr.ΔⲆⵠ].push(pr(id(0.9, false, ["#030d14", "#123335", "#183f3f"], 1)));
-    ΔΔ[Xr.ⵠⲆᐃᐃⵠ][Xr.ΔⲆⵠ].push(pr(id(1, Ag, ["#030d14", "#123335", "#183f3f"], Ob)));
-    ΔΔ[Xr.ⵠⲆᐃᐃⵠ][Xr.ΔⲆⵠ].push(pr(id(0.9, false, ["#030d14", "#123335", "#183f3f"], rs)));
-    ΔΔ[Xr.ⵠᐃⵠⵠⵠ] = [];
-    ΔΔ[Xr.ⵠᐃⵠⵠⵠ][Xr.ⲆᐃΔ] = [];
-    ΔΔ[Xr.ⵠᐃⵠⵠⵠ][Xr.ΔⲆⵠ] = [];
-    ΔΔ[Xr.ⵠᐃⵠⵠⵠ][Xr.ⲆᐃΔ].push(pr(id(1.1, us, ["#252B28", "#58645F", "#75827D"], 2)));
-    ΔΔ[Xr.ⵠᐃⵠⵠⵠ][Xr.ⲆᐃΔ].push(pr(id(0.9, Tg, ["#252B28", "#58645F", "#75827D"], vg)));
-    ΔΔ[Xr.ⵠᐃⵠⵠⵠ][Xr.ⲆᐃΔ].push(pr(id($b * 1, Gq, ["#252B28", "#58645F", "#75827D"], 2)));
-    ΔΔ[Xr.ⵠᐃⵠⵠⵠ][Xr.ⲆᐃΔ].push(pr(id(0.9, kh, ["#252B28", "#58645F", "#75827D"], Hj)));
-    ΔΔ[Xr.ⵠᐃⵠⵠⵠ][Xr.ΔⲆⵠ].push(pr(id(1.1, true, ["#030d14", "#123335", "#183f3f"], 2)));
-    ΔΔ[Xr.ⵠᐃⵠⵠⵠ][Xr.ΔⲆⵠ].push(pr(id(0.9, true, ["#030d14", "#123335", "#183f3f"], Pn)));
-    ΔΔ[Xr.ⵠᐃⵠⵠⵠ][Xr.ΔⲆⵠ].push(pr(id(au * 1, true, ["#030d14", "#123335", "#183f3f"], 2)));
-    ΔΔ[Xr.ⵠᐃⵠⵠⵠ][Xr.ΔⲆⵠ].push(pr(id(0.9, xk, ["#030d14", "#123335", "#183f3f"], 2)));
-    ΔΔ[Xr.ⵠΔⵠᐃᐃ] = [];
-    ΔΔ[Xr.ⵠΔⵠᐃᐃ][Xr.ⲆᐃΔ] = [];
-    ΔΔ[Xr.ⵠΔⵠᐃᐃ][Xr.ΔⲆⵠ] = [];
-    ΔΔ[Xr.ⵠΔⵠᐃᐃ][Xr.ⲆᐃΔ].push(pr(rd(1.5, 0, ["#2b280a", "#ddcf8a", "#f4efc6"])));
-    ΔΔ[Xr.ⵠΔⵠᐃᐃ][Xr.ⲆᐃΔ].push(pr(rd(1.3, 0, ["#2b280a", "#ddcf8a", "#f4efc6"])));
-    ΔΔ[Xr.ⵠΔⵠᐃᐃ][Xr.ⲆᐃΔ].push(pr(rd(1.1, 0, ["#2b280a", "#ddcf8a", "#f4efc6"])));
-    ΔΔ[Xr.ⵠΔⵠᐃᐃ][Xr.ΔⲆⵠ].push(pr(rd(1.5, 0, ["#0a2728", "#3e8989", "#50a09c"])));
-    ΔΔ[Xr.ⵠΔⵠᐃᐃ][Xr.ΔⲆⵠ].push(pr(rd(1.3, 0, ["#0a2728", "#3e8989", "#50a09c"])));
-    ΔΔ[Xr.ⵠΔⵠᐃᐃ][Xr.ΔⲆⵠ].push(pr(rd(1.1, 0, ["#0a2728", "#3e8989", "#50a09c"])));
-    ΔΔ[Xr.ⲆⵠⲆΔᐃ] = [];
-    ΔΔ[Xr.ⲆⵠⲆΔᐃ][Xr.ⲆᐃΔ] = [];
-    ΔΔ[Xr.ⲆⵠⲆΔᐃ][Xr.ΔⲆⵠ] = [];
-    ΔΔ[Xr.ⲆⵠⲆΔᐃ][Xr.ⲆᐃΔ].push(pr(od(1.1, 0, ["#123d38", "#70e0dd", "#95efea"])));
-    ΔΔ[Xr.ⲆⵠⲆΔᐃ][Xr.ⲆᐃΔ].push(pr(od(0.9, 0, ["#123d38", "#70e0dd", "#95efea"])));
-    ΔΔ[Xr.ⲆⵠⲆΔᐃ][Xr.ⲆᐃΔ].push(pr(od(0.7, 0, ["#123d38", "#70e0dd", "#95efea"])));
-    ΔΔ[Xr.ⲆⵠⲆΔᐃ][Xr.ΔⲆⵠ].push(pr(od(1.1, 0, ["#123d38", "#47b2ac", "#5cccc4"])));
-    ΔΔ[Xr.ⲆⵠⲆΔᐃ][Xr.ΔⲆⵠ].push(pr(od(0.9, 0, ["#123d38", "#47b2ac", "#5cccc4"])));
-    ΔΔ[Xr.ⲆⵠⲆΔᐃ][Xr.ΔⲆⵠ].push(pr(od(0.7, 0, ["#123d38", "#47b2ac", "#5cccc4"])));
-    ΔΔ[Xr.Ⲇⵠⵠⵠ] = [];
-    ΔΔ[Xr.Ⲇⵠⵠⵠ][Xr.ⲆᐃΔ] = [];
-    ΔΔ[Xr.Ⲇⵠⵠⵠ][Xr.ΔⲆⵠ] = [];
-    ΔΔ[Xr.Ⲇⵠⵠⵠ][Xr.ⲆᐃΔ].push(pr(Jc(1.7, y, ["#1d051e", "#c27add", "#cd98e5"])));
-    ΔΔ[Xr.Ⲇⵠⵠⵠ][Xr.ⲆᐃΔ].push(pr(Jc(1.5, un, ["#1d051e", "#c27add", "#cd98e5"])));
-    ΔΔ[Xr.Ⲇⵠⵠⵠ][Xr.ⲆᐃΔ].push(pr(Jc(1.3, true, ["#1d051e", "#c27add", "#cd98e5"])));
-    ΔΔ[Xr.Ⲇⵠⵠⵠ][Xr.ΔⲆⵠ].push(pr(Jc(1.7, true, ["#1d051e", "#41aaa0", "#5cccc4"])));
-    ΔΔ[Xr.Ⲇⵠⵠⵠ][Xr.ΔⲆⵠ].push(pr(Jc(1.5, true, ["#1d051e", "#41aaa0", "#5cccc4"])));
-    ΔΔ[Xr.Ⲇⵠⵠⵠ][Xr.ΔⲆⵠ].push(pr(Jc(1.3, _g, ["#1d051e", "#41aaa0", "#5cccc4"])));
-    ΔΔ[Xr.ᐃΔⲆΔΔⲆⲆ] = [];
-    ΔΔ[Xr.ᐃΔⲆΔΔⲆⲆ][Xr.ⲆᐃΔ] = [];
-    ΔΔ[Xr.ᐃΔⲆΔΔⲆⲆ][Xr.ΔⲆⵠ] = [];
-    ΔΔ[Xr.ᐃΔⲆΔΔⲆⲆ][Xr.ⲆᐃΔ].push(pr($d(1, ["#2d53c4"])));
-    ΔΔ[Xr.ᐃΔⲆΔΔⲆⲆ][Xr.ΔⲆⵠ].push(pr($d(1, ["#2d53c4"])));
-    ΔΔ[Xr.ⵠᐃΔᐃΔΔΔ] = [];
-    ΔΔ[Xr.ⵠᐃΔᐃΔΔΔ][Xr.ⲆᐃΔ] = [];
-    ΔΔ[Xr.ⵠᐃΔᐃΔΔΔ][Xr.ΔⲆⵠ] = [];
-    ΔΔ[Xr.ⵠᐃΔᐃΔΔΔ][Xr.ⲆᐃΔ].push(pr($d(1, ["#c4912d"])));
-    ΔΔ[Xr.ⵠᐃΔᐃΔΔΔ][Xr.ΔⲆⵠ].push(pr($d(1, ["#c4912d"])));
-    ΔΔ[Xr.ᐃΔⵠᐃⵠⵠⵠ] = [];
-    ΔΔ[Xr.ᐃΔⵠᐃⵠⵠⵠ][Xr.ⲆᐃΔ] = pr(Cm(1, ["#414040"]));
-    ΔΔ[Xr.ᐃΔⵠᐃⵠⵠⵠ][Xr.ΔⲆⵠ] = pr(Cm(1, ["#153635"]));
-    ΔΔ[Xr.ⲆⲆⵠⲆΔᐃᐃ] = [];
-    ΔΔ[Xr.ⲆⲆⵠⲆΔᐃᐃ][Xr.ⲆᐃΔ] = pr(Kd(1, false, ["#EBF2F0", "#EBF2F0", "#b2d4d1", "#b2d4d1", "#EBF2F0", "#b2d4d1"]));
-    ΔΔ[Xr.ⲆⲆⵠⲆΔᐃᐃ][Xr.ΔⲆⵠ] = pr(Kd(1, false, ["#136167", "#136167", "#24878f", "#24878f", "#136167", "#24878f"]));
-    ΔΔ[Xr.ΔⲆⵠⵠⲆⵠᐃ] = [];
-    ΔΔ[Xr.ΔⲆⵠⵠⲆⵠᐃ][Xr.ⲆᐃΔ] = pr(Md(Te * 1, Jn, ["#EBF2F0", "#EBF2F0", "#b2d4d1", "#b2d4d1", "#EBF2F0", "#b2d4d1"]));
-    ΔΔ[Xr.ΔⲆⵠⵠⲆⵠᐃ][Xr.ΔⲆⵠ] = pr(Md(1, false, ["#136167", "#136167", "#24878f", "#24878f", "#136167", "#24878f"]));
-    ΔΔ[Xr.ᐃΔᐃΔᐃΔΔ] = [];
-    ΔΔ[Xr.ᐃΔᐃΔᐃΔΔ][Xr.ⲆᐃΔ] = pr(Md(1, Qg, ["#EBF2F0", "#EBF2F0", "#b2d4d1", "#b2d4d1", "#EBF2F0", "#b2d4d1"]));
-    ΔΔ[Xr.ᐃΔᐃΔᐃΔΔ][Xr.ΔⲆⵠ] = pr(Md(1, false, ["#136167", "#136167", "#24878f", "#24878f", "#136167", "#24878f"]));
-    ΔΔ[Xr.ΔⲆⵠΔΔⵠᐃ] = [];
-    ΔΔ[Xr.ΔⲆⵠΔΔⵠᐃ][Xr.ⲆᐃΔ] = pr(Ec(1, Tk, ["#EBF2F0", "#EBF2F0", "#b2d4d1", "#b2d4d1", "#EBF2F0", "#b2d4d1"]));
-    ΔΔ[Xr.ΔⲆⵠΔΔⵠᐃ][Xr.ΔⲆⵠ] = pr(Ec(1, false, ["#136167", "#136167", "#24878f", "#24878f", "#136167", "#24878f"]));
-    ΔΔ[Xr.ΔⵠⲆΔⲆΔⲆ] = [];
-    ΔΔ[Xr.ΔⵠⲆΔⲆΔⲆ][Xr.ⲆᐃΔ] = pr(ym(pu * 1, xo, ["#EBF2F0", "#EBF2F0", "#b2d4d1", "#b2d4d1", "#EBF2F0", "#b2d4d1"]));
-    ΔΔ[Xr.ΔⵠⲆΔⲆΔⲆ][Xr.ΔⲆⵠ] = pr(ym(au * 1, Ag, ["#136167", "#136167", "#24878f", "#24878f", "#136167", "#24878f"]));
-    ΔΔ[Xr.ⲆⵠⲆᐃⵠ] = [];
-    ΔΔ[Xr.ⲆⵠⲆᐃⵠ][Xr.ⲆᐃΔ] = pr(Id(0.9, ["#1d051e", "#ffffff", "#c41c50", "#2c2e2d", "#c63450", "#f7e7f0"]));
-    ΔΔ[Xr.ⲆⵠⲆᐃⵠ][Xr.ΔⲆⵠ] = pr(Id(0.9, ["#123d38", "#1a847f", "#200333", "#131919", "#01333a", "#b6f2db"]));
-    ΔΔ[Xr.ⵠⲆⲆᐃΔ] = [];
-    ΔΔ[Xr.ⵠⲆⲆᐃΔ][Xr.ⲆᐃΔ] = pr($c(0.9, ["#1d051e", "#ffffff", "#c41c50", "#c63450", "#ffffff", "#f7e7f0", "#2b2d2d"]));
-    ΔΔ[Xr.ⵠⲆⲆᐃΔ][Xr.ΔⲆⵠ] = pr($c(0.9, ["#123d38", "#1a847f", "#200333", "#01333a", "#ffffff", "#b6f2db", "#2b2d2d"]));
-    ΔΔ[Xr.ⲆⲆⵠⵠⵠⲆΔ] = [];
-    ΔΔ[Xr.ΔⵠⲆⵠΔ] = [];
-    ΔΔ[Xr.ⲆⵠᐃΔⲆΔⲆ] = [];
-    ΔΔ[Xr.ΔΔⵠᐃⵠ] = [];
+    ΔΔ[23] = [];
+    ΔΔ[23][Xr.ⲆᐃΔ] = pr(vc(0.55, true, ["#c9a65f", "#ae863f", "#655530", "#4a391c", "#ebdd79", "#4a421c"]));
+    ΔΔ[23][Xr.ΔⲆⵠ] = pr(vc(0.55, true, ["#15514f", "#0f3f3d", "#123335", "#0d2d2b", "#2b6664", "#070d16"]));
+    ΔΔ[58] = [];
+    ΔΔ[58][Xr.ⲆᐃΔ] = pr(Bc(0.55, kh, ["#252525", "#73583e", "#573f29", "#7d6144"]));
+    ΔΔ[58][Xr.ΔⲆⵠ] = pr(Bc(0.55, Bh, ["#0d3b39", "#144642", "#0b3230", "#154f4b"]));
+    ΔΔ[25] = [];
+    ΔΔ[25][Xr.ⲆᐃΔ] = pr(Nd(0.6, cl, ["#252525", "#808080", "#4a4a4a", "#9e9c8b", "#615c53", "#686969", "#8a8776", "#555555", "#747474", "#969696", "#454545"]));
+    ΔΔ[25][Xr.ΔⲆⵠ] = pr(Nd(0.6, qn, ["#030d14", "#1c4a4a", "#102d2d", "#255756", "#163d3c", "#194544", "#1f5252", "#184141", "#1c4a4a", "#255756", "#163a3a"]));
+    ΔΔ[26] = [];
+    ΔΔ[26][Xr.ⲆᐃΔ] = pr(Ed(0.58, Gj, ["#dbce71", "#b29c32", "#c4bc51"]));
+    ΔΔ[26][Xr.ΔⲆⵠ] = pr(Ed(0.58, Kj, ["#2b7c57", "#15543c", "#1a7961"]));
+    ΔΔ[27] = [];
+    ΔΔ[27][Xr.ⲆᐃΔ] = pr(cm(0.69, true, ["#717171", "#485252", "#555555", "#65c7cd", "#4aadad", "#358d8b", "#c1e6ea", "#a6dce4"]));
+    ΔΔ[27][Xr.ΔⲆⵠ] = pr(cm(0.69, un, ["#183f3f", "#092121", "#123335", "#2b9390", "#277a74", "#1f665f", "#83ddd4", "#59c9c0"]));
+    ΔΔ[413] = [];
+    ΔΔ[413][Xr.ⲆᐃΔ] = [];
+    ΔΔ[413][Xr.ΔⲆⵠ] = [];
+    ΔΔ[413][Xr.ⲆᐃΔ].push(pr(Tm(1.3, ["#0a2d18", "#124c34", "#227248", "#ccedd9", "#2d7a55", "#3c9660", "#afddc1", "#bbefd0", "#0a2d18", "#e4efe8"])));
+    ΔΔ[413][Xr.ⲆᐃΔ].push(pr(zd(1.5, ["#191919", "#134d35", "#247349", "#afddc1", "#bbefd0", "#e4efe8"])));
+    ΔΔ[413][Xr.ⲆᐃΔ].push(pr(Zd(1.5, ["#191919", "#134d35", "#247349", "#cde7d6", "#122d1c", "#e3eee7"])));
+    ΔΔ[413][Xr.ΔⲆⵠ].push(pr(Tm(1.3, ["#000000", "#0e3638", "#174a51", "#328587", "#174a51", "#1d5559", "#328587", "#48a8aa", "#0a2728", "#56afac"])));
+    ΔΔ[413][Xr.ΔⲆⵠ].push(pr(zd(1.5, ["#000000", "#0e3638", "#174a51", "#328587", "#48a8aa", "#56afac"])));
+    ΔΔ[413][Xr.ΔⲆⵠ].push(pr(Zd(1.5, ["#000000", "#0e3638", "#174a51", "#328587", "#0a2728", "#56afac"])));
+    ΔΔ[449] = [];
+    ΔΔ[449][Xr.ⲆᐃΔ] = pr(qd(1, ["#292b2b", "#57aba6", "#80ccca", "#c42333", "#a4dad9", "#3e8294", "#ffffff", "#57aba6", "#ffffff"]));
+    ΔΔ[449][Xr.ΔⲆⵠ] = pr(qd(Te * 1, ["#050505", "#1d3a38", "#0b514a", "#200333", "#327570", "#1d3a38", "#ffffff", "#0b514a", "#63afa9"]));
+    ΔΔ[451] = [];
+    ΔΔ[451][Xr.ⲆᐃΔ] = pr(fm(1, ["#292b2b", "#a4dad9", "#1f3f3f", "#c1233b"]));
+    ΔΔ[451][Xr.ΔⲆⵠ] = pr(fm(zs * 1, ["#050505", "#327570", "#021724", "#200333"]));
+    ΔΔ[452] = [];
+    ΔΔ[452][Xr.ⲆᐃΔ] = pr(kd(sd * 1, ["#292b2b", "#a4dad9", "#1f3f3f", "#c1233b"]));
+    ΔΔ[452][Xr.ΔⲆⵠ] = pr(kd(hb * 1, ["#050505", "#327570", "#021724", "#200333"]));
+    ΔΔ[243] = [];
+    ΔΔ[243][Xr.ⲆᐃΔ] = [];
+    ΔΔ[243][Xr.ΔⲆⵠ] = [];
+    ΔΔ[243][Xr.ⲆᐃΔ] = [Ⲇⵠ.ⲆΔⲆᐃⲆⲆⲆ, Ⲇⵠ.ᐃⵠⲆⵠᐃᐃΔ, Ⲇⵠ.ᐃΔᐃⵠΔⲆᐃ, Ⲇⵠ.ⵠⵠⵠⵠᐃⵠΔ, Ⲇⵠ.ΔⲆᐃᐃΔⲆⲆ, Ⲇⵠ.ΔⲆⵠᐃⵠⵠⵠ, Ⲇⵠ.ΔⲆᐃⲆΔⲆⲆ, Ⲇⵠ.ⲆΔᐃⵠⵠΔᐃ, Ⲇⵠ.ΔΔⵠⵠⲆⵠⵠ, Ⲇⵠ.ⲆΔⵠⵠⵠᐃᐃ, Ⲇⵠ.ᐃᐃⲆⲆΔᐃⵠ, Ⲇⵠ.ΔΔΔᐃᐃᐃΔ, Ⲇⵠ.ᐃΔΔⵠⵠᐃᐃ, Ⲇⵠ.ᐃᐃᐃΔᐃⵠⵠ, Ⲇⵠ.ⲆⲆⲆⵠᐃⵠΔ, Ⲇⵠ.ᐃᐃⵠΔⵠᐃⵠ, Ⲇⵠ.ⵠΔᐃᐃⵠⵠΔ, Ⲇⵠ.ΔᐃᐃΔⵠΔⵠ, Ⲇⵠ.ⵠⲆⲆⲆᐃⲆΔ, Ⲇⵠ.ΔⵠⵠΔΔᐃΔ, Ⲇⵠ.ⲆⵠᐃⲆⵠΔᐃ, Ⲇⵠ.ᐃⵠΔᐃⵠⵠᐃ, Ⲇⵠ.ⵠᐃⲆᐃᐃⵠᐃ, Ⲇⵠ.ΔⲆⵠΔΔⲆⵠ, Ⲇⵠ.ᐃΔΔᐃᐃⲆⵠ, Ⲇⵠ.ᐃΔⵠΔⵠᐃΔ, Ⲇⵠ.ΔΔⲆΔⵠΔⵠ, Ⲇⵠ.ΔᐃⵠⲆⵠⲆΔ, Ⲇⵠ.ᐃΔⲆᐃᐃⲆᐃ, Ⲇⵠ.ⵠⵠᐃⵠᐃΔᐃ, Ⲇⵠ.ⲆⵠⵠΔⵠⵠΔ, Ⲇⵠ.ᐃᐃⲆⵠⲆⵠΔ, Ⲇⵠ.ᐃⲆᐃΔⵠΔᐃ, Ⲇⵠ.ΔΔⲆⵠⵠⵠΔ, Ⲇⵠ.ΔⲆⵠᐃⲆᐃᐃ, Ⲇⵠ.ⲆΔⲆΔⵠⵠⲆ, Ⲇⵠ.ᐃᐃⲆⲆᐃⲆΔ, Ⲇⵠ.ΔⲆΔΔⲆΔⲆ, Ⲇⵠ.ⲆⵠⵠⲆⵠⵠΔ, Ⲇⵠ.ⲆⵠⲆᐃΔⵠⵠ, Ⲇⵠ.ᐃΔᐃⲆⲆᐃᐃ, Ⲇⵠ.ⵠΔⵠⵠΔᐃⲆ, Ⲇⵠ.ΔⵠΔΔⵠᐃⵠ, Ⲇⵠ.ΔᐃⵠⵠΔⲆᐃ, Ⲇⵠ.ᐃΔᐃⵠⵠᐃΔ, Ⲇⵠ.ᐃⵠΔᐃΔⵠⲆ, Ⲇⵠ.ⵠⵠⲆⵠᐃⲆⲆ, Ⲇⵠ.ⲆⲆᐃᐃᐃⵠᐃ, Ⲇⵠ.ᐃΔⲆⲆΔᐃⵠ, Ⲇⵠ.ⵠΔⵠⵠⲆⵠⲆ, Ⲇⵠ.ⲆⲆᐃⲆΔΔᐃ, Ⲇⵠ.ΔⲆⲆⲆⵠΔⵠ, Ⲇⵠ.ⵠⲆⵠᐃⵠᐃⲆ, Ⲇⵠ.ⲆⲆⲆⲆⲆᐃⲆ, Ⲇⵠ.ᐃⲆⵠᐃⲆⵠᐃ, Ⲇⵠ.ΔⲆᐃᐃΔⵠⵠ];
+    ΔΔ[243][Xr.ΔⲆⵠ] = [Ⲇⵠ.ᐃⵠⵠⵠΔⲆᐃ, Ⲇⵠ.ⵠⲆΔⵠⲆⲆⵠ, Ⲇⵠ.ΔⵠⲆⲆΔΔⵠ, Ⲇⵠ.ᐃⵠⵠΔᐃᐃᐃ, Ⲇⵠ.ⵠΔᐃⵠᐃⵠΔ, Ⲇⵠ.ΔΔᐃΔΔⵠΔ, Ⲇⵠ.ΔᐃΔⲆᐃΔⵠ, Ⲇⵠ.ⲆᐃⵠᐃᐃⵠⲆ, Ⲇⵠ.ᐃΔⲆⲆⵠⲆⵠ, Ⲇⵠ.ⲆⲆᐃΔⲆⲆⲆ, Ⲇⵠ.ⵠΔᐃΔΔᐃᐃ, Ⲇⵠ.ⲆⲆΔᐃⲆᐃᐃ, Ⲇⵠ.ⲆⵠᐃⵠⵠⲆᐃ, Ⲇⵠ.ᐃΔᐃⵠⲆΔⲆ, Ⲇⵠ.ΔᐃᐃᐃⲆⵠⵠ, Ⲇⵠ.ΔΔⲆⵠⵠΔᐃ, Ⲇⵠ.ΔΔᐃⲆᐃᐃⲆ, Ⲇⵠ.ᐃⲆⵠⵠⲆΔⲆ, Ⲇⵠ.ΔⵠᐃΔⵠⲆⵠ, Ⲇⵠ.ΔⲆⲆⵠⵠⲆⲆ, Ⲇⵠ.ΔⵠΔⲆΔⵠⵠ, Ⲇⵠ.ⵠᐃᐃⵠⵠⲆⲆ, Ⲇⵠ.ⲆΔΔⵠΔⲆⲆ, Ⲇⵠ.ⲆⵠⲆᐃⵠⲆΔ, Ⲇⵠ.ΔᐃⵠΔⵠⵠⵠ, Ⲇⵠ.ΔⲆᐃⵠⵠΔᐃ, Ⲇⵠ.ⵠᐃⵠᐃᐃⵠⵠ, Ⲇⵠ.ΔᐃᐃᐃᐃⲆᐃ, Ⲇⵠ.ΔⵠΔⲆΔⲆΔ, Ⲇⵠ.ΔⲆⲆΔᐃⲆΔ, Ⲇⵠ.ⵠⲆⵠⲆⲆⲆᐃ, Ⲇⵠ.ΔⲆⵠⵠⵠⵠΔ, Ⲇⵠ.ⵠⵠⵠΔΔⵠΔ, Ⲇⵠ.ΔΔⵠⵠΔⲆⲆ, Ⲇⵠ.ⵠᐃⲆΔΔⲆᐃ, Ⲇⵠ.ⲆⵠⲆΔⲆⵠⵠ, Ⲇⵠ.ⵠᐃΔᐃⲆᐃⵠ, Ⲇⵠ.ⵠⵠⲆΔᐃΔᐃ, Ⲇⵠ.ⲆΔⲆΔᐃΔΔ, Ⲇⵠ.ⲆⲆⵠⲆΔΔⵠ, Ⲇⵠ.ⲆⲆⲆᐃΔᐃⵠ, Ⲇⵠ.ᐃⲆⵠⵠⵠⲆᐃ, Ⲇⵠ.ᐃⲆΔᐃⵠᐃΔ, Ⲇⵠ.ⵠᐃᐃⲆᐃᐃΔ, Ⲇⵠ.ⵠⲆΔΔⵠⵠⵠ, Ⲇⵠ.ᐃΔᐃΔᐃⵠΔ, Ⲇⵠ.ΔⵠΔΔⲆᐃⲆ, Ⲇⵠ.ᐃⲆΔⵠᐃΔΔ, Ⲇⵠ.ⵠⵠⵠᐃΔᐃⲆ, Ⲇⵠ.ᐃᐃⲆⵠΔᐃᐃ, Ⲇⵠ.ᐃⲆⲆᐃΔᐃⵠ, Ⲇⵠ.ⵠⲆΔⲆᐃΔⲆ, Ⲇⵠ.ⲆⲆΔⵠΔΔΔ, Ⲇⵠ.ᐃᐃᐃⵠᐃΔⵠ, Ⲇⵠ.ΔⵠⵠΔⵠΔⲆ, Ⲇⵠ.ΔⲆⲆⵠᐃΔᐃ];
+    ΔΔ[676] = [];
+    ΔΔ[676][Xr.ⲆᐃΔ] = [];
+    ΔΔ[676][Xr.ΔⲆⵠ] = [];
+    ΔΔ[676][Xr.ⲆᐃΔ].push(pr(id(1.1, ss, ["#252B28", "#747471", "#83827e"], wg)));
+    ΔΔ[676][Xr.ⲆᐃΔ].push(pr(id(0.9, false, ["#252B28", "#747471", "#83827e"], 1)));
+    ΔΔ[676][Xr.ⲆᐃΔ].push(pr(id(za * 1, Ta, ["#252B28", "#747471", "#83827e"], pq)));
+    ΔΔ[676][Xr.ⲆᐃΔ].push(pr(id(0.9, Ag, ["#252B28", "#747471", "#83827e"], Vh)));
+    ΔΔ[676][Xr.ΔⲆⵠ].push(pr(id(1.1, false, ["#030d14", "#123335", "#183f3f"], Rq)));
+    ΔΔ[676][Xr.ΔⲆⵠ].push(pr(id(0.9, false, ["#030d14", "#123335", "#183f3f"], 1)));
+    ΔΔ[676][Xr.ΔⲆⵠ].push(pr(id(1, Ag, ["#030d14", "#123335", "#183f3f"], Ob)));
+    ΔΔ[676][Xr.ΔⲆⵠ].push(pr(id(0.9, false, ["#030d14", "#123335", "#183f3f"], rs)));
+    ΔΔ[679] = [];
+    ΔΔ[679][Xr.ⲆᐃΔ] = [];
+    ΔΔ[679][Xr.ΔⲆⵠ] = [];
+    ΔΔ[679][Xr.ⲆᐃΔ].push(pr(id(1.1, us, ["#252B28", "#58645F", "#75827D"], 2)));
+    ΔΔ[679][Xr.ⲆᐃΔ].push(pr(id(0.9, Tg, ["#252B28", "#58645F", "#75827D"], vg)));
+    ΔΔ[679][Xr.ⲆᐃΔ].push(pr(id($b * 1, Gq, ["#252B28", "#58645F", "#75827D"], 2)));
+    ΔΔ[679][Xr.ⲆᐃΔ].push(pr(id(0.9, kh, ["#252B28", "#58645F", "#75827D"], Hj)));
+    ΔΔ[679][Xr.ΔⲆⵠ].push(pr(id(1.1, true, ["#030d14", "#123335", "#183f3f"], 2)));
+    ΔΔ[679][Xr.ΔⲆⵠ].push(pr(id(0.9, true, ["#030d14", "#123335", "#183f3f"], Pn)));
+    ΔΔ[679][Xr.ΔⲆⵠ].push(pr(id(au * 1, true, ["#030d14", "#123335", "#183f3f"], 2)));
+    ΔΔ[679][Xr.ΔⲆⵠ].push(pr(id(0.9, xk, ["#030d14", "#123335", "#183f3f"], 2)));
+    ΔΔ[415] = [];
+    ΔΔ[415][Xr.ⲆᐃΔ] = [];
+    ΔΔ[415][Xr.ΔⲆⵠ] = [];
+    ΔΔ[415][Xr.ⲆᐃΔ].push(pr(rd(1.5, 0, ["#2b280a", "#ddcf8a", "#f4efc6"])));
+    ΔΔ[415][Xr.ⲆᐃΔ].push(pr(rd(1.3, 0, ["#2b280a", "#ddcf8a", "#f4efc6"])));
+    ΔΔ[415][Xr.ⲆᐃΔ].push(pr(rd(1.1, 0, ["#2b280a", "#ddcf8a", "#f4efc6"])));
+    ΔΔ[415][Xr.ΔⲆⵠ].push(pr(rd(1.5, 0, ["#0a2728", "#3e8989", "#50a09c"])));
+    ΔΔ[415][Xr.ΔⲆⵠ].push(pr(rd(1.3, 0, ["#0a2728", "#3e8989", "#50a09c"])));
+    ΔΔ[415][Xr.ΔⲆⵠ].push(pr(rd(1.1, 0, ["#0a2728", "#3e8989", "#50a09c"])));
+    ΔΔ[416] = [];
+    ΔΔ[416][Xr.ⲆᐃΔ] = [];
+    ΔΔ[416][Xr.ΔⲆⵠ] = [];
+    ΔΔ[416][Xr.ⲆᐃΔ].push(pr(od(1.1, 0, ["#123d38", "#70e0dd", "#95efea"])));
+    ΔΔ[416][Xr.ⲆᐃΔ].push(pr(od(0.9, 0, ["#123d38", "#70e0dd", "#95efea"])));
+    ΔΔ[416][Xr.ⲆᐃΔ].push(pr(od(0.7, 0, ["#123d38", "#70e0dd", "#95efea"])));
+    ΔΔ[416][Xr.ΔⲆⵠ].push(pr(od(1.1, 0, ["#123d38", "#47b2ac", "#5cccc4"])));
+    ΔΔ[416][Xr.ΔⲆⵠ].push(pr(od(0.9, 0, ["#123d38", "#47b2ac", "#5cccc4"])));
+    ΔΔ[416][Xr.ΔⲆⵠ].push(pr(od(0.7, 0, ["#123d38", "#47b2ac", "#5cccc4"])));
+    ΔΔ[121] = [];
+    ΔΔ[121][Xr.ⲆᐃΔ] = [];
+    ΔΔ[121][Xr.ΔⲆⵠ] = [];
+    ΔΔ[121][Xr.ⲆᐃΔ].push(pr(Jc(1.7, y, ["#1d051e", "#c27add", "#cd98e5"])));
+    ΔΔ[121][Xr.ⲆᐃΔ].push(pr(Jc(1.5, un, ["#1d051e", "#c27add", "#cd98e5"])));
+    ΔΔ[121][Xr.ⲆᐃΔ].push(pr(Jc(1.3, true, ["#1d051e", "#c27add", "#cd98e5"])));
+    ΔΔ[121][Xr.ΔⲆⵠ].push(pr(Jc(1.7, true, ["#1d051e", "#41aaa0", "#5cccc4"])));
+    ΔΔ[121][Xr.ΔⲆⵠ].push(pr(Jc(1.5, true, ["#1d051e", "#41aaa0", "#5cccc4"])));
+    ΔΔ[121][Xr.ΔⲆⵠ].push(pr(Jc(1.3, _g, ["#1d051e", "#41aaa0", "#5cccc4"])));
+    ΔΔ[678] = [];
+    ΔΔ[678][Xr.ⲆᐃΔ] = [];
+    ΔΔ[678][Xr.ΔⲆⵠ] = [];
+    ΔΔ[678][Xr.ⲆᐃΔ].push(pr($d(1, ["#2d53c4"])));
+    ΔΔ[678][Xr.ΔⲆⵠ].push(pr($d(1, ["#2d53c4"])));
+    ΔΔ[696] = [];
+    ΔΔ[696][Xr.ⲆᐃΔ] = [];
+    ΔΔ[696][Xr.ΔⲆⵠ] = [];
+    ΔΔ[696][Xr.ⲆᐃΔ].push(pr($d(1, ["#c4912d"])));
+    ΔΔ[696][Xr.ΔⲆⵠ].push(pr($d(1, ["#c4912d"])));
+    ΔΔ[680] = [];
+    ΔΔ[680][Xr.ⲆᐃΔ] = pr(Cm(1, ["#414040"]));
+    ΔΔ[680][Xr.ΔⲆⵠ] = pr(Cm(1, ["#153635"]));
+    ΔΔ[508] = [];
+    ΔΔ[508][Xr.ⲆᐃΔ] = pr(Kd(1, false, ["#EBF2F0", "#EBF2F0", "#b2d4d1", "#b2d4d1", "#EBF2F0", "#b2d4d1"]));
+    ΔΔ[508][Xr.ΔⲆⵠ] = pr(Kd(1, false, ["#136167", "#136167", "#24878f", "#24878f", "#136167", "#24878f"]));
+    ΔΔ[509] = [];
+    ΔΔ[509][Xr.ⲆᐃΔ] = pr(Md(Te * 1, Jn, ["#EBF2F0", "#EBF2F0", "#b2d4d1", "#b2d4d1", "#EBF2F0", "#b2d4d1"]));
+    ΔΔ[509][Xr.ΔⲆⵠ] = pr(Md(1, false, ["#136167", "#136167", "#24878f", "#24878f", "#136167", "#24878f"]));
+    ΔΔ[512] = [];
+    ΔΔ[512][Xr.ⲆᐃΔ] = pr(Md(1, Qg, ["#EBF2F0", "#EBF2F0", "#b2d4d1", "#b2d4d1", "#EBF2F0", "#b2d4d1"]));
+    ΔΔ[512][Xr.ΔⲆⵠ] = pr(Md(1, false, ["#136167", "#136167", "#24878f", "#24878f", "#136167", "#24878f"]));
+    ΔΔ[511] = [];
+    ΔΔ[511][Xr.ⲆᐃΔ] = pr(Ec(1, Tk, ["#EBF2F0", "#EBF2F0", "#b2d4d1", "#b2d4d1", "#EBF2F0", "#b2d4d1"]));
+    ΔΔ[511][Xr.ΔⲆⵠ] = pr(Ec(1, false, ["#136167", "#136167", "#24878f", "#24878f", "#136167", "#24878f"]));
+    ΔΔ[510] = [];
+    ΔΔ[510][Xr.ⲆᐃΔ] = pr(ym(pu * 1, xo, ["#EBF2F0", "#EBF2F0", "#b2d4d1", "#b2d4d1", "#EBF2F0", "#b2d4d1"]));
+    ΔΔ[510][Xr.ΔⲆⵠ] = pr(ym(au * 1, Ag, ["#136167", "#136167", "#24878f", "#24878f", "#136167", "#24878f"]));
+    ΔΔ[419] = [];
+    ΔΔ[419][Xr.ⲆᐃΔ] = pr(Id(0.9, ["#1d051e", "#ffffff", "#c41c50", "#2c2e2d", "#c63450", "#f7e7f0"]));
+    ΔΔ[419][Xr.ΔⲆⵠ] = pr(Id(0.9, ["#123d38", "#1a847f", "#200333", "#131919", "#01333a", "#b6f2db"]));
+    ΔΔ[445] = [];
+    ΔΔ[445][Xr.ⲆᐃΔ] = pr($c(0.9, ["#1d051e", "#ffffff", "#c41c50", "#c63450", "#ffffff", "#f7e7f0", "#2b2d2d"]));
+    ΔΔ[445][Xr.ΔⲆⵠ] = pr($c(0.9, ["#123d38", "#1a847f", "#200333", "#01333a", "#ffffff", "#b6f2db", "#2b2d2d"]));
+    ΔΔ[259] = [];
+    ΔΔ[818] = [];
+    ΔΔ[516] = [];
+    ΔΔ[819] = [];
     for (a = os; xq > a; a++) {
-      ΔΔ[Xr.ⲆⲆⵠⵠⵠⲆΔ][a] = document.createElement("canvas");
-      ΔΔ[Xr.ⲆⲆⵠⵠⵠⲆΔ][a].width = 193;
-      ΔΔ[Xr.ⲆⲆⵠⵠⵠⲆΔ][a].height = 193;
-      ΔΔ[Xr.ΔⵠⲆⵠΔ][a] = ΔΔ[Xr.ⲆⲆⵠⵠⵠⲆΔ][a].getContext("2d");
-      ΔΔ[Xr.ⲆⵠᐃΔⲆΔⲆ][a] = document.createElement("canvas");
-      ΔΔ[Xr.ⲆⵠᐃΔⲆΔⲆ][a].width = 600;
-      ΔΔ[Xr.ⲆⵠᐃΔⲆΔⲆ][a].height = 600;
-      ΔΔ[Xr.ΔΔⵠᐃⵠ][a] = ΔΔ[Xr.ⲆⵠᐃΔⲆΔⲆ][a].getContext("2d");
+      ΔΔ[259][a] = document.createElement("canvas");
+      ΔΔ[259][a].width = 193;
+      ΔΔ[259][a].height = 193;
+      ΔΔ[818][a] = ΔΔ[259][a].getContext("2d");
+      ΔΔ[516][a] = document.createElement("canvas");
+      ΔΔ[516][a].width = 600;
+      ΔΔ[516][a].height = 600;
+      ΔΔ[819][a] = ΔΔ[516][a].getContext("2d");
     }
-    ΔΔ[Xr.ᐃᐃⵠᐃᐃᐃΔ] = [];
-    ΔΔ[Xr.ᐃᐃⵠᐃᐃᐃΔ][Xr.ⲆᐃΔ] = pr(Cm(1, ["#c8e0de"]));
-    ΔΔ[Xr.ᐃᐃⵠᐃᐃᐃΔ][Xr.ΔⲆⵠ] = pr(Cm(1, ["#147071"]));
-    ΔΔ[Xr.ΔΔᐃΔᐃⲆᐃ] = [];
-    ΔΔ[Xr.ΔΔᐃΔᐃⲆᐃ][Xr.ⲆᐃΔ] = pr(Cm(1, ["#231912"]));
-    ΔΔ[Xr.ΔΔᐃΔᐃⲆᐃ][Xr.ΔⲆⵠ] = pr(Cm(1, ["#021719"]));
-    ΔΔ[Xr.ᐃⵠⵠⵠᐃⵠⵠ] = pr(function (a, b) {
+    ΔΔ[475] = [];
+    ΔΔ[475][Xr.ⲆᐃΔ] = pr(Cm(1, ["#c8e0de"]));
+    ΔΔ[475][Xr.ΔⲆⵠ] = pr(Cm(1, ["#147071"]));
+    ΔΔ[476] = [];
+    ΔΔ[476][Xr.ⲆᐃΔ] = pr(Cm(1, ["#231912"]));
+    ΔΔ[476][Xr.ΔⲆⵠ] = pr(Cm(1, ["#021719"]));
+    ΔΔ[697] = pr(function (a, b) {
       var c = document.createElement("canvas");
       var d = c.getContext("2d");
       c.width = a * 253;
@@ -26229,7 +26229,7 @@
       db(d, b[0]);
       return c;
     }(0.5, ["#BB0000"]));
-    ΔΔ[Xr.ⲆᐃⲆⵠᐃᐃΔ] = pr(function (a, b) {
+    ΔΔ[461] = pr(function (a, b) {
       var c = document.createElement("canvas");
       var e = c.getContext("2d");
       c.width = a * 161;
@@ -26280,7 +26280,7 @@
       db(e, b, b, a * 4);
       return c;
     }(0.9, "#BB0000"));
-    ΔΔ[Xr.ⲆΔΔⲆᐃⲆⵠ] = pr(function (a, b) {
+    ΔΔ[462] = pr(function (a, b) {
       var c = document.createElement("canvas");
       var d = c.getContext("2d");
       c.width = a * 147;
@@ -26313,7 +26313,7 @@
       db(d, b, b, a * 4);
       return c;
     }(0.9, "#BB0000"));
-    ΔΔ[Xr.ⵠⲆⵠᐃⲆⵠᐃ] = pr(function (a, b) {
+    ΔΔ[463] = pr(function (a, b) {
       var c = document.createElement("canvas");
       var d = c.getContext("2d");
       c.width = a * 271;
@@ -26442,7 +26442,7 @@
       db(d, b[0]);
       return c;
     }(Tl * 1, ["#BB0000"]));
-    ΔΔ[Xr.ΔᐃΔΔΔΔᐃ] = pr(function (a, b) {
+    ΔΔ[466] = pr(function (a, b) {
       var c = document.createElement("canvas");
       var d = c.getContext("2d");
       c.width = a * 85;
@@ -26483,7 +26483,7 @@
       db(d, b);
       return c;
     }(0.8, "#BB0000"));
-    ΔΔ[Xr.ⲆⵠΔⲆΔᐃΔ] = pr(function (a, b) {
+    ΔΔ[467] = pr(function (a, b) {
       var c = document.createElement("canvas");
       var d = c.getContext("2d");
       c.width = a * 85;
@@ -26525,7 +26525,7 @@
       db(d, b);
       return c;
     }(0.8, "#BB0000"));
-    ΔΔ[Xr.ⵠᐃⵠᐃⵠⵠᐃ] = pr(function (b, c) {
+    ΔΔ[322] = pr(function (b, c) {
       var d = document.createElement("canvas");
       var e = d.getContext("2d");
       var f = b * 85;
@@ -26548,81 +26548,81 @@
       db(e, c, c, h);
       return d;
     }(0.9, "#BB0000"));
-    ΔΔ[Xr.ⲆᐃⲆⵠ] = pr(zb(0.6, "#BB0000"));
-    ΔΔ[Xr.ᐃᐃⵠⵠᐃ] = pr(zb(0.6, "#1CE7E0"));
-    ΔΔ[Xr.ᐃᐃⲆΔⲆⵠⲆ] = pr(zb(0.6, "#DBE71C"));
-    ΔΔ[Xr.ⲆᐃᐃⲆΔΔΔ] = pr(zb(0.6, "#00BB00"));
-    ΔΔ[Xr.ⵠΔⲆⲆⲆⵠⲆ] = [];
-    ΔΔ[Xr.ⵠΔⲆⲆⲆⵠⲆ][Xr.ⲆᐃΔ] = pr(Cm(1, ["#dac291"]));
-    ΔΔ[Xr.ⵠΔⲆⲆⲆⵠⲆ][Xr.ΔⲆⵠ] = pr(Cm(1, ["#0D423D"]));
-    ΔΔ[Xr.ⵠᐃⵠᐃᐃⵠᐃ] = [];
-    ΔΔ[Xr.ⵠᐃⵠᐃᐃⵠᐃ][Xr.ⲆᐃΔ] = pr(Cm(1, ["#dac291"]));
-    ΔΔ[Xr.ⵠᐃⵠᐃᐃⵠᐃ][Xr.ΔⲆⵠ] = pr(Cm(1, ["#0D423D"]));
-    ΔΔ[Xr.ᐃⵠΔⲆᐃᐃΔ] = [];
-    ΔΔ[Xr.ᐃⵠΔⲆᐃᐃΔ][Xr.ⲆᐃΔ] = pr(Mc(0.3, true, ["#1e2021", "#717273", "#606162", "#a09f9f", "#878787", "#1a6470"]));
-    ΔΔ[Xr.ᐃⵠΔⲆᐃᐃΔ][Xr.ΔⲆⵠ] = pr(Mc(0.3, true, ["#1e2021", "#1a4545", "#163a3a", "#245d5d", "#1f5454", "#09373F"]));
-    ΔΔ[Xr.ᐃⲆΔⲆᐃᐃΔ] = [];
-    ΔΔ[Xr.ᐃⲆΔⲆᐃᐃΔ][Xr.ⲆᐃΔ] = pr(Mc(0.3, xk, ["#1e2021", "#717273", "#606162", "#a09f9f", "#878787", "#454545"]));
-    ΔΔ[Xr.ᐃⲆΔⲆᐃᐃΔ][Xr.ΔⲆⵠ] = pr(Mc(0.3, _g, ["#1e2021", "#1a4545", "#163a3a", "#245d5d", "#1f5454", "#0b2121"]));
-    ΔΔ[Xr.ΔᐃᐃⵠΔ] = [pr(Ac(1, true, ["#C6AF81", "#C98435", "#B26F31", "#53A4D5", "#388AC7", "#C1C0C0", "#EAEAEA"]))];
-    ΔΔ[Xr.ᐃⲆⵠΔᐃ] = [pr(Ac(1, Tg, ["#C6AF81", "#C98435", "#B26F31", "#53A4D5", "#388AC7", "#C1C0C0", "#EAEAEA"]))];
-    ΔΔ[Xr.ᐃᐃⲆΔΔ] = [];
-    ΔΔ[Xr.ᐃᐃⲆΔΔ][Xr.ⲆᐃΔ] = [];
-    ΔΔ[Xr.ᐃᐃⲆΔΔ][Xr.ΔⲆⵠ] = [];
-    ΔΔ[Xr.ᐃᐃⲆΔΔ][Xr.ⲆᐃΔ].push(pr(_d(1, ["#0B6A84"])));
-    ΔΔ[Xr.ᐃᐃⲆΔΔ][Xr.ⲆᐃΔ].push(pr(kc(Te * 1, ["#0B6A84"])));
-    ΔΔ[Xr.ᐃᐃⲆΔΔ][Xr.ⲆᐃΔ].push(pr(rc(wt * 1, ["#0B6A84"])));
-    ΔΔ[Xr.ᐃᐃⲆΔΔ][Xr.ⲆᐃΔ].push(pr(mm(gs * 1, ["#0B6A84"])));
-    ΔΔ[Xr.ᐃᐃⲆΔΔ][Xr.ⲆᐃΔ].push(pr(sm(pu * 1, ["#0B6A84"])));
-    ΔΔ[Xr.ᐃᐃⲆΔΔ][Xr.ⲆᐃΔ].push(pr(jc(Tl * 1, ["#0B6A84"])));
-    ΔΔ[Xr.ᐃᐃⲆΔΔ][Xr.ⲆᐃΔ].push(pr(yc(Xn * 1, ["#0B6A84"])));
-    ΔΔ[Xr.ᐃᐃⲆΔΔ][Xr.ΔⲆⵠ].push(pr(_d(1, ["#09373F"])));
-    ΔΔ[Xr.ᐃᐃⲆΔΔ][Xr.ΔⲆⵠ].push(pr(kc(1, ["#09373F"])));
-    ΔΔ[Xr.ᐃᐃⲆΔΔ][Xr.ΔⲆⵠ].push(pr(rc(mk * 1, ["#09373F"])));
-    ΔΔ[Xr.ᐃᐃⲆΔΔ][Xr.ΔⲆⵠ].push(pr(mm(1, ["#09373F"])));
-    ΔΔ[Xr.ᐃᐃⲆΔΔ][Xr.ΔⲆⵠ].push(pr(sm(Te * 1, ["#09373F"])));
-    ΔΔ[Xr.ᐃᐃⲆΔΔ][Xr.ΔⲆⵠ].push(pr(jc(1, ["#09373F"])));
-    ΔΔ[Xr.ᐃᐃⲆΔΔ][Xr.ΔⲆⵠ].push(pr(yc(Oq * 1, ["#09373F"])));
-    ΔΔ[Xr.ⲆⲆⵠⲆᐃ] = [];
-    ΔΔ[Xr.ⲆⲆⵠⲆᐃ][Xr.ⲆᐃΔ] = [];
-    ΔΔ[Xr.ⲆⲆⵠⲆᐃ][Xr.ΔⲆⵠ] = [];
-    ΔΔ[Xr.ⲆⲆⵠⲆᐃ][Xr.ⲆᐃΔ].push(pr(im(1.7, ["#FBEFBC"], 0)));
-    ΔΔ[Xr.ⲆⲆⵠⲆᐃ][Xr.ⲆᐃΔ].push(pr(im(1.9, ["#FBEFBC"], 1)));
-    ΔΔ[Xr.ⲆⲆⵠⲆᐃ][Xr.ⲆᐃΔ].push(pr(im(1.7, ["#FBEFBC"], 2)));
-    ΔΔ[Xr.ⲆⲆⵠⲆᐃ][Xr.ΔⲆⵠ].push(pr(im(1.7, ["#0F4C48"], Ih)));
-    ΔΔ[Xr.ⲆⲆⵠⲆᐃ][Xr.ΔⲆⵠ].push(pr(im(1.9, ["#0F4C48"], zg)));
-    ΔΔ[Xr.ⲆⲆⵠⲆᐃ][Xr.ΔⲆⵠ].push(pr(im(1.7, ["#0F4C48"], 2)));
-    ΔΔ[Xr.ⵠΔⵠⲆⵠ] = [];
-    ΔΔ[Xr.ⵠΔⵠⲆⵠ][Xr.ⲆᐃΔ] = [];
-    ΔΔ[Xr.ⵠΔⵠⲆⵠ][Xr.ΔⲆⵠ] = [];
-    ΔΔ[Xr.ⵠΔⵠⲆⵠ][Xr.ⲆᐃΔ].push(pr(im(1.8, ["#A9D6D3"], 0)));
-    ΔΔ[Xr.ⵠΔⵠⲆⵠ][Xr.ⲆᐃΔ].push(pr(im(2, ["#A9D6D3"], Oq)));
-    ΔΔ[Xr.ⵠΔⵠⲆⵠ][Xr.ⲆᐃΔ].push(pr(im(1.8, ["#A9D6D3"], xj)));
-    ΔΔ[Xr.ⵠΔⵠⲆⵠ][Xr.ΔⲆⵠ].push(pr(im(1.8, ["#115E60"], 0)));
-    ΔΔ[Xr.ⵠΔⵠⲆⵠ][Xr.ΔⲆⵠ].push(pr(im(2, ["#115E60"], 1)));
-    ΔΔ[Xr.ⵠΔⵠⲆⵠ][Xr.ΔⲆⵠ].push(pr(im(1.8, ["#115E60"], pq)));
-    ΔΔ[Xr.ⵠⵠⵠᐃⲆ] = [];
-    ΔΔ[Xr.ⵠⵠⵠᐃⲆ][Xr.ⲆᐃΔ] = [];
-    ΔΔ[Xr.ⵠⵠⵠᐃⲆ][Xr.ΔⲆⵠ] = [];
-    ΔΔ[Xr.ⵠⵠⵠᐃⲆ][Xr.ⲆᐃΔ].push(pr(im(1.9, ["#2A8B9B"], Bb)));
-    ΔΔ[Xr.ⵠⵠⵠᐃⲆ][Xr.ⲆᐃΔ].push(pr(im(2.1, ["#2A8B9B"], $b)));
-    ΔΔ[Xr.ⵠⵠⵠᐃⲆ][Xr.ⲆᐃΔ].push(pr(im(1.9, ["#2A8B9B"], 2)));
-    ΔΔ[Xr.ⵠⵠⵠᐃⲆ][Xr.ΔⲆⵠ].push(pr(im(1.9, ["#0F464C"], st)));
-    ΔΔ[Xr.ⵠⵠⵠᐃⲆ][Xr.ΔⲆⵠ].push(pr(im(2.1, ["#0F464C"], 1)));
-    ΔΔ[Xr.ⵠⵠⵠᐃⲆ][Xr.ΔⲆⵠ].push(pr(im(1.9, ["#0F464C"], Rl)));
-    ΔΔ[Xr.ΔᐃᐃΔⵠ] = [];
-    ΔΔ[Xr.ΔᐃᐃΔⵠ][Xr.ⲆᐃΔ] = [];
-    ΔΔ[Xr.ΔᐃᐃΔⵠ][Xr.ΔⲆⵠ] = [];
-    ΔΔ[Xr.ΔᐃᐃΔⵠ][Xr.ⲆᐃΔ].push(pr(xc(0.8, ["#231F20", "#0c8e5b", "#037542", "#077b49"])));
-    ΔΔ[Xr.ΔᐃᐃΔⵠ][Xr.ⲆᐃΔ].push(pr(xc($b * 1, ["#231F20", "#0c8e5b", "#037542", "#077b49"])));
-    ΔΔ[Xr.ΔᐃᐃΔⵠ][Xr.ⲆᐃΔ].push(pr(xc(1.2, ["#231F20", "#0c8e5b", "#037542", "#077b49"])));
-    ΔΔ[Xr.ΔᐃᐃΔⵠ][Xr.ΔⲆⵠ].push(pr(xc(0.8, ["#041e22", "#124949", "#0e3838", "#0a4049"])));
-    ΔΔ[Xr.ΔᐃᐃΔⵠ][Xr.ΔⲆⵠ].push(pr(xc(1, ["#041e22", "#124949", "#0e3838", "#0a4049"])));
-    ΔΔ[Xr.ΔᐃᐃΔⵠ][Xr.ΔⲆⵠ].push(pr(xc(1.2, ["#041e22", "#124949", "#0e3838", "#0a4049"])));
-    ΔΔ[Xr.ⲆⲆᐃⲆᐃ] = [];
-    ΔΔ[Xr.ⲆⲆᐃⲆᐃ][Xr.ⲆᐃΔ] = pr(zc(0.8, ["#1e2021", "#B6222A", "#201851", "#342C7C", "#F4F4F4", "#D3D3D3", "#6765CE", "#593CC6", "#433BAD", "#342C7C", "#052830", "#EAEAEA", "#B6222A", "#FFFFFF"]));
-    ΔΔ[Xr.ⲆⲆᐃⲆᐃ][Xr.ΔⲆⵠ] = pr(zc(0.8, ["#0c0c0d", "#462966", "#081B2D", "#342C7C", "#9AAAAD", "#72898C", "#133556", "#296D9B", "#25557C", "#133556", "#0D2A42", "#EAEAEA", "#462966", "#72898C"]));
-    ΔΔ[Xr.ΔⲆᐃᐃⲆⲆⵠ] = pr(function (a, b) {
+    ΔΔ[279] = pr(zb(0.6, "#BB0000"));
+    ΔΔ[280] = pr(zb(0.6, "#1CE7E0"));
+    ΔΔ[281] = pr(zb(0.6, "#DBE71C"));
+    ΔΔ[308] = pr(zb(0.6, "#00BB00"));
+    ΔΔ[602] = [];
+    ΔΔ[602][Xr.ⲆᐃΔ] = pr(Cm(1, ["#dac291"]));
+    ΔΔ[602][Xr.ΔⲆⵠ] = pr(Cm(1, ["#0D423D"]));
+    ΔΔ[698] = [];
+    ΔΔ[698][Xr.ⲆᐃΔ] = pr(Cm(1, ["#dac291"]));
+    ΔΔ[698][Xr.ΔⲆⵠ] = pr(Cm(1, ["#0D423D"]));
+    ΔΔ[788] = [];
+    ΔΔ[788][Xr.ⲆᐃΔ] = pr(Mc(0.3, true, ["#1e2021", "#717273", "#606162", "#a09f9f", "#878787", "#1a6470"]));
+    ΔΔ[788][Xr.ΔⲆⵠ] = pr(Mc(0.3, true, ["#1e2021", "#1a4545", "#163a3a", "#245d5d", "#1f5454", "#09373F"]));
+    ΔΔ[182] = [];
+    ΔΔ[182][Xr.ⲆᐃΔ] = pr(Mc(0.3, xk, ["#1e2021", "#717273", "#606162", "#a09f9f", "#878787", "#454545"]));
+    ΔΔ[182][Xr.ΔⲆⵠ] = pr(Mc(0.3, _g, ["#1e2021", "#1a4545", "#163a3a", "#245d5d", "#1f5454", "#0b2121"]));
+    ΔΔ[127] = [pr(Ac(1, true, ["#C6AF81", "#C98435", "#B26F31", "#53A4D5", "#388AC7", "#C1C0C0", "#EAEAEA"]))];
+    ΔΔ[128] = [pr(Ac(1, Tg, ["#C6AF81", "#C98435", "#B26F31", "#53A4D5", "#388AC7", "#C1C0C0", "#EAEAEA"]))];
+    ΔΔ[603] = [];
+    ΔΔ[603][Xr.ⲆᐃΔ] = [];
+    ΔΔ[603][Xr.ΔⲆⵠ] = [];
+    ΔΔ[603][Xr.ⲆᐃΔ].push(pr(_d(1, ["#0B6A84"])));
+    ΔΔ[603][Xr.ⲆᐃΔ].push(pr(kc(Te * 1, ["#0B6A84"])));
+    ΔΔ[603][Xr.ⲆᐃΔ].push(pr(rc(wt * 1, ["#0B6A84"])));
+    ΔΔ[603][Xr.ⲆᐃΔ].push(pr(mm(gs * 1, ["#0B6A84"])));
+    ΔΔ[603][Xr.ⲆᐃΔ].push(pr(sm(pu * 1, ["#0B6A84"])));
+    ΔΔ[603][Xr.ⲆᐃΔ].push(pr(jc(Tl * 1, ["#0B6A84"])));
+    ΔΔ[603][Xr.ⲆᐃΔ].push(pr(yc(Xn * 1, ["#0B6A84"])));
+    ΔΔ[603][Xr.ΔⲆⵠ].push(pr(_d(1, ["#09373F"])));
+    ΔΔ[603][Xr.ΔⲆⵠ].push(pr(kc(1, ["#09373F"])));
+    ΔΔ[603][Xr.ΔⲆⵠ].push(pr(rc(mk * 1, ["#09373F"])));
+    ΔΔ[603][Xr.ΔⲆⵠ].push(pr(mm(1, ["#09373F"])));
+    ΔΔ[603][Xr.ΔⲆⵠ].push(pr(sm(Te * 1, ["#09373F"])));
+    ΔΔ[603][Xr.ΔⲆⵠ].push(pr(jc(1, ["#09373F"])));
+    ΔΔ[603][Xr.ΔⲆⵠ].push(pr(yc(Oq * 1, ["#09373F"])));
+    ΔΔ[692] = [];
+    ΔΔ[692][Xr.ⲆᐃΔ] = [];
+    ΔΔ[692][Xr.ΔⲆⵠ] = [];
+    ΔΔ[692][Xr.ⲆᐃΔ].push(pr(im(1.7, ["#FBEFBC"], 0)));
+    ΔΔ[692][Xr.ⲆᐃΔ].push(pr(im(1.9, ["#FBEFBC"], 1)));
+    ΔΔ[692][Xr.ⲆᐃΔ].push(pr(im(1.7, ["#FBEFBC"], 2)));
+    ΔΔ[692][Xr.ΔⲆⵠ].push(pr(im(1.7, ["#0F4C48"], Ih)));
+    ΔΔ[692][Xr.ΔⲆⵠ].push(pr(im(1.9, ["#0F4C48"], zg)));
+    ΔΔ[692][Xr.ΔⲆⵠ].push(pr(im(1.7, ["#0F4C48"], 2)));
+    ΔΔ[694] = [];
+    ΔΔ[694][Xr.ⲆᐃΔ] = [];
+    ΔΔ[694][Xr.ΔⲆⵠ] = [];
+    ΔΔ[694][Xr.ⲆᐃΔ].push(pr(im(1.8, ["#A9D6D3"], 0)));
+    ΔΔ[694][Xr.ⲆᐃΔ].push(pr(im(2, ["#A9D6D3"], Oq)));
+    ΔΔ[694][Xr.ⲆᐃΔ].push(pr(im(1.8, ["#A9D6D3"], xj)));
+    ΔΔ[694][Xr.ΔⲆⵠ].push(pr(im(1.8, ["#115E60"], 0)));
+    ΔΔ[694][Xr.ΔⲆⵠ].push(pr(im(2, ["#115E60"], 1)));
+    ΔΔ[694][Xr.ΔⲆⵠ].push(pr(im(1.8, ["#115E60"], pq)));
+    ΔΔ[695] = [];
+    ΔΔ[695][Xr.ⲆᐃΔ] = [];
+    ΔΔ[695][Xr.ΔⲆⵠ] = [];
+    ΔΔ[695][Xr.ⲆᐃΔ].push(pr(im(1.9, ["#2A8B9B"], Bb)));
+    ΔΔ[695][Xr.ⲆᐃΔ].push(pr(im(2.1, ["#2A8B9B"], $b)));
+    ΔΔ[695][Xr.ⲆᐃΔ].push(pr(im(1.9, ["#2A8B9B"], 2)));
+    ΔΔ[695][Xr.ΔⲆⵠ].push(pr(im(1.9, ["#0F464C"], st)));
+    ΔΔ[695][Xr.ΔⲆⵠ].push(pr(im(2.1, ["#0F464C"], 1)));
+    ΔΔ[695][Xr.ΔⲆⵠ].push(pr(im(1.9, ["#0F464C"], Rl)));
+    ΔΔ[693] = [];
+    ΔΔ[693][Xr.ⲆᐃΔ] = [];
+    ΔΔ[693][Xr.ΔⲆⵠ] = [];
+    ΔΔ[693][Xr.ⲆᐃΔ].push(pr(xc(0.8, ["#231F20", "#0c8e5b", "#037542", "#077b49"])));
+    ΔΔ[693][Xr.ⲆᐃΔ].push(pr(xc($b * 1, ["#231F20", "#0c8e5b", "#037542", "#077b49"])));
+    ΔΔ[693][Xr.ⲆᐃΔ].push(pr(xc(1.2, ["#231F20", "#0c8e5b", "#037542", "#077b49"])));
+    ΔΔ[693][Xr.ΔⲆⵠ].push(pr(xc(0.8, ["#041e22", "#124949", "#0e3838", "#0a4049"])));
+    ΔΔ[693][Xr.ΔⲆⵠ].push(pr(xc(1, ["#041e22", "#124949", "#0e3838", "#0a4049"])));
+    ΔΔ[693][Xr.ΔⲆⵠ].push(pr(xc(1.2, ["#041e22", "#124949", "#0e3838", "#0a4049"])));
+    ΔΔ[637] = [];
+    ΔΔ[637][Xr.ⲆᐃΔ] = pr(zc(0.8, ["#1e2021", "#B6222A", "#201851", "#342C7C", "#F4F4F4", "#D3D3D3", "#6765CE", "#593CC6", "#433BAD", "#342C7C", "#052830", "#EAEAEA", "#B6222A", "#FFFFFF"]));
+    ΔΔ[637][Xr.ΔⲆⵠ] = pr(zc(0.8, ["#0c0c0d", "#462966", "#081B2D", "#342C7C", "#9AAAAD", "#72898C", "#133556", "#296D9B", "#25557C", "#133556", "#0D2A42", "#EAEAEA", "#462966", "#72898C"]));
+    ΔΔ[687] = pr(function (a, b) {
       var c = document.createElement("canvas");
       var d = c.getContext("2d");
       c.width = a * 376;
@@ -26662,10 +26662,10 @@
       db(d, b[eu], b[0], a * 12);
       return c;
     }(0.8, ["#B6222A"]));
-    ΔΔ[Xr.ⲆⲆᐃⲆⵠ] = [];
-    ΔΔ[Xr.ⲆⲆᐃⲆⵠ][Xr.ⲆᐃΔ] = pr(bd(0.8, 0, ["#1e2021", "#961B1B", "#702727", "#C43B3B", "#d15151", "#B71C1C", "#E8E8E8", "#752E2E", "#891818"]));
-    ΔΔ[Xr.ⲆⲆᐃⲆⵠ][Xr.ΔⲆⵠ] = pr(bd(0.8, 0, ["#0c0c0d", "#21112D", "#281A49", "#462966", "#321C56", "#1C073D", "#FFFFFF", "#1C0833", "#1B1238"]));
-    ΔΔ[Xr.ᐃⲆⲆⵠⵠᐃᐃ] = pr(function (a, b) {
+    ΔΔ[673] = [];
+    ΔΔ[673][Xr.ⲆᐃΔ] = pr(bd(0.8, 0, ["#1e2021", "#961B1B", "#702727", "#C43B3B", "#d15151", "#B71C1C", "#E8E8E8", "#752E2E", "#891818"]));
+    ΔΔ[673][Xr.ΔⲆⵠ] = pr(bd(0.8, 0, ["#0c0c0d", "#21112D", "#281A49", "#462966", "#321C56", "#1C073D", "#FFFFFF", "#1C0833", "#1B1238"]));
+    ΔΔ[688] = pr(function (a, b) {
       var c = document.createElement("canvas");
       var d = c.getContext("2d");
       c.width = a * 158;
@@ -26752,76 +26752,76 @@
       db(d, b[Zj], b[0], a * Lb);
       return c;
     }(0.8, ["#B6222A"]));
-    ΔΔ[Xr.ᐃⲆΔⵠⲆᐃⲆ] = [];
-    ΔΔ[Xr.ᐃⲆΔⵠⲆᐃⲆ][Xr.ⲆᐃΔ] = pr(Sb(0.4, 0, ["#1e2021", "#db6f26", "#ffffff", "#000000", "#833813"], 0));
-    ΔΔ[Xr.ᐃⲆΔⵠⲆᐃⲆ][Xr.ΔⲆⵠ] = pr(Sb(0.4, 0, ["#0c0c0d", "#21112D", "#281A49", "#462966"], wj));
-    ΔΔ[Xr.ⵠⲆⵠⲆΔᐃᐃ] = [];
-    ΔΔ[Xr.ⵠⲆⵠⲆΔᐃᐃ][Xr.ⲆᐃΔ] = pr(Sb(0.4, 0, ["#1e2021", "#d35e35", "#ffffff", "#000000", "#000000"], zg));
-    ΔΔ[Xr.ⵠⲆⵠⲆΔᐃᐃ][Xr.ΔⲆⵠ] = pr(Sb(0.4, 0, ["#0c0c0d", "#21112D", "#281A49", "#462966"], gs));
+    ΔΔ[902] = [];
+    ΔΔ[902][Xr.ⲆᐃΔ] = pr(Sb(0.4, 0, ["#1e2021", "#db6f26", "#ffffff", "#000000", "#833813"], 0));
+    ΔΔ[902][Xr.ΔⲆⵠ] = pr(Sb(0.4, 0, ["#0c0c0d", "#21112D", "#281A49", "#462966"], wj));
+    ΔΔ[903] = [];
+    ΔΔ[903][Xr.ⲆᐃΔ] = pr(Sb(0.4, 0, ["#1e2021", "#d35e35", "#ffffff", "#000000", "#000000"], zg));
+    ΔΔ[903][Xr.ΔⲆⵠ] = pr(Sb(0.4, 0, ["#0c0c0d", "#21112D", "#281A49", "#462966"], gs));
     ΔΔ[Xr.ⲆⵠᐃΔⵠⲆⲆ] = [];
     ΔΔ[Xr.ⲆⵠᐃΔⵠⲆⲆ][Xr.ⲆᐃΔ] = pr(Sb(0.4, 0, ["#1e2021", "#2973a5", "#ffffff", "#ffff00", "#000000", "#03243f", "#f2ec30", "#162f6d"], 0));
     ΔΔ[Xr.ⲆⵠᐃΔⵠⲆⲆ][Xr.ΔⲆⵠ] = pr(Sb(0.4, 0, ["#0c0c0d", "#21112D", "#281A49", "#462966"], Mg));
-    ΔΔ[Xr.ⵠᐃΔΔΔΔΔ] = pr(Qb(0.4, ["#B6222A"]));
-    ΔΔ[Xr.ⵠᐃᐃΔᐃΔΔ] = pr(Qb(0.4, ["#B6222A"]));
+    ΔΔ[904] = pr(Qb(0.4, ["#B6222A"]));
+    ΔΔ[905] = pr(Qb(0.4, ["#B6222A"]));
     ΔΔ[Xr.ᐃⲆᐃⲆⲆΔⵠᐃᐃ] = pr(Qb(0.4, ["#B6222A"]));
-    ΔΔ[Xr.ⵠⲆⵠᐃᐃ] = pr(pd(0.35, true, ["#0d1b1c", "#c04933", "#a33e2b", "#ee593d", "#c04933"]));
-    ΔΔ[Xr.ⲆⵠᐃΔᐃ] = pr(zu(0.35, oa, ["#1e2021", "#ed5f4f", "#ce4545", "#ffffff", "#e2dad7"]));
-    ΔΔ[Xr.ΔΔⲆⲆⲆΔᐃ] = [];
-    ΔΔ[Xr.ΔΔⲆⲆⲆΔᐃ][Xr.ⲆᐃΔ] = pr(ru(0.35, 0, ["#1e2021", "#e45936", "#B6222A", "#B6222A", "#FFFFFF"], 1));
-    ΔΔ[Xr.ΔΔⲆⲆⲆΔᐃ][Xr.ΔⲆⵠ] = pr(ru(0.35, 0, ["#0c0c0d", "#613577", "#462966", "#1C073D", "#FFFFFF"], 1));
-    ΔΔ[Xr.ⵠⵠⵠⵠⲆ] = [];
-    ΔΔ[Xr.ⵠⵠⵠⵠⲆ][Xr.ⲆᐃΔ] = pr(ru(0.35, 0, ["#1e2021", "#e45936", "#ffffff", "#181414", "#FFFFFF"], 0));
-    ΔΔ[Xr.ⵠⵠⵠⵠⲆ][Xr.ΔⲆⵠ] = pr(ru(0.35, 0, ["#0c0c0d", "#34255d", "#563f83", "#180f21", "#FFFFFF"], 0));
-    ΔΔ[Xr.ᐃⲆⲆᐃΔⵠᐃ] = [];
-    ΔΔ[Xr.ᐃⲆⲆᐃΔⵠᐃ][Xr.ⲆᐃΔ] = pr(su(0.35, 0, ["#1e2021", "#e45936", "#ffffff"]));
-    ΔΔ[Xr.ᐃⲆⲆᐃΔⵠᐃ][Xr.ΔⲆⵠ] = pr(su(0.35, 0, ["#0c0c0d", "#34255d", "#563f83"]));
-    ΔΔ[Xr.ΔⲆᐃⲆΔᐃΔ] = [];
-    ΔΔ[Xr.ΔⲆᐃⲆΔᐃΔ][Xr.ⲆᐃΔ] = pr(yu(0.42, 0, ["#1e2021", "#e45936", "#ffffff"]));
-    ΔΔ[Xr.ΔⲆᐃⲆΔᐃΔ][Xr.ΔⲆⵠ] = pr(yu(0.42, 0, ["#0c0c0d", "#34255d", "#563f83"]));
-    ΔΔ[Xr.ⵠⵠᐃᐃⵠⲆᐃ] = [];
-    ΔΔ[Xr.ⵠⵠᐃᐃⵠⲆᐃ][Xr.ⲆᐃΔ] = pr(su(0.35, 0, ["#1e2021", "#e45936", "#B6222A"]));
-    ΔΔ[Xr.ⵠⵠᐃᐃⵠⲆᐃ][Xr.ΔⲆⵠ] = pr(su(0.35, 0, ["#0c0c0d", "#613577", "#462966"]));
-    ΔΔ[Xr.ΔⵠᐃⵠᐃⲆⲆ] = [];
-    ΔΔ[Xr.ΔⵠᐃⵠᐃⲆⲆ][Xr.ⲆᐃΔ] = pr(yu(0.42, 0, ["#1e2021", "#e45936", "#B6222A"]));
-    ΔΔ[Xr.ΔⵠᐃⵠᐃⲆⲆ][Xr.ΔⲆⵠ] = pr(yu(0.42, 0, ["#0c0c0d", "#613577", "#462966"]));
-    ΔΔ[Xr.ΔⲆΔⵠᐃᐃⲆ] = pr(wu(0.35, ["#B6222A"]));
-    ΔΔ[Xr.ᐃⲆⵠᐃᐃΔⲆ] = pr(su(0.35, 0, [undefined, "#B6222A"]));
-    ΔΔ[Xr.ⲆΔⲆⲆᐃⵠΔ] = pr(yu(0.35, 0, [cg, "#B6222A"]));
-    ΔΔ[Xr.ⵠΔⵠⵠⲆⲆⲆ] = pr(wu(0.35, ["#22E066"]));
-    ΔΔ[Xr.ΔᐃⵠΔΔⲆⵠ] = pr(su(0.35, 0, [cn, "#22E066"]));
-    ΔΔ[Xr.ᐃⲆⵠᐃᐃᐃⲆ] = pr(yu(0.35, 0, [undefined, "#22E066"]));
-    ΔΔ[Xr.ᐃⲆⵠⲆⲆ] = [];
-    ΔΔ[Xr.ᐃⲆⵠⲆⲆ][Xr.ⲆᐃΔ] = pr(Xc(0.3, true, ["#1e2021", "#65A8B7", "#2E85A0", "#14275B", "#081826", "#1A3163", "#0C1944", "#89C4CE", "#2E85A0"]));
-    ΔΔ[Xr.ᐃⲆⵠⲆⲆ][Xr.ΔⲆⵠ] = pr(Xc(0.3, true, ["#0c0c0d", "#89C9C7", "#469E95", "#092C38", "#072021", "#0E343D", "#071F2D", "#9FD3D3", "#135367"]));
-    ΔΔ[Xr.ᐃⵠⵠⲆΔ] = [];
-    ΔΔ[Xr.ᐃⵠⵠⲆΔ][Xr.ⲆᐃΔ] = pr(Yd(0.45, true, ["#C4BC51", "#B29C32", "#201851", "#652D8E", "#1e2021", "#2E85A0"]));
-    ΔΔ[Xr.ᐃⵠⵠⲆΔ][Xr.ΔⲆⵠ] = pr(Yd(0.45, _g, ["#235050", "#357472", "#081B2D", "#342C7C", "#0c0c0d", "#135367"]));
-    ΔΔ[Xr.ΔΔΔⵠⵠ] = [];
-    ΔΔ[Xr.ΔΔΔⵠⵠ][Xr.ⲆᐃΔ] = pr(Pd(0.63, oa, ["#1e2021", "#352E1E", "#4C3B19", "#574122"]));
-    ΔΔ[Xr.ΔΔΔⵠⵠ][Xr.ΔⲆⵠ] = pr(Pd(0.63, Gj, ["#0c0c0d", "#071f22", "#0d2e33", "#184747"]));
-    ΔΔ[Xr.ⲆᐃⲆᐃⵠ] = [];
-    ΔΔ[Xr.ⲆᐃⲆᐃⵠ][Xr.ⲆᐃΔ] = pr(dd(1, true, ["#1e2021", "#332715", "#4C3B19", "#574122"]));
-    ΔΔ[Xr.ⲆᐃⲆᐃⵠ][Xr.ΔⲆⵠ] = pr(dd(1, ye, ["#0c0c0d", "#071f22", "#0d2e33", "#184747"]));
-    ΔΔ[Xr.ⵠᐃⵠᐃⵠ] = [];
-    ΔΔ[Xr.ⵠᐃⵠᐃⵠ][Xr.ⲆᐃΔ] = Ⲇⵠ.ⲆⵠⵠΔΔᐃⲆᐃᐃ;
-    ΔΔ[Xr.ⵠᐃⵠᐃⵠ][Xr.ΔⲆⵠ] = Ⲇⵠ.ⵠᐃⲆΔⵠΔᐃᐃᐃ;
-    ΔΔ[Xr.ⲆᐃⵠΔΔ] = [];
-    ΔΔ[Xr.ⲆᐃⵠΔΔ][Xr.ⲆᐃΔ] = pr(Db(0.59, 0, ["#0d1b1c", "#44301b", "#57442a", "#523e26"]));
-    ΔΔ[Xr.ⲆᐃⵠΔΔ][Xr.ΔⲆⵠ] = pr(Db(0.59, 0, ["#0c0c0d", "#062124", "#10373d", "#0f3333"]));
-    ΔΔ[Xr.ᐃⲆΔΔᐃⵠᐃ] = [ΔΔ[Xr.ⲆᐃⵠΔΔ]];
-    ΔΔ[Xr.ᐃⲆΔΔᐃⵠᐃ][hb] = [];
-    ΔΔ[Xr.ᐃⲆΔΔᐃⵠᐃ][Ul] = [];
-    ΔΔ[Xr.ᐃⲆΔΔᐃⵠᐃ][1][Xr.ⲆᐃΔ] = pr(Ib(0.59, 0, ["#0d1b1c", "#44301b", "#57442a", "#523e26"]));
-    ΔΔ[Xr.ᐃⲆΔΔᐃⵠᐃ][1][Xr.ΔⲆⵠ] = pr(Ib(0.59, 0, ["#0c0c0d", "#062124", "#10373d", "#0f3333"]));
-    ΔΔ[Xr.ᐃⲆΔΔᐃⵠᐃ][2][Xr.ⲆᐃΔ] = pr(Eb(0.59, 0, ["#0d1b1c", "#44301b", "#57442a", "#523e26"]));
-    ΔΔ[Xr.ᐃⲆΔΔᐃⵠᐃ][H][Xr.ΔⲆⵠ] = pr(Eb(0.59, 0, ["#0c0c0d", "#062124", "#10373d", "#0f3333"]));
-    ΔΔ[Xr.ᐃᐃΔⵠΔ] = [];
-    ΔΔ[Xr.ᐃᐃΔⵠΔ][Xr.ⲆᐃΔ] = pr(wb(3 - Math.PI / H, sc(0.6, _g, ["#1e2021", "#674C2A", "#4C3B19", "#594225", "#1678a2"])));
-    ΔΔ[Xr.ᐃᐃΔⵠΔ][Xr.ΔⲆⵠ] = pr(wb(Wb - Math.PI / rs, sc(0.6, true, ["#0c0c0d", "#07383c", "#0c4e53", "#042b2e", "#0c5975", "#11546c"])));
-    ΔΔ[Xr.ⵠΔΔⵠΔᐃΔ] = [];
-    ΔΔ[Xr.ⵠΔΔⵠΔᐃΔ][Xr.ⲆᐃΔ] = pr(St(0.3, ["#ad8850", "#714f24", "#9f7d4a", "#b38e59", "#8b1008"], 0));
-    ΔΔ[Xr.ⵠΔΔⵠΔᐃΔ][Xr.ΔⲆⵠ] = pr(St(0.3, ["#1F5453", "#123335", "#1D4947", "#1F5453", "#0c2629"], st));
-    ΔΔ[Xr.ᐃⵠΔᐃΔⲆⲆ] = pr(function (a, b) {
+    ΔΔ[230] = pr(pd(0.35, true, ["#0d1b1c", "#c04933", "#a33e2b", "#ee593d", "#c04933"]));
+    ΔΔ[229] = pr(zu(0.35, oa, ["#1e2021", "#ed5f4f", "#ce4545", "#ffffff", "#e2dad7"]));
+    ΔΔ[886] = [];
+    ΔΔ[886][Xr.ⲆᐃΔ] = pr(ru(0.35, 0, ["#1e2021", "#e45936", "#B6222A", "#B6222A", "#FFFFFF"], 1));
+    ΔΔ[886][Xr.ΔⲆⵠ] = pr(ru(0.35, 0, ["#0c0c0d", "#613577", "#462966", "#1C073D", "#FFFFFF"], 1));
+    ΔΔ[887] = [];
+    ΔΔ[887][Xr.ⲆᐃΔ] = pr(ru(0.35, 0, ["#1e2021", "#e45936", "#ffffff", "#181414", "#FFFFFF"], 0));
+    ΔΔ[887][Xr.ΔⲆⵠ] = pr(ru(0.35, 0, ["#0c0c0d", "#34255d", "#563f83", "#180f21", "#FFFFFF"], 0));
+    ΔΔ[894] = [];
+    ΔΔ[894][Xr.ⲆᐃΔ] = pr(su(0.35, 0, ["#1e2021", "#e45936", "#ffffff"]));
+    ΔΔ[894][Xr.ΔⲆⵠ] = pr(su(0.35, 0, ["#0c0c0d", "#34255d", "#563f83"]));
+    ΔΔ[895] = [];
+    ΔΔ[895][Xr.ⲆᐃΔ] = pr(yu(0.42, 0, ["#1e2021", "#e45936", "#ffffff"]));
+    ΔΔ[895][Xr.ΔⲆⵠ] = pr(yu(0.42, 0, ["#0c0c0d", "#34255d", "#563f83"]));
+    ΔΔ[896] = [];
+    ΔΔ[896][Xr.ⲆᐃΔ] = pr(su(0.35, 0, ["#1e2021", "#e45936", "#B6222A"]));
+    ΔΔ[896][Xr.ΔⲆⵠ] = pr(su(0.35, 0, ["#0c0c0d", "#613577", "#462966"]));
+    ΔΔ[897] = [];
+    ΔΔ[897][Xr.ⲆᐃΔ] = pr(yu(0.42, 0, ["#1e2021", "#e45936", "#B6222A"]));
+    ΔΔ[897][Xr.ΔⲆⵠ] = pr(yu(0.42, 0, ["#0c0c0d", "#613577", "#462966"]));
+    ΔΔ[888] = pr(wu(0.35, ["#B6222A"]));
+    ΔΔ[889] = pr(su(0.35, 0, [undefined, "#B6222A"]));
+    ΔΔ[890] = pr(yu(0.35, 0, [cg, "#B6222A"]));
+    ΔΔ[891] = pr(wu(0.35, ["#22E066"]));
+    ΔΔ[892] = pr(su(0.35, 0, [cn, "#22E066"]));
+    ΔΔ[893] = pr(yu(0.35, 0, [undefined, "#22E066"]));
+    ΔΔ[48] = [];
+    ΔΔ[48][Xr.ⲆᐃΔ] = pr(Xc(0.3, true, ["#1e2021", "#65A8B7", "#2E85A0", "#14275B", "#081826", "#1A3163", "#0C1944", "#89C4CE", "#2E85A0"]));
+    ΔΔ[48][Xr.ΔⲆⵠ] = pr(Xc(0.3, true, ["#0c0c0d", "#89C9C7", "#469E95", "#092C38", "#072021", "#0E343D", "#071F2D", "#9FD3D3", "#135367"]));
+    ΔΔ[47] = [];
+    ΔΔ[47][Xr.ⲆᐃΔ] = pr(Yd(0.45, true, ["#C4BC51", "#B29C32", "#201851", "#652D8E", "#1e2021", "#2E85A0"]));
+    ΔΔ[47][Xr.ΔⲆⵠ] = pr(Yd(0.45, _g, ["#235050", "#357472", "#081B2D", "#342C7C", "#0c0c0d", "#135367"]));
+    ΔΔ[141] = [];
+    ΔΔ[141][Xr.ⲆᐃΔ] = pr(Pd(0.63, oa, ["#1e2021", "#352E1E", "#4C3B19", "#574122"]));
+    ΔΔ[141][Xr.ΔⲆⵠ] = pr(Pd(0.63, Gj, ["#0c0c0d", "#071f22", "#0d2e33", "#184747"]));
+    ΔΔ[125] = [];
+    ΔΔ[125][Xr.ⲆᐃΔ] = pr(dd(1, true, ["#1e2021", "#332715", "#4C3B19", "#574122"]));
+    ΔΔ[125][Xr.ΔⲆⵠ] = pr(dd(1, ye, ["#0c0c0d", "#071f22", "#0d2e33", "#184747"]));
+    ΔΔ[221] = [];
+    ΔΔ[221][Xr.ⲆᐃΔ] = Ⲇⵠ.ⲆⵠⵠΔΔᐃⲆᐃᐃ;
+    ΔΔ[221][Xr.ΔⲆⵠ] = Ⲇⵠ.ⵠᐃⲆΔⵠΔᐃᐃᐃ;
+    ΔΔ[190] = [];
+    ΔΔ[190][Xr.ⲆᐃΔ] = pr(Db(0.59, 0, ["#0d1b1c", "#44301b", "#57442a", "#523e26"]));
+    ΔΔ[190][Xr.ΔⲆⵠ] = pr(Db(0.59, 0, ["#0c0c0d", "#062124", "#10373d", "#0f3333"]));
+    ΔΔ[853] = [ΔΔ[190]];
+    ΔΔ[853][hb] = [];
+    ΔΔ[853][Ul] = [];
+    ΔΔ[853][1][Xr.ⲆᐃΔ] = pr(Ib(0.59, 0, ["#0d1b1c", "#44301b", "#57442a", "#523e26"]));
+    ΔΔ[853][1][Xr.ΔⲆⵠ] = pr(Ib(0.59, 0, ["#0c0c0d", "#062124", "#10373d", "#0f3333"]));
+    ΔΔ[853][2][Xr.ⲆᐃΔ] = pr(Eb(0.59, 0, ["#0d1b1c", "#44301b", "#57442a", "#523e26"]));
+    ΔΔ[853][H][Xr.ΔⲆⵠ] = pr(Eb(0.59, 0, ["#0c0c0d", "#062124", "#10373d", "#0f3333"]));
+    ΔΔ[49] = [];
+    ΔΔ[49][Xr.ⲆᐃΔ] = pr(wb(3 - Math.PI / H, sc(0.6, _g, ["#1e2021", "#674C2A", "#4C3B19", "#594225", "#1678a2"])));
+    ΔΔ[49][Xr.ΔⲆⵠ] = pr(wb(Wb - Math.PI / rs, sc(0.6, true, ["#0c0c0d", "#07383c", "#0c4e53", "#042b2e", "#0c5975", "#11546c"])));
+    ΔΔ[728] = [];
+    ΔΔ[728][Xr.ⲆᐃΔ] = pr(St(0.3, ["#ad8850", "#714f24", "#9f7d4a", "#b38e59", "#8b1008"], 0));
+    ΔΔ[728][Xr.ΔⲆⵠ] = pr(St(0.3, ["#1F5453", "#123335", "#1D4947", "#1F5453", "#0c2629"], st));
+    ΔΔ[798] = pr(function (a, b) {
       var c = document.createElement("canvas");
       var d = c.getContext("2d");
       c.width = a * 650;
@@ -26892,7 +26892,7 @@
       db(d, j, b[1], a * $a);
       return c;
     }(0.3, ["#ad8850", "#714f24", "#9f7d4a", "#b38e59", "#413624"]));
-    ΔΔ[Xr.ⵠΔΔᐃⵠΔᐃ] = pr(function (a, b) {
+    ΔΔ[729] = pr(function (a, b) {
       var c = document.createElement("canvas");
       var d = c.getContext("2d");
       c.width = a * 400;
@@ -26939,7 +26939,7 @@
       db(d, b[0], b[Ih], a * 12);
       return c;
     }(0.3, ["#BB0000"]));
-    ΔΔ[Xr.ΔᐃᐃΔᐃⲆΔ] = bu(sd, [{
+    ΔΔ[658] = bu(sd, [{
       f: Sc,
       x: Qs,
       y: 0,
@@ -26947,7 +26947,7 @@
       r: Rq,
       c: ["#B3AA8E", "#817961", "#EBEAE2", "#E0DFD8"]
     }], 0.25, ["#d2c77b", "#e7dc8f", "#bfb360"], 0.7);
-    ΔΔ[Xr.ᐃⲆᐃⵠΔ] = bu(1.5, [{
+    ΔΔ[150] = bu(1.5, [{
       f: md,
       x: 0,
       y: Ih,
@@ -26955,12 +26955,12 @@
       r: Rq,
       c: ["#120202", "#750a0a", "#991616", "#120202"]
     }], 0.45, ["#5bbcc9", "#73d2df", "#4daab6"], 0.9);
-    ΔΔ[Xr.ᐃⲆⲆΔⵠⲆᐃ] = Wd(0.35, ["#072428", "#67A242", "#67A242"], 0);
-    ΔΔ[Xr.ⵠᐃⲆⲆᐃⵠⲆ] = Wd(0.35, ["#172130", "#649BB2", "#FFFFFF", "#FFFFFF", "#90C2D3", "#649BB2", "#84BDD1", "#2F5866"], 1);
-    ΔΔ[Xr.ΔᐃⲆⲆⲆΔⵠ] = Wd(0.35, ["#3F0B11", "#B13424", "#FFFFFF", "#B13424", "#7e180b"], 2);
-    ΔΔ[Xr.ΔᐃᐃⵠⲆᐃΔ] = Wd(0.35, ["#1B2F4C", "#29488E", "#76c3e8", "#ffffff"], I);
+    ΔΔ[669] = Wd(0.35, ["#072428", "#67A242", "#67A242"], 0);
+    ΔΔ[670] = Wd(0.35, ["#172130", "#649BB2", "#FFFFFF", "#FFFFFF", "#90C2D3", "#649BB2", "#84BDD1", "#2F5866"], 1);
+    ΔΔ[671] = Wd(0.35, ["#3F0B11", "#B13424", "#FFFFFF", "#B13424", "#7e180b"], 2);
+    ΔΔ[672] = Wd(0.35, ["#1B2F4C", "#29488E", "#76c3e8", "#ffffff"], I);
     if (ΔΔⵠΔᐃᐃΔ) {
-      ΔΔ[Xr.ⲆᐃΔΔⲆⵠⵠ] = pr(function (b) {
+      ΔΔ[278] = pr(function (b) {
         var c = document.createElement("canvas");
         var d = c.getContext("2d");
         var e = b * 200;
@@ -26978,7 +26978,7 @@
         return c;
       }(1));
     } else {
-      ΔΔ[Xr.ⲆᐃΔΔⲆⵠⵠ] = pr(function (b) {
+      ΔΔ[278] = pr(function (b) {
         var c = document.createElement("canvas");
         var d = c.getContext("2d");
         var e = b * 200;
@@ -26997,7 +26997,7 @@
       }(1));
     }
     if (ΔΔⵠΔᐃᐃΔ) {
-      ΔΔ[Xr.ΔᐃⲆⲆᐃⲆᐃ] = pr(function (b) {
+      ΔΔ[267] = pr(function (b) {
         var c = document.createElement("canvas");
         var d = c.getContext("2d");
         var e = b * 335;
@@ -27023,7 +27023,7 @@
         return c;
       }(0.75));
     } else {
-      ΔΔ[Xr.ΔᐃⲆⲆᐃⲆᐃ] = pr(function (c) {
+      ΔΔ[267] = pr(function (c) {
         var d = document.createElement("canvas");
         var e = d.getContext("2d");
         var f = c * 950;
@@ -27040,44 +27040,44 @@
         e.translate(Mg, c * 15);
         yb(e, m, h, i, k, l);
         db(e, null, "#69A148", g);
-        var n = ΔΔ[Xr.ᐃⲆⲆΔⵠⲆᐃ];
+        var n = ΔΔ[669];
         e.drawImage(n, Ej, -8);
         e.translate(a, 0);
         yb(e, m, h, i, k, l);
         db(e, null, "#AF352A", g);
-        n = ΔΔ[Xr.ΔᐃⲆⲆⲆΔⵠ];
+        n = ΔΔ[671];
         e.drawImage(n, 17, -9);
         e.translate(a, Qs);
         yb(e, m, h, i, k, l);
         db(e, null, "#669BB1", g);
-        n = ΔΔ[Xr.ⵠᐃⲆⲆᐃⵠⲆ];
+        n = ΔΔ[670];
         e.drawImage(n, 17, -8);
         e.translate(a, Da);
         yb(e, m, h, i, k, l);
         db(e, null, "#074A87", g);
-        n = ΔΔ[Xr.ΔᐃᐃⵠⲆᐃΔ];
+        n = ΔΔ[672];
         e.drawImage(n, wl, -8);
         return d;
       }(1));
     }
     if (ΔΔⵠΔᐃᐃΔ) {
-      ΔΔ[Xr.ΔΔΔΔⵠΔΔ] = pr(jd(0.75));
+      ΔΔ[608] = pr(jd(0.75));
     } else {
-      ΔΔ[Xr.ΔΔΔΔⵠΔΔ] = pr(jd(1));
+      ΔΔ[608] = pr(jd(1));
     }
-    ΔΔ[Xr.ᐃΔⲆⲆⲆΔΔ] = pr(Nd(0.16, oa, ["rgba(0, 0, 0, 0)", "#FFFFFF", "#FFFFFF", "#FFFFFF", "#FFFFFF"]));
-    ΔΔ[Xr.ᐃⵠᐃⵠᐃⵠΔ] = pr(wb(5.8, Au(0.15, true, ["rgba(0, 0, 0, 0)", "#FFFFFF", "#FFFFFF", "#FFFFFF", "#FFFFFF"])));
-    ΔΔ[0] = [];
-    ΔΔ[Xr.ΔΔΔᐃⵠΔⵠ] = [];
+    ΔΔ[792] = pr(Nd(0.16, oa, ["rgba(0, 0, 0, 0)", "#FFFFFF", "#FFFFFF", "#FFFFFF", "#FFFFFF"]));
+    ΔΔ[537] = pr(wb(5.8, Au(0.15, true, ["rgba(0, 0, 0, 0)", "#FFFFFF", "#FFFFFF", "#FFFFFF", "#FFFFFF"])));
+    ΔΔ[283] = [];
+    ΔΔ[465] = [];
     for (a = Zj; a < kw.ⲆᐃΔᐃΔᐃΔ + xj; a++) {
-      ΔΔ[Xr.ΔΔΔᐃⵠΔⵠ][a] = nd(1, "" + (a + 1), $g, "#FFF");
+      ΔΔ[465][a] = nd(1, "" + (a + 1), $g, "#FFF");
     }
-    ΔΔ[Xr.ⲆᐃⵠᐃⵠⲆᐃ] = [];
-    ΔΔ[Xr.ⲆᐃⵠᐃⵠⲆᐃ].push(pr(qc(0.12, ["#442F19", "#2C2112", "#C09D6F", "#A37943", "#eda80d"])));
-    ΔΔ[Xr.ⲆᐃⵠᐃⵠⲆᐃ].push(pr(qc(0.12, ["#553b20", "#3e2f1a", "#d1ad7d", "#b3864c", "#eda80d"], 1)));
-    ΔΔ[Xr.ⲆᐃⵠᐃⵠⲆᐃ].push(pr(qc(0.12, ["#30200f", "#20180c", "#a78559", "#855f2f", "#b37d08"], 1)));
-    ΔΔ[Xr.ⲆⲆⵠΔΔⲆΔ] = [];
-    ΔΔ[Xr.ⲆⲆⵠΔΔⲆΔ].push(pr(function (a) {
+    ΔΔ[708] = [];
+    ΔΔ[708].push(pr(qc(0.12, ["#442F19", "#2C2112", "#C09D6F", "#A37943", "#eda80d"])));
+    ΔΔ[708].push(pr(qc(0.12, ["#553b20", "#3e2f1a", "#d1ad7d", "#b3864c", "#eda80d"], 1)));
+    ΔΔ[708].push(pr(qc(0.12, ["#30200f", "#20180c", "#a78559", "#855f2f", "#b37d08"], 1)));
+    ΔΔ[725] = [];
+    ΔΔ[725].push(pr(function (a) {
       var b = document.createElement("canvas");
       var c = b.getContext("2d");
       b.width = a * 321;
@@ -27263,7 +27263,7 @@
       db(c, "#392C16", "#5E3E1A", jn * a);
       return b;
     }(0.22)));
-    ΔΔ[Xr.ⲆⲆⵠΔΔⲆΔ].push(pr(function (a) {
+    ΔΔ[725].push(pr(function (a) {
       var b = document.createElement("canvas");
       var c = b.getContext("2d");
       b.width = a * 321;
@@ -27449,7 +27449,7 @@
       db(c, "#392C16", "#5E3E1A", a * zl);
       return b;
     }(0.22)));
-    ΔΔ[Xr.ᐃᐃΔᐃᐃΔΔ] = pr(function (a) {
+    ΔΔ[726] = pr(function (a) {
       var b = document.createElement("canvas");
       var c = b.getContext("2d");
       b.width = a * 321;
@@ -27479,16 +27479,16 @@
       db(c, "#C09D6F");
       return b;
     }(0.22));
-    ΔΔ[Xr.ⵠⵠⵠᐃⵠΔⲆ] = [];
-    ΔΔ[Xr.ⵠⵠⵠᐃⵠΔⲆ].push(pr(Hb(1.5, ["#795026", "#654320", "#eda80d"], 0)));
-    ΔΔ[Xr.ⵠⵠⵠᐃⵠΔⲆ].push(pr(Hb(1.5, ["#8f5e2c", "#7a5126", "#eda80d"], 1)));
-    ΔΔ[Xr.ⵠⵠⵠᐃⵠΔⲆ].push(pr(Hb(1.5, ["#67441f", "#573819", "#9c6e08"], au)));
-    ΔΔ[Xr.ΔᐃⵠⵠᐃⲆᐃ] = Ⲇⵠ.ΔᐃⵠⵠᐃⲆᐃ;
-    ΔΔ[Xr.ΔⵠⵠⲆΔᐃΔ] = Ⲇⵠ.ΔⵠⵠⲆΔᐃΔ;
-    ΔΔ[Xr.ΔⲆᐃΔΔᐃⵠ] = Ⲇⵠ.ΔⲆᐃΔΔᐃⵠ;
-    ΔΔ[Xr.ⵠᐃᐃⵠⵠⵠᐃ] = Ⲇⵠ.ⵠᐃᐃⵠⵠⵠᐃ;
-    ΔΔ[Xr.ᐃⵠΔⵠᐃⲆⲆ] = nd(1, "Show spectators", 25, "#FFF", Gs, Za, "#000", kq, 220);
-    ΔΔ[Xr.ⵠⵠᐃⵠⲆⲆⲆ] = nd(1, "Reconnecting...", 30, "#FFF");
+    ΔΔ[727] = [];
+    ΔΔ[727].push(pr(Hb(1.5, ["#795026", "#654320", "#eda80d"], 0)));
+    ΔΔ[727].push(pr(Hb(1.5, ["#8f5e2c", "#7a5126", "#eda80d"], 1)));
+    ΔΔ[727].push(pr(Hb(1.5, ["#67441f", "#573819", "#9c6e08"], au)));
+    ΔΔ[546] = Ⲇⵠ.ΔᐃⵠⵠᐃⲆᐃ;
+    ΔΔ[547] = Ⲇⵠ.ΔⵠⵠⲆΔᐃΔ;
+    ΔΔ[548] = Ⲇⵠ.ΔⲆᐃΔΔᐃⵠ;
+    ΔΔ[549] = Ⲇⵠ.ⵠᐃᐃⵠⵠⵠᐃ;
+    ΔΔ[517] = nd(1, "Show spectators", 25, "#FFF", Gs, Za, "#000", kq, 220);
+    ΔΔ[525] = nd(1, "Reconnecting...", 30, "#FFF");
     console.log(cn, xg);
   }
   function Dd(a, b, c) {
@@ -35854,498 +35854,498 @@
       return b;
     }
     ᐃⵠᐃᐃⲆⲆᐃᐃᐃ();
-    ΔΔ[Xr.ⲆⵠⵠⲆⵠᐃⲆ] = [Ⲇⵠ.ⲆΔΔΔΔⵠΔ, Ⲇⵠ.ⵠⲆΔⲆⵠΔⵠ];
-    ΔΔ[Xr.ᐃⲆᐃⲆ] = [];
-    ΔΔ[Xr.ᐃⲆᐃⲆ][Xr.ⲆᐃΔ] = [];
-    ΔΔ[Xr.ᐃⲆᐃⲆ][Xr.ⲆᐃΔ][a("000_010_000")] = [Ⲇⵠ.ⲆΔᐃⲆⲆ, Ⲇⵠ.ΔⵠⵠᐃΔ];
-    ΔΔ[Xr.ᐃⲆᐃⲆ][Xr.ⲆᐃΔ][a("000_010_010")] = ΔΔ[Xr.ᐃⲆᐃⲆ][Xr.ⲆᐃΔ][a("000_010_000")];
-    ΔΔ[Xr.ᐃⲆᐃⲆ][Xr.ⲆᐃΔ][a("000_011_000")] = ΔΔ[Xr.ᐃⲆᐃⲆ][Xr.ⲆᐃΔ][a("000_010_000")];
-    ΔΔ[Xr.ᐃⲆᐃⲆ][Xr.ⲆᐃΔ][a("000_011_010")] = [Ⲇⵠ.ⵠΔⵠᐃⲆ, Ⲇⵠ.ⵠΔᐃⵠΔ, Ⲇⵠ.ΔⵠⵠᐃΔ, Ⲇⵠ.ⲆΔᐃⲆⲆ, Ⲇⵠ.ⲆΔᐃⲆᐃⵠᐃ, Ⲇⵠ.ΔᐃⲆⵠᐃⲆᐃ, Ⲇⵠ.ⲆⲆΔΔⵠΔⵠ];
-    ΔΔ[Xr.ᐃⲆᐃⲆ][Xr.ⲆᐃΔ][a("000_011_011")] = [Ⲇⵠ.ⵠᐃⵠⵠᐃⵠⵠ, Ⲇⵠ.ⵠΔⵠᐃⲆ, Ⲇⵠ.ⵠΔᐃⵠΔ, Ⲇⵠ.ΔⵠⵠᐃΔ, Ⲇⵠ.ⲆΔᐃⲆⲆ, Ⲇⵠ.ⲆΔᐃⲆᐃⵠᐃ, Ⲇⵠ.ΔᐃⲆⵠᐃⲆᐃ, Ⲇⵠ.ⲆⲆΔΔⵠΔⵠ, Ⲇⵠ.ⵠⵠⵠΔⵠ];
-    ΔΔ[Xr.ᐃⲆᐃⲆ][Xr.ⲆᐃΔ][a("000_110_000")] = [Ⲇⵠ.ⵠᐃᐃⵠⲆ, Ⲇⵠ.ΔⵠⵠᐃΔ];
-    ΔΔ[Xr.ᐃⲆᐃⲆ][Xr.ⲆᐃΔ][a("000_110_010")] = [Ⲇⵠ.ⵠᐃⲆⵠΔ, Ⲇⵠ.ⵠᐃᐃⵠⲆ, Ⲇⵠ.ΔⲆⲆᐃᐃ, Ⲇⵠ.ΔⵠⵠᐃΔ, Ⲇⵠ.ⲆΔᐃⲆⲆ, Ⲇⵠ.ⵠⵠⵠΔⵠ, Ⲇⵠ.ⵠΔΔᐃΔ, Ⲇⵠ.ΔⲆΔⵠΔᐃⵠ];
-    ΔΔ[Xr.ᐃⲆᐃⲆ][Xr.ⲆᐃΔ][a("000_110_110")] = [Ⲇⵠ.ⵠᐃⲆⵠΔ, Ⲇⵠ.ΔᐃⲆⵠⲆΔᐃ, Ⲇⵠ.ⲆⵠⵠⵠᐃⲆᐃ, Ⲇⵠ.ⵠᐃᐃⵠⲆ, Ⲇⵠ.ΔⲆⲆᐃᐃ, Ⲇⵠ.ΔⵠⵠᐃΔ, Ⲇⵠ.ⵠⵠⵠΔⵠ, Ⲇⵠ.ⵠΔΔᐃΔ, Ⲇⵠ.ΔⲆΔⵠΔᐃⵠ];
-    ΔΔ[Xr.ᐃⲆᐃⲆ][Xr.ⲆᐃΔ][a("000_111_000")] = [Ⲇⵠ.ⵠᐃᐃⵠⲆ, Ⲇⵠ.ΔⲆⲆᐃᐃ, Ⲇⵠ.ⲆⵠᐃΔⵠⲆΔ, Ⲇⵠ.ᐃΔⵠⲆΔΔΔ];
-    ΔΔ[Xr.ᐃⲆᐃⲆ][Xr.ⲆᐃΔ][a("000_111_111")] = [Ⲇⵠ.ⵠᐃᐃⵠⲆ, Ⲇⵠ.ⲆⵠⵠⵠᐃⲆᐃ, Ⲇⵠ.ⵠᐃⲆⵠΔ, Ⲇⵠ.ⵠΔᐃⵠΔ, Ⲇⵠ.ⵠΔⵠᐃⲆ, Ⲇⵠ.ⵠᐃⵠⵠᐃⵠⵠ, Ⲇⵠ.ΔΔΔⲆⲆⵠⲆ];
-    ΔΔ[Xr.ᐃⲆᐃⲆ][Xr.ⲆᐃΔ][a("010_010_000")] = [Ⲇⵠ.ΔⵠⵠᐃΔ];
-    ΔΔ[Xr.ᐃⲆᐃⲆ][Xr.ⲆᐃΔ][a("010_010_010")] = [Ⲇⵠ.ᐃⵠⵠᐃⲆᐃⵠ, Ⲇⵠ.ΔⵠⵠᐃΔ, Ⲇⵠ.ⲆΔᐃⲆⲆ];
-    ΔΔ[Xr.ᐃⲆᐃⲆ][Xr.ⲆᐃΔ][a("010_011_000")] = [Ⲇⵠ.ⲆⵠⵠⵠΔ, Ⲇⵠ.ΔⵠⵠᐃΔ, Ⲇⵠ.ⲆΔᐃⲆⲆ, Ⲇⵠ.ⵠΔΔᐃΔ];
-    ΔΔ[Xr.ᐃⲆᐃⲆ][Xr.ⲆᐃΔ][a("010_110_000")] = [Ⲇⵠ.ⵠᐃᐃⵠⲆ, Ⲇⵠ.ΔⲆⲆᐃᐃ, Ⲇⵠ.ΔⵠⵠᐃΔ, Ⲇⵠ.ⵠΔΔᐃΔ, Ⲇⵠ.ᐃⲆΔⵠΔ];
-    ΔΔ[Xr.ᐃⲆᐃⲆ][Xr.ⲆᐃΔ][a("010_110_110")] = [Ⲇⵠ.ᐃⵠⵠᐃᐃ, Ⲇⵠ.ⲆⵠⵠⵠΔ, Ⲇⵠ.ⵠΔⵠᐃⲆ, Ⲇⵠ.ⵠΔᐃⵠΔ, Ⲇⵠ.ⵠᐃⲆⵠΔ, Ⲇⵠ.ⲆⵠⵠⵠᐃⲆᐃ, Ⲇⵠ.ⵠᐃᐃⵠⲆ, Ⲇⵠ.ΔΔΔⲆⲆⵠⲆ, Ⲇⵠ.ᐃⲆᐃⵠⵠΔΔ, Ⲇⵠ.ᐃⵠⵠᐃⲆᐃⵠ, Ⲇⵠ.ΔⲆⲆᐃᐃ, Ⲇⵠ.ⲆⵠᐃΔⵠⲆΔ, Ⲇⵠ.ᐃΔⵠⲆΔΔΔ, Ⲇⵠ.ΔⵠⵠᐃΔ, Ⲇⵠ.ⲆΔᐃⲆⲆ, Ⲇⵠ.ⲆΔᐃⲆᐃⵠᐃ, Ⲇⵠ.ΔᐃⲆⵠᐃⲆᐃ, Ⲇⵠ.ⲆⲆΔΔⵠΔⵠ, Ⲇⵠ.ⵠⵠⵠΔⵠ, Ⲇⵠ.ⵠΔΔᐃΔ, Ⲇⵠ.ᐃⲆΔⵠΔ];
-    ΔΔ[Xr.ᐃⲆᐃⲆ][Xr.ⲆᐃΔ][a("010_011_010")] = ΔΔ[Xr.ᐃⲆᐃⲆ][Xr.ⲆᐃΔ][a("010_110_110")];
-    ΔΔ[Xr.ᐃⲆᐃⲆ][Xr.ⲆᐃΔ][a("010_011_011")] = ΔΔ[Xr.ᐃⲆᐃⲆ][Xr.ⲆᐃΔ][a("010_110_110")];
-    ΔΔ[Xr.ᐃⲆᐃⲆ][Xr.ⲆᐃΔ][a("000_111_011")] = ΔΔ[Xr.ᐃⲆᐃⲆ][Xr.ⲆᐃΔ][a("010_110_110")];
-    ΔΔ[Xr.ᐃⲆᐃⲆ][Xr.ⲆᐃΔ][a("010_110_010")] = ΔΔ[Xr.ᐃⲆᐃⲆ][Xr.ⲆᐃΔ][a("010_110_110")];
-    ΔΔ[Xr.ᐃⲆᐃⲆ][Xr.ⲆᐃΔ][a("010_111_000")] = ΔΔ[Xr.ᐃⲆᐃⲆ][Xr.ⲆᐃΔ][a("010_110_110")];
-    ΔΔ[Xr.ᐃⲆᐃⲆ][Xr.ⲆᐃΔ][a("010_111_010")] = ΔΔ[Xr.ᐃⲆᐃⲆ][Xr.ⲆᐃΔ][a("010_110_110")];
-    ΔΔ[Xr.ᐃⲆᐃⲆ][Xr.ⲆᐃΔ][a("010_111_011")] = ΔΔ[Xr.ᐃⲆᐃⲆ][Xr.ⲆᐃΔ][a("010_110_110")];
-    ΔΔ[Xr.ᐃⲆᐃⲆ][Xr.ⲆᐃΔ][a("010_111_110")] = ΔΔ[Xr.ᐃⲆᐃⲆ][Xr.ⲆᐃΔ][a("010_110_110")];
-    ΔΔ[Xr.ᐃⲆᐃⲆ][Xr.ⲆᐃΔ][a("010_111_111")] = ΔΔ[Xr.ᐃⲆᐃⲆ][Xr.ⲆᐃΔ][a("010_110_110")];
-    ΔΔ[Xr.ᐃⲆᐃⲆ][Xr.ⲆᐃΔ][a("000_111_110")] = ΔΔ[Xr.ᐃⲆᐃⲆ][Xr.ⲆᐃΔ][a("010_110_110")];
-    ΔΔ[Xr.ᐃⲆᐃⲆ][Xr.ⲆᐃΔ][a("000_111_010")] = ΔΔ[Xr.ᐃⲆᐃⲆ][Xr.ⲆᐃΔ][a("010_110_110")];
-    ΔΔ[Xr.ᐃⲆᐃⲆ][Xr.ⲆᐃΔ][a("011_011_000")] = [Ⲇⵠ.ᐃᐃΔΔⲆⵠⵠ, Ⲇⵠ.ᐃⵠⵠᐃᐃ, Ⲇⵠ.ⲆⵠⵠⵠΔ, Ⲇⵠ.ΔⵠⵠᐃΔ, Ⲇⵠ.ⲆΔᐃⲆⲆ, Ⲇⵠ.ⵠΔΔᐃΔ];
-    ΔΔ[Xr.ᐃⲆᐃⲆ][Xr.ⲆᐃΔ][a("011_011_010")] = [Ⲇⵠ.ᐃᐃΔΔⲆⵠⵠ, Ⲇⵠ.ᐃⵠⵠᐃᐃ, Ⲇⵠ.ⲆⵠⵠⵠΔ, Ⲇⵠ.ⵠᐃᐃⵠⲆ, Ⲇⵠ.ΔⲆⲆᐃᐃ, Ⲇⵠ.ⲆⵠᐃΔⵠⲆΔ, Ⲇⵠ.ᐃΔⵠⲆΔΔΔ, Ⲇⵠ.ΔⵠⵠᐃΔ, Ⲇⵠ.ⲆΔᐃⲆⲆ, Ⲇⵠ.ⵠΔΔᐃΔ, Ⲇⵠ.ᐃⲆΔⵠΔ];
-    ΔΔ[Xr.ᐃⲆᐃⲆ][Xr.ⲆᐃΔ][a("011_011_011")] = [Ⲇⵠ.ⵠΔᐃⵠΔ, Ⲇⵠ.ⵠΔⵠᐃⲆ, Ⲇⵠ.ⵠᐃⵠⵠᐃⵠⵠ, Ⲇⵠ.ⲆⵠⵠⵠΔ, Ⲇⵠ.ᐃⵠⵠᐃᐃ, Ⲇⵠ.ᐃᐃΔΔⲆⵠⵠ, Ⲇⵠ.ᐃⲆᐃⵠⵠΔΔ];
-    ΔΔ[Xr.ᐃⲆᐃⲆ][Xr.ⲆᐃΔ][a("011_111_000")] = ΔΔ[Xr.ᐃⲆᐃⲆ][Xr.ⲆᐃΔ][a("011_011_010")];
-    ΔΔ[Xr.ᐃⲆᐃⲆ][Xr.ⲆᐃΔ][a("011_111_010")] = [Ⲇⵠ.ᐃᐃΔΔⲆⵠⵠ, Ⲇⵠ.ᐃⵠⵠᐃᐃ, Ⲇⵠ.ⲆⵠⵠⵠΔ, Ⲇⵠ.ⵠΔⵠᐃⲆ, Ⲇⵠ.ⵠΔᐃⵠΔ, Ⲇⵠ.ⵠᐃⲆⵠΔ, Ⲇⵠ.ⵠᐃᐃⵠⲆ, Ⲇⵠ.ΔΔΔⲆⲆⵠⲆ, Ⲇⵠ.ᐃⲆᐃⵠⵠΔΔ, Ⲇⵠ.ᐃⵠⵠᐃⲆᐃⵠ, Ⲇⵠ.ΔⲆⲆᐃᐃ, Ⲇⵠ.ⲆⵠᐃΔⵠⲆΔ, Ⲇⵠ.ᐃΔⵠⲆΔΔΔ, Ⲇⵠ.ΔⵠⵠᐃΔ, Ⲇⵠ.ⲆΔᐃⲆⲆ, Ⲇⵠ.ⲆΔᐃⲆᐃⵠᐃ, Ⲇⵠ.ΔᐃⲆⵠᐃⲆᐃ, Ⲇⵠ.ⲆⲆΔΔⵠΔⵠ, Ⲇⵠ.ⵠⵠⵠΔⵠ, Ⲇⵠ.ⵠΔΔᐃΔ, Ⲇⵠ.ᐃⲆΔⵠΔ];
-    ΔΔ[Xr.ᐃⲆᐃⲆ][Xr.ⲆᐃΔ][a("011_111_011")] = ΔΔ[Xr.ᐃⲆᐃⲆ][Xr.ⲆᐃΔ][a("011_111_010")];
-    ΔΔ[Xr.ᐃⲆᐃⲆ][Xr.ⲆᐃΔ][a("011_111_110")] = ΔΔ[Xr.ᐃⲆᐃⲆ][Xr.ⲆᐃΔ][a("011_111_010")];
-    ΔΔ[Xr.ᐃⲆᐃⲆ][Xr.ⲆᐃΔ][a("011_111_111")] = [Ⲇⵠ.ᐃᐃΔΔⲆⵠⵠ, Ⲇⵠ.ᐃⵠⵠᐃᐃ, Ⲇⵠ.ⲆⵠⵠⵠΔ, Ⲇⵠ.ⵠᐃⵠⵠᐃⵠⵠ, Ⲇⵠ.ⵠΔⵠᐃⲆ, Ⲇⵠ.ⵠΔᐃⵠΔ, Ⲇⵠ.ⵠᐃⲆⵠΔ, Ⲇⵠ.ⲆⵠⵠⵠᐃⲆᐃ, Ⲇⵠ.ⵠᐃᐃⵠⲆ, Ⲇⵠ.ΔΔΔⲆⲆⵠⲆ, Ⲇⵠ.ᐃⲆᐃⵠⵠΔΔ, Ⲇⵠ.ᐃⵠⵠᐃⲆᐃⵠ, Ⲇⵠ.ΔⲆⲆᐃᐃ, Ⲇⵠ.ⲆⵠᐃΔⵠⲆΔ, Ⲇⵠ.ᐃΔⵠⲆΔΔΔ, Ⲇⵠ.ΔⵠⵠᐃΔ, Ⲇⵠ.ⲆΔᐃⲆⲆ, Ⲇⵠ.ⲆΔᐃⲆᐃⵠᐃ, Ⲇⵠ.ΔᐃⲆⵠᐃⲆᐃ, Ⲇⵠ.ⲆⲆΔΔⵠΔⵠ, Ⲇⵠ.ⵠⵠⵠΔⵠ, Ⲇⵠ.ⵠΔΔᐃΔ, Ⲇⵠ.ᐃⲆΔⵠΔ];
-    ΔΔ[Xr.ᐃⲆᐃⲆ][Xr.ⲆᐃΔ][a("110_110_000")] = [Ⲇⵠ.ⵠΔᐃᐃⵠⵠᐃ, Ⲇⵠ.ⵠᐃᐃⵠⲆ, Ⲇⵠ.ᐃⵠΔⲆᐃⵠⲆ, Ⲇⵠ.ΔⲆⲆᐃᐃ, Ⲇⵠ.ΔⵠⵠᐃΔ, Ⲇⵠ.ᐃⲆΔⵠΔ];
-    ΔΔ[Xr.ᐃⲆᐃⲆ][Xr.ⲆᐃΔ][a("110_110_010")] = [Ⲇⵠ.ⵠᐃⲆⵠΔ, Ⲇⵠ.ⵠΔᐃᐃⵠⵠᐃ, Ⲇⵠ.ⵠᐃᐃⵠⲆ, Ⲇⵠ.ᐃⵠⵠᐃⲆᐃⵠ, Ⲇⵠ.ΔⲆⲆᐃᐃ, Ⲇⵠ.ΔⵠⵠᐃΔ, Ⲇⵠ.ⵠⵠⵠΔⵠ, Ⲇⵠ.ᐃⲆΔⵠΔ];
-    ΔΔ[Xr.ᐃⲆᐃⲆ][Xr.ⲆᐃΔ][a("110_110_110")] = [Ⲇⵠ.ⵠᐃⲆⵠΔ, Ⲇⵠ.ⲆⵠⵠⵠᐃⲆᐃ, Ⲇⵠ.ⵠΔᐃᐃⵠⵠᐃ, Ⲇⵠ.ⵠᐃᐃⵠⲆ, Ⲇⵠ.ᐃⵠⵠᐃⲆᐃⵠ, Ⲇⵠ.ΔⲆⲆᐃᐃ, Ⲇⵠ.ΔⵠⵠᐃΔ, Ⲇⵠ.ⵠⵠⵠΔⵠ, Ⲇⵠ.ᐃⲆΔⵠΔ];
-    ΔΔ[Xr.ᐃⲆᐃⲆ][Xr.ⲆᐃΔ][a("110_111_000")] = [Ⲇⵠ.ᐃⵠⵠᐃᐃ, Ⲇⵠ.ⲆⵠⵠⵠΔ, Ⲇⵠ.ⵠΔᐃᐃⵠⵠᐃ, Ⲇⵠ.ⵠᐃᐃⵠⲆ, Ⲇⵠ.ᐃⵠΔⲆᐃⵠⲆ, Ⲇⵠ.ᐃᐃΔᐃⲆΔⵠ, Ⲇⵠ.ΔⲆⲆᐃᐃ, Ⲇⵠ.ⲆⵠᐃΔⵠⲆΔ, Ⲇⵠ.ᐃΔⵠⲆΔΔΔ, Ⲇⵠ.ΔⵠⵠᐃΔ, Ⲇⵠ.ⲆΔᐃⲆⲆ, Ⲇⵠ.ⵠΔΔᐃΔ, Ⲇⵠ.ᐃⲆΔⵠΔ];
-    ΔΔ[Xr.ᐃⲆᐃⲆ][Xr.ⲆᐃΔ][a("110_111_110")] = [Ⲇⵠ.ᐃⵠⵠᐃᐃ, Ⲇⵠ.ⲆⵠⵠⵠΔ, Ⲇⵠ.ⵠΔⵠᐃⲆ, Ⲇⵠ.ⵠΔᐃⵠΔ, Ⲇⵠ.ⵠᐃⲆⵠΔ, Ⲇⵠ.ⲆⵠⵠⵠᐃⲆᐃ, Ⲇⵠ.ⵠΔᐃᐃⵠⵠᐃ, Ⲇⵠ.ⵠᐃᐃⵠⲆ, Ⲇⵠ.ΔΔΔⲆⲆⵠⲆ, Ⲇⵠ.ᐃᐃΔᐃⲆΔⵠ, Ⲇⵠ.ᐃⲆᐃⵠⵠΔΔ, Ⲇⵠ.ᐃⵠⵠᐃⲆᐃⵠ, Ⲇⵠ.ΔⲆⲆᐃᐃ, Ⲇⵠ.ⲆⵠᐃΔⵠⲆΔ, Ⲇⵠ.ᐃΔⵠⲆΔΔΔ, Ⲇⵠ.ΔⵠⵠᐃΔ, Ⲇⵠ.ⲆΔᐃⲆⲆ, Ⲇⵠ.ⲆΔᐃⲆᐃⵠᐃ, Ⲇⵠ.ΔᐃⲆⵠᐃⲆᐃ, Ⲇⵠ.ⲆⲆΔΔⵠΔⵠ, Ⲇⵠ.ⵠⵠⵠΔⵠ, Ⲇⵠ.ⵠΔΔᐃΔ, Ⲇⵠ.ᐃⲆΔⵠΔ];
-    ΔΔ[Xr.ᐃⲆᐃⲆ][Xr.ⲆᐃΔ][a("110_111_111")] = ΔΔ[Xr.ᐃⲆᐃⲆ][Xr.ⲆᐃΔ][a("110_111_110")];
-    ΔΔ[Xr.ᐃⲆᐃⲆ][Xr.ⲆᐃΔ][a("110_111_011")] = ΔΔ[Xr.ᐃⲆᐃⲆ][Xr.ⲆᐃΔ][a("110_111_110")];
-    ΔΔ[Xr.ᐃⲆᐃⲆ][Xr.ⲆᐃΔ][a("110_111_010")] = ΔΔ[Xr.ᐃⲆᐃⲆ][Xr.ⲆᐃΔ][a("110_111_110")];
-    ΔΔ[Xr.ᐃⲆᐃⲆ][Xr.ⲆᐃΔ][a("111_111_110")] = [Ⲇⵠ.ᐃⲆΔⵠΔ, Ⲇⵠ.ⵠΔΔᐃΔ, Ⲇⵠ.ⵠⵠⵠΔⵠ, Ⲇⵠ.ⲆⲆΔΔⵠΔⵠ, Ⲇⵠ.ΔᐃⲆⵠᐃⲆᐃ, Ⲇⵠ.ⲆΔᐃⲆᐃⵠᐃ, Ⲇⵠ.ⲆΔᐃⲆⲆ, Ⲇⵠ.ΔⵠⵠᐃΔ, Ⲇⵠ.ᐃΔⵠⲆΔΔΔ, Ⲇⵠ.ⲆⵠᐃΔⵠⲆΔ, Ⲇⵠ.ΔⲆⲆᐃᐃ, Ⲇⵠ.ᐃⵠⵠᐃⲆᐃⵠ, Ⲇⵠ.ᐃⲆᐃⵠⵠΔΔ, Ⲇⵠ.ᐃᐃΔᐃⲆΔⵠ, Ⲇⵠ.ΔΔΔⲆⲆⵠⲆ, Ⲇⵠ.ⵠᐃᐃⵠⲆ, Ⲇⵠ.ⵠΔᐃᐃⵠⵠᐃ, Ⲇⵠ.ⵠᐃⲆⵠΔ, Ⲇⵠ.ⵠΔᐃⵠΔ, Ⲇⵠ.ⵠΔⵠᐃⲆ, Ⲇⵠ.ⲆⵠⵠⵠΔ, Ⲇⵠ.ᐃⵠⵠᐃᐃ, Ⲇⵠ.ᐃᐃΔΔⲆⵠⵠ];
-    ΔΔ[Xr.ᐃⲆᐃⲆ][Xr.ⲆᐃΔ][a("111_111_011")] = ΔΔ[Xr.ᐃⲆᐃⲆ][Xr.ⲆᐃΔ][a("111_111_110")];
-    ΔΔ[Xr.ᐃⲆᐃⲆ][Xr.ⲆᐃΔ][a("111_111_000")] = [Ⲇⵠ.ᐃⵠΔⲆᐃⵠⲆ, Ⲇⵠ.ⵠᐃᐃⵠⲆ, Ⲇⵠ.ⵠΔᐃᐃⵠⵠᐃ, Ⲇⵠ.ⲆⵠⵠⵠΔ, Ⲇⵠ.ᐃⵠⵠᐃᐃ, Ⲇⵠ.ᐃᐃΔΔⲆⵠⵠ, Ⲇⵠ.ᐃᐃΔᐃⲆΔⵠ];
-    ΔΔ[Xr.ᐃⲆᐃⲆ][Xr.ⲆᐃΔ][a("111_111_111")] = [Ⲇⵠ.ᐃᐃΔΔⲆⵠⵠ, Ⲇⵠ.ᐃⵠⵠᐃᐃ, Ⲇⵠ.ⲆⵠⵠⵠΔ, Ⲇⵠ.ⵠᐃⵠⵠᐃⵠⵠ, Ⲇⵠ.ⵠΔⵠᐃⲆ, Ⲇⵠ.ⵠΔᐃⵠΔ, Ⲇⵠ.ⵠᐃⲆⵠΔ, Ⲇⵠ.ⲆⵠⵠⵠᐃⲆᐃ, Ⲇⵠ.ⵠΔᐃᐃⵠⵠᐃ, Ⲇⵠ.ⵠᐃᐃⵠⲆ, Ⲇⵠ.ΔΔΔⲆⲆⵠⲆ, Ⲇⵠ.ᐃⲆᐃⵠⵠΔΔ, Ⲇⵠ.ᐃⵠⵠᐃⲆᐃⵠ, Ⲇⵠ.ΔⲆⲆᐃᐃ, Ⲇⵠ.ⲆⵠᐃΔⵠⲆΔ, Ⲇⵠ.ᐃΔⵠⲆΔΔΔ, Ⲇⵠ.ΔⵠⵠᐃΔ, Ⲇⵠ.ⲆΔᐃⲆⲆ, Ⲇⵠ.ⲆΔᐃⲆᐃⵠᐃ, Ⲇⵠ.ΔᐃⲆⵠᐃⲆᐃ, Ⲇⵠ.ⲆⲆΔΔⵠΔⵠ, Ⲇⵠ.ⵠⵠⵠΔⵠ, Ⲇⵠ.ⵠΔΔᐃΔ, Ⲇⵠ.ᐃⲆΔⵠΔ];
-    ΔΔ[Xr.ᐃⲆᐃⲆ][Xr.ⲆᐃΔ][a("111_111_010")] = ΔΔ[Xr.ᐃⲆᐃⲆ][Xr.ⲆᐃΔ][a("111_111_110")];
-    ΔΔ[Xr.ᐃⲆᐃⲆ][Xr.ΔⲆⵠ] = [];
-    ΔΔ[Xr.ᐃⲆᐃⲆ][Xr.ΔⲆⵠ][a("000_010_000")] = [Ⲇⵠ.ᐃᐃⵠΔⲆ, Ⲇⵠ.ⵠⲆᐃⵠⵠ];
-    ΔΔ[Xr.ᐃⲆᐃⲆ][Xr.ΔⲆⵠ][a("000_010_010")] = ΔΔ[Xr.ᐃⲆᐃⲆ][Xr.ΔⲆⵠ][a("000_010_000")];
-    ΔΔ[Xr.ᐃⲆᐃⲆ][Xr.ΔⲆⵠ][a("000_011_000")] = ΔΔ[Xr.ᐃⲆᐃⲆ][Xr.ΔⲆⵠ][a("000_010_000")];
-    ΔΔ[Xr.ᐃⲆᐃⲆ][Xr.ΔⲆⵠ][a("000_011_010")] = [Ⲇⵠ.ⵠᐃⵠⵠᐃ, Ⲇⵠ.ⲆⲆⵠΔᐃ, Ⲇⵠ.ⵠⲆᐃⵠⵠ, Ⲇⵠ.ᐃᐃⵠΔⲆ, Ⲇⵠ.ⲆᐃᐃΔⵠΔΔ, Ⲇⵠ.ᐃΔⲆⲆΔᐃᐃ, Ⲇⵠ.ⲆᐃⲆΔⲆᐃᐃ];
-    ΔΔ[Xr.ᐃⲆᐃⲆ][Xr.ΔⲆⵠ][a("000_011_011")] = [Ⲇⵠ.ⵠΔΔᐃⲆⲆⲆ, Ⲇⵠ.ⵠᐃⵠⵠᐃ, Ⲇⵠ.ⲆⲆⵠΔᐃ, Ⲇⵠ.ⵠⲆᐃⵠⵠ, Ⲇⵠ.ᐃᐃⵠΔⲆ, Ⲇⵠ.ⲆᐃᐃΔⵠΔΔ, Ⲇⵠ.ᐃΔⲆⲆΔᐃᐃ, Ⲇⵠ.ⲆᐃⲆΔⲆᐃᐃ, Ⲇⵠ.ⲆᐃⲆΔⵠ];
-    ΔΔ[Xr.ᐃⲆᐃⲆ][Xr.ΔⲆⵠ][a("000_110_000")] = [Ⲇⵠ.ⵠⲆⵠⲆᐃ, Ⲇⵠ.ⵠⲆᐃⵠⵠ];
-    ΔΔ[Xr.ᐃⲆᐃⲆ][Xr.ΔⲆⵠ][a("000_110_010")] = [Ⲇⵠ.ⵠⵠᐃⲆⵠ, Ⲇⵠ.ⵠⲆⵠⲆᐃ, Ⲇⵠ.ⲆⵠⵠᐃⲆ, Ⲇⵠ.ⵠⲆᐃⵠⵠ, Ⲇⵠ.ᐃᐃⵠΔⲆ, Ⲇⵠ.ⲆᐃⲆΔⵠ, Ⲇⵠ.ᐃⵠᐃⲆⲆ, Ⲇⵠ.ᐃⲆⲆⵠⲆΔΔ];
-    ΔΔ[Xr.ᐃⲆᐃⲆ][Xr.ΔⲆⵠ][a("000_110_110")] = [Ⲇⵠ.ⵠⵠᐃⲆⵠ, Ⲇⵠ.ⵠⵠⵠⲆⲆΔⵠ, Ⲇⵠ.ⵠΔⲆⵠⲆⵠⲆ, Ⲇⵠ.ⵠⲆⵠⲆᐃ, Ⲇⵠ.ⲆⵠⵠᐃⲆ, Ⲇⵠ.ⵠⲆᐃⵠⵠ, Ⲇⵠ.ⲆᐃⲆΔⵠ, Ⲇⵠ.ᐃⵠᐃⲆⲆ, Ⲇⵠ.ᐃⲆⲆⵠⲆΔΔ];
-    ΔΔ[Xr.ᐃⲆᐃⲆ][Xr.ΔⲆⵠ][a("000_111_000")] = [Ⲇⵠ.ⵠⲆⵠⲆᐃ, Ⲇⵠ.ⲆⵠⵠᐃⲆ, Ⲇⵠ.ΔΔⵠⵠᐃᐃⵠ, Ⲇⵠ.ᐃΔᐃΔⵠΔⲆ];
-    ΔΔ[Xr.ᐃⲆᐃⲆ][Xr.ΔⲆⵠ][a("000_111_111")] = [Ⲇⵠ.ⵠⲆⵠⲆᐃ, Ⲇⵠ.ⵠΔⲆⵠⲆⵠⲆ, Ⲇⵠ.ⵠⵠᐃⲆⵠ, Ⲇⵠ.ⲆⲆⵠΔᐃ, Ⲇⵠ.ⵠᐃⵠⵠᐃ, Ⲇⵠ.ⵠΔΔᐃⲆⲆⲆ, Ⲇⵠ.ᐃⲆᐃⵠⲆⵠᐃ];
-    ΔΔ[Xr.ᐃⲆᐃⲆ][Xr.ΔⲆⵠ][a("010_010_000")] = [Ⲇⵠ.ⵠⲆᐃⵠⵠ];
-    ΔΔ[Xr.ᐃⲆᐃⲆ][Xr.ΔⲆⵠ][a("010_010_010")] = [Ⲇⵠ.ⵠᐃΔᐃⵠΔⵠ, Ⲇⵠ.ⵠⲆᐃⵠⵠ, Ⲇⵠ.ᐃᐃⵠΔⲆ];
-    ΔΔ[Xr.ᐃⲆᐃⲆ][Xr.ΔⲆⵠ][a("010_011_000")] = [Ⲇⵠ.ⵠⵠᐃⲆⲆ, Ⲇⵠ.ⵠⲆᐃⵠⵠ, Ⲇⵠ.ᐃᐃⵠΔⲆ, Ⲇⵠ.ᐃⵠᐃⲆⲆ];
-    ΔΔ[Xr.ᐃⲆᐃⲆ][Xr.ΔⲆⵠ][a("010_110_000")] = [Ⲇⵠ.ⵠⲆⵠⲆᐃ, Ⲇⵠ.ⲆⵠⵠᐃⲆ, Ⲇⵠ.ⵠⲆᐃⵠⵠ, Ⲇⵠ.ᐃⵠᐃⲆⲆ, Ⲇⵠ.ⲆⲆⲆΔⵠ];
-    ΔΔ[Xr.ᐃⲆᐃⲆ][Xr.ΔⲆⵠ][a("010_110_110")] = [Ⲇⵠ.ΔᐃⲆⲆᐃ, Ⲇⵠ.ⵠⵠᐃⲆⲆ, Ⲇⵠ.ⵠᐃⵠⵠᐃ, Ⲇⵠ.ⲆⲆⵠΔᐃ, Ⲇⵠ.ⵠⵠᐃⲆⵠ, Ⲇⵠ.ⵠΔⲆⵠⲆⵠⲆ, Ⲇⵠ.ⵠⲆⵠⲆᐃ, Ⲇⵠ.ᐃⲆᐃⵠⲆⵠᐃ, Ⲇⵠ.ΔΔᐃΔⵠⵠΔ, Ⲇⵠ.ⵠᐃΔᐃⵠΔⵠ, Ⲇⵠ.ⲆⵠⵠᐃⲆ, Ⲇⵠ.ΔΔⵠⵠᐃᐃⵠ, Ⲇⵠ.ᐃΔᐃΔⵠΔⲆ, Ⲇⵠ.ⵠⲆᐃⵠⵠ, Ⲇⵠ.ᐃᐃⵠΔⲆ, Ⲇⵠ.ⲆᐃᐃΔⵠΔΔ, Ⲇⵠ.ᐃΔⲆⲆΔᐃᐃ, Ⲇⵠ.ⲆᐃⲆΔⲆᐃᐃ, Ⲇⵠ.ⲆᐃⲆΔⵠ, Ⲇⵠ.ᐃⵠᐃⲆⲆ, Ⲇⵠ.ⲆⲆⲆΔⵠ];
-    ΔΔ[Xr.ᐃⲆᐃⲆ][Xr.ΔⲆⵠ][a("010_011_010")] = ΔΔ[Xr.ᐃⲆᐃⲆ][Xr.ΔⲆⵠ][a("010_110_110")];
-    ΔΔ[Xr.ᐃⲆᐃⲆ][Xr.ΔⲆⵠ][a("010_011_011")] = ΔΔ[Xr.ᐃⲆᐃⲆ][Xr.ΔⲆⵠ][a("010_110_110")];
-    ΔΔ[Xr.ᐃⲆᐃⲆ][Xr.ΔⲆⵠ][a("000_111_011")] = ΔΔ[Xr.ᐃⲆᐃⲆ][Xr.ΔⲆⵠ][a("010_110_110")];
-    ΔΔ[Xr.ᐃⲆᐃⲆ][Xr.ΔⲆⵠ][a("010_110_010")] = ΔΔ[Xr.ᐃⲆᐃⲆ][Xr.ΔⲆⵠ][a("010_110_110")];
-    ΔΔ[Xr.ᐃⲆᐃⲆ][Xr.ΔⲆⵠ][a("010_111_000")] = ΔΔ[Xr.ᐃⲆᐃⲆ][Xr.ΔⲆⵠ][a("010_110_110")];
-    ΔΔ[Xr.ᐃⲆᐃⲆ][Xr.ΔⲆⵠ][a("010_111_010")] = ΔΔ[Xr.ᐃⲆᐃⲆ][Xr.ΔⲆⵠ][a("010_110_110")];
-    ΔΔ[Xr.ᐃⲆᐃⲆ][Xr.ΔⲆⵠ][a("010_111_011")] = ΔΔ[Xr.ᐃⲆᐃⲆ][Xr.ΔⲆⵠ][a("010_110_110")];
-    ΔΔ[Xr.ᐃⲆᐃⲆ][Xr.ΔⲆⵠ][a("010_111_110")] = ΔΔ[Xr.ᐃⲆᐃⲆ][Xr.ΔⲆⵠ][a("010_110_110")];
-    ΔΔ[Xr.ᐃⲆᐃⲆ][Xr.ΔⲆⵠ][a("010_111_111")] = ΔΔ[Xr.ᐃⲆᐃⲆ][Xr.ΔⲆⵠ][a("010_110_110")];
-    ΔΔ[Xr.ᐃⲆᐃⲆ][Xr.ΔⲆⵠ][a("000_111_110")] = ΔΔ[Xr.ᐃⲆᐃⲆ][Xr.ΔⲆⵠ][a("010_110_110")];
-    ΔΔ[Xr.ᐃⲆᐃⲆ][Xr.ΔⲆⵠ][a("000_111_010")] = ΔΔ[Xr.ᐃⲆᐃⲆ][Xr.ΔⲆⵠ][a("010_110_110")];
-    ΔΔ[Xr.ᐃⲆᐃⲆ][Xr.ΔⲆⵠ][a("011_011_000")] = [Ⲇⵠ.ΔⲆΔΔⲆΔᐃ, Ⲇⵠ.ΔᐃⲆⲆᐃ, Ⲇⵠ.ⵠⵠᐃⲆⲆ, Ⲇⵠ.ⵠⲆᐃⵠⵠ, Ⲇⵠ.ᐃᐃⵠΔⲆ, Ⲇⵠ.ᐃⵠᐃⲆⲆ];
-    ΔΔ[Xr.ᐃⲆᐃⲆ][Xr.ΔⲆⵠ][a("011_011_010")] = [Ⲇⵠ.ΔⲆΔΔⲆΔᐃ, Ⲇⵠ.ΔᐃⲆⲆᐃ, Ⲇⵠ.ⵠⵠᐃⲆⲆ, Ⲇⵠ.ⵠⲆⵠⲆᐃ, Ⲇⵠ.ⲆⵠⵠᐃⲆ, Ⲇⵠ.ΔΔⵠⵠᐃᐃⵠ, Ⲇⵠ.ᐃΔᐃΔⵠΔⲆ, Ⲇⵠ.ⵠⲆᐃⵠⵠ, Ⲇⵠ.ᐃᐃⵠΔⲆ, Ⲇⵠ.ᐃⵠᐃⲆⲆ, Ⲇⵠ.ⲆⲆⲆΔⵠ];
-    ΔΔ[Xr.ᐃⲆᐃⲆ][Xr.ΔⲆⵠ][a("011_011_011")] = [Ⲇⵠ.ⲆⲆⵠΔᐃ, Ⲇⵠ.ⵠᐃⵠⵠᐃ, Ⲇⵠ.ⵠΔΔᐃⲆⲆⲆ, Ⲇⵠ.ⵠⵠᐃⲆⲆ, Ⲇⵠ.ΔᐃⲆⲆᐃ, Ⲇⵠ.ΔⲆΔΔⲆΔᐃ, Ⲇⵠ.ΔΔᐃΔⵠⵠΔ];
-    ΔΔ[Xr.ᐃⲆᐃⲆ][Xr.ΔⲆⵠ][a("011_111_000")] = ΔΔ[Xr.ᐃⲆᐃⲆ][Xr.ΔⲆⵠ][a("011_011_010")];
-    ΔΔ[Xr.ᐃⲆᐃⲆ][Xr.ΔⲆⵠ][a("011_111_010")] = [Ⲇⵠ.ΔⲆΔΔⲆΔᐃ, Ⲇⵠ.ΔᐃⲆⲆᐃ, Ⲇⵠ.ⵠⵠᐃⲆⲆ, Ⲇⵠ.ⵠᐃⵠⵠᐃ, Ⲇⵠ.ⲆⲆⵠΔᐃ, Ⲇⵠ.ⵠⵠᐃⲆⵠ, Ⲇⵠ.ⵠⲆⵠⲆᐃ, Ⲇⵠ.ᐃⲆᐃⵠⲆⵠᐃ, Ⲇⵠ.ΔΔᐃΔⵠⵠΔ, Ⲇⵠ.ⵠᐃΔᐃⵠΔⵠ, Ⲇⵠ.ⲆⵠⵠᐃⲆ, Ⲇⵠ.ΔΔⵠⵠᐃᐃⵠ, Ⲇⵠ.ᐃΔᐃΔⵠΔⲆ, Ⲇⵠ.ⵠⲆᐃⵠⵠ, Ⲇⵠ.ᐃᐃⵠΔⲆ, Ⲇⵠ.ⲆᐃᐃΔⵠΔΔ, Ⲇⵠ.ᐃΔⲆⲆΔᐃᐃ, Ⲇⵠ.ⲆᐃⲆΔⲆᐃᐃ, Ⲇⵠ.ⲆᐃⲆΔⵠ, Ⲇⵠ.ᐃⵠᐃⲆⲆ, Ⲇⵠ.ⲆⲆⲆΔⵠ];
-    ΔΔ[Xr.ᐃⲆᐃⲆ][Xr.ΔⲆⵠ][a("011_111_011")] = ΔΔ[Xr.ᐃⲆᐃⲆ][Xr.ΔⲆⵠ][a("011_111_010")];
-    ΔΔ[Xr.ᐃⲆᐃⲆ][Xr.ΔⲆⵠ][a("011_111_110")] = ΔΔ[Xr.ᐃⲆᐃⲆ][Xr.ΔⲆⵠ][a("011_111_010")];
-    ΔΔ[Xr.ᐃⲆᐃⲆ][Xr.ΔⲆⵠ][a("011_111_111")] = [Ⲇⵠ.ΔⲆΔΔⲆΔᐃ, Ⲇⵠ.ΔᐃⲆⲆᐃ, Ⲇⵠ.ⵠⵠᐃⲆⲆ, Ⲇⵠ.ⵠΔΔᐃⲆⲆⲆ, Ⲇⵠ.ⵠᐃⵠⵠᐃ, Ⲇⵠ.ⲆⲆⵠΔᐃ, Ⲇⵠ.ⵠⵠᐃⲆⵠ, Ⲇⵠ.ⵠΔⲆⵠⲆⵠⲆ, Ⲇⵠ.ⵠⲆⵠⲆᐃ, Ⲇⵠ.ᐃⲆᐃⵠⲆⵠᐃ, Ⲇⵠ.ΔΔᐃΔⵠⵠΔ, Ⲇⵠ.ⵠᐃΔᐃⵠΔⵠ, Ⲇⵠ.ⲆⵠⵠᐃⲆ, Ⲇⵠ.ΔΔⵠⵠᐃᐃⵠ, Ⲇⵠ.ᐃΔᐃΔⵠΔⲆ, Ⲇⵠ.ⵠⲆᐃⵠⵠ, Ⲇⵠ.ᐃᐃⵠΔⲆ, Ⲇⵠ.ⲆᐃᐃΔⵠΔΔ, Ⲇⵠ.ᐃΔⲆⲆΔᐃᐃ, Ⲇⵠ.ⲆᐃⲆΔⲆᐃᐃ, Ⲇⵠ.ⲆᐃⲆΔⵠ, Ⲇⵠ.ᐃⵠᐃⲆⲆ, Ⲇⵠ.ⲆⲆⲆΔⵠ];
-    ΔΔ[Xr.ᐃⲆᐃⲆ][Xr.ΔⲆⵠ][a("110_110_000")] = [Ⲇⵠ.ⵠΔⲆΔⵠⲆΔ, Ⲇⵠ.ⵠⲆⵠⲆᐃ, Ⲇⵠ.ⲆᐃΔᐃᐃΔΔ, Ⲇⵠ.ⲆⵠⵠᐃⲆ, Ⲇⵠ.ⵠⲆᐃⵠⵠ, Ⲇⵠ.ⲆⲆⲆΔⵠ];
-    ΔΔ[Xr.ᐃⲆᐃⲆ][Xr.ΔⲆⵠ][a("110_110_010")] = [Ⲇⵠ.ⵠⵠᐃⲆⵠ, Ⲇⵠ.ⵠΔⲆΔⵠⲆΔ, Ⲇⵠ.ⵠⲆⵠⲆᐃ, Ⲇⵠ.ⵠᐃΔᐃⵠΔⵠ, Ⲇⵠ.ⲆⵠⵠᐃⲆ, Ⲇⵠ.ⵠⲆᐃⵠⵠ, Ⲇⵠ.ⲆᐃⲆΔⵠ, Ⲇⵠ.ⲆⲆⲆΔⵠ];
-    ΔΔ[Xr.ᐃⲆᐃⲆ][Xr.ΔⲆⵠ][a("110_110_110")] = [Ⲇⵠ.ⵠⵠᐃⲆⵠ, Ⲇⵠ.ⵠΔⲆⵠⲆⵠⲆ, Ⲇⵠ.ⵠΔⲆΔⵠⲆΔ, Ⲇⵠ.ⵠⲆⵠⲆᐃ, Ⲇⵠ.ⵠᐃΔᐃⵠΔⵠ, Ⲇⵠ.ⲆⵠⵠᐃⲆ, Ⲇⵠ.ⵠⲆᐃⵠⵠ, Ⲇⵠ.ⲆᐃⲆΔⵠ, Ⲇⵠ.ⲆⲆⲆΔⵠ];
-    ΔΔ[Xr.ᐃⲆᐃⲆ][Xr.ΔⲆⵠ][a("110_111_000")] = [Ⲇⵠ.ΔᐃⲆⲆᐃ, Ⲇⵠ.ⵠⵠᐃⲆⲆ, Ⲇⵠ.ⵠΔⲆΔⵠⲆΔ, Ⲇⵠ.ⵠⲆⵠⲆᐃ, Ⲇⵠ.ⲆᐃΔᐃᐃΔΔ, Ⲇⵠ.ⵠⲆⵠⲆⲆⵠᐃ, Ⲇⵠ.ⲆⵠⵠᐃⲆ, Ⲇⵠ.ΔΔⵠⵠᐃᐃⵠ, Ⲇⵠ.ᐃΔᐃΔⵠΔⲆ, Ⲇⵠ.ⵠⲆᐃⵠⵠ, Ⲇⵠ.ᐃᐃⵠΔⲆ, Ⲇⵠ.ᐃⵠᐃⲆⲆ, Ⲇⵠ.ⲆⲆⲆΔⵠ];
-    ΔΔ[Xr.ᐃⲆᐃⲆ][Xr.ΔⲆⵠ][a("110_111_110")] = [Ⲇⵠ.ΔᐃⲆⲆᐃ, Ⲇⵠ.ⵠⵠᐃⲆⲆ, Ⲇⵠ.ⵠᐃⵠⵠᐃ, Ⲇⵠ.ⲆⲆⵠΔᐃ, Ⲇⵠ.ⵠⵠᐃⲆⵠ, Ⲇⵠ.ⵠΔⲆⵠⲆⵠⲆ, Ⲇⵠ.ⵠΔⲆΔⵠⲆΔ, Ⲇⵠ.ⵠⲆⵠⲆᐃ, Ⲇⵠ.ᐃⲆᐃⵠⲆⵠᐃ, Ⲇⵠ.ⵠⲆⵠⲆⲆⵠᐃ, Ⲇⵠ.ΔΔᐃΔⵠⵠΔ, Ⲇⵠ.ⵠᐃΔᐃⵠΔⵠ, Ⲇⵠ.ⲆⵠⵠᐃⲆ, Ⲇⵠ.ΔΔⵠⵠᐃᐃⵠ, Ⲇⵠ.ᐃΔᐃΔⵠΔⲆ, Ⲇⵠ.ⵠⲆᐃⵠⵠ, Ⲇⵠ.ᐃᐃⵠΔⲆ, Ⲇⵠ.ⲆᐃᐃΔⵠΔΔ, Ⲇⵠ.ᐃΔⲆⲆΔᐃᐃ, Ⲇⵠ.ⲆᐃⲆΔⲆᐃᐃ, Ⲇⵠ.ⲆᐃⲆΔⵠ, Ⲇⵠ.ᐃⵠᐃⲆⲆ, Ⲇⵠ.ⲆⲆⲆΔⵠ];
-    ΔΔ[Xr.ᐃⲆᐃⲆ][Xr.ΔⲆⵠ][a("110_111_111")] = ΔΔ[Xr.ᐃⲆᐃⲆ][Xr.ΔⲆⵠ][a("110_111_110")];
-    ΔΔ[Xr.ᐃⲆᐃⲆ][Xr.ΔⲆⵠ][a("110_111_011")] = ΔΔ[Xr.ᐃⲆᐃⲆ][Xr.ΔⲆⵠ][a("110_111_110")];
-    ΔΔ[Xr.ᐃⲆᐃⲆ][Xr.ΔⲆⵠ][a("110_111_010")] = ΔΔ[Xr.ᐃⲆᐃⲆ][Xr.ΔⲆⵠ][a("110_111_110")];
-    ΔΔ[Xr.ᐃⲆᐃⲆ][Xr.ΔⲆⵠ][a("111_111_110")] = [Ⲇⵠ.ⲆⲆⲆΔⵠ, Ⲇⵠ.ᐃⵠᐃⲆⲆ, Ⲇⵠ.ⲆᐃⲆΔⵠ, Ⲇⵠ.ⲆᐃⲆΔⲆᐃᐃ, Ⲇⵠ.ᐃΔⲆⲆΔᐃᐃ, Ⲇⵠ.ⲆᐃᐃΔⵠΔΔ, Ⲇⵠ.ᐃᐃⵠΔⲆ, Ⲇⵠ.ⵠⲆᐃⵠⵠ, Ⲇⵠ.ᐃΔᐃΔⵠΔⲆ, Ⲇⵠ.ΔΔⵠⵠᐃᐃⵠ, Ⲇⵠ.ⲆⵠⵠᐃⲆ, Ⲇⵠ.ⵠᐃΔᐃⵠΔⵠ, Ⲇⵠ.ΔΔᐃΔⵠⵠΔ, Ⲇⵠ.ⵠⲆⵠⲆⲆⵠᐃ, Ⲇⵠ.ᐃⲆᐃⵠⲆⵠᐃ, Ⲇⵠ.ⵠⲆⵠⲆᐃ, Ⲇⵠ.ⵠΔⲆΔⵠⲆΔ, Ⲇⵠ.ⵠⵠᐃⲆⵠ, Ⲇⵠ.ⲆⲆⵠΔᐃ, Ⲇⵠ.ⵠᐃⵠⵠᐃ, Ⲇⵠ.ⵠⵠᐃⲆⲆ, Ⲇⵠ.ΔᐃⲆⲆᐃ, Ⲇⵠ.ΔⲆΔΔⲆΔᐃ];
-    ΔΔ[Xr.ᐃⲆᐃⲆ][Xr.ΔⲆⵠ][a("111_111_011")] = ΔΔ[Xr.ᐃⲆᐃⲆ][Xr.ΔⲆⵠ][a("111_111_110")];
-    ΔΔ[Xr.ᐃⲆᐃⲆ][Xr.ΔⲆⵠ][a("111_111_000")] = [Ⲇⵠ.ⲆᐃΔᐃᐃΔΔ, Ⲇⵠ.ⵠⲆⵠⲆᐃ, Ⲇⵠ.ⵠΔⲆΔⵠⲆΔ, Ⲇⵠ.ⵠⵠᐃⲆⲆ, Ⲇⵠ.ΔᐃⲆⲆᐃ, Ⲇⵠ.ΔⲆΔΔⲆΔᐃ, Ⲇⵠ.ⵠⲆⵠⲆⲆⵠᐃ];
-    ΔΔ[Xr.ᐃⲆᐃⲆ][Xr.ΔⲆⵠ][a("111_111_111")] = [Ⲇⵠ.ΔⲆΔΔⲆΔᐃ, Ⲇⵠ.ΔᐃⲆⲆᐃ, Ⲇⵠ.ⵠⵠᐃⲆⲆ, Ⲇⵠ.ⵠΔΔᐃⲆⲆⲆ, Ⲇⵠ.ⵠᐃⵠⵠᐃ, Ⲇⵠ.ⲆⲆⵠΔᐃ, Ⲇⵠ.ⵠⵠᐃⲆⵠ, Ⲇⵠ.ⵠΔⲆⵠⲆⵠⲆ, Ⲇⵠ.ⵠΔⲆΔⵠⲆΔ, Ⲇⵠ.ⵠⲆⵠⲆᐃ, Ⲇⵠ.ᐃⲆᐃⵠⲆⵠᐃ, Ⲇⵠ.ΔΔᐃΔⵠⵠΔ, Ⲇⵠ.ⵠᐃΔᐃⵠΔⵠ, Ⲇⵠ.ⲆⵠⵠᐃⲆ, Ⲇⵠ.ΔΔⵠⵠᐃᐃⵠ, Ⲇⵠ.ᐃΔᐃΔⵠΔⲆ, Ⲇⵠ.ⵠⲆᐃⵠⵠ, Ⲇⵠ.ᐃᐃⵠΔⲆ, Ⲇⵠ.ⲆᐃᐃΔⵠΔΔ, Ⲇⵠ.ᐃΔⲆⲆΔᐃᐃ, Ⲇⵠ.ⲆᐃⲆΔⲆᐃᐃ, Ⲇⵠ.ⲆᐃⲆΔⵠ, Ⲇⵠ.ᐃⵠᐃⲆⲆ, Ⲇⵠ.ⲆⲆⲆΔⵠ];
-    ΔΔ[Xr.ᐃⲆᐃⲆ][Xr.ΔⲆⵠ][a("111_111_010")] = ΔΔ[Xr.ᐃⲆᐃⲆ][Xr.ΔⲆⵠ][a("111_111_110")];
-    ΔΔ[Xr.ΔΔⲆⲆ] = [];
-    ΔΔ[Xr.ΔΔⲆⲆ][Xr.ⲆᐃΔ] = [];
-    ΔΔ[Xr.ΔΔⲆⲆ][Xr.ⲆᐃΔ][a("000_010_000")] = Ⲇⵠ.ⲆⲆⲆⲆᐃⵠᐃ;
-    ΔΔ[Xr.ΔΔⲆⲆ][Xr.ⲆᐃΔ][a("000_010_010")] = Ⲇⵠ.ⲆⲆⲆⵠⲆⵠⲆ;
-    ΔΔ[Xr.ΔΔⲆⲆ][Xr.ⲆᐃΔ][a("000_011_000")] = Ⲇⵠ.ᐃⵠᐃΔΔⵠΔ;
-    ΔΔ[Xr.ΔΔⲆⲆ][Xr.ⲆᐃΔ][a("000_011_010")] = Ⲇⵠ.ᐃⲆⵠⲆⲆⲆⵠ;
-    ΔΔ[Xr.ΔΔⲆⲆ][Xr.ⲆᐃΔ][a("000_011_011")] = Ⲇⵠ.ⲆΔⲆⵠⲆⲆᐃ;
-    ΔΔ[Xr.ΔΔⲆⲆ][Xr.ⲆᐃΔ][a("000_110_000")] = Ⲇⵠ.ⲆⵠⲆᐃⵠⲆᐃ;
-    ΔΔ[Xr.ΔΔⲆⲆ][Xr.ⲆᐃΔ][a("000_110_010")] = Ⲇⵠ.ᐃΔΔᐃⲆⵠⵠ;
-    ΔΔ[Xr.ΔΔⲆⲆ][Xr.ⲆᐃΔ][a("000_110_110")] = Ⲇⵠ.ΔΔΔⲆⵠᐃΔ;
-    ΔΔ[Xr.ΔΔⲆⲆ][Xr.ⲆᐃΔ][a("000_111_000")] = Ⲇⵠ.ᐃⲆᐃⲆⵠᐃⲆ;
-    ΔΔ[Xr.ΔΔⲆⲆ][Xr.ⲆᐃΔ][a("000_111_010")] = Ⲇⵠ.ⵠⵠⲆⵠⲆⲆⲆ;
-    ΔΔ[Xr.ΔΔⲆⲆ][Xr.ⲆᐃΔ][a("000_111_011")] = Ⲇⵠ.ⲆⲆᐃΔᐃᐃΔ;
-    ΔΔ[Xr.ΔΔⲆⲆ][Xr.ⲆᐃΔ][a("000_111_110")] = Ⲇⵠ.ᐃⵠⵠⵠⲆⲆⵠ;
-    ΔΔ[Xr.ΔΔⲆⲆ][Xr.ⲆᐃΔ][a("000_111_111")] = Ⲇⵠ.ⵠⵠᐃΔᐃⲆΔ;
-    ΔΔ[Xr.ΔΔⲆⲆ][Xr.ⲆᐃΔ][a("010_010_000")] = Ⲇⵠ.ΔᐃΔⲆⲆᐃⲆ;
-    ΔΔ[Xr.ΔΔⲆⲆ][Xr.ⲆᐃΔ][a("010_010_010")] = Ⲇⵠ.ΔⲆⵠⵠⵠⲆⲆ;
-    ΔΔ[Xr.ΔΔⲆⲆ][Xr.ⲆᐃΔ][a("010_011_000")] = Ⲇⵠ.ΔⲆΔⲆᐃᐃᐃ;
-    ΔΔ[Xr.ΔΔⲆⲆ][Xr.ⲆᐃΔ][a("010_011_010")] = Ⲇⵠ.ⲆΔΔΔⵠΔᐃ;
-    ΔΔ[Xr.ΔΔⲆⲆ][Xr.ⲆᐃΔ][a("010_011_011")] = Ⲇⵠ.ᐃⵠⲆΔⵠⵠᐃ;
-    ΔΔ[Xr.ΔΔⲆⲆ][Xr.ⲆᐃΔ][a("010_110_000")] = Ⲇⵠ.ᐃΔⲆⵠⵠᐃⲆ;
-    ΔΔ[Xr.ΔΔⲆⲆ][Xr.ⲆᐃΔ][a("010_110_010")] = Ⲇⵠ.ⵠⵠΔⲆΔⲆᐃ;
-    ΔΔ[Xr.ΔΔⲆⲆ][Xr.ⲆᐃΔ][a("010_110_110")] = Ⲇⵠ.ΔΔⵠⵠᐃⵠᐃ;
-    ΔΔ[Xr.ΔΔⲆⲆ][Xr.ⲆᐃΔ][a("010_111_000")] = Ⲇⵠ.ΔᐃᐃΔΔⵠΔ;
-    ΔΔ[Xr.ΔΔⲆⲆ][Xr.ⲆᐃΔ][a("010_111_010")] = Ⲇⵠ.ⵠⵠΔΔΔⲆⵠ;
-    ΔΔ[Xr.ΔΔⲆⲆ][Xr.ⲆᐃΔ][a("010_111_011")] = Ⲇⵠ.ⵠⵠⵠⲆⲆⵠᐃ;
-    ΔΔ[Xr.ΔΔⲆⲆ][Xr.ⲆᐃΔ][a("010_111_110")] = Ⲇⵠ.ᐃΔⲆΔⲆΔⵠ;
-    ΔΔ[Xr.ΔΔⲆⲆ][Xr.ⲆᐃΔ][a("010_111_111")] = Ⲇⵠ.ⲆⲆⲆᐃΔⵠⵠ;
-    ΔΔ[Xr.ΔΔⲆⲆ][Xr.ⲆᐃΔ][a("011_011_000")] = Ⲇⵠ.ⵠⵠᐃⲆΔⲆⲆ;
-    ΔΔ[Xr.ΔΔⲆⲆ][Xr.ⲆᐃΔ][a("011_011_010")] = Ⲇⵠ.ΔΔΔⵠΔᐃⵠ;
-    ΔΔ[Xr.ΔΔⲆⲆ][Xr.ⲆᐃΔ][a("011_011_011")] = Ⲇⵠ.ᐃⲆΔⲆⵠᐃⲆ;
-    ΔΔ[Xr.ΔΔⲆⲆ][Xr.ⲆᐃΔ][a("011_111_000")] = Ⲇⵠ.ᐃᐃᐃΔⵠᐃᐃ;
-    ΔΔ[Xr.ΔΔⲆⲆ][Xr.ⲆᐃΔ][a("011_111_010")] = Ⲇⵠ.ΔⲆᐃᐃΔΔⵠ;
-    ΔΔ[Xr.ΔΔⲆⲆ][Xr.ⲆᐃΔ][a("011_111_011")] = Ⲇⵠ.ΔⵠᐃΔⵠΔⲆ;
-    ΔΔ[Xr.ΔΔⲆⲆ][Xr.ⲆᐃΔ][a("011_111_110")] = Ⲇⵠ.ᐃⲆᐃΔⲆⵠΔ;
-    ΔΔ[Xr.ΔΔⲆⲆ][Xr.ⲆᐃΔ][a("011_111_111")] = Ⲇⵠ.ᐃⲆⵠⲆⲆΔᐃ;
-    ΔΔ[Xr.ΔΔⲆⲆ][Xr.ⲆᐃΔ][a("110_110_000")] = Ⲇⵠ.ⲆⵠⵠⲆᐃⵠᐃ;
-    ΔΔ[Xr.ΔΔⲆⲆ][Xr.ⲆᐃΔ][a("110_110_010")] = Ⲇⵠ.ᐃΔⵠⲆⵠⵠⵠ;
-    ΔΔ[Xr.ΔΔⲆⲆ][Xr.ⲆᐃΔ][a("110_110_110")] = Ⲇⵠ.ⵠΔⵠᐃΔⲆΔ;
-    ΔΔ[Xr.ΔΔⲆⲆ][Xr.ⲆᐃΔ][a("110_111_000")] = Ⲇⵠ.ΔΔⲆᐃⲆᐃΔ;
-    ΔΔ[Xr.ΔΔⲆⲆ][Xr.ⲆᐃΔ][a("110_111_010")] = Ⲇⵠ.ΔΔⵠᐃΔⵠⲆ;
-    ΔΔ[Xr.ΔΔⲆⲆ][Xr.ⲆᐃΔ][a("110_111_011")] = Ⲇⵠ.ⵠᐃⲆᐃΔΔⲆ;
-    ΔΔ[Xr.ΔΔⲆⲆ][Xr.ⲆᐃΔ][a("110_111_110")] = Ⲇⵠ.ⵠⵠⵠⲆᐃⲆⵠ;
-    ΔΔ[Xr.ΔΔⲆⲆ][Xr.ⲆᐃΔ][a("110_111_111")] = Ⲇⵠ.ⲆΔⵠⵠᐃΔᐃ;
-    ΔΔ[Xr.ΔΔⲆⲆ][Xr.ⲆᐃΔ][a("111_111_011")] = Ⲇⵠ.ⲆᐃΔⵠΔⲆⲆ;
-    ΔΔ[Xr.ΔΔⲆⲆ][Xr.ⲆᐃΔ][a("111_111_110")] = Ⲇⵠ.ⲆⲆᐃᐃⲆⲆᐃ;
-    ΔΔ[Xr.ΔΔⲆⲆ][Xr.ⲆᐃΔ][a("111_111_011")] = Ⲇⵠ.ⲆᐃΔⵠΔⲆⲆ;
-    ΔΔ[Xr.ΔΔⲆⲆ][Xr.ⲆᐃΔ][a("111_111_000")] = Ⲇⵠ.ΔᐃⵠⲆᐃⵠⲆ;
-    ΔΔ[Xr.ΔΔⲆⲆ][Xr.ⲆᐃΔ][a("111_111_111")] = Ⲇⵠ.ΔᐃⵠⵠΔΔΔ;
-    ΔΔ[Xr.ΔΔⲆⲆ][Xr.ⲆᐃΔ][a("111_111_010")] = Ⲇⵠ.ᐃⵠᐃⵠΔᐃΔ;
-    ΔΔ[Xr.ΔΔⲆⲆ][Xr.ΔⲆⵠ] = [];
-    ΔΔ[Xr.ΔΔⲆⲆ][Xr.ΔⲆⵠ][a("000_010_000")] = Ⲇⵠ.ᐃⲆⲆᐃᐃΔΔ;
-    ΔΔ[Xr.ΔΔⲆⲆ][Xr.ΔⲆⵠ][a("000_010_010")] = Ⲇⵠ.ᐃⲆᐃΔΔⲆⵠ;
-    ΔΔ[Xr.ΔΔⲆⲆ][Xr.ΔⲆⵠ][a("000_011_000")] = Ⲇⵠ.ΔⵠⲆⵠⲆΔΔ;
-    ΔΔ[Xr.ΔΔⲆⲆ][Xr.ΔⲆⵠ][a("000_011_010")] = Ⲇⵠ.ΔΔⵠⵠᐃⵠΔ;
-    ΔΔ[Xr.ΔΔⲆⲆ][Xr.ΔⲆⵠ][a("000_011_011")] = Ⲇⵠ.ⲆⲆΔⵠᐃⵠⲆ;
-    ΔΔ[Xr.ΔΔⲆⲆ][Xr.ΔⲆⵠ][a("000_110_000")] = Ⲇⵠ.ᐃⲆⲆᐃⲆᐃⵠ;
-    ΔΔ[Xr.ΔΔⲆⲆ][Xr.ΔⲆⵠ][a("000_110_010")] = Ⲇⵠ.ⲆᐃⵠΔᐃΔᐃ;
-    ΔΔ[Xr.ΔΔⲆⲆ][Xr.ΔⲆⵠ][a("000_110_110")] = Ⲇⵠ.ΔⵠⵠΔΔⲆⲆ;
-    ΔΔ[Xr.ΔΔⲆⲆ][Xr.ΔⲆⵠ][a("000_111_000")] = Ⲇⵠ.ΔⲆⲆⲆᐃⵠⲆ;
-    ΔΔ[Xr.ΔΔⲆⲆ][Xr.ΔⲆⵠ][a("000_111_010")] = Ⲇⵠ.ΔⲆⵠⲆⲆⵠΔ;
-    ΔΔ[Xr.ΔΔⲆⲆ][Xr.ΔⲆⵠ][a("000_111_011")] = Ⲇⵠ.ᐃΔⲆΔⲆᐃⵠ;
-    ΔΔ[Xr.ΔΔⲆⲆ][Xr.ΔⲆⵠ][a("000_111_110")] = Ⲇⵠ.ΔΔᐃⲆⲆⵠⵠ;
-    ΔΔ[Xr.ΔΔⲆⲆ][Xr.ΔⲆⵠ][a("000_111_111")] = Ⲇⵠ.ⵠⵠΔⲆⲆⲆⲆ;
-    ΔΔ[Xr.ΔΔⲆⲆ][Xr.ΔⲆⵠ][a("010_010_000")] = Ⲇⵠ.ᐃⵠΔⲆᐃΔᐃ;
-    ΔΔ[Xr.ΔΔⲆⲆ][Xr.ΔⲆⵠ][a("010_010_010")] = Ⲇⵠ.ᐃⲆⵠΔΔᐃⵠ;
-    ΔΔ[Xr.ΔΔⲆⲆ][Xr.ΔⲆⵠ][a("010_011_000")] = Ⲇⵠ.ⲆⲆⲆᐃᐃⲆᐃ;
-    ΔΔ[Xr.ΔΔⲆⲆ][Xr.ΔⲆⵠ][a("010_011_010")] = Ⲇⵠ.ᐃⵠᐃΔᐃΔⵠ;
-    ΔΔ[Xr.ΔΔⲆⲆ][Xr.ΔⲆⵠ][a("010_011_011")] = Ⲇⵠ.ⲆᐃⵠᐃⲆᐃΔ;
-    ΔΔ[Xr.ΔΔⲆⲆ][Xr.ΔⲆⵠ][a("010_110_000")] = Ⲇⵠ.ⵠΔⵠⲆⵠⲆᐃ;
-    ΔΔ[Xr.ΔΔⲆⲆ][Xr.ΔⲆⵠ][a("010_110_010")] = Ⲇⵠ.ⵠⵠⵠⵠⵠⵠⲆ;
-    ΔΔ[Xr.ΔΔⲆⲆ][Xr.ΔⲆⵠ][a("010_110_110")] = Ⲇⵠ.ᐃᐃⲆΔⵠⵠⲆ;
-    ΔΔ[Xr.ΔΔⲆⲆ][Xr.ΔⲆⵠ][a("010_111_000")] = Ⲇⵠ.ᐃᐃⲆⲆⵠⲆᐃ;
-    ΔΔ[Xr.ΔΔⲆⲆ][Xr.ΔⲆⵠ][a("010_111_010")] = Ⲇⵠ.ⵠᐃⲆⵠⵠⵠᐃ;
-    ΔΔ[Xr.ΔΔⲆⲆ][Xr.ΔⲆⵠ][a("010_111_011")] = Ⲇⵠ.ᐃⲆᐃΔⲆΔΔ;
-    ΔΔ[Xr.ΔΔⲆⲆ][Xr.ΔⲆⵠ][a("010_111_110")] = Ⲇⵠ.ΔⲆⲆᐃⵠᐃⵠ;
-    ΔΔ[Xr.ΔΔⲆⲆ][Xr.ΔⲆⵠ][a("010_111_111")] = Ⲇⵠ.ⵠᐃⲆⲆᐃⵠΔ;
-    ΔΔ[Xr.ΔΔⲆⲆ][Xr.ΔⲆⵠ][a("011_011_000")] = Ⲇⵠ.ΔⲆⲆΔⲆᐃⲆ;
-    ΔΔ[Xr.ΔΔⲆⲆ][Xr.ΔⲆⵠ][a("011_011_010")] = Ⲇⵠ.ᐃᐃⵠⵠᐃⲆᐃ;
-    ΔΔ[Xr.ΔΔⲆⲆ][Xr.ΔⲆⵠ][a("011_011_011")] = Ⲇⵠ.ⵠⲆᐃᐃⲆⲆⵠ;
-    ΔΔ[Xr.ΔΔⲆⲆ][Xr.ΔⲆⵠ][a("011_111_000")] = Ⲇⵠ.ΔⵠᐃᐃᐃⲆⲆ;
-    ΔΔ[Xr.ΔΔⲆⲆ][Xr.ΔⲆⵠ][a("011_111_010")] = Ⲇⵠ.ⲆⲆᐃᐃΔΔⵠ;
-    ΔΔ[Xr.ΔΔⲆⲆ][Xr.ΔⲆⵠ][a("011_111_011")] = Ⲇⵠ.ΔⵠⲆⲆⵠᐃⲆ;
-    ΔΔ[Xr.ΔΔⲆⲆ][Xr.ΔⲆⵠ][a("011_111_110")] = Ⲇⵠ.ⵠΔΔⵠᐃⲆⵠ;
-    ΔΔ[Xr.ΔΔⲆⲆ][Xr.ΔⲆⵠ][a("011_111_111")] = Ⲇⵠ.ⵠⵠⵠᐃᐃⵠᐃ;
-    ΔΔ[Xr.ΔΔⲆⲆ][Xr.ΔⲆⵠ][a("110_110_000")] = Ⲇⵠ.ΔⵠΔᐃⵠΔⲆ;
-    ΔΔ[Xr.ΔΔⲆⲆ][Xr.ΔⲆⵠ][a("110_110_010")] = Ⲇⵠ.ⵠⵠⵠⵠⵠⲆΔ;
-    ΔΔ[Xr.ΔΔⲆⲆ][Xr.ΔⲆⵠ][a("110_110_110")] = Ⲇⵠ.ᐃᐃⲆⲆⲆⲆⲆ;
-    ΔΔ[Xr.ΔΔⲆⲆ][Xr.ΔⲆⵠ][a("110_111_000")] = Ⲇⵠ.ⲆⲆᐃⲆΔⲆᐃ;
-    ΔΔ[Xr.ΔΔⲆⲆ][Xr.ΔⲆⵠ][a("110_111_010")] = Ⲇⵠ.ⲆⲆⵠΔᐃΔⲆ;
-    ΔΔ[Xr.ΔΔⲆⲆ][Xr.ΔⲆⵠ][a("110_111_011")] = Ⲇⵠ.ΔΔᐃⲆᐃⵠᐃ;
-    ΔΔ[Xr.ΔΔⲆⲆ][Xr.ΔⲆⵠ][a("110_111_110")] = Ⲇⵠ.ⵠᐃⲆᐃⵠᐃⲆ;
-    ΔΔ[Xr.ΔΔⲆⲆ][Xr.ΔⲆⵠ][a("110_111_111")] = Ⲇⵠ.ⲆⲆᐃΔⵠⲆΔ;
-    ΔΔ[Xr.ΔΔⲆⲆ][Xr.ΔⲆⵠ][a("111_111_011")] = Ⲇⵠ.ᐃⲆΔΔⵠΔⲆ;
-    ΔΔ[Xr.ΔΔⲆⲆ][Xr.ΔⲆⵠ][a("111_111_110")] = Ⲇⵠ.ΔⵠⵠⲆⲆᐃᐃ;
-    ΔΔ[Xr.ΔΔⲆⲆ][Xr.ΔⲆⵠ][a("111_111_011")] = Ⲇⵠ.ᐃⲆΔΔⵠΔⲆ;
-    ΔΔ[Xr.ΔΔⲆⲆ][Xr.ΔⲆⵠ][a("111_111_000")] = Ⲇⵠ.ⲆⵠⲆΔᐃⵠⲆ;
-    ΔΔ[Xr.ΔΔⲆⲆ][Xr.ΔⲆⵠ][a("111_111_111")] = Ⲇⵠ.ⵠᐃΔᐃᐃⲆⲆ;
-    ΔΔ[Xr.ΔΔⲆⲆ][Xr.ΔⲆⵠ][a("111_111_010")] = Ⲇⵠ.ᐃⲆΔᐃⲆⵠᐃ;
-    ΔΔ[Xr.ⲆⵠΔⵠΔ] = [];
-    ΔΔ[Xr.ⲆⵠΔⵠΔ][Xr.ⲆᐃΔ] = Ⲇⵠ.ΔⲆΔΔⲆⲆᐃ;
-    ΔΔ[Xr.ⲆⵠΔⵠΔ][Xr.ΔⲆⵠ] = Ⲇⵠ.ᐃⲆΔΔⲆᐃⵠ;
-    ΔΔ[Xr.ⲆᐃΔⵠᐃ] = [];
-    ΔΔ[Xr.ⲆᐃΔⵠᐃ][Xr.ⲆᐃΔ] = Ⲇⵠ.ⵠᐃⲆⵠᐃᐃⵠ;
-    ΔΔ[Xr.ⲆᐃΔⵠᐃ][Xr.ΔⲆⵠ] = Ⲇⵠ.Ⲇⵠᐃᐃⵠⵠⵠ;
-    ΔΔ[Xr.ⲆⵠᐃᐃⲆⲆⲆ] = [];
-    ΔΔ[Xr.ⲆⵠᐃᐃⲆⲆⲆ][Xr.ⲆᐃΔ] = Ⲇⵠ.ⵠᐃΔⲆⵠⵠⵠ;
-    ΔΔ[Xr.ⲆⵠᐃᐃⲆⲆⲆ][Xr.ΔⲆⵠ] = Ⲇⵠ.ᐃΔⵠⵠⲆⲆⲆ;
-    ΔΔ[Xr.ⲆᐃΔΔⵠ] = [];
-    ΔΔ[Xr.ⲆᐃΔΔⵠ][Xr.ⲆᐃΔ] = Ⲇⵠ.ⲆⲆⲆΔⵠⲆⵠ;
-    ΔΔ[Xr.ⲆᐃΔΔⵠ][Xr.ΔⲆⵠ] = Ⲇⵠ.ΔᐃⲆⵠⲆⵠⵠ;
-    ΔΔ[Xr.ᐃᐃᐃⲆⲆⲆΔ] = [];
-    ΔΔ[Xr.ᐃᐃᐃⲆⲆⲆΔ][Xr.ⲆᐃΔ] = Ⲇⵠ.ⲆⲆⵠΔᐃⵠᐃ;
-    ΔΔ[Xr.ᐃᐃᐃⲆⲆⲆΔ][Xr.ΔⲆⵠ] = Ⲇⵠ.ᐃⲆᐃᐃⲆᐃᐃ;
-    ΔΔ[Xr.ⵠⲆⲆᐃΔᐃᐃ] = [];
-    ΔΔ[Xr.ⵠⲆⲆᐃΔᐃᐃ][Xr.ⲆᐃΔ] = Ⲇⵠ.ⵠΔᐃⲆᐃᐃⵠ;
-    ΔΔ[Xr.ⵠⲆⲆᐃΔᐃᐃ][Xr.ΔⲆⵠ] = Ⲇⵠ.ⲆⵠⲆΔⵠᐃΔ;
-    ΔΔ[Xr.ⲆᐃⵠΔⲆ] = [];
-    ΔΔ[Xr.ⲆᐃⵠΔⲆ][Xr.ⲆᐃΔ] = Ⲇⵠ.ⲆⲆΔⲆΔΔᐃ;
-    ΔΔ[Xr.ⲆᐃⵠΔⲆ][Xr.ΔⲆⵠ] = Ⲇⵠ.ⲆᐃⵠⲆⵠⲆᐃ;
-    ΔΔ[Xr.ⵠᐃⵠᐃⲆᐃΔ] = [];
-    ΔΔ[Xr.ⵠᐃⵠᐃⲆᐃΔ][Xr.ⲆᐃΔ] = Ⲇⵠ.ⲆᐃᐃⵠⲆΔᐃ;
-    ΔΔ[Xr.ⵠᐃⵠᐃⲆᐃΔ][Xr.ΔⲆⵠ] = Ⲇⵠ.ⵠᐃΔᐃⵠⲆᐃ;
-    ΔΔ[Xr.ᐃᐃΔΔᐃᐃΔ] = [];
-    ΔΔ[Xr.ᐃᐃΔΔᐃᐃΔ][Xr.ⲆᐃΔ] = Ⲇⵠ.ᐃΔᐃⵠⵠΔᐃ;
-    ΔΔ[Xr.ᐃᐃΔΔᐃᐃΔ][Xr.ΔⲆⵠ] = Ⲇⵠ.ᐃᐃΔⵠⲆⲆⲆ;
-    ΔΔ[Xr.ΔⵠⲆΔΔᐃᐃ] = [];
-    ΔΔ[Xr.ΔⵠⲆΔΔᐃᐃ][Xr.ⲆᐃΔ] = Ⲇⵠ.ΔᐃᐃⵠᐃⲆⵠ;
-    ΔΔ[Xr.ΔⵠⲆΔΔᐃᐃ][Xr.ΔⲆⵠ] = Ⲇⵠ.ⵠᐃΔᐃΔⲆⲆ;
-    ΔΔ[Xr.ⵠⵠⵠΔⲆ] = [];
-    ΔΔ[Xr.ⵠⵠⵠΔⲆ][Xr.ⲆᐃΔ] = [Ⲇⵠ.ΔᐃΔⵠΔᐃᐃ];
-    ΔΔ[Xr.ⵠⵠⵠΔⲆ][Xr.ΔⲆⵠ] = [Ⲇⵠ.ⲆⲆⵠⲆΔᐃⲆ];
-    ΔΔ[Xr.ᐃⵠⵠⲆᐃ] = [];
-    ΔΔ[Xr.ᐃⵠⵠⲆᐃ][Xr.ⲆᐃΔ] = Ⲇⵠ.ᐃⵠⵠⲆⲆΔΔ;
-    ΔΔ[Xr.ᐃⵠⵠⲆᐃ][Xr.ΔⲆⵠ] = Ⲇⵠ.ᐃᐃⲆⵠΔⵠⵠ;
-    ΔΔ[Xr.ⵠⲆᐃᐃⲆ] = [];
-    ΔΔ[Xr.ⵠⲆᐃᐃⲆ][Xr.ⲆᐃΔ] = Ⲇⵠ.ᐃⵠΔⲆⲆⵠᐃ;
-    ΔΔ[Xr.ⵠⲆᐃᐃⲆ][Xr.ΔⲆⵠ] = Ⲇⵠ.ⲆΔⲆΔⵠⲆⲆ;
-    ΔΔ[Xr.Ⲇᐃⵠⵠⵠ] = [];
-    ΔΔ[Xr.Ⲇᐃⵠⵠⵠ][Xr.ⲆᐃΔ] = Ⲇⵠ.ΔⵠⲆΔᐃⵠⵠ;
-    ΔΔ[Xr.Ⲇᐃⵠⵠⵠ][Xr.ΔⲆⵠ] = Ⲇⵠ.ⲆⵠᐃᐃⵠⲆᐃ;
-    ΔΔ[Xr.ᐃⲆΔᐃⲆ] = [];
-    ΔΔ[Xr.ᐃⲆΔᐃⲆ][Xr.ⲆᐃΔ] = Ⲇⵠ.ᐃᐃⲆΔⲆᐃΔ;
-    ΔΔ[Xr.ᐃⲆΔᐃⲆ][Xr.ΔⲆⵠ] = Ⲇⵠ.ᐃᐃⲆⵠΔΔᐃ;
-    ΔΔ[Xr.ΔⵠⵠΔΔ] = [];
-    ΔΔ[Xr.ΔⵠⵠΔΔ][Xr.ⲆᐃΔ] = Ⲇⵠ.ⲆᐃⲆᐃᐃⲆⵠ;
-    ΔΔ[Xr.ΔⵠⵠΔΔ][Xr.ΔⲆⵠ] = Ⲇⵠ.ⵠΔⵠⵠᐃᐃⲆ;
-    ΔΔ[Xr.ΔΔⲆᐃⲆ] = [];
-    ΔΔ[Xr.ΔΔⲆᐃⲆ][Xr.ⲆᐃΔ] = Ⲇⵠ.ᐃⵠⵠᐃⵠⵠⲆ;
-    ΔΔ[Xr.ΔΔⲆᐃⲆ][Xr.ΔⲆⵠ] = Ⲇⵠ.ⲆΔⲆⲆⵠⵠⵠ;
-    ΔΔ[Xr.ΔⵠΔⲆΔ] = [];
-    ΔΔ[Xr.ΔⵠΔⲆΔ][Xr.ⲆᐃΔ] = Ⲇⵠ.ᐃⲆⲆΔᐃᐃᐃ;
-    ΔΔ[Xr.ΔⵠΔⲆΔ][Xr.ΔⲆⵠ] = Ⲇⵠ.ᐃᐃⵠⵠⵠⵠⵠ;
-    ΔΔ[Xr.ⵠΔⲆⵠᐃ] = [];
-    ΔΔ[Xr.ⵠΔⲆⵠᐃ][Xr.ⲆᐃΔ] = Ⲇⵠ.ΔΔⲆⵠⵠⵠᐃ;
-    ΔΔ[Xr.ⵠΔⲆⵠᐃ][Xr.ΔⲆⵠ] = Ⲇⵠ.ᐃᐃⵠΔⲆⵠⵠ;
-    ΔΔ[Xr.ᐃΔΔⵠᐃ] = [];
-    ΔΔ[Xr.ᐃΔΔⵠᐃ][Xr.ⲆᐃΔ] = Ⲇⵠ.ᐃᐃⲆⵠᐃⵠᐃ;
-    ΔΔ[Xr.ᐃΔΔⵠᐃ][Xr.ΔⲆⵠ] = Ⲇⵠ.ΔⵠΔΔⵠⲆⵠ;
-    ΔΔ[Xr.ᐃⲆⵠⲆⵠΔⵠ] = [];
-    ΔΔ[Xr.ᐃⲆⵠⲆⵠΔⵠ][Xr.ⲆᐃΔ] = Ⲇⵠ.ᐃⲆᐃΔΔⵠⲆ;
-    ΔΔ[Xr.ᐃⲆⵠⲆⵠΔⵠ][Xr.ΔⲆⵠ] = Ⲇⵠ.ᐃΔⵠᐃⲆᐃᐃ;
-    ΔΔ[Xr.ⲆᐃΔᐃᐃⲆΔ] = [];
-    ΔΔ[Xr.ⲆᐃΔᐃᐃⲆΔ][Xr.ⲆᐃΔ] = Ⲇⵠ.ᐃᐃᐃⵠⲆⵠᐃ;
-    ΔΔ[Xr.ⲆᐃΔᐃᐃⲆΔ][Xr.ΔⲆⵠ] = Ⲇⵠ.ⲆⲆᐃᐃᐃⲆⲆ;
-    ΔΔ[Xr.ᐃⵠⲆⵠΔ] = [];
-    ΔΔ[Xr.ᐃⵠⲆⵠΔ][Xr.ⲆᐃΔ] = Ⲇⵠ.ⲆΔⵠⵠᐃᐃΔ;
-    ΔΔ[Xr.ᐃⵠⲆⵠΔ][Xr.ΔⲆⵠ] = Ⲇⵠ.ⵠⲆΔⵠᐃⲆⵠ;
-    ΔΔ[Xr.ⲆᐃⲆⲆⲆⵠⲆ] = Ⲇⵠ.ⲆᐃⲆⲆⲆⵠⲆ;
-    ΔΔ[Xr.ᐃᐃⵠᐃᐃᐃᐃ] = Ⲇⵠ.ᐃᐃⵠᐃᐃᐃᐃ;
-    ΔΔ[Xr.ᐃⲆᐃⵠᐃ] = [];
-    ΔΔ[Xr.ᐃⲆᐃⵠᐃ][Xr.ⲆᐃΔ] = [];
-    ΔΔ[Xr.ᐃⲆᐃⵠᐃ][Xr.ΔⲆⵠ] = [];
-    ΔΔ[Xr.ᐃⲆᐃⵠᐃ][Xr.ⲆᐃΔ].push(Ⲇⵠ.ΔᐃⵠΔⲆᐃⲆ);
-    ΔΔ[Xr.ᐃⲆᐃⵠᐃ][Xr.ⲆᐃΔ].push(Ⲇⵠ.ⵠⲆΔᐃΔⵠⲆ);
-    ΔΔ[Xr.ᐃⲆᐃⵠᐃ][Xr.ⲆᐃΔ].push(Ⲇⵠ.ΔⲆΔΔⲆⵠⲆ);
-    ΔΔ[Xr.ᐃⲆᐃⵠᐃ][Xr.ΔⲆⵠ].push(Ⲇⵠ.ᐃⵠⲆⲆⲆⵠⵠ);
-    ΔΔ[Xr.ᐃⲆᐃⵠᐃ][Xr.ΔⲆⵠ].push(Ⲇⵠ.ⵠᐃᐃⵠⵠᐃᐃ);
-    ΔΔ[Xr.ᐃⲆᐃⵠᐃ][Xr.ΔⲆⵠ].push(Ⲇⵠ.Ⲇⵠᐃᐃⵠᐃᐃ);
-    ΔΔ[Xr.ΔⵠΔⲆⲆ] = [];
-    ΔΔ[Xr.ΔⵠΔⲆⲆ][Xr.ⲆᐃΔ] = [];
-    ΔΔ[Xr.ΔⵠΔⲆⲆ][Xr.ΔⲆⵠ] = [];
-    ΔΔ[Xr.ΔⵠΔⲆⲆ][Xr.ⲆᐃΔ].push(Ⲇⵠ.ᐃΔΔⵠᐃΔⲆ);
-    ΔΔ[Xr.ΔⵠΔⲆⲆ][Xr.ⲆᐃΔ].push(Ⲇⵠ.ᐃΔⲆⵠΔᐃⵠ);
-    ΔΔ[Xr.ΔⵠΔⲆⲆ][Xr.ⲆᐃΔ].push(Ⲇⵠ.ᐃⲆⲆⵠΔᐃᐃ);
-    ΔΔ[Xr.ΔⵠΔⲆⲆ][Xr.ΔⲆⵠ].push(Ⲇⵠ.ⲆᐃΔⵠⵠⲆΔ);
-    ΔΔ[Xr.ΔⵠΔⲆⲆ][Xr.ΔⲆⵠ].push(Ⲇⵠ.ᐃⲆⵠⵠΔⲆΔ);
-    ΔΔ[Xr.ΔⵠΔⲆⲆ][Xr.ΔⲆⵠ].push(Ⲇⵠ.ⵠⵠⵠᐃⵠΔⵠ);
-    ΔΔ[Xr.ⲆΔᐃⲆᐃ] = [];
-    ΔΔ[Xr.ⲆΔᐃⲆᐃ][Xr.ⲆᐃΔ] = [];
-    ΔΔ[Xr.ⲆΔᐃⲆᐃ][Xr.ΔⲆⵠ] = [];
-    ΔΔ[Xr.ⲆΔᐃⲆᐃ][Xr.ⲆᐃΔ].push(Ⲇⵠ.ⲆᐃⲆᐃᐃⲆⲆ);
-    ΔΔ[Xr.ⲆΔᐃⲆᐃ][Xr.ⲆᐃΔ].push(Ⲇⵠ.ⲆᐃⲆᐃⵠΔⵠ);
-    ΔΔ[Xr.ⲆΔᐃⲆᐃ][Xr.ⲆᐃΔ].push(Ⲇⵠ.ⲆᐃⲆⲆⵠᐃΔ);
-    ΔΔ[Xr.ⲆΔᐃⲆᐃ][Xr.ⲆᐃΔ].push(Ⲇⵠ.ⵠᐃΔΔᐃΔⵠ);
-    ΔΔ[Xr.ⲆΔᐃⲆᐃ][Xr.ⲆᐃΔ].push(Ⲇⵠ.ⲆᐃᐃᐃⲆΔⵠ);
-    ΔΔ[Xr.ⲆΔᐃⲆᐃ][Xr.ΔⲆⵠ].push(Ⲇⵠ.ᐃᐃᐃⵠⲆΔⵠ);
-    ΔΔ[Xr.ⲆΔᐃⲆᐃ][Xr.ΔⲆⵠ].push(Ⲇⵠ.ᐃᐃΔΔΔⵠⵠ);
-    ΔΔ[Xr.ⲆΔᐃⲆᐃ][Xr.ΔⲆⵠ].push(Ⲇⵠ.ⲆⵠⲆⵠᐃᐃᐃ);
-    ΔΔ[Xr.ⲆΔᐃⲆᐃ][Xr.ΔⲆⵠ].push(Ⲇⵠ.ⲆΔⵠΔᐃᐃΔ);
-    ΔΔ[Xr.ⲆΔᐃⲆᐃ][Xr.ΔⲆⵠ].push(Ⲇⵠ.ⲆⲆᐃⵠⲆⲆᐃ);
-    ΔΔ[Xr.ᐃΔⲆⲆΔ] = [];
-    ΔΔ[Xr.ᐃΔⲆⲆΔ][Xr.ⲆᐃΔ] = Ⲇⵠ.ᐃⵠᐃⲆⲆⲆᐃ;
-    ΔΔ[Xr.ᐃΔⲆⲆΔ][Xr.ΔⲆⵠ] = Ⲇⵠ.ᐃΔᐃⲆⲆᐃΔ;
-    ΔΔ[Xr.ΔᐃΔΔᐃᐃⲆ] = [];
-    ΔΔ[Xr.ΔᐃΔΔᐃᐃⲆ][Xr.ⲆᐃΔ] = Ⲇⵠ.ⲆⲆᐃⵠΔⵠΔ;
-    ΔΔ[Xr.ΔᐃΔΔᐃᐃⲆ][Xr.ΔⲆⵠ] = Ⲇⵠ.ⵠΔⲆⲆⲆᐃⵠ;
-    ΔΔ[Xr.ⵠⵠⵠᐃⲆΔⵠ] = [];
-    ΔΔ[Xr.ⵠⵠⵠᐃⲆΔⵠ][Xr.ⲆᐃΔ] = Ⲇⵠ.ᐃΔᐃⵠΔΔΔ;
-    ΔΔ[Xr.ⵠⵠⵠᐃⲆΔⵠ][Xr.ΔⲆⵠ] = Ⲇⵠ.ⵠΔⲆᐃᐃⵠᐃ;
-    ΔΔ[Xr.ᐃᐃⵠᐃⲆΔΔ] = Ⲇⵠ.ᐃᐃⵠᐃⲆΔΔ;
-    ΔΔ[Xr.ⵠΔⲆⲆⵠΔΔ] = Ⲇⵠ.ⵠΔⲆⲆⵠΔΔ;
-    ΔΔ[Xr.ⵠᐃᐃⲆΔᐃΔ] = Ⲇⵠ.ⵠᐃᐃⲆΔᐃΔ;
-    ΔΔ[Xr.Δⵠⵠⵠᐃ] = [];
-    ΔΔ[Xr.Δⵠⵠⵠᐃ][Xr.ⲆᐃΔ] = Ⲇⵠ.ⲆⲆΔᐃΔΔᐃ;
-    ΔΔ[Xr.Δⵠⵠⵠᐃ][Xr.ΔⲆⵠ] = Ⲇⵠ.ⵠᐃᐃⵠᐃᐃⲆ;
-    ΔΔ[Xr.ΔⲆᐃΔᐃ] = [];
-    ΔΔ[Xr.ΔⲆᐃΔᐃ][Xr.ⲆᐃΔ] = Ⲇⵠ.ⲆⲆᐃᐃⵠⵠΔ;
-    ΔΔ[Xr.ΔⲆᐃΔᐃ][Xr.ΔⲆⵠ] = Ⲇⵠ.ⲆⵠⲆⲆᐃᐃⲆ;
-    ΔΔ[Xr.ᐃΔᐃⲆⲆ] = [];
-    ΔΔ[Xr.ᐃΔᐃⲆⲆ][Xr.ⲆᐃΔ] = Ⲇⵠ.ᐃΔΔⵠⲆᐃΔ;
-    ΔΔ[Xr.ᐃΔᐃⲆⲆ][Xr.ΔⲆⵠ] = Ⲇⵠ.ΔⵠΔⲆⵠΔᐃ;
-    ΔΔ[Xr.ᐃⲆΔΔΔΔⲆ] = [];
-    ΔΔ[Xr.ᐃⲆΔΔΔΔⲆ][Xr.ⲆᐃΔ] = Ⲇⵠ.ⲆⲆᐃᐃⵠⵠΔ;
-    ΔΔ[Xr.ᐃⲆΔΔΔΔⲆ][Xr.ΔⲆⵠ] = Ⲇⵠ.ⲆⵠⲆⲆᐃᐃⲆ;
-    ΔΔ[Xr.ⲆᐃⵠΔᐃ] = [];
-    ΔΔ[Xr.ⲆᐃⵠΔᐃ][Xr.ⲆᐃΔ] = Ⲇⵠ.ᐃᐃⵠⲆᐃⲆᐃ;
-    ΔΔ[Xr.ⲆᐃⵠΔᐃ][Xr.ΔⲆⵠ] = Ⲇⵠ.ᐃⵠⲆᐃᐃΔᐃ;
-    ΔΔ[Xr.ⵠⵠΔΔⵠ] = [];
-    ΔΔ[Xr.ⵠⵠΔΔⵠ][Xr.ⲆᐃΔ] = Ⲇⵠ.ΔᐃⲆᐃΔⲆΔ;
-    ΔΔ[Xr.ⵠⵠΔΔⵠ][Xr.ΔⲆⵠ] = Ⲇⵠ.ⲆⵠᐃⲆⲆⲆᐃ;
-    ΔΔ[Xr.ᐃΔⲆⵠΔ] = [];
-    ΔΔ[Xr.ᐃΔⲆⵠΔ][Xr.ⲆᐃΔ] = Ⲇⵠ.ⵠᐃᐃᐃᐃⲆⵠ;
-    ΔΔ[Xr.ᐃΔⲆⵠΔ][Xr.ΔⲆⵠ] = Ⲇⵠ.ᐃⵠᐃⲆⲆⲆⵠ;
-    ΔΔ[Xr.ΔⲆᐃΔⵠ] = [];
-    ΔΔ[Xr.ΔⲆᐃΔⵠ][Xr.ⲆᐃΔ] = Ⲇⵠ.ᐃⲆⵠᐃᐃΔⵠ;
-    ΔΔ[Xr.ΔⲆᐃΔⵠ][Xr.ΔⲆⵠ] = Ⲇⵠ.ΔΔᐃΔⵠⲆⵠ;
-    ΔΔ[Xr.ⲆⲆᐃᐃⲆ] = [];
-    ΔΔ[Xr.ⲆⲆᐃᐃⲆ][Xr.ⲆᐃΔ] = Ⲇⵠ.ΔΔⵠⲆⵠΔⵠ;
-    ΔΔ[Xr.ⲆⲆᐃᐃⲆ][Xr.ΔⲆⵠ] = Ⲇⵠ.ΔⵠΔΔⲆᐃΔ;
-    ΔΔ[Xr.ⵠᐃΔΔⵠ] = [];
-    ΔΔ[Xr.ⵠᐃΔΔⵠ][Xr.ⲆᐃΔ] = Ⲇⵠ.ΔⲆⲆᐃᐃᐃΔ;
-    ΔΔ[Xr.ⵠᐃΔΔⵠ][Xr.ΔⲆⵠ] = Ⲇⵠ.ⵠⲆᐃᐃⵠⲆΔ;
-    ΔΔ[Xr.ΔᐃⲆᐃᐃ] = [];
-    ΔΔ[Xr.ΔᐃⲆᐃᐃ][Xr.ⲆᐃΔ] = Ⲇⵠ.ⵠⲆΔᐃⲆⲆᐃᐃΔ;
-    ΔΔ[Xr.ΔᐃⲆᐃᐃ][Xr.ΔⲆⵠ] = Ⲇⵠ.ΔΔⵠⲆⲆⲆⲆΔⲆ;
-    ΔΔ[Xr.ᐃⲆΔⲆⵠ] = [];
-    ΔΔ[Xr.ᐃⲆΔⲆⵠ][Xr.ⲆᐃΔ] = Ⲇⵠ.ⵠⵠΔⵠᐃⵠⵠᐃⵠ;
-    ΔΔ[Xr.ᐃⲆΔⲆⵠ][Xr.ΔⲆⵠ] = Ⲇⵠ.ᐃⵠᐃⲆΔᐃᐃⵠΔ;
-    ΔΔ[Xr.ⲆᐃᐃⲆᐃ] = [];
-    ΔΔ[Xr.ⲆᐃᐃⲆᐃ][Xr.ⲆᐃΔ] = Ⲇⵠ.ᐃΔⵠᐃⲆⵠⵠΔΔ;
-    ΔΔ[Xr.ⲆᐃᐃⲆᐃ][Xr.ΔⲆⵠ] = Ⲇⵠ.ᐃⵠⵠⵠΔᐃⲆⲆⲆ;
-    ΔΔ[Xr.ⲆⲆⲆⵠⵠ] = [];
-    ΔΔ[Xr.ⲆⲆⲆⵠⵠ][Xr.ⲆᐃΔ] = Ⲇⵠ.ⲆΔΔᐃᐃⲆΔⲆΔ;
-    ΔΔ[Xr.ⲆⲆⲆⵠⵠ][Xr.ΔⲆⵠ] = Ⲇⵠ.ΔⵠⲆⲆΔΔᐃⲆΔ;
-    ΔΔ[Xr.ΔΔⲆᐃᐃ] = [];
-    ΔΔ[Xr.ΔΔⲆᐃᐃ][Xr.ⲆᐃΔ] = Ⲇⵠ.ⵠΔᐃΔᐃᐃᐃΔΔ;
-    ΔΔ[Xr.ΔΔⲆᐃᐃ][Xr.ΔⲆⵠ] = Ⲇⵠ.ⲆⲆᐃᐃⵠΔⲆⲆⲆ;
-    ΔΔ[Xr.ⲆⲆⲆᐃΔ] = [];
-    ΔΔ[Xr.ⲆⲆⲆᐃΔ][Xr.ⲆᐃΔ] = Ⲇⵠ.ⵠⵠⵠⵠⵠᐃⲆΔᐃ;
-    ΔΔ[Xr.ⲆⲆⲆᐃΔ][Xr.ΔⲆⵠ] = Ⲇⵠ.ⲆΔⲆⵠΔΔⲆⵠΔ;
-    ΔΔ[Xr.ᐃⵠᐃⵠⵠ] = [];
-    ΔΔ[Xr.ᐃⵠᐃⵠⵠ][Xr.ⲆᐃΔ] = Ⲇⵠ.ΔᐃⵠΔⲆⲆⲆ;
-    ΔΔ[Xr.ᐃⵠᐃⵠⵠ][Xr.ΔⲆⵠ] = Ⲇⵠ.ᐃⲆΔΔⲆΔⵠ;
-    ΔΔ[Xr.ⲆⵠΔΔΔ] = [];
-    ΔΔ[Xr.ⲆⵠΔΔΔ][Xr.ⲆᐃΔ] = Ⲇⵠ.ᐃⵠⵠᐃᐃⵠⵠ;
-    ΔΔ[Xr.ⲆⵠΔΔΔ][Xr.ΔⲆⵠ] = Ⲇⵠ.ΔⲆⵠⲆⲆⲆᐃ;
-    ΔΔ[Xr.ⲆΔⵠΔΔ] = [];
-    ΔΔ[Xr.ⲆΔⵠΔΔ][Xr.ⲆᐃΔ] = Ⲇⵠ.ΔΔⵠⲆΔⲆⲆΔᐃ;
-    ΔΔ[Xr.ⲆΔⵠΔΔ][Xr.ΔⲆⵠ] = Ⲇⵠ.ⲆⵠᐃⲆⵠΔⲆⲆⵠ;
-    ΔΔ[Xr.ᐃΔᐃΔⲆ] = [];
-    ΔΔ[Xr.ᐃΔᐃΔⲆ][Xr.ⲆᐃΔ] = Ⲇⵠ.ᐃⵠⵠΔⵠΔⲆᐃᐃ;
-    ΔΔ[Xr.ᐃΔᐃΔⲆ][Xr.ΔⲆⵠ] = Ⲇⵠ.ⲆⲆⲆⲆΔⵠⲆⵠⲆ;
-    ΔΔ[Xr.ᐃᐃΔᐃⲆ] = [];
-    ΔΔ[Xr.ᐃᐃΔᐃⲆ][Xr.ⲆᐃΔ] = Ⲇⵠ.ΔⲆᐃᐃΔⵠΔᐃΔ;
-    ΔΔ[Xr.ᐃᐃΔᐃⲆ][Xr.ΔⲆⵠ] = Ⲇⵠ.ΔΔⵠⲆΔⵠⲆᐃⵠ;
-    ΔΔ[Xr.ΔⲆΔΔΔ] = [];
-    ΔΔ[Xr.ΔⲆΔΔΔ][Xr.ⲆᐃΔ] = Ⲇⵠ.ΔΔΔΔⲆΔⵠⲆⵠ;
-    ΔΔ[Xr.ΔⲆΔΔΔ][Xr.ΔⲆⵠ] = Ⲇⵠ.ⵠⲆⵠΔⵠΔⵠⵠⲆ;
-    ΔΔ[Xr.ᐃΔⵠᐃⵠ] = [];
-    ΔΔ[Xr.ᐃΔⵠᐃⵠ][Xr.ⲆᐃΔ] = Ⲇⵠ.ᐃΔⵠΔΔΔⵠᐃΔ;
-    ΔΔ[Xr.ᐃΔⵠᐃⵠ][Xr.ΔⲆⵠ] = Ⲇⵠ.ᐃΔΔⵠⲆⵠᐃᐃᐃ;
-    ΔΔ[Xr.Δⵠᐃᐃᐃ] = [];
-    ΔΔ[Xr.Δⵠᐃᐃᐃ][Xr.ⲆᐃΔ] = Ⲇⵠ.ⵠᐃⵠⲆΔᐃⲆᐃⲆ;
-    ΔΔ[Xr.Δⵠᐃᐃᐃ][Xr.ΔⲆⵠ] = Ⲇⵠ.ⵠᐃΔⵠᐃΔᐃΔᐃ;
-    ΔΔ[Xr.ΔᐃⲆⵠⲆ] = [];
-    ΔΔ[Xr.ΔᐃⲆⵠⲆ][Xr.ⲆᐃΔ] = Ⲇⵠ.ΔᐃⲆΔⵠᐃⲆ;
-    ΔΔ[Xr.ΔᐃⲆⵠⲆ][Xr.ΔⲆⵠ] = Ⲇⵠ.ᐃⲆⵠᐃᐃᐃΔ;
-    ΔΔ[Xr.ΔΔΔⲆΔ] = [];
-    ΔΔ[Xr.ΔΔΔⲆΔ][Xr.ⲆᐃΔ] = Ⲇⵠ.ᐃΔᐃᐃΔⵠⲆ;
-    ΔΔ[Xr.ΔΔΔⲆΔ][Xr.ΔⲆⵠ] = Ⲇⵠ.ⲆⵠⵠΔⲆⲆᐃ;
-    ΔΔ[Xr.ᐃᐃΔᐃΔ] = [];
-    ΔΔ[Xr.ᐃᐃΔᐃΔ][Xr.ⲆᐃΔ] = Ⲇⵠ.ⵠᐃΔᐃΔᐃⲆ;
-    ΔΔ[Xr.ᐃᐃΔᐃΔ][Xr.ΔⲆⵠ] = Ⲇⵠ.ΔᐃⵠᐃΔᐃⵠ;
-    ΔΔ[Xr.ⲆΔᐃΔⵠ] = [];
-    ΔΔ[Xr.ⲆΔᐃΔⵠ][Xr.ⲆᐃΔ] = Ⲇⵠ.ᐃⵠΔΔⲆᐃᐃ;
-    ΔΔ[Xr.ⲆΔᐃΔⵠ][Xr.ΔⲆⵠ] = Ⲇⵠ.ᐃᐃⲆΔᐃⵠᐃ;
-    ΔΔ[Xr.ⲆΔⲆᐃⲆ] = [];
-    ΔΔ[Xr.ⲆΔⲆᐃⲆ][Xr.ⲆᐃΔ] = Ⲇⵠ.ΔⵠⵠⲆᐃᐃΔ;
-    ΔΔ[Xr.ⲆΔⲆᐃⲆ][Xr.ΔⲆⵠ] = Ⲇⵠ.ⵠᐃⵠⲆⲆᐃⲆ;
-    ΔΔ[Xr.ᐃᐃⲆᐃᐃ] = [];
-    ΔΔ[Xr.ᐃᐃⲆᐃᐃ][Xr.ⲆᐃΔ] = Ⲇⵠ.ᐃΔⲆΔΔⵠⲆ;
-    ΔΔ[Xr.ᐃᐃⲆᐃᐃ][Xr.ΔⲆⵠ] = Ⲇⵠ.ΔⵠⲆᐃⲆΔΔ;
-    ΔΔ[Xr.ΔΔⲆⵠⲆ] = [];
-    ΔΔ[Xr.ΔΔⲆⵠⲆ][Xr.ⲆᐃΔ] = Ⲇⵠ.ΔⵠᐃΔᐃⵠⲆ;
-    ΔΔ[Xr.ΔΔⲆⵠⲆ][Xr.ΔⲆⵠ] = Ⲇⵠ.ᐃΔⵠⲆᐃΔⵠ;
-    ΔΔ[Xr.Δᐃᐃⵠⵠ] = [];
-    ΔΔ[Xr.Δᐃᐃⵠⵠ][Xr.ⲆᐃΔ] = Ⲇⵠ.ΔⵠⲆᐃᐃⲆⵠ;
-    ΔΔ[Xr.Δᐃᐃⵠⵠ][Xr.ΔⲆⵠ] = Ⲇⵠ.ⵠⵠᐃᐃᐃᐃΔ;
-    ΔΔ[Xr.ⲆⵠΔⵠⵠ] = [];
-    ΔΔ[Xr.ⲆⵠΔⵠⵠ][Xr.ⲆᐃΔ] = Ⲇⵠ.ᐃⵠᐃᐃΔⲆⵠ;
-    ΔΔ[Xr.ⲆⵠΔⵠⵠ][Xr.ΔⲆⵠ] = Ⲇⵠ.ΔΔᐃⲆΔⲆⲆ;
-    ΔΔ[Xr.ⵠΔΔᐃᐃ] = [];
-    ΔΔ[Xr.ⵠΔΔᐃᐃ][Xr.ⲆᐃΔ] = Ⲇⵠ.ⲆΔⵠᐃⲆΔⵠᐃΔ;
-    ΔΔ[Xr.ⵠΔΔᐃᐃ][Xr.ΔⲆⵠ] = Ⲇⵠ.ᐃⲆⲆᐃⲆⲆⵠⲆᐃ;
-    ΔΔ[Xr.ⲆⵠΔⲆⲆ] = [];
-    ΔΔ[Xr.ⲆⵠΔⲆⲆ][Xr.ⲆᐃΔ] = Ⲇⵠ.ΔᐃᐃⲆⲆΔᐃ;
-    ΔΔ[Xr.ⲆⵠΔⲆⲆ][Xr.ΔⲆⵠ] = Ⲇⵠ.ΔⲆΔΔΔΔⵠΔⵠ;
-    ΔΔ[Xr.ΔᐃⵠⵠΔ] = [];
-    ΔΔ[Xr.ΔᐃⵠⵠΔ][Xr.ⲆᐃΔ] = Ⲇⵠ.ⲆΔⲆⵠᐃΔᐃΔⵠ;
-    ΔΔ[Xr.ΔᐃⵠⵠΔ][Xr.ΔⲆⵠ] = Ⲇⵠ.ⵠⲆᐃⵠⲆⵠΔⵠⲆ;
-    ΔΔ[Xr.ΔⵠΔⵠⵠ] = [];
-    ΔΔ[Xr.ΔⵠΔⵠⵠ][Xr.ⲆᐃΔ] = Ⲇⵠ.ⵠᐃⵠⲆⵠⵠⲆ;
-    ΔΔ[Xr.ΔⵠΔⵠⵠ][Xr.ΔⲆⵠ] = Ⲇⵠ.ⵠⵠᐃⲆⲆᐃΔ;
-    ΔΔ[Xr.ⵠΔⲆΔⲆ] = [];
-    ΔΔ[Xr.ⵠΔⲆΔⲆ][Xr.ⲆᐃΔ] = Ⲇⵠ.ᐃⵠⲆⵠⲆⲆⲆᐃⲆ;
-    ΔΔ[Xr.ⵠΔⲆΔⲆ][Xr.ΔⲆⵠ] = Ⲇⵠ.ᐃⲆᐃⵠⲆΔⲆⵠⵠ;
-    ΔΔ[Xr.ⵠᐃΔΔᐃ] = [];
-    ΔΔ[Xr.ⵠᐃΔΔᐃ][Xr.ⲆᐃΔ] = Ⲇⵠ.ΔⵠⵠΔᐃΔⵠ;
-    ΔΔ[Xr.ⵠᐃΔΔᐃ][Xr.ΔⲆⵠ] = Ⲇⵠ.ΔⵠⲆⵠⵠᐃⲆ;
-    ΔΔ[Xr.ⵠⵠΔᐃᐃ] = [];
-    ΔΔ[Xr.ⵠⵠΔᐃᐃ][Xr.ⲆᐃΔ] = Ⲇⵠ.ⲆᐃᐃⲆΔΔⵠ;
-    ΔΔ[Xr.ⵠⵠΔᐃᐃ][Xr.ΔⲆⵠ] = Ⲇⵠ.ᐃΔᐃⵠⵠⵠⲆ;
-    ΔΔ[Xr.ⲆΔᐃΔᐃ] = [];
-    ΔΔ[Xr.ⲆΔᐃΔᐃ][Xr.ⲆᐃΔ] = Ⲇⵠ.ᐃⵠⲆⵠΔΔⵠ;
-    ΔΔ[Xr.ⲆΔᐃΔᐃ][Xr.ΔⲆⵠ] = Ⲇⵠ.ⲆᐃⲆⲆⲆⲆⲆ;
-    ΔΔ[Xr.ΔᐃΔᐃΔΔᐃ] = [];
-    ΔΔ[Xr.ΔᐃΔᐃΔΔᐃ][Xr.ⲆᐃΔ] = Ⲇⵠ.ΔⵠⵠᐃᐃⵠΔ;
-    ΔΔ[Xr.ΔᐃΔᐃΔΔᐃ][Xr.ΔⲆⵠ] = Ⲇⵠ.ᐃⲆΔⲆᐃᐃⵠ;
-    ΔΔ[Xr.ᐃΔΔΔⲆⵠΔ] = [];
-    ΔΔ[Xr.ᐃΔΔΔⲆⵠΔ][Xr.ⲆᐃΔ] = [];
-    ΔΔ[Xr.ᐃΔΔΔⲆⵠΔ][Xr.ΔⲆⵠ] = [];
-    ΔΔ[Xr.ᐃΔΔΔⲆⵠΔ][Xr.ⲆᐃΔ].push(Ⲇⵠ.ⵠⵠᐃⵠᐃⵠΔᐃΔ);
-    ΔΔ[Xr.ᐃΔΔΔⲆⵠΔ][Xr.ⲆᐃΔ].push(Ⲇⵠ.ᐃᐃᐃⵠᐃⲆⵠᐃⲆ);
-    ΔΔ[Xr.ᐃΔΔΔⲆⵠΔ][Xr.ΔⲆⵠ].push(Ⲇⵠ.ᐃᐃᐃⵠᐃⲆⵠᐃⲆ);
-    ΔΔ[Xr.ᐃΔΔΔⲆⵠΔ][Xr.ΔⲆⵠ].push(Ⲇⵠ.ⲆⵠΔᐃⲆΔⵠᐃⵠ);
-    ΔΔ[Xr.ⲆΔⵠⲆᐃ] = [];
-    ΔΔ[Xr.ⲆΔⵠⲆᐃ][Xr.ⲆᐃΔ] = [];
-    ΔΔ[Xr.ⲆΔⵠⲆᐃ][Xr.ΔⲆⵠ] = [];
-    ΔΔ[Xr.ⲆΔⵠⲆᐃ][Xr.ⲆᐃΔ].push(Ⲇⵠ.ΔⵠⵠΔⲆΔⵠ);
-    ΔΔ[Xr.ⲆΔⵠⲆᐃ][Xr.ⲆᐃΔ].push(Ⲇⵠ.ⵠᐃᐃΔⲆⲆᐃ);
-    ΔΔ[Xr.ⲆΔⵠⲆᐃ][Xr.ⲆᐃΔ].push(Ⲇⵠ.ΔⵠΔⲆΔᐃⲆ);
-    ΔΔ[Xr.ⲆΔⵠⲆᐃ][Xr.ΔⲆⵠ].push(Ⲇⵠ.ⵠΔⲆΔᐃⲆΔ);
-    ΔΔ[Xr.ⲆΔⵠⲆᐃ][Xr.ΔⲆⵠ].push(Ⲇⵠ.ⲆⲆΔⲆᐃΔⵠ);
-    ΔΔ[Xr.ⲆΔⵠⲆᐃ][Xr.ΔⲆⵠ].push(Ⲇⵠ.ᐃᐃⵠΔΔⲆⲆ);
-    ΔΔ[Xr.ⲆⵠⲆᐃΔ] = [];
-    ΔΔ[Xr.ⲆⵠⲆᐃΔ][Xr.ⲆᐃΔ] = Ⲇⵠ.ᐃⲆⵠΔⲆⵠⵠ;
-    ΔΔ[Xr.ⲆⵠⲆᐃΔ][Xr.ΔⲆⵠ] = Ⲇⵠ.ΔΔᐃΔᐃⵠⲆ;
-    ΔΔ[Xr.ᐃΔΔᐃΔ] = [];
-    ΔΔ[Xr.ᐃΔΔᐃΔ][Xr.ⲆᐃΔ] = Ⲇⵠ.ᐃΔⵠⲆⲆΔⵠ;
-    ΔΔ[Xr.ᐃΔΔᐃΔ][Xr.ΔⲆⵠ] = Ⲇⵠ.ΔⵠⵠᐃᐃΔⲆ;
-    ΔΔ[Xr.ᐃⵠⵠΔⵠ] = [];
-    ΔΔ[Xr.ᐃⵠⵠΔⵠ][Xr.ⲆᐃΔ] = [];
-    ΔΔ[Xr.ᐃⵠⵠΔⵠ][Xr.ΔⲆⵠ] = [];
-    ΔΔ[Xr.ᐃⵠⵠΔⵠ][Xr.ⲆᐃΔ].push(Ⲇⵠ.ⵠΔᐃᐃΔⲆΔ);
-    ΔΔ[Xr.ᐃⵠⵠΔⵠ][Xr.ⲆᐃΔ].push(Ⲇⵠ.ΔⵠⲆᐃΔΔⲆ);
-    ΔΔ[Xr.ᐃⵠⵠΔⵠ][Xr.ⲆᐃΔ].push(Ⲇⵠ.ⵠⲆⵠⵠΔⲆΔ);
-    ΔΔ[Xr.ᐃⵠⵠΔⵠ][Xr.ΔⲆⵠ].push(Ⲇⵠ.ΔⵠΔⲆᐃⵠⵠ);
-    ΔΔ[Xr.ᐃⵠⵠΔⵠ][Xr.ΔⲆⵠ].push(Ⲇⵠ.ΔⲆⲆⲆΔⵠᐃ);
-    ΔΔ[Xr.ᐃⵠⵠΔⵠ][Xr.ΔⲆⵠ].push(Ⲇⵠ.ΔΔᐃᐃΔΔᐃ);
-    ΔΔ[Xr.ᐃⵠᐃΔ] = [];
-    ΔΔ[Xr.ᐃⵠᐃΔ][Xr.ⲆᐃΔ] = [];
-    ΔΔ[Xr.ᐃⵠᐃΔ][Xr.ΔⲆⵠ] = [];
-    ΔΔ[Xr.ᐃⵠᐃΔ][Xr.ⲆᐃΔ].push(Ⲇⵠ.ⵠᐃⵠΔΔⲆⵠ);
-    ΔΔ[Xr.ᐃⵠᐃΔ][Xr.ⲆᐃΔ].push(Ⲇⵠ.ᐃᐃᐃΔⵠΔⵠ);
-    ΔΔ[Xr.ᐃⵠᐃΔ][Xr.ⲆᐃΔ].push(Ⲇⵠ.ᐃΔΔΔᐃⲆⵠ);
-    ΔΔ[Xr.ᐃⵠᐃΔ][Xr.ΔⲆⵠ].push(Ⲇⵠ.ⵠᐃⲆⵠΔⲆⵠ);
-    ΔΔ[Xr.ᐃⵠᐃΔ][Xr.ΔⲆⵠ].push(Ⲇⵠ.ΔᐃⲆⵠⵠⲆΔ);
-    ΔΔ[Xr.ᐃⵠᐃΔ][Xr.ΔⲆⵠ].push(Ⲇⵠ.ⲆⲆⲆᐃⲆⲆΔ);
-    ΔΔ[Xr.ΔⲆⲆⵠΔ] = [];
-    ΔΔ[Xr.ΔⲆⲆⵠΔ][Xr.ⲆᐃΔ] = [];
-    ΔΔ[Xr.ΔⲆⲆⵠΔ][Xr.ΔⲆⵠ] = [];
-    ΔΔ[Xr.ΔⲆⲆⵠΔ][Xr.ⲆᐃΔ].push(Ⲇⵠ.ᐃᐃⲆᐃΔⲆⵠ);
-    ΔΔ[Xr.ΔⲆⲆⵠΔ][Xr.ⲆᐃΔ].push(Ⲇⵠ.ᐃΔΔᐃⵠⲆⲆ);
-    ΔΔ[Xr.ΔⲆⲆⵠΔ][Xr.ⲆᐃΔ].push(Ⲇⵠ.ⵠⵠᐃⵠⵠΔⵠ);
-    ΔΔ[Xr.ΔⲆⲆⵠΔ][Xr.ⲆᐃΔ].push(Ⲇⵠ.ΔΔⲆⲆᐃⵠᐃ);
-    ΔΔ[Xr.ΔⲆⲆⵠΔ][Xr.ⲆᐃΔ].push(Ⲇⵠ.ⲆⵠⲆᐃⵠᐃΔ);
-    ΔΔ[Xr.ΔⲆⲆⵠΔ][Xr.ⲆᐃΔ].push(Ⲇⵠ.ⲆᐃⵠᐃⵠⲆΔ);
-    ΔΔ[Xr.ΔⲆⲆⵠΔ][Xr.ΔⲆⵠ].push(Ⲇⵠ.ΔⵠᐃⵠⲆᐃⵠ);
-    ΔΔ[Xr.ΔⲆⲆⵠΔ][Xr.ΔⲆⵠ].push(Ⲇⵠ.ᐃⲆⵠⵠΔⲆⵠ);
-    ΔΔ[Xr.ΔⲆⲆⵠΔ][Xr.ΔⲆⵠ].push(Ⲇⵠ.Ⲇⵠᐃᐃᐃⵠᐃ);
-    ΔΔ[Xr.ΔⲆⲆⵠΔ][Xr.ΔⲆⵠ].push(Ⲇⵠ.ⲆᐃⲆⲆⵠⵠΔ);
-    ΔΔ[Xr.ΔⲆⲆⵠΔ][Xr.ΔⲆⵠ].push(Ⲇⵠ.ⲆΔᐃᐃᐃΔⵠ);
-    ΔΔ[Xr.ΔⲆⲆⵠΔ][Xr.ΔⲆⵠ].push(Ⲇⵠ.ᐃⵠᐃᐃⵠⵠⲆ);
+    ΔΔ[1026] = [Ⲇⵠ.ⲆΔΔΔΔⵠΔ, Ⲇⵠ.ⵠⲆΔⲆⵠΔⵠ];
+    ΔΔ[1025] = [];
+    ΔΔ[1025][Xr.ⲆᐃΔ] = [];
+    ΔΔ[1025][Xr.ⲆᐃΔ][a("000_010_000")] = [Ⲇⵠ.ⲆΔᐃⲆⲆ, Ⲇⵠ.ΔⵠⵠᐃΔ];
+    ΔΔ[1025][Xr.ⲆᐃΔ][a("000_010_010")] = ΔΔ[1025][Xr.ⲆᐃΔ][a("000_010_000")];
+    ΔΔ[1025][Xr.ⲆᐃΔ][a("000_011_000")] = ΔΔ[1025][Xr.ⲆᐃΔ][a("000_010_000")];
+    ΔΔ[1025][Xr.ⲆᐃΔ][a("000_011_010")] = [Ⲇⵠ.ⵠΔⵠᐃⲆ, Ⲇⵠ.ⵠΔᐃⵠΔ, Ⲇⵠ.ΔⵠⵠᐃΔ, Ⲇⵠ.ⲆΔᐃⲆⲆ, Ⲇⵠ.ⲆΔᐃⲆᐃⵠᐃ, Ⲇⵠ.ΔᐃⲆⵠᐃⲆᐃ, Ⲇⵠ.ⲆⲆΔΔⵠΔⵠ];
+    ΔΔ[1025][Xr.ⲆᐃΔ][a("000_011_011")] = [Ⲇⵠ.ⵠᐃⵠⵠᐃⵠⵠ, Ⲇⵠ.ⵠΔⵠᐃⲆ, Ⲇⵠ.ⵠΔᐃⵠΔ, Ⲇⵠ.ΔⵠⵠᐃΔ, Ⲇⵠ.ⲆΔᐃⲆⲆ, Ⲇⵠ.ⲆΔᐃⲆᐃⵠᐃ, Ⲇⵠ.ΔᐃⲆⵠᐃⲆᐃ, Ⲇⵠ.ⲆⲆΔΔⵠΔⵠ, Ⲇⵠ.ⵠⵠⵠΔⵠ];
+    ΔΔ[1025][Xr.ⲆᐃΔ][a("000_110_000")] = [Ⲇⵠ.ⵠᐃᐃⵠⲆ, Ⲇⵠ.ΔⵠⵠᐃΔ];
+    ΔΔ[1025][Xr.ⲆᐃΔ][a("000_110_010")] = [Ⲇⵠ.ⵠᐃⲆⵠΔ, Ⲇⵠ.ⵠᐃᐃⵠⲆ, Ⲇⵠ.ΔⲆⲆᐃᐃ, Ⲇⵠ.ΔⵠⵠᐃΔ, Ⲇⵠ.ⲆΔᐃⲆⲆ, Ⲇⵠ.ⵠⵠⵠΔⵠ, Ⲇⵠ.ⵠΔΔᐃΔ, Ⲇⵠ.ΔⲆΔⵠΔᐃⵠ];
+    ΔΔ[1025][Xr.ⲆᐃΔ][a("000_110_110")] = [Ⲇⵠ.ⵠᐃⲆⵠΔ, Ⲇⵠ.ΔᐃⲆⵠⲆΔᐃ, Ⲇⵠ.ⲆⵠⵠⵠᐃⲆᐃ, Ⲇⵠ.ⵠᐃᐃⵠⲆ, Ⲇⵠ.ΔⲆⲆᐃᐃ, Ⲇⵠ.ΔⵠⵠᐃΔ, Ⲇⵠ.ⵠⵠⵠΔⵠ, Ⲇⵠ.ⵠΔΔᐃΔ, Ⲇⵠ.ΔⲆΔⵠΔᐃⵠ];
+    ΔΔ[1025][Xr.ⲆᐃΔ][a("000_111_000")] = [Ⲇⵠ.ⵠᐃᐃⵠⲆ, Ⲇⵠ.ΔⲆⲆᐃᐃ, Ⲇⵠ.ⲆⵠᐃΔⵠⲆΔ, Ⲇⵠ.ᐃΔⵠⲆΔΔΔ];
+    ΔΔ[1025][Xr.ⲆᐃΔ][a("000_111_111")] = [Ⲇⵠ.ⵠᐃᐃⵠⲆ, Ⲇⵠ.ⲆⵠⵠⵠᐃⲆᐃ, Ⲇⵠ.ⵠᐃⲆⵠΔ, Ⲇⵠ.ⵠΔᐃⵠΔ, Ⲇⵠ.ⵠΔⵠᐃⲆ, Ⲇⵠ.ⵠᐃⵠⵠᐃⵠⵠ, Ⲇⵠ.ΔΔΔⲆⲆⵠⲆ];
+    ΔΔ[1025][Xr.ⲆᐃΔ][a("010_010_000")] = [Ⲇⵠ.ΔⵠⵠᐃΔ];
+    ΔΔ[1025][Xr.ⲆᐃΔ][a("010_010_010")] = [Ⲇⵠ.ᐃⵠⵠᐃⲆᐃⵠ, Ⲇⵠ.ΔⵠⵠᐃΔ, Ⲇⵠ.ⲆΔᐃⲆⲆ];
+    ΔΔ[1025][Xr.ⲆᐃΔ][a("010_011_000")] = [Ⲇⵠ.ⲆⵠⵠⵠΔ, Ⲇⵠ.ΔⵠⵠᐃΔ, Ⲇⵠ.ⲆΔᐃⲆⲆ, Ⲇⵠ.ⵠΔΔᐃΔ];
+    ΔΔ[1025][Xr.ⲆᐃΔ][a("010_110_000")] = [Ⲇⵠ.ⵠᐃᐃⵠⲆ, Ⲇⵠ.ΔⲆⲆᐃᐃ, Ⲇⵠ.ΔⵠⵠᐃΔ, Ⲇⵠ.ⵠΔΔᐃΔ, Ⲇⵠ.ᐃⲆΔⵠΔ];
+    ΔΔ[1025][Xr.ⲆᐃΔ][a("010_110_110")] = [Ⲇⵠ.ᐃⵠⵠᐃᐃ, Ⲇⵠ.ⲆⵠⵠⵠΔ, Ⲇⵠ.ⵠΔⵠᐃⲆ, Ⲇⵠ.ⵠΔᐃⵠΔ, Ⲇⵠ.ⵠᐃⲆⵠΔ, Ⲇⵠ.ⲆⵠⵠⵠᐃⲆᐃ, Ⲇⵠ.ⵠᐃᐃⵠⲆ, Ⲇⵠ.ΔΔΔⲆⲆⵠⲆ, Ⲇⵠ.ᐃⲆᐃⵠⵠΔΔ, Ⲇⵠ.ᐃⵠⵠᐃⲆᐃⵠ, Ⲇⵠ.ΔⲆⲆᐃᐃ, Ⲇⵠ.ⲆⵠᐃΔⵠⲆΔ, Ⲇⵠ.ᐃΔⵠⲆΔΔΔ, Ⲇⵠ.ΔⵠⵠᐃΔ, Ⲇⵠ.ⲆΔᐃⲆⲆ, Ⲇⵠ.ⲆΔᐃⲆᐃⵠᐃ, Ⲇⵠ.ΔᐃⲆⵠᐃⲆᐃ, Ⲇⵠ.ⲆⲆΔΔⵠΔⵠ, Ⲇⵠ.ⵠⵠⵠΔⵠ, Ⲇⵠ.ⵠΔΔᐃΔ, Ⲇⵠ.ᐃⲆΔⵠΔ];
+    ΔΔ[1025][Xr.ⲆᐃΔ][a("010_011_010")] = ΔΔ[1025][Xr.ⲆᐃΔ][a("010_110_110")];
+    ΔΔ[1025][Xr.ⲆᐃΔ][a("010_011_011")] = ΔΔ[1025][Xr.ⲆᐃΔ][a("010_110_110")];
+    ΔΔ[1025][Xr.ⲆᐃΔ][a("000_111_011")] = ΔΔ[1025][Xr.ⲆᐃΔ][a("010_110_110")];
+    ΔΔ[1025][Xr.ⲆᐃΔ][a("010_110_010")] = ΔΔ[1025][Xr.ⲆᐃΔ][a("010_110_110")];
+    ΔΔ[1025][Xr.ⲆᐃΔ][a("010_111_000")] = ΔΔ[1025][Xr.ⲆᐃΔ][a("010_110_110")];
+    ΔΔ[1025][Xr.ⲆᐃΔ][a("010_111_010")] = ΔΔ[1025][Xr.ⲆᐃΔ][a("010_110_110")];
+    ΔΔ[1025][Xr.ⲆᐃΔ][a("010_111_011")] = ΔΔ[1025][Xr.ⲆᐃΔ][a("010_110_110")];
+    ΔΔ[1025][Xr.ⲆᐃΔ][a("010_111_110")] = ΔΔ[1025][Xr.ⲆᐃΔ][a("010_110_110")];
+    ΔΔ[1025][Xr.ⲆᐃΔ][a("010_111_111")] = ΔΔ[1025][Xr.ⲆᐃΔ][a("010_110_110")];
+    ΔΔ[1025][Xr.ⲆᐃΔ][a("000_111_110")] = ΔΔ[1025][Xr.ⲆᐃΔ][a("010_110_110")];
+    ΔΔ[1025][Xr.ⲆᐃΔ][a("000_111_010")] = ΔΔ[1025][Xr.ⲆᐃΔ][a("010_110_110")];
+    ΔΔ[1025][Xr.ⲆᐃΔ][a("011_011_000")] = [Ⲇⵠ.ᐃᐃΔΔⲆⵠⵠ, Ⲇⵠ.ᐃⵠⵠᐃᐃ, Ⲇⵠ.ⲆⵠⵠⵠΔ, Ⲇⵠ.ΔⵠⵠᐃΔ, Ⲇⵠ.ⲆΔᐃⲆⲆ, Ⲇⵠ.ⵠΔΔᐃΔ];
+    ΔΔ[1025][Xr.ⲆᐃΔ][a("011_011_010")] = [Ⲇⵠ.ᐃᐃΔΔⲆⵠⵠ, Ⲇⵠ.ᐃⵠⵠᐃᐃ, Ⲇⵠ.ⲆⵠⵠⵠΔ, Ⲇⵠ.ⵠᐃᐃⵠⲆ, Ⲇⵠ.ΔⲆⲆᐃᐃ, Ⲇⵠ.ⲆⵠᐃΔⵠⲆΔ, Ⲇⵠ.ᐃΔⵠⲆΔΔΔ, Ⲇⵠ.ΔⵠⵠᐃΔ, Ⲇⵠ.ⲆΔᐃⲆⲆ, Ⲇⵠ.ⵠΔΔᐃΔ, Ⲇⵠ.ᐃⲆΔⵠΔ];
+    ΔΔ[1025][Xr.ⲆᐃΔ][a("011_011_011")] = [Ⲇⵠ.ⵠΔᐃⵠΔ, Ⲇⵠ.ⵠΔⵠᐃⲆ, Ⲇⵠ.ⵠᐃⵠⵠᐃⵠⵠ, Ⲇⵠ.ⲆⵠⵠⵠΔ, Ⲇⵠ.ᐃⵠⵠᐃᐃ, Ⲇⵠ.ᐃᐃΔΔⲆⵠⵠ, Ⲇⵠ.ᐃⲆᐃⵠⵠΔΔ];
+    ΔΔ[1025][Xr.ⲆᐃΔ][a("011_111_000")] = ΔΔ[1025][Xr.ⲆᐃΔ][a("011_011_010")];
+    ΔΔ[1025][Xr.ⲆᐃΔ][a("011_111_010")] = [Ⲇⵠ.ᐃᐃΔΔⲆⵠⵠ, Ⲇⵠ.ᐃⵠⵠᐃᐃ, Ⲇⵠ.ⲆⵠⵠⵠΔ, Ⲇⵠ.ⵠΔⵠᐃⲆ, Ⲇⵠ.ⵠΔᐃⵠΔ, Ⲇⵠ.ⵠᐃⲆⵠΔ, Ⲇⵠ.ⵠᐃᐃⵠⲆ, Ⲇⵠ.ΔΔΔⲆⲆⵠⲆ, Ⲇⵠ.ᐃⲆᐃⵠⵠΔΔ, Ⲇⵠ.ᐃⵠⵠᐃⲆᐃⵠ, Ⲇⵠ.ΔⲆⲆᐃᐃ, Ⲇⵠ.ⲆⵠᐃΔⵠⲆΔ, Ⲇⵠ.ᐃΔⵠⲆΔΔΔ, Ⲇⵠ.ΔⵠⵠᐃΔ, Ⲇⵠ.ⲆΔᐃⲆⲆ, Ⲇⵠ.ⲆΔᐃⲆᐃⵠᐃ, Ⲇⵠ.ΔᐃⲆⵠᐃⲆᐃ, Ⲇⵠ.ⲆⲆΔΔⵠΔⵠ, Ⲇⵠ.ⵠⵠⵠΔⵠ, Ⲇⵠ.ⵠΔΔᐃΔ, Ⲇⵠ.ᐃⲆΔⵠΔ];
+    ΔΔ[1025][Xr.ⲆᐃΔ][a("011_111_011")] = ΔΔ[1025][Xr.ⲆᐃΔ][a("011_111_010")];
+    ΔΔ[1025][Xr.ⲆᐃΔ][a("011_111_110")] = ΔΔ[1025][Xr.ⲆᐃΔ][a("011_111_010")];
+    ΔΔ[1025][Xr.ⲆᐃΔ][a("011_111_111")] = [Ⲇⵠ.ᐃᐃΔΔⲆⵠⵠ, Ⲇⵠ.ᐃⵠⵠᐃᐃ, Ⲇⵠ.ⲆⵠⵠⵠΔ, Ⲇⵠ.ⵠᐃⵠⵠᐃⵠⵠ, Ⲇⵠ.ⵠΔⵠᐃⲆ, Ⲇⵠ.ⵠΔᐃⵠΔ, Ⲇⵠ.ⵠᐃⲆⵠΔ, Ⲇⵠ.ⲆⵠⵠⵠᐃⲆᐃ, Ⲇⵠ.ⵠᐃᐃⵠⲆ, Ⲇⵠ.ΔΔΔⲆⲆⵠⲆ, Ⲇⵠ.ᐃⲆᐃⵠⵠΔΔ, Ⲇⵠ.ᐃⵠⵠᐃⲆᐃⵠ, Ⲇⵠ.ΔⲆⲆᐃᐃ, Ⲇⵠ.ⲆⵠᐃΔⵠⲆΔ, Ⲇⵠ.ᐃΔⵠⲆΔΔΔ, Ⲇⵠ.ΔⵠⵠᐃΔ, Ⲇⵠ.ⲆΔᐃⲆⲆ, Ⲇⵠ.ⲆΔᐃⲆᐃⵠᐃ, Ⲇⵠ.ΔᐃⲆⵠᐃⲆᐃ, Ⲇⵠ.ⲆⲆΔΔⵠΔⵠ, Ⲇⵠ.ⵠⵠⵠΔⵠ, Ⲇⵠ.ⵠΔΔᐃΔ, Ⲇⵠ.ᐃⲆΔⵠΔ];
+    ΔΔ[1025][Xr.ⲆᐃΔ][a("110_110_000")] = [Ⲇⵠ.ⵠΔᐃᐃⵠⵠᐃ, Ⲇⵠ.ⵠᐃᐃⵠⲆ, Ⲇⵠ.ᐃⵠΔⲆᐃⵠⲆ, Ⲇⵠ.ΔⲆⲆᐃᐃ, Ⲇⵠ.ΔⵠⵠᐃΔ, Ⲇⵠ.ᐃⲆΔⵠΔ];
+    ΔΔ[1025][Xr.ⲆᐃΔ][a("110_110_010")] = [Ⲇⵠ.ⵠᐃⲆⵠΔ, Ⲇⵠ.ⵠΔᐃᐃⵠⵠᐃ, Ⲇⵠ.ⵠᐃᐃⵠⲆ, Ⲇⵠ.ᐃⵠⵠᐃⲆᐃⵠ, Ⲇⵠ.ΔⲆⲆᐃᐃ, Ⲇⵠ.ΔⵠⵠᐃΔ, Ⲇⵠ.ⵠⵠⵠΔⵠ, Ⲇⵠ.ᐃⲆΔⵠΔ];
+    ΔΔ[1025][Xr.ⲆᐃΔ][a("110_110_110")] = [Ⲇⵠ.ⵠᐃⲆⵠΔ, Ⲇⵠ.ⲆⵠⵠⵠᐃⲆᐃ, Ⲇⵠ.ⵠΔᐃᐃⵠⵠᐃ, Ⲇⵠ.ⵠᐃᐃⵠⲆ, Ⲇⵠ.ᐃⵠⵠᐃⲆᐃⵠ, Ⲇⵠ.ΔⲆⲆᐃᐃ, Ⲇⵠ.ΔⵠⵠᐃΔ, Ⲇⵠ.ⵠⵠⵠΔⵠ, Ⲇⵠ.ᐃⲆΔⵠΔ];
+    ΔΔ[1025][Xr.ⲆᐃΔ][a("110_111_000")] = [Ⲇⵠ.ᐃⵠⵠᐃᐃ, Ⲇⵠ.ⲆⵠⵠⵠΔ, Ⲇⵠ.ⵠΔᐃᐃⵠⵠᐃ, Ⲇⵠ.ⵠᐃᐃⵠⲆ, Ⲇⵠ.ᐃⵠΔⲆᐃⵠⲆ, Ⲇⵠ.ᐃᐃΔᐃⲆΔⵠ, Ⲇⵠ.ΔⲆⲆᐃᐃ, Ⲇⵠ.ⲆⵠᐃΔⵠⲆΔ, Ⲇⵠ.ᐃΔⵠⲆΔΔΔ, Ⲇⵠ.ΔⵠⵠᐃΔ, Ⲇⵠ.ⲆΔᐃⲆⲆ, Ⲇⵠ.ⵠΔΔᐃΔ, Ⲇⵠ.ᐃⲆΔⵠΔ];
+    ΔΔ[1025][Xr.ⲆᐃΔ][a("110_111_110")] = [Ⲇⵠ.ᐃⵠⵠᐃᐃ, Ⲇⵠ.ⲆⵠⵠⵠΔ, Ⲇⵠ.ⵠΔⵠᐃⲆ, Ⲇⵠ.ⵠΔᐃⵠΔ, Ⲇⵠ.ⵠᐃⲆⵠΔ, Ⲇⵠ.ⲆⵠⵠⵠᐃⲆᐃ, Ⲇⵠ.ⵠΔᐃᐃⵠⵠᐃ, Ⲇⵠ.ⵠᐃᐃⵠⲆ, Ⲇⵠ.ΔΔΔⲆⲆⵠⲆ, Ⲇⵠ.ᐃᐃΔᐃⲆΔⵠ, Ⲇⵠ.ᐃⲆᐃⵠⵠΔΔ, Ⲇⵠ.ᐃⵠⵠᐃⲆᐃⵠ, Ⲇⵠ.ΔⲆⲆᐃᐃ, Ⲇⵠ.ⲆⵠᐃΔⵠⲆΔ, Ⲇⵠ.ᐃΔⵠⲆΔΔΔ, Ⲇⵠ.ΔⵠⵠᐃΔ, Ⲇⵠ.ⲆΔᐃⲆⲆ, Ⲇⵠ.ⲆΔᐃⲆᐃⵠᐃ, Ⲇⵠ.ΔᐃⲆⵠᐃⲆᐃ, Ⲇⵠ.ⲆⲆΔΔⵠΔⵠ, Ⲇⵠ.ⵠⵠⵠΔⵠ, Ⲇⵠ.ⵠΔΔᐃΔ, Ⲇⵠ.ᐃⲆΔⵠΔ];
+    ΔΔ[1025][Xr.ⲆᐃΔ][a("110_111_111")] = ΔΔ[1025][Xr.ⲆᐃΔ][a("110_111_110")];
+    ΔΔ[1025][Xr.ⲆᐃΔ][a("110_111_011")] = ΔΔ[1025][Xr.ⲆᐃΔ][a("110_111_110")];
+    ΔΔ[1025][Xr.ⲆᐃΔ][a("110_111_010")] = ΔΔ[1025][Xr.ⲆᐃΔ][a("110_111_110")];
+    ΔΔ[1025][Xr.ⲆᐃΔ][a("111_111_110")] = [Ⲇⵠ.ᐃⲆΔⵠΔ, Ⲇⵠ.ⵠΔΔᐃΔ, Ⲇⵠ.ⵠⵠⵠΔⵠ, Ⲇⵠ.ⲆⲆΔΔⵠΔⵠ, Ⲇⵠ.ΔᐃⲆⵠᐃⲆᐃ, Ⲇⵠ.ⲆΔᐃⲆᐃⵠᐃ, Ⲇⵠ.ⲆΔᐃⲆⲆ, Ⲇⵠ.ΔⵠⵠᐃΔ, Ⲇⵠ.ᐃΔⵠⲆΔΔΔ, Ⲇⵠ.ⲆⵠᐃΔⵠⲆΔ, Ⲇⵠ.ΔⲆⲆᐃᐃ, Ⲇⵠ.ᐃⵠⵠᐃⲆᐃⵠ, Ⲇⵠ.ᐃⲆᐃⵠⵠΔΔ, Ⲇⵠ.ᐃᐃΔᐃⲆΔⵠ, Ⲇⵠ.ΔΔΔⲆⲆⵠⲆ, Ⲇⵠ.ⵠᐃᐃⵠⲆ, Ⲇⵠ.ⵠΔᐃᐃⵠⵠᐃ, Ⲇⵠ.ⵠᐃⲆⵠΔ, Ⲇⵠ.ⵠΔᐃⵠΔ, Ⲇⵠ.ⵠΔⵠᐃⲆ, Ⲇⵠ.ⲆⵠⵠⵠΔ, Ⲇⵠ.ᐃⵠⵠᐃᐃ, Ⲇⵠ.ᐃᐃΔΔⲆⵠⵠ];
+    ΔΔ[1025][Xr.ⲆᐃΔ][a("111_111_011")] = ΔΔ[1025][Xr.ⲆᐃΔ][a("111_111_110")];
+    ΔΔ[1025][Xr.ⲆᐃΔ][a("111_111_000")] = [Ⲇⵠ.ᐃⵠΔⲆᐃⵠⲆ, Ⲇⵠ.ⵠᐃᐃⵠⲆ, Ⲇⵠ.ⵠΔᐃᐃⵠⵠᐃ, Ⲇⵠ.ⲆⵠⵠⵠΔ, Ⲇⵠ.ᐃⵠⵠᐃᐃ, Ⲇⵠ.ᐃᐃΔΔⲆⵠⵠ, Ⲇⵠ.ᐃᐃΔᐃⲆΔⵠ];
+    ΔΔ[1025][Xr.ⲆᐃΔ][a("111_111_111")] = [Ⲇⵠ.ᐃᐃΔΔⲆⵠⵠ, Ⲇⵠ.ᐃⵠⵠᐃᐃ, Ⲇⵠ.ⲆⵠⵠⵠΔ, Ⲇⵠ.ⵠᐃⵠⵠᐃⵠⵠ, Ⲇⵠ.ⵠΔⵠᐃⲆ, Ⲇⵠ.ⵠΔᐃⵠΔ, Ⲇⵠ.ⵠᐃⲆⵠΔ, Ⲇⵠ.ⲆⵠⵠⵠᐃⲆᐃ, Ⲇⵠ.ⵠΔᐃᐃⵠⵠᐃ, Ⲇⵠ.ⵠᐃᐃⵠⲆ, Ⲇⵠ.ΔΔΔⲆⲆⵠⲆ, Ⲇⵠ.ᐃⲆᐃⵠⵠΔΔ, Ⲇⵠ.ᐃⵠⵠᐃⲆᐃⵠ, Ⲇⵠ.ΔⲆⲆᐃᐃ, Ⲇⵠ.ⲆⵠᐃΔⵠⲆΔ, Ⲇⵠ.ᐃΔⵠⲆΔΔΔ, Ⲇⵠ.ΔⵠⵠᐃΔ, Ⲇⵠ.ⲆΔᐃⲆⲆ, Ⲇⵠ.ⲆΔᐃⲆᐃⵠᐃ, Ⲇⵠ.ΔᐃⲆⵠᐃⲆᐃ, Ⲇⵠ.ⲆⲆΔΔⵠΔⵠ, Ⲇⵠ.ⵠⵠⵠΔⵠ, Ⲇⵠ.ⵠΔΔᐃΔ, Ⲇⵠ.ᐃⲆΔⵠΔ];
+    ΔΔ[1025][Xr.ⲆᐃΔ][a("111_111_010")] = ΔΔ[1025][Xr.ⲆᐃΔ][a("111_111_110")];
+    ΔΔ[1025][Xr.ΔⲆⵠ] = [];
+    ΔΔ[1025][Xr.ΔⲆⵠ][a("000_010_000")] = [Ⲇⵠ.ᐃᐃⵠΔⲆ, Ⲇⵠ.ⵠⲆᐃⵠⵠ];
+    ΔΔ[1025][Xr.ΔⲆⵠ][a("000_010_010")] = ΔΔ[1025][Xr.ΔⲆⵠ][a("000_010_000")];
+    ΔΔ[1025][Xr.ΔⲆⵠ][a("000_011_000")] = ΔΔ[1025][Xr.ΔⲆⵠ][a("000_010_000")];
+    ΔΔ[1025][Xr.ΔⲆⵠ][a("000_011_010")] = [Ⲇⵠ.ⵠᐃⵠⵠᐃ, Ⲇⵠ.ⲆⲆⵠΔᐃ, Ⲇⵠ.ⵠⲆᐃⵠⵠ, Ⲇⵠ.ᐃᐃⵠΔⲆ, Ⲇⵠ.ⲆᐃᐃΔⵠΔΔ, Ⲇⵠ.ᐃΔⲆⲆΔᐃᐃ, Ⲇⵠ.ⲆᐃⲆΔⲆᐃᐃ];
+    ΔΔ[1025][Xr.ΔⲆⵠ][a("000_011_011")] = [Ⲇⵠ.ⵠΔΔᐃⲆⲆⲆ, Ⲇⵠ.ⵠᐃⵠⵠᐃ, Ⲇⵠ.ⲆⲆⵠΔᐃ, Ⲇⵠ.ⵠⲆᐃⵠⵠ, Ⲇⵠ.ᐃᐃⵠΔⲆ, Ⲇⵠ.ⲆᐃᐃΔⵠΔΔ, Ⲇⵠ.ᐃΔⲆⲆΔᐃᐃ, Ⲇⵠ.ⲆᐃⲆΔⲆᐃᐃ, Ⲇⵠ.ⲆᐃⲆΔⵠ];
+    ΔΔ[1025][Xr.ΔⲆⵠ][a("000_110_000")] = [Ⲇⵠ.ⵠⲆⵠⲆᐃ, Ⲇⵠ.ⵠⲆᐃⵠⵠ];
+    ΔΔ[1025][Xr.ΔⲆⵠ][a("000_110_010")] = [Ⲇⵠ.ⵠⵠᐃⲆⵠ, Ⲇⵠ.ⵠⲆⵠⲆᐃ, Ⲇⵠ.ⲆⵠⵠᐃⲆ, Ⲇⵠ.ⵠⲆᐃⵠⵠ, Ⲇⵠ.ᐃᐃⵠΔⲆ, Ⲇⵠ.ⲆᐃⲆΔⵠ, Ⲇⵠ.ᐃⵠᐃⲆⲆ, Ⲇⵠ.ᐃⲆⲆⵠⲆΔΔ];
+    ΔΔ[1025][Xr.ΔⲆⵠ][a("000_110_110")] = [Ⲇⵠ.ⵠⵠᐃⲆⵠ, Ⲇⵠ.ⵠⵠⵠⲆⲆΔⵠ, Ⲇⵠ.ⵠΔⲆⵠⲆⵠⲆ, Ⲇⵠ.ⵠⲆⵠⲆᐃ, Ⲇⵠ.ⲆⵠⵠᐃⲆ, Ⲇⵠ.ⵠⲆᐃⵠⵠ, Ⲇⵠ.ⲆᐃⲆΔⵠ, Ⲇⵠ.ᐃⵠᐃⲆⲆ, Ⲇⵠ.ᐃⲆⲆⵠⲆΔΔ];
+    ΔΔ[1025][Xr.ΔⲆⵠ][a("000_111_000")] = [Ⲇⵠ.ⵠⲆⵠⲆᐃ, Ⲇⵠ.ⲆⵠⵠᐃⲆ, Ⲇⵠ.ΔΔⵠⵠᐃᐃⵠ, Ⲇⵠ.ᐃΔᐃΔⵠΔⲆ];
+    ΔΔ[1025][Xr.ΔⲆⵠ][a("000_111_111")] = [Ⲇⵠ.ⵠⲆⵠⲆᐃ, Ⲇⵠ.ⵠΔⲆⵠⲆⵠⲆ, Ⲇⵠ.ⵠⵠᐃⲆⵠ, Ⲇⵠ.ⲆⲆⵠΔᐃ, Ⲇⵠ.ⵠᐃⵠⵠᐃ, Ⲇⵠ.ⵠΔΔᐃⲆⲆⲆ, Ⲇⵠ.ᐃⲆᐃⵠⲆⵠᐃ];
+    ΔΔ[1025][Xr.ΔⲆⵠ][a("010_010_000")] = [Ⲇⵠ.ⵠⲆᐃⵠⵠ];
+    ΔΔ[1025][Xr.ΔⲆⵠ][a("010_010_010")] = [Ⲇⵠ.ⵠᐃΔᐃⵠΔⵠ, Ⲇⵠ.ⵠⲆᐃⵠⵠ, Ⲇⵠ.ᐃᐃⵠΔⲆ];
+    ΔΔ[1025][Xr.ΔⲆⵠ][a("010_011_000")] = [Ⲇⵠ.ⵠⵠᐃⲆⲆ, Ⲇⵠ.ⵠⲆᐃⵠⵠ, Ⲇⵠ.ᐃᐃⵠΔⲆ, Ⲇⵠ.ᐃⵠᐃⲆⲆ];
+    ΔΔ[1025][Xr.ΔⲆⵠ][a("010_110_000")] = [Ⲇⵠ.ⵠⲆⵠⲆᐃ, Ⲇⵠ.ⲆⵠⵠᐃⲆ, Ⲇⵠ.ⵠⲆᐃⵠⵠ, Ⲇⵠ.ᐃⵠᐃⲆⲆ, Ⲇⵠ.ⲆⲆⲆΔⵠ];
+    ΔΔ[1025][Xr.ΔⲆⵠ][a("010_110_110")] = [Ⲇⵠ.ΔᐃⲆⲆᐃ, Ⲇⵠ.ⵠⵠᐃⲆⲆ, Ⲇⵠ.ⵠᐃⵠⵠᐃ, Ⲇⵠ.ⲆⲆⵠΔᐃ, Ⲇⵠ.ⵠⵠᐃⲆⵠ, Ⲇⵠ.ⵠΔⲆⵠⲆⵠⲆ, Ⲇⵠ.ⵠⲆⵠⲆᐃ, Ⲇⵠ.ᐃⲆᐃⵠⲆⵠᐃ, Ⲇⵠ.ΔΔᐃΔⵠⵠΔ, Ⲇⵠ.ⵠᐃΔᐃⵠΔⵠ, Ⲇⵠ.ⲆⵠⵠᐃⲆ, Ⲇⵠ.ΔΔⵠⵠᐃᐃⵠ, Ⲇⵠ.ᐃΔᐃΔⵠΔⲆ, Ⲇⵠ.ⵠⲆᐃⵠⵠ, Ⲇⵠ.ᐃᐃⵠΔⲆ, Ⲇⵠ.ⲆᐃᐃΔⵠΔΔ, Ⲇⵠ.ᐃΔⲆⲆΔᐃᐃ, Ⲇⵠ.ⲆᐃⲆΔⲆᐃᐃ, Ⲇⵠ.ⲆᐃⲆΔⵠ, Ⲇⵠ.ᐃⵠᐃⲆⲆ, Ⲇⵠ.ⲆⲆⲆΔⵠ];
+    ΔΔ[1025][Xr.ΔⲆⵠ][a("010_011_010")] = ΔΔ[1025][Xr.ΔⲆⵠ][a("010_110_110")];
+    ΔΔ[1025][Xr.ΔⲆⵠ][a("010_011_011")] = ΔΔ[1025][Xr.ΔⲆⵠ][a("010_110_110")];
+    ΔΔ[1025][Xr.ΔⲆⵠ][a("000_111_011")] = ΔΔ[1025][Xr.ΔⲆⵠ][a("010_110_110")];
+    ΔΔ[1025][Xr.ΔⲆⵠ][a("010_110_010")] = ΔΔ[1025][Xr.ΔⲆⵠ][a("010_110_110")];
+    ΔΔ[1025][Xr.ΔⲆⵠ][a("010_111_000")] = ΔΔ[1025][Xr.ΔⲆⵠ][a("010_110_110")];
+    ΔΔ[1025][Xr.ΔⲆⵠ][a("010_111_010")] = ΔΔ[1025][Xr.ΔⲆⵠ][a("010_110_110")];
+    ΔΔ[1025][Xr.ΔⲆⵠ][a("010_111_011")] = ΔΔ[1025][Xr.ΔⲆⵠ][a("010_110_110")];
+    ΔΔ[1025][Xr.ΔⲆⵠ][a("010_111_110")] = ΔΔ[1025][Xr.ΔⲆⵠ][a("010_110_110")];
+    ΔΔ[1025][Xr.ΔⲆⵠ][a("010_111_111")] = ΔΔ[1025][Xr.ΔⲆⵠ][a("010_110_110")];
+    ΔΔ[1025][Xr.ΔⲆⵠ][a("000_111_110")] = ΔΔ[1025][Xr.ΔⲆⵠ][a("010_110_110")];
+    ΔΔ[1025][Xr.ΔⲆⵠ][a("000_111_010")] = ΔΔ[1025][Xr.ΔⲆⵠ][a("010_110_110")];
+    ΔΔ[1025][Xr.ΔⲆⵠ][a("011_011_000")] = [Ⲇⵠ.ΔⲆΔΔⲆΔᐃ, Ⲇⵠ.ΔᐃⲆⲆᐃ, Ⲇⵠ.ⵠⵠᐃⲆⲆ, Ⲇⵠ.ⵠⲆᐃⵠⵠ, Ⲇⵠ.ᐃᐃⵠΔⲆ, Ⲇⵠ.ᐃⵠᐃⲆⲆ];
+    ΔΔ[1025][Xr.ΔⲆⵠ][a("011_011_010")] = [Ⲇⵠ.ΔⲆΔΔⲆΔᐃ, Ⲇⵠ.ΔᐃⲆⲆᐃ, Ⲇⵠ.ⵠⵠᐃⲆⲆ, Ⲇⵠ.ⵠⲆⵠⲆᐃ, Ⲇⵠ.ⲆⵠⵠᐃⲆ, Ⲇⵠ.ΔΔⵠⵠᐃᐃⵠ, Ⲇⵠ.ᐃΔᐃΔⵠΔⲆ, Ⲇⵠ.ⵠⲆᐃⵠⵠ, Ⲇⵠ.ᐃᐃⵠΔⲆ, Ⲇⵠ.ᐃⵠᐃⲆⲆ, Ⲇⵠ.ⲆⲆⲆΔⵠ];
+    ΔΔ[1025][Xr.ΔⲆⵠ][a("011_011_011")] = [Ⲇⵠ.ⲆⲆⵠΔᐃ, Ⲇⵠ.ⵠᐃⵠⵠᐃ, Ⲇⵠ.ⵠΔΔᐃⲆⲆⲆ, Ⲇⵠ.ⵠⵠᐃⲆⲆ, Ⲇⵠ.ΔᐃⲆⲆᐃ, Ⲇⵠ.ΔⲆΔΔⲆΔᐃ, Ⲇⵠ.ΔΔᐃΔⵠⵠΔ];
+    ΔΔ[1025][Xr.ΔⲆⵠ][a("011_111_000")] = ΔΔ[1025][Xr.ΔⲆⵠ][a("011_011_010")];
+    ΔΔ[1025][Xr.ΔⲆⵠ][a("011_111_010")] = [Ⲇⵠ.ΔⲆΔΔⲆΔᐃ, Ⲇⵠ.ΔᐃⲆⲆᐃ, Ⲇⵠ.ⵠⵠᐃⲆⲆ, Ⲇⵠ.ⵠᐃⵠⵠᐃ, Ⲇⵠ.ⲆⲆⵠΔᐃ, Ⲇⵠ.ⵠⵠᐃⲆⵠ, Ⲇⵠ.ⵠⲆⵠⲆᐃ, Ⲇⵠ.ᐃⲆᐃⵠⲆⵠᐃ, Ⲇⵠ.ΔΔᐃΔⵠⵠΔ, Ⲇⵠ.ⵠᐃΔᐃⵠΔⵠ, Ⲇⵠ.ⲆⵠⵠᐃⲆ, Ⲇⵠ.ΔΔⵠⵠᐃᐃⵠ, Ⲇⵠ.ᐃΔᐃΔⵠΔⲆ, Ⲇⵠ.ⵠⲆᐃⵠⵠ, Ⲇⵠ.ᐃᐃⵠΔⲆ, Ⲇⵠ.ⲆᐃᐃΔⵠΔΔ, Ⲇⵠ.ᐃΔⲆⲆΔᐃᐃ, Ⲇⵠ.ⲆᐃⲆΔⲆᐃᐃ, Ⲇⵠ.ⲆᐃⲆΔⵠ, Ⲇⵠ.ᐃⵠᐃⲆⲆ, Ⲇⵠ.ⲆⲆⲆΔⵠ];
+    ΔΔ[1025][Xr.ΔⲆⵠ][a("011_111_011")] = ΔΔ[1025][Xr.ΔⲆⵠ][a("011_111_010")];
+    ΔΔ[1025][Xr.ΔⲆⵠ][a("011_111_110")] = ΔΔ[1025][Xr.ΔⲆⵠ][a("011_111_010")];
+    ΔΔ[1025][Xr.ΔⲆⵠ][a("011_111_111")] = [Ⲇⵠ.ΔⲆΔΔⲆΔᐃ, Ⲇⵠ.ΔᐃⲆⲆᐃ, Ⲇⵠ.ⵠⵠᐃⲆⲆ, Ⲇⵠ.ⵠΔΔᐃⲆⲆⲆ, Ⲇⵠ.ⵠᐃⵠⵠᐃ, Ⲇⵠ.ⲆⲆⵠΔᐃ, Ⲇⵠ.ⵠⵠᐃⲆⵠ, Ⲇⵠ.ⵠΔⲆⵠⲆⵠⲆ, Ⲇⵠ.ⵠⲆⵠⲆᐃ, Ⲇⵠ.ᐃⲆᐃⵠⲆⵠᐃ, Ⲇⵠ.ΔΔᐃΔⵠⵠΔ, Ⲇⵠ.ⵠᐃΔᐃⵠΔⵠ, Ⲇⵠ.ⲆⵠⵠᐃⲆ, Ⲇⵠ.ΔΔⵠⵠᐃᐃⵠ, Ⲇⵠ.ᐃΔᐃΔⵠΔⲆ, Ⲇⵠ.ⵠⲆᐃⵠⵠ, Ⲇⵠ.ᐃᐃⵠΔⲆ, Ⲇⵠ.ⲆᐃᐃΔⵠΔΔ, Ⲇⵠ.ᐃΔⲆⲆΔᐃᐃ, Ⲇⵠ.ⲆᐃⲆΔⲆᐃᐃ, Ⲇⵠ.ⲆᐃⲆΔⵠ, Ⲇⵠ.ᐃⵠᐃⲆⲆ, Ⲇⵠ.ⲆⲆⲆΔⵠ];
+    ΔΔ[1025][Xr.ΔⲆⵠ][a("110_110_000")] = [Ⲇⵠ.ⵠΔⲆΔⵠⲆΔ, Ⲇⵠ.ⵠⲆⵠⲆᐃ, Ⲇⵠ.ⲆᐃΔᐃᐃΔΔ, Ⲇⵠ.ⲆⵠⵠᐃⲆ, Ⲇⵠ.ⵠⲆᐃⵠⵠ, Ⲇⵠ.ⲆⲆⲆΔⵠ];
+    ΔΔ[1025][Xr.ΔⲆⵠ][a("110_110_010")] = [Ⲇⵠ.ⵠⵠᐃⲆⵠ, Ⲇⵠ.ⵠΔⲆΔⵠⲆΔ, Ⲇⵠ.ⵠⲆⵠⲆᐃ, Ⲇⵠ.ⵠᐃΔᐃⵠΔⵠ, Ⲇⵠ.ⲆⵠⵠᐃⲆ, Ⲇⵠ.ⵠⲆᐃⵠⵠ, Ⲇⵠ.ⲆᐃⲆΔⵠ, Ⲇⵠ.ⲆⲆⲆΔⵠ];
+    ΔΔ[1025][Xr.ΔⲆⵠ][a("110_110_110")] = [Ⲇⵠ.ⵠⵠᐃⲆⵠ, Ⲇⵠ.ⵠΔⲆⵠⲆⵠⲆ, Ⲇⵠ.ⵠΔⲆΔⵠⲆΔ, Ⲇⵠ.ⵠⲆⵠⲆᐃ, Ⲇⵠ.ⵠᐃΔᐃⵠΔⵠ, Ⲇⵠ.ⲆⵠⵠᐃⲆ, Ⲇⵠ.ⵠⲆᐃⵠⵠ, Ⲇⵠ.ⲆᐃⲆΔⵠ, Ⲇⵠ.ⲆⲆⲆΔⵠ];
+    ΔΔ[1025][Xr.ΔⲆⵠ][a("110_111_000")] = [Ⲇⵠ.ΔᐃⲆⲆᐃ, Ⲇⵠ.ⵠⵠᐃⲆⲆ, Ⲇⵠ.ⵠΔⲆΔⵠⲆΔ, Ⲇⵠ.ⵠⲆⵠⲆᐃ, Ⲇⵠ.ⲆᐃΔᐃᐃΔΔ, Ⲇⵠ.ⵠⲆⵠⲆⲆⵠᐃ, Ⲇⵠ.ⲆⵠⵠᐃⲆ, Ⲇⵠ.ΔΔⵠⵠᐃᐃⵠ, Ⲇⵠ.ᐃΔᐃΔⵠΔⲆ, Ⲇⵠ.ⵠⲆᐃⵠⵠ, Ⲇⵠ.ᐃᐃⵠΔⲆ, Ⲇⵠ.ᐃⵠᐃⲆⲆ, Ⲇⵠ.ⲆⲆⲆΔⵠ];
+    ΔΔ[1025][Xr.ΔⲆⵠ][a("110_111_110")] = [Ⲇⵠ.ΔᐃⲆⲆᐃ, Ⲇⵠ.ⵠⵠᐃⲆⲆ, Ⲇⵠ.ⵠᐃⵠⵠᐃ, Ⲇⵠ.ⲆⲆⵠΔᐃ, Ⲇⵠ.ⵠⵠᐃⲆⵠ, Ⲇⵠ.ⵠΔⲆⵠⲆⵠⲆ, Ⲇⵠ.ⵠΔⲆΔⵠⲆΔ, Ⲇⵠ.ⵠⲆⵠⲆᐃ, Ⲇⵠ.ᐃⲆᐃⵠⲆⵠᐃ, Ⲇⵠ.ⵠⲆⵠⲆⲆⵠᐃ, Ⲇⵠ.ΔΔᐃΔⵠⵠΔ, Ⲇⵠ.ⵠᐃΔᐃⵠΔⵠ, Ⲇⵠ.ⲆⵠⵠᐃⲆ, Ⲇⵠ.ΔΔⵠⵠᐃᐃⵠ, Ⲇⵠ.ᐃΔᐃΔⵠΔⲆ, Ⲇⵠ.ⵠⲆᐃⵠⵠ, Ⲇⵠ.ᐃᐃⵠΔⲆ, Ⲇⵠ.ⲆᐃᐃΔⵠΔΔ, Ⲇⵠ.ᐃΔⲆⲆΔᐃᐃ, Ⲇⵠ.ⲆᐃⲆΔⲆᐃᐃ, Ⲇⵠ.ⲆᐃⲆΔⵠ, Ⲇⵠ.ᐃⵠᐃⲆⲆ, Ⲇⵠ.ⲆⲆⲆΔⵠ];
+    ΔΔ[1025][Xr.ΔⲆⵠ][a("110_111_111")] = ΔΔ[1025][Xr.ΔⲆⵠ][a("110_111_110")];
+    ΔΔ[1025][Xr.ΔⲆⵠ][a("110_111_011")] = ΔΔ[1025][Xr.ΔⲆⵠ][a("110_111_110")];
+    ΔΔ[1025][Xr.ΔⲆⵠ][a("110_111_010")] = ΔΔ[1025][Xr.ΔⲆⵠ][a("110_111_110")];
+    ΔΔ[1025][Xr.ΔⲆⵠ][a("111_111_110")] = [Ⲇⵠ.ⲆⲆⲆΔⵠ, Ⲇⵠ.ᐃⵠᐃⲆⲆ, Ⲇⵠ.ⲆᐃⲆΔⵠ, Ⲇⵠ.ⲆᐃⲆΔⲆᐃᐃ, Ⲇⵠ.ᐃΔⲆⲆΔᐃᐃ, Ⲇⵠ.ⲆᐃᐃΔⵠΔΔ, Ⲇⵠ.ᐃᐃⵠΔⲆ, Ⲇⵠ.ⵠⲆᐃⵠⵠ, Ⲇⵠ.ᐃΔᐃΔⵠΔⲆ, Ⲇⵠ.ΔΔⵠⵠᐃᐃⵠ, Ⲇⵠ.ⲆⵠⵠᐃⲆ, Ⲇⵠ.ⵠᐃΔᐃⵠΔⵠ, Ⲇⵠ.ΔΔᐃΔⵠⵠΔ, Ⲇⵠ.ⵠⲆⵠⲆⲆⵠᐃ, Ⲇⵠ.ᐃⲆᐃⵠⲆⵠᐃ, Ⲇⵠ.ⵠⲆⵠⲆᐃ, Ⲇⵠ.ⵠΔⲆΔⵠⲆΔ, Ⲇⵠ.ⵠⵠᐃⲆⵠ, Ⲇⵠ.ⲆⲆⵠΔᐃ, Ⲇⵠ.ⵠᐃⵠⵠᐃ, Ⲇⵠ.ⵠⵠᐃⲆⲆ, Ⲇⵠ.ΔᐃⲆⲆᐃ, Ⲇⵠ.ΔⲆΔΔⲆΔᐃ];
+    ΔΔ[1025][Xr.ΔⲆⵠ][a("111_111_011")] = ΔΔ[1025][Xr.ΔⲆⵠ][a("111_111_110")];
+    ΔΔ[1025][Xr.ΔⲆⵠ][a("111_111_000")] = [Ⲇⵠ.ⲆᐃΔᐃᐃΔΔ, Ⲇⵠ.ⵠⲆⵠⲆᐃ, Ⲇⵠ.ⵠΔⲆΔⵠⲆΔ, Ⲇⵠ.ⵠⵠᐃⲆⲆ, Ⲇⵠ.ΔᐃⲆⲆᐃ, Ⲇⵠ.ΔⲆΔΔⲆΔᐃ, Ⲇⵠ.ⵠⲆⵠⲆⲆⵠᐃ];
+    ΔΔ[1025][Xr.ΔⲆⵠ][a("111_111_111")] = [Ⲇⵠ.ΔⲆΔΔⲆΔᐃ, Ⲇⵠ.ΔᐃⲆⲆᐃ, Ⲇⵠ.ⵠⵠᐃⲆⲆ, Ⲇⵠ.ⵠΔΔᐃⲆⲆⲆ, Ⲇⵠ.ⵠᐃⵠⵠᐃ, Ⲇⵠ.ⲆⲆⵠΔᐃ, Ⲇⵠ.ⵠⵠᐃⲆⵠ, Ⲇⵠ.ⵠΔⲆⵠⲆⵠⲆ, Ⲇⵠ.ⵠΔⲆΔⵠⲆΔ, Ⲇⵠ.ⵠⲆⵠⲆᐃ, Ⲇⵠ.ᐃⲆᐃⵠⲆⵠᐃ, Ⲇⵠ.ΔΔᐃΔⵠⵠΔ, Ⲇⵠ.ⵠᐃΔᐃⵠΔⵠ, Ⲇⵠ.ⲆⵠⵠᐃⲆ, Ⲇⵠ.ΔΔⵠⵠᐃᐃⵠ, Ⲇⵠ.ᐃΔᐃΔⵠΔⲆ, Ⲇⵠ.ⵠⲆᐃⵠⵠ, Ⲇⵠ.ᐃᐃⵠΔⲆ, Ⲇⵠ.ⲆᐃᐃΔⵠΔΔ, Ⲇⵠ.ᐃΔⲆⲆΔᐃᐃ, Ⲇⵠ.ⲆᐃⲆΔⲆᐃᐃ, Ⲇⵠ.ⲆᐃⲆΔⵠ, Ⲇⵠ.ᐃⵠᐃⲆⲆ, Ⲇⵠ.ⲆⲆⲆΔⵠ];
+    ΔΔ[1025][Xr.ΔⲆⵠ][a("111_111_010")] = ΔΔ[1025][Xr.ΔⲆⵠ][a("111_111_110")];
+    ΔΔ[1024] = [];
+    ΔΔ[1024][Xr.ⲆᐃΔ] = [];
+    ΔΔ[1024][Xr.ⲆᐃΔ][a("000_010_000")] = Ⲇⵠ.ⲆⲆⲆⲆᐃⵠᐃ;
+    ΔΔ[1024][Xr.ⲆᐃΔ][a("000_010_010")] = Ⲇⵠ.ⲆⲆⲆⵠⲆⵠⲆ;
+    ΔΔ[1024][Xr.ⲆᐃΔ][a("000_011_000")] = Ⲇⵠ.ᐃⵠᐃΔΔⵠΔ;
+    ΔΔ[1024][Xr.ⲆᐃΔ][a("000_011_010")] = Ⲇⵠ.ᐃⲆⵠⲆⲆⲆⵠ;
+    ΔΔ[1024][Xr.ⲆᐃΔ][a("000_011_011")] = Ⲇⵠ.ⲆΔⲆⵠⲆⲆᐃ;
+    ΔΔ[1024][Xr.ⲆᐃΔ][a("000_110_000")] = Ⲇⵠ.ⲆⵠⲆᐃⵠⲆᐃ;
+    ΔΔ[1024][Xr.ⲆᐃΔ][a("000_110_010")] = Ⲇⵠ.ᐃΔΔᐃⲆⵠⵠ;
+    ΔΔ[1024][Xr.ⲆᐃΔ][a("000_110_110")] = Ⲇⵠ.ΔΔΔⲆⵠᐃΔ;
+    ΔΔ[1024][Xr.ⲆᐃΔ][a("000_111_000")] = Ⲇⵠ.ᐃⲆᐃⲆⵠᐃⲆ;
+    ΔΔ[1024][Xr.ⲆᐃΔ][a("000_111_010")] = Ⲇⵠ.ⵠⵠⲆⵠⲆⲆⲆ;
+    ΔΔ[1024][Xr.ⲆᐃΔ][a("000_111_011")] = Ⲇⵠ.ⲆⲆᐃΔᐃᐃΔ;
+    ΔΔ[1024][Xr.ⲆᐃΔ][a("000_111_110")] = Ⲇⵠ.ᐃⵠⵠⵠⲆⲆⵠ;
+    ΔΔ[1024][Xr.ⲆᐃΔ][a("000_111_111")] = Ⲇⵠ.ⵠⵠᐃΔᐃⲆΔ;
+    ΔΔ[1024][Xr.ⲆᐃΔ][a("010_010_000")] = Ⲇⵠ.ΔᐃΔⲆⲆᐃⲆ;
+    ΔΔ[1024][Xr.ⲆᐃΔ][a("010_010_010")] = Ⲇⵠ.ΔⲆⵠⵠⵠⲆⲆ;
+    ΔΔ[1024][Xr.ⲆᐃΔ][a("010_011_000")] = Ⲇⵠ.ΔⲆΔⲆᐃᐃᐃ;
+    ΔΔ[1024][Xr.ⲆᐃΔ][a("010_011_010")] = Ⲇⵠ.ⲆΔΔΔⵠΔᐃ;
+    ΔΔ[1024][Xr.ⲆᐃΔ][a("010_011_011")] = Ⲇⵠ.ᐃⵠⲆΔⵠⵠᐃ;
+    ΔΔ[1024][Xr.ⲆᐃΔ][a("010_110_000")] = Ⲇⵠ.ᐃΔⲆⵠⵠᐃⲆ;
+    ΔΔ[1024][Xr.ⲆᐃΔ][a("010_110_010")] = Ⲇⵠ.ⵠⵠΔⲆΔⲆᐃ;
+    ΔΔ[1024][Xr.ⲆᐃΔ][a("010_110_110")] = Ⲇⵠ.ΔΔⵠⵠᐃⵠᐃ;
+    ΔΔ[1024][Xr.ⲆᐃΔ][a("010_111_000")] = Ⲇⵠ.ΔᐃᐃΔΔⵠΔ;
+    ΔΔ[1024][Xr.ⲆᐃΔ][a("010_111_010")] = Ⲇⵠ.ⵠⵠΔΔΔⲆⵠ;
+    ΔΔ[1024][Xr.ⲆᐃΔ][a("010_111_011")] = Ⲇⵠ.ⵠⵠⵠⲆⲆⵠᐃ;
+    ΔΔ[1024][Xr.ⲆᐃΔ][a("010_111_110")] = Ⲇⵠ.ᐃΔⲆΔⲆΔⵠ;
+    ΔΔ[1024][Xr.ⲆᐃΔ][a("010_111_111")] = Ⲇⵠ.ⲆⲆⲆᐃΔⵠⵠ;
+    ΔΔ[1024][Xr.ⲆᐃΔ][a("011_011_000")] = Ⲇⵠ.ⵠⵠᐃⲆΔⲆⲆ;
+    ΔΔ[1024][Xr.ⲆᐃΔ][a("011_011_010")] = Ⲇⵠ.ΔΔΔⵠΔᐃⵠ;
+    ΔΔ[1024][Xr.ⲆᐃΔ][a("011_011_011")] = Ⲇⵠ.ᐃⲆΔⲆⵠᐃⲆ;
+    ΔΔ[1024][Xr.ⲆᐃΔ][a("011_111_000")] = Ⲇⵠ.ᐃᐃᐃΔⵠᐃᐃ;
+    ΔΔ[1024][Xr.ⲆᐃΔ][a("011_111_010")] = Ⲇⵠ.ΔⲆᐃᐃΔΔⵠ;
+    ΔΔ[1024][Xr.ⲆᐃΔ][a("011_111_011")] = Ⲇⵠ.ΔⵠᐃΔⵠΔⲆ;
+    ΔΔ[1024][Xr.ⲆᐃΔ][a("011_111_110")] = Ⲇⵠ.ᐃⲆᐃΔⲆⵠΔ;
+    ΔΔ[1024][Xr.ⲆᐃΔ][a("011_111_111")] = Ⲇⵠ.ᐃⲆⵠⲆⲆΔᐃ;
+    ΔΔ[1024][Xr.ⲆᐃΔ][a("110_110_000")] = Ⲇⵠ.ⲆⵠⵠⲆᐃⵠᐃ;
+    ΔΔ[1024][Xr.ⲆᐃΔ][a("110_110_010")] = Ⲇⵠ.ᐃΔⵠⲆⵠⵠⵠ;
+    ΔΔ[1024][Xr.ⲆᐃΔ][a("110_110_110")] = Ⲇⵠ.ⵠΔⵠᐃΔⲆΔ;
+    ΔΔ[1024][Xr.ⲆᐃΔ][a("110_111_000")] = Ⲇⵠ.ΔΔⲆᐃⲆᐃΔ;
+    ΔΔ[1024][Xr.ⲆᐃΔ][a("110_111_010")] = Ⲇⵠ.ΔΔⵠᐃΔⵠⲆ;
+    ΔΔ[1024][Xr.ⲆᐃΔ][a("110_111_011")] = Ⲇⵠ.ⵠᐃⲆᐃΔΔⲆ;
+    ΔΔ[1024][Xr.ⲆᐃΔ][a("110_111_110")] = Ⲇⵠ.ⵠⵠⵠⲆᐃⲆⵠ;
+    ΔΔ[1024][Xr.ⲆᐃΔ][a("110_111_111")] = Ⲇⵠ.ⲆΔⵠⵠᐃΔᐃ;
+    ΔΔ[1024][Xr.ⲆᐃΔ][a("111_111_011")] = Ⲇⵠ.ⲆᐃΔⵠΔⲆⲆ;
+    ΔΔ[1024][Xr.ⲆᐃΔ][a("111_111_110")] = Ⲇⵠ.ⲆⲆᐃᐃⲆⲆᐃ;
+    ΔΔ[1024][Xr.ⲆᐃΔ][a("111_111_011")] = Ⲇⵠ.ⲆᐃΔⵠΔⲆⲆ;
+    ΔΔ[1024][Xr.ⲆᐃΔ][a("111_111_000")] = Ⲇⵠ.ΔᐃⵠⲆᐃⵠⲆ;
+    ΔΔ[1024][Xr.ⲆᐃΔ][a("111_111_111")] = Ⲇⵠ.ΔᐃⵠⵠΔΔΔ;
+    ΔΔ[1024][Xr.ⲆᐃΔ][a("111_111_010")] = Ⲇⵠ.ᐃⵠᐃⵠΔᐃΔ;
+    ΔΔ[1024][Xr.ΔⲆⵠ] = [];
+    ΔΔ[1024][Xr.ΔⲆⵠ][a("000_010_000")] = Ⲇⵠ.ᐃⲆⲆᐃᐃΔΔ;
+    ΔΔ[1024][Xr.ΔⲆⵠ][a("000_010_010")] = Ⲇⵠ.ᐃⲆᐃΔΔⲆⵠ;
+    ΔΔ[1024][Xr.ΔⲆⵠ][a("000_011_000")] = Ⲇⵠ.ΔⵠⲆⵠⲆΔΔ;
+    ΔΔ[1024][Xr.ΔⲆⵠ][a("000_011_010")] = Ⲇⵠ.ΔΔⵠⵠᐃⵠΔ;
+    ΔΔ[1024][Xr.ΔⲆⵠ][a("000_011_011")] = Ⲇⵠ.ⲆⲆΔⵠᐃⵠⲆ;
+    ΔΔ[1024][Xr.ΔⲆⵠ][a("000_110_000")] = Ⲇⵠ.ᐃⲆⲆᐃⲆᐃⵠ;
+    ΔΔ[1024][Xr.ΔⲆⵠ][a("000_110_010")] = Ⲇⵠ.ⲆᐃⵠΔᐃΔᐃ;
+    ΔΔ[1024][Xr.ΔⲆⵠ][a("000_110_110")] = Ⲇⵠ.ΔⵠⵠΔΔⲆⲆ;
+    ΔΔ[1024][Xr.ΔⲆⵠ][a("000_111_000")] = Ⲇⵠ.ΔⲆⲆⲆᐃⵠⲆ;
+    ΔΔ[1024][Xr.ΔⲆⵠ][a("000_111_010")] = Ⲇⵠ.ΔⲆⵠⲆⲆⵠΔ;
+    ΔΔ[1024][Xr.ΔⲆⵠ][a("000_111_011")] = Ⲇⵠ.ᐃΔⲆΔⲆᐃⵠ;
+    ΔΔ[1024][Xr.ΔⲆⵠ][a("000_111_110")] = Ⲇⵠ.ΔΔᐃⲆⲆⵠⵠ;
+    ΔΔ[1024][Xr.ΔⲆⵠ][a("000_111_111")] = Ⲇⵠ.ⵠⵠΔⲆⲆⲆⲆ;
+    ΔΔ[1024][Xr.ΔⲆⵠ][a("010_010_000")] = Ⲇⵠ.ᐃⵠΔⲆᐃΔᐃ;
+    ΔΔ[1024][Xr.ΔⲆⵠ][a("010_010_010")] = Ⲇⵠ.ᐃⲆⵠΔΔᐃⵠ;
+    ΔΔ[1024][Xr.ΔⲆⵠ][a("010_011_000")] = Ⲇⵠ.ⲆⲆⲆᐃᐃⲆᐃ;
+    ΔΔ[1024][Xr.ΔⲆⵠ][a("010_011_010")] = Ⲇⵠ.ᐃⵠᐃΔᐃΔⵠ;
+    ΔΔ[1024][Xr.ΔⲆⵠ][a("010_011_011")] = Ⲇⵠ.ⲆᐃⵠᐃⲆᐃΔ;
+    ΔΔ[1024][Xr.ΔⲆⵠ][a("010_110_000")] = Ⲇⵠ.ⵠΔⵠⲆⵠⲆᐃ;
+    ΔΔ[1024][Xr.ΔⲆⵠ][a("010_110_010")] = Ⲇⵠ.ⵠⵠⵠⵠⵠⵠⲆ;
+    ΔΔ[1024][Xr.ΔⲆⵠ][a("010_110_110")] = Ⲇⵠ.ᐃᐃⲆΔⵠⵠⲆ;
+    ΔΔ[1024][Xr.ΔⲆⵠ][a("010_111_000")] = Ⲇⵠ.ᐃᐃⲆⲆⵠⲆᐃ;
+    ΔΔ[1024][Xr.ΔⲆⵠ][a("010_111_010")] = Ⲇⵠ.ⵠᐃⲆⵠⵠⵠᐃ;
+    ΔΔ[1024][Xr.ΔⲆⵠ][a("010_111_011")] = Ⲇⵠ.ᐃⲆᐃΔⲆΔΔ;
+    ΔΔ[1024][Xr.ΔⲆⵠ][a("010_111_110")] = Ⲇⵠ.ΔⲆⲆᐃⵠᐃⵠ;
+    ΔΔ[1024][Xr.ΔⲆⵠ][a("010_111_111")] = Ⲇⵠ.ⵠᐃⲆⲆᐃⵠΔ;
+    ΔΔ[1024][Xr.ΔⲆⵠ][a("011_011_000")] = Ⲇⵠ.ΔⲆⲆΔⲆᐃⲆ;
+    ΔΔ[1024][Xr.ΔⲆⵠ][a("011_011_010")] = Ⲇⵠ.ᐃᐃⵠⵠᐃⲆᐃ;
+    ΔΔ[1024][Xr.ΔⲆⵠ][a("011_011_011")] = Ⲇⵠ.ⵠⲆᐃᐃⲆⲆⵠ;
+    ΔΔ[1024][Xr.ΔⲆⵠ][a("011_111_000")] = Ⲇⵠ.ΔⵠᐃᐃᐃⲆⲆ;
+    ΔΔ[1024][Xr.ΔⲆⵠ][a("011_111_010")] = Ⲇⵠ.ⲆⲆᐃᐃΔΔⵠ;
+    ΔΔ[1024][Xr.ΔⲆⵠ][a("011_111_011")] = Ⲇⵠ.ΔⵠⲆⲆⵠᐃⲆ;
+    ΔΔ[1024][Xr.ΔⲆⵠ][a("011_111_110")] = Ⲇⵠ.ⵠΔΔⵠᐃⲆⵠ;
+    ΔΔ[1024][Xr.ΔⲆⵠ][a("011_111_111")] = Ⲇⵠ.ⵠⵠⵠᐃᐃⵠᐃ;
+    ΔΔ[1024][Xr.ΔⲆⵠ][a("110_110_000")] = Ⲇⵠ.ΔⵠΔᐃⵠΔⲆ;
+    ΔΔ[1024][Xr.ΔⲆⵠ][a("110_110_010")] = Ⲇⵠ.ⵠⵠⵠⵠⵠⲆΔ;
+    ΔΔ[1024][Xr.ΔⲆⵠ][a("110_110_110")] = Ⲇⵠ.ᐃᐃⲆⲆⲆⲆⲆ;
+    ΔΔ[1024][Xr.ΔⲆⵠ][a("110_111_000")] = Ⲇⵠ.ⲆⲆᐃⲆΔⲆᐃ;
+    ΔΔ[1024][Xr.ΔⲆⵠ][a("110_111_010")] = Ⲇⵠ.ⲆⲆⵠΔᐃΔⲆ;
+    ΔΔ[1024][Xr.ΔⲆⵠ][a("110_111_011")] = Ⲇⵠ.ΔΔᐃⲆᐃⵠᐃ;
+    ΔΔ[1024][Xr.ΔⲆⵠ][a("110_111_110")] = Ⲇⵠ.ⵠᐃⲆᐃⵠᐃⲆ;
+    ΔΔ[1024][Xr.ΔⲆⵠ][a("110_111_111")] = Ⲇⵠ.ⲆⲆᐃΔⵠⲆΔ;
+    ΔΔ[1024][Xr.ΔⲆⵠ][a("111_111_011")] = Ⲇⵠ.ᐃⲆΔΔⵠΔⲆ;
+    ΔΔ[1024][Xr.ΔⲆⵠ][a("111_111_110")] = Ⲇⵠ.ΔⵠⵠⲆⲆᐃᐃ;
+    ΔΔ[1024][Xr.ΔⲆⵠ][a("111_111_011")] = Ⲇⵠ.ᐃⲆΔΔⵠΔⲆ;
+    ΔΔ[1024][Xr.ΔⲆⵠ][a("111_111_000")] = Ⲇⵠ.ⲆⵠⲆΔᐃⵠⲆ;
+    ΔΔ[1024][Xr.ΔⲆⵠ][a("111_111_111")] = Ⲇⵠ.ⵠᐃΔᐃᐃⲆⲆ;
+    ΔΔ[1024][Xr.ΔⲆⵠ][a("111_111_010")] = Ⲇⵠ.ᐃⲆΔᐃⲆⵠᐃ;
+    ΔΔ[32] = [];
+    ΔΔ[32][Xr.ⲆᐃΔ] = Ⲇⵠ.ΔⲆΔΔⲆⲆᐃ;
+    ΔΔ[32][Xr.ΔⲆⵠ] = Ⲇⵠ.ᐃⲆΔΔⲆᐃⵠ;
+    ΔΔ[205] = [];
+    ΔΔ[205][Xr.ⲆᐃΔ] = Ⲇⵠ.ⵠᐃⲆⵠᐃᐃⵠ;
+    ΔΔ[205][Xr.ΔⲆⵠ] = Ⲇⵠ.Ⲇⵠᐃᐃⵠⵠⵠ;
+    ΔΔ[957] = [];
+    ΔΔ[957][Xr.ⲆᐃΔ] = Ⲇⵠ.ⵠᐃΔⲆⵠⵠⵠ;
+    ΔΔ[957][Xr.ΔⲆⵠ] = Ⲇⵠ.ᐃΔⵠⵠⲆⲆⲆ;
+    ΔΔ[207] = [];
+    ΔΔ[207][Xr.ⲆᐃΔ] = Ⲇⵠ.ⲆⲆⲆΔⵠⲆⵠ;
+    ΔΔ[207][Xr.ΔⲆⵠ] = Ⲇⵠ.ΔᐃⲆⵠⲆⵠⵠ;
+    ΔΔ[954] = [];
+    ΔΔ[954][Xr.ⲆᐃΔ] = Ⲇⵠ.ⲆⲆⵠΔᐃⵠᐃ;
+    ΔΔ[954][Xr.ΔⲆⵠ] = Ⲇⵠ.ᐃⲆᐃᐃⲆᐃᐃ;
+    ΔΔ[958] = [];
+    ΔΔ[958][Xr.ⲆᐃΔ] = Ⲇⵠ.ⵠΔᐃⲆᐃᐃⵠ;
+    ΔΔ[958][Xr.ΔⲆⵠ] = Ⲇⵠ.ⲆⵠⲆΔⵠᐃΔ;
+    ΔΔ[209] = [];
+    ΔΔ[209][Xr.ⲆᐃΔ] = Ⲇⵠ.ⲆⲆΔⲆΔΔᐃ;
+    ΔΔ[209][Xr.ΔⲆⵠ] = Ⲇⵠ.ⲆᐃⵠⲆⵠⲆᐃ;
+    ΔΔ[971] = [];
+    ΔΔ[971][Xr.ⲆᐃΔ] = Ⲇⵠ.ⲆᐃᐃⵠⲆΔᐃ;
+    ΔΔ[971][Xr.ΔⲆⵠ] = Ⲇⵠ.ⵠᐃΔᐃⵠⲆᐃ;
+    ΔΔ[211] = [];
+    ΔΔ[211][Xr.ⲆᐃΔ] = Ⲇⵠ.ᐃΔᐃⵠⵠΔᐃ;
+    ΔΔ[211][Xr.ΔⲆⵠ] = Ⲇⵠ.ᐃᐃΔⵠⲆⲆⲆ;
+    ΔΔ[986] = [];
+    ΔΔ[986][Xr.ⲆᐃΔ] = Ⲇⵠ.ΔᐃᐃⵠᐃⲆⵠ;
+    ΔΔ[986][Xr.ΔⲆⵠ] = Ⲇⵠ.ⵠᐃΔᐃΔⲆⲆ;
+    ΔΔ[989] = [];
+    ΔΔ[989][Xr.ⲆᐃΔ] = [Ⲇⵠ.ΔᐃΔⵠΔᐃᐃ];
+    ΔΔ[989][Xr.ΔⲆⵠ] = [Ⲇⵠ.ⲆⲆⵠⲆΔᐃⲆ];
+    ΔΔ[217] = [];
+    ΔΔ[217][Xr.ⲆᐃΔ] = Ⲇⵠ.ᐃⵠⵠⲆⲆΔΔ;
+    ΔΔ[217][Xr.ΔⲆⵠ] = Ⲇⵠ.ᐃᐃⲆⵠΔⵠⵠ;
+    ΔΔ[219] = [];
+    ΔΔ[219][Xr.ⲆᐃΔ] = Ⲇⵠ.ᐃⵠΔⲆⲆⵠᐃ;
+    ΔΔ[219][Xr.ΔⲆⵠ] = Ⲇⵠ.ⲆΔⲆΔⵠⲆⲆ;
+    ΔΔ[218] = [];
+    ΔΔ[218][Xr.ⲆᐃΔ] = Ⲇⵠ.ΔⵠⲆΔᐃⵠⵠ;
+    ΔΔ[218][Xr.ΔⲆⵠ] = Ⲇⵠ.ⲆⵠᐃᐃⵠⲆᐃ;
+    ΔΔ[212] = [];
+    ΔΔ[212][Xr.ⲆᐃΔ] = Ⲇⵠ.ᐃᐃⲆΔⲆᐃΔ;
+    ΔΔ[212][Xr.ΔⲆⵠ] = Ⲇⵠ.ᐃᐃⲆⵠΔΔᐃ;
+    ΔΔ[213] = [];
+    ΔΔ[213][Xr.ⲆᐃΔ] = Ⲇⵠ.ⲆᐃⲆᐃᐃⲆⵠ;
+    ΔΔ[213][Xr.ΔⲆⵠ] = Ⲇⵠ.ⵠΔⵠⵠᐃᐃⲆ;
+    ΔΔ[214] = [];
+    ΔΔ[214][Xr.ⲆᐃΔ] = Ⲇⵠ.ᐃⵠⵠᐃⵠⵠⲆ;
+    ΔΔ[214][Xr.ΔⲆⵠ] = Ⲇⵠ.ⲆΔⲆⲆⵠⵠⵠ;
+    ΔΔ[215] = [];
+    ΔΔ[215][Xr.ⲆᐃΔ] = Ⲇⵠ.ᐃⲆⲆΔᐃᐃᐃ;
+    ΔΔ[215][Xr.ΔⲆⵠ] = Ⲇⵠ.ᐃᐃⵠⵠⵠⵠⵠ;
+    ΔΔ[216] = [];
+    ΔΔ[216][Xr.ⲆᐃΔ] = Ⲇⵠ.ΔΔⲆⵠⵠⵠᐃ;
+    ΔΔ[216][Xr.ΔⲆⵠ] = Ⲇⵠ.ᐃᐃⵠΔⲆⵠⵠ;
+    ΔΔ[220] = [];
+    ΔΔ[220][Xr.ⲆᐃΔ] = Ⲇⵠ.ᐃᐃⲆⵠᐃⵠᐃ;
+    ΔΔ[220][Xr.ΔⲆⵠ] = Ⲇⵠ.ΔⵠΔΔⵠⲆⵠ;
+    ΔΔ[1020] = [];
+    ΔΔ[1020][Xr.ⲆᐃΔ] = Ⲇⵠ.ᐃⲆᐃΔΔⵠⲆ;
+    ΔΔ[1020][Xr.ΔⲆⵠ] = Ⲇⵠ.ᐃΔⵠᐃⲆᐃᐃ;
+    ΔΔ[1021] = [];
+    ΔΔ[1021][Xr.ⲆᐃΔ] = Ⲇⵠ.ᐃᐃᐃⵠⲆⵠᐃ;
+    ΔΔ[1021][Xr.ΔⲆⵠ] = Ⲇⵠ.ⲆⲆᐃᐃᐃⲆⲆ;
+    ΔΔ[39] = [];
+    ΔΔ[39][Xr.ⲆᐃΔ] = Ⲇⵠ.ⲆΔⵠⵠᐃᐃΔ;
+    ΔΔ[39][Xr.ΔⲆⵠ] = Ⲇⵠ.ⵠⲆΔⵠᐃⲆⵠ;
+    ΔΔ[1022] = Ⲇⵠ.ⲆᐃⲆⲆⲆⵠⲆ;
+    ΔΔ[1023] = Ⲇⵠ.ᐃᐃⵠᐃᐃᐃᐃ;
+    ΔΔ[1041] = [];
+    ΔΔ[1041][Xr.ⲆᐃΔ] = [];
+    ΔΔ[1041][Xr.ΔⲆⵠ] = [];
+    ΔΔ[1041][Xr.ⲆᐃΔ].push(Ⲇⵠ.ΔᐃⵠΔⲆᐃⲆ);
+    ΔΔ[1041][Xr.ⲆᐃΔ].push(Ⲇⵠ.ⵠⲆΔᐃΔⵠⲆ);
+    ΔΔ[1041][Xr.ⲆᐃΔ].push(Ⲇⵠ.ΔⲆΔΔⲆⵠⲆ);
+    ΔΔ[1041][Xr.ΔⲆⵠ].push(Ⲇⵠ.ᐃⵠⲆⲆⲆⵠⵠ);
+    ΔΔ[1041][Xr.ΔⲆⵠ].push(Ⲇⵠ.ⵠᐃᐃⵠⵠᐃᐃ);
+    ΔΔ[1041][Xr.ΔⲆⵠ].push(Ⲇⵠ.Ⲇⵠᐃᐃⵠᐃᐃ);
+    ΔΔ[244] = [];
+    ΔΔ[244][Xr.ⲆᐃΔ] = [];
+    ΔΔ[244][Xr.ΔⲆⵠ] = [];
+    ΔΔ[244][Xr.ⲆᐃΔ].push(Ⲇⵠ.ᐃΔΔⵠᐃΔⲆ);
+    ΔΔ[244][Xr.ⲆᐃΔ].push(Ⲇⵠ.ᐃΔⲆⵠΔᐃⵠ);
+    ΔΔ[244][Xr.ⲆᐃΔ].push(Ⲇⵠ.ᐃⲆⲆⵠΔᐃᐃ);
+    ΔΔ[244][Xr.ΔⲆⵠ].push(Ⲇⵠ.ⲆᐃΔⵠⵠⲆΔ);
+    ΔΔ[244][Xr.ΔⲆⵠ].push(Ⲇⵠ.ᐃⲆⵠⵠΔⲆΔ);
+    ΔΔ[244][Xr.ΔⲆⵠ].push(Ⲇⵠ.ⵠⵠⵠᐃⵠΔⵠ);
+    ΔΔ[1052] = [];
+    ΔΔ[1052][Xr.ⲆᐃΔ] = [];
+    ΔΔ[1052][Xr.ΔⲆⵠ] = [];
+    ΔΔ[1052][Xr.ⲆᐃΔ].push(Ⲇⵠ.ⲆᐃⲆᐃᐃⲆⲆ);
+    ΔΔ[1052][Xr.ⲆᐃΔ].push(Ⲇⵠ.ⲆᐃⲆᐃⵠΔⵠ);
+    ΔΔ[1052][Xr.ⲆᐃΔ].push(Ⲇⵠ.ⲆᐃⲆⲆⵠᐃΔ);
+    ΔΔ[1052][Xr.ⲆᐃΔ].push(Ⲇⵠ.ⵠᐃΔΔᐃΔⵠ);
+    ΔΔ[1052][Xr.ⲆᐃΔ].push(Ⲇⵠ.ⲆᐃᐃᐃⲆΔⵠ);
+    ΔΔ[1052][Xr.ΔⲆⵠ].push(Ⲇⵠ.ᐃᐃᐃⵠⲆΔⵠ);
+    ΔΔ[1052][Xr.ΔⲆⵠ].push(Ⲇⵠ.ᐃᐃΔΔΔⵠⵠ);
+    ΔΔ[1052][Xr.ΔⲆⵠ].push(Ⲇⵠ.ⲆⵠⲆⵠᐃᐃᐃ);
+    ΔΔ[1052][Xr.ΔⲆⵠ].push(Ⲇⵠ.ⲆΔⵠΔᐃᐃΔ);
+    ΔΔ[1052][Xr.ΔⲆⵠ].push(Ⲇⵠ.ⲆⲆᐃⵠⲆⲆᐃ);
+    ΔΔ[450] = [];
+    ΔΔ[450][Xr.ⲆᐃΔ] = Ⲇⵠ.ᐃⵠᐃⲆⲆⲆᐃ;
+    ΔΔ[450][Xr.ΔⲆⵠ] = Ⲇⵠ.ᐃΔᐃⲆⲆᐃΔ;
+    ΔΔ[453] = [];
+    ΔΔ[453][Xr.ⲆᐃΔ] = Ⲇⵠ.ⲆⲆᐃⵠΔⵠΔ;
+    ΔΔ[453][Xr.ΔⲆⵠ] = Ⲇⵠ.ⵠΔⲆⲆⲆᐃⵠ;
+    ΔΔ[454] = [];
+    ΔΔ[454][Xr.ⲆᐃΔ] = Ⲇⵠ.ᐃΔᐃⵠΔΔΔ;
+    ΔΔ[454][Xr.ΔⲆⵠ] = Ⲇⵠ.ⵠΔⲆᐃᐃⵠᐃ;
+    ΔΔ[464] = Ⲇⵠ.ᐃᐃⵠᐃⲆΔΔ;
+    ΔΔ[468] = Ⲇⵠ.ⵠΔⲆⲆⵠΔΔ;
+    ΔΔ[469] = Ⲇⵠ.ⵠᐃᐃⲆΔᐃΔ;
+    ΔΔ[20] = [];
+    ΔΔ[20][Xr.ⲆᐃΔ] = Ⲇⵠ.ⲆⲆΔᐃΔΔᐃ;
+    ΔΔ[20][Xr.ΔⲆⵠ] = Ⲇⵠ.ⵠᐃᐃⵠᐃᐃⲆ;
+    ΔΔ[920] = [];
+    ΔΔ[920][Xr.ⲆᐃΔ] = Ⲇⵠ.ⲆⲆᐃᐃⵠⵠΔ;
+    ΔΔ[920][Xr.ΔⲆⵠ] = Ⲇⵠ.ⲆⵠⲆⲆᐃᐃⲆ;
+    ΔΔ[21] = [];
+    ΔΔ[21][Xr.ⲆᐃΔ] = Ⲇⵠ.ᐃΔΔⵠⲆᐃΔ;
+    ΔΔ[21][Xr.ΔⲆⵠ] = Ⲇⵠ.ΔⵠΔⲆⵠΔᐃ;
+    ΔΔ[924] = [];
+    ΔΔ[924][Xr.ⲆᐃΔ] = Ⲇⵠ.ⲆⲆᐃᐃⵠⵠΔ;
+    ΔΔ[924][Xr.ΔⲆⵠ] = Ⲇⵠ.ⲆⵠⲆⲆᐃᐃⲆ;
+    ΔΔ[44] = [];
+    ΔΔ[44][Xr.ⲆᐃΔ] = Ⲇⵠ.ᐃᐃⵠⲆᐃⲆᐃ;
+    ΔΔ[44][Xr.ΔⲆⵠ] = Ⲇⵠ.ᐃⵠⲆᐃᐃΔᐃ;
+    ΔΔ[19] = [];
+    ΔΔ[19][Xr.ⲆᐃΔ] = Ⲇⵠ.ΔᐃⲆᐃΔⲆΔ;
+    ΔΔ[19][Xr.ΔⲆⵠ] = Ⲇⵠ.ⲆⵠᐃⲆⲆⲆᐃ;
+    ΔΔ[34] = [];
+    ΔΔ[34][Xr.ⲆᐃΔ] = Ⲇⵠ.ⵠᐃᐃᐃᐃⲆⵠ;
+    ΔΔ[34][Xr.ΔⲆⵠ] = Ⲇⵠ.ᐃⵠᐃⲆⲆⲆⵠ;
+    ΔΔ[17] = [];
+    ΔΔ[17][Xr.ⲆᐃΔ] = Ⲇⵠ.ᐃⲆⵠᐃᐃΔⵠ;
+    ΔΔ[17][Xr.ΔⲆⵠ] = Ⲇⵠ.ΔΔᐃΔⵠⲆⵠ;
+    ΔΔ[63] = [];
+    ΔΔ[63][Xr.ⲆᐃΔ] = Ⲇⵠ.ΔΔⵠⲆⵠΔⵠ;
+    ΔΔ[63][Xr.ΔⲆⵠ] = Ⲇⵠ.ΔⵠΔΔⲆᐃΔ;
+    ΔΔ[60] = [];
+    ΔΔ[60][Xr.ⲆᐃΔ] = Ⲇⵠ.ΔⲆⲆᐃᐃᐃΔ;
+    ΔΔ[60][Xr.ΔⲆⵠ] = Ⲇⵠ.ⵠⲆᐃᐃⵠⲆΔ;
+    ΔΔ[94] = [];
+    ΔΔ[94][Xr.ⲆᐃΔ] = Ⲇⵠ.ⵠⲆΔᐃⲆⲆᐃᐃΔ;
+    ΔΔ[94][Xr.ΔⲆⵠ] = Ⲇⵠ.ΔΔⵠⲆⲆⲆⲆΔⲆ;
+    ΔΔ[95] = [];
+    ΔΔ[95][Xr.ⲆᐃΔ] = Ⲇⵠ.ⵠⵠΔⵠᐃⵠⵠᐃⵠ;
+    ΔΔ[95][Xr.ΔⲆⵠ] = Ⲇⵠ.ᐃⵠᐃⲆΔᐃᐃⵠΔ;
+    ΔΔ[96] = [];
+    ΔΔ[96][Xr.ⲆᐃΔ] = Ⲇⵠ.ᐃΔⵠᐃⲆⵠⵠΔΔ;
+    ΔΔ[96][Xr.ΔⲆⵠ] = Ⲇⵠ.ᐃⵠⵠⵠΔᐃⲆⲆⲆ;
+    ΔΔ[97] = [];
+    ΔΔ[97][Xr.ⲆᐃΔ] = Ⲇⵠ.ⲆΔΔᐃᐃⲆΔⲆΔ;
+    ΔΔ[97][Xr.ΔⲆⵠ] = Ⲇⵠ.ΔⵠⲆⲆΔΔᐃⲆΔ;
+    ΔΔ[98] = [];
+    ΔΔ[98][Xr.ⲆᐃΔ] = Ⲇⵠ.ⵠΔᐃΔᐃᐃᐃΔΔ;
+    ΔΔ[98][Xr.ΔⲆⵠ] = Ⲇⵠ.ⲆⲆᐃᐃⵠΔⲆⲆⲆ;
+    ΔΔ[99] = [];
+    ΔΔ[99][Xr.ⲆᐃΔ] = Ⲇⵠ.ⵠⵠⵠⵠⵠᐃⲆΔᐃ;
+    ΔΔ[99][Xr.ΔⲆⵠ] = Ⲇⵠ.ⲆΔⲆⵠΔΔⲆⵠΔ;
+    ΔΔ[90] = [];
+    ΔΔ[90][Xr.ⲆᐃΔ] = Ⲇⵠ.ΔᐃⵠΔⲆⲆⲆ;
+    ΔΔ[90][Xr.ΔⲆⵠ] = Ⲇⵠ.ᐃⲆΔΔⲆΔⵠ;
+    ΔΔ[91] = [];
+    ΔΔ[91][Xr.ⲆᐃΔ] = Ⲇⵠ.ᐃⵠⵠᐃᐃⵠⵠ;
+    ΔΔ[91][Xr.ΔⲆⵠ] = Ⲇⵠ.ΔⲆⵠⲆⲆⲆᐃ;
+    ΔΔ[71] = [];
+    ΔΔ[71][Xr.ⲆᐃΔ] = Ⲇⵠ.ΔΔⵠⲆΔⲆⲆΔᐃ;
+    ΔΔ[71][Xr.ΔⲆⵠ] = Ⲇⵠ.ⲆⵠᐃⲆⵠΔⲆⲆⵠ;
+    ΔΔ[72] = [];
+    ΔΔ[72][Xr.ⲆᐃΔ] = Ⲇⵠ.ᐃⵠⵠΔⵠΔⲆᐃᐃ;
+    ΔΔ[72][Xr.ΔⲆⵠ] = Ⲇⵠ.ⲆⲆⲆⲆΔⵠⲆⵠⲆ;
+    ΔΔ[73] = [];
+    ΔΔ[73][Xr.ⲆᐃΔ] = Ⲇⵠ.ΔⲆᐃᐃΔⵠΔᐃΔ;
+    ΔΔ[73][Xr.ΔⲆⵠ] = Ⲇⵠ.ΔΔⵠⲆΔⵠⲆᐃⵠ;
+    ΔΔ[74] = [];
+    ΔΔ[74][Xr.ⲆᐃΔ] = Ⲇⵠ.ΔΔΔΔⲆΔⵠⲆⵠ;
+    ΔΔ[74][Xr.ΔⲆⵠ] = Ⲇⵠ.ⵠⲆⵠΔⵠΔⵠⵠⲆ;
+    ΔΔ[75] = [];
+    ΔΔ[75][Xr.ⲆᐃΔ] = Ⲇⵠ.ᐃΔⵠΔΔΔⵠᐃΔ;
+    ΔΔ[75][Xr.ΔⲆⵠ] = Ⲇⵠ.ᐃΔΔⵠⲆⵠᐃᐃᐃ;
+    ΔΔ[76] = [];
+    ΔΔ[76][Xr.ⲆᐃΔ] = Ⲇⵠ.ⵠᐃⵠⲆΔᐃⲆᐃⲆ;
+    ΔΔ[76][Xr.ΔⲆⵠ] = Ⲇⵠ.ⵠᐃΔⵠᐃΔᐃΔᐃ;
+    ΔΔ[101] = [];
+    ΔΔ[101][Xr.ⲆᐃΔ] = Ⲇⵠ.ΔᐃⲆΔⵠᐃⲆ;
+    ΔΔ[101][Xr.ΔⲆⵠ] = Ⲇⵠ.ᐃⲆⵠᐃᐃᐃΔ;
+    ΔΔ[64] = [];
+    ΔΔ[64][Xr.ⲆᐃΔ] = Ⲇⵠ.ᐃΔᐃᐃΔⵠⲆ;
+    ΔΔ[64][Xr.ΔⲆⵠ] = Ⲇⵠ.ⲆⵠⵠΔⲆⲆᐃ;
+    ΔΔ[102] = [];
+    ΔΔ[102][Xr.ⲆᐃΔ] = Ⲇⵠ.ⵠᐃΔᐃΔᐃⲆ;
+    ΔΔ[102][Xr.ΔⲆⵠ] = Ⲇⵠ.ΔᐃⵠᐃΔᐃⵠ;
+    ΔΔ[65] = [];
+    ΔΔ[65][Xr.ⲆᐃΔ] = Ⲇⵠ.ᐃⵠΔΔⲆᐃᐃ;
+    ΔΔ[65][Xr.ΔⲆⵠ] = Ⲇⵠ.ᐃᐃⲆΔᐃⵠᐃ;
+    ΔΔ[103] = [];
+    ΔΔ[103][Xr.ⲆᐃΔ] = Ⲇⵠ.ΔⵠⵠⲆᐃᐃΔ;
+    ΔΔ[103][Xr.ΔⲆⵠ] = Ⲇⵠ.ⵠᐃⵠⲆⲆᐃⲆ;
+    ΔΔ[66] = [];
+    ΔΔ[66][Xr.ⲆᐃΔ] = Ⲇⵠ.ᐃΔⲆΔΔⵠⲆ;
+    ΔΔ[66][Xr.ΔⲆⵠ] = Ⲇⵠ.ΔⵠⲆᐃⲆΔΔ;
+    ΔΔ[104] = [];
+    ΔΔ[104][Xr.ⲆᐃΔ] = Ⲇⵠ.ΔⵠᐃΔᐃⵠⲆ;
+    ΔΔ[104][Xr.ΔⲆⵠ] = Ⲇⵠ.ᐃΔⵠⲆᐃΔⵠ;
+    ΔΔ[67] = [];
+    ΔΔ[67][Xr.ⲆᐃΔ] = Ⲇⵠ.ΔⵠⲆᐃᐃⲆⵠ;
+    ΔΔ[67][Xr.ΔⲆⵠ] = Ⲇⵠ.ⵠⵠᐃᐃᐃᐃΔ;
+    ΔΔ[105] = [];
+    ΔΔ[105][Xr.ⲆᐃΔ] = Ⲇⵠ.ᐃⵠᐃᐃΔⲆⵠ;
+    ΔΔ[105][Xr.ΔⲆⵠ] = Ⲇⵠ.ΔΔᐃⲆΔⲆⲆ;
+    ΔΔ[68] = [];
+    ΔΔ[68][Xr.ⲆᐃΔ] = Ⲇⵠ.ⲆΔⵠᐃⲆΔⵠᐃΔ;
+    ΔΔ[68][Xr.ΔⲆⵠ] = Ⲇⵠ.ᐃⲆⲆᐃⲆⲆⵠⲆᐃ;
+    ΔΔ[106] = [];
+    ΔΔ[106][Xr.ⲆᐃΔ] = Ⲇⵠ.ΔᐃᐃⲆⲆΔᐃ;
+    ΔΔ[106][Xr.ΔⲆⵠ] = Ⲇⵠ.ΔⲆΔΔΔΔⵠΔⵠ;
+    ΔΔ[69] = [];
+    ΔΔ[69][Xr.ⲆᐃΔ] = Ⲇⵠ.ⲆΔⲆⵠᐃΔᐃΔⵠ;
+    ΔΔ[69][Xr.ΔⲆⵠ] = Ⲇⵠ.ⵠⲆᐃⵠⲆⵠΔⵠⲆ;
+    ΔΔ[107] = [];
+    ΔΔ[107][Xr.ⲆᐃΔ] = Ⲇⵠ.ⵠᐃⵠⲆⵠⵠⲆ;
+    ΔΔ[107][Xr.ΔⲆⵠ] = Ⲇⵠ.ⵠⵠᐃⲆⲆᐃΔ;
+    ΔΔ[70] = [];
+    ΔΔ[70][Xr.ⲆᐃΔ] = Ⲇⵠ.ᐃⵠⲆⵠⲆⲆⲆᐃⲆ;
+    ΔΔ[70][Xr.ΔⲆⵠ] = Ⲇⵠ.ᐃⲆᐃⵠⲆΔⲆⵠⵠ;
+    ΔΔ[80] = [];
+    ΔΔ[80][Xr.ⲆᐃΔ] = Ⲇⵠ.ΔⵠⵠΔᐃΔⵠ;
+    ΔΔ[80][Xr.ΔⲆⵠ] = Ⲇⵠ.ΔⵠⲆⵠⵠᐃⲆ;
+    ΔΔ[81] = [];
+    ΔΔ[81][Xr.ⲆᐃΔ] = Ⲇⵠ.ⲆᐃᐃⲆΔΔⵠ;
+    ΔΔ[81][Xr.ΔⲆⵠ] = Ⲇⵠ.ᐃΔᐃⵠⵠⵠⲆ;
+    ΔΔ[22] = [];
+    ΔΔ[22][Xr.ⲆᐃΔ] = Ⲇⵠ.ᐃⵠⲆⵠΔΔⵠ;
+    ΔΔ[22][Xr.ΔⲆⵠ] = Ⲇⵠ.ⲆᐃⲆⲆⲆⲆⲆ;
+    ΔΔ[928] = [];
+    ΔΔ[928][Xr.ⲆᐃΔ] = Ⲇⵠ.ΔⵠⵠᐃᐃⵠΔ;
+    ΔΔ[928][Xr.ΔⲆⵠ] = Ⲇⵠ.ᐃⲆΔⲆᐃᐃⵠ;
+    ΔΔ[935] = [];
+    ΔΔ[935][Xr.ⲆᐃΔ] = [];
+    ΔΔ[935][Xr.ΔⲆⵠ] = [];
+    ΔΔ[935][Xr.ⲆᐃΔ].push(Ⲇⵠ.ⵠⵠᐃⵠᐃⵠΔᐃΔ);
+    ΔΔ[935][Xr.ⲆᐃΔ].push(Ⲇⵠ.ᐃᐃᐃⵠᐃⲆⵠᐃⲆ);
+    ΔΔ[935][Xr.ΔⲆⵠ].push(Ⲇⵠ.ᐃᐃᐃⵠᐃⲆⵠᐃⲆ);
+    ΔΔ[935][Xr.ΔⲆⵠ].push(Ⲇⵠ.ⲆⵠΔᐃⲆΔⵠᐃⵠ);
+    ΔΔ[941] = [];
+    ΔΔ[941][Xr.ⲆᐃΔ] = [];
+    ΔΔ[941][Xr.ΔⲆⵠ] = [];
+    ΔΔ[941][Xr.ⲆᐃΔ].push(Ⲇⵠ.ΔⵠⵠΔⲆΔⵠ);
+    ΔΔ[941][Xr.ⲆᐃΔ].push(Ⲇⵠ.ⵠᐃᐃΔⲆⲆᐃ);
+    ΔΔ[941][Xr.ⲆᐃΔ].push(Ⲇⵠ.ΔⵠΔⲆΔᐃⲆ);
+    ΔΔ[941][Xr.ΔⲆⵠ].push(Ⲇⵠ.ⵠΔⲆΔᐃⲆΔ);
+    ΔΔ[941][Xr.ΔⲆⵠ].push(Ⲇⵠ.ⲆⲆΔⲆᐃΔⵠ);
+    ΔΔ[941][Xr.ΔⲆⵠ].push(Ⲇⵠ.ᐃᐃⵠΔΔⲆⲆ);
+    ΔΔ[53] = [];
+    ΔΔ[53][Xr.ⲆᐃΔ] = Ⲇⵠ.ᐃⲆⵠΔⲆⵠⵠ;
+    ΔΔ[53][Xr.ΔⲆⵠ] = Ⲇⵠ.ΔΔᐃΔᐃⵠⲆ;
+    ΔΔ[54] = [];
+    ΔΔ[54][Xr.ⲆᐃΔ] = Ⲇⵠ.ᐃΔⵠⲆⲆΔⵠ;
+    ΔΔ[54][Xr.ΔⲆⵠ] = Ⲇⵠ.ΔⵠⵠᐃᐃΔⲆ;
+    ΔΔ[241] = [];
+    ΔΔ[241][Xr.ⲆᐃΔ] = [];
+    ΔΔ[241][Xr.ΔⲆⵠ] = [];
+    ΔΔ[241][Xr.ⲆᐃΔ].push(Ⲇⵠ.ⵠΔᐃᐃΔⲆΔ);
+    ΔΔ[241][Xr.ⲆᐃΔ].push(Ⲇⵠ.ΔⵠⲆᐃΔΔⲆ);
+    ΔΔ[241][Xr.ⲆᐃΔ].push(Ⲇⵠ.ⵠⲆⵠⵠΔⲆΔ);
+    ΔΔ[241][Xr.ΔⲆⵠ].push(Ⲇⵠ.ΔⵠΔⲆᐃⵠⵠ);
+    ΔΔ[241][Xr.ΔⲆⵠ].push(Ⲇⵠ.ΔⲆⲆⲆΔⵠᐃ);
+    ΔΔ[241][Xr.ΔⲆⵠ].push(Ⲇⵠ.ΔΔᐃᐃΔΔᐃ);
+    ΔΔ[202] = [];
+    ΔΔ[202][Xr.ⲆᐃΔ] = [];
+    ΔΔ[202][Xr.ΔⲆⵠ] = [];
+    ΔΔ[202][Xr.ⲆᐃΔ].push(Ⲇⵠ.ⵠᐃⵠΔΔⲆⵠ);
+    ΔΔ[202][Xr.ⲆᐃΔ].push(Ⲇⵠ.ᐃᐃᐃΔⵠΔⵠ);
+    ΔΔ[202][Xr.ⲆᐃΔ].push(Ⲇⵠ.ᐃΔΔΔᐃⲆⵠ);
+    ΔΔ[202][Xr.ΔⲆⵠ].push(Ⲇⵠ.ⵠᐃⲆⵠΔⲆⵠ);
+    ΔΔ[202][Xr.ΔⲆⵠ].push(Ⲇⵠ.ΔᐃⲆⵠⵠⲆΔ);
+    ΔΔ[202][Xr.ΔⲆⵠ].push(Ⲇⵠ.ⲆⲆⲆᐃⲆⲆΔ);
+    ΔΔ[203] = [];
+    ΔΔ[203][Xr.ⲆᐃΔ] = [];
+    ΔΔ[203][Xr.ΔⲆⵠ] = [];
+    ΔΔ[203][Xr.ⲆᐃΔ].push(Ⲇⵠ.ᐃᐃⲆᐃΔⲆⵠ);
+    ΔΔ[203][Xr.ⲆᐃΔ].push(Ⲇⵠ.ᐃΔΔᐃⵠⲆⲆ);
+    ΔΔ[203][Xr.ⲆᐃΔ].push(Ⲇⵠ.ⵠⵠᐃⵠⵠΔⵠ);
+    ΔΔ[203][Xr.ⲆᐃΔ].push(Ⲇⵠ.ΔΔⲆⲆᐃⵠᐃ);
+    ΔΔ[203][Xr.ⲆᐃΔ].push(Ⲇⵠ.ⲆⵠⲆᐃⵠᐃΔ);
+    ΔΔ[203][Xr.ⲆᐃΔ].push(Ⲇⵠ.ⲆᐃⵠᐃⵠⲆΔ);
+    ΔΔ[203][Xr.ΔⲆⵠ].push(Ⲇⵠ.ΔⵠᐃⵠⲆᐃⵠ);
+    ΔΔ[203][Xr.ΔⲆⵠ].push(Ⲇⵠ.ᐃⲆⵠⵠΔⲆⵠ);
+    ΔΔ[203][Xr.ΔⲆⵠ].push(Ⲇⵠ.Ⲇⵠᐃᐃᐃⵠᐃ);
+    ΔΔ[203][Xr.ΔⲆⵠ].push(Ⲇⵠ.ⲆᐃⲆⲆⵠⵠΔ);
+    ΔΔ[203][Xr.ΔⲆⵠ].push(Ⲇⵠ.ⲆΔᐃᐃᐃΔⵠ);
+    ΔΔ[203][Xr.ΔⲆⵠ].push(Ⲇⵠ.ᐃⵠᐃᐃⵠⵠⲆ);
     ΔΔ[Xr.ΔᐃΔΔⲆ] = [];
     ΔΔ[Xr.ΔᐃΔΔⲆ][Xr.ⲆᐃΔ] = [];
     ΔΔ[Xr.ΔᐃΔΔⲆ][Xr.ΔⲆⵠ] = [];
@@ -36361,298 +36361,298 @@
     ΔΔ[Xr.ΔᐃΔΔⲆ][Xr.ΔⲆⵠ].push(Ⲇⵠ.ᐃⵠⲆᐃᐃⵠⵠ);
     ΔΔ[Xr.ΔᐃΔΔⲆ][Xr.ΔⲆⵠ].push(Ⲇⵠ.ΔⵠᐃⵠᐃⲆᐃ);
     ΔΔ[Xr.ΔᐃΔΔⲆ][Xr.ΔⲆⵠ].push(Ⲇⵠ.ⲆᐃΔᐃᐃΔⲆ);
-    ΔΔ[Xr.ΔΔⲆᐃᐃⲆΔ] = [];
-    ΔΔ[Xr.ΔΔⲆᐃᐃⲆΔ][Xr.ⲆᐃΔ] = Ⲇⵠ.ᐃⲆΔΔᐃⲆⲆ;
-    ΔΔ[Xr.ΔΔⲆᐃᐃⲆΔ][Xr.ΔⲆⵠ] = Ⲇⵠ.ᐃⲆⵠᐃⲆⵠⵠ;
-    ΔΔ[Xr.ᐃⲆᐃΔⵠⲆⵠ] = Ⲇⵠ.ΔⵠⲆⵠⲆᐃⵠ;
-    ΔΔ[Xr.Ⲇᐃⵠⵠᐃ] = [];
-    ΔΔ[Xr.Ⲇᐃⵠⵠᐃ][Xr.ⲆᐃΔ] = Ⲇⵠ.ΔⵠⵠⵠⲆⵠΔⲆⵠ;
-    ΔΔ[Xr.Ⲇᐃⵠⵠᐃ][Xr.ΔⲆⵠ] = Ⲇⵠ.ⲆᐃⲆⲆⵠⲆᐃⵠⲆ;
-    ΔΔ[Xr.ⵠⵠⲆΔⲆ] = [];
-    ΔΔ[Xr.ⵠⵠⲆΔⲆ][Xr.ⲆᐃΔ] = Ⲇⵠ.ⲆⲆⵠⵠⵠⵠⲆ;
-    ΔΔ[Xr.ⵠⵠⲆΔⲆ][Xr.ΔⲆⵠ] = Ⲇⵠ.ⲆⲆⵠᐃᐃΔᐃ;
-    ΔΔ[Xr.ⵠᐃᐃⲆᐃ] = [];
-    ΔΔ[Xr.ⵠᐃᐃⲆᐃ][Xr.ⲆᐃΔ] = Ⲇⵠ.ⵠⵠᐃᐃⲆΔΔ;
-    ΔΔ[Xr.ⵠᐃᐃⲆᐃ][Xr.ΔⲆⵠ] = Ⲇⵠ.ΔᐃⵠᐃⵠⵠΔ;
-    ΔΔ[Xr.ΔⵠΔΔⵠ] = [];
-    ΔΔ[Xr.ΔⵠΔΔⵠ][Xr.ⲆᐃΔ] = Ⲇⵠ.ⵠⵠᐃᐃᐃΔᐃ;
-    ΔΔ[Xr.ΔⵠΔΔⵠ][Xr.ΔⲆⵠ] = Ⲇⵠ.ⲆΔⵠΔΔᐃⲆ;
-    ΔΔ[Xr.ⲆᐃᐃⲆⵠ] = [];
-    ΔΔ[Xr.ⲆᐃᐃⲆⵠ][Xr.ⲆᐃΔ] = Ⲇⵠ.ΔⵠⵠΔⲆⲆᐃ;
-    ΔΔ[Xr.ⲆᐃᐃⲆⵠ][Xr.ΔⲆⵠ] = Ⲇⵠ.ⲆᐃΔⲆⲆΔΔ;
-    ΔΔ[Xr.ΔⵠΔⲆⲆᐃΔ] = Ⲇⵠ.ΔⵠΔⲆⲆᐃΔ;
-    ΔΔ[Xr.ⵠᐃⵠⵠᐃⲆⲆ] = [];
-    ΔΔ[Xr.ⵠᐃⵠⵠᐃⲆⲆ][Xr.ⲆᐃΔ] = Ⲇⵠ.ⲆΔⲆⵠΔᐃⵠ;
-    ΔΔ[Xr.ⵠᐃⵠⵠᐃⲆⲆ][Xr.ΔⲆⵠ] = Ⲇⵠ.ᐃᐃΔᐃᐃΔᐃ;
-    ΔΔ[Xr.ᐃⵠⲆᐃⵠΔΔ] = [];
-    ΔΔ[Xr.ᐃⵠⲆᐃⵠΔΔ][Xr.ⲆᐃΔ] = Ⲇⵠ.ᐃᐃΔΔⲆⵠΔ;
-    ΔΔ[Xr.ᐃⵠⲆᐃⵠΔΔ][Xr.ΔⲆⵠ] = Ⲇⵠ.ⲆⵠⲆᐃⲆⲆᐃ;
-    ΔΔ[Xr.ΔⲆⲆᐃᐃΔᐃ] = Ⲇⵠ.ΔⲆⲆᐃᐃΔᐃ;
-    ΔΔ[Xr.ᐃⲆᐃⲆᐃⵠⲆ] = Ⲇⵠ.ᐃⲆᐃⲆᐃⵠⲆ;
-    ΔΔ[Xr.ⲆⵠⲆΔΔⲆⵠ] = Ⲇⵠ.ⲆⵠⲆΔΔⲆⵠ;
-    ΔΔ[Xr.ⵠᐃⲆΔⵠⵠᐃ] = [];
-    ΔΔ[Xr.ⵠᐃⲆΔⵠⵠᐃ][Xr.ⲆᐃΔ] = Ⲇⵠ.ᐃⲆΔⵠⵠⵠⵠ;
-    ΔΔ[Xr.ⵠᐃⲆΔⵠⵠᐃ][Xr.ΔⲆⵠ] = Ⲇⵠ.ΔⵠⵠⲆᐃⲆᐃ;
-    ΔΔ[Xr.ⵠΔᐃⵠⵠⵠΔ] = [];
-    ΔΔ[Xr.ⵠΔᐃⵠⵠⵠΔ][Xr.ⲆᐃΔ] = Ⲇⵠ.ⲆⲆΔΔⲆⲆⲆ;
-    ΔΔ[Xr.ⵠΔᐃⵠⵠⵠΔ][Xr.ΔⲆⵠ] = Ⲇⵠ.ⵠΔΔⲆᐃᐃΔ;
-    ΔΔ[Xr.ⲆᐃⵠᐃⵠⲆⲆ] = [];
-    ΔΔ[Xr.ⲆᐃⵠᐃⵠⲆⲆ][Xr.ⲆᐃΔ] = Ⲇⵠ.ΔΔⲆⲆⵠⲆⵠ;
-    ΔΔ[Xr.ⲆᐃⵠᐃⵠⲆⲆ][Xr.ΔⲆⵠ] = Ⲇⵠ.Δᐃᐃⵠⵠᐃᐃ;
-    ΔΔ[Xr.ΔᐃΔᐃⲆᐃⵠ] = Ⲇⵠ.ΔᐃΔᐃⲆᐃⵠ;
-    ΔΔ[Xr.ⵠᐃΔᐃᐃΔᐃ] = Ⲇⵠ.ⵠᐃΔᐃᐃΔᐃ;
-    ΔΔ[Xr.ΔⵠᐃΔΔΔᐃ] = Ⲇⵠ.ΔⵠᐃΔΔΔᐃ;
-    ΔΔ[Xr.ⵠⲆᐃⵠⲆⵠᐃ] = [];
-    ΔΔ[Xr.ⵠⲆᐃⵠⲆⵠᐃ][Xr.ⲆᐃΔ] = Ⲇⵠ.ΔⲆᐃⵠΔᐃⲆ;
-    ΔΔ[Xr.ⵠⲆᐃⵠⲆⵠᐃ][Xr.ΔⲆⵠ] = Ⲇⵠ.ⲆᐃⲆᐃⲆⵠⲆ;
-    ΔΔ[Xr.ᐃᐃᐃⵠⵠⵠΔ] = [];
-    ΔΔ[Xr.ᐃᐃᐃⵠⵠⵠΔ][Xr.ⲆᐃΔ] = Ⲇⵠ.ΔΔⵠᐃⵠΔᐃ;
-    ΔΔ[Xr.ᐃᐃᐃⵠⵠⵠΔ][Xr.ΔⲆⵠ] = Ⲇⵠ.ΔⲆΔⵠⲆΔᐃ;
-    ΔΔ[Xr.ᐃⵠⵠᐃⵠ] = [];
-    ΔΔ[Xr.ᐃⵠⵠᐃⵠ][Xr.ⲆᐃΔ] = Ⲇⵠ.ⲆⲆᐃⵠᐃⵠⵠ;
-    ΔΔ[Xr.ᐃⵠⵠᐃⵠ][Xr.ΔⲆⵠ] = Ⲇⵠ.ⵠⵠⲆΔⲆⲆⵠ;
-    ΔΔ[Xr.ᐃΔⵠΔᐃᐃⵠ] = [];
-    ΔΔ[Xr.ᐃΔⵠΔᐃᐃⵠ][Xr.ⲆᐃΔ] = Ⲇⵠ.ⵠⲆⲆⵠⲆΔⲆ;
-    ΔΔ[Xr.ᐃΔⵠΔᐃᐃⵠ][Xr.ΔⲆⵠ] = Ⲇⵠ.ΔⲆⲆΔⲆⲆⲆ;
-    ΔΔ[Xr.ᐃᐃᐃⵠⲆΔᐃ] = [];
-    ΔΔ[Xr.ᐃᐃᐃⵠⲆΔᐃ][Xr.ⲆᐃΔ] = Ⲇⵠ.ⵠᐃⵠΔⲆΔΔ;
-    ΔΔ[Xr.ᐃᐃᐃⵠⲆΔᐃ][Xr.ΔⲆⵠ] = Ⲇⵠ.ⲆⵠᐃᐃⲆⵠⲆ;
-    ΔΔ[Xr.ΔⲆΔⵠᐃⵠⲆ] = [];
-    ΔΔ[Xr.ΔⲆΔⵠᐃⵠⲆ][Xr.ⲆᐃΔ] = Ⲇⵠ.ᐃⵠΔⵠᐃᐃⵠ;
-    ΔΔ[Xr.ΔⲆΔⵠᐃⵠⲆ][Xr.ΔⲆⵠ] = Ⲇⵠ.ᐃᐃᐃΔΔΔΔ;
-    ΔΔ[Xr.ΔᐃᐃⵠⲆⵠⵠ] = [];
-    ΔΔ[Xr.ΔᐃᐃⵠⲆⵠⵠ][Xr.ⲆᐃΔ] = Ⲇⵠ.ⵠⲆΔⵠⲆΔⵠ;
-    ΔΔ[Xr.ΔᐃᐃⵠⲆⵠⵠ][Xr.ΔⲆⵠ] = Ⲇⵠ.ᐃΔⲆᐃⵠΔⵠ;
-    ΔΔ[Xr.ΔⲆⲆᐃⵠΔⵠ] = Ⲇⵠ.ΔⲆⲆᐃⵠΔⵠ;
-    ΔΔ[Xr.ⵠᐃΔᐃᐃⵠᐃ] = Ⲇⵠ.ⵠᐃΔᐃᐃⵠᐃ;
-    ΔΔ[Xr.ⵠⲆⲆⵠᐃᐃᐃ] = Ⲇⵠ.ⵠⲆⲆⵠᐃᐃᐃ;
-    ΔΔ[Xr.ⲆᐃΔⵠⲆⲆⲆ] = Ⲇⵠ.ⲆᐃΔⵠⲆⲆⲆ;
-    ΔΔ[Xr.ⵠΔᐃΔΔΔⲆ] = Ⲇⵠ.ⵠΔᐃΔΔΔⲆ;
-    ΔΔ[Xr.ⲆΔⵠᐃΔΔⵠ] = Ⲇⵠ.ⲆΔⵠᐃΔΔⵠ;
-    ΔΔ[Xr.ⵠⲆΔΔⲆⵠΔ] = [];
-    ΔΔ[Xr.ⵠⲆΔΔⲆⵠΔ][Xr.ⲆᐃΔ] = Ⲇⵠ.ⵠΔⵠΔⲆΔᐃ;
-    ΔΔ[Xr.ⵠⲆΔΔⲆⵠΔ][Xr.ΔⲆⵠ] = Ⲇⵠ.ⵠᐃⵠΔⵠⵠⲆ;
-    ΔΔ[Xr.ΔΔⵠⲆⲆ] = [];
-    ΔΔ[Xr.ΔΔⵠⲆⲆ][Xr.ⲆᐃΔ] = Ⲇⵠ.ⲆⵠΔΔⲆⲆⵠ;
-    ΔΔ[Xr.ΔΔⵠⲆⲆ][Xr.ΔⲆⵠ] = Ⲇⵠ.ⵠΔⲆⲆΔΔⲆ;
-    ΔΔ[Xr.ᐃΔⲆⲆⲆ] = [];
-    ΔΔ[Xr.ᐃΔⲆⲆⲆ][Xr.ⲆᐃΔ] = Ⲇⵠ.ⵠᐃΔΔᐃⲆΔ;
-    ΔΔ[Xr.ᐃΔⲆⲆⲆ][Xr.ΔⲆⵠ] = Ⲇⵠ.ᐃΔⵠᐃΔᐃΔ;
-    ΔΔ[Xr.ⲆΔⵠΔⲆⵠⲆ] = [];
-    ΔΔ[Xr.ⲆΔⵠΔⲆⵠⲆ][Xr.ⲆᐃΔ] = Ⲇⵠ.ΔΔⲆⲆⲆⵠⲆ;
-    ΔΔ[Xr.ⲆΔⵠΔⲆⵠⲆ][Xr.ΔⲆⵠ] = Ⲇⵠ.ⲆᐃⵠΔⵠᐃᐃ;
-    ΔΔ[Xr.ⵠΔΔⵠⲆΔⲆ] = Ⲇⵠ.ⵠΔΔⵠⲆΔⲆ;
-    ΔΔ[Xr.ᐃⲆΔΔᐃⵠⵠ] = Ⲇⵠ.ᐃⲆΔΔᐃⵠⵠ;
-    ΔΔ[Xr.ⵠⲆⲆⵠᐃᐃⲆ] = [];
-    ΔΔ[Xr.ⵠⲆⲆⵠᐃᐃⲆ][Xr.ⲆᐃΔ] = Ⲇⵠ.ᐃᐃⵠΔΔⵠⵠ;
-    ΔΔ[Xr.ⵠⲆⲆⵠᐃᐃⲆ][Xr.ΔⲆⵠ] = Ⲇⵠ.ᐃⵠⵠⵠⲆΔⲆ;
-    ΔΔ[Xr.ⲆⵠΔᐃⵠ] = [];
-    ΔΔ[Xr.ⲆⵠΔᐃⵠ][Xr.ⲆᐃΔ] = Ⲇⵠ.ΔᐃΔⲆⵠΔⵠ;
-    ΔΔ[Xr.ⲆⵠΔᐃⵠ][Xr.ΔⲆⵠ] = Ⲇⵠ.ⲆⵠᐃⲆᐃⲆΔ;
-    ΔΔ[Xr.ᐃᐃΔⵠⲆⵠΔ] = [];
-    ΔΔ[Xr.ᐃᐃΔⵠⲆⵠΔ][Xr.ⲆᐃΔ] = Ⲇⵠ.ⵠΔᐃⵠᐃⲆⵠ;
-    ΔΔ[Xr.ᐃᐃΔⵠⲆⵠΔ][Xr.ΔⲆⵠ] = Ⲇⵠ.ΔⲆⵠⲆᐃⲆᐃ;
-    ΔΔ[Xr.ᐃⵠΔᐃᐃᐃⵠ] = [];
-    ΔΔ[Xr.ᐃⵠΔᐃᐃᐃⵠ][Xr.ⲆᐃΔ] = Ⲇⵠ.ᐃⵠΔⲆΔⵠΔ;
-    ΔΔ[Xr.ᐃⵠΔᐃᐃᐃⵠ][Xr.ΔⲆⵠ] = Ⲇⵠ.ⲆΔⵠⲆᐃᐃᐃ;
-    ΔΔ[Xr.ᐃⲆⵠⵠᐃⲆΔ] = [];
-    ΔΔ[Xr.ᐃⲆⵠⵠᐃⲆΔ][Xr.ⲆᐃΔ] = Ⲇⵠ.ΔⵠⲆΔᐃⵠΔ;
-    ΔΔ[Xr.ᐃⲆⵠⵠᐃⲆΔ][Xr.ΔⲆⵠ] = Ⲇⵠ.ⲆᐃⵠΔⲆⲆᐃ;
-    ΔΔ[Xr.ΔⲆⲆⵠΔⲆΔ] = [];
-    ΔΔ[Xr.ΔⲆⲆⵠΔⲆΔ][Xr.ⲆᐃΔ] = Ⲇⵠ.ⵠΔΔⵠⲆⲆⲆ;
-    ΔΔ[Xr.ΔⲆⲆⵠΔⲆΔ][Xr.ΔⲆⵠ] = Ⲇⵠ.ⲆⵠⲆΔᐃΔⵠ;
-    ΔΔ[Xr.ⵠⵠⲆᐃⵠⵠⵠ] = [];
-    ΔΔ[Xr.ⵠⵠⲆᐃⵠⵠⵠ][Xr.ⲆᐃΔ] = Ⲇⵠ.ⵠΔⵠΔⲆⲆⲆ;
-    ΔΔ[Xr.ⵠⵠⲆᐃⵠⵠⵠ][Xr.ΔⲆⵠ] = Ⲇⵠ.ⵠⵠᐃᐃⵠΔⲆ;
-    ΔΔ[Xr.ⲆΔΔⲆⲆⵠⵠ] = [];
-    ΔΔ[Xr.ⲆΔΔⲆⲆⵠⵠ][Xr.ⲆᐃΔ] = Ⲇⵠ.ⲆΔΔⵠⵠΔⲆ;
-    ΔΔ[Xr.ⲆΔΔⲆⲆⵠⵠ][Xr.ΔⲆⵠ] = Ⲇⵠ.ⵠᐃΔⵠⵠᐃⲆ;
-    ΔΔ[Xr.ⵠⵠⵠⵠⲆᐃⵠ] = [];
-    ΔΔ[Xr.ⵠⵠⵠⵠⲆᐃⵠ][Xr.ⲆᐃΔ] = Ⲇⵠ.ⵠⲆⵠΔᐃⵠⵠ;
-    ΔΔ[Xr.ⵠⵠⵠⵠⲆᐃⵠ][Xr.ΔⲆⵠ] = Ⲇⵠ.ᐃᐃᐃᐃΔΔⵠ;
-    ΔΔ[Xr.ΔⲆⵠⲆⲆΔᐃ] = Ⲇⵠ.ΔⲆⵠⲆⲆΔᐃ;
-    ΔΔ[Xr.ΔⲆᐃⵠᐃᐃⵠ] = Ⲇⵠ.ΔⲆᐃⵠᐃᐃⵠ;
-    ΔΔ[Xr.ⲆⲆᐃⲆΔΔΔ] = Ⲇⵠ.ⲆⲆᐃⲆΔΔΔ;
-    ΔΔ[Xr.ⲆᐃⵠΔᐃᐃΔ] = [];
-    ΔΔ[Xr.ⲆᐃⵠΔᐃᐃΔ][Xr.ⲆᐃΔ] = Ⲇⵠ.ᐃᐃᐃΔⵠⲆⵠ;
-    ΔΔ[Xr.ⲆᐃⵠΔᐃᐃΔ][Xr.ΔⲆⵠ] = Ⲇⵠ.ΔⲆᐃΔⵠⵠⵠ;
-    ΔΔ[Xr.ⲆⲆΔⵠⲆ] = [];
-    ΔΔ[Xr.ⲆⲆΔⵠⲆ][Xr.ⲆᐃΔ] = Ⲇⵠ.ⲆⲆᐃᐃⵠⵠᐃ;
-    ΔΔ[Xr.ⲆⲆΔⵠⲆ][Xr.ΔⲆⵠ] = Ⲇⵠ.ⲆᐃᐃⵠᐃⲆΔ;
-    ΔΔ[Xr.ᐃᐃΔⵠⵠⵠⲆ] = [];
-    ΔΔ[Xr.ᐃᐃΔⵠⵠⵠⲆ][Xr.ⲆᐃΔ] = Ⲇⵠ.ⲆᐃⵠⵠᐃⲆⵠ;
-    ΔΔ[Xr.ᐃᐃΔⵠⵠⵠⲆ][Xr.ΔⲆⵠ] = Ⲇⵠ.ⵠⲆⲆⲆⵠⲆᐃ;
-    ΔΔ[Xr.ⵠΔΔⵠΔⵠᐃ] = [];
-    ΔΔ[Xr.ⵠΔΔⵠΔⵠᐃ][Xr.ⲆᐃΔ] = Ⲇⵠ.ⲆᐃᐃⲆⲆΔΔ;
-    ΔΔ[Xr.ⵠΔΔⵠΔⵠᐃ][Xr.ΔⲆⵠ] = Ⲇⵠ.ⲆⵠΔⲆⲆⵠⵠ;
-    ΔΔ[Xr.ⵠΔⲆⲆᐃΔⵠ] = [];
-    ΔΔ[Xr.ⵠΔⲆⲆᐃΔⵠ][Xr.ⲆᐃΔ] = Ⲇⵠ.ᐃᐃΔΔⵠⲆᐃ;
-    ΔΔ[Xr.ⵠΔⲆⲆᐃΔⵠ][Xr.ΔⲆⵠ] = Ⲇⵠ.ΔⵠΔⲆⲆⲆⵠ;
-    ΔΔ[Xr.ΔΔⵠΔᐃΔᐃ] = [];
-    ΔΔ[Xr.ΔΔⵠΔᐃΔᐃ][Xr.ⲆᐃΔ] = Ⲇⵠ.ᐃⲆᐃᐃᐃᐃⲆ;
-    ΔΔ[Xr.ΔΔⵠΔᐃΔᐃ][Xr.ΔⲆⵠ] = Ⲇⵠ.ⲆΔⲆⵠᐃᐃⲆ;
-    ΔΔ[Xr.ᐃᐃⵠⲆⵠΔΔ] = [];
-    ΔΔ[Xr.ᐃᐃⵠⲆⵠΔΔ][Xr.ⲆᐃΔ] = Ⲇⵠ.ΔΔⲆⲆⲆᐃⲆ;
-    ΔΔ[Xr.ᐃᐃⵠⲆⵠΔΔ][Xr.ΔⲆⵠ] = Ⲇⵠ.ⲆᐃΔΔᐃⵠᐃ;
-    ΔΔ[Xr.ⵠⲆⵠⲆⵠⵠΔ] = [];
-    ΔΔ[Xr.ⵠⲆⵠⲆⵠⵠΔ][Xr.ⲆᐃΔ] = Ⲇⵠ.ⵠⲆᐃⲆⲆᐃᐃ;
-    ΔΔ[Xr.ⵠⲆⵠⲆⵠⵠΔ][Xr.ΔⲆⵠ] = Ⲇⵠ.ⲆΔⲆⲆΔⲆΔ;
-    ΔΔ[Xr.ⵠⲆⲆΔΔᐃΔ] = [];
-    ΔΔ[Xr.ⵠⲆⲆΔΔᐃΔ][Xr.ⲆᐃΔ] = Ⲇⵠ.ΔᐃⵠⵠⵠᐃⲆ;
-    ΔΔ[Xr.ⵠⲆⲆΔΔᐃΔ][Xr.ΔⲆⵠ] = Ⲇⵠ.ⲆᐃΔⵠⵠⵠᐃ;
-    ΔΔ[Xr.ⵠΔΔⲆⵠⲆᐃ] = Ⲇⵠ.ⵠΔΔⲆⵠⲆᐃ;
-    ΔΔ[Xr.ⲆⵠᐃᐃⲆᐃⲆ] = Ⲇⵠ.ⲆⵠᐃᐃⲆᐃⲆ;
-    ΔΔ[Xr.ⲆΔⵠΔⵠⲆΔ] = Ⲇⵠ.ⲆΔⵠΔⵠⲆΔ;
-    ΔΔ[Xr.ⵠⵠⲆΔᐃⵠⲆ] = [];
-    ΔΔ[Xr.ⵠⵠⲆΔᐃⵠⲆ][Xr.ⲆᐃΔ] = Ⲇⵠ.ⵠⵠⲆᐃⵠΔⲆ;
-    ΔΔ[Xr.ⵠⵠⲆΔᐃⵠⲆ][Xr.ΔⲆⵠ] = Ⲇⵠ.ΔⲆᐃΔᐃΔᐃ;
-    ΔΔ[Xr.ⵠᐃⲆⲆΔ] = [];
-    ΔΔ[Xr.ⵠᐃⲆⲆΔ][Xr.ⲆᐃΔ] = Ⲇⵠ.ⲆⵠΔᐃⵠⵠΔ;
-    ΔΔ[Xr.ⵠᐃⲆⲆΔ][Xr.ΔⲆⵠ] = Ⲇⵠ.ⵠᐃⵠᐃᐃΔⵠ;
-    ΔΔ[Xr.ⲆⲆⲆⲆⲆᐃᐃ] = Ⲇⵠ.ⲆⲆⲆⲆⲆᐃᐃ;
-    ΔΔ[Xr.ⲆᐃⲆⲆΔⵠΔ] = [];
-    ΔΔ[Xr.ⲆᐃⲆⲆΔⵠΔ][Xr.ⲆᐃΔ] = Ⲇⵠ.ᐃᐃⵠⵠⵠⵠᐃ;
-    ΔΔ[Xr.ⲆᐃⲆⲆΔⵠΔ][Xr.ΔⲆⵠ] = Ⲇⵠ.ⲆⵠⲆⲆⵠⵠⵠ;
-    ΔΔ[Xr.ⲆᐃᐃᐃΔⵠᐃ] = [];
-    ΔΔ[Xr.ⲆᐃᐃᐃΔⵠᐃ][Xr.ⲆᐃΔ] = Ⲇⵠ.ΔⵠᐃᐃᐃΔⵠ;
-    ΔΔ[Xr.ⲆᐃᐃᐃΔⵠᐃ][Xr.ΔⲆⵠ] = Ⲇⵠ.ᐃⲆᐃⵠΔΔᐃ;
-    ΔΔ[Xr.ⵠᐃⲆΔΔᐃᐃ] = [];
-    ΔΔ[Xr.ⵠᐃⲆΔΔᐃᐃ][Xr.ⲆᐃΔ] = Ⲇⵠ.ⲆⲆⵠΔΔΔⲆ;
-    ΔΔ[Xr.ⵠᐃⲆΔΔᐃᐃ][Xr.ΔⲆⵠ] = Ⲇⵠ.ᐃⵠⲆᐃΔΔΔ;
-    ΔΔ[Xr.ᐃⲆᐃΔⲆᐃΔ] = [];
-    ΔΔ[Xr.ᐃⲆᐃΔⲆᐃΔ][Xr.ⲆᐃΔ] = Ⲇⵠ.ⲆΔᐃⵠΔΔⲆ;
-    ΔΔ[Xr.ᐃⲆᐃΔⲆᐃΔ][Xr.ΔⲆⵠ] = Ⲇⵠ.ΔⵠᐃΔᐃΔⵠ;
-    ΔΔ[Xr.ⲆⲆⵠΔᐃⲆⲆ] = [];
-    ΔΔ[Xr.ⲆⲆⵠΔᐃⲆⲆ][Xr.ⲆᐃΔ] = Ⲇⵠ.ᐃⲆⲆⵠⵠⲆⲆ;
-    ΔΔ[Xr.ⲆⲆⵠΔᐃⲆⲆ][Xr.ΔⲆⵠ] = Ⲇⵠ.ᐃᐃⵠⲆⲆⲆⵠ;
-    ΔΔ[Xr.ⲆⲆᐃΔⵠΔᐃ] = [];
-    ΔΔ[Xr.ⲆⲆᐃΔⵠΔᐃ][Xr.ⲆᐃΔ] = Ⲇⵠ.ⵠⲆⵠⵠᐃⵠⲆ;
-    ΔΔ[Xr.ⲆⲆᐃΔⵠΔᐃ][Xr.ΔⲆⵠ] = Ⲇⵠ.ⵠᐃⵠⲆΔⲆⲆ;
-    ΔΔ[Xr.ᐃΔΔΔⵠⲆᐃ] = [];
-    ΔΔ[Xr.ᐃΔΔΔⵠⲆᐃ][Xr.ⲆᐃΔ] = Ⲇⵠ.ⲆⲆᐃⵠΔΔΔ;
-    ΔΔ[Xr.ᐃΔΔΔⵠⲆᐃ][Xr.ΔⲆⵠ] = Ⲇⵠ.ΔΔᐃΔⵠΔⲆ;
-    ΔΔ[Xr.ⵠⵠᐃΔⵠⲆⵠ] = [];
-    ΔΔ[Xr.ⵠⵠᐃΔⵠⲆⵠ][Xr.ⲆᐃΔ] = Ⲇⵠ.ᐃΔᐃᐃΔΔΔ;
-    ΔΔ[Xr.ⵠⵠᐃΔⵠⲆⵠ][Xr.ΔⲆⵠ] = Ⲇⵠ.ᐃΔⲆⲆᐃⵠⲆ;
-    ΔΔ[Xr.ⵠⲆᐃⵠⵠᐃⲆ] = [];
-    ΔΔ[Xr.ⵠⲆᐃⵠⵠᐃⲆ][Xr.ⲆᐃΔ] = Ⲇⵠ.ⲆⵠⲆᐃΔΔᐃ;
-    ΔΔ[Xr.ⵠⲆᐃⵠⵠᐃⲆ][Xr.ΔⲆⵠ] = Ⲇⵠ.ᐃⲆⲆⲆⲆΔⵠ;
-    ΔΔ[Xr.ᐃⲆⲆⵠⲆⵠⲆ] = Ⲇⵠ.ᐃⲆⲆⵠⲆⵠⲆ;
-    ΔΔ[Xr.ⲆⲆⵠᐃᐃᐃⲆ] = Ⲇⵠ.ⲆⲆⵠᐃᐃᐃⲆ;
-    ΔΔ[Xr.ΔⵠⵠᐃⵠΔᐃ] = Ⲇⵠ.ΔⵠⵠᐃⵠΔᐃ;
-    ΔΔ[Xr.ΔᐃⵠⵠΔΔᐃ] = [];
-    ΔΔ[Xr.ΔᐃⵠⵠΔΔᐃ][Xr.ⲆᐃΔ] = Ⲇⵠ.ΔⵠᐃᐃΔⲆⲆ;
-    ΔΔ[Xr.ΔᐃⵠⵠΔΔᐃ][Xr.ΔⲆⵠ] = Ⲇⵠ.ΔᐃᐃⵠΔⲆᐃ;
-    ΔΔ[Xr.ⵠΔⵠᐃⵠ] = [];
-    ΔΔ[Xr.ⵠΔⵠᐃⵠ][Xr.ⲆᐃΔ] = Ⲇⵠ.ΔΔⵠⵠΔΔⵠ;
-    ΔΔ[Xr.ⵠΔⵠᐃⵠ][Xr.ΔⲆⵠ] = Ⲇⵠ.ᐃⵠΔᐃⵠᐃᐃ;
-    ΔΔ[Xr.ⵠⵠΔΔⲆᐃⵠ] = Ⲇⵠ.ⵠⵠΔΔⲆᐃⵠ;
-    ΔΔ[Xr.ΔᐃⵠⲆⲆⵠⲆ] = [];
-    ΔΔ[Xr.ΔᐃⵠⲆⲆⵠⲆ][Xr.ⲆᐃΔ] = Ⲇⵠ.ΔΔⲆⵠΔⲆΔ;
-    ΔΔ[Xr.ΔᐃⵠⲆⲆⵠⲆ][Xr.ΔⲆⵠ] = Ⲇⵠ.ᐃⵠⲆⲆΔⲆᐃ;
-    ΔΔ[Xr.ⲆᐃⲆᐃⲆⲆⲆ] = [];
-    ΔΔ[Xr.ⲆᐃⲆᐃⲆⲆⲆ][Xr.ⲆᐃΔ] = Ⲇⵠ.ⲆⲆⵠⵠΔⲆⲆ;
-    ΔΔ[Xr.ⲆᐃⲆᐃⲆⲆⲆ][Xr.ΔⲆⵠ] = Ⲇⵠ.ᐃⲆⵠⵠⲆⲆⵠ;
-    ΔΔ[Xr.ⵠᐃⵠᐃΔΔⵠ] = [];
-    ΔΔ[Xr.ⵠᐃⵠᐃΔΔⵠ][Xr.ⲆᐃΔ] = Ⲇⵠ.ΔⵠΔᐃⲆⲆⵠ;
-    ΔΔ[Xr.ⵠᐃⵠᐃΔΔⵠ][Xr.ΔⲆⵠ] = Ⲇⵠ.ᐃⲆⲆⵠΔⲆⵠ;
-    ΔΔ[Xr.ΔΔᐃΔⲆⵠΔ] = [];
-    ΔΔ[Xr.ΔΔᐃΔⲆⵠΔ][Xr.ⲆᐃΔ] = Ⲇⵠ.ᐃΔᐃⵠΔⲆΔ;
-    ΔΔ[Xr.ΔΔᐃΔⲆⵠΔ][Xr.ΔⲆⵠ] = Ⲇⵠ.ᐃᐃᐃᐃⵠᐃⵠ;
-    ΔΔ[Xr.ΔΔᐃᐃᐃΔΔ] = [];
-    ΔΔ[Xr.ΔΔᐃᐃᐃΔΔ][Xr.ⲆᐃΔ] = Ⲇⵠ.ΔΔⵠᐃᐃᐃΔ;
-    ΔΔ[Xr.ΔΔᐃᐃᐃΔΔ][Xr.ΔⲆⵠ] = Ⲇⵠ.ⲆⵠᐃⲆΔΔΔ;
-    ΔΔ[Xr.ΔᐃΔᐃⲆᐃᐃ] = [];
-    ΔΔ[Xr.ΔᐃΔᐃⲆᐃᐃ][Xr.ⲆᐃΔ] = Ⲇⵠ.ⲆⵠΔⵠⲆⵠⵠ;
-    ΔΔ[Xr.ΔᐃΔᐃⲆᐃᐃ][Xr.ΔⲆⵠ] = Ⲇⵠ.ⲆΔᐃⵠⲆⵠⵠ;
-    ΔΔ[Xr.ⵠⵠΔΔⲆᐃⲆ] = [];
-    ΔΔ[Xr.ⵠⵠΔΔⲆᐃⲆ][Xr.ⲆᐃΔ] = Ⲇⵠ.ᐃΔⲆⵠᐃⵠⵠ;
-    ΔΔ[Xr.ⵠⵠΔΔⲆᐃⲆ][Xr.ΔⲆⵠ] = Ⲇⵠ.ⵠΔⲆᐃⵠᐃⲆ;
-    ΔΔ[Xr.ᐃⲆⵠⵠᐃⲆᐃ] = [];
-    ΔΔ[Xr.ᐃⲆⵠⵠᐃⲆᐃ][Xr.ⲆᐃΔ] = Ⲇⵠ.ⵠΔⵠΔⵠⲆⲆ;
-    ΔΔ[Xr.ᐃⲆⵠⵠᐃⲆᐃ][Xr.ΔⲆⵠ] = Ⲇⵠ.ΔⲆⲆⵠΔᐃΔ;
-    ΔΔ[Xr.ΔⲆⵠⵠΔᐃΔ] = [];
-    ΔΔ[Xr.ΔⲆⵠⵠΔᐃΔ][Xr.ⲆᐃΔ] = Ⲇⵠ.ᐃᐃⲆΔⲆⲆⲆ;
-    ΔΔ[Xr.ΔⲆⵠⵠΔᐃΔ][Xr.ΔⲆⵠ] = Ⲇⵠ.ᐃΔⵠⵠᐃΔⵠ;
-    ΔΔ[Xr.ⲆⵠⵠᐃΔᐃᐃ] = Ⲇⵠ.ⲆⵠⵠᐃΔᐃᐃ;
-    ΔΔ[Xr.ᐃᐃⵠⲆᐃᐃⲆ] = Ⲇⵠ.ᐃᐃⵠⲆᐃᐃⲆ;
-    ΔΔ[Xr.ⲆⵠⵠΔᐃⲆⵠ] = Ⲇⵠ.ⲆⵠⵠΔᐃⲆⵠ;
-    ΔΔ[Xr.ᐃΔᐃⵠΔ] = [];
-    ΔΔ[Xr.ᐃΔᐃⵠΔ][Xr.ⲆᐃΔ] = Ⲇⵠ.ⲆⲆΔᐃⲆⵠⲆ;
-    ΔΔ[Xr.ᐃΔᐃⵠΔ][Xr.ΔⲆⵠ] = Ⲇⵠ.ⵠⲆᐃⵠⵠΔⲆ;
-    ΔΔ[Xr.ᐃΔⲆⵠᐃⲆⵠ] = [];
-    ΔΔ[Xr.ᐃΔⲆⵠᐃⲆⵠ][Xr.ⲆᐃΔ] = Ⲇⵠ.ⲆⲆⵠᐃΔᐃⲆ;
-    ΔΔ[Xr.ᐃΔⲆⵠᐃⲆⵠ][Xr.ΔⲆⵠ] = Ⲇⵠ.ᐃᐃΔΔⵠΔⲆ;
-    ΔΔ[Xr.ⲆⵠⲆᐃⵠⲆⵠ] = [];
-    ΔΔ[Xr.ⲆⵠⲆᐃⵠⲆⵠ][Xr.ⲆᐃΔ] = Ⲇⵠ.ⵠᐃΔᐃⵠⲆⵠ;
-    ΔΔ[Xr.ⲆⵠⲆᐃⵠⲆⵠ][Xr.ΔⲆⵠ] = Ⲇⵠ.ⲆᐃⲆΔⵠᐃⲆ;
-    ΔΔ[Xr.ΔᐃΔΔΔᐃⲆ] = [];
-    ΔΔ[Xr.ΔᐃΔΔΔᐃⲆ][Xr.ⲆᐃΔ] = Ⲇⵠ.ΔᐃΔΔΔᐃⲆ;
-    ΔΔ[Xr.ΔᐃΔΔΔᐃⲆ][Xr.ΔⲆⵠ] = Ⲇⵠ.ΔᐃΔΔΔᐃⲆ;
-    ΔΔ[Xr.ⵠⵠⵠᐃⲆΔΔ] = [];
-    ΔΔ[Xr.ⵠⵠⵠᐃⲆΔΔ][Xr.ⲆᐃΔ] = Ⲇⵠ.ⵠⵠⵠᐃⲆΔΔ;
-    ΔΔ[Xr.ⵠⵠⵠᐃⲆΔΔ][Xr.ΔⲆⵠ] = Ⲇⵠ.ⵠⵠⵠᐃⲆΔΔ;
-    ΔΔ[Xr.ΔᐃᐃⵠΔΔⵠ] = [];
-    ΔΔ[Xr.ΔᐃᐃⵠΔΔⵠ][Xr.ⲆᐃΔ] = Ⲇⵠ.ΔᐃᐃⵠΔΔⵠ;
-    ΔΔ[Xr.ΔᐃᐃⵠΔΔⵠ][Xr.ΔⲆⵠ] = Ⲇⵠ.ΔᐃᐃⵠΔΔⵠ;
-    ΔΔ[Xr.ᐃᐃᐃΔΔⲆᐃ] = Ⲇⵠ.ᐃᐃᐃΔΔⲆᐃ;
-    ΔΔ[Xr.ᐃⵠⲆⵠⲆ] = [];
-    ΔΔ[Xr.ᐃⵠⲆⵠⲆ][Xr.ⲆᐃΔ] = Ⲇⵠ.ⲆΔⲆᐃᐃᐃΔ;
-    ΔΔ[Xr.ᐃⵠⲆⵠⲆ][Xr.ΔⲆⵠ] = Ⲇⵠ.ᐃⲆⲆᐃⵠᐃⲆ;
-    ΔΔ[Xr.ᐃΔⵠⵠᐃ] = [];
-    ΔΔ[Xr.ᐃΔⵠⵠᐃ][Xr.ⲆᐃΔ] = Ⲇⵠ.ⵠⵠⲆⵠᐃⲆⵠ;
-    ΔΔ[Xr.ᐃΔⵠⵠᐃ][Xr.ΔⲆⵠ] = Ⲇⵠ.ᐃΔΔᐃᐃΔⵠ;
-    ΔΔ[Xr.ⵠⵠⲆᐃΔ] = [];
-    ΔΔ[Xr.ⵠⵠⲆᐃΔ][Xr.ⲆᐃΔ] = [Ⲇⵠ.ⲆᐃᐃⵠⲆᐃⵠ, Ⲇⵠ.ⵠΔᐃⵠΔᐃΔ, Ⲇⵠ.ΔᐃⲆΔⵠᐃⲆ, Ⲇⵠ.ⵠᐃΔᐃΔᐃⲆ, Ⲇⵠ.ΔⵠⵠⲆᐃᐃΔ, Ⲇⵠ.ΔⵠᐃΔᐃⵠⲆ, Ⲇⵠ.ᐃⵠᐃᐃΔⲆⵠ, Ⲇⵠ.ΔᐃᐃⲆⲆΔᐃ, Ⲇⵠ.ⵠᐃⵠⲆⵠⵠⲆ];
-    ΔΔ[Xr.ⵠⵠⲆᐃΔ][Xr.ΔⲆⵠ] = [Ⲇⵠ.ⲆᐃΔᐃΔⵠᐃ, Ⲇⵠ.ⵠΔΔⲆΔΔⲆ, Ⲇⵠ.ᐃⲆⵠᐃᐃᐃΔ, Ⲇⵠ.ΔᐃⵠᐃΔᐃⵠ, Ⲇⵠ.ⵠᐃⵠⲆⲆᐃⲆ, Ⲇⵠ.ᐃΔⵠⲆᐃΔⵠ, Ⲇⵠ.ΔΔᐃⲆΔⲆⲆ, Ⲇⵠ.ΔᐃᐃⲆⲆΔᐃ, Ⲇⵠ.ⵠⵠᐃⲆⲆᐃΔ];
-    ΔΔ[Xr.ⵠⵠᐃᐃΔ] = [];
-    ΔΔ[Xr.ⵠⵠᐃᐃΔ][Xr.ⲆᐃΔ] = Ⲇⵠ.ᐃΔᐃⲆⲆΔΔ;
-    ΔΔ[Xr.ⵠⵠᐃᐃΔ][Xr.ΔⲆⵠ] = Ⲇⵠ.ᐃⲆΔⲆΔⲆΔ;
-    ΔΔ[Xr.ΔⵠᐃⵠⵠΔΔ] = [];
-    ΔΔ[Xr.ΔⵠᐃⵠⵠΔΔ][Xr.ⲆᐃΔ] = Ⲇⵠ.ⵠᐃⲆⲆⵠⵠⲆ;
-    ΔΔ[Xr.ΔⵠᐃⵠⵠΔΔ][Xr.ΔⲆⵠ] = Ⲇⵠ.ΔⵠⵠⲆⵠᐃᐃ;
-    ΔΔ[Xr.ᐃⵠⵠⲆᐃⵠᐃ] = [];
-    ΔΔ[Xr.ᐃⵠⵠⲆᐃⵠᐃ][Xr.ⲆᐃΔ] = Ⲇⵠ.ΔⲆⲆᐃⲆΔΔ;
-    ΔΔ[Xr.ᐃⵠⵠⲆᐃⵠᐃ][Xr.ΔⲆⵠ] = Ⲇⵠ.ⲆᐃΔⵠΔⵠⵠ;
-    ΔΔ[Xr.ⵠᐃᐃΔᐃ] = [];
-    ΔΔ[Xr.ⵠᐃᐃΔᐃ][Xr.ⲆᐃΔ] = Ⲇⵠ.ᐃΔᐃᐃΔΔⵠ;
-    ΔΔ[Xr.ⵠᐃᐃΔᐃ][Xr.ΔⲆⵠ] = Ⲇⵠ.ⲆⵠⲆⵠⲆΔᐃ;
-    ΔΔ[Xr.ⵠⲆⵠΔᐃ] = [];
-    ΔΔ[Xr.ⵠⲆⵠΔᐃ][Xr.ⲆᐃΔ] = Ⲇⵠ.ᐃⲆⵠⲆᐃᐃΔ;
-    ΔΔ[Xr.ⵠⲆⵠΔᐃ][Xr.ΔⲆⵠ] = Ⲇⵠ.ⵠⵠΔΔΔΔΔ;
-    ΔΔ[Xr.ⲆⵠΔᐃⲆ] = [];
-    ΔΔ[Xr.ⲆⵠΔᐃⲆ][Xr.ⲆᐃΔ] = Ⲇⵠ.ⲆⵠⲆᐃΔΔⲆ;
-    ΔΔ[Xr.ⲆⵠΔᐃⲆ][Xr.ΔⲆⵠ] = Ⲇⵠ.ᐃᐃⲆⲆᐃᐃⵠ;
-    ΔΔ[Xr.ΔᐃᐃᐃΔ] = [];
-    ΔΔ[Xr.ΔᐃᐃᐃΔ][Xr.ⲆᐃΔ] = Ⲇⵠ.ⲆⲆΔᐃᐃᐃⲆ;
-    ΔΔ[Xr.ΔᐃᐃᐃΔ][Xr.ΔⲆⵠ] = Ⲇⵠ.Ⲇᐃᐃᐃⵠⵠᐃ;
-    ΔΔ[Xr.ΔΔΔᐃⲆ] = [];
-    ΔΔ[Xr.ΔΔΔᐃⲆ][Xr.ⲆᐃΔ] = [];
-    ΔΔ[Xr.ΔΔΔᐃⲆ][Xr.ΔⲆⵠ] = [];
-    ΔΔ[Xr.ΔΔΔᐃⲆ][Xr.ⲆᐃΔ].push(Ⲇⵠ.ⵠⲆΔⵠⲆΔᐃᐃΔ);
-    ΔΔ[Xr.ΔΔΔᐃⲆ][Xr.ⲆᐃΔ].push(Ⲇⵠ.ᐃⲆΔᐃⵠⲆΔᐃᐃ);
-    ΔΔ[Xr.ΔΔΔᐃⲆ][Xr.ⲆᐃΔ].push(Ⲇⵠ.ⲆΔᐃᐃⵠⵠᐃⵠⵠ);
-    ΔΔ[Xr.ΔΔΔᐃⲆ][Xr.ΔⲆⵠ].push(Ⲇⵠ.ᐃⵠⵠᐃΔᐃΔⵠΔ);
-    ΔΔ[Xr.ΔΔΔᐃⲆ][Xr.ΔⲆⵠ].push(Ⲇⵠ.ⲆⵠⵠΔᐃⵠⲆΔⲆ);
-    ΔΔ[Xr.ΔΔΔᐃⲆ][Xr.ΔⲆⵠ].push(Ⲇⵠ.ⵠⵠⵠⵠᐃΔΔᐃⵠ);
-    ΔΔ[Xr.ΔⲆᐃⵠᐃ] = [];
-    ΔΔ[Xr.ΔⲆᐃⵠᐃ][Xr.ⲆᐃΔ] = [];
-    ΔΔ[Xr.ΔⲆᐃⵠᐃ][Xr.ΔⲆⵠ] = [];
-    ΔΔ[Xr.ΔⲆᐃⵠᐃ][Xr.ⲆᐃΔ].push(Ⲇⵠ.ᐃⲆΔΔⵠⲆⵠⵠⵠ);
-    ΔΔ[Xr.ΔⲆᐃⵠᐃ][Xr.ⲆᐃΔ].push(Ⲇⵠ.ⵠⲆΔᐃⲆᐃᐃᐃⵠ);
-    ΔΔ[Xr.ΔⲆᐃⵠᐃ][Xr.ⲆᐃΔ].push(Ⲇⵠ.ⵠᐃⲆⲆⵠⵠⲆΔᐃ);
-    ΔΔ[Xr.ΔⲆᐃⵠᐃ][Xr.ΔⲆⵠ].push(Ⲇⵠ.ⲆⵠⲆⲆⲆⲆΔΔᐃ);
-    ΔΔ[Xr.ΔⲆᐃⵠᐃ][Xr.ΔⲆⵠ].push(Ⲇⵠ.ᐃᐃⲆᐃⵠΔⲆΔⲆ);
-    ΔΔ[Xr.ΔⲆᐃⵠᐃ][Xr.ΔⲆⵠ].push(Ⲇⵠ.ⵠⲆⲆⲆⲆⲆⲆⵠΔ);
-    ΔΔ[Xr.ⵠᐃᐃⵠᐃ] = [];
-    ΔΔ[Xr.ⵠᐃᐃⵠᐃ][Xr.ⲆᐃΔ] = [];
-    ΔΔ[Xr.ⵠᐃᐃⵠᐃ][Xr.ΔⲆⵠ] = [];
-    ΔΔ[Xr.ⵠᐃᐃⵠᐃ][Xr.ⲆᐃΔ].push(Ⲇⵠ.ΔᐃⲆⵠΔΔΔᐃⲆ);
-    ΔΔ[Xr.ⵠᐃᐃⵠᐃ][Xr.ⲆᐃΔ].push(Ⲇⵠ.ΔⲆΔⵠΔⲆⵠΔΔ);
-    ΔΔ[Xr.ⵠᐃᐃⵠᐃ][Xr.ⲆᐃΔ].push(Ⲇⵠ.ΔⲆⲆΔΔⵠᐃΔΔ);
-    ΔΔ[Xr.ⵠᐃᐃⵠᐃ][Xr.ΔⲆⵠ].push(Ⲇⵠ.ⵠⲆΔᐃΔΔⵠⵠⲆ);
-    ΔΔ[Xr.ⵠᐃᐃⵠᐃ][Xr.ΔⲆⵠ].push(Ⲇⵠ.ᐃⵠⵠⲆΔⲆⲆⵠᐃ);
-    ΔΔ[Xr.ⵠᐃᐃⵠᐃ][Xr.ΔⲆⵠ].push(Ⲇⵠ.ⵠΔΔΔΔⲆΔΔᐃ);
+    ΔΔ[918] = [];
+    ΔΔ[918][Xr.ⲆᐃΔ] = Ⲇⵠ.ᐃⲆΔΔᐃⲆⲆ;
+    ΔΔ[918][Xr.ΔⲆⵠ] = Ⲇⵠ.ᐃⲆⵠᐃⲆⵠⵠ;
+    ΔΔ[919] = Ⲇⵠ.ΔⵠⲆⵠⲆᐃⵠ;
+    ΔΔ[56] = [];
+    ΔΔ[56][Xr.ⲆᐃΔ] = Ⲇⵠ.ΔⵠⵠⵠⲆⵠΔⲆⵠ;
+    ΔΔ[56][Xr.ΔⲆⵠ] = Ⲇⵠ.ⲆᐃⲆⲆⵠⲆᐃⵠⲆ;
+    ΔΔ[223] = [];
+    ΔΔ[223][Xr.ⲆᐃΔ] = Ⲇⵠ.ⲆⲆⵠⵠⵠⵠⲆ;
+    ΔΔ[223][Xr.ΔⲆⵠ] = Ⲇⵠ.ⲆⲆⵠᐃᐃΔᐃ;
+    ΔΔ[224] = [];
+    ΔΔ[224][Xr.ⲆᐃΔ] = Ⲇⵠ.ⵠⵠᐃᐃⲆΔΔ;
+    ΔΔ[224][Xr.ΔⲆⵠ] = Ⲇⵠ.ΔᐃⵠᐃⵠⵠΔ;
+    ΔΔ[236] = [];
+    ΔΔ[236][Xr.ⲆᐃΔ] = Ⲇⵠ.ⵠⵠᐃᐃᐃΔᐃ;
+    ΔΔ[236][Xr.ΔⲆⵠ] = Ⲇⵠ.ⲆΔⵠΔΔᐃⲆ;
+    ΔΔ[1033] = [];
+    ΔΔ[1033][Xr.ⲆᐃΔ] = Ⲇⵠ.ΔⵠⵠΔⲆⲆᐃ;
+    ΔΔ[1033][Xr.ΔⲆⵠ] = Ⲇⵠ.ⲆᐃΔⲆⲆΔΔ;
+    ΔΔ[1034] = Ⲇⵠ.ΔⵠΔⲆⲆᐃΔ;
+    ΔΔ[1150] = [];
+    ΔΔ[1150][Xr.ⲆᐃΔ] = Ⲇⵠ.ⲆΔⲆⵠΔᐃⵠ;
+    ΔΔ[1150][Xr.ΔⲆⵠ] = Ⲇⵠ.ᐃᐃΔᐃᐃΔᐃ;
+    ΔΔ[1152] = [];
+    ΔΔ[1152][Xr.ⲆᐃΔ] = Ⲇⵠ.ᐃᐃΔΔⲆⵠΔ;
+    ΔΔ[1152][Xr.ΔⲆⵠ] = Ⲇⵠ.ⲆⵠⲆᐃⲆⲆᐃ;
+    ΔΔ[1149] = Ⲇⵠ.ΔⲆⲆᐃᐃΔᐃ;
+    ΔΔ[1151] = Ⲇⵠ.ᐃⲆᐃⲆᐃⵠⲆ;
+    ΔΔ[1153] = Ⲇⵠ.ⲆⵠⲆΔΔⲆⵠ;
+    ΔΔ[1143] = [];
+    ΔΔ[1143][Xr.ⲆᐃΔ] = Ⲇⵠ.ᐃⲆΔⵠⵠⵠⵠ;
+    ΔΔ[1143][Xr.ΔⲆⵠ] = Ⲇⵠ.ΔⵠⵠⲆᐃⲆᐃ;
+    ΔΔ[1145] = [];
+    ΔΔ[1145][Xr.ⲆᐃΔ] = Ⲇⵠ.ⲆⲆΔΔⲆⲆⲆ;
+    ΔΔ[1145][Xr.ΔⲆⵠ] = Ⲇⵠ.ⵠΔΔⲆᐃᐃΔ;
+    ΔΔ[1146] = [];
+    ΔΔ[1146][Xr.ⲆᐃΔ] = Ⲇⵠ.ΔΔⲆⲆⵠⲆⵠ;
+    ΔΔ[1146][Xr.ΔⲆⵠ] = Ⲇⵠ.Δᐃᐃⵠⵠᐃᐃ;
+    ΔΔ[1144] = Ⲇⵠ.ΔᐃΔᐃⲆᐃⵠ;
+    ΔΔ[1148] = Ⲇⵠ.ⵠᐃΔᐃᐃΔᐃ;
+    ΔΔ[1147] = Ⲇⵠ.ΔⵠᐃΔΔΔᐃ;
+    ΔΔ[1053] = [];
+    ΔΔ[1053][Xr.ⲆᐃΔ] = Ⲇⵠ.ΔⲆᐃⵠΔᐃⲆ;
+    ΔΔ[1053][Xr.ΔⲆⵠ] = Ⲇⵠ.ⲆᐃⲆᐃⲆⵠⲆ;
+    ΔΔ[1055] = [];
+    ΔΔ[1055][Xr.ⲆᐃΔ] = Ⲇⵠ.ΔΔⵠᐃⵠΔᐃ;
+    ΔΔ[1055][Xr.ΔⲆⵠ] = Ⲇⵠ.ΔⲆΔⵠⲆΔᐃ;
+    ΔΔ[231] = [];
+    ΔΔ[231][Xr.ⲆᐃΔ] = Ⲇⵠ.ⲆⲆᐃⵠᐃⵠⵠ;
+    ΔΔ[231][Xr.ΔⲆⵠ] = Ⲇⵠ.ⵠⵠⲆΔⲆⲆⵠ;
+    ΔΔ[1060] = [];
+    ΔΔ[1060][Xr.ⲆᐃΔ] = Ⲇⵠ.ⵠⲆⲆⵠⲆΔⲆ;
+    ΔΔ[1060][Xr.ΔⲆⵠ] = Ⲇⵠ.ΔⲆⲆΔⲆⲆⲆ;
+    ΔΔ[1063] = [];
+    ΔΔ[1063][Xr.ⲆᐃΔ] = Ⲇⵠ.ⵠᐃⵠΔⲆΔΔ;
+    ΔΔ[1063][Xr.ΔⲆⵠ] = Ⲇⵠ.ⲆⵠᐃᐃⲆⵠⲆ;
+    ΔΔ[1059] = [];
+    ΔΔ[1059][Xr.ⲆᐃΔ] = Ⲇⵠ.ᐃⵠΔⵠᐃᐃⵠ;
+    ΔΔ[1059][Xr.ΔⲆⵠ] = Ⲇⵠ.ᐃᐃᐃΔΔΔΔ;
+    ΔΔ[1062] = [];
+    ΔΔ[1062][Xr.ⲆᐃΔ] = Ⲇⵠ.ⵠⲆΔⵠⲆΔⵠ;
+    ΔΔ[1062][Xr.ΔⲆⵠ] = Ⲇⵠ.ᐃΔⲆᐃⵠΔⵠ;
+    ΔΔ[1056] = Ⲇⵠ.ΔⲆⲆᐃⵠΔⵠ;
+    ΔΔ[1057] = Ⲇⵠ.ⵠᐃΔᐃᐃⵠᐃ;
+    ΔΔ[1058] = Ⲇⵠ.ⵠⲆⲆⵠᐃᐃᐃ;
+    ΔΔ[1065] = Ⲇⵠ.ⲆᐃΔⵠⲆⲆⲆ;
+    ΔΔ[1066] = Ⲇⵠ.ⵠΔᐃΔΔΔⲆ;
+    ΔΔ[1067] = Ⲇⵠ.ⲆΔⵠᐃΔΔⵠ;
+    ΔΔ[1222] = [];
+    ΔΔ[1222][Xr.ⲆᐃΔ] = Ⲇⵠ.ⵠΔⵠΔⲆΔᐃ;
+    ΔΔ[1222][Xr.ΔⲆⵠ] = Ⲇⵠ.ⵠᐃⵠΔⵠⵠⲆ;
+    ΔΔ[248] = [];
+    ΔΔ[248][Xr.ⲆᐃΔ] = Ⲇⵠ.ⲆⵠΔΔⲆⲆⵠ;
+    ΔΔ[248][Xr.ΔⲆⵠ] = Ⲇⵠ.ⵠΔⲆⲆΔΔⲆ;
+    ΔΔ[1218] = [];
+    ΔΔ[1218][Xr.ⲆᐃΔ] = Ⲇⵠ.ⵠᐃΔΔᐃⲆΔ;
+    ΔΔ[1218][Xr.ΔⲆⵠ] = Ⲇⵠ.ᐃΔⵠᐃΔᐃΔ;
+    ΔΔ[1221] = [];
+    ΔΔ[1221][Xr.ⲆᐃΔ] = Ⲇⵠ.ΔΔⲆⲆⲆⵠⲆ;
+    ΔΔ[1221][Xr.ΔⲆⵠ] = Ⲇⵠ.ⲆᐃⵠΔⵠᐃᐃ;
+    ΔΔ[1223] = Ⲇⵠ.ⵠΔΔⵠⲆΔⲆ;
+    ΔΔ[1219] = Ⲇⵠ.ᐃⲆΔΔᐃⵠⵠ;
+    ΔΔ[1068] = [];
+    ΔΔ[1068][Xr.ⲆᐃΔ] = Ⲇⵠ.ᐃᐃⵠΔΔⵠⵠ;
+    ΔΔ[1068][Xr.ΔⲆⵠ] = Ⲇⵠ.ᐃⵠⵠⵠⲆΔⲆ;
+    ΔΔ[232] = [];
+    ΔΔ[232][Xr.ⲆᐃΔ] = Ⲇⵠ.ΔᐃΔⲆⵠΔⵠ;
+    ΔΔ[232][Xr.ΔⲆⵠ] = Ⲇⵠ.ⲆⵠᐃⲆᐃⲆΔ;
+    ΔΔ[1070] = [];
+    ΔΔ[1070][Xr.ⲆᐃΔ] = Ⲇⵠ.ⵠΔᐃⵠᐃⲆⵠ;
+    ΔΔ[1070][Xr.ΔⲆⵠ] = Ⲇⵠ.ΔⲆⵠⲆᐃⲆᐃ;
+    ΔΔ[1072] = [];
+    ΔΔ[1072][Xr.ⲆᐃΔ] = Ⲇⵠ.ᐃⵠΔⲆΔⵠΔ;
+    ΔΔ[1072][Xr.ΔⲆⵠ] = Ⲇⵠ.ⲆΔⵠⲆᐃᐃᐃ;
+    ΔΔ[1075] = [];
+    ΔΔ[1075][Xr.ⲆᐃΔ] = Ⲇⵠ.ΔⵠⲆΔᐃⵠΔ;
+    ΔΔ[1075][Xr.ΔⲆⵠ] = Ⲇⵠ.ⲆᐃⵠΔⲆⲆᐃ;
+    ΔΔ[1071] = [];
+    ΔΔ[1071][Xr.ⲆᐃΔ] = Ⲇⵠ.ⵠΔΔⵠⲆⲆⲆ;
+    ΔΔ[1071][Xr.ΔⲆⵠ] = Ⲇⵠ.ⲆⵠⲆΔᐃΔⵠ;
+    ΔΔ[1074] = [];
+    ΔΔ[1074][Xr.ⲆᐃΔ] = Ⲇⵠ.ⵠΔⵠΔⲆⲆⲆ;
+    ΔΔ[1074][Xr.ΔⲆⵠ] = Ⲇⵠ.ⵠⵠᐃᐃⵠΔⲆ;
+    ΔΔ[1073] = [];
+    ΔΔ[1073][Xr.ⲆᐃΔ] = Ⲇⵠ.ⲆΔΔⵠⵠΔⲆ;
+    ΔΔ[1073][Xr.ΔⲆⵠ] = Ⲇⵠ.ⵠᐃΔⵠⵠᐃⲆ;
+    ΔΔ[1076] = [];
+    ΔΔ[1076][Xr.ⲆᐃΔ] = Ⲇⵠ.ⵠⲆⵠΔᐃⵠⵠ;
+    ΔΔ[1076][Xr.ΔⲆⵠ] = Ⲇⵠ.ᐃᐃᐃᐃΔΔⵠ;
+    ΔΔ[1077] = Ⲇⵠ.ΔⲆⵠⲆⲆΔᐃ;
+    ΔΔ[1078] = Ⲇⵠ.ΔⲆᐃⵠᐃᐃⵠ;
+    ΔΔ[1079] = Ⲇⵠ.ⲆⲆᐃⲆΔΔΔ;
+    ΔΔ[1083] = [];
+    ΔΔ[1083][Xr.ⲆᐃΔ] = Ⲇⵠ.ᐃᐃᐃΔⵠⲆⵠ;
+    ΔΔ[1083][Xr.ΔⲆⵠ] = Ⲇⵠ.ΔⲆᐃΔⵠⵠⵠ;
+    ΔΔ[233] = [];
+    ΔΔ[233][Xr.ⲆᐃΔ] = Ⲇⵠ.ⲆⲆᐃᐃⵠⵠᐃ;
+    ΔΔ[233][Xr.ΔⲆⵠ] = Ⲇⵠ.ⲆᐃᐃⵠᐃⲆΔ;
+    ΔΔ[1085] = [];
+    ΔΔ[1085][Xr.ⲆᐃΔ] = Ⲇⵠ.ⲆᐃⵠⵠᐃⲆⵠ;
+    ΔΔ[1085][Xr.ΔⲆⵠ] = Ⲇⵠ.ⵠⲆⲆⲆⵠⲆᐃ;
+    ΔΔ[1087] = [];
+    ΔΔ[1087][Xr.ⲆᐃΔ] = Ⲇⵠ.ⲆᐃᐃⲆⲆΔΔ;
+    ΔΔ[1087][Xr.ΔⲆⵠ] = Ⲇⵠ.ⲆⵠΔⲆⲆⵠⵠ;
+    ΔΔ[1090] = [];
+    ΔΔ[1090][Xr.ⲆᐃΔ] = Ⲇⵠ.ᐃᐃΔΔⵠⲆᐃ;
+    ΔΔ[1090][Xr.ΔⲆⵠ] = Ⲇⵠ.ΔⵠΔⲆⲆⲆⵠ;
+    ΔΔ[1086] = [];
+    ΔΔ[1086][Xr.ⲆᐃΔ] = Ⲇⵠ.ᐃⲆᐃᐃᐃᐃⲆ;
+    ΔΔ[1086][Xr.ΔⲆⵠ] = Ⲇⵠ.ⲆΔⲆⵠᐃᐃⲆ;
+    ΔΔ[1089] = [];
+    ΔΔ[1089][Xr.ⲆᐃΔ] = Ⲇⵠ.ΔΔⲆⲆⲆᐃⲆ;
+    ΔΔ[1089][Xr.ΔⲆⵠ] = Ⲇⵠ.ⲆᐃΔΔᐃⵠᐃ;
+    ΔΔ[1088] = [];
+    ΔΔ[1088][Xr.ⲆᐃΔ] = Ⲇⵠ.ⵠⲆᐃⲆⲆᐃᐃ;
+    ΔΔ[1088][Xr.ΔⲆⵠ] = Ⲇⵠ.ⲆΔⲆⲆΔⲆΔ;
+    ΔΔ[1091] = [];
+    ΔΔ[1091][Xr.ⲆᐃΔ] = Ⲇⵠ.ΔᐃⵠⵠⵠᐃⲆ;
+    ΔΔ[1091][Xr.ΔⲆⵠ] = Ⲇⵠ.ⲆᐃΔⵠⵠⵠᐃ;
+    ΔΔ[1092] = Ⲇⵠ.ⵠΔΔⲆⵠⲆᐃ;
+    ΔΔ[1093] = Ⲇⵠ.ⲆⵠᐃᐃⲆᐃⲆ;
+    ΔΔ[1094] = Ⲇⵠ.ⲆΔⵠΔⵠⲆΔ;
+    ΔΔ[1098] = [];
+    ΔΔ[1098][Xr.ⲆᐃΔ] = Ⲇⵠ.ⵠⵠⲆᐃⵠΔⲆ;
+    ΔΔ[1098][Xr.ΔⲆⵠ] = Ⲇⵠ.ΔⲆᐃΔᐃΔᐃ;
+    ΔΔ[235] = [];
+    ΔΔ[235][Xr.ⲆᐃΔ] = Ⲇⵠ.ⲆⵠΔᐃⵠⵠΔ;
+    ΔΔ[235][Xr.ΔⲆⵠ] = Ⲇⵠ.ⵠᐃⵠᐃᐃΔⵠ;
+    ΔΔ[1115] = Ⲇⵠ.ⲆⲆⲆⲆⲆᐃᐃ;
+    ΔΔ[1113] = [];
+    ΔΔ[1113][Xr.ⲆᐃΔ] = Ⲇⵠ.ᐃᐃⵠⵠⵠⵠᐃ;
+    ΔΔ[1113][Xr.ΔⲆⵠ] = Ⲇⵠ.ⲆⵠⲆⲆⵠⵠⵠ;
+    ΔΔ[1114] = [];
+    ΔΔ[1114][Xr.ⲆᐃΔ] = Ⲇⵠ.ΔⵠᐃᐃᐃΔⵠ;
+    ΔΔ[1114][Xr.ΔⲆⵠ] = Ⲇⵠ.ᐃⲆᐃⵠΔΔᐃ;
+    ΔΔ[1100] = [];
+    ΔΔ[1100][Xr.ⲆᐃΔ] = Ⲇⵠ.ⲆⲆⵠΔΔΔⲆ;
+    ΔΔ[1100][Xr.ΔⲆⵠ] = Ⲇⵠ.ᐃⵠⲆᐃΔΔΔ;
+    ΔΔ[1102] = [];
+    ΔΔ[1102][Xr.ⲆᐃΔ] = Ⲇⵠ.ⲆΔᐃⵠΔΔⲆ;
+    ΔΔ[1102][Xr.ΔⲆⵠ] = Ⲇⵠ.ΔⵠᐃΔᐃΔⵠ;
+    ΔΔ[1105] = [];
+    ΔΔ[1105][Xr.ⲆᐃΔ] = Ⲇⵠ.ᐃⲆⲆⵠⵠⲆⲆ;
+    ΔΔ[1105][Xr.ΔⲆⵠ] = Ⲇⵠ.ᐃᐃⵠⲆⲆⲆⵠ;
+    ΔΔ[1101] = [];
+    ΔΔ[1101][Xr.ⲆᐃΔ] = Ⲇⵠ.ⵠⲆⵠⵠᐃⵠⲆ;
+    ΔΔ[1101][Xr.ΔⲆⵠ] = Ⲇⵠ.ⵠᐃⵠⲆΔⲆⲆ;
+    ΔΔ[1104] = [];
+    ΔΔ[1104][Xr.ⲆᐃΔ] = Ⲇⵠ.ⲆⲆᐃⵠΔΔΔ;
+    ΔΔ[1104][Xr.ΔⲆⵠ] = Ⲇⵠ.ΔΔᐃΔⵠΔⲆ;
+    ΔΔ[1103] = [];
+    ΔΔ[1103][Xr.ⲆᐃΔ] = Ⲇⵠ.ᐃΔᐃᐃΔΔΔ;
+    ΔΔ[1103][Xr.ΔⲆⵠ] = Ⲇⵠ.ᐃΔⲆⲆᐃⵠⲆ;
+    ΔΔ[1106] = [];
+    ΔΔ[1106][Xr.ⲆᐃΔ] = Ⲇⵠ.ⲆⵠⲆᐃΔΔᐃ;
+    ΔΔ[1106][Xr.ΔⲆⵠ] = Ⲇⵠ.ᐃⲆⲆⲆⲆΔⵠ;
+    ΔΔ[1107] = Ⲇⵠ.ᐃⲆⲆⵠⲆⵠⲆ;
+    ΔΔ[1108] = Ⲇⵠ.ⲆⲆⵠᐃᐃᐃⲆ;
+    ΔΔ[1109] = Ⲇⵠ.ΔⵠⵠᐃⵠΔᐃ;
+    ΔΔ[1119] = [];
+    ΔΔ[1119][Xr.ⲆᐃΔ] = Ⲇⵠ.ΔⵠᐃᐃΔⲆⲆ;
+    ΔΔ[1119][Xr.ΔⲆⵠ] = Ⲇⵠ.ΔᐃᐃⵠΔⲆᐃ;
+    ΔΔ[238] = [];
+    ΔΔ[238][Xr.ⲆᐃΔ] = Ⲇⵠ.ΔΔⵠⵠΔΔⵠ;
+    ΔΔ[238][Xr.ΔⲆⵠ] = Ⲇⵠ.ᐃⵠΔᐃⵠᐃᐃ;
+    ΔΔ[1136] = Ⲇⵠ.ⵠⵠΔΔⲆᐃⵠ;
+    ΔΔ[1134] = [];
+    ΔΔ[1134][Xr.ⲆᐃΔ] = Ⲇⵠ.ΔΔⲆⵠΔⲆΔ;
+    ΔΔ[1134][Xr.ΔⲆⵠ] = Ⲇⵠ.ᐃⵠⲆⲆΔⲆᐃ;
+    ΔΔ[1135] = [];
+    ΔΔ[1135][Xr.ⲆᐃΔ] = Ⲇⵠ.ⲆⲆⵠⵠΔⲆⲆ;
+    ΔΔ[1135][Xr.ΔⲆⵠ] = Ⲇⵠ.ᐃⲆⵠⵠⲆⲆⵠ;
+    ΔΔ[1121] = [];
+    ΔΔ[1121][Xr.ⲆᐃΔ] = Ⲇⵠ.ΔⵠΔᐃⲆⲆⵠ;
+    ΔΔ[1121][Xr.ΔⲆⵠ] = Ⲇⵠ.ᐃⲆⲆⵠΔⲆⵠ;
+    ΔΔ[1123] = [];
+    ΔΔ[1123][Xr.ⲆᐃΔ] = Ⲇⵠ.ᐃΔᐃⵠΔⲆΔ;
+    ΔΔ[1123][Xr.ΔⲆⵠ] = Ⲇⵠ.ᐃᐃᐃᐃⵠᐃⵠ;
+    ΔΔ[1126] = [];
+    ΔΔ[1126][Xr.ⲆᐃΔ] = Ⲇⵠ.ΔΔⵠᐃᐃᐃΔ;
+    ΔΔ[1126][Xr.ΔⲆⵠ] = Ⲇⵠ.ⲆⵠᐃⲆΔΔΔ;
+    ΔΔ[1122] = [];
+    ΔΔ[1122][Xr.ⲆᐃΔ] = Ⲇⵠ.ⲆⵠΔⵠⲆⵠⵠ;
+    ΔΔ[1122][Xr.ΔⲆⵠ] = Ⲇⵠ.ⲆΔᐃⵠⲆⵠⵠ;
+    ΔΔ[1125] = [];
+    ΔΔ[1125][Xr.ⲆᐃΔ] = Ⲇⵠ.ᐃΔⲆⵠᐃⵠⵠ;
+    ΔΔ[1125][Xr.ΔⲆⵠ] = Ⲇⵠ.ⵠΔⲆᐃⵠᐃⲆ;
+    ΔΔ[1124] = [];
+    ΔΔ[1124][Xr.ⲆᐃΔ] = Ⲇⵠ.ⵠΔⵠΔⵠⲆⲆ;
+    ΔΔ[1124][Xr.ΔⲆⵠ] = Ⲇⵠ.ΔⲆⲆⵠΔᐃΔ;
+    ΔΔ[1127] = [];
+    ΔΔ[1127][Xr.ⲆᐃΔ] = Ⲇⵠ.ᐃᐃⲆΔⲆⲆⲆ;
+    ΔΔ[1127][Xr.ΔⲆⵠ] = Ⲇⵠ.ᐃΔⵠⵠᐃΔⵠ;
+    ΔΔ[1128] = Ⲇⵠ.ⲆⵠⵠᐃΔᐃᐃ;
+    ΔΔ[1129] = Ⲇⵠ.ᐃᐃⵠⲆᐃᐃⲆ;
+    ΔΔ[1130] = Ⲇⵠ.ⲆⵠⵠΔᐃⲆⵠ;
+    ΔΔ[1042] = [];
+    ΔΔ[1042][Xr.ⲆᐃΔ] = Ⲇⵠ.ⲆⲆΔᐃⲆⵠⲆ;
+    ΔΔ[1042][Xr.ΔⲆⵠ] = Ⲇⵠ.ⵠⲆᐃⵠⵠΔⲆ;
+    ΔΔ[1043] = [];
+    ΔΔ[1043][Xr.ⲆᐃΔ] = Ⲇⵠ.ⲆⲆⵠᐃΔᐃⲆ;
+    ΔΔ[1043][Xr.ΔⲆⵠ] = Ⲇⵠ.ᐃᐃΔΔⵠΔⲆ;
+    ΔΔ[1044] = [];
+    ΔΔ[1044][Xr.ⲆᐃΔ] = Ⲇⵠ.ⵠᐃΔᐃⵠⲆⵠ;
+    ΔΔ[1044][Xr.ΔⲆⵠ] = Ⲇⵠ.ⲆᐃⲆΔⵠᐃⲆ;
+    ΔΔ[228] = [];
+    ΔΔ[228][Xr.ⲆᐃΔ] = Ⲇⵠ.ΔᐃΔΔΔᐃⲆ;
+    ΔΔ[228][Xr.ΔⲆⵠ] = Ⲇⵠ.ΔᐃΔΔΔᐃⲆ;
+    ΔΔ[234] = [];
+    ΔΔ[234][Xr.ⲆᐃΔ] = Ⲇⵠ.ⵠⵠⵠᐃⲆΔΔ;
+    ΔΔ[234][Xr.ΔⲆⵠ] = Ⲇⵠ.ⵠⵠⵠᐃⲆΔΔ;
+    ΔΔ[249] = [];
+    ΔΔ[249][Xr.ⲆᐃΔ] = Ⲇⵠ.ΔᐃᐃⵠΔΔⵠ;
+    ΔΔ[249][Xr.ΔⲆⵠ] = Ⲇⵠ.ΔᐃᐃⵠΔΔⵠ;
+    ΔΔ[1045] = Ⲇⵠ.ᐃᐃᐃΔΔⲆᐃ;
+    ΔΔ[89] = [];
+    ΔΔ[89][Xr.ⲆᐃΔ] = Ⲇⵠ.ⲆΔⲆᐃᐃᐃΔ;
+    ΔΔ[89][Xr.ΔⲆⵠ] = Ⲇⵠ.ᐃⲆⲆᐃⵠᐃⲆ;
+    ΔΔ[92] = [];
+    ΔΔ[92][Xr.ⲆᐃΔ] = Ⲇⵠ.ⵠⵠⲆⵠᐃⲆⵠ;
+    ΔΔ[92][Xr.ΔⲆⵠ] = Ⲇⵠ.ᐃΔΔᐃᐃΔⵠ;
+    ΔΔ[247] = [];
+    ΔΔ[247][Xr.ⲆᐃΔ] = [Ⲇⵠ.ⲆᐃᐃⵠⲆᐃⵠ, Ⲇⵠ.ⵠΔᐃⵠΔᐃΔ, Ⲇⵠ.ΔᐃⲆΔⵠᐃⲆ, Ⲇⵠ.ⵠᐃΔᐃΔᐃⲆ, Ⲇⵠ.ΔⵠⵠⲆᐃᐃΔ, Ⲇⵠ.ΔⵠᐃΔᐃⵠⲆ, Ⲇⵠ.ᐃⵠᐃᐃΔⲆⵠ, Ⲇⵠ.ΔᐃᐃⲆⲆΔᐃ, Ⲇⵠ.ⵠᐃⵠⲆⵠⵠⲆ];
+    ΔΔ[247][Xr.ΔⲆⵠ] = [Ⲇⵠ.ⲆᐃΔᐃΔⵠᐃ, Ⲇⵠ.ⵠΔΔⲆΔΔⲆ, Ⲇⵠ.ᐃⲆⵠᐃᐃᐃΔ, Ⲇⵠ.ΔᐃⵠᐃΔᐃⵠ, Ⲇⵠ.ⵠᐃⵠⲆⲆᐃⲆ, Ⲇⵠ.ᐃΔⵠⲆᐃΔⵠ, Ⲇⵠ.ΔΔᐃⲆΔⲆⲆ, Ⲇⵠ.ΔᐃᐃⲆⲆΔᐃ, Ⲇⵠ.ⵠⵠᐃⲆⲆᐃΔ];
+    ΔΔ[93] = [];
+    ΔΔ[93][Xr.ⲆᐃΔ] = Ⲇⵠ.ᐃΔᐃⲆⲆΔΔ;
+    ΔΔ[93][Xr.ΔⲆⵠ] = Ⲇⵠ.ᐃⲆΔⲆΔⲆΔ;
+    ΔΔ[225] = [];
+    ΔΔ[225][Xr.ⲆᐃΔ] = Ⲇⵠ.ⵠᐃⲆⲆⵠⵠⲆ;
+    ΔΔ[225][Xr.ΔⲆⵠ] = Ⲇⵠ.ΔⵠⵠⲆⵠᐃᐃ;
+    ΔΔ[226] = [];
+    ΔΔ[226][Xr.ⲆᐃΔ] = Ⲇⵠ.ΔⲆⲆᐃⲆΔΔ;
+    ΔΔ[226][Xr.ΔⲆⵠ] = Ⲇⵠ.ⲆᐃΔⵠΔⵠⵠ;
+    ΔΔ[24] = [];
+    ΔΔ[24][Xr.ⲆᐃΔ] = Ⲇⵠ.ᐃΔᐃᐃΔΔⵠ;
+    ΔΔ[24][Xr.ΔⲆⵠ] = Ⲇⵠ.ⲆⵠⲆⵠⲆΔᐃ;
+    ΔΔ[88] = [];
+    ΔΔ[88][Xr.ⲆᐃΔ] = Ⲇⵠ.ᐃⲆⵠⲆᐃᐃΔ;
+    ΔΔ[88][Xr.ΔⲆⵠ] = Ⲇⵠ.ⵠⵠΔΔΔΔΔ;
+    ΔΔ[87] = [];
+    ΔΔ[87][Xr.ⲆᐃΔ] = Ⲇⵠ.ⲆⵠⲆᐃΔΔⲆ;
+    ΔΔ[87][Xr.ΔⲆⵠ] = Ⲇⵠ.ᐃᐃⲆⲆᐃᐃⵠ;
+    ΔΔ[82] = [];
+    ΔΔ[82][Xr.ⲆᐃΔ] = Ⲇⵠ.ⲆⲆΔᐃᐃᐃⲆ;
+    ΔΔ[82][Xr.ΔⲆⵠ] = Ⲇⵠ.Ⲇᐃᐃᐃⵠⵠᐃ;
+    ΔΔ[621] = [];
+    ΔΔ[621][Xr.ⲆᐃΔ] = [];
+    ΔΔ[621][Xr.ΔⲆⵠ] = [];
+    ΔΔ[621][Xr.ⲆᐃΔ].push(Ⲇⵠ.ⵠⲆΔⵠⲆΔᐃᐃΔ);
+    ΔΔ[621][Xr.ⲆᐃΔ].push(Ⲇⵠ.ᐃⲆΔᐃⵠⲆΔᐃᐃ);
+    ΔΔ[621][Xr.ⲆᐃΔ].push(Ⲇⵠ.ⲆΔᐃᐃⵠⵠᐃⵠⵠ);
+    ΔΔ[621][Xr.ΔⲆⵠ].push(Ⲇⵠ.ᐃⵠⵠᐃΔᐃΔⵠΔ);
+    ΔΔ[621][Xr.ΔⲆⵠ].push(Ⲇⵠ.ⲆⵠⵠΔᐃⵠⲆΔⲆ);
+    ΔΔ[621][Xr.ΔⲆⵠ].push(Ⲇⵠ.ⵠⵠⵠⵠᐃΔΔᐃⵠ);
+    ΔΔ[619] = [];
+    ΔΔ[619][Xr.ⲆᐃΔ] = [];
+    ΔΔ[619][Xr.ΔⲆⵠ] = [];
+    ΔΔ[619][Xr.ⲆᐃΔ].push(Ⲇⵠ.ᐃⲆΔΔⵠⲆⵠⵠⵠ);
+    ΔΔ[619][Xr.ⲆᐃΔ].push(Ⲇⵠ.ⵠⲆΔᐃⲆᐃᐃᐃⵠ);
+    ΔΔ[619][Xr.ⲆᐃΔ].push(Ⲇⵠ.ⵠᐃⲆⲆⵠⵠⲆΔᐃ);
+    ΔΔ[619][Xr.ΔⲆⵠ].push(Ⲇⵠ.ⲆⵠⲆⲆⲆⲆΔΔᐃ);
+    ΔΔ[619][Xr.ΔⲆⵠ].push(Ⲇⵠ.ᐃᐃⲆᐃⵠΔⲆΔⲆ);
+    ΔΔ[619][Xr.ΔⲆⵠ].push(Ⲇⵠ.ⵠⲆⲆⲆⲆⲆⲆⵠΔ);
+    ΔΔ[620] = [];
+    ΔΔ[620][Xr.ⲆᐃΔ] = [];
+    ΔΔ[620][Xr.ΔⲆⵠ] = [];
+    ΔΔ[620][Xr.ⲆᐃΔ].push(Ⲇⵠ.ΔᐃⲆⵠΔΔΔᐃⲆ);
+    ΔΔ[620][Xr.ⲆᐃΔ].push(Ⲇⵠ.ΔⲆΔⵠΔⲆⵠΔΔ);
+    ΔΔ[620][Xr.ⲆᐃΔ].push(Ⲇⵠ.ΔⲆⲆΔΔⵠᐃΔΔ);
+    ΔΔ[620][Xr.ΔⲆⵠ].push(Ⲇⵠ.ⵠⲆΔᐃΔΔⵠⵠⲆ);
+    ΔΔ[620][Xr.ΔⲆⵠ].push(Ⲇⵠ.ᐃⵠⵠⲆΔⲆⲆⵠᐃ);
+    ΔΔ[620][Xr.ΔⲆⵠ].push(Ⲇⵠ.ⵠΔΔΔΔⲆΔΔᐃ);
     ⵠᐃΔⲆ.g = [];
     ⵠᐃΔⲆ.g[0] = [Ⲇⵠ.ⲆΔⵠⵠⵠⵠΔ, Ⲇⵠ.ΔΔᐃΔⵠⵠᐃ];
     ⵠᐃΔⲆ.g[1] = ⵠᐃΔⲆ.g[ya];
@@ -38218,7 +38218,7 @@
           }
         }
         if (kw.ⲆⲆⲆᐃⵠΔΔ > c) {
-          var p = ΔΔ[Xr.ΔⵠᐃΔⲆⵠⲆ];
+          var p = ΔΔ[656];
           var h = (q = Zw.ΔᐃⵠⲆⵠⵠΔ).info.translate.x - 33;
           Jm(ho, p, h, Mg);
           if (Xw.ΔΔᐃⵠ.ⲆⲆᐃΔⵠⲆᐃ > 0) {
@@ -38229,19 +38229,19 @@
             }
           }
           switch (Xw.ΔΔᐃⵠ.ΔΔΔⵠΔⲆΔ) {
-            case _r.ᐃΔⵠⲆ:
+            case 108:
               var q = Zw.ⲆΔΔⲆΔⲆᐃ;
               break;
-            case _r.ᐃⲆⵠᐃ:
+            case 111:
               q = Zw.ΔⲆΔᐃΔΔⲆ;
               break;
-            case _r.ᐃⲆΔⵠ:
+            case 112:
               q = Zw.ᐃⵠᐃⵠᐃᐃΔ;
               break;
-            case _r.Ⲇⵠⵠⵠ:
+            case 121:
               q = Zw.ⵠᐃᐃΔⲆΔᐃ;
               break;
-            case _r.ᐃⵠᐃΔ:
+            case 202:
               q = Zw.ⲆⵠⲆΔΔⲆⲆ;
           }
           if (wj < Xw.ΔΔᐃⵠ.ΔⲆⲆᐃΔᐃᐃ) {
@@ -38276,14 +38276,14 @@
           Xw.ΔⲆΔΔ.ⵠΔᐃⲆⲆ = e.id;
           Xw.ΔⲆΔΔ.locked = e.lock;
           Xw.ΔⲆΔΔ.lock = e.lock && e.Ⲇⵠⵠᐃ != Xw.id && !Xw.ᐃⲆⵠⲆⵠⵠᐃ(e.Ⲇⵠⵠᐃ) ? Tg : vt;
-          Xw.ΔⲆΔΔ.ⵠⵠᐃᐃᐃⵠⵠ = e.Ⲇⵠⵠᐃ === Xw.id && !Xw.ΔⲆΔΔ.locked && Xw.ᐃΔᐃⵠ.ᐃⲆⲆΔⲆ(_r.ⵠⵠⲆⵠᐃ) != -1;
-          if (Xw.ΔⲆΔΔ.locked && -pu != Xw.ᐃΔᐃⵠ.ᐃⲆⲆΔⲆ(_r.ᐃⵠᐃⲆⵠ)) {
+          Xw.ΔⲆΔΔ.ⵠⵠᐃᐃᐃⵠⵠ = e.Ⲇⵠⵠᐃ === Xw.id && !Xw.ΔⲆΔΔ.locked && Xw.ᐃΔᐃⵠ.ᐃⲆⲆΔⲆ(148) != -1;
+          if (Xw.ΔⲆΔΔ.locked && -pu != Xw.ᐃΔᐃⵠ.ᐃⲆⲆΔⲆ(158)) {
             Xw.ΔⲆΔΔ.ΔⵠᐃΔⲆΔⵠ = true;
           }
         }
       }
       if (kw.ᐃᐃΔᐃⵠΔⲆ > c) {
-        var j = ΔΔ[Xr.ΔⲆᐃΔᐃᐃⲆ];
+        var j = ΔΔ[339];
         var k = Zw.ⲆⵠΔ[eu];
         var m = Math.floor(k.info.translate.x + (k.info.ⵠⵠ[0].width - j.width) / xj);
         var p = Math.floor(k.info.translate.y + (k.info.ⵠⵠ[ig].height - j.height) / H) + Tt;
@@ -38416,7 +38416,7 @@
       };
     }
     ho.globalAlpha = 0.8;
-    var c = ΔΔ[Xr.ⲆⲆⵠⵠⵠⲆΔ][cf.time];
+    var c = ΔΔ[259][cf.time];
     Jm(ho, c, b.x, b.y);
     ho.globalAlpha = 1;
     if (-pu < Zw.ΔΔΔⲆⵠ.ⵠΔᐃᐃΔ.x) {
@@ -38459,7 +38459,7 @@
           }
         }
         if (kw.ⵠᐃⲆᐃⲆᐃᐃ > c) {
-          var g = ΔΔ[Xr.ᐃᐃⲆᐃⵠⲆⵠ];
+          var g = ΔΔ[655];
           var j = (k = Zw.ⵠⵠⲆⵠΔⵠΔ).info.translate.x - 33;
           Jm(ho, g, j, In);
           if (Xw.ᐃⵠᐃᐃ.ΔⲆΔⲆᐃΔⵠ > 0) {
@@ -38481,7 +38481,7 @@
     }
   }
   function Im(a, b, c) {
-    var d = ΔΔ[Xr.ΔΔΔᐃⵠΔⵠ][a];
+    var d = ΔΔ[465][a];
     var e = b.info.translate.x + Co * Ll;
     var f = b.info.translate.y + Co * ta;
     if (b.info.state == Yv || c) {
@@ -38541,14 +38541,14 @@
       yb(ho, bo - 150, lq - 90, 300, 180, _o);
       ho.fill();
       ho.globalAlpha = au;
-      var a = ΔΔ[Xr.ⵠᐃⲆΔⲆΔⲆ];
+      var a = ΔΔ[301];
       ho.save();
       Xw.reconnect.rotate = (Xw.reconnect.rotate + _w * 2) % (Rl * Math.PI);
       ho.translate(lo / Ug, jq / 2 - 25);
       ho.rotate(Xw.reconnect.rotate);
       Jm(ho, a, -a.width / Pn, -a.height / eh);
       ho.restore();
-      a = ΔΔ[Xr.ⵠⵠᐃⵠⲆⲆⲆ];
+      a = ΔΔ[525];
       Jm(ho, a, (lo - a.width) / 2, (jq - a.height) / vg + 25);
     }
   }
@@ -38558,7 +38558,7 @@
       ho.fillStyle = "#000";
       ho.fillRect(0, st, lo, jq);
       ho.globalAlpha = 0.8;
-      var b = ΔΔ[Xr.ⲆⵠᐃΔⲆΔⲆ][cf.time];
+      var b = ΔΔ[516][cf.time];
       var c = bo - b.width / pq;
       var d = lq - b.height / Rl;
       Jm(ho, b, c, d);
@@ -38624,7 +38624,7 @@
           }
         }
         if (c < kw.ΔⵠⵠⵠᐃΔᐃ) {
-          var g = ΔΔ[Xr.ᐃⵠⲆⵠⲆⲆⵠ];
+          var g = ΔΔ[722];
           var j = (a = Zw.ᐃᐃᐃᐃⵠΔⲆ).info.translate.x - 32;
           Jm(ho, g, j, 0);
           if (Xw.ⲆᐃⵠΔ.ⲆⲆᐃΔⵠⲆᐃ > Bb) {
@@ -38653,8 +38653,8 @@
     }
   }
   function Rm(a, b) {
-    ΔΔ[0][a] ||= nd(Co, "x" + a, m, "#FFF");
-    var c = ΔΔ[0][a];
+    ΔΔ[283][a] ||= nd(Co, "x" + a, m, "#FFF");
+    var c = ΔΔ[283][a];
     var d = b.info.translate.x + b.info.ⵠⵠ[0].width - c.width - Sq * Co;
     var e = b.info.translate.y + b.info.ⵠⵠ[Bb].height - c.height - Co * mg;
     if (Yv == b.info.state) {
@@ -38681,7 +38681,7 @@
           }
         }
         if (c < kw.ΔΔⵠᐃΔⵠᐃ) {
-          var g = ΔΔ[Xr.ⵠⲆᐃΔᐃΔⲆ];
+          var g = ΔΔ[411];
           var j = Zw.ⲆΔⲆᐃⵠⵠᐃ;
           var a = Math.floor(j.info.translate.x + (j.info.ⵠⵠ[os].width - g.width) / 2);
           var k = Math.floor(j.info.translate.y + (j.info.ⵠⵠ[0].height - g.height) / pq) + Lg;
@@ -38707,7 +38707,7 @@
       ho.globalAlpha = Xw.ⲆΔᐃΔ.ᐃⵠᐃⵠⲆᐃⵠ.ΔΔⲆ;
     }
     var b = fl < Xw.ᐃΔᐃⵠ.ⲆᐃⲆⲆΔ.length ? -70 : Yh;
-    if (Xw.ΔⲆΔΔ.open || Xw.ᐃⲆⵠⲆΔ.open && Xw.ᐃΔᐃⵠ.ᐃⲆⲆΔⲆ(_r.ⵠᐃⵠⵠ) != -1 || Xw.ᐃⵠᐃᐃ.open && Xw.ᐃΔᐃⵠ.ᐃⲆⲆΔⲆ(_r.ⲆΔΔᐃⵠ) != -zs || Xw.ΔΔᐃⵠ.open && Xw.ᐃΔᐃⵠ.ᐃⲆⲆΔⲆ(_r.ⵠᐃⵠⵠ) != -1 || Xw.ᐃⵠⵠΔⲆ.open && Xw.ᐃΔᐃⵠ.ᐃⲆⲆΔⲆ(_r.ΔΔᐃΔΔ) != -1 || Xw.ⲆᐃⵠΔ.open && (-hb != Xw.ᐃΔᐃⵠ.ᐃⲆⲆΔⲆ(_r.ⵠᐃⵠⵠ) || -gs != Xw.ᐃΔᐃⵠ.ᐃⲆⲆΔⲆ(_r.ᐃⵠᐃⵠᐃ))) {
+    if (Xw.ΔⲆΔΔ.open || Xw.ᐃⲆⵠⲆΔ.open && Xw.ᐃΔᐃⵠ.ᐃⲆⲆΔⲆ(109) != -1 || Xw.ᐃⵠᐃᐃ.open && Xw.ᐃΔᐃⵠ.ᐃⲆⲆΔⲆ(134) != -zs || Xw.ΔΔᐃⵠ.open && Xw.ᐃΔᐃⵠ.ᐃⲆⲆΔⲆ(109) != -1 || Xw.ᐃⵠⵠΔⲆ.open && Xw.ᐃΔᐃⵠ.ᐃⲆⲆΔⲆ(180) != -1 || Xw.ⲆᐃⵠΔ.open && (-hb != Xw.ᐃΔᐃⵠ.ᐃⲆⲆΔⲆ(109) || -gs != Xw.ᐃΔᐃⵠ.ᐃⲆⲆΔⲆ(131))) {
       b -= Co * 50;
     }
     ho.translate((lo - Co * 950) / 2, b);
@@ -38753,8 +38753,8 @@
     this.y = this.translate.y + b;
     ho.restore();
     if (Xw.ⲆΔᐃΔ.ⲆᐃΔⵠΔⵠΔ.x < 0.99) {
-      var c = Math.floor(bo - ΔΔ[Xr.ΔΔΔΔⵠΔΔ].width / Vg);
-      b += this.translate.y - ΔΔ[Xr.ΔΔΔΔⵠΔΔ].height - Co * 5;
+      var c = Math.floor(bo - ΔΔ[608].width / Vg);
+      b += this.translate.y - ΔΔ[608].height - Co * 5;
       ho.fillStyle = "#BBE8EF";
       ho.fillRect(c + 5, b + Co * Oj, Co * 588 * Xw.ⲆΔᐃΔ.ⲆᐃΔⵠΔⵠΔ.x, Co * 10);
       if (Xw.ⲆΔᐃΔ.ⲆᐃΔⵠΔⵠΔ.x < 0.35) {
@@ -38763,7 +38763,7 @@
         ho.fillRect(c + Ll, b + 5, Co * 588, Co * 10);
         ho.globalAlpha = gs;
       }
-      Jm(ho, ΔΔ[Xr.ΔΔΔΔⵠΔΔ], c, b);
+      Jm(ho, ΔΔ[608], c, b);
       this.y = b;
     }
   }
@@ -38788,24 +38788,24 @@
       if (!!h.open && (h.id < wj || h.id == e.id) && (!h.lock || Xw.id == h.Ⲇⵠⵠᐃ)) {
         Zw.ⲆⵠᐃΔⲆ[e.id].ᐃⵠᐃⵠ(ho);
       }
-      if (Xw.ᐃⲆⵠⲆΔ.open && e.id == _r.ⵠᐃⵠⵠ) {
+      if (Xw.ᐃⲆⵠⲆΔ.open && e.id == 109) {
         Zw.ⲆⵠᐃΔⲆ[e.id].ᐃⵠᐃⵠ(ho);
       }
-      if (Xw.ᐃⵠⵠΔⲆ.open && _r.ΔΔᐃΔΔ == e.id) {
+      if (Xw.ᐃⵠⵠΔⲆ.open && e.id == 180) {
         Zw.ⲆⵠᐃΔⲆ[e.id].ᐃⵠᐃⵠ(ho);
       }
-      if (Xw.ᐃⵠᐃᐃ.open && e.id == _r.ⲆΔΔᐃⵠ) {
+      if (Xw.ᐃⵠᐃᐃ.open && e.id == 134) {
         Zw.ⲆⵠᐃΔⲆ[e.id].ᐃⵠᐃⵠ(ho);
       }
-      if (Xw.ΔΔᐃⵠ.open && e.id == _r.ⵠᐃⵠⵠ) {
+      if (Xw.ΔΔᐃⵠ.open && e.id == 109) {
         Zw.ⲆⵠᐃΔⲆ[e.id].ᐃⵠᐃⵠ(ho);
       }
-      if (!!Xw.ⲆᐃⵠΔ.open && (e.id == _r.ⵠᐃⵠⵠ || e.id == _r.ᐃⵠᐃⵠᐃ)) {
+      if (!!Xw.ⲆᐃⵠΔ.open && (e.id == 109 || e.id == 131)) {
         Zw.ⲆⵠᐃΔⲆ[e.id].ᐃⵠᐃⵠ(ho);
       }
     }
     if (e && d < b.max) {
-      var j = ΔΔ[Xr.ΔᐃⵠⲆᐃΔΔ][rs];
+      var j = ΔΔ[334][rs];
       ᐃᐃ = e.info.translate.x;
       ⵠⲆⵠ = e.info.translate.y;
       ⵠΔⲆᐃ = Tl;
@@ -38819,8 +38819,8 @@
     if (a.wait) {
       var b = a.timeout.ᐃⲆΔ();
       ho.save();
-      var c = ΔΔ[Xr.ⲆⲆⵠᐃΔⵠᐃ];
-      var d = ΔΔ[Xr.ᐃⵠᐃⵠᐃⵠΔ].height + Co * 25;
+      var c = ΔΔ[562];
+      var d = ΔΔ[537].height + Co * 25;
       ho.translate(c.width, Zw.ⲆΔᐃΔ.translate.y - Co * 188 - d);
       var e = -c.width / 2 - Pn;
       var f = -c.height / Hj - 4;
@@ -38854,8 +38854,8 @@
       d = 0;
       e = Mg;
     }
-    var f = ΔΔ[Xr.ᐃⲆΔΔᐃⵠᐃ].length;
-    ⵠⵠ = ΔΔ[Xr.ᐃⲆΔΔᐃⵠᐃ][(this.ⵠΔⲆᐃ + this.ⵠΔ % 2) % f][cf.time];
+    var f = ΔΔ[853].length;
+    ⵠⵠ = ΔΔ[853][(this.ⵠΔⲆᐃ + this.ⵠΔ % 2) % f][cf.time];
     ⲆⲆᐃ = -ⵠⵠ.width;
     ΔⵠⲆ = -ⵠⵠ.height;
     var g = cf.Δⵠⵠᐃᐃ[Xw.ᐃⲆᐃᐃ];
@@ -38914,7 +38914,7 @@
       }
       if (!a) {
         if (cf.mode === kw.ⵠᐃᐃⲆⲆ || kw.ᐃᐃⲆΔⵠ === cf.mode || kw.ⲆⲆⲆⲆᐃ === cf.mode || kw.ᐃⲆⵠⲆΔΔᐃ === cf.mode || kw.ⵠΔᐃᐃⲆ === cf.mode || cf.mode === kw.ⲆⵠⲆⵠⲆⲆⵠ && !Xw.ᐃⲆⲆΔΔᐃᐃ || cf.mode === kw.ΔΔΔΔᐃ && !Xw.ⲆᐃⲆⵠᐃ) {
-          g.drawImage(ΔΔ[Xr.ᐃΔⵠᐃᐃⲆΔ], Co * 15, Co * (46 + k * 22));
+          g.drawImage(ΔΔ[306], Co * 15, Co * (46 + k * 22));
           g.drawImage(nd(Co, ᐃⵠΔⲆ.ᐃΔⵠᐃᐃᐃᐃ(cf.ⵠΔΔⲆ[Xw.id].ⲆΔΔᐃⲆ), v * Co, "#FFF"), Y * Co, Co * (46 + k * 22));
         }
       }
@@ -38936,12 +38936,12 @@
       b = st;
       c = 0;
     }
-    ⵠⵠ = ΔΔ[Xr.ᐃⲆⲆⲆⲆ][cf.time];
+    ⵠⵠ = ΔΔ[167][cf.time];
     ⲆⲆᐃ = -ⵠⵠ.width;
     ΔⵠⲆ = -ⵠⵠ.height;
     Jm(ho, ⵠⵠ, -ⲆⲆᐃ / 2 + b, -ΔⵠⲆ / Lt + c, ⲆⲆᐃ, ΔⵠⲆ);
     if (this.lock) {
-      ⵠⵠ = ΔΔ[Xr.ⵠⵠⲆⵠᐃ][cf.time];
+      ⵠⵠ = ΔΔ[148][cf.time];
       ⲆⲆᐃ = -ⵠⵠ.width;
       ΔⵠⲆ = -ⵠⵠ.height;
       Jm(ho, ⵠⵠ, -ⲆⲆᐃ / H + b - za * Co, -ΔⵠⲆ / 2 + c, ⲆⲆᐃ, ΔⵠⲆ);
@@ -39021,9 +39021,9 @@
       if (ds[b.ΔᐃΔⵠ].ⵠⲆᐃⲆ === 0) {
         if (!b.label[b.mode]) {
           if (b.mode === 0) {
-            b.label[Ih] = nd(Co, Et[ΔΔᐃ.ⵠⲆΔᐃⵠΔⲆ], 20, "#e2c340");
+            b.label[Ih] = nd(Co, Et[336], 20, "#e2c340");
           } else {
-            b.label[1] = nd(Co, Et[ΔΔᐃ.ⵠⲆᐃᐃᐃΔⵠ], 20, "#e2c340");
+            b.label[1] = nd(Co, Et[337], 20, "#e2c340");
           }
         }
         f = b.label[b.mode];
@@ -39064,7 +39064,7 @@
     ho.save();
     ho.translate(Xw.ⵠᐃⲆ.x + this.x, Xw.ⵠᐃⲆ.y + this.y);
     ho.rotate(this.angle);
-    ⵠⵠ = ΔΔ[Xr.ᐃⲆᐃⲆΔ][cf.time];
+    ⵠⵠ = ΔΔ[321][cf.time];
     ⲆⲆᐃ = -ⵠⵠ.width;
     ΔⵠⲆ = -ⵠⵠ.height;
     Jm(ho, ⵠⵠ, -ⲆⲆᐃ / Ul, -ΔⵠⲆ / pq, ⲆⲆᐃ, ΔⵠⲆ);
@@ -39075,7 +39075,7 @@
     if (a.wait) {
       var b = a.timeout.ᐃⲆΔ();
       ho.save();
-      var c = ΔΔ[Xr.ᐃΔⲆⲆⲆΔΔ];
+      var c = ΔΔ[792];
       ho.translate(c.width - Co * 2, Zw.ⲆΔᐃΔ.translate.y - Co * 125);
       var d = -c.width / 2 + xt;
       var e = -c.height / Pn - 4;
@@ -39099,7 +39099,7 @@
     if (a.wait) {
       var b = a.timeout.ᐃⲆΔ();
       ho.save();
-      var c = ΔΔ[Xr.ᐃᐃⲆⵠⵠΔᐃ];
+      var c = ΔΔ[794];
       ho.translate(c.width - Co * gr, Zw.ⲆΔᐃΔ.translate.y - Co * 190);
       var d = -c.width / xj + dh;
       var e = -c.height / xq - ba;
@@ -39120,21 +39120,21 @@
   }
   function $m() {
     var a = cf.ΔᐃᐃΔⲆ;
-    var b = ΔΔ[Xr.ⲆⲆⵠΔΔⲆΔ][cf.time];
+    var b = ΔΔ[725][cf.time];
     Jm(ho, b, a.translate.x, a.translate.y);
     ho.save();
     ho.translate(a.translate.x + b.width / 2, a.translate.y + b.height / 2);
     cf.ΔᐃᐃΔⲆ.now = (new Date().getTime() - a.ᐃΔΔΔᐃ + a.ᐃⵠᐃⲆΔ) % kw.ⲆᐃΔ;
     var c = Math.PI * 2 * cf.ΔᐃᐃΔⲆ.now / kw.ⲆᐃΔ - Math.PI / 2;
     ho.rotate(c);
-    Jm(ho, ΔΔ[Xr.ᐃᐃΔᐃᐃΔΔ], -b.width / 2, -b.height / vg);
+    Jm(ho, ΔΔ[726], -b.width / 2, -b.height / vg);
     ho.restore();
   }
   function ep() {
     ho.save();
     ho.translate(Xw.ⵠᐃⲆ.x + this.x, Xw.ⵠᐃⲆ.y + this.y);
     ho.rotate(this.angle);
-    ⵠⵠ = ΔΔ[Xr.ⵠᐃⵠⵠΔΔᐃ][cf.time];
+    ⵠⵠ = ΔΔ[811][cf.time];
     ⲆⲆᐃ = -ⵠⵠ.width;
     ΔⵠⲆ = -ⵠⵠ.height;
     Jm(ho, ⵠⵠ, -ⲆⲆᐃ / 2, -ΔⵠⲆ / as, ⲆⲆᐃ, ΔⵠⲆ);
@@ -39155,7 +39155,7 @@
       d = mj;
       e = ig;
     }
-    if (b === Xr.ⲆᐃⲆⵠᐃⵠⵠ && !cf.transition) {
+    if (b === 913 && !cf.transition) {
       var f = 0;
       for (var g = cf.ⲆΔⲆ[nw.ᐃᐃⲆⲆⲆ], h = 0; g.length > h; h++) {
         var i = ᐃⵠΔⲆ.ΔΔⵠΔ(g[h], this);
@@ -39180,21 +39180,21 @@
   function tp() {
     var a = -8;
     if (Xw.ᐃΔᐃᐃⲆ.enabled) {
-      var b = ΔΔ[Xr.ΔᐃⵠⵠᐃⲆᐃ];
+      var b = ΔΔ[546];
       Jm(ho, b, Xw.ᐃΔᐃᐃⲆ.translate.x, Xw.ᐃΔᐃᐃⲆ.translate.y + a);
       a += 70;
     }
     if (Xw.ⲆΔᐃᐃᐃᐃᐃ === 1) {
-      b = ΔΔ[Xr.ⵠᐃᐃⵠⵠⵠᐃ];
+      b = ΔΔ[549];
       Jm(ho, b, Xw.ᐃΔᐃᐃⲆ.translate.x, Xw.ᐃΔᐃᐃⲆ.translate.y + a);
       a += 70;
     } else if (Xw.ⲆΔᐃΔ.ⲆⲆⵠⲆⵠ.x < 0.25 || Xw.ⲆΔᐃΔ.ⵠⲆΔΔΔᐃΔ.x < 0.25 || Xw.ⲆΔᐃΔ.ⲆᐃⵠΔΔⲆΔ.x < 0.25 || Xw.ⲆΔᐃΔ.ⲆᐃΔⵠΔⵠΔ.x < 0.25 || Xw.ⲆΔᐃΔ.ΔⲆⲆΔⵠ.x < 0.25) {
-      b = ΔΔ[Xr.ΔⲆᐃΔΔᐃⵠ];
+      b = ΔΔ[548];
       Jm(ho, b, Xw.ᐃΔᐃᐃⲆ.translate.x, Xw.ᐃΔᐃᐃⲆ.translate.y + a);
       a += 70;
     }
     if (Xw.ⵠᐃⵠᐃᐃ > 0) {
-      b = ΔΔ[Xr.ΔⵠⵠⲆΔᐃΔ];
+      b = ΔΔ[547];
       Jm(ho, b, Xw.ᐃΔᐃᐃⲆ.translate.x, Xw.ᐃΔᐃᐃⲆ.translate.y + a);
       var c = jm[Xw.ⵠᐃⵠᐃᐃ];
       if (c === Og) {
@@ -39226,7 +39226,7 @@
     if (this.ᐃᐃⵠᐃᐃ.ᐃⲆΔ()) {
       this.color += 0.2 + Math.random() * 0.3;
     }
-    ⵠⵠ = ΔΔ[Xr.ᐃⵠᐃⵠⲆ][Math.floor(this.id + this.color) % Fs][cf.time];
+    ⵠⵠ = ΔΔ[872][Math.floor(this.id + this.color) % Fs][cf.time];
     ⲆⲆᐃ = this.ᐃᐃⵠᐃᐃ.ΔΔⲆ * -ⵠⵠ.width;
     ΔⵠⲆ = this.ᐃᐃⵠᐃᐃ.ΔΔⲆ * -ⵠⵠ.height;
     Jm(ho, ⵠⵠ, -ⲆⲆᐃ / Hj + c, -ΔⵠⲆ / 2 + d, ⲆⲆᐃ, ΔⵠⲆ);
@@ -39238,7 +39238,7 @@
       var b = cf.Δⵠⵠᐃᐃ[Xw.ᐃⲆᐃᐃ];
       ho.save();
       ho.translate(Xw.ⵠᐃⲆ.x + b.x, Xw.ⵠᐃⲆ.y + b.y);
-      var c = ΔΔ[Xr.ΔⵠⲆⵠⲆᐃΔ];
+      var c = ΔΔ[324];
       var d = -c.width / rs;
       var e = -c.height / Rl - Co * 125;
       Jm(ho, c, d, e);
@@ -39255,7 +39255,7 @@
     ho.save();
     ho.translate(Xw.ⵠᐃⲆ.x + this.x, Xw.ⵠᐃⲆ.y + this.y);
     ho.rotate(this.angle);
-    ⵠⵠ = ΔΔ[Xr.ⲆᐃⲆᐃᐃᐃᐃ][cf.time];
+    ⵠⵠ = ΔΔ[848][cf.time];
     ⲆⲆᐃ = -ⵠⵠ.width;
     ΔⵠⲆ = -ⵠⵠ.height;
     Jm(ho, ⵠⵠ, -ⲆⲆᐃ / jk, -ΔⵠⲆ / Lt, ⲆⲆᐃ, ΔⵠⲆ);
@@ -39266,7 +39266,7 @@
     if (a.wait) {
       var b = a.timeout.ᐃⲆΔ();
       ho.save();
-      var c = ΔΔ[Xr.ᐃⵠᐃⵠᐃⵠΔ];
+      var c = ΔΔ[537];
       ho.translate(c.width - eh * Co, Zw.ⲆΔᐃΔ.translate.y - Co * 60);
       var d = -c.width / jk - 2;
       var e = -c.height / lr - 4;
@@ -39310,7 +39310,7 @@
     ho.save();
     ho.translate(Xw.ⵠᐃⲆ.x + this.x, Xw.ⵠᐃⲆ.y + this.y);
     ho.rotate(this.angle);
-    ⵠⵠ = ΔΔ[Xr.ᐃΔⵠΔᐃⵠⲆ][cf.time];
+    ⵠⵠ = ΔΔ[837][cf.time];
     ⲆⲆᐃ = -ⵠⵠ.width;
     ΔⵠⲆ = -ⵠⵠ.height;
     Jm(ho, ⵠⵠ, -ⲆⲆᐃ / Ug, -ΔⵠⲆ / jk, ⲆⲆᐃ, ΔⵠⲆ);
@@ -39324,7 +39324,7 @@
     ho.save();
     ho.translate(Xw.ⵠᐃⲆ.x + this.x, Xw.ⵠᐃⲆ.y + this.y);
     ho.rotate(this.angle);
-    ⵠⵠ = ΔΔ[Xr.ⵠΔᐃⵠⲆ][cf.time];
+    ⵠⵠ = ΔΔ[239][cf.time];
     ⲆⲆᐃ = -ⵠⵠ.width;
     ΔⵠⲆ = -ⵠⵠ.height;
     Jm(ho, ⵠⵠ, -ⲆⲆᐃ / 2, -ΔⵠⲆ / 2, ⲆⲆᐃ, ΔⵠⲆ);
@@ -39377,18 +39377,18 @@
       ho.rotate(this.angle);
       this.ᐃᐃᐃᐃ.ᐃⲆΔ();
       if (this.info & 16) {
-        var f = ΔΔ[Xr.ⲆΔⵠⵠⲆΔΔ][cf.time];
+        var f = ΔΔ[970][cf.time];
       } else {
-        f = ΔΔ[Xr.ᐃᐃⲆⲆⲆΔΔ][cf.time];
+        f = ΔΔ[208][cf.time];
       }
       var g = this.ᐃᐃᐃᐃ.ΔΔⲆ * -f.width;
       var h = this.ᐃᐃᐃᐃ.ΔΔⲆ * -f.height;
       Jm(ho, f, -g / rs + c, -h / Lt + d, g, h);
     } else {
       if (this.info & 16) {
-        f = ΔΔ[Xr.ⵠᐃⵠᐃⲆᐃΔ][cf.time];
+        f = ΔΔ[971][cf.time];
       } else {
-        f = ΔΔ[Xr.ⲆᐃⵠΔⲆ][cf.time];
+        f = ΔΔ[209][cf.time];
       }
       ho.translate(0, f.height / 2);
       Jm(ho, f, c - f.width / Rl, -f.height + d);
@@ -39412,7 +39412,7 @@
         c = 0;
       }
       this.ᐃᐃᐃᐃ.ᐃⲆΔ();
-      var d = ΔΔ[Xr.ᐃᐃⲆᐃΔΔᐃ][cf.time];
+      var d = ΔΔ[206][cf.time];
       var e = this.ᐃᐃᐃᐃ.ΔΔⲆ * -d.width;
       var f = -d.height * this.ᐃᐃᐃᐃ.ΔΔⲆ;
       Jm(ho, d, -e / 2 + b, -f / H + c, e, f);
@@ -39435,15 +39435,15 @@
       c = 0;
     }
     if (this.info & 31 && this.info & 992 && ~this.info & 31744) {
-      d = ΔΔ[Xr.ⲆᐃⲆΔᐃⵠⲆ][cf.time];
+      d = ΔΔ[716][cf.time];
       Jm(ho, d, -d.width / 2 + b, -d.height / Ob + c);
       this.up.ᐃⲆΔ();
-      var d = ΔΔ[Xr.ΔⲆᐃⵠⵠⵠⵠ][cf.time];
+      var d = ΔΔ[720][cf.time];
       var e = this.up.ΔΔⲆ * -d.width;
       var f = this.up.ΔΔⲆ * -d.height;
       Jm(ho, d, -e / 2 + gs * Co, -f / Lt + Co * 3, e, f);
     } else {
-      d = ΔΔ[Xr.ⲆᐃΔᐃⲆⵠⵠ][cf.time];
+      d = ΔΔ[144][cf.time];
       Jm(ho, d, -d.width / 2 + b, -d.height / 2 + c);
     }
     ho.restore();
@@ -39454,7 +39454,7 @@
     ho.rotate(this.angle);
     this.ᐃᐃᐃᐃ.ᐃⲆΔ();
     ho.globalAlpha = 0.3;
-    var a = ΔΔ[Xr.ⲆΔᐃΔⵠⲆⵠ][cf.time];
+    var a = ΔΔ[282][cf.time];
     var b = this.ᐃᐃᐃᐃ.ΔΔⲆ * -a.width;
     var c = this.ᐃᐃᐃᐃ.ΔΔⲆ * -a.height;
     Jm(ho, a, -b / Ul, -c / 2, b, c);
@@ -39480,13 +39480,13 @@
     }
     ho.translate(Xw.ⵠᐃⲆ.x + this.x + b, Xw.ⵠᐃⲆ.y + this.y + c);
     ho.rotate(this.angle);
-    ⵠⵠ = ΔΔ[Xr.ⲆⲆⵠⵠΔ][cf.time];
+    ⵠⵠ = ΔΔ[157][cf.time];
     Jm(ho, ⵠⵠ, -ⵠⵠ.width / Ob, -ⵠⵠ.height / H);
     if (this.info & 255 && ~this.info & 65280) {
       this.rotate = (this.rotate + _w * I) % (Math.PI * vg);
     }
     ho.rotate(this.rotate);
-    ⵠⵠ = ΔΔ[Xr.ⵠⵠΔΔⵠⲆⲆ][cf.time];
+    ⵠⵠ = ΔΔ[1214][cf.time];
     Jm(ho, ⵠⵠ, -ⵠⵠ.width / It, -ⵠⵠ.height / Vg);
     ho.restore();
   }
@@ -39509,18 +39509,18 @@
       ho.rotate(this.angle);
       this.ᐃᐃᐃᐃ.ᐃⲆΔ();
       if (this.info & 16) {
-        var f = ΔΔ[Xr.ΔⵠⲆΔᐃᐃⲆ][cf.time];
+        var f = ΔΔ[812][cf.time];
       } else {
-        f = ΔΔ[Xr.ⲆⲆⲆⵠⲆΔᐃ][cf.time];
+        f = ΔΔ[188][cf.time];
       }
       var g = -f.width * this.ᐃᐃᐃᐃ.ΔΔⲆ;
       var h = this.ᐃᐃᐃᐃ.ΔΔⲆ * -f.height;
       Jm(ho, f, -g / 2 + c, -h / 2 + d, g, h);
     } else {
       if (this.info & 16) {
-        f = ΔΔ[Xr.ⵠᐃᐃⵠᐃⲆⵠ][cf.time];
+        f = ΔΔ[813][cf.time];
       } else {
-        f = ΔΔ[Xr.ⵠᐃⵠΔⵠ][cf.time];
+        f = ΔΔ[189][cf.time];
       }
       ho.translate(0, f.height / 2);
       Jm(ho, f, c - f.width / xj, -f.height + d);
@@ -39538,7 +39538,7 @@
     }
     this.ⲆᐃᐃⲆ.ᐃⲆΔ();
     this.rotate.ᐃⲆΔ();
-    a = this.info === 0 ? ΔΔ[Xr.ⲆⲆΔⵠⲆ][cf.time] : ΔΔ[Xr.ⲆᐃⵠΔᐃᐃΔ][cf.time];
+    a = this.info === 0 ? ΔΔ[233][cf.time] : ΔΔ[1083][cf.time];
     ⲆⲆᐃ = this.scale * (this.ⲆᐃᐃⲆ.ΔΔⲆ * -a.width);
     ΔⵠⲆ = this.ⲆᐃᐃⲆ.ΔΔⲆ * -a.height * this.scale;
     Jm(ho, a, -ⲆⲆᐃ / 4, -ΔⵠⲆ / 4, ⲆⲆᐃ / Vh, ΔⵠⲆ / 2);
@@ -39547,11 +39547,11 @@
         this.action -= hw.ⲆᐃⲆⵠ;
       }
       ho.globalAlpha = 0.6 - this.ᐃⲆⲆ.ΔΔⲆ;
-      var a = ΔΔ[Xr.ⵠΔΔⲆⵠⲆᐃ];
+      var a = ΔΔ[1092];
       Jm(ho, a, -ⲆⲆᐃ / 4, -ΔⵠⲆ / nj, ⲆⲆᐃ / jk, ΔⵠⲆ / 2);
       ho.globalAlpha = sd;
     }
-    a = this.info === 0 ? ΔΔ[Xr.ⵠΔΔⵠΔⵠᐃ][cf.time] : ΔΔ[Xr.ΔΔⵠΔᐃΔᐃ][cf.time];
+    a = this.info === 0 ? ΔΔ[1087][cf.time] : ΔΔ[1086][cf.time];
     ⲆⲆᐃ = this.ⲆᐃᐃⲆ.ΔΔⲆ * -a.width * this.scale;
     ΔⵠⲆ = this.scale * (this.ⲆᐃᐃⲆ.ΔΔⲆ * -a.height);
     ho.save();
@@ -39560,19 +39560,19 @@
     Jm(ho, a, Co * -ⲆⲆᐃ / 4, -ΔⵠⲆ * Co / 4, ⲆⲆᐃ / 2, ΔⵠⲆ / 2);
     if (this.action & hw.ⲆᐃⲆⵠ) {
       ho.globalAlpha = 0.6 - this.ᐃⲆⲆ.ΔΔⲆ;
-      a = ΔΔ[Xr.ⲆⵠᐃᐃⲆᐃⲆ];
+      a = ΔΔ[1093];
       Jm(ho, a, Co * -ⲆⲆᐃ / ls, -ΔⵠⲆ * Co / $l, ⲆⲆᐃ / 2, ΔⵠⲆ / xj);
       ho.globalAlpha = 1;
     }
     ho.restore();
-    a = os === this.info ? ΔΔ[Xr.ⵠΔⲆⲆᐃΔⵠ][cf.time] : ΔΔ[Xr.ᐃᐃⵠⲆⵠΔΔ][cf.time];
+    a = os === this.info ? ΔΔ[1090][cf.time] : ΔΔ[1089][cf.time];
     ho.save();
     ho.translate(Co * 40, Co * gn);
     ho.rotate(-this.rotate.ΔΔⲆ);
     Jm(ho, a, -ⲆⲆᐃ * Co / Fr, -ΔⵠⲆ * Co / 4, ⲆⲆᐃ / vg, ΔⵠⲆ / 2);
     if (this.action & hw.ⲆᐃⲆⵠ) {
       ho.globalAlpha = 0.6 - this.ᐃⲆⲆ.ΔΔⲆ;
-      a = ΔΔ[Xr.ⲆΔⵠΔⵠⲆΔ];
+      a = ΔΔ[1094];
       Jm(ho, a, -ⲆⲆᐃ * Co / nj, -ΔⵠⲆ * Co / tb, ⲆⲆᐃ / H, ΔⵠⲆ / pq);
       ho.globalAlpha = Hg;
     }
@@ -39584,12 +39584,12 @@
     ho.translate(Xw.ⵠᐃⲆ.x + this.x, Xw.ⵠᐃⲆ.y + this.y);
     ho.rotate(this.angle);
     this.ᐃⲆΔΔᐃ.ᐃⲆΔ();
-    ⵠⵠ = ΔΔ[Xr.ΔᐃᐃⲆⲆ][cf.time];
+    ⵠⵠ = ΔΔ[288][cf.time];
     ⲆⲆᐃ = this.ᐃⲆΔΔᐃ.ΔΔⲆ * -ⵠⵠ.width;
     ΔⵠⲆ = this.ᐃⲆΔΔᐃ.ΔΔⲆ * -ⵠⵠ.height;
     Jm(ho, ⵠⵠ, -ⲆⲆᐃ / pq, -ΔⵠⲆ / rs, ⲆⲆᐃ, ΔⵠⲆ);
     this.ᐃᐃⵠᐃᐃ.ᐃⲆΔ();
-    ⵠⵠ = ΔΔ[Xr.ⲆᐃΔⵠⲆᐃΔ][cf.time];
+    ⵠⵠ = ΔΔ[289][cf.time];
     ⲆⲆᐃ = this.ᐃᐃⵠᐃᐃ.ΔΔⲆ * -ⵠⵠ.width;
     ΔⵠⲆ = this.ᐃᐃⵠᐃᐃ.ΔΔⲆ * -ⵠⵠ.height;
     Jm(ho, ⵠⵠ, -ⲆⲆᐃ / 2, -ΔⵠⲆ / xj, ⲆⲆᐃ, ΔⵠⲆ);
@@ -39610,7 +39610,7 @@
     ho.save();
     ho.translate(Xw.ⵠᐃⲆ.x + this.x + b, Xw.ⵠᐃⲆ.y + this.y + c);
     ho.rotate(this.angle);
-    ⵠⵠ = ΔΔ[Xr.ⵠΔⲆⲆΔ][cf.time];
+    ⵠⵠ = ΔΔ[135][cf.time];
     Jm(ho, ⵠⵠ, -ⵠⵠ.width / vg, -ⵠⵠ.height / as);
     ho.restore();
   }
@@ -39625,7 +39625,7 @@
     }
     this.ⲆᐃᐃⲆ.ᐃⲆΔ();
     this.rotate.ᐃⲆΔ();
-    a = ΔΔ[Xr.ᐃΔⲆⲆΔ][cf.time];
+    a = ΔΔ[450][cf.time];
     ⲆⲆᐃ = this.ⲆᐃᐃⲆ.ΔΔⲆ * -a.width * this.scale;
     ΔⵠⲆ = this.scale * (-a.height * this.ⲆᐃᐃⲆ.ΔΔⲆ);
     Jm(ho, a, -ⲆⲆᐃ / ls, -ΔⵠⲆ / ls, ⲆⲆᐃ / eh, ΔⵠⲆ / 2);
@@ -39634,11 +39634,11 @@
         this.action -= hw.ⲆᐃⲆⵠ;
       }
       ho.globalAlpha = 0.6 - this.ᐃⲆⲆ.ΔΔⲆ;
-      var a = ΔΔ[Xr.ᐃᐃⵠᐃⲆΔΔ];
+      var a = ΔΔ[464];
       Jm(ho, a, -ⲆⲆᐃ / Ct, -ΔⵠⲆ / Ng, ⲆⲆᐃ / 2, ΔⵠⲆ / jk);
       ho.globalAlpha = 1;
     }
-    a = ΔΔ[Xr.ΔᐃΔΔᐃᐃⲆ][cf.time];
+    a = ΔΔ[453][cf.time];
     ⲆⲆᐃ = -a.width * this.ⲆᐃᐃⲆ.ΔΔⲆ * this.scale;
     ΔⵠⲆ = this.scale * (this.ⲆᐃᐃⲆ.ΔΔⲆ * -a.height);
     ho.save();
@@ -39647,19 +39647,19 @@
     Jm(ho, a, -ⲆⲆᐃ * Co / 4, -ΔⵠⲆ * Co / 4, ⲆⲆᐃ / Rl, ΔⵠⲆ / 2);
     if (this.action & hw.ⲆᐃⲆⵠ) {
       ho.globalAlpha = 0.6 - this.ᐃⲆⲆ.ΔΔⲆ;
-      a = ΔΔ[Xr.ⵠΔⲆⲆⵠΔΔ];
+      a = ΔΔ[468];
       Jm(ho, a, -ⲆⲆᐃ * Co / 4, Co * -ΔⵠⲆ / Os, ⲆⲆᐃ / 2, ΔⵠⲆ / 2);
       ho.globalAlpha = 1;
     }
     ho.restore();
-    a = ΔΔ[Xr.ⵠⵠⵠᐃⲆΔⵠ][cf.time];
+    a = ΔΔ[454][cf.time];
     ho.save();
     ho.translate(Co * 60, qh * Co);
     ho.rotate(-this.rotate.ΔΔⲆ);
     Jm(ho, a, Co * -ⲆⲆᐃ / gl, Co * -ΔⵠⲆ / 4, ⲆⲆᐃ / 2, ΔⵠⲆ / 2);
     if (this.action & hw.ⲆᐃⲆⵠ) {
       ho.globalAlpha = 0.6 - this.ᐃⲆⲆ.ΔΔⲆ;
-      a = ΔΔ[Xr.ⵠᐃᐃⲆΔᐃΔ];
+      a = ΔΔ[469];
       Jm(ho, a, Co * -ⲆⲆᐃ / ls, Co * -ΔⵠⲆ / 4, ⲆⲆᐃ / Rl, ΔⵠⲆ / 2);
       ho.globalAlpha = zg;
     }
@@ -39677,7 +39677,7 @@
     }
     this.ⲆᐃᐃⲆ.ᐃⲆΔ();
     this.rotate.ᐃⲆΔ();
-    a = this.info === 0 ? ΔΔ[Xr.ⲆⵠΔᐃⵠ][cf.time] : ΔΔ[Xr.ⵠⲆⲆⵠᐃᐃⲆ][cf.time];
+    a = this.info === 0 ? ΔΔ[232][cf.time] : ΔΔ[1068][cf.time];
     ⲆⲆᐃ = this.scale * (this.ⲆᐃᐃⲆ.ΔΔⲆ * -a.width);
     ΔⵠⲆ = this.scale * (this.ⲆᐃᐃⲆ.ΔΔⲆ * -a.height);
     Jm(ho, a, -ⲆⲆᐃ / nl, -ΔⵠⲆ / 4, ⲆⲆᐃ / xj, ΔⵠⲆ / Lt);
@@ -39686,11 +39686,11 @@
         this.action -= hw.ⲆᐃⲆⵠ;
       }
       ho.globalAlpha = 0.6 - this.ᐃⲆⲆ.ΔΔⲆ;
-      var a = ΔΔ[Xr.ΔⲆⵠⲆⲆΔᐃ];
+      var a = ΔΔ[1077];
       Jm(ho, a, -ⲆⲆᐃ / nl, -ΔⵠⲆ / nl, ⲆⲆᐃ / 2, ΔⵠⲆ / It);
       ho.globalAlpha = 1;
     }
-    a = this.info === 0 ? ΔΔ[Xr.ᐃⵠΔᐃᐃᐃⵠ][cf.time] : ΔΔ[Xr.ΔⲆⲆⵠΔⲆΔ][cf.time];
+    a = this.info === 0 ? ΔΔ[1072][cf.time] : ΔΔ[1071][cf.time];
     ⲆⲆᐃ = this.ⲆᐃᐃⲆ.ΔΔⲆ * -a.width * this.scale;
     ΔⵠⲆ = this.scale * (-a.height * this.ⲆᐃᐃⲆ.ΔΔⲆ);
     ho.save();
@@ -39699,19 +39699,19 @@
     Jm(ho, a, Co * -ⲆⲆᐃ / 4, Co * -ΔⵠⲆ / 4, ⲆⲆᐃ / 2, ΔⵠⲆ / 2);
     if (this.action & hw.ⲆᐃⲆⵠ) {
       ho.globalAlpha = 0.6 - this.ᐃⲆⲆ.ΔΔⲆ;
-      a = ΔΔ[Xr.ΔⲆᐃⵠᐃᐃⵠ];
+      a = ΔΔ[1078];
       Jm(ho, a, Co * -ⲆⲆᐃ / Vn, -ΔⵠⲆ * Co / Ct, ⲆⲆᐃ / 2, ΔⵠⲆ / H);
       ho.globalAlpha = 1;
     }
     ho.restore();
-    a = mj === this.info ? ΔΔ[Xr.ᐃⲆⵠⵠᐃⲆΔ][cf.time] : ΔΔ[Xr.ⵠⵠⲆᐃⵠⵠⵠ][cf.time];
+    a = mj === this.info ? ΔΔ[1075][cf.time] : ΔΔ[1074][cf.time];
     ho.save();
     ho.translate(Co * 40, Co * 10);
     ho.rotate(-this.rotate.ΔΔⲆ);
     Jm(ho, a, -ⲆⲆᐃ * Co / 4, Co * -ΔⵠⲆ / Gi, ⲆⲆᐃ / Hj, ΔⵠⲆ / Ul);
     if (this.action & hw.ⲆᐃⲆⵠ) {
       ho.globalAlpha = 0.6 - this.ᐃⲆⲆ.ΔΔⲆ;
-      a = ΔΔ[Xr.ⲆⲆᐃⲆΔΔΔ];
+      a = ΔΔ[1079];
       Jm(ho, a, -ⲆⲆᐃ * Co / 4, -ΔⵠⲆ * Co / Ls, ⲆⲆᐃ / 2, ΔⵠⲆ / Vg);
       ho.globalAlpha = Hg;
     }
@@ -39739,7 +39739,7 @@
     ho.save();
     ho.translate(Xw.ⵠᐃⲆ.x + this.x, Xw.ⵠᐃⲆ.y + this.y);
     ho.rotate(this.angle);
-    c = Mg === this.info ? ΔΔ[Xr.ⵠⵠⵠⵠⲆ][cf.time] : ΔΔ[Xr.ΔΔⲆⲆⲆΔᐃ][cf.time];
+    c = Mg === this.info ? ΔΔ[887][cf.time] : ΔΔ[886][cf.time];
     ⲆⲆᐃ = this.ⲆᐃᐃⲆ.ΔΔⲆ * -c.width;
     ΔⵠⲆ = this.ⲆᐃᐃⲆ.ΔΔⲆ * -c.height;
     Jm(ho, c, -ⲆⲆᐃ / 2, -ΔⵠⲆ / Hj, ⲆⲆᐃ, ΔⵠⲆ);
@@ -39748,7 +39748,7 @@
         this.action -= hw.ⲆᐃⲆⵠ;
       }
       ho.globalAlpha = 0.6 - this.ᐃⲆⲆ.ΔΔⲆ;
-      var c = ΔΔ[Xr.ΔⲆΔⵠᐃᐃⲆ];
+      var c = ΔΔ[888];
       Jm(ho, c, -ⲆⲆᐃ / 2, -ΔⵠⲆ / 2, ⲆⲆᐃ, ΔⵠⲆ);
       ho.globalAlpha = Tl;
     }
@@ -39757,7 +39757,7 @@
         this.action -= hw.ᐃᐃⵠⵠᐃ;
       }
       ho.globalAlpha = 0.6 - this.ⵠᐃᐃᐃⵠ.ΔΔⲆ;
-      c = ΔΔ[Xr.ⵠΔⵠⵠⲆⲆⲆ];
+      c = ΔΔ[891];
       Jm(ho, c, -ⲆⲆᐃ / Ul, -ΔⵠⲆ / 2, ⲆⲆᐃ, ΔⵠⲆ);
       ho.globalAlpha = pu;
     }
@@ -39767,19 +39767,19 @@
     ho.rotate(this.angle + b);
     ho.translate(55, 0);
     ho.rotate(a);
-    c = this.info === os ? ΔΔ[Xr.ᐃⲆⲆᐃΔⵠᐃ][cf.time] : ΔΔ[Xr.ⵠⵠᐃᐃⵠⲆᐃ][cf.time];
+    c = this.info === os ? ΔΔ[894][cf.time] : ΔΔ[896][cf.time];
     ⲆⲆᐃ = -c.width * this.ᐃⲆⲆΔⲆⲆᐃ.ΔΔⲆ;
     ΔⵠⲆ = -c.height * this.ᐃⲆⲆΔⲆⲆᐃ.ΔΔⲆ;
     Jm(ho, c, -ⲆⲆᐃ / 2, -ΔⵠⲆ / jk, ⲆⲆᐃ, ΔⵠⲆ);
     if (this.action & hw.ⲆᐃⲆⵠ) {
       ho.globalAlpha = 0.6 - this.ᐃⲆⲆ.ΔΔⲆ;
-      c = ΔΔ[Xr.ᐃⲆⵠᐃᐃΔⲆ];
+      c = ΔΔ[889];
       Jm(ho, c, -ⲆⲆᐃ / 2, -ΔⵠⲆ / Pn, ⲆⲆᐃ, ΔⵠⲆ);
       ho.globalAlpha = 1;
     }
     if (this.action & hw.ᐃᐃⵠⵠᐃ) {
       ho.globalAlpha = 0.6 - this.ⵠᐃᐃᐃⵠ.ΔΔⲆ;
-      c = ΔΔ[Xr.ΔᐃⵠΔΔⲆⵠ];
+      c = ΔΔ[892];
       Jm(ho, c, -ⲆⲆᐃ / 2, -ΔⵠⲆ / 2, ⲆⲆᐃ, ΔⵠⲆ);
       ho.globalAlpha = au;
     }
@@ -39789,19 +39789,19 @@
     ho.rotate(this.angle + a + b);
     ho.translate(55, Yh);
     ho.rotate(a);
-    c = this.info === 0 ? ΔΔ[Xr.ΔⲆᐃⲆΔᐃΔ][cf.time] : ΔΔ[Xr.ΔⵠᐃⵠᐃⲆⲆ][cf.time];
+    c = this.info === 0 ? ΔΔ[895][cf.time] : ΔΔ[897][cf.time];
     ⲆⲆᐃ = -c.width * this.ΔᐃⲆΔⵠΔᐃ.ΔΔⲆ;
     ΔⵠⲆ = this.ΔᐃⲆΔⵠΔᐃ.ΔΔⲆ * -c.height;
     Jm(ho, c, -ⲆⲆᐃ / 2, -ΔⵠⲆ / 2, ⲆⲆᐃ, ΔⵠⲆ);
     if (this.action & hw.ⲆᐃⲆⵠ) {
       ho.globalAlpha = 0.6 - this.ᐃⲆⲆ.ΔΔⲆ;
-      c = ΔΔ[Xr.ⲆΔⲆⲆᐃⵠΔ];
+      c = ΔΔ[890];
       Jm(ho, c, -ⲆⲆᐃ / 2, -ΔⵠⲆ / xj, ⲆⲆᐃ, ΔⵠⲆ);
       ho.globalAlpha = 1;
     }
     if (this.action & hw.ᐃᐃⵠⵠᐃ) {
       ho.globalAlpha = 0.6 - this.ⵠᐃᐃᐃⵠ.ΔΔⲆ;
-      c = ΔΔ[Xr.ᐃⲆⵠᐃᐃᐃⲆ];
+      c = ΔΔ[893];
       Jm(ho, c, -ⲆⲆᐃ / 2, -ΔⵠⲆ / 2, ⲆⲆᐃ, ΔⵠⲆ);
       ho.globalAlpha = 1;
     }
@@ -39823,9 +39823,9 @@
       c = Zj;
     }
     if (this.action == 2) {
-      ⵠⵠ = ΔΔ[Xr.ⲆⲆⵠΔᐃᐃⲆ][cf.time];
+      ⵠⵠ = ΔΔ[407][cf.time];
     } else {
-      ⵠⵠ = ΔΔ[Xr.ⲆⲆᐃⵠᐃⲆⵠ][cf.time];
+      ⵠⵠ = ΔΔ[119][cf.time];
     }
     Jm(ho, ⵠⵠ, -ⵠⵠ.width / Vg + b, -ⵠⵠ.height / 2 + c);
     ho.restore();
@@ -39849,18 +39849,18 @@
       ho.rotate(this.angle);
       this.ᐃᐃᐃᐃ.ᐃⲆΔ();
       if (this.info & 16) {
-        var f = ΔΔ[Xr.ΔᐃΔᐃᐃⲆⵠ][cf.time];
+        var f = ΔΔ[985][cf.time];
       } else {
-        f = ΔΔ[Xr.ᐃⲆⵠᐃᐃⵠᐃ][cf.time];
+        f = ΔΔ[210][cf.time];
       }
       var g = this.ᐃᐃᐃᐃ.ΔΔⲆ * -f.width;
       var h = this.ᐃᐃᐃᐃ.ΔΔⲆ * -f.height;
       Jm(ho, f, -g / Lt + c, -h / Lt + d, g, h);
     } else {
       if (this.info & 16) {
-        f = ΔΔ[Xr.ΔⵠⲆΔΔᐃᐃ][cf.time];
+        f = ΔΔ[986][cf.time];
       } else {
-        f = ΔΔ[Xr.ᐃᐃΔΔᐃᐃΔ][cf.time];
+        f = ΔΔ[211][cf.time];
       }
       ho.translate(0, f.height / 2);
       Jm(ho, f, c - f.width / 2, -f.height + d);
@@ -39924,13 +39924,13 @@
     }
     ho.translate(Xw.ⵠᐃⲆ.x + this.x + b, Xw.ⵠᐃⲆ.y + this.y + c);
     ho.rotate(this.angle);
-    ⵠⵠ = ΔΔ[Xr.ΔⵠᐃⲆⵠ][cf.time];
+    ⵠⵠ = ΔΔ[155][cf.time];
     Jm(ho, ⵠⵠ, -ⵠⵠ.width / 2, -ⵠⵠ.height / 2);
     if (this.info & 255 && ~this.info & 65280) {
       this.rotate = (this.rotate + _w * 3) % (Math.PI * xj);
     }
     ho.rotate(this.rotate);
-    ⵠⵠ = ΔΔ[Xr.ᐃᐃΔΔᐃᐃᐃ][cf.time];
+    ⵠⵠ = ΔΔ[1206][cf.time];
     Jm(ho, ⵠⵠ, -ⵠⵠ.width / xj, -ⵠⵠ.height / rs);
     ho.restore();
   }
@@ -39953,9 +39953,9 @@
       ho.rotate(this.angle);
       this.ᐃᐃᐃᐃ.ᐃⲆΔ();
       if (this.info & 16) {
-        var f = ΔΔ[Xr.ⲆᐃⲆⵠⵠΔⵠ][cf.time];
+        var f = ΔΔ[668][cf.time];
       } else {
-        f = ΔΔ[Xr.ⲆΔᐃΔΔ][cf.time];
+        f = ΔΔ[132][cf.time];
       }
       var g = -f.width * this.ᐃᐃᐃᐃ.ΔΔⲆ;
       var h = this.ᐃᐃᐃᐃ.ΔΔⲆ * -f.height;
@@ -39963,9 +39963,9 @@
     } else {
       this.ΔᐃⲆᐃᐃᐃᐃ.ᐃⲆΔ();
       if (this.info & 16) {
-        f = ΔΔ[Xr.ΔΔⵠⲆⲆΔⲆ][cf.time];
+        f = ΔΔ[638][cf.time];
       } else {
-        f = ΔΔ[Xr.ⲆΔΔᐃⵠ][cf.time];
+        f = ΔΔ[134][cf.time];
       }
       ho.translate(mj, f.height / 2);
       ho.rotate(this.ΔᐃⲆᐃᐃᐃᐃ.ΔΔⲆ);
@@ -39990,14 +39990,14 @@
         c = In;
       }
       if (this.info & 16) {
-        var d = ΔΔ[Xr.ⵠΔΔⲆⵠⵠⵠ][cf.time];
+        var d = ΔΔ[623][cf.time];
       } else {
-        d = ΔΔ[Xr.ΔΔᐃⵠΔᐃⲆ][cf.time];
+        d = ΔΔ[287][cf.time];
       }
       Jm(ho, d, -d.width / 2 + b, -d.width / 2 + c);
       ho.restore();
       for (var e = this.info & 15, f = ig; e > f; f++) {
-        this.Δᐃⵠⵠ[f].ᐃⵠᐃⵠ(Xr.ⵠⵠⵠⲆΔ);
+        this.Δᐃⵠⵠ[f].ᐃⵠᐃⵠ(294);
       }
     }
   }
@@ -40006,7 +40006,7 @@
     ho.translate(Xw.ⵠᐃⲆ.x + this.x, Xw.ⵠᐃⲆ.y + this.y);
     ho.rotate(this.angle);
     this.ᐃᐃⵠᐃᐃ.ᐃⲆΔ();
-    ⵠⵠ = ΔΔ[Xr.ᐃᐃΔⲆᐃᐃᐃ][cf.time];
+    ⵠⵠ = ΔΔ[526][cf.time];
     ⲆⲆᐃ = -ⵠⵠ.width * this.ᐃᐃⵠᐃᐃ.ΔΔⲆ;
     ΔⵠⲆ = -ⵠⵠ.height * this.ᐃᐃⵠᐃᐃ.ΔΔⲆ;
     Jm(ho, ⵠⵠ, -ⲆⲆᐃ / Rl, -ΔⵠⲆ / Ul, ⲆⲆᐃ, ΔⵠⲆ);
@@ -40025,11 +40025,11 @@
             var x = 2147483648;
             var y = ((h * 1000 + q) * 1103515245 + 12345) % x / x;
             if (y < 0.2) {
-              y = Math.floor(y * Fs * ΔΔ[Xr.ᐃⲆᐃⲆ][cf.time][t.ΔᐃⲆⵠⵠΔⲆ].length);
-              w = ΔΔ[Xr.ᐃⲆᐃⲆ][cf.time][t.ΔᐃⲆⵠⵠΔⲆ][y];
+              y = Math.floor(y * Fs * ΔΔ[1025][cf.time][t.ΔᐃⲆⵠⵠΔⲆ].length);
+              w = ΔΔ[1025][cf.time][t.ΔᐃⲆⵠⵠΔⲆ][y];
               Jm(ho, w, Xw.ⵠᐃⲆ.x + t.x - w.width / (nj * ΔⵠⲆⵠⲆ), Xw.ⵠᐃⲆ.y + t.y - w.height / (ΔⵠⲆⵠⲆ * 4), w.width / (Pn * ΔⵠⲆⵠⲆ), w.height / (xq * ΔⵠⲆⵠⲆ));
             } else if (fl !== t.ᐃᐃⲆⲆⵠⵠΔ) {
-              w = ΔΔ[Xr.ⲆⵠⵠⲆⵠᐃⲆ][cf.time];
+              w = ΔΔ[1026][cf.time];
               var z = (vp + h % 2 * 30) % 60;
               ho.globalAlpha = z < 30 ? z / 30 : 1 - (z - 30) / 30;
               Jm(ho, w, Xw.ⵠᐃⲆ.x + t.x - w.width / (ΔⵠⲆⵠⲆ * 4), Xw.ⵠᐃⲆ.y + t.y - w.height / (ΔⵠⲆⵠⲆ * 4) - 30 + z, w.width / (ΔⵠⲆⵠⲆ * 2), w.height / (Ug * ΔⵠⲆⵠⲆ));
@@ -40059,13 +40059,13 @@
     }
     ho.translate(Xw.ⵠᐃⲆ.x + this.x + b, Xw.ⵠᐃⲆ.y + this.y + c);
     ho.rotate(this.angle);
-    ⵠⵠ = ΔΔ[Xr.ⲆΔᐃⵠⲆ][cf.time];
+    ⵠⵠ = ΔΔ[154][cf.time];
     Jm(ho, ⵠⵠ, -ⵠⵠ.width / 2, -ⵠⵠ.height / Lt);
     if (this.info & 255 && ~this.info & 65280) {
       this.rotate = (this.rotate + I * _w) % (Math.PI * rs);
     }
     ho.rotate(this.rotate);
-    ⵠⵠ = ΔΔ[Xr.ΔⲆΔⵠᐃᐃⵠ][cf.time];
+    ⵠⵠ = ΔΔ[1202][cf.time];
     Jm(ho, ⵠⵠ, -ⵠⵠ.width / vg, -ⵠⵠ.height / 2);
     ho.restore();
   }
@@ -40073,8 +40073,8 @@
     ho.save();
     ho.translate(Xw.ⵠᐃⲆ.x + this.x, Xw.ⵠᐃⲆ.y + this.y);
     ho.rotate(this.angle);
-    if (a === Xr.ΔΔΔΔΔ) {
-      a = Xr.Δⵠᐃᐃⵠ;
+    if (a === 854) {
+      a = 250;
       this.info = 36;
     }
     ⵠⵠ = ΔΔ[a][this.info][cf.time];
@@ -40099,7 +40099,7 @@
     this.ᐃⵠΔΔΔᐃⲆ = Math.min(1, this.ᐃⵠΔΔΔᐃⲆ + _w * 2);
     ho.globalAlpha = this.ᐃⵠΔΔΔᐃⲆ * Math.min(ie, Math.max(wj, ᐃⵠΔⲆ.ΔΔⵠΔ(this, this.r) / 80));
     this.ⲆᐃᐃⲆ.ᐃⲆΔ();
-    ⵠⵠ = ΔΔ[Xr.ⵠⵠⲆᐃΔ][cf.time][this.ⲆⵠⵠΔⵠ];
+    ⵠⵠ = ΔΔ[247][cf.time][this.ⲆⵠⵠΔⵠ];
     if (this.ⲆⵠⵠΔⵠ < 2) {
       ⲆⲆᐃ = this.ⲆᐃᐃⲆ.ΔΔⲆ * -ⵠⵠ.width;
       ΔⵠⲆ = -ⵠⵠ.height * this.ⲆᐃᐃⲆ.ΔΔⲆ;
@@ -40131,7 +40131,7 @@
         c = Bb;
       }
       this.ᐃᐃᐃᐃ.ᐃⲆΔ();
-      var d = ΔΔ[Xr.ΔⵠⵠᐃⲆᐃΔ][cf.time];
+      var d = ΔΔ[115][cf.time];
       var e = -d.width * this.ᐃᐃᐃᐃ.ΔΔⲆ;
       var f = -d.height * this.ᐃᐃᐃᐃ.ΔΔⲆ;
       Jm(ho, d, -e / 2 + b, -f / 2 + c, e, f);
@@ -40156,17 +40156,17 @@
     ho.translate(Xw.ⵠᐃⲆ.x + this.x + b, Xw.ⵠᐃⲆ.y + this.y + c);
     ho.save();
     ho.rotate(this.angle);
-    ⵠⵠ = ΔΔ[Xr.ⲆⲆⵠⵠᐃ][cf.time];
+    ⵠⵠ = ΔΔ[151][cf.time];
     Jm(ho, ⵠⵠ, -ⵠⵠ.width / 2, -ⵠⵠ.height / 2);
     ho.restore();
     ho.save();
     ho.rotate(this.ᐃⲆᐃΔᐃⲆᐃ);
-    ⵠⵠ = ΔΔ[Xr.ᐃⵠΔⵠⲆⲆᐃ][cf.time];
+    ⵠⵠ = ΔΔ[528][cf.time];
     Jm(ho, ⵠⵠ, -ⵠⵠ.width / Lt, -ⵠⵠ.height / lr);
     ho.restore();
     ho.save();
     ho.rotate(this.ⵠΔⵠᐃΔΔΔ);
-    ⵠⵠ = ΔΔ[Xr.ΔᐃⵠⵠᐃⲆⲆ][cf.time];
+    ⵠⵠ = ΔΔ[527][cf.time];
     Jm(ho, ⵠⵠ, -ⵠⵠ.width / rs, -ⵠⵠ.height / 2);
     ho.restore();
     ho.restore();
@@ -40196,7 +40196,7 @@
     ho.save();
     ho.translate(Xw.ⵠᐃⲆ.x + this.x, Xw.ⵠᐃⲆ.y + this.y);
     ho.rotate(this.angle);
-    a = Bb === this.info ? ΔΔ[Xr.ᐃΔᐃⵠΔ][cf.time] : ΔΔ[Xr.ⲆⵠⲆᐃⵠⲆⵠ][cf.time];
+    a = Bb === this.info ? ΔΔ[1042][cf.time] : ΔΔ[1044][cf.time];
     ⲆⲆᐃ = -a.width * this.ⲆᐃᐃⲆ.ΔΔⲆ;
     ΔⵠⲆ = this.ⲆᐃᐃⲆ.ΔΔⲆ * -a.height;
     Jm(ho, a, -ⲆⲆᐃ / Vh, -ΔⵠⲆ / 2, ⲆⲆᐃ, ΔⵠⲆ);
@@ -40205,7 +40205,7 @@
         this.action -= hw.ⲆᐃⲆⵠ;
       }
       ho.globalAlpha = 0.6 - this.ᐃⲆⲆ.ΔΔⲆ;
-      var a = ΔΔ[Xr.ᐃᐃᐃΔΔⲆᐃ];
+      var a = ΔΔ[1045];
       Jm(ho, a, -ⲆⲆᐃ / jk, -ΔⵠⲆ / 2, ⲆⲆᐃ, ΔⵠⲆ);
       ho.globalAlpha = 1;
     }
@@ -40230,18 +40230,18 @@
       ho.rotate(this.angle);
       this.ᐃᐃᐃᐃ.ᐃⲆΔ();
       if (this.info & 16) {
-        var f = ΔΔ[Xr.ΔⵠΔⵠⲆΔᐃ][cf.time];
+        var f = ΔΔ[953][cf.time];
       } else {
-        f = ΔΔ[Xr.ⵠⲆᐃⲆᐃⵠᐃ][cf.time];
+        f = ΔΔ[204][cf.time];
       }
       var g = this.ᐃᐃᐃᐃ.ΔΔⲆ * -f.width;
       var h = -f.height * this.ᐃᐃᐃᐃ.ΔΔⲆ;
       Jm(ho, f, -g / Vh + c, -h / as + d, g, h);
     } else {
       if (this.info & 16) {
-        f = ΔΔ[Xr.ᐃᐃᐃⲆⲆⲆΔ][cf.time];
+        f = ΔΔ[954][cf.time];
       } else {
-        f = ΔΔ[Xr.ⲆᐃΔⵠᐃ][cf.time];
+        f = ΔΔ[205][cf.time];
       }
       ho.translate(0, f.height / vg);
       Jm(ho, f, c - f.width / xj, -f.height + d);
@@ -40251,7 +40251,7 @@
   function Op() {
     if (this.info !== 10) {
       for (var a = this.info & 15, b = 0; b < a; b++) {
-        this.Δᐃⵠⵠ[b].ᐃⵠᐃⵠ(Xr.ⲆᐃΔΔⵠ, this.x, this.y);
+        this.Δᐃⵠⵠ[b].ᐃⵠᐃⵠ(207, this.x, this.y);
       }
       ho.save();
       ho.translate(Xw.ⵠᐃⲆ.x + this.x, Xw.ⵠᐃⲆ.y + this.y);
@@ -40268,9 +40268,9 @@
         e = 0;
       }
       if (this.info & 16) {
-        var f = ΔΔ[Xr.ⵠⲆⲆᐃΔᐃᐃ][cf.time];
+        var f = ΔΔ[958][cf.time];
       } else {
-        f = ΔΔ[Xr.ⲆⵠᐃᐃⲆⲆⲆ][cf.time];
+        f = ΔΔ[957][cf.time];
       }
       Jm(ho, f, -f.width / 2 + d, -f.width / It + e);
       ho.restore();
@@ -40295,18 +40295,18 @@
       ho.rotate(this.angle);
       this.ᐃᐃᐃᐃ.ᐃⲆΔ();
       if (this.info & 16) {
-        var f = ΔΔ[Xr.ᐃⵠⲆⵠΔΔΔ][cf.time];
+        var f = ΔΔ[838][cf.time];
       } else {
-        f = ΔΔ[Xr.ⲆᐃⵠΔⵠⲆⵠ][cf.time];
+        f = ΔΔ[191][cf.time];
       }
       var g = this.ᐃᐃᐃᐃ.ΔΔⲆ * -f.width;
       var h = -f.height * this.ᐃᐃᐃᐃ.ΔΔⲆ;
       Jm(ho, f, -g / It + c, -h / Ul + d, g, h);
     } else {
       if (this.info & 16) {
-        f = ΔΔ[Xr.ⲆᐃΔΔᐃΔⵠ][cf.time];
+        f = ΔΔ[839][cf.time];
       } else {
-        f = ΔΔ[Xr.ⲆᐃΔᐃΔ][cf.time];
+        f = ΔΔ[192][cf.time];
       }
       ho.translate(0, f.height / 2);
       Jm(ho, f, c - f.width / H, -f.height + d);
@@ -40332,13 +40332,13 @@
     }
     ho.translate(Xw.ⵠᐃⲆ.x + this.x + b, Xw.ⵠᐃⲆ.y + this.y + c);
     ho.rotate(this.angle);
-    ⵠⵠ = ΔΔ[Xr.ΔⲆⵠⵠⵠ][cf.time];
+    ⵠⵠ = ΔΔ[156][cf.time];
     Jm(ho, ⵠⵠ, -ⵠⵠ.width / 2, -ⵠⵠ.height / 2);
     if (this.info & 255 && ~this.info & 65280) {
       this.rotate = (this.rotate + _w * 3) % (Math.PI * 2);
     }
     ho.rotate(this.rotate);
-    ⵠⵠ = ΔΔ[Xr.ⲆⵠⵠⲆᐃᐃΔ][cf.time];
+    ⵠⵠ = ΔΔ[1210][cf.time];
     Jm(ho, ⵠⵠ, -ⵠⵠ.width / jk, -ⵠⵠ.height / 2);
     ho.restore();
   }
@@ -40353,7 +40353,7 @@
     }
     this.ⲆᐃᐃⲆ.ᐃⲆΔ();
     this.rotate.ᐃⲆΔ();
-    a = ΔΔ[Xr.ᐃⵠΔⵠⵠ][cf.time];
+    a = ΔΔ[449][cf.time];
     ⲆⲆᐃ = this.scale * (-a.width * this.ⲆᐃᐃⲆ.ΔΔⲆ);
     ΔⵠⲆ = this.scale * (-a.height * this.ⲆᐃᐃⲆ.ΔΔⲆ);
     Jm(ho, a, -ⲆⲆᐃ / Ul, -ΔⵠⲆ / Ul, ⲆⲆᐃ, ΔⵠⲆ);
@@ -40362,11 +40362,11 @@
         this.action -= hw.ⲆᐃⲆⵠ;
       }
       ho.globalAlpha = 0.6 - this.ᐃⲆⲆ.ΔΔⲆ;
-      var a = ΔΔ[Xr.ⵠⲆⵠᐃⲆⵠᐃ];
+      var a = ΔΔ[463];
       Jm(ho, a, -ⲆⲆᐃ / as, -ΔⵠⲆ / jk, ⲆⲆᐃ, ΔⵠⲆ);
       ho.globalAlpha = wt;
     }
-    a = ΔΔ[Xr.ᐃⵠⵠⲆΔⵠΔ][cf.time];
+    a = ΔΔ[451][cf.time];
     ⲆⲆᐃ = this.scale * (this.ⲆᐃᐃⲆ.ΔΔⲆ * -a.width);
     ΔⵠⲆ = this.scale * (this.ⲆᐃᐃⲆ.ΔΔⲆ * -a.height);
     ho.save();
@@ -40375,19 +40375,19 @@
     Jm(ho, a, Co * -Yg, Co * -40, ⲆⲆᐃ, ΔⵠⲆ);
     if (this.action & hw.ⲆᐃⲆⵠ) {
       ho.globalAlpha = 0.6 - this.ᐃⲆⲆ.ΔΔⲆ;
-      a = ΔΔ[Xr.ΔᐃΔΔΔΔᐃ];
+      a = ΔΔ[466];
       Jm(ho, a, Co * -10, Co * -40, ⲆⲆᐃ, ΔⵠⲆ);
       ho.globalAlpha = gs;
     }
     ho.restore();
-    a = ΔΔ[Xr.ᐃᐃΔⵠΔᐃⵠ][cf.time];
+    a = ΔΔ[452][cf.time];
     ho.save();
     ho.translate(Co * 30, Co * 70);
     ho.rotate(-this.rotate.ΔΔⲆ);
     Jm(ho, a, Co * Ch - ⲆⲆᐃ, Co * -40, ⲆⲆᐃ, ΔⵠⲆ);
     if (this.action & hw.ⲆᐃⲆⵠ) {
       ho.globalAlpha = 0.6 - this.ᐃⲆⲆ.ΔΔⲆ;
-      a = ΔΔ[Xr.ⲆⵠΔⲆΔᐃΔ];
+      a = ΔΔ[467];
       Jm(ho, a, J * Co - ⲆⲆᐃ, Co * -40, ⲆⲆᐃ, ΔⵠⲆ);
       ho.globalAlpha = Te;
     }
@@ -40403,12 +40403,12 @@
     this.ⲆᐃᐃⲆ.ᐃⲆΔ();
     this.rotate.ᐃⲆΔ();
     this.ⲆⲆⵠᐃ = a < 350 ? Math.max(0, this.ⲆⲆⵠᐃ - _w * 2.2) : Math.min(og, this.ⲆⲆⵠᐃ + _w * 2.2);
-    b = this.info & 1 ? ΔΔ[Xr.ⲆᐃᐃᐃΔⵠᐃ][cf.time] : ΔΔ[Xr.ⲆᐃⲆⲆΔⵠΔ][cf.time];
+    b = this.info & 1 ? ΔΔ[1114][cf.time] : ΔΔ[1113][cf.time];
     ⲆⲆᐃ = this.scale * (-b.width * this.ⲆᐃᐃⲆ.ΔΔⲆ);
     ΔⵠⲆ = this.scale * (this.ⲆᐃᐃⲆ.ΔΔⲆ * -b.height);
     ho.globalAlpha = 1 - this.ⲆⲆⵠᐃ;
     Jm(ho, b, -ⲆⲆᐃ / 4, -ΔⵠⲆ / 4, ⲆⲆᐃ / Rl, ΔⵠⲆ / 2);
-    b = (this.info & 1) === ya ? ΔΔ[Xr.ⵠᐃⲆⲆΔ][cf.time] : ΔΔ[Xr.ⵠⵠⲆΔᐃⵠⲆ][cf.time];
+    b = (this.info & 1) === ya ? ΔΔ[235][cf.time] : ΔΔ[1098][cf.time];
     ⲆⲆᐃ = this.scale * (-b.width * this.ⲆᐃᐃⲆ.ΔΔⲆ);
     ΔⵠⲆ = this.ⲆᐃᐃⲆ.ΔΔⲆ * -b.height * this.scale;
     ho.globalAlpha = this.ⲆⲆⵠᐃ;
@@ -40418,18 +40418,18 @@
         this.action -= hw.ⲆᐃⲆⵠ;
       }
       ho.globalAlpha = (Hg - this.ⲆⲆⵠᐃ) * (0.6 - this.ᐃⲆⲆ.ΔΔⲆ);
-      var b = ΔΔ[Xr.ⲆⲆⲆⲆⲆᐃᐃ];
+      var b = ΔΔ[1115];
       ⲆⲆᐃ = this.ⲆᐃᐃⲆ.ΔΔⲆ * -b.width * this.scale;
       ΔⵠⲆ = -b.height * this.ⲆᐃᐃⲆ.ΔΔⲆ * this.scale;
       Jm(ho, b, -ⲆⲆᐃ / Ct, -ΔⵠⲆ / Ls, ⲆⲆᐃ / 2, ΔⵠⲆ / Ob);
       ho.globalAlpha = (0.6 - this.ᐃⲆⲆ.ΔΔⲆ) * this.ⲆⲆⵠᐃ;
-      b = ΔΔ[Xr.ᐃⲆⲆⵠⲆⵠⲆ];
+      b = ΔΔ[1107];
       ⲆⲆᐃ = this.scale * (this.ⲆᐃᐃⲆ.ΔΔⲆ * -b.width);
       ΔⵠⲆ = -b.height * this.ⲆᐃᐃⲆ.ΔΔⲆ * this.scale;
       Jm(ho, b, -ⲆⲆᐃ / Pe, -ΔⵠⲆ / Fr, ⲆⲆᐃ / 2, ΔⵠⲆ / 2);
       ho.globalAlpha = 1;
     }
-    b = Da === (this.info & 1) ? ΔΔ[Xr.ᐃⲆᐃΔⲆᐃΔ][cf.time] : ΔΔ[Xr.ⲆⲆᐃΔⵠΔᐃ][cf.time];
+    b = Da === (this.info & 1) ? ΔΔ[1102][cf.time] : ΔΔ[1101][cf.time];
     ⲆⲆᐃ = this.ⲆᐃᐃⲆ.ΔΔⲆ * -b.width * this.scale;
     ΔⵠⲆ = this.scale * (this.ⲆᐃᐃⲆ.ΔΔⲆ * -b.height);
     ho.save();
@@ -40439,12 +40439,12 @@
     Jm(ho, b, Co * -ⲆⲆᐃ / ba, Co * -ΔⵠⲆ / Pl, ⲆⲆᐃ / 2, ΔⵠⲆ / 2);
     if (this.action & hw.ⲆᐃⲆⵠ) {
       ho.globalAlpha = (0.6 - this.ᐃⲆⲆ.ΔΔⲆ) * this.ⲆⲆⵠᐃ;
-      b = ΔΔ[Xr.ⲆⲆⵠᐃᐃᐃⲆ];
+      b = ΔΔ[1108];
       Jm(ho, b, Co * -ⲆⲆᐃ / 4, -ΔⵠⲆ * Co / 4, ⲆⲆᐃ / Ug, ΔⵠⲆ / as);
       ho.globalAlpha = 1;
     }
     ho.restore();
-    b = this.info & 1 ? ΔΔ[Xr.ᐃΔΔΔⵠⲆᐃ][cf.time] : ΔΔ[Xr.ⲆⲆⵠΔᐃⲆⲆ][cf.time];
+    b = this.info & 1 ? ΔΔ[1104][cf.time] : ΔΔ[1105][cf.time];
     ho.save();
     ho.translate(Co * 20, Co * eu);
     ho.rotate(-this.rotate.ΔΔⲆ);
@@ -40452,7 +40452,7 @@
     Jm(ho, b, -ⲆⲆᐃ * Co / $i, Co * -ΔⵠⲆ / Pe, ⲆⲆᐃ / 2, ΔⵠⲆ / 2);
     if (this.action & hw.ⲆᐃⲆⵠ) {
       ho.globalAlpha = this.ⲆⲆⵠᐃ * (0.6 - this.ᐃⲆⲆ.ΔΔⲆ);
-      b = ΔΔ[Xr.ΔⵠⵠᐃⵠΔᐃ];
+      b = ΔΔ[1109];
       Jm(ho, b, -ⲆⲆᐃ * Co / gl, Co * -ΔⵠⲆ / 4, ⲆⲆᐃ / lr, ΔⵠⲆ / 2);
       ho.globalAlpha = wt;
     }
@@ -40474,12 +40474,12 @@
       } else {
         c = c > 0.8 ? (1 - c) * 5 : Hg;
       }
-      a = ΔΔ[Xr.ⵠᐃⵠⵠᐃⲆⲆ][cf.time];
+      a = ΔΔ[1150][cf.time];
       ⲆⲆᐃ = -a.width * this.ⲆᐃᐃⲆ.ΔΔⲆ;
       ΔⵠⲆ = this.ⲆᐃᐃⲆ.ΔΔⲆ * -a.height;
       ho.globalAlpha = c;
       Jm(ho, a, -ⲆⲆᐃ / nj, -ΔⵠⲆ / es, ⲆⲆᐃ / Rl, ΔⵠⲆ / eh);
-      b = ΔΔ[Xr.ᐃⲆᐃⲆᐃⵠⲆ];
+      b = ΔΔ[1151];
     }
     if (this.ⵠⲆΔⲆⲆ >= 0.9) {
       var c;
@@ -40488,12 +40488,12 @@
       } else {
         c = Xn;
       }
-      a = ΔΔ[Xr.ᐃⵠⲆᐃⵠΔΔ][cf.time];
+      a = ΔΔ[1152][cf.time];
       ⲆⲆᐃ = this.ⲆᐃᐃⲆ.ΔΔⲆ * -a.width;
       ΔⵠⲆ = this.ⲆᐃᐃⲆ.ΔΔⲆ * -a.height;
       ho.globalAlpha = c;
       Jm(ho, a, -ⲆⲆᐃ / es, -ΔⵠⲆ / Ng, ⲆⲆᐃ / xq, ΔⵠⲆ / It);
-      b = ΔΔ[Xr.ⲆⵠⲆΔΔⲆⵠ];
+      b = ΔΔ[1153];
     }
     if (this.action & hw.ⲆᐃⲆⵠ && b !== undefined) {
       if (this.ᐃⲆⲆ.ᐃⲆΔ() && this.ᐃⲆⲆ.ⵠᐃⵠ == C) {
@@ -40557,18 +40557,18 @@
       ho.rotate(this.angle);
       this.ᐃᐃᐃᐃ.ᐃⲆΔ();
       if (this.info & 16) {
-        var f = ΔΔ[Xr.ⲆⲆΔᐃᐃᐃᐃ][cf.time];
+        var f = ΔΔ[849][cf.time];
       } else {
-        f = ΔΔ[Xr.ⵠᐃΔⲆⵠⲆⲆ][cf.time];
+        f = ΔΔ[193][cf.time];
       }
       var g = -f.width * this.ᐃᐃᐃᐃ.ΔΔⲆ;
       var h = this.ᐃᐃᐃᐃ.ΔΔⲆ * -f.height;
       Jm(ho, f, -g / 2 + c, -h / 2 + d, g, h);
     } else {
       if (this.info & 16) {
-        f = ΔΔ[Xr.ΔⵠⲆΔᐃⲆⵠ][cf.time];
+        f = ΔΔ[869][cf.time];
       } else {
-        f = ΔΔ[Xr.ᐃⲆᐃᐃΔ][cf.time];
+        f = ΔΔ[194][cf.time];
       }
       ho.translate(0, f.height / Ul);
       Jm(ho, f, c - f.width / Ob, -f.height + d);
@@ -40579,16 +40579,16 @@
     if (st <= a) {
       ⵠⵠ = ΔΔ[a][cf.time];
       switch (a) {
-        case Xr.ⲆΔⵠΔΔ:
-        case Xr.ᐃΔᐃΔⲆ:
-        case Xr.ᐃᐃΔᐃⲆ:
+        case 71:
+        case 72:
+        case 73:
           Dv(a, ⵠⵠ, -ⵠⵠ.width / 4 - (Qs + b) * Co, -ⵠⵠ.height / ls + Co * (c + 35));
           break;
-        case Xr.ΔⲆΔΔΔ:
+        case 74:
           Dv(a, ⵠⵠ, -ⵠⵠ.width / 4 - (Wl + b) * Co, -ⵠⵠ.height / Mq + (c + 45) * Co);
           break;
-        case Xr.ᐃΔⵠᐃⵠ:
-        case Xr.Δⵠᐃᐃᐃ:
+        case 75:
+        case 76:
           Dv(a, ⵠⵠ, -ⵠⵠ.width / 4 - (1 + b) * Co, -ⵠⵠ.height / es + (c + 40) * Co);
       }
     }
@@ -40611,17 +40611,17 @@
     ho.translate(Xw.ⵠᐃⲆ.x + this.x + b, Xw.ⵠᐃⲆ.y + this.y + c);
     ho.save();
     ho.rotate(this.angle);
-    ⵠⵠ = ΔΔ[Xr.ΔⲆΔΔⲆ][cf.time];
+    ⵠⵠ = ΔΔ[152][cf.time];
     Jm(ho, ⵠⵠ, -ⵠⵠ.width / 2, -ⵠⵠ.height / 2);
     ho.restore();
     ho.save();
     ho.rotate(this.ᐃⲆᐃΔᐃⲆᐃ);
-    ⵠⵠ = ΔΔ[Xr.ⲆΔⲆⵠⲆᐃⲆ][cf.time];
+    ⵠⵠ = ΔΔ[1194][cf.time];
     Jm(ho, ⵠⵠ, -ⵠⵠ.width / Ug, -ⵠⵠ.height / It);
     ho.restore();
     ho.save();
     ho.rotate(this.ⵠΔⵠᐃΔΔΔ);
-    ⵠⵠ = ΔΔ[Xr.ⵠΔⲆⵠⲆⲆⲆ][cf.time];
+    ⵠⵠ = ΔΔ[1193][cf.time];
     Jm(ho, ⵠⵠ, -ⵠⵠ.width / 2, -ⵠⵠ.height / Pn);
     ho.restore();
     ho.restore();
@@ -40642,9 +40642,9 @@
       c = ig;
     }
     if (this.info === st) {
-      ⵠⵠ = ΔΔ[Xr.ⵠΔᐃᐃᐃ][cf.time];
+      ⵠⵠ = ΔΔ[183][cf.time];
     } else {
-      ⵠⵠ = ΔΔ[Xr.ᐃᐃᐃⲆΔ][cf.time][this.info - 1];
+      ⵠⵠ = ΔΔ[802][cf.time][this.info - 1];
     }
     Jm(ho, ⵠⵠ, -ⵠⵠ.width / 2 + b, -ⵠⵠ.height / xj + c);
     ho.restore();
@@ -40654,7 +40654,7 @@
     ho.translate(Xw.ⵠᐃⲆ.x + this.x, Xw.ⵠᐃⲆ.y + this.y);
     ho.rotate(this.angle);
     this.ᐃᐃⵠᐃᐃ.ᐃⲆΔ();
-    ⵠⵠ = ΔΔ[Xr.ΔⲆΔΔΔⲆΔ][cf.time];
+    ⵠⵠ = ΔΔ[1192][cf.time];
     ⲆⲆᐃ = this.ᐃᐃⵠᐃᐃ.ΔΔⲆ * -ⵠⵠ.width;
     ΔⵠⲆ = this.ᐃᐃⵠᐃᐃ.ΔΔⲆ * -ⵠⵠ.height;
     Jm(ho, ⵠⵠ, -ⲆⲆᐃ / 2, -ΔⵠⲆ / xj, ⲆⲆᐃ, ΔⵠⲆ);
@@ -40695,12 +40695,12 @@
     ho.translate(Xw.ⵠᐃⲆ.x + this.x + b, Xw.ⵠᐃⲆ.y + this.y + c);
     ho.save();
     ho.rotate(this.rotate);
-    ⵠⵠ = ΔΔ[Xr.ⵠⲆᐃⵠⲆⲆⲆ][cf.time];
+    ⵠⵠ = ΔΔ[641][cf.time];
     Jm(ho, ⵠⵠ, -ⵠⵠ.width / 2, -ⵠⵠ.height / 2);
     ho.restore();
     ho.save();
     ho.rotate(this.ᐃⲆⲆⲆΔⵠⲆⲆⲆ);
-    ⵠⵠ = ΔΔ[Xr.ⲆⲆⲆᐃᐃΔᐃ][cf.time];
+    ⵠⵠ = ΔΔ[642][cf.time];
     Jm(ho, ⵠⵠ, -ⵠⵠ.width / rs, -ⵠⵠ.height / xq);
     ho.restore();
     ho.restore();
@@ -40710,7 +40710,7 @@
     ho.translate(Xw.ⵠᐃⲆ.x + this.x, Xw.ⵠᐃⲆ.y + this.y);
     ho.rotate(this.angle);
     this.ᐃᐃⵠᐃᐃ.ᐃⲆΔ();
-    ⵠⵠ = ΔΔ[Xr.ⲆᐃΔⵠⲆᐃΔ][cf.time];
+    ⵠⵠ = ΔΔ[289][cf.time];
     ⲆⲆᐃ = this.ᐃᐃⵠᐃᐃ.ΔΔⲆ * -ⵠⵠ.width;
     ΔⵠⲆ = this.ᐃᐃⵠᐃᐃ.ΔΔⲆ * -ⵠⵠ.height;
     Jm(ho, ⵠⵠ, -ⲆⲆᐃ / 2, -ΔⵠⲆ / Ug, ⲆⲆᐃ, ΔⵠⲆ);
@@ -40721,7 +40721,7 @@
     ho.save();
     ho.translate(Xw.ⵠᐃⲆ.x + this.x, Xw.ⵠᐃⲆ.y + this.y);
     ho.rotate(this.angle);
-    a = this.info === 0 ? ΔΔ[Xr.ΔΔⵠⲆⲆ][cf.time] : ΔΔ[Xr.ⵠⲆΔΔⲆⵠΔ][cf.time];
+    a = this.info === 0 ? ΔΔ[248][cf.time] : ΔΔ[1222][cf.time];
     ⲆⲆᐃ = this.ⲆᐃᐃⲆ.ΔΔⲆ * -a.width;
     ΔⵠⲆ = -a.height * this.ⲆᐃᐃⲆ.ΔΔⲆ;
     Jm(ho, a, -ⲆⲆᐃ / Pn, -ΔⵠⲆ / Rl, ⲆⲆᐃ, ΔⵠⲆ);
@@ -40730,7 +40730,7 @@
         this.action -= hw.ⲆᐃⲆⵠ;
       }
       ho.globalAlpha = 0.6 - this.ᐃⲆⲆ.ΔΔⲆ;
-      var a = ΔΔ[Xr.ⵠΔΔⵠⲆΔⲆ];
+      var a = ΔΔ[1223];
       Jm(ho, a, -ⲆⲆᐃ / 2, -ΔⵠⲆ / Ul, ⲆⲆᐃ, ΔⵠⲆ);
       ho.globalAlpha = 1;
     }
@@ -40763,7 +40763,7 @@
     ho.rotate(this.angle);
     this.ᐃᐃᐃᐃ.ᐃⲆΔ();
     ho.globalAlpha = 0.3;
-    var c = ΔΔ[Xr.ⲆΔᐃΔⵠⲆⵠ][cf.time];
+    var c = ΔΔ[282][cf.time];
     var d = -c.width * this.ᐃᐃᐃᐃ.ΔΔⲆ;
     var e = this.ᐃᐃᐃᐃ.ΔΔⲆ * -c.height;
     Jm(ho, c, -d / 2, -e / 2, d, e);
@@ -40792,7 +40792,7 @@
     ho.save();
     ho.translate(Xw.ⵠᐃⲆ.x + this.x, Xw.ⵠᐃⲆ.y + this.y);
     ho.rotate(this.angle);
-    c = this.info === 0 ? ΔΔ[Xr.ᐃⵠⵠᐃⵠ][cf.time] : ΔΔ[Xr.ⵠⲆᐃⵠⲆⵠᐃ][cf.time];
+    c = this.info === 0 ? ΔΔ[231][cf.time] : ΔΔ[1053][cf.time];
     ⲆⲆᐃ = this.ⲆᐃᐃⲆ.ΔΔⲆ * -c.width;
     ΔⵠⲆ = this.ⲆᐃᐃⲆ.ΔΔⲆ * -c.height;
     Jm(ho, c, -ⲆⲆᐃ / eh, -ΔⵠⲆ / 2, ⲆⲆᐃ, ΔⵠⲆ);
@@ -40801,7 +40801,7 @@
         this.action -= hw.ⲆᐃⲆⵠ;
       }
       ho.globalAlpha = 0.6 - this.ᐃⲆⲆ.ΔΔⲆ;
-      var c = ΔΔ[Xr.ΔⲆⲆᐃⵠΔⵠ];
+      var c = ΔΔ[1056];
       Jm(ho, c, -ⲆⲆᐃ / 2, -ΔⵠⲆ / 2, ⲆⲆᐃ, ΔⵠⲆ);
       ho.globalAlpha = sd;
     }
@@ -40810,7 +40810,7 @@
         this.action -= hw.ᐃᐃⵠⵠᐃ;
       }
       ho.globalAlpha = 0.6 - this.ⵠᐃᐃᐃⵠ.ΔΔⲆ;
-      c = ΔΔ[Xr.ⲆᐃΔⵠⲆⲆⲆ];
+      c = ΔΔ[1065];
       Jm(ho, c, -ⲆⲆᐃ / vg, -ΔⵠⲆ / xj, ⲆⲆᐃ, ΔⵠⲆ);
       ho.globalAlpha = 1;
     }
@@ -40820,19 +40820,19 @@
     ho.rotate(this.angle + b);
     ho.translate(100, st);
     ho.rotate(a);
-    c = this.info === st ? ΔΔ[Xr.ᐃΔⵠΔᐃᐃⵠ][cf.time] : ΔΔ[Xr.ΔⲆΔⵠᐃⵠⲆ][cf.time];
+    c = this.info === st ? ΔΔ[1060][cf.time] : ΔΔ[1059][cf.time];
     ⲆⲆᐃ = this.ᐃⲆⲆΔⲆⲆᐃ.ΔΔⲆ * -c.width;
     ΔⵠⲆ = -c.height * this.ᐃⲆⲆΔⲆⲆᐃ.ΔΔⲆ;
     Jm(ho, c, -ⲆⲆᐃ / pq, -ΔⵠⲆ / Ul, ⲆⲆᐃ, ΔⵠⲆ);
     if (this.action & hw.ⲆᐃⲆⵠ) {
       ho.globalAlpha = 0.6 - this.ᐃⲆⲆ.ΔΔⲆ;
-      c = ΔΔ[Xr.ⵠᐃΔᐃᐃⵠᐃ];
+      c = ΔΔ[1057];
       Jm(ho, c, -ⲆⲆᐃ / Vh, -ΔⵠⲆ / 2, ⲆⲆᐃ, ΔⵠⲆ);
       ho.globalAlpha = og;
     }
     if (this.action & hw.ᐃᐃⵠⵠᐃ) {
       ho.globalAlpha = 0.6 - this.ⵠᐃᐃᐃⵠ.ΔΔⲆ;
-      c = ΔΔ[Xr.ⵠΔᐃΔΔΔⲆ];
+      c = ΔΔ[1066];
       Jm(ho, c, -ⲆⲆᐃ / Rl, -ΔⵠⲆ / pq, ⲆⲆᐃ, ΔⵠⲆ);
       ho.globalAlpha = 1;
     }
@@ -40842,19 +40842,19 @@
     ho.rotate(this.angle + a + b);
     ho.translate(100, Yh);
     ho.rotate(a);
-    c = this.info === 0 ? ΔΔ[Xr.ᐃᐃᐃⵠⲆΔᐃ][cf.time] : ΔΔ[Xr.ΔᐃᐃⵠⲆⵠⵠ][cf.time];
+    c = this.info === 0 ? ΔΔ[1063][cf.time] : ΔΔ[1062][cf.time];
     ⲆⲆᐃ = -c.width * this.ΔᐃⲆΔⵠΔᐃ.ΔΔⲆ;
     ΔⵠⲆ = -c.height * this.ΔᐃⲆΔⵠΔᐃ.ΔΔⲆ;
     Jm(ho, c, -ⲆⲆᐃ / Rl, -ΔⵠⲆ / Hj, ⲆⲆᐃ, ΔⵠⲆ);
     if (this.action & hw.ⲆᐃⲆⵠ) {
       ho.globalAlpha = 0.6 - this.ᐃⲆⲆ.ΔΔⲆ;
-      c = ΔΔ[Xr.ⵠⲆⲆⵠᐃᐃᐃ];
+      c = ΔΔ[1058];
       Jm(ho, c, -ⲆⲆᐃ / 2, -ΔⵠⲆ / 2, ⲆⲆᐃ, ΔⵠⲆ);
       ho.globalAlpha = 1;
     }
     if (this.action & hw.ᐃᐃⵠⵠᐃ) {
       ho.globalAlpha = 0.6 - this.ⵠᐃᐃᐃⵠ.ΔΔⲆ;
-      c = ΔΔ[Xr.ⲆΔⵠᐃΔΔⵠ];
+      c = ΔΔ[1067];
       Jm(ho, c, -ⲆⲆᐃ / xq, -ΔⵠⲆ / 2, ⲆⲆᐃ, ΔⵠⲆ);
       ho.globalAlpha = 1;
     }
@@ -40879,13 +40879,13 @@
     }
     ho.translate(Xw.ⵠᐃⲆ.x + this.x + b, Xw.ⵠᐃⲆ.y + this.y + c);
     ho.rotate(this.angle);
-    ⵠⵠ = ΔΔ[Xr.ⲆᐃΔⲆⵠ][cf.time];
+    ⵠⵠ = ΔΔ[153][cf.time];
     Jm(ho, ⵠⵠ, -ⵠⵠ.width / as, -ⵠⵠ.height / H);
     if (this.info & 255 && ~this.info & 65280) {
       this.rotate = (this.rotate + _w * 3) % (Math.PI * 2);
     }
     ho.rotate(this.rotate);
-    ⵠⵠ = ΔΔ[Xr.ΔΔⵠⵠⲆⵠΔ][cf.time];
+    ⵠⵠ = ΔΔ[1198][cf.time];
     Jm(ho, ⵠⵠ, -ⵠⵠ.width / xj, -ⵠⵠ.height / 2);
     ho.restore();
   }
@@ -40898,12 +40898,12 @@
     this.ⲆᐃᐃⲆ.ᐃⲆΔ();
     this.rotate.ᐃⲆΔ();
     this.ⲆⲆⵠᐃ = a < 350 ? Math.max(0, this.ⲆⲆⵠᐃ - _w * 2.2) : Math.min(au, this.ⲆⲆⵠᐃ + _w * 2.2);
-    b = ΔΔ[Xr.ⲆᐃⲆᐃⲆⲆⲆ][cf.time];
+    b = ΔΔ[1135][cf.time];
     ⲆⲆᐃ = -b.width * this.ⲆᐃᐃⲆ.ΔΔⲆ * this.scale;
     ΔⵠⲆ = this.ⲆᐃᐃⲆ.ΔΔⲆ * -b.height * this.scale;
     ho.globalAlpha = wt - this.ⲆⲆⵠᐃ;
     Jm(ho, b, -ⲆⲆᐃ / Vn, -ΔⵠⲆ / 4, ⲆⲆᐃ / Pn, ΔⵠⲆ / pq);
-    b = ΔΔ[Xr.ΔᐃⵠⵠΔΔᐃ][cf.time];
+    b = ΔΔ[1119][cf.time];
     ⲆⲆᐃ = this.scale * (-b.width * this.ⲆᐃᐃⲆ.ΔΔⲆ);
     ΔⵠⲆ = this.scale * (-b.height * this.ⲆᐃᐃⲆ.ΔΔⲆ);
     ho.globalAlpha = this.ⲆⲆⵠᐃ;
@@ -40913,18 +40913,18 @@
         this.action -= hw.ⲆᐃⲆⵠ;
       }
       ho.globalAlpha = (0.6 - this.ᐃⲆⲆ.ΔΔⲆ) * (1 - this.ⲆⲆⵠᐃ);
-      var b = ΔΔ[Xr.ⵠⵠΔΔⲆᐃⵠ];
+      var b = ΔΔ[1136];
       ⲆⲆᐃ = this.scale * (-b.width * this.ⲆᐃᐃⲆ.ΔΔⲆ);
       ΔⵠⲆ = this.ⲆᐃᐃⲆ.ΔΔⲆ * -b.height * this.scale;
       Jm(ho, b, -ⲆⲆᐃ / Ng, -ΔⵠⲆ / es, ⲆⲆᐃ / Ug, ΔⵠⲆ / vg);
       ho.globalAlpha = this.ⲆⲆⵠᐃ * (0.6 - this.ᐃⲆⲆ.ΔΔⲆ);
-      b = ΔΔ[Xr.ⲆⵠⵠᐃΔᐃᐃ];
+      b = ΔΔ[1128];
       ⲆⲆᐃ = -b.width * this.ⲆᐃᐃⲆ.ΔΔⲆ * this.scale;
       ΔⵠⲆ = this.scale * (-b.height * this.ⲆᐃᐃⲆ.ΔΔⲆ);
       Jm(ho, b, -ⲆⲆᐃ / 4, -ΔⵠⲆ / gl, ⲆⲆᐃ / 2, ΔⵠⲆ / 2);
       ho.globalAlpha = 1;
     }
-    b = ΔΔ[Xr.ΔᐃΔᐃⲆᐃᐃ][cf.time];
+    b = ΔΔ[1122][cf.time];
     ⲆⲆᐃ = -b.width * this.ⲆᐃᐃⲆ.ΔΔⲆ * this.scale;
     ΔⵠⲆ = -b.height * this.ⲆᐃᐃⲆ.ΔΔⲆ * this.scale;
     ho.save();
@@ -40934,12 +40934,12 @@
     Jm(ho, b, -ⲆⲆᐃ * Co / 4, -ΔⵠⲆ * Co / 4, ⲆⲆᐃ / Ul, ΔⵠⲆ / 2);
     if (this.action & hw.ⲆᐃⲆⵠ) {
       ho.globalAlpha = this.ⲆⲆⵠᐃ * (0.6 - this.ᐃⲆⲆ.ΔΔⲆ);
-      b = ΔΔ[Xr.ᐃᐃⵠⲆᐃᐃⲆ];
+      b = ΔΔ[1129];
       Jm(ho, b, -ⲆⲆᐃ * Co / 4, -ΔⵠⲆ * Co / 4, ⲆⲆᐃ / 2, ΔⵠⲆ / Ob);
       ho.globalAlpha = pu;
     }
     ho.restore();
-    b = ΔΔ[Xr.ⵠⵠΔΔⲆᐃⲆ][cf.time];
+    b = ΔΔ[1125][cf.time];
     ho.save();
     ho.translate(Co * 40, Co * 80);
     ho.rotate(-this.rotate.ΔΔⲆ);
@@ -40947,7 +40947,7 @@
     Jm(ho, b, Co * -ⲆⲆᐃ / 4, -ΔⵠⲆ * Co / Pe, ⲆⲆᐃ / 2, ΔⵠⲆ / 2);
     if (this.action & hw.ⲆᐃⲆⵠ) {
       ho.globalAlpha = this.ⲆⲆⵠᐃ * (0.6 - this.ᐃⲆⲆ.ΔΔⲆ);
-      b = ΔΔ[Xr.ⲆⵠⵠΔᐃⲆⵠ];
+      b = ΔΔ[1130];
       Jm(ho, b, -ⲆⲆᐃ * Co / 4, Co * -ΔⵠⲆ / 4, ⲆⲆᐃ / rs, ΔⵠⲆ / as);
       ho.globalAlpha = 1;
     }
@@ -40959,107 +40959,107 @@
     if (a >= 0) {
       ⵠⵠ = ΔΔ[a][cf.time];
       switch (a) {
-        case Xr.ⲆⵠⵠⲆⲆ:
-        case Xr.ⵠᐃⲆΔΔ:
-        case Xr.ᐃⲆⵠΔⲆ:
-        case Xr.ⲆΔⲆⲆⵠ:
-        case Xr.ΔⲆⲆⵠⲆ:
-        case Xr.ⲆⵠΔⵠΔ:
+        case 1:
+        case 3:
+        case 4:
+        case 8:
+        case 31:
+        case 32:
           Mv(a, ⵠⵠ, -ⵠⵠ.width / 2 - Co * (45 + b), -ⵠⵠ.height / 2 + (c + 22) * Co);
           break;
-        case Xr.ΔᐃⲆᐃᐃ:
-        case Xr.ᐃⲆΔⲆⵠ:
-        case Xr.ⲆᐃᐃⲆᐃ:
-        case Xr.ⲆⲆⲆⵠⵠ:
+        case 94:
+        case 95:
+        case 96:
+        case 97:
           Dv(a, ⵠⵠ, -ⵠⵠ.width / Fr - Co * (52 + b), -ⵠⵠ.height / Ls + (c + 20) * Co);
           break;
-        case Xr.ΔΔⲆᐃᐃ:
-        case Xr.ⲆⲆⲆᐃΔ:
+        case 98:
+        case 99:
           Dv(a, ⵠⵠ, -ⵠⵠ.width / Pl - Co * (57 + b), -ⵠⵠ.height / 4 + (c + Bs) * Co);
           break;
-        case Xr.ΔⵠᐃΔᐃ:
-        case Xr.ᐃᐃⲆΔⲆ:
-        case Xr.ⵠΔΔΔΔ:
-        case Xr.ᐃΔⲆᐃΔ:
+        case 57:
+        case 0:
+        case 5:
+        case 6:
           Dv(a, ⵠⵠ, -ⵠⵠ.width / 4 - (47 + b) * Co, -ⵠⵠ.height / Fr + Co * (c + 45));
           break;
-        case Xr.ΔⲆᐃⵠΔ:
+        case 30:
           Dv(a, ⵠⵠ, -ⵠⵠ.width / 4 - Co * (52 + b), -ⵠⵠ.height / 4 + (c + 45) * Co);
           break;
-        case Xr.ⵠⵠΔΔⵠ:
+        case 19:
           Dv(a, ⵠⵠ, -ⵠⵠ.width / 4 - Co * (47 + b), -ⵠⵠ.height / 4 + Co * (c + 44));
           break;
-        case Xr.ⵠΔᐃᐃⵠ:
+        case 9:
           Mv(a, ⵠⵠ, -ⵠⵠ.width / 2 - (47 + b) * Co, -ⵠⵠ.height / vg + (c + 44) * Co);
           break;
-        case Xr.ⵠᐃᐃΔⵠ:
+        case 62:
           Mv(a, ⵠⵠ, -ⵠⵠ.width / 2 - (40 + b) * Co, -ⵠⵠ.height / jk + (c + 65) * Co);
           break;
-        case Xr.ᐃᐃΔⲆⲆ:
+        case 12:
           Dv(a, ⵠⵠ, -ⵠⵠ.width / 4 - Co * (37 + b), -ⵠⵠ.height / 4 + (c + 85) * Co);
           break;
-        case Xr.ᐃΔⲆⵠΔ:
+        case 34:
           Dv(a, ⵠⵠ, -ⵠⵠ.width / gl - (37 + b) * Co, -ⵠⵠ.height / ls + (c + 85) * Co);
           break;
-        case Xr.ᐃΔΔᐃΔ:
-        case Xr.ⲆⵠⲆᐃΔ:
+        case 54:
+        case 53:
           Dv(a, ⵠⵠ, -ⵠⵠ.width / 4 - (26 + b) * Co, -ⵠⵠ.height / 4 + (c + 77) * Co);
           break;
-        case Xr.ΔⲆᐃΔⵠ:
+        case 17:
           Dv(a, ⵠⵠ, -ⵠⵠ.width / Ct - Co * (37 + b), -ⵠⵠ.height / 4 + (c + 85) * Co);
           break;
-        case Xr.ⲆⲆᐃᐃⲆ:
+        case 63:
           Dv(a, ⵠⵠ, -ⵠⵠ.width / Vn - Co * (47 + b), -ⵠⵠ.height / 4 + (c + 44) * Co);
           break;
-        case Xr.ΔΔΔⲆΔ:
-        case Xr.ⲆΔᐃΔⵠ:
-        case Xr.ᐃᐃⲆᐃᐃ:
-        case Xr.Δᐃᐃⵠⵠ:
-        case Xr.ⵠΔΔᐃᐃ:
-        case Xr.ΔᐃⵠⵠΔ:
-        case Xr.ⵠΔⲆΔⲆ:
+        case 64:
+        case 65:
+        case 66:
+        case 67:
+        case 68:
+        case 69:
+        case 70:
           Dv(a, ⵠⵠ, -ⵠⵠ.width / 4 - Co * (37 + b), -ⵠⵠ.height / 4 + (c + 30) * Co);
           break;
-        case Xr.Ⲇᐃⵠⵠᐃ:
+        case 56:
           Dv(a, ⵠⵠ, -ⵠⵠ.width / 4 - (47 + b) * Co, -ⵠⵠ.height / nl + Co * (c + 35));
           break;
-        case Xr.ᐃΔⵠⵠᐃ:
-        case Xr.ⵠⵠᐃᐃΔ:
+        case 92:
+        case 93:
           Dv(a, ⵠⵠ, -ⵠⵠ.width / 4 - Co * (47 + b), -ⵠⵠ.height / 4 + Co * (c + 40));
           break;
-        case Xr.ᐃⵠⲆⵠⲆ:
+        case 89:
           Dv(a, ⵠⵠ, -ⵠⵠ.width / Mq - Co * (47 + b), -ⵠⵠ.height / nj + (c + 34) * Co);
           break;
-        case Xr.ⵠΔᐃⵠᐃ:
-        case Xr.ⵠᐃᐃⵠΔ:
-        case Xr.ᐃᐃᐃᐃⲆ:
-        case Xr.ᐃΔⵠⲆᐃ:
+        case 13:
+        case 14:
+        case 15:
+        case 33:
           Dv(a, ⵠⵠ, -ⵠⵠ.width / 4 - Co * (37 + b), -ⵠⵠ.height / ls + (c + 90) * Co);
           break;
-        case Xr.Ⲇᐃᐃᐃᐃ:
+        case 18:
           Dv(a, ⵠⵠ, -ⵠⵠ.width / 4 - (40 + b) * Co, -ⵠⵠ.height / 4 + (c + 85) * Co);
           break;
-        case Xr.ⲆⲆΔᐃᐃ:
+        case 16:
           Mv(a, ⵠⵠ, -ⵠⵠ.width / 2 - Co * (39 + b), -ⵠⵠ.height / 2 + Co * (c + 90));
           break;
-        case Xr.ⲆᐃΔⲆΔ:
-        case Xr.ⲆⲆⵠⲆⲆ:
-        case Xr.ⵠΔΔΔⵠ:
-        case Xr.ᐃⵠⵠⵠᐃ:
-        case Xr.ᐃⵠⲆⵠΔ:
-        case Xr.ⵠⵠᐃᐃⲆ:
+        case 35:
+        case 36:
+        case 37:
+        case 38:
+        case 39:
+        case 45:
           Mv(a, ⵠⵠ, -ⵠⵠ.width / 2 - (46 + b) * Co, -ⵠⵠ.height / 2 + (c + 35) * Co);
           break;
-        case Xr.ᐃᐃΔⵠΔ:
+        case 49:
           Mv(a, ⵠⵠ, -ⵠⵠ.width / 2 - (47 + b) * Co, -ⵠⵠ.height / Hj + Co * (c + 54));
           break;
-        case Xr.ᐃΔΔΔΔ:
-        case Xr.ⲆΔΔⵠⵠ:
-        case Xr.ⵠᐃⵠᐃΔ:
-        case Xr.ⵠᐃⲆⲆⵠ:
+        case 46:
+        case 50:
+        case 51:
+        case 52:
           Mv(a, ⵠⵠ, -ⵠⵠ.width / 2 - Co * (46 + b), -ⵠⵠ.height / 2 + (c + 35) * Co);
           break;
-        case Xr.ᐃⵠᐃΔⵠ:
+        case 55:
           Mv(a, ⵠⵠ, -ⵠⵠ.width / 2 - Co * (47 + b), -ⵠⵠ.height / It + Co * (c + 20));
       }
     }
@@ -41068,78 +41068,78 @@
     if (a > Mg) {
       var b = ΔΔ[a][cf.time];
       switch (a) {
-        case Xr.ᐃᐃⲆⵠⵠ:
+        case 58:
           Mv(a, b, -b.width / It + Hj * Co, -b.height / Rl - Co * 5);
           break;
-        case Xr.ᐃⲆᐃⲆᐃ:
+        case 10:
           Mv(a, b, -b.width / as, -b.height / Hj - Co * 18);
           break;
-        case Xr.ᐃⵠⵠⵠΔ:
+        case 11:
           Mv(a, b, -b.width / 2, -b.height / 2 - Co * 10);
           break;
-        case Xr.ⲆᐃᐃΔᐃ:
+        case 23:
           Mv(a, b, -b.width / Ug, -b.height / 2 - Co * Fl);
           break;
-        case Xr.ⵠᐃᐃΔᐃ:
+        case 24:
           Dv(a, b, -b.width / 4, -b.height / 4 - Co * Jg);
           break;
-        case Xr.Δᐃᐃⵠᐃ:
+        case 25:
           Mv(a, b, -b.width / 2 - Co * $b, -b.height / Ug - Co * 23);
           break;
-        case Xr.ΔᐃΔⲆⲆ:
+        case 26:
           Mv(a, b, -b.width / 2, -b.height / Rl - Fk * Co);
           break;
-        case Xr.ᐃⲆⲆⵠᐃ:
+        case 27:
           Mv(a, b, -b.width / 2, -b.height / Vg - Co * 2);
           break;
-        case Xr.ⵠⲆⲆⵠⵠ:
+        case 43:
           Mv(a, b, -b.width / pq + Co * 1.5, -b.height / Vh - zs * Co);
           break;
-        case Xr.ⲆᐃⵠΔᐃ:
-        case Xr.Δⵠⵠⵠᐃ:
-        case Xr.ᐃΔᐃⲆⲆ:
-        case Xr.ⲆΔᐃΔᐃ:
-        case Xr.ⵠᐃΔΔᐃ:
-        case Xr.ⵠⵠΔᐃᐃ:
-        case Xr.ΔᐃᐃᐃΔ:
-        case Xr.ⵠᐃΔΔⵠ:
-        case Xr.ᐃⵠᐃⵠⵠ:
-        case Xr.ⵠⲆⵠΔᐃ:
-        case Xr.ⲆⵠΔᐃⲆ:
+        case 44:
+        case 20:
+        case 21:
+        case 22:
+        case 80:
+        case 81:
+        case 82:
+        case 60:
+        case 90:
+        case 88:
+        case 87:
           Dv(a, b, -b.width / ls, -b.height / $l + Co * Lt);
           break;
-        case Xr.ᐃᐃⵠⲆⲆ:
-        case Xr.ΔⲆΔⲆⲆ:
+        case 41:
+        case 42:
           Mv(a, b, -b.width / 2 - Co * 5, -b.height / Rl - Co * eh);
           break;
-        case Xr.ᐃⲆⲆΔΔ:
+        case 40:
           Mv(a, b, -b.width / 2, -b.height / pq - Co * 2);
           break;
-        case Xr.ΔΔᐃⲆΔ:
+        case 85:
           Mv(a, b, -b.width / 2, -b.height / Ul - Co * 2);
           break;
-        case Xr.ᐃⲆⵠⲆⲆ:
+        case 48:
           Mv(a, b, -b.width / 2, -b.height / Hj - Co * 2);
           break;
-        case Xr.ᐃⵠⵠⲆΔ:
+        case 47:
           Mv(a, b, -b.width / Vh + xq * Co, -b.height / 2);
           break;
-        case Xr.ᐃⵠΔᐃΔ:
+        case 59:
           Mv(a, b, -b.width / 2, -b.height / 2 - Co * 5);
           break;
-        case Xr.ᐃⲆΔⵠⵠ:
-        case Xr.ⵠᐃⵠⵠΔ:
-        case Xr.ⲆⲆᐃᐃΔ:
+        case 77:
+        case 78:
+        case 79:
           Mv(a, b, -b.width / 2 - Co * 1, -b.height / 2);
           break;
-        case Xr.ⲆΔⵠⵠᐃ:
+        case 83:
           Mv(a, b, -b.width / Rl, -b.height / 2 + Co * 2);
           break;
-        case Xr.ΔᐃⲆⵠⵠ:
-        case Xr.ΔᐃⵠⲆΔ:
+        case 84:
+        case 86:
           Mv(a, b, -b.width / 2, -b.height / eh + Co * 8);
           break;
-        case Xr.ⲆⲆΔΔⵠ:
+        case 61:
           Mv(a, b, -b.width / Vg, -b.height / as - Co * 4);
       }
     }
@@ -41154,7 +41154,7 @@
       ho.save();
       ho.translate(Xw.ⵠᐃⲆ.x + this.x, Xw.ⵠᐃⲆ.y + this.y);
       ho.rotate(this.ⲆΔΔΔⵠ);
-      if (this.ΔⲆᐃΔΔ === _r.ⵠⵠⲆΔⲆ) {
+      if (this.ΔⲆᐃΔΔ === 223) {
         if (this.ᐃⵠⵠⵠⲆ > 50 || this.ⵠᐃᐃᐃⲆ > 0) {
           if (this.ᐃⵠⵠⵠⲆ > 50) {
             this.ⵠᐃᐃᐃⲆ = Math.min(gs, this.ⵠᐃᐃᐃⲆ + _w);
@@ -41162,13 +41162,13 @@
             this.ⵠᐃᐃᐃⲆ = Math.max(0, this.ⵠᐃᐃᐃⲆ - _w);
           }
           ho.globalAlpha = this.ⵠᐃᐃᐃⲆ;
-          var b = ΔΔ[Xr.ΔⵠᐃⵠⵠΔΔ][cf.time];
-          Dv(Xr.ΔⵠᐃⵠⵠΔΔ, b, -b.width / 4, -b.height / Mq);
+          var b = ΔΔ[225][cf.time];
+          Dv(225, b, -b.width / 4, -b.height / Mq);
           ho.globalAlpha = Wl;
         }
-        b = ΔΔ[Xr.ⵠⵠⲆΔⲆ][cf.time];
-        Dv(Xr.ⵠⵠⲆΔⲆ, b, -b.width / Gi, -b.height / 4);
-      } else if (_r.ⵠᐃⲆⲆΔ === this.ΔⲆᐃΔΔ) {
+        b = ΔΔ[223][cf.time];
+        Dv(223, b, -b.width / Gi, -b.height / 4);
+      } else if (this.ΔⲆᐃΔΔ === 229) {
         this.ⵠⵠⲆⲆᐃ = ᐃⵠΔⲆ.ᐃⵠΔⵠᐃᐃᐃ(this.ⵠⵠⲆⲆᐃ, this.ᐃⵠⵠⵠⲆ, 0.018);
         this.ᐃⲆⵠᐃⵠᐃⲆ.ᐃⲆΔ();
         if (this.ᐃⵠⵠⵠⲆ > 85) {
@@ -41176,9 +41176,9 @@
         } else {
           this.ⵠᐃᐃᐃⲆ = Math.max(0.1, this.ⵠᐃᐃᐃⲆ - _w);
         }
-        b = ΔΔ[Xr.ⵠᐃⲆΔΔᐃᐃ][cf.time];
-        Dv(Xr.ⵠᐃⲆΔΔᐃᐃ, b, -b.width / gl, -b.height / nj);
-        b = ΔΔ[Xr.ⵠⵠᐃΔⵠⲆⵠ][cf.time];
+        b = ΔΔ[1100][cf.time];
+        Dv(1100, b, -b.width / gl, -b.height / nj);
+        b = ΔΔ[1103][cf.time];
         ⲆⲆᐃ = -b.width;
         ΔⵠⲆ = -b.height;
         ho.save();
@@ -41186,13 +41186,13 @@
         ho.rotate(this.ⵠᐃᐃᐃⲆ * this.ᐃⲆⵠᐃⵠᐃⲆ.ΔΔⲆ);
         Jm(ho, b, -ⲆⲆᐃ / Pl, -ΔⵠⲆ / 4, ⲆⲆᐃ / Ug, ΔⵠⲆ / jk);
         ho.restore();
-        b = ΔΔ[Xr.ⵠⲆᐃⵠⵠᐃⲆ][cf.time];
+        b = ΔΔ[1106][cf.time];
         ho.save();
         ho.translate(Co * 20, Co * -qr);
         ho.rotate(this.ⵠᐃᐃᐃⲆ * -this.ᐃⲆⵠᐃⵠᐃⲆ.ΔΔⲆ);
         Jm(ho, b, -ⲆⲆᐃ / Ng, -ΔⵠⲆ / 4, ⲆⲆᐃ / 2, ΔⵠⲆ / pq);
         ho.restore();
-      } else if (this.ΔⲆᐃΔΔ === _r.ⲆⲆΔⵠⲆ) {
+      } else if (this.ΔⲆᐃΔΔ === 228) {
         this.ⵠⵠⲆⲆᐃ = ᐃⵠΔⲆ.ᐃⵠΔⵠᐃᐃᐃ(this.ⵠⵠⲆⲆᐃ, this.ᐃⵠⵠⵠⲆ, 0.018);
         this.ᐃⲆⵠᐃⵠᐃⲆ.ᐃⲆΔ();
         if (this.ᐃⵠⵠⵠⲆ > 85) {
@@ -41200,9 +41200,9 @@
         } else {
           this.ⵠᐃᐃᐃⲆ = Math.max(0.1, this.ⵠᐃᐃᐃⲆ - _w);
         }
-        b = ΔΔ[Xr.ᐃᐃΔⵠⵠⵠⲆ][cf.time];
-        Dv(Xr.ᐃᐃΔⵠⵠⵠⲆ, b, -b.width / 4, -b.height / Ct);
-        b = ΔΔ[Xr.ⵠⲆⵠⲆⵠⵠΔ][cf.time];
+        b = ΔΔ[1085][cf.time];
+        Dv(1085, b, -b.width / 4, -b.height / Ct);
+        b = ΔΔ[1088][cf.time];
         ⲆⲆᐃ = -b.width;
         ΔⵠⲆ = -b.height;
         ho.save();
@@ -41210,13 +41210,13 @@
         ho.rotate(this.ⵠᐃᐃᐃⲆ * this.ᐃⲆⵠᐃⵠᐃⲆ.ΔΔⲆ);
         Jm(ho, b, -ⲆⲆᐃ / ls, -ΔⵠⲆ / ls, ⲆⲆᐃ / Lt, ΔⵠⲆ / 2);
         ho.restore();
-        b = ΔΔ[Xr.ⵠⲆⲆΔΔᐃΔ][cf.time];
+        b = ΔΔ[1091][cf.time];
         ho.save();
         ho.translate(Co * 40, Co * -45);
         ho.rotate(-this.ᐃⲆⵠᐃⵠᐃⲆ.ΔΔⲆ * this.ⵠᐃᐃᐃⲆ);
         Jm(ho, b, -ⲆⲆᐃ / 4, -ΔⵠⲆ / Fr, ⲆⲆᐃ / 2, ΔⵠⲆ / 2);
         ho.restore();
-      } else if (this.ΔⲆᐃΔΔ === _r.ⲆⵠΔᐃⵠ) {
+      } else if (this.ΔⲆᐃΔΔ === 227) {
         this.ⵠⵠⲆⲆᐃ = ᐃⵠΔⲆ.ᐃⵠΔⵠᐃᐃᐃ(this.ⵠⵠⲆⲆᐃ, this.ᐃⵠⵠⵠⲆ, 0.018);
         this.ᐃⲆⵠᐃⵠᐃⲆ.ᐃⲆΔ();
         if (this.ᐃⵠⵠⵠⲆ > 85) {
@@ -41224,9 +41224,9 @@
         } else {
           this.ⵠᐃᐃᐃⲆ = Math.max(0.1, this.ⵠᐃᐃᐃⲆ - _w);
         }
-        b = ΔΔ[Xr.ᐃᐃΔⵠⲆⵠΔ][cf.time];
-        Dv(Xr.ᐃᐃΔⵠⲆⵠΔ, b, -b.width / Ct, -b.height / 4);
-        b = ΔΔ[Xr.ⲆΔΔⲆⲆⵠⵠ][cf.time];
+        b = ΔΔ[1070][cf.time];
+        Dv(1070, b, -b.width / Ct, -b.height / 4);
+        b = ΔΔ[1073][cf.time];
         ⲆⲆᐃ = -b.width;
         ΔⵠⲆ = -b.height;
         ho.save();
@@ -41234,25 +41234,25 @@
         ho.rotate(this.ᐃⲆⵠᐃⵠᐃⲆ.ΔΔⲆ * this.ⵠᐃᐃᐃⲆ);
         Jm(ho, b, -ⲆⲆᐃ / ls, -ΔⵠⲆ / 4, ⲆⲆᐃ / Ob, ΔⵠⲆ / 2);
         ho.restore();
-        b = ΔΔ[Xr.ⵠⵠⵠⵠⲆᐃⵠ][cf.time];
+        b = ΔΔ[1076][cf.time];
         ho.save();
         ho.translate(Co * 40, Co * -45);
         ho.rotate(this.ⵠᐃᐃᐃⲆ * -this.ᐃⲆⵠᐃⵠᐃⲆ.ΔΔⲆ);
         Jm(ho, b, -ⲆⲆᐃ / ba, -ΔⵠⲆ / 4, ⲆⲆᐃ / 2, ΔⵠⲆ / 2);
         ho.restore();
-      } else if (this.ΔⲆᐃΔΔ === _r.ⲆⵠΔΔΔ) {
+      } else if (this.ΔⲆᐃΔΔ === 91) {
         this.ⵠⵠⲆⲆᐃ = ᐃⵠΔⲆ.ᐃⵠΔⵠᐃᐃᐃ(this.ⵠⵠⲆⲆᐃ, this.ᐃⵠⵠⵠⲆ, 0.018);
-        b = ΔΔ[Xr.ⲆⵠΔΔΔ][cf.time];
-        Dv(Xr.ⲆⵠΔΔΔ, b, -b.width / 4, -b.height / Gi);
-      } else if (_r.ΔⵠΔΔⵠ === this.ΔⲆᐃΔΔ) {
+        b = ΔΔ[91][cf.time];
+        Dv(91, b, -b.width / 4, -b.height / Gi);
+      } else if (this.ΔⲆᐃΔΔ === 230) {
         this.ⵠⵠⲆⲆᐃ = ᐃⵠΔⲆ.ᐃⵠΔⵠᐃᐃᐃ(this.ⵠⵠⲆⲆᐃ, this.ᐃⵠⵠⵠⲆ, 0.018);
-        b = ΔΔ[Xr.ΔⵠΔΔⵠ][cf.time];
-        Dv(Xr.ΔⵠΔΔⵠ, b, -b.width / ba, -b.height / 4);
-      } else if (this.ΔⲆᐃΔΔ === _r.ⵠᐃᐃⲆᐃ) {
-        b = ΔΔ[Xr.ⵠᐃᐃⲆᐃ][cf.time];
-        Dv(Xr.ⵠᐃᐃⲆᐃ, b, -b.width / Gi, -b.height / Pe);
-      } else if (this.ΔⲆᐃΔΔ === _r.ΔΔⵠⲆⲆ) {
-        b = ΔΔ[Xr.ⲆΔⵠΔⲆⵠⲆ][cf.time];
+        b = ΔΔ[236][cf.time];
+        Dv(236, b, -b.width / ba, -b.height / 4);
+      } else if (this.ΔⲆᐃΔΔ === 224) {
+        b = ΔΔ[224][cf.time];
+        Dv(224, b, -b.width / Gi, -b.height / Pe);
+      } else if (this.ΔⲆᐃΔΔ === 239) {
+        b = ΔΔ[1221][cf.time];
         if (this.ᐃⵠⵠⵠⲆ > 85) {
           this.ⵠᐃᐃᐃⲆ = Math.min(pu, this.ⵠᐃᐃᐃⲆ + _w / 4);
         } else {
@@ -41263,9 +41263,9 @@
           this.ⵠΔᐃⵠⵠ -= 60;
         }
         var c = (La * (this.ⵠΔᐃⵠⵠ < 30 ? this.ⵠΔᐃⵠⵠ / 30 : Tl - (this.ⵠΔᐃⵠⵠ - 30) / 30) - 6) * this.ⵠᐃᐃᐃⲆ;
-        Dv(Xr.ⲆΔⵠΔⲆⵠⲆ, b, -b.width / 4, -b.height / Pl + c);
-      } else if (this.ΔⲆᐃΔΔ === _r.ⵠⲆᐃⲆΔ) {
-        b = ΔΔ[Xr.ᐃΔⲆⵠᐃⲆⵠ][cf.time];
+        Dv(1221, b, -b.width / 4, -b.height / Pl + c);
+      } else if (this.ΔⲆᐃΔΔ === 225) {
+        b = ΔΔ[1043][cf.time];
         if (this.ᐃⵠⵠⵠⲆ > 85) {
           this.ⵠᐃᐃᐃⲆ = Math.min(Wl, this.ⵠᐃᐃᐃⲆ + _w / 4);
         } else {
@@ -41276,11 +41276,11 @@
           this.ⵠΔᐃⵠⵠ -= 60;
         }
         c = this.ⵠᐃᐃᐃⲆ * (-qq + (this.ⵠΔᐃⵠⵠ < 30 ? this.ⵠΔᐃⵠⵠ / 30 : 1 - (this.ⵠΔᐃⵠⵠ - 30) / 30) * 12);
-        Dv(Xr.ᐃΔⲆⵠᐃⲆⵠ, b, -b.width / 4, -b.height / 4 + c);
-      } else if (_r.ᐃⵠⵠᐃⵠ === this.ΔⲆᐃΔΔ) {
+        Dv(1043, b, -b.width / 4, -b.height / 4 + c);
+      } else if (this.ΔⲆᐃΔΔ === 226) {
         var d = Math.PI / vg;
         var e = Math.PI / tb;
-        b = ΔΔ[Xr.ᐃᐃᐃⵠⵠⵠΔ][cf.time];
+        b = ΔΔ[1055][cf.time];
         if (this.ᐃⵠⵠⵠⲆ > 85) {
           this.ⵠᐃᐃᐃⲆ = Math.min(sd, this.ⵠᐃᐃᐃⲆ + _w / Wg);
         } else {
@@ -41291,14 +41291,14 @@
           this.ⵠΔᐃⵠⵠ -= 60;
         }
         c = this.ⵠᐃᐃᐃⲆ * ($a * (this.ⵠΔᐃⵠⵠ < 30 ? this.ⵠΔᐃⵠⵠ / 30 : sd - (this.ⵠΔᐃⵠⵠ - 30) / 30) - 6);
-        Dv(Xr.ᐃᐃᐃⵠⵠⵠΔ, b, -b.width / 4 + c, -b.height / Pe);
+        Dv(1055, b, -b.width / 4 + c, -b.height / Pe);
         ho.restore();
         ho.save();
         ho.translate(Xw.ⵠᐃⲆ.x + this.x, Xw.ⵠᐃⲆ.y + this.y);
         ho.rotate(Math.PI + this.ⲆΔΔΔⵠ + e);
         ho.translate(120, c);
         ho.rotate(d);
-        b = ΔΔ[Xr.ᐃΔⵠΔᐃᐃⵠ][cf.time];
+        b = ΔΔ[1060][cf.time];
         ⲆⲆᐃ = -b.width;
         ΔⵠⲆ = -b.height;
         Jm(ho, b, -ⲆⲆᐃ / jk, -ΔⵠⲆ / jk, ⲆⲆᐃ, ΔⵠⲆ);
@@ -41308,7 +41308,7 @@
         ho.rotate(Math.PI + this.ⲆΔΔΔⵠ + d + e);
         ho.translate(120, c);
         ho.rotate(d);
-        b = ΔΔ[Xr.ᐃᐃᐃⵠⲆΔᐃ][cf.time];
+        b = ΔΔ[1063][cf.time];
         ⲆⲆᐃ = -b.width;
         ΔⵠⲆ = -b.height;
         Jm(ho, b, -ⲆⲆᐃ / 2, -ΔⵠⲆ / Pn, ⲆⲆᐃ, ΔⵠⲆ);
@@ -41380,12 +41380,12 @@
   function jv() {
     var c = Lr;
     switch (this.right) {
-      case Xr.ⲆΔⵠΔΔ:
-      case Xr.ᐃΔᐃΔⲆ:
-      case Xr.ᐃᐃΔᐃⲆ:
-      case Xr.ΔⲆΔΔΔ:
-      case Xr.ᐃΔⵠᐃⵠ:
-      case Xr.Δⵠᐃᐃᐃ:
+      case 71:
+      case 72:
+      case 73:
+      case 74:
+      case 75:
+      case 76:
         c = 1;
     }
     if (this.ᐃⲆᐃⲆⵠ) {
@@ -41397,7 +41397,7 @@
           k = j.ΔΔᐃΔᐃ * 2;
         }
         ho.globalAlpha = k;
-        var m = ΔΔ[Xr.ⵠⲆᐃᐃⵠΔᐃ][cf.time][j.id];
+        var m = ΔΔ[540][cf.time][j.id];
         Jm(ho, m, Xw.ⵠᐃⲆ.x + j.x - m.width / 2, Xw.ⵠᐃⲆ.y + j.y - m.height / 2);
         ho.globalAlpha = 1;
       }
@@ -41409,7 +41409,7 @@
         (function (a) {
           if (a.right >= 0) {
             switch (a.right) {
-              case Xr.ᐃᐃΔⵠΔ:
+              case 49:
                 ho.save();
                 var b = a.attack.ΔΔⲆ * -3 / Math.PI;
                 if (a.attack.ⵠᐃⵠ) {
@@ -41430,10 +41430,10 @@
                 ho.globalAlpha = 1;
                 ho.restore();
                 break;
-              case Xr.ᐃΔΔΔΔ:
-              case Xr.ⲆΔΔⵠⵠ:
-              case Xr.ⵠᐃⵠᐃΔ:
-              case Xr.ⵠᐃⲆⲆⵠ:
+              case 46:
+              case 50:
+              case 51:
+              case 52:
                 if (pu === a.ⲆⵠᐃⲆΔⲆΔ) {
                   break;
                 }
@@ -41472,26 +41472,26 @@
       var p;
       var q = this.ᐃᐃⵠⲆⵠⵠⲆ.ΔΔⲆ;
       var w = this.ΔⲆΔⵠⲆᐃⲆ.ΔΔⲆ;
-      if (this.ⵠΔⵠⲆᐃ === Xr.ΔΔᐃⲆΔ) {
-        m = ΔΔ[Xr.ⲆⵠⵠⲆΔ][cf.time];
-        p = Xr.ⲆⵠⵠⲆΔ;
-      } else if (this.ⵠΔⵠⲆᐃ === Xr.Δⵠⵠⵠᐃ) {
-        m = ΔΔ[Xr.ΔⲆᐃΔᐃ][cf.time];
-        p = Xr.ΔⲆᐃΔᐃ;
-      } else if (Xr.ᐃΔᐃⲆⲆ === this.ⵠΔⵠⲆᐃ) {
-        m = ΔΔ[Xr.ᐃⲆΔΔΔΔⲆ][cf.time];
-        p = Xr.ᐃⲆΔΔΔΔⲆ;
-      } else if (Xr.ⲆΔᐃΔᐃ === this.ⵠΔⵠⲆᐃ) {
-        m = ΔΔ[Xr.ΔᐃΔᐃΔΔᐃ][cf.time];
-        p = Xr.ΔᐃΔᐃΔΔᐃ;
+      if (this.ⵠΔⵠⲆᐃ === 85) {
+        m = ΔΔ[793][cf.time];
+        p = 793;
+      } else if (this.ⵠΔⵠⲆᐃ === 20) {
+        m = ΔΔ[920][cf.time];
+        p = 920;
+      } else if (this.ⵠΔⵠⲆᐃ === 21) {
+        m = ΔΔ[924][cf.time];
+        p = 924;
+      } else if (this.ⵠΔⵠⲆᐃ === 22) {
+        m = ΔΔ[928][cf.time];
+        p = 928;
       } else if (this.ⲆΔⲆⵠⵠⲆᐃ) {
-        m = ΔΔ[Xr.ⲆⵠᐃⲆⲆᐃΔ][cf.time];
-        p = Xr.ⲆⵠᐃⲆⲆᐃΔ;
+        m = ΔΔ[822][cf.time];
+        p = 822;
       } else {
-        m = ΔΔ[Xr.ΔᐃΔΔΔ][this.ΔⵠΔᐃ][cf.time];
-        p = Xr.ΔᐃΔΔΔ;
+        m = ΔΔ[7][this.ΔⵠΔᐃ][cf.time];
+        p = 7;
       }
-      ΔΔⲆᐃ = ΔΔ[Xr.ᐃᐃⵠᐃⲆ][cf.time];
+      ΔΔⲆᐃ = ΔΔ[286][cf.time];
       var x = m;
       var h = p;
       if (this.action & hw.ⲆⵠⵠΔⲆᐃⲆ) {
@@ -41517,21 +41517,21 @@
           Mv(p, m, -m.width / 2 + (66 + q) * Co, -m.height / Ug + (5 + w) * Co);
           ho.restore();
         } else if (c === wg) {
-          if (Xr.ΔΔΔⲆΔ === this.right) {
+          if (this.right === 64) {
             l = -ᐃⵠΔⲆ.ᐃΔΔⲆᐃⵠⵠ(-l);
           }
           ho.save();
           ho.rotate(l);
-          Mv(Xr.ᐃᐃⵠᐃⲆ, ΔΔⲆᐃ, -ΔΔⲆᐃ.width / Pn - (49 + q) * Co, -ΔΔⲆᐃ.height / 2 + Co * (Qh + w));
-          if (Xr.ᐃⵠΔΔⲆ === this.right) {
+          Mv(286, ΔΔⲆᐃ, -ΔΔⲆᐃ.width / Pn - (49 + q) * Co, -ΔΔⲆᐃ.height / 2 + Co * (Qh + w));
+          if (this.right === 28) {
             var u = ΔΔ[this.right][this.ᐃΔⲆⵠⲆ][cf.time];
             Rv(this.right, this.ᐃΔⲆⵠⲆ, u, -u.width / 4 - Co * (62 + q), -u.height / 4 + (w + 18) * Co);
           } else {
             ev(this.right, q, w);
           }
-          if (p >= Xr.ΔⲆᐃΔᐃ) {
+          if (p >= 920) {
             Dv(p, m, -m.width / 4 - (49 + q) * Co, -m.height / Wg + (d + w) * Co);
-          } else if (Xr.ⲆⵠⵠⲆΔ !== p) {
+          } else if (p !== 793) {
             Rv(p, this.ΔⵠΔᐃ, m, -m.width / $i - (49 + q) * Co, -m.height / 4 + (ps + w) * Co);
           } else {
             Mv(p, m, -m.width / 2 - (49 + q) * Co, -m.height / 2 + (nn + w) * Co);
@@ -41539,10 +41539,10 @@
           ho.restore();
           ho.save();
           ho.rotate(y);
-          Mv(Xr.ᐃᐃⵠᐃⲆ, ΔΔⲆᐃ, -ΔΔⲆᐃ.width / 2 + (49 + q) * Co, -ΔΔⲆᐃ.height / 2 + Co * (sj + w));
-          if (p >= Xr.ΔⲆᐃΔᐃ) {
+          Mv(286, ΔΔⲆᐃ, -ΔΔⲆᐃ.width / 2 + (49 + q) * Co, -ΔΔⲆᐃ.height / 2 + Co * (sj + w));
+          if (p >= 920) {
             Dv(p, m, -m.width / Vn + (49 + q) * Co, -m.height / Fr + (11 + w) * Co);
-          } else if (Xr.ⲆⵠⵠⲆΔ !== p) {
+          } else if (p !== 793) {
             Rv(p, this.ΔⵠΔᐃ, m, -m.width / 4 + Co * (49 + q), -m.height / 4 + Co * (At + w));
           } else {
             Mv(p, m, -m.width / 2 + (49 + q) * Co, -m.height / 2 + (Qt + w) * Co);
@@ -41553,44 +41553,44 @@
         Mv(p, m, -m.width / 2 - Co * (66 + q), -m.height / 2 + (5 + w) * Co);
         Mv(p, m, -m.width / 2 + Co * (66 + q), -m.height / 2 + Co * (Fk + w));
       } else if (c === 0) {
-        Mv(Xr.ᐃᐃⵠᐃⲆ, ΔΔⲆᐃ, -ΔΔⲆᐃ.width / rs - Co * (49 + q), -ΔΔⲆᐃ.height / 2 + Co * (15 + w));
-        if (Xr.ᐃⵠΔΔⲆ === this.right) {
+        Mv(286, ΔΔⲆᐃ, -ΔΔⲆᐃ.width / rs - Co * (49 + q), -ΔΔⲆᐃ.height / 2 + Co * (15 + w));
+        if (this.right === 28) {
           u = ΔΔ[this.right][this.ᐃΔⲆⵠⲆ][cf.time];
           Rv(this.right, this.ᐃΔⲆⵠⲆ, u, -u.width / 4 - (62 + q) * Co, -u.height / 4 + Co * (w + 18));
         } else {
           ev(this.right, q, w);
         }
-        if (Xr.ΔⲆᐃΔᐃ <= p) {
+        if (p >= 920) {
           Dv(p, m, -m.width / 4 - (49 + q) * Co, -m.height / Ct + (11 + w) * Co);
-        } else if (Xr.ⲆⵠⵠⲆΔ !== p) {
+        } else if (p !== 793) {
           Rv(p, this.ΔⵠΔᐃ, m, -m.width / 4 - (49 + q) * Co, -m.height / Ct + Co * (11 + w));
         } else {
           Mv(p, m, -m.width / 2 - Co * (49 + q), -m.height / 2 + Co * (11 + w));
         }
-        Mv(Xr.ᐃᐃⵠᐃⲆ, ΔΔⲆᐃ, -ΔΔⲆᐃ.width / 2 + (49 + q) * Co, -ΔΔⲆᐃ.height / Vh + Co * (15 + w));
-        if (p >= Xr.ΔⲆᐃΔᐃ) {
+        Mv(286, ΔΔⲆᐃ, -ΔΔⲆᐃ.width / 2 + (49 + q) * Co, -ΔΔⲆᐃ.height / Vh + Co * (15 + w));
+        if (p >= 920) {
           Dv(p, m, -m.width / tb + (49 + q) * Co, -m.height / 4 + (nn + w) * Co);
-        } else if (Xr.ⲆⵠⵠⲆΔ !== p) {
+        } else if (p !== 793) {
           Rv(p, this.ΔⵠΔᐃ, m, -m.width / 4 + Co * (49 + q), -m.height / ba + (Ol + w) * Co);
         } else {
           Mv(p, m, -m.width / 2 + Co * (49 + q), -m.height / 2 + (11 + w) * Co);
         }
       }
       if (this.ᐃⵠΔⲆᐃ && this.ⵠΔⵠⲆᐃ < 1) {
-        m = ΔΔ[Xr.ⵠⲆᐃᐃ][this.ⲆⵠᐃΔⲆⲆⲆ][cf.time];
-        Rv(Xr.ⵠⲆᐃᐃ, this.ⲆⵠᐃΔⲆⲆⲆ, m, -m.width / gl, -m.height / 4 - Co * 39);
+        m = ΔΔ[29][this.ⲆⵠᐃΔⲆⲆⲆ][cf.time];
+        Rv(29, this.ⲆⵠᐃΔⲆⲆⲆ, m, -m.width / gl, -m.height / 4 - Co * 39);
       }
       if (this.ⲆΔⲆⵠⵠⲆᐃ) {
-        m = ΔΔ[Xr.ΔⵠΔᐃΔᐃᐃ][cf.time];
-        Mv(Xr.ΔⵠΔᐃΔᐃᐃ, m, -m.width / 2, -m.height / Pn);
+        m = ΔΔ[820][cf.time];
+        Mv(820, m, -m.width / 2, -m.height / Pn);
         this.ΔΔⲆⵠⲆᐃΔ.ᐃⲆΔ();
-        m = ΔΔ[Xr.ⲆⲆⵠⲆⵠᐃⵠ][cf.time];
-        Mv(Xr.ⲆⲆⵠⲆⵠᐃⵠ, m, -m.width / xq, -m.height / lr + this.ΔΔⲆⵠⲆᐃΔ.ΔΔⲆ);
+        m = ΔΔ[821][cf.time];
+        Mv(821, m, -m.width / xq, -m.height / lr + this.ΔΔⲆⵠⲆᐃΔ.ΔΔⲆ);
       } else {
-        m = ΔΔ[Xr.ᐃⲆΔᐃΔᐃⲆ][this.ΔⵠΔᐃ][cf.time];
-        if (Xr.ΔΔᐃⲆΔ !== this.ⵠΔⵠⲆᐃ && (Rv(Xr.ᐃⲆΔᐃΔᐃⲆ, this.ΔⵠΔᐃ, m, -m.width / 4, -m.height / Ct), Lr < this.ΔⵠΔᐃᐃ)) {
-          m = ΔΔ[Xr.ΔⲆⵠⲆⵠ][this.ΔⵠΔᐃᐃ][cf.time];
-          Rv(Xr.ΔⲆⵠⲆⵠ, this.ΔⵠΔᐃᐃ, m, -m.width / 4, -m.height / Os);
+        m = ΔΔ[255][this.ΔⵠΔᐃ][cf.time];
+        if (this.ⵠΔⵠⲆᐃ !== 85 && (Rv(255, this.ΔⵠΔᐃ, m, -m.width / 4, -m.height / Ct), Lr < this.ΔⵠΔᐃᐃ)) {
+          m = ΔΔ[796][this.ΔⵠΔᐃᐃ][cf.time];
+          Rv(796, this.ΔⵠΔᐃᐃ, m, -m.width / 4, -m.height / Os);
         }
       }
       if (this.action & hw.ⲆᐃᐃⲆΔΔΔ) {
@@ -41599,10 +41599,10 @@
         }
         ho.globalAlpha = 0.6 - this.ⵠᐃᐃᐃⵠ.ΔΔⲆ;
         if (this.ⲆΔⲆⵠⵠⲆᐃ) {
-          m = ΔΔ[Xr.ᐃᐃᐃᐃⵠΔᐃ];
+          m = ΔΔ[825];
           Jm(ho, m, -m.width / 2, -m.height / lr);
         } else {
-          m = mv(this.ΔⵠΔᐃ, ΔΔ[Xr.ᐃⲆΔᐃΔᐃⲆ][this.ΔⵠΔᐃ][Zj], ⵠⲆⲆⲆⵠⲆⲆⲆᐃ);
+          m = mv(this.ΔⵠΔᐃ, ΔΔ[255][this.ΔⵠΔᐃ][Zj], ⵠⲆⲆⲆⵠⲆⲆⲆᐃ);
           Jm(ho, m, m.width / 4, m.height / Mq, -m.width / It, -m.height / xj);
         }
         ho.globalAlpha = 1;
@@ -41612,7 +41612,7 @@
           this.action -= hw.ⲆΔⵠΔᐃΔⲆ;
         }
         ho.globalAlpha = 0.6 - this.ΔΔⵠᐃⵠⲆⲆ.ΔΔⲆ;
-        m = ΔΔ[Xr.ⲆΔⵠΔᐃΔⲆ];
+        m = ΔΔ[266];
         Jm(ho, m, -m.width / 2, -m.height / 2);
         ho.globalAlpha = 1;
       }
@@ -41622,10 +41622,10 @@
         }
         ho.globalAlpha = 0.6 - this.ᐃⲆⲆ.ΔΔⲆ;
         if (this.ⲆΔⲆⵠⵠⲆᐃ) {
-          m = ΔΔ[Xr.ᐃΔⲆᐃⵠⲆⵠ];
+          m = ΔΔ[823];
           Jm(ho, m, -m.width / xq, -m.height / Vg);
         } else {
-          m = mv(this.ΔⵠΔᐃ, ΔΔ[Xr.ᐃⲆΔᐃΔᐃⲆ][this.ΔⵠΔᐃ][0], ⵠᐃΔⲆΔᐃⵠⵠⲆ);
+          m = mv(this.ΔⵠΔᐃ, ΔΔ[255][this.ΔⵠΔᐃ][0], ⵠᐃΔⲆΔᐃⵠⵠⲆ);
           Jm(ho, m, m.width / Pe, m.height / Ct, -m.width / 2, -m.height / Pn);
         }
         ho.globalAlpha = Hg;
@@ -41635,7 +41635,7 @@
           this.action -= hw.ᐃᐃⵠⵠᐃ;
         }
         ho.globalAlpha = 0.6 - this.freeze.ΔΔⲆ;
-        m = mv(this.ΔⵠΔᐃ, ΔΔ[Xr.ᐃⲆΔᐃΔᐃⲆ][this.ΔⵠΔᐃ][0], ΔⵠᐃⵠᐃᐃⵠᐃΔ);
+        m = mv(this.ΔⵠΔᐃ, ΔΔ[255][this.ΔⵠΔᐃ][0], ΔⵠᐃⵠᐃᐃⵠᐃΔ);
         Jm(ho, m, m.width / 4, m.height / Wg, -m.width / 2, -m.height / 2);
         ho.globalAlpha = wt;
       }
@@ -41645,10 +41645,10 @@
         }
         ho.globalAlpha = 0.6 - this.ᐃⵠⲆⲆᐃⲆᐃ.ΔΔⲆ;
         if (this.ⲆΔⲆⵠⵠⲆᐃ) {
-          m = ΔΔ[Xr.ᐃⵠΔΔᐃΔΔ];
+          m = ΔΔ[824];
           Jm(ho, m, -m.width / 2, -m.height / 2);
         } else {
-          m = mv(this.ΔⵠΔᐃ, ΔΔ[Xr.ᐃⲆΔᐃΔᐃⲆ][this.ΔⵠΔᐃ][mj], ΔᐃⲆⲆⲆΔⵠᐃΔ);
+          m = mv(this.ΔⵠΔᐃ, ΔΔ[255][this.ΔⵠΔᐃ][mj], ΔᐃⲆⲆⲆΔⵠᐃΔ);
           Jm(ho, m, m.width / Gi, m.height / 4, -m.width / 2, -m.height / xq);
         }
         ho.globalAlpha = 1;
@@ -41658,18 +41658,18 @@
         if (this.action & hw.ⲆⵠⵠΔⲆᐃⲆ) {
           q += this.attack.ΔΔⲆ * Ga;
         }
-        Mv(Xr.ᐃᐃⵠᐃⲆ, ΔΔⲆᐃ, -ΔΔⲆᐃ.width / lr - Co * 26, -ΔΔⲆᐃ.height / Vh + (31 + w + q) * Co);
-        if (Xr.ΔⲆᐃΔᐃ <= h) {
+        Mv(286, ΔΔⲆᐃ, -ΔΔⲆᐃ.width / lr - Co * 26, -ΔΔⲆᐃ.height / Vh + (31 + w + q) * Co);
+        if (h >= 920) {
           Dv(h, x, -x.width / 4 - Co * 26, -x.height / 4 + Co * (27 + w + q));
-        } else if (h !== Xr.ⲆⵠⵠⲆΔ) {
+        } else if (h !== 793) {
           Rv(h, this.ΔⵠΔᐃ, x, -x.width / Ct - Co * 26, -x.height / $l + (27 + w + q) * Co);
         } else {
           Mv(h, x, -x.width / Ul - Co * 26, -x.height / 2 + Co * (27 + w + q));
         }
-        Mv(Xr.ᐃᐃⵠᐃⲆ, ΔΔⲆᐃ, -ΔΔⲆᐃ.width / 2 + Co * 26, -ΔΔⲆᐃ.height / 2 + (31 + w + q) * Co);
-        if (h >= Xr.ΔⲆᐃΔᐃ) {
+        Mv(286, ΔΔⲆᐃ, -ΔΔⲆᐃ.width / 2 + Co * 26, -ΔΔⲆᐃ.height / 2 + (31 + w + q) * Co);
+        if (h >= 920) {
           Dv(h, x, -x.width / Ls + Co * 26, -x.height / 4 + Co * (27 + w + q));
-        } else if (Xr.ⲆⵠⵠⲆΔ !== h) {
+        } else if (h !== 793) {
           Rv(h, this.ΔⵠΔᐃ, x, -x.width / $l + Co * 26, -x.height / 4 + (27 + w + q) * Co);
         } else {
           Mv(h, x, -x.width / 2 + Co * 26, -x.height / Hj + Co * (27 + w + q));
@@ -41677,7 +41677,7 @@
         Xp(this.right, 0, w + q);
       }
       ho.restore();
-      if (Xr.ⲆΔⵠⵠᐃ !== this.ⵠΔⵠⲆᐃ && Xr.ΔΔᐃⲆΔ !== this.ⵠΔⵠⲆᐃ) {
+      if (this.ⵠΔⵠⲆᐃ !== 83 && this.ⵠΔⵠⲆᐃ !== 85) {
         if (this.ⲆΔΔΔᐃ > 0) {
           if (!this.ⲆᐃΔⲆ.ᐃΔⲆⵠⲆΔⵠ) {
             this.ⲆᐃΔⲆ.ᐃΔⲆⵠⲆΔⵠ = nd(Co, this.ⲆᐃΔⲆ.ⲆⲆΔⵠᐃ, Jg, "#187484", "#000", 2, null, null, Co * 300);
@@ -41695,7 +41695,7 @@
         Jm(ho, m, q, w);
         if (wj < this.ⲆᐃΔⲆ.level) {
           var z = q + m.width + 5;
-          m = ΔΔ[Xr.ᐃⲆⲆⲆⵠᐃᐃ];
+          m = ΔΔ[885];
           if (ᐃᐃⵠⵠᐃᐃᐃ[this.ⲆᐃΔⲆ.level] === undefined) {
             ᐃᐃⵠⵠᐃᐃᐃ[this.ⲆᐃΔⲆ.level] = nd(Co, "[" + this.ⲆᐃΔⲆ.level + "]", Kl, "#F9E8A2", "#000", 2, null, null, Co * 50);
           }
@@ -41704,13 +41704,13 @@
         ho.globalAlpha = hb;
       } else {
         w = Math.floor(Co * -70);
-        q = Math.floor(ΔΔ[Xr.ⲆΔⵠΔᐃⲆΔ].width / 1.5);
+        q = Math.floor(ΔΔ[558].width / 1.5);
       }
       if (Xw.ᐃⲆⵠⲆⵠⵠᐃ(this.Ⲇⵠⵠᐃ)) {
         if (this.Ⲇⵠⵠᐃ == Xw.ᐃΔⲆⲆⵠ[0]) {
-          m = ΔΔ[Xr.ΔⲆΔΔⵠᐃⵠ];
+          m = ΔΔ[559];
         } else {
-          m = ΔΔ[Xr.ⲆΔⵠΔᐃⲆΔ];
+          m = ΔΔ[558];
         }
         Jm(ho, m, q - m.width - mb, w - 6);
       }
@@ -41864,7 +41864,7 @@
                     cf.ⵠᐃᐃⲆΔ[H].ᐃⲆΔ();
                     cf.ⵠᐃᐃⲆΔ[H].ᐃᐃᐃΔᐃᐃᐃ = yf;
                   }
-                  var I = ΔΔ[Xr.ⲆΔⵠⲆᐃ][cf.time][ΔΔΔⵠᐃᐃⵠ[h].ⲆⲆΔⲆ[H].ⵠⵠⵠ];
+                  var I = ΔΔ[941][cf.time][ΔΔΔⵠᐃᐃⵠ[h].ⲆⲆΔⲆ[H].ⵠⵠⵠ];
                   var J = -I.width * cf.ⵠᐃᐃⲆΔ[H].ΔΔⲆ;
                   var K = -I.height * cf.ⵠᐃᐃⲆΔ[H].ΔΔⲆ;
                   Jm(ho, I, Xw.ⵠᐃⲆ.x + D.x - J / 4 + F + ΔΔΔⵠᐃᐃⵠ[h].ⲆⲆΔⲆ[H].x, Xw.ⵠᐃⲆ.y + D.y - K / 4 + G + ΔΔΔⵠᐃᐃⵠ[h].ⲆⲆΔⲆ[H].y, J / 2, K / Lt);
@@ -42821,12 +42821,12 @@
         }
       }
       if (bf.ⵠⵠᐃⲆᐃ) {
-        Cv(pv, xv, yv, vv, wv, Xr.ⵠⵠⵠᐃⲆ, "isl", vg);
-        Cv(pv, xv, yv, vv, wv, Xr.ⵠΔⵠⲆⵠ, "isl", Rl);
+        Cv(pv, xv, yv, vv, wv, 695, "isl", vg);
+        Cv(pv, xv, yv, vv, wv, 694, "isl", Rl);
       }
-      Cv(tv, xv, yv, vv, wv, Xr.ⲆⲆⵠⲆᐃ, "isl", 2);
+      Cv(tv, xv, yv, vv, wv, 692, "isl", 2);
       if (bf.ⵠⵠᐃⲆᐃ) {
-        Cv(uv, xv, yv, vv, wv, Xr.ⲆᐃΔⲆᐃⵠΔ, "de");
+        Cv(uv, xv, yv, vv, wv, 243, "de");
       }
       var B = cf.ⲆΔⲆ[nw.ᐃᐃⲆⲆⲆ];
       for (c = 0; c < B.length; c++) {
@@ -42837,7 +42837,7 @@
       if ((vp += _w * 40) > 60) {
         vp -= 60;
       }
-      Cv(Sp, xv, yv, vv, wv, Xr.ΔΔⲆⲆ, "r", wj);
+      Cv(Sp, xv, yv, vv, wv, 1024, "r", wj);
       for (c = 0; c < cf.Ⲇᐃᐃᐃ.length; c++) {
         if ((f = cf.Ⲇᐃᐃᐃ[c]).ⵠⵠⵠ !== cf.ΔⲆΔⵠΔ) {
           k = f.x2;
@@ -42877,18 +42877,18 @@
       var i = xv;
       var t = yv;
       if (bf.ⵠⵠᐃⲆᐃ) {
-        Cv(tv, i, t, k, e, Xr.ΔΔΔᐃⲆ, "l", 2);
+        Cv(tv, i, t, k, e, 621, "l", 2);
       }
       if (bf.ⵠⵠᐃⲆᐃ) {
         Cv(tv, i, t, k, e, Xr.ΔᐃΔΔⲆ, "la", Qr);
       }
-      Cv(tv, i, t, k, e, Xr.ΔⲆⲆⵠΔ, "la", Oj);
-      Cv(pv, i, t, k, e, Xr.ⵠᐃᐃⵠᐃ, "l", 2);
+      Cv(tv, i, t, k, e, 203, "la", Oj);
+      Cv(pv, i, t, k, e, 620, "l", 2);
       if (bf.ⵠⵠᐃⲆᐃ) {
-        Cv(sv, i, t, k, e, Xr.ΔⲆⲆⵠΔ, "la", Ig);
-        Cv(pv, i, t, k, e, Xr.ΔⲆᐃⵠᐃ, "l", as);
+        Cv(sv, i, t, k, e, 203, "la", Ig);
+        Cv(pv, i, t, k, e, 619, "l", as);
       }
-      Cv(tv, i, t, k, e, Xr.ⲆΔᐃⲆᐃ, "ma", Ng);
+      Cv(tv, i, t, k, e, 1052, "ma", Ng);
       for (var n = cf.ⲆΔⲆ[nw.ⵠⵠᐃΔⲆᐃΔ], aa = 0; n.length > aa; aa++) {
         n[aa].ΔⲆⵠⲆⲆⵠⲆ();
       }
@@ -42900,7 +42900,7 @@
       }
       var ea = cf.ⲆΔⲆ[nw.ⲆᐃⲆᐃⵠ];
       for (aa = ig; aa < ea.length; aa++) {
-        zv(ea[aa], Xr.ⲆᐃⲆᐃⵠ);
+        zv(ea[aa], 125);
         ea[aa].ΔⵠⲆⵠᐃ(ea[aa].info);
       }
       var l = cf.ⲆΔⲆ[nw.ⲆᐃΔᐃⵠ];
@@ -42911,7 +42911,7 @@
       }
       var fa = cf.ⲆΔⲆ[nw.ΔᐃᐃⲆⲆ];
       for (aa = wg; fa.length > aa; aa++) {
-        Gv(fa[aa], Xr.ⲆⲆᐃⵠΔⲆⵠ);
+        Gv(fa[aa], 113);
       }
       var ha = cf.ⲆΔⲆ[nw.ⲆⲆⵠⵠᐃ];
       for (aa = 0; ha.length > aa; aa++) {
@@ -42923,7 +42923,7 @@
       }
       var ja = cf.ⲆΔⲆ[nw.ᐃΔΔⵠΔ];
       for (aa = st; ja.length > aa; aa++) {
-        Gv(ja[aa], Xr.ⵠᐃΔᐃⵠᐃⵠ);
+        Gv(ja[aa], 118);
       }
       var d = cf.ⲆΔⲆ[nw.ⵠΔᐃᐃᐃ];
       for (aa = 0; aa < d.length; aa++) {
@@ -42931,7 +42931,7 @@
       }
       var c = cf.ⲆΔⲆ[nw.ΔΔΔⵠⵠ];
       for (aa = 0; c.length > aa; aa++) {
-        zv(c[aa], Xr.ΔΔΔⵠⵠ);
+        zv(c[aa], 141);
       }
       var m = cf.ⲆΔⲆ[nw.ⵠᐃΔⲆᐃ];
       for (aa = Yh; m.length > aa; aa++) {
@@ -42967,7 +42967,7 @@
       }
       var na = cf.ⲆΔⲆ[nw.ᐃⲆᐃⲆΔ];
       for (aa = In; na.length > aa; aa++) {
-        zv(na[aa], Xr.ⲆΔᐃΔΔ);
+        zv(na[aa], 132);
       }
       var oa = cf.ⲆΔⲆ[nw.ⲆⲆΔⲆⵠ];
       for (aa = 0; aa < oa.length; aa++) {
@@ -42994,106 +42994,106 @@
       }
       var ra = cf.ⲆΔⲆ[nw.Δⵠᐃᐃⵠ];
       for (aa = Da; ra.length > aa; aa++) {
-        zv(ra[aa], Xr.Δⵠᐃᐃⵠ, Xr.ⵠΔΔᐃⵠΔᐃ);
+        zv(ra[aa], 250, 729);
       }
       var A = cf.ⲆΔⲆ[nw.ⵠΔΔⵠΔᐃΔ];
       for (aa = 0; aa < A.length; aa++) {
-        zv(A[aa], Xr.Δⵠᐃᐃⵠ, Xr.ⵠΔΔᐃⵠΔᐃ);
+        zv(A[aa], 250, 729);
       }
       var x = cf.ⲆΔⲆ[nw.ΔΔΔΔΔ];
       for (aa = 0; aa < x.length; aa++) {
-        zv(x[aa], Xr.ΔΔΔΔΔ, Xr.ⲆⵠΔᐃⲆΔᐃ);
+        zv(x[aa], 854, 859);
       }
       var J = cf.ⲆΔⲆ[nw.ᐃⲆΔᐃⲆ];
       for (aa = ya; J.length > aa; aa++) {
         if (J[aa].info & mk) {
-          zv(J[aa], Xr.ⵠᐃⵠΔⵠΔⲆ);
+          zv(J[aa], 336);
         }
       }
       J = cf.ⲆΔⲆ[nw.ΔⵠⵠΔΔ];
       aa = ig;
       for (; J.length > aa; aa++) {
         if (J[aa].info & 1) {
-          zv(J[aa], Xr.ⵠΔⲆᐃᐃⲆᐃ);
+          zv(J[aa], 373);
         }
       }
       J = cf.ⲆΔⲆ[nw.ΔΔⲆᐃⲆ];
       aa = Da;
       for (; J.length > aa; aa++) {
         if (J[aa].info) {
-          zv(J[aa], Xr.ΔⲆⲆᐃᐃΔΔ);
+          zv(J[aa], 376);
         }
       }
       J = cf.ⲆΔⲆ[nw.ΔⵠΔⲆΔ];
       aa = Ih;
       for (; aa < J.length; aa++) {
         if (J[aa].info) {
-          zv(J[aa], Xr.ᐃᐃᐃΔᐃΔⵠ);
+          zv(J[aa], 379);
         }
       }
       J = cf.ⲆΔⲆ[nw.ⵠΔⲆⵠᐃ];
       aa = mj;
       for (; aa < J.length; aa++) {
         if (J[aa].info) {
-          zv(J[aa], Xr.ΔⲆⲆᐃΔⵠⲆ);
+          zv(J[aa], 500);
         }
       }
       J = cf.ⲆΔⲆ[nw.ᐃΔΔⵠᐃ];
       aa = 0;
       for (; J.length > aa; aa++) {
         if (J[aa].info) {
-          zv(J[aa], Xr.ΔⲆⲆᐃᐃΔΔ);
+          zv(J[aa], 376);
         }
       }
       J = cf.ⲆΔⲆ[nw.ΔⵠⵠⲆᐃ];
       aa = ig;
       for (; aa < J.length; aa++) {
         if (J[aa].info & 1) {
-          zv(J[aa], Xr.ⵠᐃⵠΔⵠΔⲆ);
+          zv(J[aa], 336);
         }
       }
       J = cf.ⲆΔⲆ[nw.ⵠΔᐃⲆΔ];
       aa = 0;
       for (; aa < J.length; aa++) {
         if (J[aa].info & 1) {
-          zv(J[aa], Xr.ⵠΔⲆᐃᐃⲆᐃ);
+          zv(J[aa], 373);
         }
       }
       J = cf.ⲆΔⲆ[nw.ᐃΔⵠⵠⵠ];
       aa = 0;
       for (; J.length > aa; aa++) {
         if (J[aa].info) {
-          zv(J[aa], Xr.ΔⲆⲆᐃᐃΔΔ);
+          zv(J[aa], 376);
         }
       }
       J = cf.ⲆΔⲆ[nw.ⵠΔᐃΔΔ];
       aa = 0;
       for (; J.length > aa; aa++) {
         if (J[aa].info) {
-          zv(J[aa], Xr.ᐃᐃᐃΔᐃΔⵠ);
+          zv(J[aa], 379);
         }
       }
       J = cf.ⲆΔⲆ[nw.Δⵠᐃⵠᐃ];
       aa = st;
       for (; J.length > aa; aa++) {
         if (J[aa].info) {
-          zv(J[aa], Xr.ΔⲆⲆᐃΔⵠⲆ);
+          zv(J[aa], 500);
         }
       }
       J = cf.ⲆΔⲆ[nw.Ⲇᐃⵠⵠⵠ];
       aa = 0;
       for (; aa < J.length; aa++) {
         if (J[aa].info) {
-          zv(J[aa], Xr.ΔⲆⲆᐃᐃΔΔ);
+          zv(J[aa], 376);
         }
       }
       var sa = cf.ⲆΔⲆ[nw.ⵠⵠⲆⵠΔ];
       for (aa = 0; aa < sa.length; aa++) {
-        zv(sa[aa], Xr.ⵠⵠⲆⵠΔ, Xr.ⵠᐃⵠᐃⵠⵠᐃ);
+        zv(sa[aa], 264, 322);
       }
       var B = cf.ⲆΔⲆ[nw.ΔⲆⵠΔΔ];
       for (aa = Hi; aa < B.length; aa++) {
-        zv(B[aa], Xr.ΔⲆⵠΔΔ);
+        zv(B[aa], 198);
       }
       n = cf.ⲆΔⲆ[nw.ⵠⵠᐃΔⲆᐃΔ];
       aa = 0;
@@ -43110,7 +43110,7 @@
       aa = 0;
       for (; ba.length > aa; aa++) {
         ca = ba[aa];
-        if (_r.ⲆⵠΔᐃⵠ !== ba[aa].ΔⲆᐃΔΔ && ba[aa].ΔⲆᐃΔΔ !== _r.ⲆⲆΔⵠⲆ && _r.ⵠᐃⲆⲆΔ !== ba[aa].ΔⲆᐃΔΔ && _r.ΔⵠΔΔⵠ !== ba[aa].ΔⲆᐃΔΔ && ba[aa].ΔⲆᐃΔΔ !== _r.ⲆⵠΔΔΔ) {
+        if (ba[aa].ΔⲆᐃΔΔ !== 227 && ba[aa].ΔⲆᐃΔΔ !== 228 && ba[aa].ΔⲆᐃΔΔ !== 229 && ba[aa].ΔⲆᐃΔΔ !== 230 && ba[aa].ΔⲆᐃΔΔ !== 91) {
           if (ca.ⵠᐃᐃᐃΔⵠΔ === 0) {
             if (ca.ᐃⵠⵠⵠⵠⵠⵠ > 0.001) {
               ca.ᐃⵠⵠⵠⵠⵠⵠ = ᐃⵠΔⲆ.ᐃⵠΔⵠᐃᐃᐃ(ca.ᐃⵠⵠⵠⵠⵠⵠ, 0, 0.018);
@@ -43163,7 +43163,7 @@
       B = cf.ⲆΔⲆ[nw.ΔⲆⵠΔΔ];
       aa = Yh;
       for (; B.length > aa; aa++) {
-        zv(B[aa], Xr.ⲆᐃⲆⵠᐃⵠⵠ);
+        zv(B[aa], 913);
       }
       var va = cf.ⲆΔⲆ[nw.ⵠⵠⵠⵠⲆ];
       for (aa = Lr; aa < va.length; aa++) {
@@ -43171,7 +43171,7 @@
       }
       var S = cf.ⲆΔⲆ[nw.ⲆⵠⲆᐃⵠ];
       for (aa = ig; aa < S.length; aa++) {
-        zv(S[aa], Xr.ⲆⵠⲆᐃⵠ, Xr.ⲆᐃⲆⵠᐃᐃΔ);
+        zv(S[aa], 419, 461);
       }
       var Q = cf.ⲆΔⲆ[nw.ᐃΔᐃⵠΔ];
       for (aa = 0; Q.length > aa; aa++) {
@@ -43179,15 +43179,15 @@
       }
       var _ = cf.ⲆΔⲆ[nw.ΔⵠΔⵠⲆ];
       for (aa = wg; _.length > aa; aa++) {
-        zv(_[aa], Xr.ΔⵠΔⵠⲆ, Xr.ΔⵠΔᐃⲆΔⵠ);
+        zv(_[aa], 299, 326);
       }
       var F = cf.ⲆΔⲆ[nw.ⲆⵠΔᐃⵠ];
       for (aa = 0; aa < F.length; aa++) {
-        zv(F[aa], Xr.ⲆⵠΔᐃⵠ, Xr.ΔⲆⵠⲆⲆΔᐃ);
+        zv(F[aa], 232, 1077);
       }
       var R = cf.ⲆΔⲆ[nw.ⲆⲆΔⵠⲆ];
       for (aa = 0; R.length > aa; aa++) {
-        zv(R[aa], Xr.ⲆⲆΔⵠⲆ, Xr.ⵠΔΔⲆⵠⲆᐃ);
+        zv(R[aa], 233, 1092);
       }
       ka = cf.ⲆΔⲆ[nw.ⲆⵠΔᐃᐃ];
       aa = fl;
@@ -43206,7 +43206,7 @@
       ma = cf.ⲆΔⲆ[nw.ⵠᐃΔΔΔⵠΔ];
       aa = Qs;
       for (; ma.length > aa; aa++) {
-        zv(ma[aa], Xr.ⵠΔᐃⵠⲆ);
+        zv(ma[aa], 239);
       }
       ma = cf.ⲆΔⲆ[nw.ΔⵠⵠΔⲆ];
       aa = 0;
@@ -43243,27 +43243,27 @@
       }
       var G = cf.ⲆΔⲆ[nw.ⵠΔΔⲆᐃ];
       for (aa = Rq; aa < G.length; aa++) {
-        zv(G[aa], Xr.ⵠΔΔⲆᐃ, Xr.ᐃⵠⵠⵠᐃⵠⵠ);
+        zv(G[aa], 691, 697);
       }
       var j = cf.ⲆΔⲆ[nw.ⲆⲆᐃⲆᐃ];
       for (aa = 0; aa < j.length; aa++) {
-        zv(j[aa], Xr.ⲆⲆᐃⲆᐃ, Xr.ΔⲆᐃᐃⲆⲆⵠ);
+        zv(j[aa], 637, 687);
       }
       var L = cf.ⲆΔⲆ[nw.ⲆⲆᐃⲆⵠ];
       for (aa = Yh; L.length > aa; aa++) {
-        zv(L[aa], Xr.ⲆⲆᐃⲆⵠ, Xr.ᐃⲆⲆⵠⵠᐃᐃ);
+        zv(L[aa], 673, 688);
       }
       var W = cf.ⲆΔⲆ[nw.ⵠΔᐃΔⵠ];
       for (aa = Yh; W.length > aa; aa++) {
-        zv(W[aa], Xr.ⵠΔᐃΔⵠ, Xr.ⲆⵠⵠⲆᐃΔΔ);
+        zv(W[aa], 260, 333);
       }
       var O = cf.ⲆΔⲆ[nw.ⲆᐃᐃⲆⵠ];
       for (aa = Mg; aa < O.length; aa++) {
-        zv(O[aa], Xr.ⲆᐃᐃⲆⵠ, Xr.ΔⵠΔⲆⲆᐃΔ);
+        zv(O[aa], 1033, 1034);
       }
       var N = cf.ⲆΔⲆ[nw.ⵠⲆⲆᐃΔ];
       for (aa = 0; N.length > aa; aa++) {
-        zv(N[aa], Xr.ⵠⲆⲆᐃΔ, Xr.ⲆΔΔⲆᐃⲆⵠ);
+        zv(N[aa], 445, 462);
       }
       var q = cf.ⲆΔⲆ[nw.ΔΔⵠⲆⲆ];
       for (aa = 0; aa < q.length; aa++) {
@@ -43271,7 +43271,7 @@
       }
       var H = cf.ⲆΔⲆ[nw.ⲆⵠⵠΔⲆ];
       for (aa = ig; H.length > aa; aa++) {
-        zv(H[aa], Xr.ΔΔⲆᐃᐃⲆΔ, Xr.ᐃⲆᐃΔⵠⲆⵠ);
+        zv(H[aa], 918, 919);
       }
       var U = cf.ⲆΔⲆ[nw.ᐃⵠⵠᐃⵠ];
       for (aa = Da; U.length > aa; aa++) {
@@ -43279,19 +43279,19 @@
       }
       var Y = cf.ⲆΔⲆ[nw.ᐃΔⲆⲆⲆ];
       for (aa = 0; aa < Y.length; aa++) {
-        zv(Y[aa], Xr.ᐃΔⲆⲆⲆ, Xr.ᐃⲆΔΔᐃⵠⵠ);
+        zv(Y[aa], 1218, 1219);
       }
       var K = cf.ⲆΔⲆ[nw.ᐃⵠΔⵠⵠ];
       for (aa = 0; aa < K.length; aa++) {
         if (K[aa].scale === ie) {
-          zv(K[aa], Xr.ᐃⵠΔⵠⵠ, Xr.ⵠⲆⵠᐃⲆⵠᐃ);
+          zv(K[aa], 449, 463);
         }
       }
       K = cf.ⲆΔⲆ[nw.ᐃΔⲆⲆΔ];
       aa = Da;
       for (; K.length > aa; aa++) {
         if (K[aa].scale === 1) {
-          zv(K[aa], Xr.ᐃΔⲆⲆΔ, Xr.ᐃᐃⵠᐃⲆΔΔ);
+          zv(K[aa], 450, 464);
         }
       }
       var wa = cf.ⲆΔⲆ[nw.ᐃⲆⲆⲆⲆ];
@@ -43300,7 +43300,7 @@
       }
       var Z = cf.ⲆΔⲆ[nw.ⵠⲆΔⵠᐃ];
       for (aa = wg; aa < Z.length; aa++) {
-        zv(Z[aa], Xr.ⵠⲆΔⵠᐃ);
+        zv(Z[aa], 114);
       }
       l = cf.ⲆΔⲆ[nw.ⲆᐃΔᐃⵠ];
       aa = 0;
@@ -43315,7 +43315,7 @@
       aa = 0;
       for (; aa < J.length; aa++) {
         if (!(J[aa].info & Gh)) {
-          zv(J[aa], Xr.ⵠⲆΔᐃⵠⲆⲆ);
+          zv(J[aa], 166);
         }
         J[aa].ΔⵠⲆⵠᐃ(J[aa].info >> Wl);
       }
@@ -43323,7 +43323,7 @@
       aa = Zj;
       for (; J.length > aa; aa++) {
         if (!(J[aa].info & 1)) {
-          zv(J[aa], Xr.ΔⵠΔⲆᐃⵠᐃ);
+          zv(J[aa], 171);
         }
         J[aa].ΔⵠⲆⵠᐃ(J[aa].info >> zs);
       }
@@ -43331,7 +43331,7 @@
       aa = Yh;
       for (; J.length > aa; aa++) {
         if (!(J[aa].info & Oq)) {
-          zv(J[aa], Xr.ΔⲆⲆⲆⵠⲆⲆ);
+          zv(J[aa], 172);
         }
         J[aa].ΔⵠⲆⵠᐃ(J[aa].info >> ie);
       }
@@ -43339,7 +43339,7 @@
       aa = mj;
       for (; J.length > aa; aa++) {
         if (!(J[aa].info & 1)) {
-          zv(J[aa], Xr.ᐃⲆⲆΔⵠⵠⵠ);
+          zv(J[aa], 173);
         }
         J[aa].ΔⵠⲆⵠᐃ(J[aa].info >> Tl);
       }
@@ -43347,7 +43347,7 @@
       aa = 0;
       for (; aa < J.length; aa++) {
         if (!(J[aa].info & zg)) {
-          zv(J[aa], Xr.ⵠᐃⲆᐃⲆⲆᐃ);
+          zv(J[aa], 124);
         }
         J[aa].ΔⵠⲆⵠᐃ(J[aa].info >> pu);
       }
@@ -43355,7 +43355,7 @@
       aa = 0;
       for (; J.length > aa; aa++) {
         if (!(J[aa].info & 1)) {
-          zv(J[aa], Xr.Ⲇᐃⵠⵠⵠ);
+          zv(J[aa], 218);
         }
         J[aa].ΔⵠⲆⵠᐃ(J[aa].info >> Hg);
       }
@@ -43363,7 +43363,7 @@
       aa = In;
       for (; J.length > aa; aa++) {
         if (!(J[aa].info & zg)) {
-          zv(J[aa], Xr.ᐃⲆΔᐃⲆ);
+          zv(J[aa], 212);
         }
         J[aa].ΔⵠⲆⵠᐃ(J[aa].info >> 1);
       }
@@ -43371,7 +43371,7 @@
       aa = st;
       for (; aa < J.length; aa++) {
         if (!(J[aa].info & 1)) {
-          zv(J[aa], Xr.ΔⵠⵠΔΔ);
+          zv(J[aa], 213);
         }
         J[aa].ΔⵠⲆⵠᐃ(J[aa].info >> Hg);
       }
@@ -43379,7 +43379,7 @@
       aa = Rq;
       for (; aa < J.length; aa++) {
         if (!(J[aa].info & 1)) {
-          zv(J[aa], Xr.ΔΔⲆᐃⲆ);
+          zv(J[aa], 214);
         }
         J[aa].ΔⵠⲆⵠᐃ(J[aa].info >> 1);
       }
@@ -43387,7 +43387,7 @@
       aa = ig;
       for (; aa < J.length; aa++) {
         if (!(J[aa].info & mk)) {
-          zv(J[aa], Xr.ΔⵠΔⲆΔ);
+          zv(J[aa], 215);
         }
         J[aa].ΔⵠⲆⵠᐃ(J[aa].info >> 1);
       }
@@ -43395,7 +43395,7 @@
       aa = 0;
       for (; aa < J.length; aa++) {
         if (!(J[aa].info & 1)) {
-          zv(J[aa], Xr.ⵠΔⲆⵠᐃ);
+          zv(J[aa], 216);
         }
         J[aa].ΔⵠⲆⵠᐃ(J[aa].info >> 1);
       }
@@ -43403,116 +43403,116 @@
       aa = mj;
       for (; aa < J.length; aa++) {
         if (!(J[aa].info & zg)) {
-          zv(J[aa], Xr.ᐃΔΔⵠᐃ);
+          zv(J[aa], 220);
         }
         J[aa].ΔⵠⲆⵠᐃ(J[aa].info >> Wl);
       }
       var xa = cf.ⲆΔⲆ[nw.ⲆⲆⲆⲆⵠ];
       for (aa = Rq; xa.length > aa; aa++) {
-        zv(xa[aa], Xr.ⲆⲆⲆⲆⵠ);
+        zv(xa[aa], 162);
         xa[aa].ΔⵠⲆⵠᐃ(xa[aa].info);
       }
       xa = cf.ⲆΔⲆ[nw.ΔᐃⵠⲆⲆ];
       aa = 0;
       for (; aa < xa.length; aa++) {
-        zv(xa[aa], Xr.ΔᐃⵠⲆⲆ);
+        zv(xa[aa], 163);
         xa[aa].ΔⵠⲆⵠᐃ(xa[aa].info);
       }
       xa = cf.ⲆΔⲆ[nw.ᐃᐃᐃᐃᐃ];
       aa = ya;
       for (; xa.length > aa; aa++) {
-        zv(xa[aa], Xr.ᐃᐃᐃᐃᐃ);
+        zv(xa[aa], 164);
         xa[aa].ΔⵠⲆⵠᐃ(xa[aa].info);
       }
       xa = cf.ⲆΔⲆ[nw.ⵠᐃⲆᐃⵠ];
       aa = Qs;
       for (; xa.length > aa; aa++) {
-        zv(xa[aa], Xr.ⵠᐃⲆᐃⵠ);
+        zv(xa[aa], 165);
         xa[aa].ΔⵠⲆⵠᐃ(xa[aa].info);
       }
       xa = cf.ⲆΔⲆ[nw.ᐃΔⵠⵠΔ];
       aa = 0;
       for (; aa < xa.length; aa++) {
-        zv(xa[aa], Xr.ᐃΔⵠⵠΔ);
+        zv(xa[aa], 122);
         xa[aa].ΔⵠⲆⵠᐃ(xa[aa].info);
       }
       xa = cf.ⲆΔⲆ[nw.ᐃⵠⵠⲆᐃ];
       aa = 0;
       for (; aa < xa.length; aa++) {
-        zv(xa[aa], Xr.ᐃⵠⵠⲆᐃ);
+        zv(xa[aa], 217);
         xa[aa].ΔⵠⲆⵠᐃ(xa[aa].info);
       }
       var Aa = cf.ⲆΔⲆ[nw.ⵠⵠΔⵠⲆ];
       for (aa = Hi; aa < Aa.length; aa++) {
-        zv(Aa[aa], Xr.ⵠⵠΔⵠⲆ);
+        zv(Aa[aa], 160);
         Aa[aa].ΔⵠⲆⵠᐃ(Aa[aa].info);
       }
       Aa = cf.ⲆΔⲆ[nw.ⲆᐃⲆΔΔ];
       aa = 0;
       for (; Aa.length > aa; aa++) {
-        zv(Aa[aa], Xr.ⲆᐃⲆΔΔ);
+        zv(Aa[aa], 168);
         Aa[aa].ΔⵠⲆⵠᐃ(Aa[aa].info);
       }
       Aa = cf.ⲆΔⲆ[nw.Ⲇᐃⵠᐃⵠ];
       aa = 0;
       for (; Aa.length > aa; aa++) {
-        zv(Aa[aa], Xr.Ⲇᐃⵠᐃⵠ);
+        zv(Aa[aa], 169);
         Aa[aa].ΔⵠⲆⵠᐃ(Aa[aa].info);
       }
       Aa = cf.ⲆΔⲆ[nw.ⲆⵠᐃΔΔ];
       aa = 0;
       for (; aa < Aa.length; aa++) {
-        zv(Aa[aa], Xr.ⲆⵠᐃΔΔ);
+        zv(Aa[aa], 170);
         Aa[aa].ΔⵠⲆⵠᐃ(Aa[aa].info);
       }
       Aa = cf.ⲆΔⲆ[nw.ᐃⲆⵠᐃᐃ];
       aa = ya;
       for (; aa < Aa.length; aa++) {
-        zv(Aa[aa], Xr.ᐃⲆⵠᐃᐃ);
+        zv(Aa[aa], 123);
         Aa[aa].ΔⵠⲆⵠᐃ(Aa[aa].info);
       }
       Aa = cf.ⲆΔⲆ[nw.ⵠⲆᐃᐃⲆ];
       aa = Rq;
       for (; Aa.length > aa; aa++) {
-        zv(Aa[aa], Xr.ⵠⲆᐃᐃⲆ);
+        zv(Aa[aa], 219);
         Aa[aa].ΔⵠⲆⵠᐃ(Aa[aa].info);
       }
       var Ba = cf.ⲆΔⲆ[nw.ⲆⵠⲆⵠⵠ];
       for (aa = eu; Ba.length > aa; aa++) {
         var Ca = Ba[aa];
         if (Ca.info > fl) {
-          zv(Ca, Xr.ᐃⵠΔⲆᐃᐃΔ);
+          zv(Ca, 788);
         } else {
-          zv(Ca, Xr.ᐃⲆΔⲆᐃᐃΔ);
+          zv(Ca, 182);
         }
       }
       var Ea = cf.ⲆΔⲆ[nw.ⲆⵠᐃᐃΔ];
       for (aa = 0; aa < Ea.length; aa++) {
-        zv(Ea[aa], Xr.ⲆⵠᐃᐃΔ);
+        zv(Ea[aa], 159);
       }
-      Cv(tv, i, t, k, e, Xr.ᐃⲆⵠᐃ, "g", rs);
-      Cv(tv, i, t, k, e, Xr.ⵠΔⵠᐃᐃ, "gw", 2);
-      Cv(tv, i, t, k, e, Xr.ᐃⲆΔⵠ, "d", 2);
-      Cv(tv, i, t, k, e, Xr.ⲆⵠⲆΔᐃ, "dw", Vh);
-      Cv(tv, i, t, k, e, Xr.ⵠᐃⲆⲆⲆ, "p", 0);
-      Cv(tv, i, t, k, e, Xr.ᐃⵠⵠΔⵠ, "m", xq);
-      Cv(tv, i, t, k, e, Xr.Ⲇⵠⵠⵠ, "a", Rl);
-      Cv(tv, i, t, k, e, Xr.ᐃⵠᐃΔ, "re", 2);
-      Cv(tv, i, t, k, e, Xr.ⵠᐃⵠⵠⵠ, "cs", Tr, ut);
-      Cv(tv, i, t, k, e, Xr.ⵠᐃⵠⵠⵠ, "cs", Vh, Ug);
-      Cv(tv, i, t, k, e, Xr.ⵠᐃⵠⵠⵠ, "cs", Oq, og);
-      Cv(tv, i, t, k, e, Xr.ⵠᐃⵠⵠⵠ, "cs", 0, Da);
-      Cv(tv, i, t, k, e, Xr.ⵠⲆᐃᐃⵠ, "cs", ll, Wb);
-      Cv(tv, i, t, k, e, Xr.ⵠⲆᐃᐃⵠ, "cs", Vh, Vh);
-      Cv(tv, i, t, k, e, Xr.ⵠⲆᐃᐃⵠ, "cs", Hg, 1);
-      Cv(tv, i, t, k, e, Xr.ⵠⲆᐃᐃⵠ, "cs", 0, os);
+      Cv(tv, i, t, k, e, 111, "g", rs);
+      Cv(tv, i, t, k, e, 415, "gw", 2);
+      Cv(tv, i, t, k, e, 112, "d", 2);
+      Cv(tv, i, t, k, e, 416, "dw", Vh);
+      Cv(tv, i, t, k, e, 110, "p", 0);
+      Cv(tv, i, t, k, e, 241, "m", xq);
+      Cv(tv, i, t, k, e, 121, "a", Rl);
+      Cv(tv, i, t, k, e, 202, "re", 2);
+      Cv(tv, i, t, k, e, 679, "cs", Tr, ut);
+      Cv(tv, i, t, k, e, 679, "cs", Vh, Ug);
+      Cv(tv, i, t, k, e, 679, "cs", Oq, og);
+      Cv(tv, i, t, k, e, 679, "cs", 0, Da);
+      Cv(tv, i, t, k, e, 676, "cs", ll, Wb);
+      Cv(tv, i, t, k, e, 676, "cs", Vh, Vh);
+      Cv(tv, i, t, k, e, 676, "cs", Hg, 1);
+      Cv(tv, i, t, k, e, 676, "cs", 0, os);
       var Fa = cf.ⲆΔⲆ[nw.ⵠⵠⵠⲆΔ];
       for (aa = 0; Fa.length > aa; aa++) {
         for (da = Hi; da < Fa[aa].info; da++) {
-          zv(Fa[aa].Δᐃⵠⵠ[da], Xr.ⵠⵠⵠⲆΔ);
+          zv(Fa[aa].Δᐃⵠⵠ[da], 294);
         }
       }
-      Cv(tv, i, t, k, e, Xr.ⵠⵠⲆΔΔ, "s", pq);
+      Cv(tv, i, t, k, e, 108, "s", pq);
       var Ga = cf.ⲆΔⲆ[nw.ⲆᐃΔⲆⵠ];
       for (aa = Mg; aa < Ga.length; aa++) {
         zv(Ga[aa]);
@@ -43574,18 +43574,18 @@
         Sv(ia[aa]);
         ia[aa].ΔⵠⲆⵠᐃ(ia[aa].info);
       }
-      Cv(tv, i, t, k, e, Xr.ⵠⵠⵠΔⲆ, "c", ya);
-      Cv(tv, i, t, k, e, Xr.ΔΔⵠⲆ, "t", 5, 4);
-      Cv(tv, i, t, k, e, Xr.ᐃⵠᐃᐃᐃ, "f", 2, 2);
-      Cv(tv, i, t, k, e, Xr.ΔᐃᐃΔⵠ, "plm", Ih, 0);
-      Cv(tv, i, t, k, e, Xr.ΔⵠᐃⲆΔ, "b", Tr, 2);
-      Cv(tv, i, t, k, e, Xr.ΔΔⵠⲆ, "t", 3, lr);
-      Cv(tv, i, t, k, e, Xr.ΔⵠᐃⲆΔ, "b", og, 0);
-      Cv(tv, i, t, k, e, Xr.ᐃⵠᐃᐃᐃ, "f", 1, 1);
-      Cv(tv, i, t, k, e, Xr.ΔᐃᐃΔⵠ, "plm", hb, 1);
-      Cv(tv, i, t, k, e, Xr.ΔΔⵠⲆ, "t", za, Qs);
-      Cv(tv, i, t, k, e, Xr.ᐃⵠᐃᐃᐃ, "f", Qs, 0);
-      Cv(tv, i, t, k, e, Xr.ΔᐃᐃΔⵠ, "plm", 2, 2);
+      Cv(tv, i, t, k, e, 989, "c", ya);
+      Cv(tv, i, t, k, e, 109, "t", 5, 4);
+      Cv(tv, i, t, k, e, 413, "f", 2, 2);
+      Cv(tv, i, t, k, e, 693, "plm", Ih, 0);
+      Cv(tv, i, t, k, e, 307, "b", Tr, 2);
+      Cv(tv, i, t, k, e, 109, "t", 3, lr);
+      Cv(tv, i, t, k, e, 307, "b", og, 0);
+      Cv(tv, i, t, k, e, 413, "f", 1, 1);
+      Cv(tv, i, t, k, e, 693, "plm", hb, 1);
+      Cv(tv, i, t, k, e, 109, "t", za, Qs);
+      Cv(tv, i, t, k, e, 413, "f", Qs, 0);
+      Cv(tv, i, t, k, e, 693, "plm", 2, 2);
       Ha = cf.ⲆΔⲆ[nw.ⵠΔⲆⲆΔ];
       aa = 0;
       for (; Ha.length > aa; aa++) {
@@ -43593,12 +43593,12 @@
       }
       var Ia = cf.ⲆΔⲆ[nw.ⵠᐃⵠᐃⵠ];
       for (aa = wg; aa < Ia.length; aa++) {
-        zv(Ia[aa], Xr.ⵠᐃⵠᐃⵠ);
+        zv(Ia[aa], 221);
       }
       ba = cf.ⲆΔⲆ[nw.ᐃᐃⲆⲆⲆ];
       aa = 0;
       for (; ba.length > aa; aa++) {
-        if ((ca = ba[aa]).ⵠᐃᐃᐃΔⵠΔ === 1 && (ca.ᐃⵠⵠⵠⲆ < 180 || _r.ⲆⵠΔᐃⵠ !== ca.ΔⲆᐃΔΔ && _r.ⲆⲆΔⵠⲆ !== ca.ΔⲆᐃΔΔ && ca.ΔⲆᐃΔΔ !== _r.ⲆⵠΔΔΔ && ca.ΔⲆᐃΔΔ !== _r.ⵠᐃⲆⲆΔ && _r.ΔⵠΔΔⵠ !== ca.ΔⲆᐃΔΔ)) {
+        if ((ca = ba[aa]).ⵠᐃᐃᐃΔⵠΔ === 1 && (ca.ᐃⵠⵠⵠⲆ < 180 || ca.ΔⲆᐃΔΔ !== 227 && ca.ΔⲆᐃΔΔ !== 228 && ca.ΔⲆᐃΔΔ !== 91 && ca.ΔⲆᐃΔΔ !== 229 && ca.ΔⲆᐃΔΔ !== 230)) {
           ca.ᐃⵠⵠⵠⵠⵠⵠ = ᐃⵠΔⲆ.ᐃⵠΔⵠᐃᐃᐃ(ca.ᐃⵠⵠⵠⵠⵠⵠ, 100, 0.018);
           ua = Wl + Math.min(1, Math.max(ca.ᐃⵠⵠⵠⵠⵠⵠ, 0) / Ph) * 0.18;
           ho.save();
@@ -43622,21 +43622,21 @@
       }
       var Ja = cf.ⲆΔⲆ[nw.ⲆᐃⵠΔΔ];
       for (aa = 0; Ja.length > aa; aa++) {
-        zv(Ja[aa], Xr.ⲆᐃⵠΔΔ);
+        zv(Ja[aa], 190);
         Ja[aa].ΔⵠⲆⵠᐃ(Ja[aa].info);
       }
       var Ka = cf.ⲆΔⲆ[nw.ᐃⲆⵠᐃΔ];
       for (aa = 0; aa < Ka.length; aa++) {
-        zv(Ka[aa], Xr.ᐃⲆⵠᐃΔ, Xr.ᐃΔᐃΔΔⵠᐃ);
+        zv(Ka[aa], 245, 246);
       }
       var La = cf.ⲆΔⲆ[nw.ⵠᐃΔⲆⲆ];
       for (aa = Qs; aa < La.length; aa++) {
-        zv(La[aa], Xr.ⵠᐃΔⲆⲆ);
+        zv(La[aa], 201);
       }
       ba = cf.ⲆΔⲆ[nw.ᐃᐃⲆⲆⲆ];
       aa = os;
       for (; aa < ba.length; aa++) {
-        if (((ca = ba[aa]).ΔⲆᐃΔΔ === _r.ⲆⵠΔᐃⵠ || ca.ΔⲆᐃΔΔ === _r.ⲆⲆΔⵠⲆ || _r.ⲆⵠΔΔΔ === ca.ΔⲆᐃΔΔ || _r.ⵠᐃⲆⲆΔ === ca.ΔⲆᐃΔΔ || _r.ΔⵠΔΔⵠ === ca.ΔⲆᐃΔΔ) && ca.ᐃⵠⵠⵠⲆ > 180) {
+        if (((ca = ba[aa]).ΔⲆᐃΔΔ === 227 || ca.ΔⲆᐃΔΔ === 228 || ca.ΔⲆᐃΔΔ === 91 || ca.ΔⲆᐃΔΔ === 229 || ca.ΔⲆᐃΔΔ === 230) && ca.ᐃⵠⵠⵠⲆ > 180) {
           ca.ⲆⵠᐃⲆΔⲆΔ = Te;
           ho.save();
           ua = 1 + Math.min(1, Math.max(ca.ⵠⵠⲆⲆᐃ - 30, ig) / 180) * 0.35;
@@ -43669,29 +43669,29 @@
       aa = wg;
       for (; aa < K.length; aa++) {
         if (K[aa].scale > 1) {
-          zv(K[aa], Xr.ᐃⵠΔⵠⵠ, Xr.ⵠⲆⵠᐃⲆⵠᐃ);
+          zv(K[aa], 449, 463);
         }
       }
       K = cf.ⲆΔⲆ[nw.ᐃΔⲆⲆΔ];
       aa = 0;
       for (; K.length > aa; aa++) {
         if (K[aa].scale > 1) {
-          zv(K[aa], Xr.ᐃΔⲆⲆΔ, Xr.ᐃᐃⵠᐃⲆΔΔ);
+          zv(K[aa], 450, 464);
         }
       }
       var Ma = cf.ⲆΔⲆ[nw.ⵠᐃⲆⲆΔ];
       for (aa = 0; Ma.length > aa; aa++) {
-        zv(Ma[aa], Xr.ⵠᐃⲆⲆΔ, Xr.ᐃⲆⲆⵠⲆⵠⲆ);
+        zv(Ma[aa], 235, 1107);
       }
       var Na = cf.ⲆΔⲆ[nw.ⵠΔⵠᐃⵠ];
       for (aa = Rq; aa < Na.length; aa++) {
-        zv(Na[aa], Xr.ⵠΔⵠᐃⵠ, Xr.ⲆⵠⵠᐃΔᐃᐃ);
+        zv(Na[aa], 238, 1128);
       }
       if ((nv += Ss * _w) > 60) {
         nv -= 60;
       }
-      Cv(ov, i, t, k, e, Xr.ᐃⲆᐃⵠᐃ, "fo", 2);
-      Cv(ov, i, t, k, e, Xr.ΔⵠΔⲆⲆ, "fod", 2);
+      Cv(ov, i, t, k, e, 1041, "fo", 2);
+      Cv(ov, i, t, k, e, 244, "fod", 2);
     })();
     if (bf.ⵠⵠᐃⲆᐃ && kw.ΔΔΔΔᐃ !== cf.mode && kw.ⲆⲆⲆⲆᐃ !== cf.mode && cf.mode !== kw.ᐃⲆⵠⲆΔΔᐃ) {
       (function () {
@@ -43704,7 +43704,7 @@
         for (var b = a.ᐃᐃΔΔⲆ, c = 0; b.length > c; c++) {
           var d = b[c];
           a.ᐃⲆΔ(d);
-          Jv(Xr.ΔⲆⲆⵠΔⵠᐃ, d.id, Xw.ⵠᐃⲆ.x + d.x, Xw.ⵠᐃⲆ.y + d.y, d.alpha);
+          Jv(471, d.id, Xw.ⵠᐃⲆ.x + d.x, Xw.ⵠᐃⲆ.y + d.y, d.alpha);
         }
         for (c = 0; c < b.length; c++) {
           if ((d = b[c]).ΔΔᐃΔᐃ <= 0 || -Xw.ⵠᐃⲆ.x + lo < d.x || -Xw.ⵠᐃⲆ.x - Xw.ⵠᐃⲆ.w / vg > d.x || d.y > -Xw.ⵠᐃⲆ.y + jq) {
@@ -43726,7 +43726,7 @@
         for (var b = a.ᐃᐃΔΔⲆ, c = Qs; c < b.length; c++) {
           var d = b[c];
           a.ᐃⲆΔ(d);
-          Jv(Xr.ⲆⵠⲆΔⵠΔⲆ, d.id, Xw.ⵠᐃⲆ.x + d.x, Xw.ⵠᐃⲆ.y + d.y, d.alpha);
+          Jv(470, d.id, Xw.ⵠᐃⲆ.x + d.x, Xw.ⵠᐃⲆ.y + d.y, d.alpha);
         }
         for (c = 0; b.length > c; c++) {
           if ((d = b[c]).ΔΔᐃΔᐃ <= 0 || -Xw.ⵠᐃⲆ.x + lo < d.x || -Xw.ⵠᐃⲆ.x > d.x || d.y > -Xw.ⵠᐃⲆ.y + jq) {
@@ -43743,7 +43743,7 @@
         for (var b = a.ᐃᐃΔΔⲆ, c = 0; c < b.length; c++) {
           var d = b[c];
           a.ᐃⲆΔ(d);
-          Jv(Xr.ᐃⲆⵠᐃⲆⵠⲆ, d.id, Xw.ⵠᐃⲆ.x + d.x, Xw.ⵠᐃⲆ.y + d.y, d.alpha);
+          Jv(942, d.id, Xw.ⵠᐃⲆ.x + d.x, Xw.ⵠᐃⲆ.y + d.y, d.alpha);
         }
         for (c = 0; b.length > c; c++) {
           if ((d = b[c]).ΔΔᐃΔᐃ <= 0 || -Xw.ⵠᐃⲆ.x + lo < d.x || d.x < -Xw.ⵠᐃⲆ.x || -Xw.ⵠᐃⲆ.y + jq < d.y) {
@@ -44156,34 +44156,34 @@
   };
   var iw = [{
     ⲆⵠΔΔⲆ: 1000,
-    items: [[jk, _r.ΔᐃᐃⲆⲆ], [Gh, _r.ΔΔⵠⵠⲆ], [Gk, _r.ⵠᐃⲆⲆⲆ], [1, _r.ⲆⵠΔⲆΔ]]
+    items: [[jk, 113], [Gh, 117], [Gk, 110], [1, 143]]
   }, {
     ⲆⵠΔΔⲆ: 2000,
-    items: [[2, _r.ᐃΔΔⵠΔ], [og, _r.ⲆΔⲆⲆⵠ], [2, _r.ΔΔⵠⵠⲆ], [16, _r.ⵠᐃⲆⲆⲆ], [2, _r.ⲆⵠΔⲆΔ]]
+    items: [[2, 118], [og, 8], [2, 117], [16, 110], [2, 143]]
   }, {
     ⲆⵠΔΔⲆ: 4000,
-    items: [[3, _r.ᐃΔΔⵠΔ], [og, _r.ⲆⵠⵠⲆⲆ], [4, _r.ΔΔⵠⵠⲆ], [20, _r.ⵠᐃⲆⲆⲆ], [4, _r.ⲆⵠΔⲆΔ], [1, _r.ⵠⲆΔⵠᐃ], [80, _r.ᐃΔⵠⲆ], [140, _r.ⵠᐃⵠⵠ]]
+    items: [[3, 118], [og, 1], [4, 117], [20, 110], [4, 143], [1, 114], [80, 108], [140, 109]]
   }, {
     ⲆⵠΔΔⲆ: 8000,
-    items: [[wt, _r.ⵠⲆᐃᐃ], [4, _r.ᐃΔΔⵠΔ], [1, _r.ⵠᐃⲆΔΔ], [6, _r.ΔΔⵠⵠⲆ], [30, _r.ⵠᐃⲆⲆⲆ], [Ql, _r.ⲆⵠΔⲆΔ], [1, _r.ⵠⲆΔⵠᐃ], [150, _r.ᐃΔⵠⲆ], [200, _r.ⵠᐃⵠⵠ], [60, _r.ᐃⲆⵠᐃ], [jk, _r.ΔᐃᐃⵠΔ]]
+    items: [[wt, 29], [4, 118], [1, 3], [6, 117], [30, 110], [Ql, 143], [1, 114], [150, 108], [200, 109], [60, 111], [jk, 127]]
   }, {
     ⲆⵠΔΔⲆ: 16000,
-    items: [[1, _r.ⵠⲆᐃᐃ], [Xn, _r.ᐃⲆⵠΔⲆ], [au, _r.ΔⲆⵠΔΔ], [7, _r.ⵠᐃⲆⲆᐃ], [2, _r.ΔᐃᐃⵠΔ], [2, _r.ᐃΔΔⵠΔ], [zg, _r.ⲆᐃΔᐃⵠ], [v, _r.ΔᐃⵠⲆⲆ], [It, _r.ⵠΔᐃⲆΔ], [1, _r.ⲆⵠᐃᐃΔ], [1, _r.ᐃⵠᐃΔⵠ], [200, _r.ᐃΔⵠⲆ], [300, _r.ⵠᐃⵠⵠ]]
+    items: [[1, 29], [Xn, 4], [au, 198], [7, 136], [2, 127], [2, 118], [zg, 119], [v, 163], [It, 171], [1, 159], [1, 55], [200, 108], [300, 109]]
   }, {
     ⲆⵠΔΔⲆ: 16000,
-    items: [[Te, _r.ⵠⲆᐃᐃ], [au, _r.ᐃⵠⵠⵠΔ], [au, _r.ⲆΔΔⵠⵠ], [1, _r.ⵠᐃⲆΔΔ], [kk, _r.ⵠᐃⲆⲆᐃ], [Wg, _r.ΔᐃᐃⵠΔ], [Na, _r.ᐃΔΔⵠΔ], [3, _r.ᐃΔᐃⲆᐃ], [mk, _r.ᐃⵠΔΔⲆ], [200, _r.ᐃΔⵠⲆ], [300, _r.ⵠᐃⵠⵠ]]
+    items: [[Te, 29], [au, 11], [au, 50], [1, 3], [kk, 136], [Wg, 127], [Na, 118], [3, 195], [mk, 28], [200, 108], [300, 109]]
   }, {
     ⲆⵠΔΔⲆ: 16000,
-    items: [[1, _r.ⵠⲆᐃᐃ], [zs, _r.ⲆΔⵠⵠᐃ], [1, _r.ⲆⲆⵠⲆⲆ], [3, _r.ᐃΔᐃⲆᐃ], [1, wj], [og, _r.ⵠᐃⲆΔΔ], [ur, _r.ⵠᐃⲆⲆᐃ], [2, _r.ΔᐃᐃⵠΔ], [4, _r.ᐃΔΔⵠΔ], [150, _r.ᐃΔⵠⲆ], [200, _r.ⵠᐃⵠⵠ], [1, _r.ᐃⵠᐃⲆⵠ]]
+    items: [[1, 29], [zs, 83], [1, 36], [3, 195], [1, wj], [og, 3], [ur, 136], [2, 127], [4, 118], [150, 108], [200, 109], [1, 158]]
   }, {
     ⲆⵠΔΔⲆ: 16000,
-    items: [[1, _r.ⵠⲆᐃᐃ], [1, _r.ΔᐃⲆⵠⵠ], [au, _r.ⵠᐃⲆΔΔ], [fg, _r.ⵠᐃⲆⲆᐃ], [Hj, _r.ΔᐃᐃⵠΔ], [4, _r.ᐃΔΔⵠΔ], [2, _r.ⵠΔⲆⲆΔ], [ba, _r.Δᐃᐃᐃᐃ], [Lb, _r.ΔΔΔⵠⵠ], [6, _r.ⲆΔᐃΔΔ], [$i, _r.ⵠᐃΔⲆᐃ], [1, _r.ᐃᐃΔⵠΔ], [500, _r.ⵠᐃⵠⵠ]]
+    items: [[1, 29], [1, 84], [au, 3], [fg, 136], [Hj, 127], [4, 118], [2, 135], [ba, 144], [Lb, 141], [6, 132], [$i, 115], [1, 49], [500, 109]]
   }, {
     ⲆⵠΔΔⲆ: 16000,
-    items: [[1, _r.ⵠⲆᐃᐃ], [mk, _r.ⵠᐃⲆΔΔ], [dg, _r.ⵠⲆΔⲆᐃ], [1, _r.ΔᐃᐃⵠΔ], [ji, _r.ᐃΔΔⵠΔ], [yr, _r.ᐃΔᐃⲆᐃ], [1, _r.ᐃⲆⵠⲆⲆ], [1, _r.ᐃᐃⲆΔⲆ], [16, _r.ⲆᐃⲆᐃⵠ], [150, _r.ᐃΔⵠⲆ], [200, _r.ⵠᐃⵠⵠ]]
+    items: [[1, 29], [mk, 3], [dg, 138], [1, 127], [ji, 118], [yr, 195], [1, 48], [1, 0], [16, 125], [150, 108], [200, 109]]
   }, {
     ⲆⵠΔΔⲆ: 20000,
-    items: [[Hg, _r.ⵠⲆᐃᐃ], [1, _r.ⵠᐃⲆΔΔ], [$b, _r.ⵠᐃⲆⲆᐃ], [au, _r.ΔᐃᐃⵠΔ], [Hk, _r.ᐃΔΔⵠΔ], [xb, _r.ᐃΔᐃⲆᐃ], [Xn, _r.ΔᐃΔⲆⲆ], [Oq, _r.ⵠΔΔΔΔ], [mk, _r.ᐃᐃᐃᐃⲆ], [Ul, _r.Ⲇᐃⵠᐃⵠ], [50, _r.ᐃΔⵠⲆ], [Y, _r.ⵠᐃⵠⵠ]]
+    items: [[Hg, 29], [1, 3], [$b, 136], [au, 127], [Hk, 118], [xb, 195], [Xn, 26], [Oq, 5], [mk, 15], [Ul, 169], [50, 108], [Y, 109]]
   }];
   var jw = {
     ΔᐃΔΔΔⲆⲆ: ci,
@@ -44286,25 +44286,25 @@
   for (Ft = Lr; Ft < 500; Ft++) {
     lw[Ft] = 0;
   }
-  lw[Xr.ᐃⵠⵠⲆΔ] = zs;
-  lw[Xr.ΔⵠᐃΔᐃ] = 1;
-  lw[Xr.ᐃᐃⲆΔⲆ] = hb;
-  lw[Xr.ⵠΔΔΔΔ] = 1;
-  lw[Xr.ᐃΔⲆᐃΔ] = sd;
-  lw[Xr.ΔⲆᐃⵠΔ] = 1;
-  lw[Xr.ⵠⵠΔΔⵠ] = 1;
-  lw[Xr.ⵠΔᐃᐃⵠ] = 1;
-  lw[Xr.ⵠᐃᐃΔⵠ] = Tl;
-  lw[Xr.ⲆⲆᐃᐃⲆ] = Te;
-  lw[Xr.ⵠΔᐃⵠᐃ] = mk;
-  lw[Xr.ⵠᐃᐃⵠΔ] = $b;
-  lw[Xr.ᐃᐃᐃᐃⲆ] = za;
-  lw[Xr.ᐃΔⵠⲆᐃ] = Tl;
-  lw[Xr.ᐃΔⲆⵠΔ] = 1;
-  lw[Xr.ⲆⲆΔᐃᐃ] = 1;
-  lw[Xr.ΔⲆᐃΔⵠ] = 1;
-  lw[Xr.ᐃᐃΔⲆⲆ] = Tl;
-  lw[Xr.Ⲇᐃᐃᐃᐃ] = 1;
+  lw[47] = zs;
+  lw[57] = 1;
+  lw[0] = hb;
+  lw[5] = 1;
+  lw[6] = sd;
+  lw[30] = 1;
+  lw[19] = 1;
+  lw[9] = 1;
+  lw[62] = Tl;
+  lw[63] = Te;
+  lw[13] = mk;
+  lw[14] = $b;
+  lw[15] = za;
+  lw[33] = Tl;
+  lw[34] = 1;
+  lw[16] = 1;
+  lw[17] = 1;
+  lw[12] = Tl;
+  lw[18] = 1;
   var mw = [{
     time: 2880000
   }, {
@@ -44424,7 +44424,7 @@
     ⲆⵠΔᐃᐃ: 44,
     ᐃᐃᐃᐃᐃ: aa
   };
-  var ow = [[nw.ⲆᐃΔⲆⵠ, _r.ᐃΔⵠⲆ], [nw.ⲆΔᐃⵠⲆ, _r.ᐃⲆⵠᐃ], [nw.ΔⵠᐃⲆⵠ, _r.ᐃⲆΔⵠ], [nw.ΔⲆⵠⵠⵠ, _r.Ⲇⵠⵠⵠ], [nw.ⲆⲆⵠⵠΔ, _r.ᐃⵠᐃΔ]];
+  var ow = [[nw.ⲆᐃΔⲆⵠ, 108], [nw.ⲆΔᐃⵠⲆ, 111], [nw.ΔⵠᐃⲆⵠ, 112], [nw.ΔⲆⵠⵠⵠ, 121], [nw.ⲆⲆⵠⵠΔ, 202]];
   function pw(a, b, c, d) {
     this.id = a;
     this.ᐃⵠⵠⵠⲆ = (a + 5) * aa;
@@ -44531,7 +44531,7 @@
           }
           this.ⵠΔⵠⲆᐃ = Math.floor(this.info / 128);
           this.info -= this.ⵠΔⵠⲆᐃ * 128;
-          if (this.info === _r.ΔᐃΔΔΔ || this.ⲆΔⲆⵠⵠⲆᐃ) {
+          if (this.info === 7 || this.ⲆΔⲆⵠⵠⲆᐃ) {
             this.right = -1;
           } else {
             this.right = this.info;
@@ -46299,7 +46299,7 @@
           var I = H.length;
           if (Da === I || Xr.ᐃΔᐃᐃᐃⵠᐃ > I && H[I - Hg].ΔΔᐃΔᐃ < 0.95) {
             H.push({
-              id: Math.floor(Math.random() * ΔΔ[Xr.ⵠⲆᐃᐃⵠΔᐃ][fl].length),
+              id: Math.floor(Math.random() * ΔΔ[540][fl].length),
               x: Math.floor(ᐃⵠⲆΔ.x + Math.random() * 80 - 40),
               y: Math.floor(ᐃⵠⲆΔ.y + Math.random() * 80 - 40),
               ΔΔᐃΔᐃ: 1
@@ -46319,7 +46319,7 @@
         if (ᐃⵠⲆΔ.ⵠⲆΔΔ && bf.ⵠⵠᐃⲆᐃ) {
           var M = ᐃⵠⲆΔ.ᐃΔᐃⵠⲆ;
           I = M.length;
-          if (ᐃⵠⲆΔ.ΔⵠᐃⲆᐃⲆⵠ > 0 && _r.ⲆⵠΔᐃⵠ !== ᐃⵠⲆΔ.ΔⲆᐃΔΔ && ᐃⵠⲆΔ.ΔⲆᐃΔΔ !== _r.ⲆⲆΔⵠⲆ && _r.ΔⵠΔΔⵠ !== ᐃⵠⲆΔ.ΔⲆᐃΔΔ && ᐃⵠⲆΔ.ΔⲆᐃΔΔ !== _r.ⵠᐃⲆⲆΔ && ᐃⵠⲆΔ.ΔⲆᐃΔΔ !== _r.ⲆⵠΔΔΔ && !ᐃⵠⲆΔ.ᐃⲆᐃⲆⵠ && (L = sd, I === 0 || Xr.ⵠⵠᐃⲆⲆⵠⵠ < ᐃⵠΔⲆ.ΔΔⵠΔ(M[I - zs], ᐃⵠⲆΔ))) {
+          if (ᐃⵠⲆΔ.ΔⵠᐃⲆᐃⲆⵠ > 0 && ᐃⵠⲆΔ.ΔⲆᐃΔΔ !== 227 && ᐃⵠⲆΔ.ΔⲆᐃΔΔ !== 228 && ᐃⵠⲆΔ.ΔⲆᐃΔΔ !== 230 && ᐃⵠⲆΔ.ΔⲆᐃΔΔ !== 229 && ᐃⵠⲆΔ.ΔⲆᐃΔΔ !== 91 && !ᐃⵠⲆΔ.ᐃⲆᐃⲆⵠ && (L = sd, I === 0 || Xr.ⵠⵠᐃⲆⲆⵠⵠ < ᐃⵠΔⲆ.ΔΔⵠΔ(M[I - zs], ᐃⵠⲆΔ))) {
             var N = -ᐃⵠⲆΔ.angle;
             var O = Co * (Math.cos(N) * 45);
             var Q = Co * (Math.sin(N) * 45);
@@ -46358,28 +46358,28 @@
           var W = Math.max(0, Math.sign(ᐃⵠⲆΔ.ⵠⲆΔᐃⵠ));
           var X = Math.max(0, Math.sign(ᐃⵠⲆΔ.ΔΔᐃΔⵠ));
           if (ᐃⵠⲆΔ.ⲆᐃⵠⵠⵠΔΔ > 0 || ᐃⵠⲆΔ.ΔΔⲆΔⲆ > 0) {
-            S = Xr.ⵠΔⲆⲆⲆⵠⲆ;
+            S = 602;
           } else if (Bb < ᐃⵠⲆΔ.ΔΔᐃΔⵠ) {
-            S = Xr.ᐃΔⵠᐃⵠⵠⵠ;
+            S = 680;
           } else if (mj < ᐃⵠⲆΔ.ⲆΔΔΔᐃ) {
-            S = Xr.ᐃᐃⵠᐃᐃᐃΔ;
+            S = 475;
           } else if (ᐃⵠⲆΔ.ⵠⲆΔᐃⵠ > 0) {
-            S = Xr.ΔΔᐃΔᐃⲆᐃ;
+            S = 476;
           }
-          if (_r.ⵠⲆᐃⲆΔ === ᐃⵠⲆΔ.ΔⲆᐃΔΔ && (U | V | W | X) === ie) {
-            S = Xr.ΔᐃΔΔΔᐃⲆ;
+          if (ᐃⵠⲆΔ.ΔⲆᐃΔΔ === 225 && (U | V | W | X) === ie) {
+            S = 228;
             var Y = ᐃⵠⲆΔ.ⲆΔΔΔⵠ - Math.PI / Pn;
             var Z = Ab;
             var _ = 11;
             var aa = Xr.ⲆᐃⲆⵠⲆⵠⵠ;
-          } else if (ᐃⵠⲆΔ.ΔⲆᐃΔΔ === _r.ΔΔⵠⲆⲆ && (U | V | W | X) == 1) {
-            S = Xr.ΔᐃᐃⵠΔΔⵠ;
+          } else if (ᐃⵠⲆΔ.ΔⲆᐃΔΔ === 239 && (U | V | W | X) == 1) {
+            S = 249;
             Y = ᐃⵠⲆΔ.ⲆΔΔΔⵠ - Math.PI / 2;
             Z = 21;
             _ = 16;
             aa = Xr.ⲆᐃⲆⵠⲆⵠⵠ;
-          } else if (ᐃⵠⲆΔ.ΔⲆᐃΔΔ === _r.ᐃⵠⵠᐃⵠ && (U | V | W | X) == 1) {
-            S = Xr.ⵠⵠⵠᐃⲆΔΔ;
+          } else if (ᐃⵠⲆΔ.ΔⲆᐃΔΔ === 226 && (U | V | W | X) == 1) {
+            S = 234;
             Y = ᐃⵠⲆΔ.ⲆΔΔΔⵠ - Math.PI / 2;
             var ba = Math.random() * 50;
             Z = 10 + ba;
@@ -46391,14 +46391,14 @@
             _ = 11;
             aa = Xr.ⲆᐃⲆⵠⲆⵠⵠ;
           }
-          if (ᐃⵠⲆΔ.ΔⲆᐃΔΔ === _r.ⲆⵠΔᐃⵠ || ᐃⵠⲆΔ.ΔⲆᐃΔΔ === _r.ⲆⲆΔⵠⲆ || ᐃⵠⲆΔ.ΔⲆᐃΔΔ === _r.ⲆⵠΔΔΔ || _r.ⵠᐃⲆⲆΔ === ᐃⵠⲆΔ.ΔⲆᐃΔΔ || _r.ΔⵠΔΔⵠ === ᐃⵠⲆΔ.ΔⲆᐃΔΔ || ᐃⵠⲆΔ.ᐃⲆᐃⲆⵠ) ;else if (_r.ⵠᐃᐃⲆᐃ === ᐃⵠⲆΔ.ΔⲆᐃΔΔ) {
+          if (ᐃⵠⲆΔ.ΔⲆᐃΔΔ === 227 || ᐃⵠⲆΔ.ΔⲆᐃΔΔ === 228 || ᐃⵠⲆΔ.ΔⲆᐃΔΔ === 91 || ᐃⵠⲆΔ.ΔⲆᐃΔΔ === 229 || ᐃⵠⲆΔ.ΔⲆᐃΔΔ === 230 || ᐃⵠⲆΔ.ᐃⲆᐃⲆⵠ) ;else if (ᐃⵠⲆΔ.ΔⲆᐃΔΔ === 224) {
             if (I === 0 || ᐃⵠΔⲆ.ΔΔⵠΔ(R[I - 1], ᐃⵠⲆΔ) > Xr.ⲆᐃᐃᐃⲆⲆⵠ) {
               R.push({
                 x: ᐃⵠⲆΔ.x,
                 y: ᐃⵠⲆΔ.y,
                 angle: ᐃⵠⲆΔ.ⲆΔΔΔⵠ,
                 alpha: sd,
-                id: Xr.ᐃⵠⵠⲆᐃⵠᐃ
+                id: 226
               });
             }
           } else if (S != -au && L === 0 && (I === 0 || ᐃⵠΔⲆ.ΔΔⵠΔ(R[I - 1], ᐃⵠⲆΔ) > aa)) {
@@ -46435,7 +46435,7 @@
             });
           }
           for (K = ig; I > K; K++) {
-            if (Xr.ᐃⵠⵠⲆᐃⵠᐃ === R[K].id) {
+            if (R[K].id === 226) {
               R[K].alpha = Math.max(Hi, R[K].alpha - _w * 1.5);
             } else {
               R[K].alpha = Math.max(0, R[K].alpha - _w / 2.85);
@@ -46474,10 +46474,10 @@
       this.Δᐃⵠⵠⵠ(this.ⲆΔⲆ[nw.ᐃΔⲆⲆΔ]);
     };
     this.ⲆᐃᐃⲆ = [];
-    this.ⲆᐃᐃⲆ[Xr.ⵠᐃᐃⵠᐃ] = new ᐃⵠΔⲆ.ⵠᐃⲆᐃ(false, Gh, 1.05, za, 0.008, 0.008);
-    this.ⲆᐃᐃⲆ[Xr.ΔⲆᐃⵠᐃ] = new ᐃⵠΔⲆ.ⵠᐃⲆᐃ(gh, 1, 1.08, ie, 0.006, 0.006);
-    this.ⲆᐃᐃⲆ[Xr.ⵠΔⵠⲆⵠ] = new ᐃⵠΔⲆ.ⵠᐃⲆᐃ(Mh, Te, 1.02, 1, 0.008, 0.008);
-    this.ⲆᐃᐃⲆ[Xr.ⵠⵠⵠᐃⲆ] = new ᐃⵠΔⲆ.ⵠᐃⲆᐃ(vt, 1, 1.08, 1, 0.006, 0.006);
+    this.ⲆᐃᐃⲆ[620] = new ᐃⵠΔⲆ.ⵠᐃⲆᐃ(false, Gh, 1.05, za, 0.008, 0.008);
+    this.ⲆᐃᐃⲆ[619] = new ᐃⵠΔⲆ.ⵠᐃⲆᐃ(gh, 1, 1.08, ie, 0.006, 0.006);
+    this.ⲆᐃᐃⲆ[694] = new ᐃⵠΔⲆ.ⵠᐃⲆᐃ(Mh, Te, 1.02, 1, 0.008, 0.008);
+    this.ⲆᐃᐃⲆ[695] = new ᐃⵠΔⲆ.ⵠᐃⲆᐃ(vt, 1, 1.08, 1, 0.006, 0.006);
     this.ⵠᐃᐃⲆΔ = [];
     this.ⵠᐃᐃⲆΔ[0] = new ᐃⵠΔⲆ.ⵠᐃⲆᐃ(false, 0.1, Hg, 0, 0.6, 0.6);
     this.ⵠᐃᐃⲆΔ[og] = new ᐃⵠΔⲆ.ⵠᐃⲆᐃ(Fh, 0.4, Xn, ig, 0.6, 0.6);
@@ -47215,37 +47215,37 @@
           if (this.ΔᐃⲆΔᐃ > 2) {
             this.ΔᐃⲆΔᐃ = 0;
             if (Xw.ⲆΔᐃΔ.ΔⵠⲆ < 0.35) {
-              if (Xw.ᐃΔᐃⵠ.ⲆΔΔ[_r.ⵠᐃⲆⲆⲆ]) {
-                Ⲇⵠᐃⵠ.ΔᐃΔᐃΔ(_r.ⵠᐃⲆⲆⲆ, Xw.ᐃΔᐃⵠ.ᐃⲆⲆΔⲆ(_r.ⵠᐃⲆⲆⲆ));
-              } else if (Xw.ᐃΔᐃⵠ.ⲆΔΔ[_r.ⲆᐃΔᐃΔ]) {
-                Ⲇⵠᐃⵠ.ΔᐃΔᐃΔ(_r.ⲆᐃΔᐃΔ, Xw.ᐃΔᐃⵠ.ᐃⲆⲆΔⲆ(_r.ⲆᐃΔᐃΔ));
-              } else if (Xw.ᐃΔᐃⵠ.ⲆΔΔ[_r.ⲆⵠᐃΔᐃ]) {
-                Ⲇⵠᐃⵠ.ΔᐃΔᐃΔ(_r.ⲆⵠᐃΔᐃ, Xw.ᐃΔᐃⵠ.ᐃⲆⲆΔⲆ(_r.ⲆⵠᐃΔᐃ));
-              } else if (Xw.ᐃΔᐃⵠ.ⲆΔΔ[_r.ⵠᐃⵠΔⵠ]) {
-                Ⲇⵠᐃⵠ.ΔᐃΔᐃΔ(_r.ⵠᐃⵠΔⵠ, Xw.ᐃΔᐃⵠ.ᐃⲆⲆΔⲆ(_r.ⵠᐃⵠΔⵠ));
-              } else if (Xw.ᐃΔᐃⵠ.ⲆΔΔ[_r.ⲆᐃΔΔⵠ]) {
-                Ⲇⵠᐃⵠ.ΔᐃΔᐃΔ(_r.ⲆᐃΔΔⵠ, Xw.ᐃΔᐃⵠ.ᐃⲆⲆΔⲆ(_r.ⲆᐃΔΔⵠ));
-              } else if (Xw.ᐃΔᐃⵠ.ⲆΔΔ[_r.ⲆᐃΔⵠᐃ]) {
-                Ⲇⵠᐃⵠ.ΔᐃΔᐃΔ(_r.ⲆᐃΔⵠᐃ, Xw.ᐃΔᐃⵠ.ᐃⲆⲆΔⲆ(_r.ⲆᐃΔⵠᐃ));
-              } else if (Xw.ᐃΔᐃⵠ.ⲆΔΔ[_r.ⲆᐃⵠΔⲆ]) {
-                Ⲇⵠᐃⵠ.ΔᐃΔᐃΔ(_r.ⲆᐃⵠΔⲆ, Xw.ᐃΔᐃⵠ.ᐃⲆⲆΔⲆ(_r.ⲆᐃⵠΔⲆ));
-              } else if (Xw.ᐃΔᐃⵠ.ⲆΔΔ[_r.ⲆⵠΔⲆΔ]) {
-                Ⲇⵠᐃⵠ.ΔᐃΔᐃΔ(_r.ⲆⵠΔⲆΔ, Xw.ᐃΔᐃⵠ.ᐃⲆⲆΔⲆ(_r.ⲆⵠΔⲆΔ));
-              } else if (Xw.ᐃΔᐃⵠ.ⲆΔΔ[_r.ΔΔⵠⵠⲆ]) {
-                Ⲇⵠᐃⵠ.ΔᐃΔᐃΔ(_r.ΔΔⵠⵠⲆ, Xw.ᐃΔᐃⵠ.ᐃⲆⲆΔⲆ(_r.ΔΔⵠⵠⲆ));
-              } else if (Xw.ᐃΔᐃⵠ.ⲆΔΔ[_r.ⵠⲆΔⲆᐃ]) {
-                Ⲇⵠᐃⵠ.ΔᐃΔᐃΔ(_r.ⵠⲆΔⲆᐃ, Xw.ᐃΔᐃⵠ.ᐃⲆⲆΔⲆ(_r.ⵠⲆΔⲆᐃ));
-              } else if (Xw.ᐃΔᐃⵠ.ⲆΔΔ[_r.ⲆᐃᐃⵠΔ]) {
-                Ⲇⵠᐃⵠ.ΔᐃΔᐃΔ(_r.ⲆᐃᐃⵠΔ, Xw.ᐃΔᐃⵠ.ᐃⲆⲆΔⲆ(_r.ⲆᐃᐃⵠΔ));
-              } else if (Xw.ᐃΔᐃⵠ.ⲆΔΔ[_r.ⲆⲆΔⵠⵠ]) {
-                Ⲇⵠᐃⵠ.ΔᐃΔᐃΔ(_r.ⲆⲆΔⵠⵠ, Xw.ᐃΔᐃⵠ.ᐃⲆⲆΔⲆ(_r.ⲆⲆΔⵠⵠ));
-              } else if (Xw.ᐃΔᐃⵠ.ⲆΔΔ[_r.ⵠᐃⲆⲆᐃ]) {
-                Ⲇⵠᐃⵠ.ΔᐃΔᐃΔ(_r.ⵠᐃⲆⲆᐃ, Xw.ᐃΔᐃⵠ.ᐃⲆⲆΔⲆ(_r.ⵠᐃⲆⲆᐃ));
-              } else if (Xw.ᐃΔᐃⵠ.ⲆΔΔ[_r.ⵠⲆⵠᐃᐃ]) {
-                Ⲇⵠᐃⵠ.ΔᐃΔᐃΔ(_r.ⵠⲆⵠᐃᐃ, Xw.ᐃΔᐃⵠ.ᐃⲆⲆΔⲆ(_r.ⵠⲆⵠᐃᐃ));
+              if (Xw.ᐃΔᐃⵠ.ⲆΔΔ[110]) {
+                Ⲇⵠᐃⵠ.ΔᐃΔᐃΔ(110, Xw.ᐃΔᐃⵠ.ᐃⲆⲆΔⲆ(110));
+              } else if (Xw.ᐃΔᐃⵠ.ⲆΔΔ[192]) {
+                Ⲇⵠᐃⵠ.ΔᐃΔᐃΔ(192, Xw.ᐃΔᐃⵠ.ᐃⲆⲆΔⲆ(192));
+              } else if (Xw.ᐃΔᐃⵠ.ⲆΔΔ[196]) {
+                Ⲇⵠᐃⵠ.ΔᐃΔᐃΔ(196, Xw.ᐃΔᐃⵠ.ᐃⲆⲆΔⲆ(196));
+              } else if (Xw.ᐃΔᐃⵠ.ⲆΔΔ[189]) {
+                Ⲇⵠᐃⵠ.ΔᐃΔᐃΔ(189, Xw.ᐃΔᐃⵠ.ᐃⲆⲆΔⲆ(189));
+              } else if (Xw.ᐃΔᐃⵠ.ⲆΔΔ[207]) {
+                Ⲇⵠᐃⵠ.ΔᐃΔᐃΔ(207, Xw.ᐃΔᐃⵠ.ᐃⲆⲆΔⲆ(207));
+              } else if (Xw.ᐃΔᐃⵠ.ⲆΔΔ[205]) {
+                Ⲇⵠᐃⵠ.ΔᐃΔᐃΔ(205, Xw.ᐃΔᐃⵠ.ᐃⲆⲆΔⲆ(205));
+              } else if (Xw.ᐃΔᐃⵠ.ⲆΔΔ[209]) {
+                Ⲇⵠᐃⵠ.ΔᐃΔᐃΔ(209, Xw.ᐃΔᐃⵠ.ᐃⲆⲆΔⲆ(209));
+              } else if (Xw.ᐃΔᐃⵠ.ⲆΔΔ[143]) {
+                Ⲇⵠᐃⵠ.ΔᐃΔᐃΔ(143, Xw.ᐃΔᐃⵠ.ᐃⲆⲆΔⲆ(143));
+              } else if (Xw.ᐃΔᐃⵠ.ⲆΔΔ[117]) {
+                Ⲇⵠᐃⵠ.ΔᐃΔᐃΔ(117, Xw.ᐃΔᐃⵠ.ᐃⲆⲆΔⲆ(117));
+              } else if (Xw.ᐃΔᐃⵠ.ⲆΔΔ[138]) {
+                Ⲇⵠᐃⵠ.ΔᐃΔᐃΔ(138, Xw.ᐃΔᐃⵠ.ᐃⲆⲆΔⲆ(138));
+              } else if (Xw.ᐃΔᐃⵠ.ⲆΔΔ[133]) {
+                Ⲇⵠᐃⵠ.ΔᐃΔᐃΔ(133, Xw.ᐃΔᐃⵠ.ᐃⲆⲆΔⲆ(133));
+              } else if (Xw.ᐃΔᐃⵠ.ⲆΔΔ[145]) {
+                Ⲇⵠᐃⵠ.ΔᐃΔᐃΔ(145, Xw.ᐃΔᐃⵠ.ᐃⲆⲆΔⲆ(145));
+              } else if (Xw.ᐃΔᐃⵠ.ⲆΔΔ[136]) {
+                Ⲇⵠᐃⵠ.ΔᐃΔᐃΔ(136, Xw.ᐃΔᐃⵠ.ᐃⲆⲆΔⲆ(136));
+              } else if (Xw.ᐃΔᐃⵠ.ⲆΔΔ[197]) {
+                Ⲇⵠᐃⵠ.ΔᐃΔᐃΔ(197, Xw.ᐃΔᐃⵠ.ᐃⲆⲆΔⲆ(197));
               }
-            } else if (Xw.ⲆΔᐃΔ.ⵠⵠⵠ < 0.35 && Xw.ᐃΔᐃⵠ.ⲆΔΔ[_r.ΔᐃᐃⵠΔ]) {
-              Ⲇⵠᐃⵠ.ΔᐃΔᐃΔ(_r.ΔᐃᐃⵠΔ, Xw.ᐃΔᐃⵠ.ᐃⲆⲆΔⲆ(_r.ΔᐃᐃⵠΔ));
+            } else if (Xw.ⲆΔᐃΔ.ⵠⵠⵠ < 0.35 && Xw.ᐃΔᐃⵠ.ⲆΔΔ[127]) {
+              Ⲇⵠᐃⵠ.ΔᐃΔᐃΔ(127, Xw.ᐃΔᐃⵠ.ᐃⲆⲆΔⲆ(127));
             }
           }
         }
@@ -47289,7 +47289,7 @@
         this.id = a;
         this.ΔⲆⵠΔᐃ = Gj;
         var c = cf.Δⵠⵠᐃᐃ[Xw.ᐃⲆᐃᐃ];
-        if (c && c.right == _r.ᐃⵠΔΔⲆ) {
+        if (c && c.right == 28) {
           this.timeout.ⵠΔᐃᐃᐃⲆⲆ = b.time * 3;
         } else {
           this.timeout.ⵠΔᐃᐃᐃⲆⲆ = b.time;
@@ -47311,7 +47311,7 @@
           var c = fs;
           if (b.r) {
             for (var d = 0; d < b.r.length; d++) {
-              if (Xw.ᐃΔᐃⵠ.max >= kw.ⲆᐃΔᐃΔᐃΔ && b.id === $r.ⵠⲆᐃᐃ) {
+              if (Xw.ᐃΔᐃⵠ.max >= kw.ⲆᐃΔᐃΔᐃΔ && b.id === 100) {
                 c = false;
                 break;
               }
@@ -47892,7 +47892,7 @@
         x: 0
       },
       angle: 0,
-      ⵠⵠ: ΔΔ[Xr.ⵠᐃⲆΔⲆΔⲆ],
+      ⵠⵠ: ΔΔ[301],
       ᐃⵠᐃⵠ: function () {
         this.angle += _w * Lt;
         L.save();
@@ -48447,32 +48447,32 @@
       this.buttons[0].ᐃⵠᐃⵠ(L);
       if ((this.ΔᐃⵠⵠⲆ & (d | I | E | B | Q)) > 1) {
         var g = (this.ΔᐃⵠⵠⲆ & (I | E | B | Q)) > 1 ? -190 : Hi;
-        t = ΔΔ[Xr.ⵠⲆᐃᐃ][this.ᐃⵠΔⲆᐃ][this.ΔⲆⵠΔⲆΔΔ];
+        t = ΔΔ[29][this.ᐃⵠΔⲆᐃ][this.ΔⲆⵠΔⲆΔΔ];
         Jm(L, t, bo - t.width / 4 + g, 183, t.width / lr, t.height / 2);
         this.ⲆᐃᐃⲆ = (this.ⲆᐃᐃⲆ + _w * 1000) % 2000;
         var u = (this.ⲆᐃᐃⲆ < 1000) * 4.5 ? this.ⲆᐃᐃⲆ / 1000 : (2000 - this.ⲆᐃᐃⲆ) / 1000;
-        t = ΔΔ[Xr.ᐃⵠΔΔⲆ][this.ᐃΔⲆⵠⲆ][this.ΔⲆⵠΔⲆΔΔ];
+        t = ΔΔ[28][this.ᐃΔⲆⵠⲆ][this.ΔⲆⵠΔⲆΔΔ];
         Jm(L, t, bo - t.width / Ng - 62 + u + g, 240, t.width / Rl, t.height / 2);
-        t = ΔΔ[Xr.ΔᐃΔΔΔ][this.ΔⵠΔᐃ][this.ΔⲆⵠΔⲆΔΔ];
+        t = ΔΔ[7][this.ΔⵠΔᐃ][this.ΔⲆⵠΔⲆΔΔ];
         Jm(L, t, bo - t.width / 4 - 54 + u + g, 272, t.width / pq, t.height / vg);
         Jm(L, t, bo - t.width / Fr + 54 - u + g, 272, t.width / 2, t.height / Vh);
-        t = ΔΔ[Xr.ᐃⲆΔᐃΔᐃⲆ][this.ΔⵠΔᐃ][this.ΔⲆⵠΔⲆΔΔ];
+        t = ΔΔ[255][this.ΔⵠΔᐃ][this.ΔⲆⵠΔⲆΔΔ];
         Jm(L, t, bo - t.width / Pl + g, 222, t.width / 2, t.height / Ul);
-        t = ΔΔ[Xr.ΔⲆⵠⲆⵠ][this.ΔⵠΔᐃᐃ][this.ΔⲆⵠΔⲆΔΔ];
+        t = ΔΔ[796][this.ΔⵠΔᐃᐃ][this.ΔⲆⵠΔⲆΔΔ];
         Jm(L, t, bo - t.width / Fr + g, 222, t.width / Pn, t.height / vg);
       }
       if ((this.ΔᐃⵠⵠⲆ & d) === d) {
-        t = ΔΔ[Xr.Δⵠᐃᐃⵠ][this.ⲆⲆⲆⵠΔ][this.ΔⲆⵠΔⲆΔΔ];
+        t = ΔΔ[250][this.ⲆⲆⲆⵠΔ][this.ΔⲆⵠΔⲆΔΔ];
         Jm(L, t, bo - t.width / Ng - 61, 406 - t.height / Fr, t.width / 2, t.height / 2);
-        t = ΔΔ[Xr.Δⵠᐃᐃⵠ][this.ᐃᐃⵠΔΔ][this.ΔⲆⵠΔⲆΔΔ];
+        t = ΔΔ[250][this.ᐃᐃⵠΔΔ][this.ΔⲆⵠΔⲆΔΔ];
         Jm(L, t, bo - t.width / 4 + 53, 406 - t.height / ls, t.width / 2, t.height / eh);
       }
       if (D === (this.ΔᐃⵠⵠⲆ & D)) {
-        t = ΔΔ[Xr.Δⵠᐃᐃⵠ][this.ᐃᐃⵠΔΔ][this.ΔⲆⵠΔⲆΔΔ];
+        t = ΔΔ[250][this.ᐃᐃⵠΔΔ][this.ΔⲆⵠΔⲆΔΔ];
         Jm(L, t, bo - t.width / 4 - 200, 268 - t.height / 4, t.width / 2, t.height / Hj);
       }
       if (_ === (this.ΔᐃⵠⵠⲆ & _)) {
-        t = ΔΔ[Xr.Δⵠᐃᐃⵠ][this.ⲆⲆⲆⵠΔ][this.ΔⲆⵠΔⲆΔΔ];
+        t = ΔΔ[250][this.ⲆⲆⲆⵠΔ][this.ΔⲆⵠΔⲆΔΔ];
         Jm(L, t, bo - t.width / 4 - 200, 268 - t.height / 4, t.width / 2, t.height / 2);
       }
       if ((this.ΔᐃⵠⵠⲆ & (I | E | B | Q | D | _)) > 1) {
@@ -50195,8 +50195,8 @@
       }
     };
     this.ⲆΔᐃⲆ = {
-      ⲆΔΔⲆΔⲆⲆ: _v(60, 60, 0, ΔΔ[Xr.ᐃΔⲆᐃΔΔⲆ]),
-      ⵠᐃⵠⵠⲆΔᐃ: _v(60, 60, 0, ΔΔ[Xr.ⵠᐃᐃᐃΔΔᐃ])
+      ⲆΔΔⲆΔⲆⲆ: _v(60, 60, 0, ΔΔ[782]),
+      ⵠᐃⵠⵠⲆΔᐃ: _v(60, 60, 0, ΔΔ[783])
     };
     this.sign = {
       open: f,
@@ -50205,9 +50205,9 @@
       ᐃⲆᐃΔᐃᐃⵠ: 0,
       id: document.getElementById("sign_window"),
       style: document.getElementById("sign_window").style,
-      button: _v(60, 60, 0, ΔΔ[Xr.ᐃⵠΔⵠⵠᐃΔ]),
+      button: _v(60, 60, 0, ΔΔ[803]),
       ⲆⲆΔⵠⵠᐃΔ: function () {
-        var a = Math.floor(Math.floor((3 + Xw.ΔᐃⲆⵠ.ⲆΔⵠⵠΔ.length) / nj) * (10 + ΔΔ[Xr.ⵠⵠⵠΔΔᐃⵠ][0].width) + 35);
+        var a = Math.floor(Math.floor((3 + Xw.ΔᐃⲆⵠ.ⲆΔⵠⵠΔ.length) / nj) * (10 + ΔΔ[316][0].width) + 35);
         this.button.info.translate.x = a;
         this.button.info.translate.y = 22;
       },
@@ -50254,86 +50254,86 @@
         ΔᐃⲆⲆⲆ: zs,
         b: zs,
         a: 3,
-        ΔΔⲆΔᐃ: Xr.ⵠⵠⵠΔΔᐃⵠ
+        ΔΔⲆΔᐃ: 316
       }, {
         id: 1,
         name: "stone",
         ΔᐃⲆⲆⲆ: wt,
         b: 1,
         a: $i,
-        ΔΔⲆΔᐃ: Xr.ⲆⵠⵠⲆⲆⲆᐃ
+        ΔΔⲆΔᐃ: 315
       }, {
         id: rs,
         name: "gold",
         ΔᐃⲆⲆⲆ: gs,
         b: mk,
         a: 6,
-        ΔΔⲆΔᐃ: Xr.ᐃⲆΔΔⵠⲆΔ
+        ΔΔⲆΔᐃ: 297
       }, {
         id: 3,
         name: "diamond",
         ΔᐃⲆⲆⲆ: 4,
         b: Pl,
         a: za,
-        ΔΔⲆΔᐃ: Xr.ⲆⲆΔⵠᐃΔⲆ
+        ΔΔⲆΔᐃ: 298
       }, {
         id: 4,
         name: "amethyst",
         ΔᐃⲆⲆⲆ: 8,
         b: 8,
         a: Tl,
-        ΔΔⲆΔᐃ: Xr.ⵠⲆΔᐃΔᐃⲆ
+        ΔΔⲆΔᐃ: 418
       }, {
         id: ib,
         name: "reidite",
         ΔᐃⲆⲆⲆ: 16,
         b: 16,
         a: Gh,
-        ΔΔⲆΔᐃ: Xr.ᐃⵠⵠⵠΔᐃⵠ
+        ΔΔⲆΔᐃ: 938
       }, {
         id: Ck,
         name: "pumpkin_seed",
         ΔᐃⲆⲆⲆ: kk,
         b: lg,
         a: Hg,
-        ΔΔⲆΔᐃ: Xr.ⵠᐃⲆΔⵠΔΔ
+        ΔΔⲆΔᐃ: 808
       }, {
         id: fg,
         name: "carrot_seed",
         ΔᐃⲆⲆⲆ: ck,
         b: 16,
         a: gs,
-        ΔΔⲆΔᐃ: Xr.ᐃᐃᐃᐃΔⲆⲆ
+        ΔΔⲆΔᐃ: 949
       }, {
         id: 8,
         name: "tomato_seed",
         ΔᐃⲆⲆⲆ: rl,
         b: 20,
         a: 1,
-        ΔΔⲆΔᐃ: Xr.ᐃᐃⵠΔΔΔⵠ
+        ΔΔⲆΔᐃ: 959
       }, {
         id: Qj,
         name: "thornbush_seed",
         ΔᐃⲆⲆⲆ: 30,
         b: 30,
         a: 1,
-        ΔΔⲆΔᐃ: Xr.ⵠⵠΔᐃⲆⲆᐃ
+        ΔΔⲆΔᐃ: 845
       }, {
         id: jn,
         name: "garlic_seed",
         ΔᐃⲆⲆⲆ: 40,
         b: 40,
         a: 1,
-        ΔΔⲆΔᐃ: Xr.ⲆⵠⲆⵠⲆᐃΔ
+        ΔΔⲆΔᐃ: 834
       }, {
         id: 11,
         name: "watermelon_seed",
         ΔᐃⲆⲆⲆ: 60,
         b: 60,
         a: wt,
-        ΔΔⲆΔᐃ: Xr.ΔΔᐃᐃΔⵠΔ
+        ΔΔⲆΔᐃ: 966
       }],
-      button: _v(60, 60, 0, ΔΔ[Xr.ⵠⲆΔΔΔΔⲆ]),
+      button: _v(60, 60, 0, ΔΔ[795]),
       ᐃⲆΔ: function () {
         this.style.left = Math.floor(bo - 450) + "px";
         this.style.top = Math.floor(lq - 270) + "px";
@@ -50403,7 +50403,7 @@
       ⵠᐃⲆⵠᐃⵠⵠ: document.getElementById("auto_feed_agree_ing").style,
       ΔⵠΔᐃΔⵠⵠ: document.getElementById("info_agree_ing").style,
       ΔᐃᐃⲆΔΔⲆ: document.getElementById("pixelated_agree_ing").style,
-      button: _v(60, 60, 0, ΔΔ[Xr.ⵠⵠⵠᐃⵠΔⲆ]),
+      button: _v(60, 60, 0, ΔΔ[727]),
       ΔᐃⵠΔᐃⲆΔⲆⵠ: function () {
         Zw.options.open = !Zw.options.open;
         if (Zw.options.open) {
@@ -50669,7 +50669,7 @@
     this.ⵠΔⲆⵠΔ = {
       open: false,
       ⲆΔⲆΔᐃ: -Te,
-      button: _v(60, 60, 0, ΔΔ[Xr.ⵠᐃⵠΔⵠⲆⲆ]),
+      button: _v(60, 60, 0, ΔΔ[592]),
       id: document.getElementById("shop_starterkit"),
       style: document.getElementById("shop_starterkit").style,
       ᐃⲆΔ: function () {
@@ -50729,7 +50729,7 @@
         }
         b = b.items;
         for (var c = ie, d = Hg; c < b.length + 1; c++) {
-          if (b[c - gs][1] !== _r.ⵠⲆᐃᐃ) {
+          if (b[c - gs][1] !== 29) {
             document.getElementById("inv_shop" + d).style.display = "inline-block";
             document.getElementById("inv_shop" + d).src = ΔΔ[ds[b[c - 1][$b]].ⵠⵠ][Qs].ΔⵠⲆⲆⵠ === Hq ? ΔΔ[ds[b[c - 1][og]].ⵠⵠ][Hi].src : ΔΔ[ds[b[c - Hg][1]].ⵠⵠ][0].ΔⵠⲆⲆⵠ;
             document.getElementById("amount_shop" + d).innerHTML = "" + b[c - ie][eu];
@@ -50750,7 +50750,7 @@
     this.Δⵠᐃᐃ = {
       open: Ag,
       ⵠⲆⲆᐃⲆ: ⵠⵠΔΔ.get("starve_quests") ? ⵠⵠΔΔ.get("starve_quests") === "1" ? 1 : 0 : os,
-      button: _v(60, 60, 0, ΔΔ[Xr.ⵠᐃⲆᐃⵠᐃΔ]),
+      button: _v(60, 60, 0, ΔΔ[755]),
       id: document.getElementById("chronoquest"),
       style: document.getElementById("chronoquest").style,
       ᐃⲆΔ: function () {
@@ -50863,7 +50863,7 @@
     }
     this.ⲆⵠⲆⵠ = {
       open: Ei,
-      button: _v(60, 60, 0, ΔΔ[Xr.ⲆᐃⵠᐃⵠⲆᐃ]),
+      button: _v(60, 60, 0, ΔΔ[708]),
       list: {
         id: document.getElementById("recipe_craft"),
         style: document.getElementById("recipe_craft").style,
@@ -51155,7 +51155,7 @@
         y: wj,
         x: 0
       },
-      ⵠⵠ: ΔΔ[Xr.ⲆᐃΔΔⲆⵠⵠ],
+      ⵠⵠ: ΔΔ[278],
       ⲆΔ: document.createElement("canvas")
     };
     this.ⵠⵠⵠⵠ.ⲆΔ.width = this.ⵠⵠⵠⵠ.ⵠⵠ.width;
@@ -51166,7 +51166,7 @@
         y: Rq,
         x: 0
       },
-      ⵠⵠ: ΔΔ[Xr.ΔᐃⲆⲆᐃⲆᐃ],
+      ⵠⵠ: ΔΔ[267],
       ᐃⵠᐃⵠ: Lm,
       y: Hi
     };
@@ -51251,1442 +51251,1442 @@
     };
     this.ⲆΔⵠᐃᐃ = [];
     this.ⲆΔⵠᐃᐃ[jw.ᐃⵠᐃⲆΔΔⵠ] = {
-      button: _v(60, 60, 0, ΔΔ[Xr.ⲆᐃΔᐃⵠⲆⲆ]),
+      button: _v(60, 60, 0, ΔΔ[556]),
       action: this.ΔⵠⵠΔΔⵠΔ
     };
     this.ⲆΔⵠᐃᐃ[jw.ΔᐃΔΔΔⲆⲆ] = {
-      button: _v(60, 60, 0, ΔΔ[Xr.ⲆᐃΔᐃⵠⲆⲆ]),
+      button: _v(60, 60, 0, ΔΔ[556]),
       action: Ⲇⵠᐃⵠ.ⲆᐃΔⵠΔⵠⲆⵠΔ
     };
     this.ⲆΔⵠᐃᐃ[jw.ᐃⲆᐃⲆⵠⵠΔ] = {
-      button: _v(60, 60, 0, ΔΔ[Xr.ΔᐃΔᐃⵠᐃΔ]),
+      button: _v(60, 60, 0, ΔΔ[557]),
       action: this.ΔⲆᐃⵠΔᐃⵠⲆⲆ
     };
     this.ⲆΔⵠᐃᐃ[jw.ⵠᐃᐃⵠᐃΔΔ] = {
-      button: _v(60, 60, 0, ΔΔ[Xr.ΔᐃᐃᐃⲆⵠᐃ]),
+      button: _v(60, 60, 0, ΔΔ[561]),
       action: this.ⲆⵠⵠΔΔᐃⵠᐃᐃ
     };
     this.ⲆΔⵠᐃᐃ[jw.ᐃⲆΔⵠᐃⵠⵠ] = {
-      button: _v(60, 60, 0, ΔΔ[Xr.ⵠᐃΔΔᐃᐃⵠ]),
+      button: _v(60, 60, 0, ΔΔ[560]),
       action: function () {}
     };
     this.ᐃⵠᐃᐃⲆ = -1;
-    this.ᐃᐃᐃᐃⵠΔⲆ = _v(60, 60, 0, ΔΔ[Xr.ᐃⵠΔⲆᐃⲆⵠ]);
-    this.ᐃⲆΔⵠᐃⲆⲆ = _v(60, 60, 0, ΔΔ[Xr.ⲆⲆᐃⵠⵠᐃⲆ]);
-    this.ΔⵠⲆⵠΔⵠⲆ = _v(60, 60, 0, ΔΔ[Xr.ΔᐃᐃΔᐃⲆΔ]);
-    this.ⵠⵠⲆⵠΔⵠΔ = _v(60, 60, 0, ΔΔ[Xr.ᐃⲆⲆᐃⵠᐃΔ]);
-    this.ΔᐃΔⲆᐃΔᐃ = _v(60, 60, 0, ΔΔ[Xr.ΔᐃᐃΔᐃⲆΔ]);
-    this.ΔᐃⵠⲆⵠⵠΔ = _v(60, 60, 0, ΔΔ[Xr.ⵠⵠⵠΔΔᐃⵠ]);
-    this.ⲆΔΔⲆΔⲆᐃ = _v(60, 60, 0, ΔΔ[Xr.ⲆⵠⵠⲆⲆⲆᐃ]);
-    this.ΔⲆΔᐃΔΔⲆ = _v(60, 60, 0, ΔΔ[Xr.ᐃⲆΔΔⵠⲆΔ]);
-    this.ᐃⵠᐃⵠᐃᐃΔ = _v(60, 60, 0, ΔΔ[Xr.ⲆⲆΔⵠᐃΔⲆ]);
-    this.ⵠᐃᐃΔⲆΔᐃ = _v(60, 60, 0, ΔΔ[Xr.ⵠⲆΔᐃΔᐃⲆ]);
-    this.ⲆⵠⲆΔΔⲆⲆ = _v(60, 60, 0, ΔΔ[Xr.ᐃⵠⵠⵠΔᐃⵠ]);
-    this.ⲆΔⲆᐃⵠⵠᐃ = _v(60, 60, 0, ΔΔ[Xr.ᐃⲆⲆⵠΔⲆᐃ]);
-    this.ⲆΔⵠᐃⲆⵠⲆ = _v(60, 60, 0, ΔΔ[Xr.ⲆΔᐃⵠⲆᐃΔ]);
-    this.ⵠᐃⲆΔΔⲆΔ = _v(60, 60, 0, ΔΔ[Xr.ⲆⲆⵠⲆΔΔⲆ]);
-    this.ΔΔᐃⵠⵠⵠⵠ = _v(60, 60, 0, ΔΔ[Xr.ⵠⲆⲆⲆⵠᐃⲆ]);
-    this.ⲆᐃⵠᐃⲆ = _v(120, 120, 0, ΔΔ[Xr.ⵠⵠⲆⵠⲆ]);
+    this.ᐃᐃᐃᐃⵠΔⲆ = _v(60, 60, 0, ΔΔ[723]);
+    this.ᐃⲆΔⵠᐃⲆⲆ = _v(60, 60, 0, ΔΔ[724]);
+    this.ΔⵠⲆⵠΔⵠⲆ = _v(60, 60, 0, ΔΔ[658]);
+    this.ⵠⵠⲆⵠΔⵠΔ = _v(60, 60, 0, ΔΔ[657]);
+    this.ΔᐃΔⲆᐃΔᐃ = _v(60, 60, 0, ΔΔ[658]);
+    this.ΔᐃⵠⲆⵠⵠΔ = _v(60, 60, 0, ΔΔ[316]);
+    this.ⲆΔΔⲆΔⲆᐃ = _v(60, 60, 0, ΔΔ[315]);
+    this.ΔⲆΔᐃΔΔⲆ = _v(60, 60, 0, ΔΔ[297]);
+    this.ᐃⵠᐃⵠᐃᐃΔ = _v(60, 60, 0, ΔΔ[298]);
+    this.ⵠᐃᐃΔⲆΔᐃ = _v(60, 60, 0, ΔΔ[418]);
+    this.ⲆⵠⲆΔΔⲆⲆ = _v(60, 60, 0, ΔΔ[938]);
+    this.ⲆΔⲆᐃⵠⵠᐃ = _v(60, 60, 0, ΔΔ[412]);
+    this.ⲆΔⵠᐃⲆⵠⲆ = _v(60, 60, 0, ΔΔ[536]);
+    this.ⵠᐃⲆΔΔⲆΔ = _v(60, 60, 0, ΔΔ[535]);
+    this.ΔΔᐃⵠⵠⵠⵠ = _v(60, 60, 0, ΔΔ[538]);
+    this.ⲆᐃⵠᐃⲆ = _v(120, 120, 0, ΔΔ[149]);
     this.ⲆᐃⵠᐃⲆ.info.translate.x = xt;
     this.ⲆᐃⵠᐃⲆ.info.translate.y = 10;
     this.ⲆⵠΔ = [];
-    this.ⲆⵠΔ[_r.ᐃᐃⲆΔⲆ] = _v(68, 68, 0, ΔΔ[Xr.ⲆⵠⲆᐃⲆⲆⵠ], 3);
-    this.ⲆⵠΔ[_r.ᐃᐃⲆΔⲆ].id = _r.ᐃᐃⲆΔⲆ;
-    this.ⲆⵠΔ[_r.ⲆⵠⵠⲆⲆ] = _v(68, 68, 0, ΔΔ[Xr.ⵠⵠⵠⵠⵠⲆᐃ], 3);
-    this.ⲆⵠΔ[_r.ⲆⵠⵠⲆⲆ].id = _r.ⲆⵠⵠⲆⲆ;
-    this.ⲆⵠΔ[_r.ᐃΔⵠⲆ] = _v(68, 68, 0, ΔΔ[Xr.ᐃⵠᐃⵠⵠΔΔ], ut);
-    this.ⲆⵠΔ[_r.ᐃΔⵠⲆ].id = _r.ᐃΔⵠⲆ;
-    this.ⲆⵠΔ[_r.ⵠᐃⵠⵠ] = _v(68, 68, 0, ΔΔ[Xr.ⵠΔⵠⲆⵠᐃⵠ], 3);
-    this.ⲆⵠΔ[_r.ⵠᐃⵠⵠ].id = _r.ⵠᐃⵠⵠ;
-    this.ⲆⵠΔ[_r.ⵠᐃⲆⲆⲆ] = _v(68, 68, 0, ΔΔ[Xr.ΔⵠΔⵠᐃⵠᐃ], 3);
-    this.ⲆⵠΔ[_r.ⵠᐃⲆⲆⲆ].id = _r.ⵠᐃⲆⲆⲆ;
-    this.ⲆⵠΔ[_r.ⵠⵠⵠΔⲆ] = _v(68, 68, 0, ΔΔ[Xr.ᐃⵠⲆΔΔⵠⵠ], 3);
-    this.ⲆⵠΔ[_r.ⵠⵠⵠΔⲆ].id = _r.ⵠⵠⵠΔⲆ;
-    this.ⲆⵠΔ[_r.ᐃⲆⵠᐃ] = _v(68, 68, 0, ΔΔ[Xr.ⵠΔⲆΔᐃⲆⵠ], Hk);
-    this.ⲆⵠΔ[_r.ᐃⲆⵠᐃ].id = _r.ᐃⲆⵠᐃ;
-    this.ⲆⵠΔ[_r.ᐃⲆΔⵠ] = _v(68, 68, 0, ΔΔ[Xr.ᐃᐃᐃᐃⲆΔΔ], ub);
-    this.ⲆⵠΔ[_r.ᐃⲆΔⵠ].id = _r.ᐃⲆΔⵠ;
-    this.ⲆⵠΔ[_r.ⵠᐃⲆΔΔ] = _v(68, 68, 0, ΔΔ[Xr.ΔΔⵠᐃⵠⵠⵠ], 3);
-    this.ⲆⵠΔ[_r.ⵠᐃⲆΔΔ].id = _r.ⵠᐃⲆΔΔ;
-    this.ⲆⵠΔ[_r.ᐃⲆⵠΔⲆ] = _v(68, 68, 0, ΔΔ[Xr.ⵠΔΔΔⵠΔⵠ], fn);
-    this.ⲆⵠΔ[_r.ᐃⲆⵠΔⲆ].id = _r.ᐃⲆⵠΔⲆ;
-    this.ⲆⵠΔ[_r.ⵠΔΔΔΔ] = _v(68, 68, 0, ΔΔ[Xr.ᐃΔⲆⲆⵠⵠΔ], 3);
-    this.ⲆⵠΔ[_r.ⵠΔΔΔΔ].id = _r.ⵠΔΔΔΔ;
-    this.ⲆⵠΔ[_r.ΔⵠᐃΔᐃ] = _v(68, 68, 0, ΔΔ[Xr.ΔⲆⲆⵠΔⵠⲆ], Tr);
-    this.ⲆⵠΔ[_r.ΔⵠᐃΔᐃ].id = _r.ΔⵠᐃΔᐃ;
-    this.ⲆⵠΔ[_r.ᐃΔⲆᐃΔ] = _v(68, 68, 0, ΔΔ[Xr.ᐃΔⵠΔΔᐃΔ], Hk);
-    this.ⲆⵠΔ[_r.ᐃΔⲆᐃΔ].id = _r.ᐃΔⲆᐃΔ;
-    this.ⲆⵠΔ[_r.ΔᐃᐃⲆⲆ] = _v(68, 68, 0, ΔΔ[Xr.ΔΔⲆⲆⵠⵠᐃ], eg);
-    this.ⲆⵠΔ[_r.ΔᐃᐃⲆⲆ].id = _r.ΔᐃᐃⲆⲆ;
-    this.ⲆⵠΔ[_r.ⵠⲆΔⵠᐃ] = _v(68, 68, 0, ΔΔ[Xr.ΔⲆⲆⲆⲆᐃⲆ], 3);
-    this.ⲆⵠΔ[_r.ⵠⲆΔⵠᐃ].id = _r.ⵠⲆΔⵠᐃ;
-    this.ⲆⵠΔ[_r.ⵠᐃΔⲆᐃ] = _v(68, 68, 0, ΔΔ[Xr.ΔᐃΔΔⲆᐃⲆ], nq);
-    this.ⲆⵠΔ[_r.ⵠᐃΔⲆᐃ].id = _r.ⵠᐃΔⲆᐃ;
-    this.ⲆⵠΔ[_r.ⲆⲆⲆⲆⵠ] = _v(68, 68, 0, ΔΔ[Xr.ⵠᐃΔⵠᐃᐃΔ], qo);
-    this.ⲆⵠΔ[_r.ⲆⲆⲆⲆⵠ].id = _r.ⲆⲆⲆⲆⵠ;
-    this.ⲆⵠΔ[_r.ⵠⵠΔⵠⲆ] = _v(68, 68, 0, ΔΔ[Xr.ⵠΔⵠⲆᐃⲆⲆ], 3);
-    this.ⲆⵠΔ[_r.ⵠⵠΔⵠⲆ].id = _r.ⵠⵠΔⵠⲆ;
-    this.ⲆⵠΔ[_r.ⲆΔⲆⲆⵠ] = _v(68, 68, 0, ΔΔ[Xr.ⵠⲆΔΔⲆΔᐃ], 3);
-    this.ⲆⵠΔ[_r.ⲆΔⲆⲆⵠ].id = _r.ⲆΔⲆⲆⵠ;
-    this.ⲆⵠΔ[_r.ΔΔⵠⵠⲆ] = _v(68, 68, 0, ΔΔ[Xr.ᐃⵠᐃⵠᐃⲆΔ], Tt);
-    this.ⲆⵠΔ[_r.ΔΔⵠⵠⲆ].id = _r.ΔΔⵠⵠⲆ;
-    this.ⲆⵠΔ[_r.ⵠⵠᐃᐃⵠ] = _v(68, 68, 0, ΔΔ[Xr.ⵠᐃΔΔΔⲆᐃ], 3);
-    this.ⲆⵠΔ[_r.ⵠⵠᐃᐃⵠ].id = _r.ⵠⵠᐃᐃⵠ;
-    this.ⲆⵠΔ[_r.ᐃΔΔⵠΔ] = _v(68, 68, 0, ΔΔ[Xr.ⵠⵠΔΔⲆⵠΔ], ea);
-    this.ⲆⵠΔ[_r.ᐃΔΔⵠΔ].id = _r.ᐃΔΔⵠΔ;
-    this.ⲆⵠΔ[_r.ᐃΔᐃⲆᐃ] = _v(68, 68, 0, ΔΔ[Xr.ΔⲆⵠΔⲆⵠⵠ], 3);
-    this.ⲆⵠΔ[_r.ᐃΔᐃⲆᐃ].id = _r.ᐃΔᐃⲆᐃ;
-    this.ⲆⵠΔ[_r.ᐃΔⵠᐃⲆ] = _v(68, 68, 0, ΔΔ[Xr.ⲆᐃⵠᐃⲆⲆΔ], 3);
-    this.ⲆⵠΔ[_r.ᐃΔⵠᐃⲆ].id = _r.ᐃΔⵠᐃⲆ;
-    this.ⲆⵠΔ[_r.ΔᐃⵠⲆⲆ] = _v(68, 68, 0, ΔΔ[Xr.ⵠⵠⲆⲆⵠⲆᐃ], qo);
-    this.ⲆⵠΔ[_r.ΔᐃⵠⲆⲆ].id = _r.ΔᐃⵠⲆⲆ;
-    this.ⲆⵠΔ[_r.ᐃᐃᐃᐃᐃ] = _v(68, 68, 0, ΔΔ[Xr.ⲆⲆᐃΔⵠΔⵠ], eg);
-    this.ⲆⵠΔ[_r.ᐃᐃᐃᐃᐃ].id = _r.ᐃᐃᐃᐃᐃ;
-    this.ⲆⵠΔ[_r.ⵠᐃⲆᐃⵠ] = _v(68, 68, 0, ΔΔ[Xr.ᐃΔΔᐃⵠᐃᐃ], ci);
-    this.ⲆⵠΔ[_r.ⵠᐃⲆᐃⵠ].id = _r.ⵠᐃⲆᐃⵠ;
-    this.ⲆⵠΔ[_r.ΔⵠⵠⲆᐃ] = _v(68, 68, 0, ΔΔ[Xr.ⵠᐃᐃᐃᐃΔΔ], I);
-    this.ⲆⵠΔ[_r.ΔⵠⵠⲆᐃ].id = _r.ΔⵠⵠⲆᐃ;
-    this.ⲆⵠΔ[_r.ᐃⲆⲆⲆⲆ] = _v(68, 68, 0, ΔΔ[Xr.ⲆᐃⲆⲆΔⲆΔ], nq);
-    this.ⲆⵠΔ[_r.ᐃⲆⲆⲆⲆ].id = _r.ᐃⲆⲆⲆⲆ;
-    this.ⲆⵠΔ[_r.ⲆᐃⲆΔΔ] = _v(68, 68, 0, ΔΔ[Xr.ΔⵠⲆⲆⲆⲆΔ], 3);
-    this.ⲆⵠΔ[_r.ⲆᐃⲆΔΔ].id = _r.ⲆᐃⲆΔΔ;
-    this.ⲆⵠΔ[_r.Ⲇᐃⵠᐃⵠ] = _v(68, 68, 0, ΔΔ[Xr.ⵠⲆᐃᐃΔⵠΔ], 3);
-    this.ⲆⵠΔ[_r.Ⲇᐃⵠᐃⵠ].id = _r.Ⲇᐃⵠᐃⵠ;
-    this.ⲆⵠΔ[_r.ⲆⵠᐃΔΔ] = _v(68, 68, 0, ΔΔ[Xr.ⲆΔᐃΔⲆΔΔ], 3);
-    this.ⲆⵠΔ[_r.ⲆⵠᐃΔΔ].id = _r.ⲆⵠᐃΔΔ;
-    this.ⲆⵠΔ[_r.ⵠⵠΔⵠΔ] = _v(68, 68, 0, ΔΔ[Xr.ⲆⵠⵠⲆⵠᐃⵠ], sl);
-    this.ⲆⵠΔ[_r.ⵠⵠΔⵠΔ].id = _r.ⵠⵠΔⵠΔ;
-    this.ⲆⵠΔ[_r.ⵠΔⵠⵠⲆ] = _v(68, 68, 0, ΔΔ[Xr.ΔᐃⵠⲆⵠᐃΔ], 3);
-    this.ⲆⵠΔ[_r.ⵠΔⵠⵠⲆ].id = _r.ⵠΔⵠⵠⲆ;
-    this.ⲆⵠΔ[_r.ⲆⵠⵠΔᐃ] = _v(68, 68, 0, ΔΔ[Xr.ⲆⵠⵠⵠⵠΔΔ], yr);
-    this.ⲆⵠΔ[_r.ⲆⵠⵠΔᐃ].id = _r.ⲆⵠⵠΔᐃ;
-    this.ⲆⵠΔ[_r.ᐃⲆⲆⲆᐃ] = _v(68, 68, 0, ΔΔ[Xr.ΔΔᐃⵠⲆⵠᐃ], 3);
-    this.ⲆⵠΔ[_r.ᐃⲆⲆⲆᐃ].id = _r.ᐃⲆⲆⲆᐃ;
-    this.ⲆⵠΔ[_r.ⵠⵠΔⲆⵠ] = _v(68, 68, 0, ΔΔ[Xr.ⲆⵠⲆᐃⵠΔⵠ], 3);
-    this.ⲆⵠΔ[_r.ⵠⵠΔⲆⵠ].id = _r.ⵠⵠΔⲆⵠ;
-    this.ⲆⵠΔ[_r.ΔⵠΔΔⲆ] = _v(68, 68, 0, ΔΔ[Xr.ᐃⲆⲆⵠᐃᐃΔ], Wb);
-    this.ⲆⵠΔ[_r.ΔⵠΔΔⲆ].id = _r.ΔⵠΔΔⲆ;
-    this.ⲆⵠΔ[_r.ᐃⵠⵠΔⵠ] = _v(68, 68, 0, ΔΔ[Xr.ΔᐃⵠᐃᐃΔⲆ], 3);
-    this.ⲆⵠΔ[_r.ᐃⵠⵠΔⵠ].id = _r.ᐃⵠⵠΔⵠ;
-    this.ⲆⵠΔ[_r.ᐃⲆᐃⲆᐃ] = _v(68, 68, 0, ΔΔ[Xr.ⲆⵠᐃΔⲆᐃⵠ], 3);
-    this.ⲆⵠΔ[_r.ᐃⲆᐃⲆᐃ].id = _r.ᐃⲆᐃⲆᐃ;
-    this.ⲆⵠΔ[_r.ⵠΔᐃⲆΔ] = _v(68, 68, 0, ΔΔ[Xr.ΔⲆⲆᐃᐃΔⲆ], 3);
-    this.ⲆⵠΔ[_r.ⵠΔᐃⲆΔ].id = _r.ⵠΔᐃⲆΔ;
-    this.ⲆⵠΔ[_r.ᐃΔⵠⵠⵠ] = _v(68, 68, 0, ΔΔ[Xr.ⲆⲆΔᐃⲆⲆⵠ], 3);
-    this.ⲆⵠΔ[_r.ᐃΔⵠⵠⵠ].id = _r.ᐃΔⵠⵠⵠ;
-    this.ⲆⵠΔ[_r.ⵠΔᐃΔΔ] = _v(68, 68, 0, ΔΔ[Xr.ⲆⲆΔᐃⲆΔΔ], qo);
-    this.ⲆⵠΔ[_r.ⵠΔᐃΔΔ].id = _r.ⵠΔᐃΔΔ;
-    this.ⲆⵠΔ[_r.ᐃⵠⵠⵠΔ] = _v(68, 68, 0, ΔΔ[Xr.ΔΔΔΔΔⲆⵠ], eg);
-    this.ⲆⵠΔ[_r.ᐃⵠⵠⵠΔ].id = _r.ᐃⵠⵠⵠΔ;
-    this.ⲆⵠΔ[_r.ᐃᐃΔⲆⲆ] = _v(68, 68, 0, ΔΔ[Xr.ⵠΔΔᐃⲆⵠᐃ], 3);
-    this.ⲆⵠΔ[_r.ᐃᐃΔⲆⲆ].id = _r.ᐃᐃΔⲆⲆ;
-    this.ⲆⵠΔ[_r.ⵠΔᐃⵠᐃ] = _v(68, 68, 0, ΔΔ[Xr.ⲆⲆᐃΔⵠⵠⲆ], 3);
-    this.ⲆⵠΔ[_r.ⵠΔᐃⵠᐃ].id = _r.ⵠΔᐃⵠᐃ;
-    this.ⲆⵠΔ[_r.ⵠᐃᐃⵠΔ] = _v(68, 68, 0, ΔΔ[Xr.ⵠᐃⲆΔⲆⵠⲆ], xb);
-    this.ⲆⵠΔ[_r.ⵠᐃᐃⵠΔ].id = _r.ⵠᐃᐃⵠΔ;
-    this.ⲆⵠΔ[_r.ᐃᐃᐃᐃⲆ] = _v(68, 68, 0, ΔΔ[Xr.ᐃⲆⲆΔΔⵠⵠ], Tr);
-    this.ⲆⵠΔ[_r.ᐃᐃᐃᐃⲆ].id = _r.ᐃᐃᐃᐃⲆ;
-    this.ⲆⵠΔ[_r.ⲆⲆΔᐃᐃ] = _v(68, 68, 0, ΔΔ[Xr.ⵠᐃᐃⲆⵠⲆⲆ], xb);
-    this.ⲆⵠΔ[_r.ⲆⲆΔᐃᐃ].id = _r.ⲆⲆΔᐃᐃ;
-    this.ⲆⵠΔ[_r.ⲆᐃΔᐃⵠ] = _v(68, 68, 0, ΔΔ[Xr.ⲆᐃⲆⵠᐃⵠᐃ], 3);
-    this.ⲆⵠΔ[_r.ⲆᐃΔᐃⵠ].id = _r.ⲆᐃΔᐃⵠ;
-    this.ⲆⵠΔ[_r.ⲆᐃᐃΔᐃ] = _v(68, 68, 0, ΔΔ[Xr.ΔⲆⲆΔⵠⵠᐃ], ea);
-    this.ⲆⵠΔ[_r.ⲆᐃᐃΔᐃ].id = _r.ⲆᐃᐃΔᐃ;
-    this.ⲆⵠΔ[_r.ⵠᐃᐃΔᐃ] = _v(68, 68, 0, ΔΔ[Xr.ⲆⵠⵠΔᐃᐃⲆ], 3);
-    this.ⲆⵠΔ[_r.ⵠᐃᐃΔᐃ].id = _r.ⵠᐃᐃΔᐃ;
-    this.ⲆⵠΔ[_r.ⲆⵠΔᐃⲆ] = _v(68, 68, 0, ΔΔ[Xr.ᐃⵠⵠⲆᐃᐃᐃ], 3);
-    this.ⲆⵠΔ[_r.ⲆⵠΔᐃⲆ].id = _r.ⲆⵠΔᐃⲆ;
-    this.ⲆⵠΔ[_r.ⵠⲆⵠΔᐃ] = _v(68, 68, 0, ΔΔ[Xr.ᐃΔΔᐃΔᐃᐃ], qu);
-    this.ⲆⵠΔ[_r.ⵠⲆⵠΔᐃ].id = _r.ⵠⲆⵠΔᐃ;
-    this.ⲆⵠΔ[_r.ⵠᐃΔΔᐃ] = _v(68, 68, 0, ΔΔ[Xr.ⲆⲆⵠΔⲆⵠⵠ], ci);
-    this.ⲆⵠΔ[_r.ⵠᐃΔΔᐃ].id = _r.ⵠᐃΔΔᐃ;
-    this.ⲆⵠΔ[_r.ⵠⵠΔᐃᐃ] = _v(68, 68, 0, ΔΔ[Xr.ⲆΔⲆΔΔⲆⵠ], 3);
-    this.ⲆⵠΔ[_r.ⵠⵠΔᐃᐃ].id = _r.ⵠⵠΔᐃᐃ;
-    this.ⲆⵠΔ[_r.ΔᐃⲆⵠⲆ] = _v(68, 68, 0, ΔΔ[Xr.ᐃⲆⵠⵠΔΔᐃ], sl);
-    this.ⲆⵠΔ[_r.ΔᐃⲆⵠⲆ].id = _r.ΔᐃⲆⵠⲆ;
-    this.ⲆⵠΔ[_r.ΔΔΔⲆΔ] = _v(68, 68, 0, ΔΔ[Xr.ΔⵠⲆⲆΔⲆⲆ], Hk);
-    this.ⲆⵠΔ[_r.ΔΔΔⲆΔ].id = _r.ΔΔΔⲆΔ;
-    this.ⲆⵠΔ[_r.ⲆΔⵠΔΔ] = _v(68, 68, 0, ΔΔ[Xr.ᐃⵠⲆⲆᐃⵠΔ], yr);
-    this.ⲆⵠΔ[_r.ⲆΔⵠΔΔ].id = _r.ⲆΔⵠΔΔ;
-    this.ⲆⵠΔ[_r.ᐃᐃΔᐃΔ] = _v(68, 68, 0, ΔΔ[Xr.ᐃⵠⵠⲆᐃⵠΔ], qu);
-    this.ⲆⵠΔ[_r.ᐃᐃΔᐃΔ].id = _r.ᐃᐃΔᐃΔ;
-    this.ⲆⵠΔ[_r.ⲆΔᐃΔⵠ] = _v(68, 68, 0, ΔΔ[Xr.ᐃᐃⵠΔⲆⲆⲆ], ub);
-    this.ⲆⵠΔ[_r.ⲆΔᐃΔⵠ].id = _r.ⲆΔᐃΔⵠ;
-    this.ⲆⵠΔ[_r.ᐃΔᐃΔⲆ] = _v(68, 68, 0, ΔΔ[Xr.ΔᐃⵠᐃΔΔⲆ], yr);
-    this.ⲆⵠΔ[_r.ᐃΔᐃΔⲆ].id = _r.ᐃΔᐃΔⲆ;
-    this.ⲆⵠΔ[_r.ⲆΔⲆᐃⲆ] = _v(68, 68, 0, ΔΔ[Xr.ᐃⵠᐃᐃⲆΔⵠ], 3);
-    this.ⲆⵠΔ[_r.ⲆΔⲆᐃⲆ].id = _r.ⲆΔⲆᐃⲆ;
-    this.ⲆⵠΔ[_r.ᐃᐃⲆᐃᐃ] = _v(68, 68, 0, ΔΔ[Xr.ⲆⲆⵠⵠΔⲆⵠ], Hk);
-    this.ⲆⵠΔ[_r.ᐃᐃⲆᐃᐃ].id = _r.ᐃᐃⲆᐃᐃ;
-    this.ⲆⵠΔ[_r.ᐃᐃΔᐃⲆ] = _v(68, 68, 0, ΔΔ[Xr.ΔⲆⵠΔᐃⵠⵠ], 3);
-    this.ⲆⵠΔ[_r.ᐃᐃΔᐃⲆ].id = _r.ᐃᐃΔᐃⲆ;
-    this.ⲆⵠΔ[_r.ΔΔⲆⵠⲆ] = _v(68, 68, 0, ΔΔ[Xr.ⲆΔⲆⲆⵠⵠΔ], yr);
-    this.ⲆⵠΔ[_r.ΔΔⲆⵠⲆ].id = _r.ΔΔⲆⵠⲆ;
-    this.ⲆⵠΔ[_r.Δᐃᐃⵠⵠ] = _v(68, 68, 0, ΔΔ[Xr.ΔΔⲆΔⲆⵠⲆ], 3);
-    this.ⲆⵠΔ[_r.Δᐃᐃⵠⵠ].id = _r.Δᐃᐃⵠⵠ;
-    this.ⲆⵠΔ[_r.ΔⲆΔΔΔ] = _v(68, 68, 0, ΔΔ[Xr.ΔⵠⲆⲆᐃᐃΔ], 3);
-    this.ⲆⵠΔ[_r.ΔⲆΔΔΔ].id = _r.ΔⲆΔΔΔ;
-    this.ⲆⵠΔ[_r.ⲆⵠΔⵠⵠ] = _v(68, 68, 0, ΔΔ[Xr.ΔⲆᐃⲆⲆⵠΔ], Wb);
-    this.ⲆⵠΔ[_r.ⲆⵠΔⵠⵠ].id = _r.ⲆⵠΔⵠⵠ;
-    this.ⲆⵠΔ[_r.ⵠΔΔᐃᐃ] = _v(68, 68, 0, ΔΔ[Xr.ᐃⵠⲆΔΔⵠΔ], 3);
-    this.ⲆⵠΔ[_r.ⵠΔΔᐃᐃ].id = _r.ⵠΔΔᐃᐃ;
-    this.ⲆⵠΔ[_r.ᐃΔⵠᐃⵠ] = _v(68, 68, 0, ΔΔ[Xr.ⲆᐃᐃΔΔᐃⲆ], ub);
-    this.ⲆⵠΔ[_r.ᐃΔⵠᐃⵠ].id = _r.ᐃΔⵠᐃⵠ;
-    this.ⲆⵠΔ[_r.ⲆⵠΔⲆⲆ] = _v(68, 68, 0, ΔΔ[Xr.ΔⲆᐃΔᐃΔⲆ], 3);
-    this.ⲆⵠΔ[_r.ⲆⵠΔⲆⲆ].id = _r.ⲆⵠΔⲆⲆ;
-    this.ⲆⵠΔ[_r.ΔᐃⵠⵠΔ] = _v(68, 68, 0, ΔΔ[Xr.ⵠⲆⲆΔⲆⲆΔ], 3);
-    this.ⲆⵠΔ[_r.ΔᐃⵠⵠΔ].id = _r.ΔᐃⵠⵠΔ;
-    this.ⲆⵠΔ[_r.Δⵠᐃᐃᐃ] = _v(68, 68, 0, ΔΔ[Xr.ⵠⲆᐃⲆⲆΔⲆ], eg);
-    this.ⲆⵠΔ[_r.Δⵠᐃᐃᐃ].id = _r.Δⵠᐃᐃᐃ;
-    this.ⲆⵠΔ[_r.ΔⵠΔⵠⵠ] = _v(68, 68, 0, ΔΔ[Xr.ᐃⵠⵠᐃⲆᐃΔ], eg);
-    this.ⲆⵠΔ[_r.ΔⵠΔⵠⵠ].id = _r.ΔⵠΔⵠⵠ;
-    this.ⲆⵠΔ[_r.ⵠΔⲆΔⲆ] = _v(68, 68, 0, ΔΔ[Xr.ΔᐃᐃΔΔΔᐃ], Hk);
-    this.ⲆⵠΔ[_r.ⵠΔⲆΔⲆ].id = _r.ⵠΔⲆΔⲆ;
-    this.ⲆⵠΔ[_r.ΔᐃⲆᐃᐃ] = _v(68, 68, 0, ΔΔ[Xr.ⵠⵠⵠⲆΔⲆΔ], fn);
-    this.ⲆⵠΔ[_r.ΔᐃⲆᐃᐃ].id = _r.ΔᐃⲆᐃᐃ;
-    this.ⲆⵠΔ[_r.ᐃⲆΔⲆⵠ] = _v(68, 68, 0, ΔΔ[Xr.ⲆᐃᐃᐃⵠᐃⲆ], I);
-    this.ⲆⵠΔ[_r.ᐃⲆΔⲆⵠ].id = _r.ᐃⲆΔⲆⵠ;
-    this.ⲆⵠΔ[_r.ⲆᐃᐃⲆᐃ] = _v(68, 68, 0, ΔΔ[Xr.ⲆⵠᐃᐃΔⵠΔ], 3);
-    this.ⲆⵠΔ[_r.ⲆᐃᐃⲆᐃ].id = _r.ⲆᐃᐃⲆᐃ;
-    this.ⲆⵠΔ[_r.ⲆⲆⲆⵠⵠ] = _v(68, 68, 0, ΔΔ[Xr.ⲆⲆⵠⵠΔⵠᐃ], ll);
-    this.ⲆⵠΔ[_r.ⲆⲆⲆⵠⵠ].id = _r.ⲆⲆⲆⵠⵠ;
-    this.ⲆⵠΔ[_r.ΔΔⲆᐃᐃ] = _v(68, 68, 0, ΔΔ[Xr.ⵠΔᐃᐃΔΔᐃ], Hk);
-    this.ⲆⵠΔ[_r.ΔΔⲆᐃᐃ].id = _r.ΔΔⲆᐃᐃ;
-    this.ⲆⵠΔ[_r.ⲆⲆⲆᐃΔ] = _v(68, 68, 0, ΔΔ[Xr.ⵠΔⲆⲆⵠⲆⵠ], 3);
-    this.ⲆⵠΔ[_r.ⲆⲆⲆᐃΔ].id = _r.ⲆⲆⲆᐃΔ;
-    this.ⲆⵠΔ[_r.ᐃᐃⲆⵠⵠ] = _v(68, 68, 0, ΔΔ[Xr.ⲆΔⲆⲆᐃΔⲆ], 3);
-    this.ⲆⵠΔ[_r.ᐃᐃⲆⵠⵠ].id = _r.ᐃᐃⲆⵠⵠ;
-    this.ⲆⵠΔ[_r.Δᐃᐃⵠᐃ] = _v(68, 68, 0, ΔΔ[Xr.ⲆΔΔΔⲆᐃΔ], 3);
-    this.ⲆⵠΔ[_r.Δᐃᐃⵠᐃ].id = _r.Δᐃᐃⵠᐃ;
-    this.ⲆⵠΔ[_r.ΔᐃΔⲆⲆ] = _v(68, 68, 0, ΔΔ[Xr.ΔⵠᐃᐃⵠⲆⲆ], ut);
-    this.ⲆⵠΔ[_r.ΔᐃΔⲆⲆ].id = _r.ΔᐃΔⲆⲆ;
-    this.ⲆⵠΔ[_r.ᐃⲆⲆⵠᐃ] = _v(68, 68, 0, ΔΔ[Xr.ⲆᐃⲆⲆⲆᐃⲆ], 3);
-    this.ⲆⵠΔ[_r.ᐃⲆⲆⵠᐃ].id = _r.ᐃⲆⲆⵠᐃ;
-    this.ⲆⵠΔ[_r.ᐃⵠΔΔⲆ] = _v(68, 68, 0, ΔΔ[Xr.ΔⵠⵠΔⲆⵠΔ], fn);
-    this.ⲆⵠΔ[_r.ᐃⵠΔΔⲆ].id = _r.ᐃⵠΔΔⲆ;
-    this.ⲆⵠΔ[_r.ⵠΔΔΔⲆ] = _v(68, 68, 0, ΔΔ[Xr.ΔⵠᐃΔΔⵠᐃ], fn);
-    this.ⲆⵠΔ[_r.ⵠΔΔΔⲆ].id = _r.ⵠΔΔΔⲆ;
-    this.ⲆⵠΔ[_r.ⵠⲆᐃᐃ] = _v(68, 68, 0, ΔΔ[Xr.ᐃⵠᐃⵠΔⲆΔ], 3);
-    this.ⲆⵠΔ[_r.ⵠⲆᐃᐃ].id = _r.ⵠⲆᐃᐃ;
-    this.ⲆⵠΔ[_r.Ⲇⵠⵠⵠ] = _v(68, 68, 0, ΔΔ[Xr.ⵠᐃⵠⵠⵠⵠΔ], 3);
-    this.ⲆⵠΔ[_r.Ⲇⵠⵠⵠ].id = _r.Ⲇⵠⵠⵠ;
-    this.ⲆⵠΔ[_r.ΔⲆᐃⵠΔ] = _v(68, 68, 0, ΔΔ[Xr.ⲆᐃΔΔΔΔⵠ], Hk);
-    this.ⲆⵠΔ[_r.ΔⲆᐃⵠΔ].id = _r.ΔⲆᐃⵠΔ;
-    this.ⲆⵠΔ[_r.ⵠΔᐃᐃⵠ] = _v(68, 68, 0, ΔΔ[Xr.ΔΔΔⲆΔⵠΔ], Tr);
-    this.ⲆⵠΔ[_r.ⵠΔᐃᐃⵠ].id = _r.ⵠΔᐃᐃⵠ;
-    this.ⲆⵠΔ[_r.ΔⲆⲆⵠⲆ] = _v(68, 68, 0, ΔΔ[Xr.ⵠⵠΔΔΔⲆΔ], yr);
-    this.ⲆⵠΔ[_r.ΔⲆⲆⵠⲆ].id = _r.ΔⲆⲆⵠⲆ;
-    this.ⲆⵠΔ[_r.ⲆⵠΔⵠΔ] = _v(68, 68, 0, ΔΔ[Xr.ⲆΔⵠⵠΔⵠⲆ], 3);
-    this.ⲆⵠΔ[_r.ⲆⵠΔⵠΔ].id = _r.ⲆⵠΔⵠΔ;
-    this.ⲆⵠΔ[_r.ᐃΔⵠⲆᐃ] = _v(68, 68, 0, ΔΔ[Xr.ⵠⵠⵠᐃⵠⵠⵠ], 3);
-    this.ⲆⵠΔ[_r.ᐃΔⵠⲆᐃ].id = _r.ᐃΔⵠⲆᐃ;
-    this.ⲆⵠΔ[_r.ⲆᐃΔⲆΔ] = _v(68, 68, 0, ΔΔ[Xr.ᐃⲆⲆⵠⵠⲆᐃ], 3);
-    this.ⲆⵠΔ[_r.ⲆᐃΔⲆΔ].id = _r.ⲆᐃΔⲆΔ;
-    this.ⲆⵠΔ[_r.ⲆⲆⵠⲆⲆ] = _v(68, 68, 0, ΔΔ[Xr.ᐃΔⵠⲆⲆⲆᐃ], ll);
-    this.ⲆⵠΔ[_r.ⲆⲆⵠⲆⲆ].id = _r.ⲆⲆⵠⲆⲆ;
-    this.ⲆⵠΔ[_r.ⵠΔΔΔⵠ] = _v(68, 68, 0, ΔΔ[Xr.ⵠⵠᐃᐃⵠⲆΔ], Lg);
-    this.ⲆⵠΔ[_r.ⵠΔΔΔⵠ].id = _r.ⵠΔΔΔⵠ;
-    this.ⲆⵠΔ[_r.ᐃⵠⵠⵠᐃ] = _v(68, 68, 0, ΔΔ[Xr.ᐃⲆᐃⲆᐃΔΔ], fn);
-    this.ⲆⵠΔ[_r.ᐃⵠⵠⵠᐃ].id = _r.ᐃⵠⵠⵠᐃ;
-    this.ⲆⵠΔ[_r.ᐃⵠⲆⵠΔ] = _v(68, 68, 0, ΔΔ[Xr.ⲆᐃⵠⲆΔΔⵠ], Tt);
-    this.ⲆⵠΔ[_r.ᐃⵠⲆⵠΔ].id = _r.ᐃⵠⲆⵠΔ;
-    this.ⲆⵠΔ[_r.ᐃΔⵠⵠΔ] = _v(68, 68, 0, ΔΔ[Xr.ⵠⵠⲆⲆⵠᐃⵠ], fn);
-    this.ⲆⵠΔ[_r.ᐃΔⵠⵠΔ].id = _r.ᐃΔⵠⵠΔ;
-    this.ⲆⵠΔ[_r.ᐃⲆⵠᐃᐃ] = _v(68, 68, 0, ΔΔ[Xr.ᐃⵠᐃⲆΔⵠⵠ], 3);
-    this.ⲆⵠΔ[_r.ᐃⲆⵠᐃᐃ].id = _r.ᐃⲆⵠᐃᐃ;
-    this.ⲆⵠΔ[_r.Δⵠᐃⵠᐃ] = _v(68, 68, 0, ΔΔ[Xr.ᐃᐃᐃΔⵠⵠᐃ], yr);
-    this.ⲆⵠΔ[_r.Δⵠᐃⵠᐃ].id = _r.Δⵠᐃⵠᐃ;
-    this.ⲆⵠΔ[_r.ᐃⲆⲆΔΔ] = _v(68, 68, 0, ΔΔ[Xr.ⲆⵠⲆᐃⵠⵠΔ], ci);
-    this.ⲆⵠΔ[_r.ᐃⲆⲆΔΔ].id = _r.ᐃⲆⲆΔΔ;
-    this.ⲆⵠΔ[_r.ⲆΔΔᐃᐃ] = _v(68, 68, 0, ΔΔ[Xr.ⵠⲆⲆΔⲆⲆⲆ], 3);
-    this.ⲆⵠΔ[_r.ⲆΔΔᐃᐃ].id = _r.ⲆΔΔᐃᐃ;
-    this.ⲆⵠΔ[_r.ᐃⲆΔⲆⲆ] = _v(68, 68, 0, ΔΔ[Xr.ⲆᐃΔⲆΔΔᐃ], 3);
-    this.ⲆⵠΔ[_r.ᐃⲆΔⲆⲆ].id = _r.ᐃⲆΔⲆⲆ;
-    this.ⲆⵠΔ[_r.ⲆⲆⲆᐃⵠ] = _v(68, 68, 0, ΔΔ[Xr.ΔⲆⲆΔΔⵠⲆ], 3);
-    this.ⲆⵠΔ[_r.ⲆⲆⲆᐃⵠ].id = _r.ⲆⲆⲆᐃⵠ;
-    this.ⲆⵠΔ[_r.ⵠⵠⲆⵠᐃ] = _v(68, 68, 0, ΔΔ[Xr.ⵠⵠᐃΔΔᐃᐃ], ll);
-    this.ⲆⵠΔ[_r.ⵠⵠⲆⵠᐃ].id = _r.ⵠⵠⲆⵠᐃ;
-    this.ⲆⵠΔ[_r.ⵠⵠⲆⵠⲆ] = _v(68, 68, 0, ΔΔ[Xr.ⵠⲆⵠᐃΔᐃⵠ], sl);
-    this.ⲆⵠΔ[_r.ⵠⵠⲆⵠⲆ].id = _r.ⵠⵠⲆⵠⲆ;
-    this.ⲆⵠΔ[_r.ᐃⲆᐃⵠΔ] = _v(68, 68, 0, ΔΔ[Xr.ᐃᐃⵠⵠᐃⲆΔ], 3);
-    this.ⲆⵠΔ[_r.ᐃⲆᐃⵠΔ].id = _r.ᐃⲆᐃⵠΔ;
-    this.ⲆⵠΔ[_r.ⲆⲆⵠⵠᐃ] = _v(68, 68, 0, ΔΔ[Xr.ᐃΔΔᐃⲆᐃᐃ], Wb);
-    this.ⲆⵠΔ[_r.ⲆⲆⵠⵠᐃ].id = _r.ⲆⲆⵠⵠᐃ;
-    this.ⲆⵠΔ[_r.ᐃⵠᐃⲆⵠ] = _v(68, 68, 0, ΔΔ[Xr.ⲆΔᐃⲆᐃⵠⲆ], 3);
-    this.ⲆⵠΔ[_r.ᐃⵠᐃⲆⵠ].id = _r.ᐃⵠᐃⲆⵠ;
-    this.ⲆⵠΔ[_r.ⲆⵠᐃᐃΔ] = _v(68, 68, 0, ΔΔ[Xr.ⵠᐃΔΔᐃⲆᐃ], 3);
-    this.ⲆⵠΔ[_r.ⲆⵠᐃᐃΔ].id = _r.ⲆⵠᐃᐃΔ;
-    this.ⲆⵠΔ[_r.ⵠⲆⲆⵠⵠ] = _v(68, 68, 0, ΔΔ[Xr.ᐃᐃⵠⵠᐃΔᐃ], I);
-    this.ⲆⵠΔ[_r.ⵠⲆⲆⵠⵠ].id = _r.ⵠⲆⲆⵠⵠ;
-    this.ⲆⵠΔ[_r.ⵠⵠᐃᐃⲆ] = _v(68, 68, 0, ΔΔ[Xr.ⵠᐃΔᐃⲆΔⲆ], eg);
-    this.ⲆⵠΔ[_r.ⵠⵠᐃᐃⲆ].id = _r.ⵠⵠᐃᐃⲆ;
-    this.ⲆⵠΔ[_r.ⲆᐃⲆᐃⵠ] = _v(68, 68, 0, ΔΔ[Xr.ⲆⵠⵠΔᐃᐃᐃ], 3);
-    this.ⲆⵠΔ[_r.ⲆᐃⲆᐃⵠ].id = _r.ⲆᐃⲆᐃⵠ;
-    this.ⲆⵠΔ[_r.ⵠᐃⵠᐃⵠ] = _v(68, 68, 0, ΔΔ[Xr.ΔᐃᐃᐃⲆⵠⲆ], eg);
-    this.ⲆⵠΔ[_r.ⵠᐃⵠᐃⵠ].id = _r.ⵠᐃⵠᐃⵠ;
-    this.ⲆⵠΔ[_r.ⵠⵠⲆΔⲆ] = _v(68, 68, 0, ΔΔ[Xr.ΔⲆⲆᐃᐃᐃⵠ], ll);
-    this.ⲆⵠΔ[_r.ⵠⵠⲆΔⲆ].id = _r.ⵠⵠⲆΔⲆ;
-    this.ⲆⵠΔ[_r.ⵠᐃᐃⲆᐃ] = _v(68, 68, 0, ΔΔ[Xr.ⲆᐃⵠᐃᐃΔΔ], yr);
-    this.ⲆⵠΔ[_r.ⵠᐃᐃⲆᐃ].id = _r.ⵠᐃᐃⲆᐃ;
-    this.ⲆⵠΔ[_r.ΔⵠΔΔⵠ] = _v(68, 68, 0, ΔΔ[Xr.ΔΔΔᐃΔⲆⲆ], 3);
-    this.ⲆⵠΔ[_r.ΔⵠΔΔⵠ].id = _r.ΔⵠΔΔⵠ;
-    this.ⲆⵠΔ[_r.ᐃⵠⲆⵠⲆ] = _v(68, 68, 0, ΔΔ[Xr.ⵠⵠΔΔᐃⵠⵠ], ub);
-    this.ⲆⵠΔ[_r.ᐃⵠⲆⵠⲆ].id = _r.ᐃⵠⲆⵠⲆ;
-    this.ⲆⵠΔ[_r.ⵠⲆᐃⲆΔ] = _v(68, 68, 0, ΔΔ[Xr.ΔⵠΔⵠⵠⲆⵠ], 3);
-    this.ⲆⵠΔ[_r.ⵠⲆᐃⲆΔ].id = _r.ⵠⲆᐃⲆΔ;
-    this.ⲆⵠΔ[_r.ⲆⵠΔᐃⵠ] = _v(68, 68, 0, ΔΔ[Xr.ⵠⲆⵠᐃⵠᐃⵠ], Tr);
-    this.ⲆⵠΔ[_r.ⲆⵠΔᐃⵠ].id = _r.ⲆⵠΔᐃⵠ;
-    this.ⲆⵠΔ[_r.ΔΔⵠⲆⲆ] = _v(68, 68, 0, ΔΔ[Xr.Ⲇᐃᐃⵠᐃᐃⵠ], Js);
-    this.ⲆⵠΔ[_r.ΔΔⵠⲆⲆ].id = _r.ΔΔⵠⲆⲆ;
-    this.ⲆⵠΔ[_r.ⲆⲆΔⵠⲆ] = _v(68, 68, 0, ΔΔ[Xr.ⵠᐃΔⵠᐃⲆΔ], fn);
-    this.ⲆⵠΔ[_r.ⲆⲆΔⵠⲆ].id = _r.ⲆⲆΔⵠⲆ;
-    this.ⲆⵠΔ[_r.ⵠᐃⲆⲆΔ] = _v(68, 68, 0, ΔΔ[Xr.ⵠΔⵠⵠⵠᐃⵠ], ll);
-    this.ⲆⵠΔ[_r.ⵠᐃⲆⲆΔ].id = _r.ⵠᐃⲆⲆΔ;
-    this.ⲆⵠΔ[_r.ᐃⵠⵠᐃⵠ] = _v(68, 68, 0, ΔΔ[Xr.ⵠⵠⵠᐃΔⲆΔ], 3);
-    this.ⲆⵠΔ[_r.ᐃⵠⵠᐃⵠ].id = _r.ᐃⵠⵠᐃⵠ;
-    this.ⲆⵠΔ[_r.ⲆⲆΔⲆᐃ] = _v(68, 68, 0, ΔΔ[Xr.ΔΔⵠⵠⲆΔⵠ], 3);
-    this.ⲆⵠΔ[_r.ⲆⲆΔⲆᐃ].id = _r.ⲆⲆΔⲆᐃ;
-    this.ⲆⵠΔ[_r.ΔᐃᐃⵠΔ] = _v(68, 68, 0, ΔΔ[Xr.ᐃΔᐃⵠⵠᐃⲆ], I);
-    this.ⲆⵠΔ[_r.ΔᐃᐃⵠΔ].id = _r.ΔᐃᐃⵠΔ;
-    this.ⲆⵠΔ[_r.ᐃⲆⵠΔᐃ] = _v(68, 68, 0, ΔΔ[Xr.ΔᐃⵠⲆΔⵠᐃ], 3);
-    this.ⲆⵠΔ[_r.ᐃⲆⵠΔᐃ].id = _r.ᐃⲆⵠΔᐃ;
-    this.ⲆⵠΔ[_r.ᐃΔΔΔΔ] = _v(68, 68, 0, ΔΔ[Xr.ᐃⵠⲆᐃΔⵠᐃ], 3);
-    this.ⲆⵠΔ[_r.ᐃΔΔΔΔ].id = _r.ᐃΔΔΔΔ;
-    this.ⲆⵠΔ[_r.ⲆΔΔⵠⵠ] = _v(68, 68, 0, ΔΔ[Xr.ⲆⵠᐃᐃᐃΔᐃ], ub);
-    this.ⲆⵠΔ[_r.ⲆΔΔⵠⵠ].id = _r.ⲆΔΔⵠⵠ;
-    this.ⲆⵠΔ[_r.ⵠᐃⵠᐃΔ] = _v(68, 68, 0, ΔΔ[Xr.ᐃⲆΔⲆΔᐃΔ], xb);
-    this.ⲆⵠΔ[_r.ⵠᐃⵠᐃΔ].id = _r.ⵠᐃⵠᐃΔ;
-    this.ⲆⵠΔ[_r.ⵠᐃⲆⲆⵠ] = _v(68, 68, 0, ΔΔ[Xr.ᐃᐃⵠΔΔΔⲆ], Hk);
-    this.ⲆⵠΔ[_r.ⵠᐃⲆⲆⵠ].id = _r.ⵠᐃⲆⲆⵠ;
-    this.ⲆⵠΔ[_r.ᐃⵠᐃΔⵠ] = _v(68, 68, 0, ΔΔ[Xr.ⵠᐃⵠΔΔⵠΔ], Lg);
-    this.ⲆⵠΔ[_r.ᐃⵠᐃΔⵠ].id = _r.ᐃⵠᐃΔⵠ;
-    this.ⲆⵠΔ[_r.ΔᐃΔⲆᐃ] = _v(68, 68, 0, ΔΔ[Xr.ⵠⲆᐃⲆⲆⵠⲆ], nq);
-    this.ⲆⵠΔ[_r.ΔᐃΔⲆᐃ].id = _r.ΔᐃΔⲆᐃ;
-    this.ⲆⵠΔ[_r.ⲆΔᐃΔⲆ] = _v(68, 68, 0, ΔΔ[Xr.ⲆᐃⵠᐃⲆⵠⵠ], 3);
-    this.ⲆⵠΔ[_r.ⲆΔᐃΔⲆ].id = _r.ⲆΔᐃΔⲆ;
-    this.ⲆⵠΔ[_r.ᐃⵠᐃⵠᐃ] = _v(68, 68, 0, ΔΔ[Xr.ᐃⲆⵠⵠⵠΔⵠ], ub);
-    this.ⲆⵠΔ[_r.ᐃⵠᐃⵠᐃ].id = _r.ᐃⵠᐃⵠᐃ;
-    this.ⲆⵠΔ[_r.ⲆΔᐃΔΔ] = _v(68, 68, 0, ΔΔ[Xr.ⵠΔᐃᐃᐃⲆⵠ], 3);
-    this.ⲆⵠΔ[_r.ⲆΔᐃΔΔ].id = _r.ⲆΔᐃΔΔ;
-    this.ⲆⵠΔ[_r.ⲆᐃᐃⵠΔ] = _v(68, 68, 0, ΔΔ[Xr.ΔⲆⵠΔᐃⵠᐃ], ll);
-    this.ⲆⵠΔ[_r.ⲆᐃᐃⵠΔ].id = _r.ⲆᐃᐃⵠΔ;
-    this.ⲆⵠΔ[_r.ⲆΔΔᐃⵠ] = _v(68, 68, 0, ΔΔ[Xr.ⵠΔᐃⵠⲆⵠΔ], ci);
-    this.ⲆⵠΔ[_r.ⲆΔΔᐃⵠ].id = _r.ⲆΔΔᐃⵠ;
-    this.ⲆⵠΔ[_r.ⵠΔⲆⲆΔ] = _v(68, 68, 0, ΔΔ[Xr.ᐃΔΔΔΔⵠΔ], 3);
-    this.ⲆⵠΔ[_r.ⵠΔⲆⲆΔ].id = _r.ⵠΔⲆⲆΔ;
-    this.ⲆⵠΔ[_r.ᐃⵠⵠⲆΔ] = _v(68, 68, 0, ΔΔ[Xr.ΔᐃΔᐃΔᐃΔ], 3);
-    this.ⲆⵠΔ[_r.ᐃⵠⵠⲆΔ].id = _r.ᐃⵠⵠⲆΔ;
-    this.ⲆⵠΔ[_r.ᐃⲆⵠⲆⲆ] = _v(68, 68, 0, ΔΔ[Xr.ⵠᐃΔⵠΔⵠᐃ], 3);
-    this.ⲆⵠΔ[_r.ᐃⲆⵠⲆⲆ].id = _r.ᐃⲆⵠⲆⲆ;
-    this.ⲆⵠΔ[_r.ᐃᐃΔⵠΔ] = _v(68, 68, 0, ΔΔ[Xr.ⵠΔⵠΔᐃⵠⲆ], ea);
-    this.ⲆⵠΔ[_r.ᐃᐃΔⵠΔ].id = _r.ᐃᐃΔⵠΔ;
-    this.ⲆⵠΔ[_r.ⵠᐃⲆⲆᐃ] = _v(68, 68, 0, ΔΔ[Xr.ΔΔᐃᐃⲆᐃΔ], 3);
-    this.ⲆⵠΔ[_r.ⵠᐃⲆⲆᐃ].id = _r.ⵠᐃⲆⲆᐃ;
-    this.ⲆⵠΔ[_r.ⲆⵠΔⲆΔ] = _v(68, 68, 0, ΔΔ[Xr.ΔΔΔΔᐃⵠⵠ], eg);
-    this.ⲆⵠΔ[_r.ⲆⵠΔⲆΔ].id = _r.ⲆⵠΔⲆΔ;
-    this.ⲆⵠΔ[_r.ΔΔᐃⵠⲆ] = _v(68, 68, 0, ΔΔ[Xr.ⲆΔΔⵠⵠⵠΔ], 3);
-    this.ⲆⵠΔ[_r.ΔΔᐃⵠⲆ].id = _r.ΔΔᐃⵠⲆ;
-    this.ⲆⵠΔ[_r.ⵠⲆΔⲆᐃ] = _v(68, 68, 0, ΔΔ[Xr.ⵠⵠᐃⵠⵠΔⲆ], 3);
-    this.ⲆⵠΔ[_r.ⵠⲆΔⲆᐃ].id = _r.ⵠⲆΔⲆᐃ;
-    this.ⲆⵠΔ[_r.ⵠᐃΔⲆⵠ] = _v(68, 68, 0, ΔΔ[Xr.ⲆⵠᐃⵠⲆⵠᐃ], 3);
-    this.ⲆⵠΔ[_r.ⵠᐃΔⲆⵠ].id = _r.ⵠᐃΔⲆⵠ;
-    this.ⲆⵠΔ[_r.ᐃᐃΔΔⵠ] = _v(68, 68, 0, ΔΔ[Xr.ⲆᐃⵠⲆⵠⲆΔ], ea);
-    this.ⲆⵠΔ[_r.ᐃᐃΔΔⵠ].id = _r.ᐃᐃΔΔⵠ;
-    this.ⲆⵠΔ[_r.ΔΔΔⵠⵠ] = _v(68, 68, 0, ΔΔ[Xr.ⵠΔⵠᐃᐃⵠᐃ], ub);
-    this.ⲆⵠΔ[_r.ΔΔΔⵠⵠ].id = _r.ΔΔΔⵠⵠ;
-    this.ⲆⵠΔ[_r.ᐃΔΔΔⲆ] = _v(68, 68, 0, ΔΔ[Xr.ΔⵠⵠᐃᐃⲆⵠ], 3);
-    this.ⲆⵠΔ[_r.ᐃΔΔΔⲆ].id = _r.ᐃΔΔΔⲆ;
-    this.ⲆⵠΔ[_r.Δᐃᐃᐃᐃ] = _v(68, 68, 0, ΔΔ[Xr.ⲆᐃᐃⵠⲆⵠⲆ], xb);
-    this.ⲆⵠΔ[_r.Δᐃᐃᐃᐃ].id = _r.Δᐃᐃᐃᐃ;
-    this.ⲆⵠΔ[_r.ⲆⲆΔⵠⵠ] = _v(68, 68, 0, ΔΔ[Xr.ᐃᐃⲆΔᐃᐃⵠ], qo);
-    this.ⲆⵠΔ[_r.ⲆⲆΔⵠⵠ].id = _r.ⲆⲆΔⵠⵠ;
-    this.ⲆⵠΔ[_r.ᐃⵠΔᐃΔ] = _v(68, 68, 0, ΔΔ[Xr.ᐃⲆⵠᐃᐃⵠⲆ], 3);
-    this.ⲆⵠΔ[_r.ᐃⵠΔᐃΔ].id = _r.ᐃⵠΔᐃΔ;
-    this.ⲆⵠΔ[_r.ⵠᐃᐃΔⵠ] = _v(68, 68, 0, ΔΔ[Xr.ᐃⵠⵠⵠᐃᐃⵠ], eg);
-    this.ⲆⵠΔ[_r.ⵠᐃᐃΔⵠ].id = _r.ⵠᐃᐃΔⵠ;
-    this.ⲆⵠΔ[_r.ᐃⲆΔᐃᐃ] = _v(68, 68, 0, ΔΔ[Xr.ⵠᐃΔⵠⲆΔΔ], 3);
-    this.ⲆⵠΔ[_r.ᐃⲆΔᐃᐃ].id = _r.ᐃⲆΔᐃᐃ;
-    this.ⲆⵠΔ[_r.ⵠᐃΔⵠΔ] = _v(68, 68, 0, ΔΔ[Xr.ᐃⲆΔⲆⵠΔᐃ], I);
-    this.ⲆⵠΔ[_r.ⵠᐃΔⵠΔ].id = _r.ⵠᐃΔⵠΔ;
-    this.ⲆⵠΔ[_r.ΔⲆᐃᐃⲆ] = _v(68, 68, 0, ΔΔ[Xr.ⵠⵠᐃⲆᐃᐃⵠ], Wb);
-    this.ⲆⵠΔ[_r.ΔⲆᐃᐃⲆ].id = _r.ΔⲆᐃᐃⲆ;
-    this.ⲆⵠΔ[_r.ⲆⲆΔⲆΔ] = _v(68, 68, 0, ΔΔ[Xr.ⵠΔⲆⲆᐃⲆⲆ], qo);
-    this.ⲆⵠΔ[_r.ⲆⲆΔⲆΔ].id = _r.ⲆⲆΔⲆΔ;
-    this.ⲆⵠΔ[_r.ᐃⲆΔⵠⵠ] = _v(68, 68, 0, ΔΔ[Xr.ⵠΔⵠⵠᐃΔᐃ], 3);
-    this.ⲆⵠΔ[_r.ᐃⲆΔⵠⵠ].id = _r.ᐃⲆΔⵠⵠ;
-    this.ⲆⵠΔ[_r.ΔᐃΔᐃⵠ] = _v(68, 68, 0, ΔΔ[Xr.ⵠΔⲆΔΔᐃΔ], Js);
-    this.ⲆⵠΔ[_r.ΔᐃΔᐃⵠ].id = _r.ΔᐃΔᐃⵠ;
-    this.ⲆⵠΔ[_r.ⵠⲆⲆΔᐃ] = _v(68, 68, 0, ΔΔ[Xr.ⲆΔᐃⵠᐃᐃΔ], 3);
-    this.ⲆⵠΔ[_r.ⵠⲆⲆΔᐃ].id = _r.ⵠⲆⲆΔᐃ;
-    this.ⲆⵠΔ[_r.ⵠᐃⵠⵠΔ] = _v(68, 68, 0, ΔΔ[Xr.ΔⵠⲆᐃⲆⵠΔ], 3);
-    this.ⲆⵠΔ[_r.ⵠᐃⵠⵠΔ].id = _r.ⵠᐃⵠⵠΔ;
-    this.ⲆⵠΔ[_r.ΔΔⲆⲆᐃ] = _v(68, 68, 0, ΔΔ[Xr.ΔⲆᐃⲆᐃⵠΔ], nq);
-    this.ⲆⵠΔ[_r.ΔΔⲆⲆᐃ].id = _r.ΔΔⲆⲆᐃ;
-    this.ⲆⵠΔ[_r.ⲆⲆᐃᐃΔ] = _v(68, 68, 0, ΔΔ[Xr.ⲆⲆⵠᐃΔᐃᐃ], 3);
-    this.ⲆⵠΔ[_r.ⲆⲆᐃᐃΔ].id = _r.ⲆⲆᐃᐃΔ;
-    this.ⲆⵠΔ[_r.ⲆΔⵠⵠᐃ] = _v(68, 68, 0, ΔΔ[Xr.ⲆⲆⵠⲆᐃΔΔ], Js);
-    this.ⲆⵠΔ[_r.ⲆΔⵠⵠᐃ].id = _r.ⲆΔⵠⵠᐃ;
-    this.ⲆⵠΔ[_r.ΔᐃⲆⵠⵠ] = _v(68, 68, 0, ΔΔ[Xr.ⲆΔΔⲆⲆΔΔ], 3);
-    this.ⲆⵠΔ[_r.ΔᐃⲆⵠⵠ].id = _r.ΔᐃⲆⵠⵠ;
-    this.ⲆⵠΔ[_r.ᐃΔΔⲆΔ] = _v(68, 68, 0, ΔΔ[Xr.ᐃⲆⲆΔΔⲆΔ], qo);
-    this.ⲆⵠΔ[_r.ᐃΔΔⲆΔ].id = _r.ᐃΔΔⲆΔ;
-    this.ⲆⵠΔ[_r.ⵠⲆΔᐃᐃ] = _v(68, 68, 0, ΔΔ[Xr.ᐃᐃᐃⲆᐃΔᐃ], Tr);
-    this.ⲆⵠΔ[_r.ⵠⲆΔᐃᐃ].id = _r.ⵠⲆΔᐃᐃ;
-    this.ⲆⵠΔ[_r.ΔᐃⵠⲆΔ] = _v(68, 68, 0, ΔΔ[Xr.ΔⵠⲆⵠᐃᐃⲆ], eg);
-    this.ⲆⵠΔ[_r.ΔᐃⵠⲆΔ].id = _r.ΔᐃⵠⲆΔ;
-    this.ⲆⵠΔ[_r.ΔΔᐃⲆΔ] = _v(68, 68, 0, ΔΔ[Xr.ⲆᐃΔᐃⵠΔⲆ], 3);
-    this.ⲆⵠΔ[_r.ΔΔᐃⲆΔ].id = _r.ΔΔᐃⲆΔ;
-    this.ⲆⵠΔ[_r.ΔΔᐃΔΔ] = _v(68, 68, 0, ΔΔ[Xr.ΔⲆᐃᐃΔⵠⲆ], Tr);
-    this.ⲆⵠΔ[_r.ΔΔᐃΔΔ].id = _r.ΔΔᐃΔΔ;
-    this.ⲆⵠΔ[_r.ⲆΔⵠΔᐃ] = _v(68, 68, 0, ΔΔ[Xr.ⲆΔᐃᐃᐃᐃⵠ], 3);
-    this.ⲆⵠΔ[_r.ⲆΔⵠΔᐃ].id = _r.ⲆΔⵠΔᐃ;
-    this.ⲆⵠΔ[_r.ⲆⵠⲆⵠⵠ] = _v(68, 68, 0, ΔΔ[Xr.ᐃΔⵠΔⲆᐃΔ], Tt);
-    this.ⲆⵠΔ[_r.ⲆⵠⲆⵠⵠ].id = _r.ⲆⵠⲆⵠⵠ;
-    this.ⲆⵠΔ[_r.ⵠΔᐃᐃᐃ] = _v(68, 68, 0, ΔΔ[Xr.ΔΔᐃΔΔΔⲆ], 3);
-    this.ⲆⵠΔ[_r.ⵠΔᐃᐃᐃ].id = _r.ⵠΔᐃᐃᐃ;
-    this.ⲆⵠΔ[_r.ᐃⵠᐃᐃⵠ] = _v(68, 68, 0, ΔΔ[Xr.ⲆΔⲆⵠΔⲆΔ], 3);
-    this.ⲆⵠΔ[_r.ᐃⵠᐃᐃⵠ].id = _r.ᐃⵠᐃᐃⵠ;
-    this.ⲆⵠΔ[_r.ⵠᐃⵠΔⵠ] = _v(68, 68, 0, ΔΔ[Xr.ⲆⵠΔⲆΔⲆⵠ], 3);
-    this.ⲆⵠΔ[_r.ⵠᐃⵠΔⵠ].id = _r.ⵠᐃⵠΔⵠ;
-    this.ⲆⵠΔ[_r.ⲆᐃⵠΔΔ] = _v(68, 68, 0, ΔΔ[Xr.ΔⲆⲆⲆΔᐃᐃ], eg);
-    this.ⲆⵠΔ[_r.ⲆᐃⵠΔΔ].id = _r.ⲆᐃⵠΔΔ;
-    this.ⲆⵠΔ[_r.ⲆⲆΔⲆⵠ] = _v(68, 68, 0, ΔΔ[Xr.ΔΔⵠΔᐃΔΔ], 3);
-    this.ⲆⵠΔ[_r.ⲆⲆΔⲆⵠ].id = _r.ⲆⲆΔⲆⵠ;
-    this.ⲆⵠΔ[_r.ⲆᐃΔᐃΔ] = _v(68, 68, 0, ΔΔ[Xr.ⵠⵠⵠΔⲆΔⲆ], Hk);
-    this.ⲆⵠΔ[_r.ⲆᐃΔᐃΔ].id = _r.ⲆᐃΔᐃΔ;
-    this.ⲆⵠΔ[_r.ᐃⲆⲆᐃΔ] = _v(68, 68, 0, ΔΔ[Xr.ΔⲆᐃᐃⲆⵠⵠ], ut);
-    this.ⲆⵠΔ[_r.ᐃⲆⲆᐃΔ].id = _r.ᐃⲆⲆᐃΔ;
-    this.ⲆⵠΔ[_r.ᐃⲆᐃᐃΔ] = _v(68, 68, 0, ΔΔ[Xr.ΔⲆΔⲆⵠⲆⵠ], nq);
-    this.ⲆⵠΔ[_r.ᐃⲆᐃᐃΔ].id = _r.ᐃⲆᐃᐃΔ;
-    this.ⲆⵠΔ[_r.ᐃⵠΔΔΔ] = _v(68, 68, 0, ΔΔ[Xr.ⲆⵠᐃᐃⲆΔΔ], Tt);
-    this.ⲆⵠΔ[_r.ᐃⵠΔΔΔ].id = _r.ᐃⵠΔΔΔ;
-    this.ⲆⵠΔ[_r.ⲆᐃΔΔⵠ] = _v(68, 68, 0, ΔΔ[Xr.ΔⵠΔΔΔΔⵠ], Wb);
-    this.ⲆⵠΔ[_r.ⲆᐃΔΔⵠ].id = _r.ⲆᐃΔΔⵠ;
-    this.ⲆⵠΔ[_r.ⲆⵠΔᐃᐃ] = _v(68, 68, 0, ΔΔ[Xr.ᐃⲆⲆΔⲆΔⵠ], 3);
-    this.ⲆⵠΔ[_r.ⲆⵠΔᐃᐃ].id = _r.ⲆⵠΔᐃᐃ;
-    this.ⲆⵠΔ[_r.ⲆᐃΔⵠᐃ] = _v(68, 68, 0, ΔΔ[Xr.ᐃΔⵠᐃⲆⵠⲆ], qo);
-    this.ⲆⵠΔ[_r.ⲆᐃΔⵠᐃ].id = _r.ⲆᐃΔⵠᐃ;
-    this.ⲆⵠΔ[_r.ⲆΔⲆⵠΔ] = _v(68, 68, 0, ΔΔ[Xr.ΔⵠⵠⲆⵠᐃⵠ], ll);
-    this.ⲆⵠΔ[_r.ⲆΔⲆⵠΔ].id = _r.ⲆΔⲆⵠΔ;
-    this.ⲆⵠΔ[_r.ⲆᐃⵠΔⲆ] = _v(68, 68, 0, ΔΔ[Xr.ⵠΔⵠᐃΔⲆⲆ], ci);
-    this.ⲆⵠΔ[_r.ⲆᐃⵠΔⲆ].id = _r.ⲆᐃⵠΔⲆ;
-    this.ⲆⵠΔ[_r.ΔⵠⵠΔⲆ] = _v(68, 68, 0, ΔΔ[Xr.ⵠΔᐃᐃⵠⵠⵠ], 3);
-    this.ⲆⵠΔ[_r.ΔⵠⵠΔⲆ].id = _r.ΔⵠⵠΔⲆ;
-    this.ⲆⵠΔ[_r.ⵠΔᐃⵠⲆ] = _v(68, 68, 0, ΔΔ[Xr.ΔᐃΔⲆⲆⵠⲆ], 3);
-    this.ⲆⵠΔ[_r.ⵠΔᐃⵠⲆ].id = _r.ⵠΔᐃⵠⲆ;
-    this.ⲆⵠΔ[_r.ᐃᐃⵠⲆⲆ] = _v(68, 68, 0, ΔΔ[Xr.ⵠⲆⵠⲆΔᐃⲆ], 3);
-    this.ⲆⵠΔ[_r.ᐃᐃⵠⲆⲆ].id = _r.ᐃᐃⵠⲆⲆ;
-    this.ⲆⵠΔ[_r.ΔⲆΔⲆⲆ] = _v(68, 68, 0, ΔΔ[Xr.ⵠΔⲆⲆⲆⲆⲆ], qu);
-    this.ⲆⵠΔ[_r.ΔⲆΔⲆⲆ].id = _r.ΔⲆΔⲆⲆ;
-    this.ⲆⵠΔ[_r.ᐃᐃΔⲆⲆ] = _v(68, 68, 0, ΔΔ[Xr.ⵠΔΔᐃⲆⵠᐃ], Js);
-    this.ⲆⵠΔ[_r.ᐃᐃΔⲆⲆ].id = _r.ᐃᐃΔⲆⲆ;
-    this.ⲆⵠΔ[_r.ⲆⲆΔᐃᐃ] = _v(68, 68, 0, ΔΔ[Xr.ⵠᐃᐃⲆⵠⲆⲆ], 3);
-    this.ⲆⵠΔ[_r.ⲆⲆΔᐃᐃ].id = _r.ⲆⲆΔᐃᐃ;
-    this.ⲆⵠΔ[_r.ⲆⵠᐃΔᐃ] = _v(68, 68, 0, ΔΔ[Xr.ᐃⲆᐃᐃΔᐃⵠ], yr);
-    this.ⲆⵠΔ[_r.ⲆⵠᐃΔᐃ].id = _r.ⲆⵠᐃΔᐃ;
-    this.ⲆⵠΔ[_r.Ⲇᐃᐃᐃᐃ] = _v(68, 68, 0, ΔΔ[Xr.ᐃⲆⵠΔΔⲆⵠ], 3);
-    this.ⲆⵠΔ[_r.Ⲇᐃᐃᐃᐃ].id = _r.Ⲇᐃᐃᐃᐃ;
-    this.ⲆⵠΔ[_r.ⵠⲆⵠᐃᐃ] = _v(68, 68, 0, ΔΔ[Xr.ΔᐃⵠⵠⲆⵠⲆ], eg);
-    this.ⲆⵠΔ[_r.ⵠⲆⵠᐃᐃ].id = _r.ⵠⲆⵠᐃᐃ;
-    this.ⲆⵠΔ[_r.ΔⲆⵠΔΔ] = _v(68, 68, 0, ΔΔ[Xr.ⵠⵠΔᐃⲆΔΔ], 3);
-    this.ⲆⵠΔ[_r.ΔⲆⵠΔΔ].id = _r.ΔⲆⵠΔΔ;
-    this.ⲆⵠΔ[_r.ⲆⲆΔΔⵠ] = _v(68, 68, 0, ΔΔ[Xr.ⲆⵠᐃⲆΔΔⵠ], xb);
-    this.ⲆⵠΔ[_r.ⲆⲆΔΔⵠ].id = _r.ⲆⲆΔΔⵠ;
-    this.ⲆⵠΔ[_r.ⵠᐃΔⲆⲆ] = _v(68, 68, 0, ΔΔ[Xr.ΔⵠᐃⵠΔⵠᐃ], Wb);
-    this.ⲆⵠΔ[_r.ⵠᐃΔⲆⲆ].id = _r.ⵠᐃΔⲆⲆ;
-    this.ⲆⵠΔ[_r.ᐃΔᐃⵠⵠ] = _v(68, 68, 0, ΔΔ[Xr.ΔᐃⲆⵠⲆΔⲆ], ea);
-    this.ⲆⵠΔ[_r.ᐃΔᐃⵠⵠ].id = _r.ᐃΔᐃⵠⵠ;
-    this.ⲆⵠΔ[_r.ⲆⵠⲆⲆΔ] = _v(68, 68, 0, ΔΔ[Xr.ΔⲆᐃᐃⵠⲆⲆ], qu);
-    this.ⲆⵠΔ[_r.ⲆⵠⲆⲆΔ].id = _r.ⲆⵠⲆⲆΔ;
+    this.ⲆⵠΔ[0] = _v(68, 68, 0, ΔΔ[340], 3);
+    this.ⲆⵠΔ[0].id = 0;
+    this.ⲆⵠΔ[1] = _v(68, 68, 0, ΔΔ[341], 3);
+    this.ⲆⵠΔ[1].id = 1;
+    this.ⲆⵠΔ[108] = _v(68, 68, 0, ΔΔ[342], ut);
+    this.ⲆⵠΔ[108].id = 108;
+    this.ⲆⵠΔ[109] = _v(68, 68, 0, ΔΔ[343], 3);
+    this.ⲆⵠΔ[109].id = 109;
+    this.ⲆⵠΔ[110] = _v(68, 68, 0, ΔΔ[269], 3);
+    this.ⲆⵠΔ[110].id = 110;
+    this.ⲆⵠΔ[233] = _v(68, 68, 0, ΔΔ[1155], 3);
+    this.ⲆⵠΔ[233].id = 233;
+    this.ⲆⵠΔ[111] = _v(68, 68, 0, ΔΔ[270], Hk);
+    this.ⲆⵠΔ[111].id = 111;
+    this.ⲆⵠΔ[112] = _v(68, 68, 0, ΔΔ[271], ub);
+    this.ⲆⵠΔ[112].id = 112;
+    this.ⲆⵠΔ[3] = _v(68, 68, 0, ΔΔ[272], 3);
+    this.ⲆⵠΔ[3].id = 3;
+    this.ⲆⵠΔ[4] = _v(68, 68, 0, ΔΔ[344], fn);
+    this.ⲆⵠΔ[4].id = 4;
+    this.ⲆⵠΔ[5] = _v(68, 68, 0, ΔΔ[345], 3);
+    this.ⲆⵠΔ[5].id = 5;
+    this.ⲆⵠΔ[57] = _v(68, 68, 0, ΔΔ[831], Tr);
+    this.ⲆⵠΔ[57].id = 57;
+    this.ⲆⵠΔ[6] = _v(68, 68, 0, ΔΔ[346], Hk);
+    this.ⲆⵠΔ[6].id = 6;
+    this.ⲆⵠΔ[113] = _v(68, 68, 0, ΔΔ[273], eg);
+    this.ⲆⵠΔ[113].id = 113;
+    this.ⲆⵠΔ[114] = _v(68, 68, 0, ΔΔ[358], 3);
+    this.ⲆⵠΔ[114].id = 114;
+    this.ⲆⵠΔ[115] = _v(68, 68, 0, ΔΔ[348], nq);
+    this.ⲆⵠΔ[115].id = 115;
+    this.ⲆⵠΔ[162] = _v(68, 68, 0, ΔΔ[349], qo);
+    this.ⲆⵠΔ[162].id = 162;
+    this.ⲆⵠΔ[160] = _v(68, 68, 0, ΔΔ[350], 3);
+    this.ⲆⵠΔ[160].id = 160;
+    this.ⲆⵠΔ[8] = _v(68, 68, 0, ΔΔ[274], 3);
+    this.ⲆⵠΔ[8].id = 8;
+    this.ⲆⵠΔ[117] = _v(68, 68, 0, ΔΔ[351], Tt);
+    this.ⲆⵠΔ[117].id = 117;
+    this.ⲆⵠΔ[116] = _v(68, 68, 0, ΔΔ[275], 3);
+    this.ⲆⵠΔ[116].id = 116;
+    this.ⲆⵠΔ[118] = _v(68, 68, 0, ΔΔ[276], ea);
+    this.ⲆⵠΔ[118].id = 118;
+    this.ⲆⵠΔ[195] = _v(68, 68, 0, ΔΔ[352], 3);
+    this.ⲆⵠΔ[195].id = 195;
+    this.ⲆⵠΔ[161] = _v(68, 68, 0, ΔΔ[353], 3);
+    this.ⲆⵠΔ[161].id = 161;
+    this.ⲆⵠΔ[163] = _v(68, 68, 0, ΔΔ[354], qo);
+    this.ⲆⵠΔ[163].id = 163;
+    this.ⲆⵠΔ[164] = _v(68, 68, 0, ΔΔ[355], eg);
+    this.ⲆⵠΔ[164].id = 164;
+    this.ⲆⵠΔ[165] = _v(68, 68, 0, ΔΔ[356], ci);
+    this.ⲆⵠΔ[165].id = 165;
+    this.ⲆⵠΔ[166] = _v(68, 68, 0, ΔΔ[357], I);
+    this.ⲆⵠΔ[166].id = 166;
+    this.ⲆⵠΔ[167] = _v(68, 68, 0, ΔΔ[359], nq);
+    this.ⲆⵠΔ[167].id = 167;
+    this.ⲆⵠΔ[168] = _v(68, 68, 0, ΔΔ[382], 3);
+    this.ⲆⵠΔ[168].id = 168;
+    this.ⲆⵠΔ[169] = _v(68, 68, 0, ΔΔ[383], 3);
+    this.ⲆⵠΔ[169].id = 169;
+    this.ⲆⵠΔ[170] = _v(68, 68, 0, ΔΔ[384], 3);
+    this.ⲆⵠΔ[170].id = 170;
+    this.ⲆⵠΔ[2] = _v(68, 68, 0, ΔΔ[386], sl);
+    this.ⲆⵠΔ[2].id = 2;
+    this.ⲆⵠΔ[237] = _v(68, 68, 0, ΔΔ[1163], 3);
+    this.ⲆⵠΔ[237].id = 237;
+    this.ⲆⵠΔ[174] = _v(68, 68, 0, ΔΔ[394], yr);
+    this.ⲆⵠΔ[174].id = 174;
+    this.ⲆⵠΔ[222] = _v(68, 68, 0, ΔΔ[1036], 3);
+    this.ⲆⵠΔ[222].id = 222;
+    this.ⲆⵠΔ[231] = _v(68, 68, 0, ΔΔ[1038], 3);
+    this.ⲆⵠΔ[231].id = 231;
+    this.ⲆⵠΔ[232] = _v(68, 68, 0, ΔΔ[1040], Wb);
+    this.ⲆⵠΔ[232].id = 232;
+    this.ⲆⵠΔ[234] = _v(68, 68, 0, ΔΔ[1157], 3);
+    this.ⲆⵠΔ[234].id = 234;
+    this.ⲆⵠΔ[10] = _v(68, 68, 0, ΔΔ[387], 3);
+    this.ⲆⵠΔ[10].id = 10;
+    this.ⲆⵠΔ[171] = _v(68, 68, 0, ΔΔ[388], 3);
+    this.ⲆⵠΔ[171].id = 171;
+    this.ⲆⵠΔ[172] = _v(68, 68, 0, ΔΔ[389], 3);
+    this.ⲆⵠΔ[172].id = 172;
+    this.ⲆⵠΔ[173] = _v(68, 68, 0, ΔΔ[390], qo);
+    this.ⲆⵠΔ[173].id = 173;
+    this.ⲆⵠΔ[11] = _v(68, 68, 0, ΔΔ[391], eg);
+    this.ⲆⵠΔ[11].id = 11;
+    this.ⲆⵠΔ[12] = _v(68, 68, 0, ΔΔ[403], 3);
+    this.ⲆⵠΔ[12].id = 12;
+    this.ⲆⵠΔ[13] = _v(68, 68, 0, ΔΔ[397], 3);
+    this.ⲆⵠΔ[13].id = 13;
+    this.ⲆⵠΔ[14] = _v(68, 68, 0, ΔΔ[400], xb);
+    this.ⲆⵠΔ[14].id = 14;
+    this.ⲆⵠΔ[15] = _v(68, 68, 0, ΔΔ[406], Tr);
+    this.ⲆⵠΔ[15].id = 15;
+    this.ⲆⵠΔ[16] = _v(68, 68, 0, ΔΔ[875], xb);
+    this.ⲆⵠΔ[16].id = 16;
+    this.ⲆⵠΔ[119] = _v(68, 68, 0, ΔΔ[410], 3);
+    this.ⲆⵠΔ[119].id = 119;
+    this.ⲆⵠΔ[23] = _v(68, 68, 0, ΔΔ[422], ea);
+    this.ⲆⵠΔ[23].id = 23;
+    this.ⲆⵠΔ[24] = _v(68, 68, 0, ΔΔ[425], 3);
+    this.ⲆⵠΔ[24].id = 24;
+    this.ⲆⵠΔ[87] = _v(68, 68, 0, ΔΔ[1229], 3);
+    this.ⲆⵠΔ[87].id = 87;
+    this.ⲆⵠΔ[88] = _v(68, 68, 0, ΔΔ[1232], qu);
+    this.ⲆⵠΔ[88].id = 88;
+    this.ⲆⵠΔ[80] = _v(68, 68, 0, ΔΔ[1139], ci);
+    this.ⲆⵠΔ[80].id = 80;
+    this.ⲆⵠΔ[81] = _v(68, 68, 0, ΔΔ[1142], 3);
+    this.ⲆⵠΔ[81].id = 81;
+    this.ⲆⵠΔ[101] = _v(68, 68, 0, ΔΔ[1167], sl);
+    this.ⲆⵠΔ[101].id = 101;
+    this.ⲆⵠΔ[64] = _v(68, 68, 0, ΔΔ[571], Hk);
+    this.ⲆⵠΔ[64].id = 64;
+    this.ⲆⵠΔ[71] = _v(68, 68, 0, ΔΔ[1240], yr);
+    this.ⲆⵠΔ[71].id = 71;
+    this.ⲆⵠΔ[102] = _v(68, 68, 0, ΔΔ[1170], qu);
+    this.ⲆⵠΔ[102].id = 102;
+    this.ⲆⵠΔ[65] = _v(68, 68, 0, ΔΔ[574], ub);
+    this.ⲆⵠΔ[65].id = 65;
+    this.ⲆⵠΔ[72] = _v(68, 68, 0, ΔΔ[1243], yr);
+    this.ⲆⵠΔ[72].id = 72;
+    this.ⲆⵠΔ[103] = _v(68, 68, 0, ΔΔ[1173], 3);
+    this.ⲆⵠΔ[103].id = 103;
+    this.ⲆⵠΔ[66] = _v(68, 68, 0, ΔΔ[577], Hk);
+    this.ⲆⵠΔ[66].id = 66;
+    this.ⲆⵠΔ[73] = _v(68, 68, 0, ΔΔ[1246], 3);
+    this.ⲆⵠΔ[73].id = 73;
+    this.ⲆⵠΔ[104] = _v(68, 68, 0, ΔΔ[1176], yr);
+    this.ⲆⵠΔ[104].id = 104;
+    this.ⲆⵠΔ[67] = _v(68, 68, 0, ΔΔ[580], 3);
+    this.ⲆⵠΔ[67].id = 67;
+    this.ⲆⵠΔ[74] = _v(68, 68, 0, ΔΔ[1249], 3);
+    this.ⲆⵠΔ[74].id = 74;
+    this.ⲆⵠΔ[105] = _v(68, 68, 0, ΔΔ[1179], Wb);
+    this.ⲆⵠΔ[105].id = 105;
+    this.ⲆⵠΔ[68] = _v(68, 68, 0, ΔΔ[583], 3);
+    this.ⲆⵠΔ[68].id = 68;
+    this.ⲆⵠΔ[75] = _v(68, 68, 0, ΔΔ[1252], ub);
+    this.ⲆⵠΔ[75].id = 75;
+    this.ⲆⵠΔ[106] = _v(68, 68, 0, ΔΔ[1182], 3);
+    this.ⲆⵠΔ[106].id = 106;
+    this.ⲆⵠΔ[69] = _v(68, 68, 0, ΔΔ[586], 3);
+    this.ⲆⵠΔ[69].id = 69;
+    this.ⲆⵠΔ[76] = _v(68, 68, 0, ΔΔ[1255], eg);
+    this.ⲆⵠΔ[76].id = 76;
+    this.ⲆⵠΔ[107] = _v(68, 68, 0, ΔΔ[1185], eg);
+    this.ⲆⵠΔ[107].id = 107;
+    this.ⲆⵠΔ[70] = _v(68, 68, 0, ΔΔ[589], Hk);
+    this.ⲆⵠΔ[70].id = 70;
+    this.ⲆⵠΔ[94] = _v(68, 68, 0, ΔΔ[1258], fn);
+    this.ⲆⵠΔ[94].id = 94;
+    this.ⲆⵠΔ[95] = _v(68, 68, 0, ΔΔ[1261], I);
+    this.ⲆⵠΔ[95].id = 95;
+    this.ⲆⵠΔ[96] = _v(68, 68, 0, ΔΔ[1264], 3);
+    this.ⲆⵠΔ[96].id = 96;
+    this.ⲆⵠΔ[97] = _v(68, 68, 0, ΔΔ[1267], ll);
+    this.ⲆⵠΔ[97].id = 97;
+    this.ⲆⵠΔ[98] = _v(68, 68, 0, ΔΔ[1270], Hk);
+    this.ⲆⵠΔ[98].id = 98;
+    this.ⲆⵠΔ[99] = _v(68, 68, 0, ΔΔ[1273], 3);
+    this.ⲆⵠΔ[99].id = 99;
+    this.ⲆⵠΔ[58] = _v(68, 68, 0, ΔΔ[828], 3);
+    this.ⲆⵠΔ[58].id = 58;
+    this.ⲆⵠΔ[25] = _v(68, 68, 0, ΔΔ[431], 3);
+    this.ⲆⵠΔ[25].id = 25;
+    this.ⲆⵠΔ[26] = _v(68, 68, 0, ΔΔ[434], ut);
+    this.ⲆⵠΔ[26].id = 26;
+    this.ⲆⵠΔ[27] = _v(68, 68, 0, ΔΔ[437], 3);
+    this.ⲆⵠΔ[27].id = 27;
+    this.ⲆⵠΔ[28] = _v(68, 68, 0, ΔΔ[440], fn);
+    this.ⲆⵠΔ[28].id = 28;
+    this.ⲆⵠΔ[120] = _v(68, 68, 0, ΔΔ[443], fn);
+    this.ⲆⵠΔ[120].id = 120;
+    this.ⲆⵠΔ[29] = _v(68, 68, 0, ΔΔ[385], 3);
+    this.ⲆⵠΔ[29].id = 29;
+    this.ⲆⵠΔ[121] = _v(68, 68, 0, ΔΔ[446], 3);
+    this.ⲆⵠΔ[121].id = 121;
+    this.ⲆⵠΔ[30] = _v(68, 68, 0, ΔΔ[457], Hk);
+    this.ⲆⵠΔ[30].id = 30;
+    this.ⲆⵠΔ[9] = _v(68, 68, 0, ΔΔ[862], Tr);
+    this.ⲆⵠΔ[9].id = 9;
+    this.ⲆⵠΔ[31] = _v(68, 68, 0, ΔΔ[459], yr);
+    this.ⲆⵠΔ[31].id = 31;
+    this.ⲆⵠΔ[32] = _v(68, 68, 0, ΔΔ[1018], 3);
+    this.ⲆⵠΔ[32].id = 32;
+    this.ⲆⵠΔ[33] = _v(68, 68, 0, ΔΔ[474], 3);
+    this.ⲆⵠΔ[33].id = 33;
+    this.ⲆⵠΔ[35] = _v(68, 68, 0, ΔΔ[479], 3);
+    this.ⲆⵠΔ[35].id = 35;
+    this.ⲆⵠΔ[36] = _v(68, 68, 0, ΔΔ[482], ll);
+    this.ⲆⵠΔ[36].id = 36;
+    this.ⲆⵠΔ[37] = _v(68, 68, 0, ΔΔ[485], Lg);
+    this.ⲆⵠΔ[37].id = 37;
+    this.ⲆⵠΔ[38] = _v(68, 68, 0, ΔΔ[488], fn);
+    this.ⲆⵠΔ[38].id = 38;
+    this.ⲆⵠΔ[39] = _v(68, 68, 0, ΔΔ[491], Tt);
+    this.ⲆⵠΔ[39].id = 39;
+    this.ⲆⵠΔ[122] = _v(68, 68, 0, ΔΔ[494], fn);
+    this.ⲆⵠΔ[122].id = 122;
+    this.ⲆⵠΔ[123] = _v(68, 68, 0, ΔΔ[497], 3);
+    this.ⲆⵠΔ[123].id = 123;
+    this.ⲆⵠΔ[124] = _v(68, 68, 0, ΔΔ[501], yr);
+    this.ⲆⵠΔ[124].id = 124;
+    this.ⲆⵠΔ[40] = _v(68, 68, 0, ΔΔ[504], ci);
+    this.ⲆⵠΔ[40].id = 40;
+    this.ⲆⵠΔ[146] = _v(68, 68, 0, ΔΔ[506], 3);
+    this.ⲆⵠΔ[146].id = 146;
+    this.ⲆⵠΔ[240] = _v(68, 68, 0, ΔΔ[1234], 3);
+    this.ⲆⵠΔ[240].id = 240;
+    this.ⲆⵠΔ[147] = _v(68, 68, 0, ΔΔ[514], 3);
+    this.ⲆⵠΔ[147].id = 147;
+    this.ⲆⵠΔ[148] = _v(68, 68, 0, ΔΔ[520], ll);
+    this.ⲆⵠΔ[148].id = 148;
+    this.ⲆⵠΔ[149] = _v(68, 68, 0, ΔΔ[522], sl);
+    this.ⲆⵠΔ[149].id = 149;
+    this.ⲆⵠΔ[150] = _v(68, 68, 0, ΔΔ[524], 3);
+    this.ⲆⵠΔ[150].id = 150;
+    this.ⲆⵠΔ[151] = _v(68, 68, 0, ΔΔ[531], Wb);
+    this.ⲆⵠΔ[151].id = 151;
+    this.ⲆⵠΔ[158] = _v(68, 68, 0, ΔΔ[534], 3);
+    this.ⲆⵠΔ[158].id = 158;
+    this.ⲆⵠΔ[159] = _v(68, 68, 0, ΔΔ[554], 3);
+    this.ⲆⵠΔ[159].id = 159;
+    this.ⲆⵠΔ[43] = _v(68, 68, 0, ΔΔ[543], I);
+    this.ⲆⵠΔ[43].id = 43;
+    this.ⲆⵠΔ[45] = _v(68, 68, 0, ΔΔ[552], eg);
+    this.ⲆⵠΔ[45].id = 45;
+    this.ⲆⵠΔ[125] = _v(68, 68, 0, ΔΔ[606], 3);
+    this.ⲆⵠΔ[125].id = 125;
+    this.ⲆⵠΔ[221] = _v(68, 68, 0, ΔΔ[1237], eg);
+    this.ⲆⵠΔ[221].id = 221;
+    this.ⲆⵠΔ[223] = _v(68, 68, 0, ΔΔ[1029], ll);
+    this.ⲆⵠΔ[223].id = 223;
+    this.ⲆⵠΔ[224] = _v(68, 68, 0, ΔΔ[1032], yr);
+    this.ⲆⵠΔ[224].id = 224;
+    this.ⲆⵠΔ[230] = _v(68, 68, 0, ΔΔ[1118], 3);
+    this.ⲆⵠΔ[230].id = 230;
+    this.ⲆⵠΔ[89] = _v(68, 68, 0, ΔΔ[1047], ub);
+    this.ⲆⵠΔ[89].id = 89;
+    this.ⲆⵠΔ[225] = _v(68, 68, 0, ΔΔ[1050], 3);
+    this.ⲆⵠΔ[225].id = 225;
+    this.ⲆⵠΔ[227] = _v(68, 68, 0, ΔΔ[1081], Tr);
+    this.ⲆⵠΔ[227].id = 227;
+    this.ⲆⵠΔ[239] = _v(68, 68, 0, ΔΔ[1225], Js);
+    this.ⲆⵠΔ[239].id = 239;
+    this.ⲆⵠΔ[228] = _v(68, 68, 0, ΔΔ[1096], fn);
+    this.ⲆⵠΔ[228].id = 228;
+    this.ⲆⵠΔ[229] = _v(68, 68, 0, ΔΔ[1111], ll);
+    this.ⲆⵠΔ[229].id = 229;
+    this.ⲆⵠΔ[226] = _v(68, 68, 0, ΔΔ[1190], 3);
+    this.ⲆⵠΔ[226].id = 226;
+    this.ⲆⵠΔ[126] = _v(68, 68, 0, ΔΔ[610], 3);
+    this.ⲆⵠΔ[126].id = 126;
+    this.ⲆⵠΔ[127] = _v(68, 68, 0, ΔΔ[615], I);
+    this.ⲆⵠΔ[127].id = 127;
+    this.ⲆⵠΔ[128] = _v(68, 68, 0, ΔΔ[614], 3);
+    this.ⲆⵠΔ[128].id = 128;
+    this.ⲆⵠΔ[46] = _v(68, 68, 0, ΔΔ[617], 3);
+    this.ⲆⵠΔ[46].id = 46;
+    this.ⲆⵠΔ[50] = _v(68, 68, 0, ΔΔ[701], ub);
+    this.ⲆⵠΔ[50].id = 50;
+    this.ⲆⵠΔ[51] = _v(68, 68, 0, ΔΔ[703], xb);
+    this.ⲆⵠΔ[51].id = 51;
+    this.ⲆⵠΔ[52] = _v(68, 68, 0, ΔΔ[707], Hk);
+    this.ⲆⵠΔ[52].id = 52;
+    this.ⲆⵠΔ[55] = _v(68, 68, 0, ΔΔ[710], Lg);
+    this.ⲆⵠΔ[55].id = 55;
+    this.ⲆⵠΔ[129] = _v(68, 68, 0, ΔΔ[625], nq);
+    this.ⲆⵠΔ[129].id = 129;
+    this.ⲆⵠΔ[130] = _v(68, 68, 0, ΔΔ[628], 3);
+    this.ⲆⵠΔ[130].id = 130;
+    this.ⲆⵠΔ[131] = _v(68, 68, 0, ΔΔ[630], ub);
+    this.ⲆⵠΔ[131].id = 131;
+    this.ⲆⵠΔ[132] = _v(68, 68, 0, ΔΔ[633], 3);
+    this.ⲆⵠΔ[132].id = 132;
+    this.ⲆⵠΔ[133] = _v(68, 68, 0, ΔΔ[636], ll);
+    this.ⲆⵠΔ[133].id = 133;
+    this.ⲆⵠΔ[134] = _v(68, 68, 0, ΔΔ[640], ci);
+    this.ⲆⵠΔ[134].id = 134;
+    this.ⲆⵠΔ[135] = _v(68, 68, 0, ΔΔ[645], 3);
+    this.ⲆⵠΔ[135].id = 135;
+    this.ⲆⵠΔ[47] = _v(68, 68, 0, ΔΔ[648], 3);
+    this.ⲆⵠΔ[47].id = 47;
+    this.ⲆⵠΔ[48] = _v(68, 68, 0, ΔΔ[651], 3);
+    this.ⲆⵠΔ[48].id = 48;
+    this.ⲆⵠΔ[49] = _v(68, 68, 0, ΔΔ[653], ea);
+    this.ⲆⵠΔ[49].id = 49;
+    this.ⲆⵠΔ[136] = _v(68, 68, 0, ΔΔ[661], 3);
+    this.ⲆⵠΔ[136].id = 136;
+    this.ⲆⵠΔ[143] = _v(68, 68, 0, ΔΔ[689], eg);
+    this.ⲆⵠΔ[143].id = 143;
+    this.ⲆⵠΔ[137] = _v(68, 68, 0, ΔΔ[663], 3);
+    this.ⲆⵠΔ[137].id = 137;
+    this.ⲆⵠΔ[138] = _v(68, 68, 0, ΔΔ[665], 3);
+    this.ⲆⵠΔ[138].id = 138;
+    this.ⲆⵠΔ[139] = _v(68, 68, 0, ΔΔ[675], 3);
+    this.ⲆⵠΔ[139].id = 139;
+    this.ⲆⵠΔ[140] = _v(68, 68, 0, ΔΔ[682], ea);
+    this.ⲆⵠΔ[140].id = 140;
+    this.ⲆⵠΔ[141] = _v(68, 68, 0, ΔΔ[683], ub);
+    this.ⲆⵠΔ[141].id = 141;
+    this.ⲆⵠΔ[142] = _v(68, 68, 0, ΔΔ[686], 3);
+    this.ⲆⵠΔ[142].id = 142;
+    this.ⲆⵠΔ[144] = _v(68, 68, 0, ΔΔ[719], xb);
+    this.ⲆⵠΔ[144].id = 144;
+    this.ⲆⵠΔ[145] = _v(68, 68, 0, ΔΔ[731], qo);
+    this.ⲆⵠΔ[145].id = 145;
+    this.ⲆⵠΔ[59] = _v(68, 68, 0, ΔΔ[733], 3);
+    this.ⲆⵠΔ[59].id = 59;
+    this.ⲆⵠΔ[62] = _v(68, 68, 0, ΔΔ[565], eg);
+    this.ⲆⵠΔ[62].id = 62;
+    this.ⲆⵠΔ[185] = _v(68, 68, 0, ΔΔ[590], 3);
+    this.ⲆⵠΔ[185].id = 185;
+    this.ⲆⵠΔ[184] = _v(68, 68, 0, ΔΔ[752], I);
+    this.ⲆⵠΔ[184].id = 184;
+    this.ⲆⵠΔ[187] = _v(68, 68, 0, ΔΔ[591], Wb);
+    this.ⲆⵠΔ[187].id = 187;
+    this.ⲆⵠΔ[186] = _v(68, 68, 0, ΔΔ[754], qo);
+    this.ⲆⵠΔ[186].id = 186;
+    this.ⲆⵠΔ[77] = _v(68, 68, 0, ΔΔ[757], 3);
+    this.ⲆⵠΔ[77].id = 77;
+    this.ⲆⵠΔ[175] = _v(68, 68, 0, ΔΔ[759], Js);
+    this.ⲆⵠΔ[175].id = 175;
+    this.ⲆⵠΔ[176] = _v(68, 68, 0, ΔΔ[763], 3);
+    this.ⲆⵠΔ[176].id = 176;
+    this.ⲆⵠΔ[78] = _v(68, 68, 0, ΔΔ[761], 3);
+    this.ⲆⵠΔ[78].id = 78;
+    this.ⲆⵠΔ[177] = _v(68, 68, 0, ΔΔ[766], nq);
+    this.ⲆⵠΔ[177].id = 177;
+    this.ⲆⵠΔ[79] = _v(68, 68, 0, ΔΔ[765], 3);
+    this.ⲆⵠΔ[79].id = 79;
+    this.ⲆⵠΔ[83] = _v(68, 68, 0, ΔΔ[769], Js);
+    this.ⲆⵠΔ[83].id = 83;
+    this.ⲆⵠΔ[84] = _v(68, 68, 0, ΔΔ[773], 3);
+    this.ⲆⵠΔ[84].id = 84;
+    this.ⲆⵠΔ[178] = _v(68, 68, 0, ΔΔ[774], qo);
+    this.ⲆⵠΔ[178].id = 178;
+    this.ⲆⵠΔ[179] = _v(68, 68, 0, ΔΔ[775], Tr);
+    this.ⲆⵠΔ[179].id = 179;
+    this.ⲆⵠΔ[86] = _v(68, 68, 0, ΔΔ[778], eg);
+    this.ⲆⵠΔ[86].id = 86;
+    this.ⲆⵠΔ[85] = _v(68, 68, 0, ΔΔ[781], 3);
+    this.ⲆⵠΔ[85].id = 85;
+    this.ⲆⵠΔ[180] = _v(68, 68, 0, ΔΔ[786], Tr);
+    this.ⲆⵠΔ[180].id = 180;
+    this.ⲆⵠΔ[181] = _v(68, 68, 0, ΔΔ[787], 3);
+    this.ⲆⵠΔ[181].id = 181;
+    this.ⲆⵠΔ[182] = _v(68, 68, 0, ΔΔ[790], Tt);
+    this.ⲆⵠΔ[182].id = 182;
+    this.ⲆⵠΔ[183] = _v(68, 68, 0, ΔΔ[801], 3);
+    this.ⲆⵠΔ[183].id = 183;
+    this.ⲆⵠΔ[188] = _v(68, 68, 0, ΔΔ[810], 3);
+    this.ⲆⵠΔ[188].id = 188;
+    this.ⲆⵠΔ[189] = _v(68, 68, 0, ΔΔ[815], 3);
+    this.ⲆⵠΔ[189].id = 189;
+    this.ⲆⵠΔ[190] = _v(68, 68, 0, ΔΔ[844], eg);
+    this.ⲆⵠΔ[190].id = 190;
+    this.ⲆⵠΔ[191] = _v(68, 68, 0, ΔΔ[836], 3);
+    this.ⲆⵠΔ[191].id = 191;
+    this.ⲆⵠΔ[192] = _v(68, 68, 0, ΔΔ[841], Hk);
+    this.ⲆⵠΔ[192].id = 192;
+    this.ⲆⵠΔ[193] = _v(68, 68, 0, ΔΔ[847], ut);
+    this.ⲆⵠΔ[193].id = 193;
+    this.ⲆⵠΔ[194] = _v(68, 68, 0, ΔΔ[851], nq);
+    this.ⲆⵠΔ[194].id = 194;
+    this.ⲆⵠΔ[206] = _v(68, 68, 0, ΔΔ[961], Tt);
+    this.ⲆⵠΔ[206].id = 206;
+    this.ⲆⵠΔ[207] = _v(68, 68, 0, ΔΔ[974], Wb);
+    this.ⲆⵠΔ[207].id = 207;
+    this.ⲆⵠΔ[204] = _v(68, 68, 0, ΔΔ[951], 3);
+    this.ⲆⵠΔ[204].id = 204;
+    this.ⲆⵠΔ[205] = _v(68, 68, 0, ΔΔ[956], qo);
+    this.ⲆⵠΔ[205].id = 205;
+    this.ⲆⵠΔ[208] = _v(68, 68, 0, ΔΔ[968], ll);
+    this.ⲆⵠΔ[208].id = 208;
+    this.ⲆⵠΔ[209] = _v(68, 68, 0, ΔΔ[973], ci);
+    this.ⲆⵠΔ[209].id = 209;
+    this.ⲆⵠΔ[210] = _v(68, 68, 0, ΔΔ[983], 3);
+    this.ⲆⵠΔ[210].id = 210;
+    this.ⲆⵠΔ[211] = _v(68, 68, 0, ΔΔ[988], 3);
+    this.ⲆⵠΔ[211].id = 211;
+    this.ⲆⵠΔ[41] = _v(68, 68, 0, ΔΔ[881], 3);
+    this.ⲆⵠΔ[41].id = 41;
+    this.ⲆⵠΔ[42] = _v(68, 68, 0, ΔΔ[883], qu);
+    this.ⲆⵠΔ[42].id = 42;
+    this.ⲆⵠΔ[12] = _v(68, 68, 0, ΔΔ[403], Js);
+    this.ⲆⵠΔ[12].id = 12;
+    this.ⲆⵠΔ[16] = _v(68, 68, 0, ΔΔ[875], 3);
+    this.ⲆⵠΔ[16].id = 16;
+    this.ⲆⵠΔ[196] = _v(68, 68, 0, ΔΔ[898], yr);
+    this.ⲆⵠΔ[196].id = 196;
+    this.ⲆⵠΔ[18] = _v(68, 68, 0, ΔΔ[899], 3);
+    this.ⲆⵠΔ[18].id = 18;
+    this.ⲆⵠΔ[197] = _v(68, 68, 0, ΔΔ[906], eg);
+    this.ⲆⵠΔ[197].id = 197;
+    this.ⲆⵠΔ[198] = _v(68, 68, 0, ΔΔ[908], 3);
+    this.ⲆⵠΔ[198].id = 198;
+    this.ⲆⵠΔ[61] = _v(68, 68, 0, ΔΔ[911], xb);
+    this.ⲆⵠΔ[61].id = 61;
+    this.ⲆⵠΔ[201] = _v(68, 68, 0, ΔΔ[871], Wb);
+    this.ⲆⵠΔ[201].id = 201;
+    this.ⲆⵠΔ[199] = _v(68, 68, 0, ΔΔ[863], ea);
+    this.ⲆⵠΔ[199].id = 199;
+    this.ⲆⵠΔ[200] = _v(68, 68, 0, ΔΔ[868], qu);
+    this.ⲆⵠΔ[200].id = 200;
     this.ⲆⵠᐃΔⲆ = [];
     for (n = 0; n < 250; n++) {
-      this.ⲆⵠᐃΔⲆ[n] = _v(0, Da, 0, ΔΔ[Xr.ΔᐃⲆΔⲆΔⲆ]);
+      this.ⲆⵠᐃΔⲆ[n] = _v(0, Da, 0, ΔΔ[366]);
     }
     this.ᐃᐃᐃ = [];
-    this.ᐃᐃᐃ[_r.ᐃᐃⲆΔⲆ] = _v(60, 60, 0, ΔΔ[Xr.ⲆᐃⲆᐃᐃΔΔ], Wb);
-    this.ᐃᐃᐃ[_r.ᐃᐃⲆΔⲆ].id = _r.ᐃᐃⲆΔⲆ;
-    this.ᐃᐃᐃ[_r.ⲆⵠⵠⲆⲆ] = _v(60, 60, 0, ΔΔ[Xr.ᐃⲆᐃΔᐃᐃΔ], 3);
-    this.ᐃᐃᐃ[_r.ⲆⵠⵠⲆⲆ].id = _r.ⲆⵠⵠⲆⲆ;
-    this.ᐃᐃᐃ[_r.ᐃΔⵠⲆ] = _v(60, 60, 0, ΔΔ[Xr.ⲆⵠⵠⲆⲆⲆᐃ], ub);
-    this.ᐃᐃᐃ[_r.ᐃΔⵠⲆ].id = _r.ᐃΔⵠⲆ;
-    this.ᐃᐃᐃ[_r.ᐃΔⵠⲆ].info.ⵠⵠ[as] = this.ᐃᐃᐃ[_r.ᐃΔⵠⲆ].info.ⵠⵠ[Lr];
-    this.ᐃᐃᐃ[_r.ⵠᐃⵠⵠ] = _v(60, 60, 0, ΔΔ[Xr.ⵠⵠⵠΔΔᐃⵠ], 3);
-    this.ᐃᐃᐃ[_r.ⵠᐃⵠⵠ].id = _r.ⵠᐃⵠⵠ;
-    this.ᐃᐃᐃ[_r.ⵠᐃⵠⵠ].info.ⵠⵠ[Vg] = this.ᐃᐃᐃ[_r.ⵠᐃⵠⵠ].info.ⵠⵠ[0];
-    this.ᐃᐃᐃ[_r.ⵠᐃⲆⲆⲆ] = _v(60, 60, 0, ΔΔ[Xr.ⵠᐃΔⲆⲆⲆᐃ], Hk);
-    this.ᐃᐃᐃ[_r.ⵠᐃⲆⲆⲆ].id = _r.ⵠᐃⲆⲆⲆ;
-    this.ᐃᐃᐃ[_r.ⵠⵠⵠΔⲆ] = _v(60, 60, 0, ΔΔ[Xr.ⲆⲆΔΔΔΔᐃ], 3);
-    this.ᐃᐃᐃ[_r.ⵠⵠⵠΔⲆ].id = _r.ⵠⵠⵠΔⲆ;
-    this.ᐃᐃᐃ[_r.ᐃⲆⵠᐃ] = _v(60, 60, 0, ΔΔ[Xr.ᐃⲆΔΔⵠⲆΔ], 3);
-    this.ᐃᐃᐃ[_r.ᐃⲆⵠᐃ].id = _r.ᐃⲆⵠᐃ;
-    this.ᐃᐃᐃ[_r.ᐃⲆⵠᐃ].info.ⵠⵠ[vg] = this.ᐃᐃᐃ[_r.ᐃⲆⵠᐃ].info.ⵠⵠ[ig];
-    this.ᐃᐃᐃ[_r.ᐃⲆΔⵠ] = _v(60, 60, 0, ΔΔ[Xr.ⲆⲆΔⵠᐃΔⲆ], Tt);
-    this.ᐃᐃᐃ[_r.ᐃⲆΔⵠ].id = _r.ᐃⲆΔⵠ;
-    this.ᐃᐃᐃ[_r.ᐃⲆΔⵠ].info.ⵠⵠ[Hj] = this.ᐃᐃᐃ[_r.ᐃⲆΔⵠ].info.ⵠⵠ[0];
-    this.ᐃᐃᐃ[_r.ⵠᐃⲆΔΔ] = _v(60, 60, 0, ΔΔ[Xr.ᐃΔΔΔⲆⵠᐃ], 3);
-    this.ᐃᐃᐃ[_r.ⵠᐃⲆΔΔ].id = _r.ⵠᐃⲆΔΔ;
-    this.ᐃᐃᐃ[_r.ᐃⲆⵠΔⲆ] = _v(60, 60, 0, ΔΔ[Xr.ⲆⲆⲆⲆⲆⲆᐃ], fn);
-    this.ᐃᐃᐃ[_r.ᐃⲆⵠΔⲆ].id = _r.ᐃⲆⵠΔⲆ;
-    this.ᐃᐃᐃ[_r.ⵠΔΔΔΔ] = _v(60, 60, 0, ΔΔ[Xr.ΔΔᐃΔⲆΔⲆ], 3);
-    this.ᐃᐃᐃ[_r.ⵠΔΔΔΔ].id = _r.ⵠΔΔΔΔ;
-    this.ᐃᐃᐃ[_r.ΔⵠᐃΔᐃ] = _v(60, 60, 0, ΔΔ[Xr.ᐃΔΔΔⵠⲆⲆ], qu);
-    this.ᐃᐃᐃ[_r.ΔⵠᐃΔᐃ].id = _r.ΔⵠᐃΔᐃ;
-    this.ᐃᐃᐃ[_r.ᐃΔⲆᐃΔ] = _v(60, 60, 0, ΔΔ[Xr.ᐃⵠⵠᐃᐃⵠᐃ], yr);
-    this.ᐃᐃᐃ[_r.ᐃΔⲆᐃΔ].id = _r.ᐃΔⲆᐃΔ;
-    this.ᐃᐃᐃ[_r.ΔᐃᐃⲆⲆ] = _v(60, 60, 0, ΔΔ[Xr.ⵠⲆⵠⲆⵠΔⲆ], ut);
-    this.ᐃᐃᐃ[_r.ΔᐃᐃⲆⲆ].id = _r.ΔᐃᐃⲆⲆ;
-    this.ᐃᐃᐃ[_r.ⵠⲆΔⵠᐃ] = _v(60, 60, 0, ΔΔ[Xr.ⵠⲆᐃⵠᐃⵠᐃ], 3);
-    this.ᐃᐃᐃ[_r.ⵠⲆΔⵠᐃ].id = _r.ⵠⲆΔⵠᐃ;
-    this.ᐃᐃᐃ[_r.ⵠᐃΔⲆᐃ] = _v(60, 60, 0, ΔΔ[Xr.ᐃΔⵠⲆᐃⲆᐃ], 3);
-    this.ᐃᐃᐃ[_r.ⵠᐃΔⲆᐃ].id = _r.ⵠᐃΔⲆᐃ;
-    this.ᐃᐃᐃ[_r.ⲆⲆⲆⲆⵠ] = _v(60, 60, 0, ΔΔ[Xr.ⵠᐃⲆⲆᐃᐃΔ], Js);
-    this.ᐃᐃᐃ[_r.ⲆⲆⲆⲆⵠ].id = _r.ⲆⲆⲆⲆⵠ;
-    this.ᐃᐃᐃ[_r.ⵠⵠΔⵠⲆ] = _v(60, 60, 0, ΔΔ[Xr.ⲆΔᐃᐃⲆⲆΔ], 3);
-    this.ᐃᐃᐃ[_r.ⵠⵠΔⵠⲆ].id = _r.ⵠⵠΔⵠⲆ;
-    this.ᐃᐃᐃ[_r.ⲆΔⲆⲆⵠ] = _v(60, 60, 0, ΔΔ[Xr.ⵠᐃΔⲆᐃᐃⵠ], Lg);
-    this.ᐃᐃᐃ[_r.ⲆΔⲆⲆⵠ].id = _r.ⲆΔⲆⲆⵠ;
-    this.ᐃᐃᐃ[_r.ΔΔⵠⵠⲆ] = _v(60, 60, 0, ΔΔ[Xr.ᐃⲆⲆⲆⲆΔᐃ], nq);
-    this.ᐃᐃᐃ[_r.ΔΔⵠⵠⲆ].id = _r.ΔΔⵠⵠⲆ;
-    this.ᐃᐃᐃ[_r.ⵠⵠᐃᐃⵠ] = _v(60, 60, 0, ΔΔ[Xr.ⵠⲆⲆΔΔΔⵠ], qo);
-    this.ᐃᐃᐃ[_r.ⵠⵠᐃᐃⵠ].id = _r.ⵠⵠᐃᐃⵠ;
-    this.ᐃᐃᐃ[_r.ᐃΔΔⵠΔ] = _v(60, 60, 0, ΔΔ[Xr.ⲆΔⵠⲆⲆⵠΔ], ub);
-    this.ᐃᐃᐃ[_r.ᐃΔΔⵠΔ].id = _r.ᐃΔΔⵠΔ;
-    this.ᐃᐃᐃ[_r.ᐃΔᐃⲆᐃ] = _v(60, 60, 0, ΔΔ[Xr.ΔⲆΔⲆΔᐃΔ], 3);
-    this.ᐃᐃᐃ[_r.ᐃΔᐃⲆᐃ].id = _r.ᐃΔᐃⲆᐃ;
-    this.ᐃᐃᐃ[_r.ᐃΔⵠᐃⲆ] = _v(60, 60, 0, ΔΔ[Xr.ΔⵠΔΔΔᐃᐃ], I);
-    this.ᐃᐃᐃ[_r.ᐃΔⵠᐃⲆ].id = _r.ᐃΔⵠᐃⲆ;
-    this.ᐃᐃᐃ[_r.ᐃΔⵠᐃⲆ].info.ⵠⵠ[2] = this.ᐃᐃᐃ[_r.ᐃΔⵠᐃⲆ].info.ⵠⵠ[0];
-    this.ᐃᐃᐃ[_r.ΔᐃⵠⲆⲆ] = _v(60, 60, 0, ΔΔ[Xr.ⵠᐃΔΔⵠⲆⲆ], Hk);
-    this.ᐃᐃᐃ[_r.ΔᐃⵠⲆⲆ].id = _r.ΔᐃⵠⲆⲆ;
-    this.ᐃᐃᐃ[_r.ᐃᐃᐃᐃᐃ] = _v(60, 60, 0, ΔΔ[Xr.Δⵠᐃⵠⵠᐃᐃ], ea);
-    this.ᐃᐃᐃ[_r.ᐃᐃᐃᐃᐃ].id = _r.ᐃᐃᐃᐃᐃ;
-    this.ᐃᐃᐃ[_r.ⵠᐃⲆᐃⵠ] = _v(60, 60, 0, ΔΔ[Xr.ⵠΔⵠⵠⵠⵠᐃ], 3);
-    this.ᐃᐃᐃ[_r.ⵠᐃⲆᐃⵠ].id = _r.ⵠᐃⲆᐃⵠ;
-    this.ᐃᐃᐃ[_r.ΔⵠⵠⲆᐃ] = _v(60, 60, 0, ΔΔ[Xr.ᐃᐃⵠⵠⲆΔⵠ], fn);
-    this.ᐃᐃᐃ[_r.ΔⵠⵠⲆᐃ].id = _r.ΔⵠⵠⲆᐃ;
-    this.ᐃᐃᐃ[_r.ᐃⲆⲆⲆⲆ] = _v(60, 60, 0, ΔΔ[Xr.ⵠⲆⲆⲆᐃⵠᐃ], ea);
-    this.ᐃᐃᐃ[_r.ᐃⲆⲆⲆⲆ].id = _r.ᐃⲆⲆⲆⲆ;
-    this.ᐃᐃᐃ[_r.ⲆᐃⲆΔΔ] = _v(60, 60, 0, ΔΔ[Xr.ᐃΔᐃⲆᐃΔⵠ], 3);
-    this.ᐃᐃᐃ[_r.ⲆᐃⲆΔΔ].id = _r.ⲆᐃⲆΔΔ;
-    this.ᐃᐃᐃ[_r.Ⲇᐃⵠᐃⵠ] = _v(60, 60, 0, ΔΔ[Xr.ᐃΔⲆᐃⲆⲆΔ], 3);
-    this.ᐃᐃᐃ[_r.Ⲇᐃⵠᐃⵠ].id = _r.Ⲇᐃⵠᐃⵠ;
-    this.ᐃᐃᐃ[_r.ⲆⵠᐃΔΔ] = _v(60, 60, 0, ΔΔ[Xr.ⲆⲆⵠⵠΔⵠΔ], 3);
-    this.ᐃᐃᐃ[_r.ⲆⵠᐃΔΔ].id = _r.ⲆⵠᐃΔΔ;
-    this.ᐃᐃᐃ[_r.ⵠⲆᐃᐃ] = _v(60, 60, 0, ΔΔ[Xr.ⲆᐃⵠⵠⵠⵠΔ], eg);
-    this.ᐃᐃᐃ[_r.ⵠⲆᐃᐃ].id = _r.ⵠⲆᐃᐃ;
-    this.ᐃᐃᐃ[_r.ᐃⲆᐃⲆᐃ] = _v(60, 60, 0, ΔΔ[Xr.ᐃⵠⵠⲆⵠᐃⲆ], ll);
-    this.ᐃᐃᐃ[_r.ᐃⲆᐃⲆᐃ].id = _r.ᐃⲆᐃⲆᐃ;
-    this.ᐃᐃᐃ[_r.ⵠΔᐃⲆΔ] = _v(60, 60, 0, ΔΔ[Xr.ΔᐃⵠⵠᐃⲆⵠ], 3);
-    this.ᐃᐃᐃ[_r.ⵠΔᐃⲆΔ].id = _r.ⵠΔᐃⲆΔ;
-    this.ᐃᐃᐃ[_r.ᐃΔⵠⵠⵠ] = _v(60, 60, 0, ΔΔ[Xr.ΔⲆᐃΔⲆⵠᐃ], 3);
-    this.ᐃᐃᐃ[_r.ᐃΔⵠⵠⵠ].id = _r.ᐃΔⵠⵠⵠ;
-    this.ᐃᐃᐃ[_r.ⵠΔᐃΔΔ] = _v(60, 60, 0, ΔΔ[Xr.ⲆΔΔⵠΔⵠⲆ], 3);
-    this.ᐃᐃᐃ[_r.ⵠΔᐃΔΔ].id = _r.ⵠΔᐃΔΔ;
-    this.ᐃᐃᐃ[_r.ⵠⵠΔⵠΔ] = _v(60, 60, 0, ΔΔ[Xr.ΔⲆᐃΔΔᐃᐃ], 3);
-    this.ᐃᐃᐃ[_r.ⵠⵠΔⵠΔ].id = _r.ⵠⵠΔⵠΔ;
-    this.ᐃᐃᐃ[_r.ⵠⵠΔⵠΔ].info.ⵠⵠ[2] = this.ᐃᐃᐃ[_r.ⵠⵠΔⵠΔ].info.ⵠⵠ[0];
-    this.ᐃᐃᐃ[_r.ⵠΔⵠⵠⲆ] = _v(60, 60, 0, ΔΔ[Xr.ⵠΔᐃΔⵠⲆΔ], Js);
-    this.ᐃᐃᐃ[_r.ⵠΔⵠⵠⲆ].id = _r.ⵠΔⵠⵠⲆ;
-    this.ᐃᐃᐃ[_r.ⵠΔⵠⵠⲆ].info.ⵠⵠ[2] = this.ᐃᐃᐃ[_r.ⵠΔⵠⵠⲆ].info.ⵠⵠ[fl];
-    this.ᐃᐃᐃ[_r.ⲆⵠⵠΔᐃ] = _v(60, 60, 0, ΔΔ[Xr.ⵠⲆᐃⵠⲆᐃⵠ], 3);
-    this.ᐃᐃᐃ[_r.ⲆⵠⵠΔᐃ].id = _r.ⲆⵠⵠΔᐃ;
-    this.ᐃᐃᐃ[_r.ⲆⵠⵠΔᐃ].info.ⵠⵠ[H] = this.ᐃᐃᐃ[_r.ⲆⵠⵠΔᐃ].info.ⵠⵠ[wg];
-    this.ᐃᐃᐃ[_r.ᐃⲆⲆⲆᐃ] = _v(60, 60, 0, ΔΔ[Xr.ⲆⲆⵠᐃⵠ], 3);
-    this.ᐃᐃᐃ[_r.ᐃⲆⲆⲆᐃ].id = _r.ᐃⲆⲆⲆᐃ;
-    this.ᐃᐃᐃ[_r.ⵠⵠΔⲆⵠ] = _v(60, 60, 0, ΔΔ[Xr.ΔⲆΔⵠᐃ], fn);
-    this.ᐃᐃᐃ[_r.ⵠⵠΔⲆⵠ].id = _r.ⵠⵠΔⲆⵠ;
-    this.ᐃᐃᐃ[_r.ΔⵠΔΔⲆ] = _v(60, 60, 0, ΔΔ[Xr.ΔⲆΔⵠⲆ], Js);
-    this.ᐃᐃᐃ[_r.ΔⵠΔΔⲆ].id = _r.ΔⵠΔΔⲆ;
-    this.ᐃᐃᐃ[_r.ᐃⵠⵠΔⵠ] = _v(60, 60, 0, ΔΔ[Xr.ΔΔⵠⵠⵠ], 3);
-    this.ᐃᐃᐃ[_r.ᐃⵠⵠΔⵠ].id = _r.ᐃⵠⵠΔⵠ;
-    this.ᐃᐃᐃ[_r.ᐃⲆᐃⲆᐃ] = _v(60, 60, 0, ΔΔ[Xr.ᐃⵠⵠⲆⵠᐃⲆ], 3);
-    this.ᐃᐃᐃ[_r.ᐃⲆᐃⲆᐃ].id = _r.ᐃⲆᐃⲆᐃ;
-    this.ᐃᐃᐃ[_r.ᐃⵠⵠⵠΔ] = _v(60, 60, 0, ΔΔ[Xr.ΔⲆⵠᐃΔⵠⵠ], ea);
-    this.ᐃᐃᐃ[_r.ᐃⵠⵠⵠΔ].id = _r.ᐃⵠⵠⵠΔ;
-    this.ᐃᐃᐃ[_r.ᐃᐃΔⲆⲆ] = _v(60, 60, 0, ΔΔ[Xr.ΔⲆΔᐃⲆⵠΔ], fn);
-    this.ᐃᐃᐃ[_r.ᐃᐃΔⲆⲆ].id = _r.ᐃᐃΔⲆⲆ;
-    this.ᐃᐃᐃ[_r.ⵠΔᐃⵠᐃ] = _v(60, 60, 0, ΔΔ[Xr.ⵠⵠΔΔΔΔⲆ], 3);
-    this.ᐃᐃᐃ[_r.ⵠΔᐃⵠᐃ].id = _r.ⵠΔᐃⵠᐃ;
-    this.ᐃᐃᐃ[_r.ⵠᐃᐃⵠΔ] = _v(60, 60, 0, ΔΔ[Xr.ⵠⲆⵠΔⲆⵠᐃ], ub);
-    this.ᐃᐃᐃ[_r.ⵠᐃᐃⵠΔ].id = _r.ⵠᐃᐃⵠΔ;
-    this.ᐃᐃᐃ[_r.ᐃᐃᐃᐃⲆ] = _v(60, 60, 0, ΔΔ[Xr.ᐃᐃᐃⵠΔᐃΔ], 3);
-    this.ᐃᐃᐃ[_r.ᐃᐃᐃᐃⲆ].id = _r.ᐃᐃᐃᐃⲆ;
-    this.ᐃᐃᐃ[_r.ⲆⲆΔᐃᐃ] = _v(60, 60, 0, ΔΔ[Xr.ⵠⲆΔⵠⲆⲆᐃ], Tr);
-    this.ᐃᐃᐃ[_r.ⲆⲆΔᐃᐃ].id = _r.ⲆⲆΔᐃᐃ;
-    this.ᐃᐃᐃ[_r.ⲆᐃΔᐃⵠ] = _v(60, 60, 0, ΔΔ[Xr.ᐃⵠⲆΔᐃᐃⵠ], 3);
-    this.ᐃᐃᐃ[_r.ⲆᐃΔᐃⵠ].id = _r.ⲆᐃΔᐃⵠ;
-    this.ᐃᐃᐃ[_r.ⲆᐃᐃΔᐃ] = _v(60, 60, 0, ΔΔ[Xr.ⲆⵠΔΔⵠⵠΔ], Tr);
-    this.ᐃᐃᐃ[_r.ⲆᐃᐃΔᐃ].id = _r.ⲆᐃᐃΔᐃ;
-    this.ᐃᐃᐃ[_r.ⵠᐃᐃΔᐃ] = _v(60, 60, 0, ΔΔ[Xr.ⲆᐃⵠⲆΔⵠⲆ], 3);
-    this.ᐃᐃᐃ[_r.ⵠᐃᐃΔᐃ].id = _r.ⵠᐃᐃΔᐃ;
-    this.ᐃᐃᐃ[_r.ⲆⵠΔᐃⲆ] = _v(60, 60, 0, ΔΔ[Xr.ΔΔΔΔⲆᐃⵠ], 3);
-    this.ᐃᐃᐃ[_r.ⲆⵠΔᐃⲆ].id = _r.ⲆⵠΔᐃⲆ;
-    this.ᐃᐃᐃ[_r.ⵠⲆⵠΔᐃ] = _v(60, 60, 0, ΔΔ[Xr.ᐃΔᐃⵠⵠΔⲆ], qu);
-    this.ᐃᐃᐃ[_r.ⵠⲆⵠΔᐃ].id = _r.ⵠⲆⵠΔᐃ;
-    this.ᐃᐃᐃ[_r.ⵠᐃΔΔᐃ] = _v(60, 60, 0, ΔΔ[Xr.ⵠⲆⲆᐃⵠⵠⵠ], Js);
-    this.ᐃᐃᐃ[_r.ⵠᐃΔΔᐃ].id = _r.ⵠᐃΔΔᐃ;
-    this.ᐃᐃᐃ[_r.ⵠⵠΔᐃᐃ] = _v(60, 60, 0, ΔΔ[Xr.ΔΔⵠΔⲆⲆΔ], 3);
-    this.ᐃᐃᐃ[_r.ⵠⵠΔᐃᐃ].id = _r.ⵠⵠΔᐃᐃ;
-    this.ᐃᐃᐃ[_r.ΔΔΔⲆΔ] = _v(60, 60, 0, ΔΔ[Xr.ⲆⲆΔⲆⵠⲆΔ], 3);
-    this.ᐃᐃᐃ[_r.ΔΔΔⲆΔ].id = _r.ΔΔΔⲆΔ;
-    this.ᐃᐃᐃ[_r.ΔᐃⲆⵠⲆ] = _v(60, 60, 0, ΔΔ[Xr.ⵠᐃΔΔⲆⲆⵠ], ea);
-    this.ᐃᐃᐃ[_r.ΔᐃⲆⵠⲆ].id = _r.ΔᐃⲆⵠⲆ;
-    this.ᐃᐃᐃ[_r.ⲆΔⵠΔΔ] = _v(60, 60, 0, ΔΔ[Xr.ⵠᐃΔΔΔᐃⵠ], 3);
-    this.ᐃᐃᐃ[_r.ⲆΔⵠΔΔ].id = _r.ⲆΔⵠΔΔ;
-    this.ᐃᐃᐃ[_r.ⲆΔᐃΔⵠ] = _v(60, 60, 0, ΔΔ[Xr.ΔΔⲆⵠΔⵠⵠ], 3);
-    this.ᐃᐃᐃ[_r.ⲆΔᐃΔⵠ].id = _r.ⲆΔᐃΔⵠ;
-    this.ᐃᐃᐃ[_r.ᐃᐃΔᐃΔ] = _v(60, 60, 0, ΔΔ[Xr.ⲆᐃΔⵠΔΔⲆ], 3);
-    this.ᐃᐃᐃ[_r.ᐃᐃΔᐃΔ].id = _r.ᐃᐃΔᐃΔ;
-    this.ᐃᐃᐃ[_r.ᐃΔᐃΔⲆ] = _v(60, 60, 0, ΔΔ[Xr.ⵠⲆᐃᐃΔΔⵠ], 3);
-    this.ᐃᐃᐃ[_r.ᐃΔᐃΔⲆ].id = _r.ᐃΔᐃΔⲆ;
-    this.ᐃᐃᐃ[_r.ᐃᐃⲆᐃᐃ] = _v(60, 60, 0, ΔΔ[Xr.ΔᐃⲆⵠᐃⲆⲆ], 3);
-    this.ᐃᐃᐃ[_r.ᐃᐃⲆᐃᐃ].id = _r.ᐃᐃⲆᐃᐃ;
-    this.ᐃᐃᐃ[_r.ⲆΔⲆᐃⲆ] = _v(60, 60, 0, ΔΔ[Xr.ᐃΔᐃᐃΔⲆⲆ], xb);
-    this.ᐃᐃᐃ[_r.ⲆΔⲆᐃⲆ].id = _r.ⲆΔⲆᐃⲆ;
-    this.ᐃᐃᐃ[_r.ᐃᐃΔᐃⲆ] = _v(60, 60, 0, ΔΔ[Xr.ⲆⲆⲆⵠᐃᐃᐃ], 3);
-    this.ᐃᐃᐃ[_r.ᐃᐃΔᐃⲆ].id = _r.ᐃᐃΔᐃⲆ;
-    this.ᐃᐃᐃ[_r.Δᐃᐃⵠⵠ] = _v(60, 60, 0, ΔΔ[Xr.ΔᐃⲆᐃᐃΔᐃ], ll);
-    this.ᐃᐃᐃ[_r.Δᐃᐃⵠⵠ].id = _r.Δᐃᐃⵠⵠ;
-    this.ᐃᐃᐃ[_r.ΔΔⲆⵠⲆ] = _v(60, 60, 0, ΔΔ[Xr.ΔᐃⵠΔᐃⲆΔ], ll);
-    this.ᐃᐃᐃ[_r.ΔΔⲆⵠⲆ].id = _r.ΔΔⲆⵠⲆ;
-    this.ᐃᐃᐃ[_r.ΔⲆΔΔΔ] = _v(60, 60, 0, ΔΔ[Xr.ⲆⵠΔΔΔΔᐃ], qu);
-    this.ᐃᐃᐃ[_r.ΔⲆΔΔΔ].id = _r.ΔⲆΔΔΔ;
-    this.ᐃᐃᐃ[_r.ⵠΔΔᐃᐃ] = _v(60, 60, 0, ΔΔ[Xr.ᐃⵠⲆⲆⲆᐃⵠ], Hk);
-    this.ᐃᐃᐃ[_r.ⵠΔΔᐃᐃ].id = _r.ⵠΔΔᐃᐃ;
-    this.ᐃᐃᐃ[_r.ⲆⵠΔⵠⵠ] = _v(60, 60, 0, ΔΔ[Xr.ⲆΔΔⲆⵠⲆⲆ], 3);
-    this.ᐃᐃᐃ[_r.ⲆⵠΔⵠⵠ].id = _r.ⲆⵠΔⵠⵠ;
-    this.ᐃᐃᐃ[_r.ᐃΔⵠᐃⵠ] = _v(60, 60, 0, ΔΔ[Xr.ⵠⵠⲆⵠⵠᐃⵠ], 3);
-    this.ᐃᐃᐃ[_r.ᐃΔⵠᐃⵠ].id = _r.ᐃΔⵠᐃⵠ;
-    this.ᐃᐃᐃ[_r.ΔᐃⵠⵠΔ] = _v(60, 60, 0, ΔΔ[Xr.ⲆⵠⵠⲆΔⵠᐃ], 3);
-    this.ᐃᐃᐃ[_r.ΔᐃⵠⵠΔ].id = _r.ΔᐃⵠⵠΔ;
-    this.ᐃᐃᐃ[_r.ⲆⵠΔⲆⲆ] = _v(60, 60, 0, ΔΔ[Xr.ⵠΔᐃᐃⲆᐃᐃ], 3);
-    this.ᐃᐃᐃ[_r.ⲆⵠΔⲆⲆ].id = _r.ⲆⵠΔⲆⲆ;
-    this.ᐃᐃᐃ[_r.Δⵠᐃᐃᐃ] = _v(60, 60, 0, ΔΔ[Xr.ᐃᐃᐃⲆᐃᐃⲆ], 3);
-    this.ᐃᐃᐃ[_r.Δⵠᐃᐃᐃ].id = _r.Δⵠᐃᐃᐃ;
-    this.ᐃᐃᐃ[_r.ⵠΔⲆΔⲆ] = _v(60, 60, 0, ΔΔ[Xr.ⲆᐃΔⲆᐃᐃⵠ], fn);
-    this.ᐃᐃᐃ[_r.ⵠΔⲆΔⲆ].id = _r.ⵠΔⲆΔⲆ;
-    this.ᐃᐃᐃ[_r.ΔⵠΔⵠⵠ] = _v(60, 60, 0, ΔΔ[Xr.ᐃᐃᐃⵠⲆⲆᐃ], 3);
-    this.ᐃᐃᐃ[_r.ΔⵠΔⵠⵠ].id = _r.ΔⵠΔⵠⵠ;
-    this.ᐃᐃᐃ[_r.ΔᐃⲆᐃᐃ] = _v(60, 60, 0, ΔΔ[Xr.ΔⲆΔᐃΔⲆΔ], 3);
-    this.ᐃᐃᐃ[_r.ΔᐃⲆᐃᐃ].id = _r.ΔᐃⲆᐃᐃ;
-    this.ᐃᐃᐃ[_r.ᐃⲆΔⲆⵠ] = _v(60, 60, 0, ΔΔ[Xr.ᐃΔⵠⲆⲆⵠⲆ], ea);
-    this.ᐃᐃᐃ[_r.ᐃⲆΔⲆⵠ].id = _r.ᐃⲆΔⲆⵠ;
-    this.ᐃᐃᐃ[_r.ⲆᐃᐃⲆᐃ] = _v(60, 60, 0, ΔΔ[Xr.ⲆⵠⵠᐃᐃⲆⲆ], 3);
-    this.ᐃᐃᐃ[_r.ⲆᐃᐃⲆᐃ].id = _r.ⲆᐃᐃⲆᐃ;
-    this.ᐃᐃᐃ[_r.ⲆⲆⲆⵠⵠ] = _v(60, 60, 0, ΔΔ[Xr.ΔⲆⵠᐃᐃⲆΔ], 3);
-    this.ᐃᐃᐃ[_r.ⲆⲆⲆⵠⵠ].id = _r.ⲆⲆⲆⵠⵠ;
-    this.ᐃᐃᐃ[_r.ΔΔⲆᐃᐃ] = _v(60, 60, 0, ΔΔ[Xr.ΔⵠΔⵠΔΔⲆ], eg);
-    this.ᐃᐃᐃ[_r.ΔΔⲆᐃᐃ].id = _r.ΔΔⲆᐃᐃ;
-    this.ᐃᐃᐃ[_r.ⲆⲆⲆᐃΔ] = _v(60, 60, 0, ΔΔ[Xr.ⵠᐃⲆⵠΔⵠⵠ], Tt);
-    this.ᐃᐃᐃ[_r.ⲆⲆⲆᐃΔ].id = _r.ⲆⲆⲆᐃΔ;
-    this.ᐃᐃᐃ[_r.ᐃᐃⲆⵠⵠ] = _v(60, 60, 0, ΔΔ[Xr.ᐃⲆᐃΔⵠⵠⵠ], 3);
-    this.ᐃᐃᐃ[_r.ᐃᐃⲆⵠⵠ].id = _r.ᐃᐃⲆⵠⵠ;
-    this.ᐃᐃᐃ[_r.Δᐃᐃⵠᐃ] = _v(60, 60, 0, ΔΔ[Xr.ΔⲆⵠⵠⲆⲆΔ], 3);
-    this.ᐃᐃᐃ[_r.Δᐃᐃⵠᐃ].id = _r.Δᐃᐃⵠᐃ;
-    this.ᐃᐃᐃ[_r.ΔᐃΔⲆⲆ] = _v(60, 60, 0, ΔΔ[Xr.ᐃΔⲆΔᐃᐃⲆ], Hk);
-    this.ᐃᐃᐃ[_r.ΔᐃΔⲆⲆ].id = _r.ΔᐃΔⲆⲆ;
-    this.ᐃᐃᐃ[_r.ᐃⲆⲆⵠᐃ] = _v(60, 60, 0, ΔΔ[Xr.ΔⲆⵠΔᐃⲆⲆ], 3);
-    this.ᐃᐃᐃ[_r.ᐃⲆⲆⵠᐃ].id = _r.ᐃⲆⲆⵠᐃ;
-    this.ᐃᐃᐃ[_r.ᐃⵠΔΔⲆ] = _v(60, 60, 0, ΔΔ[Xr.ⲆᐃΔⵠⵠⵠΔ], 3);
-    this.ᐃᐃᐃ[_r.ᐃⵠΔΔⲆ].id = _r.ᐃⵠΔΔⲆ;
-    this.ᐃᐃᐃ[_r.ⵠΔΔΔⲆ] = _v(60, 60, 0, ΔΔ[Xr.ⵠΔⲆᐃⵠᐃΔ], 3);
-    this.ᐃᐃᐃ[_r.ⵠΔΔΔⲆ].id = _r.ⵠΔΔΔⲆ;
-    this.ᐃᐃᐃ[_r.ⵠΔΔΔⲆ].info.ⵠⵠ[2] = this.ᐃᐃᐃ[_r.ⵠΔΔΔⲆ].info.ⵠⵠ[Hi];
-    this.ᐃᐃᐃ[_r.ⵠⲆᐃᐃ] = _v(60, 60, 0, ΔΔ[Xr.ⲆᐃⵠⵠⵠⵠΔ], 3);
-    this.ᐃᐃᐃ[_r.ⵠⲆᐃᐃ].id = _r.ⵠⲆᐃᐃ;
-    this.ᐃᐃᐃ[_r.Ⲇⵠⵠⵠ] = _v(60, 60, 0, ΔΔ[Xr.ⵠⲆΔᐃΔᐃⲆ], 3);
-    this.ᐃᐃᐃ[_r.Ⲇⵠⵠⵠ].id = _r.Ⲇⵠⵠⵠ;
-    this.ᐃᐃᐃ[_r.Ⲇⵠⵠⵠ].info.ⵠⵠ[2] = this.ᐃᐃᐃ[_r.Ⲇⵠⵠⵠ].info.ⵠⵠ[0];
-    this.ᐃᐃᐃ[_r.ΔⲆᐃⵠΔ] = _v(60, 60, 0, ΔΔ[Xr.ⵠᐃⵠⲆΔᐃΔ], Wb);
-    this.ᐃᐃᐃ[_r.ΔⲆᐃⵠΔ].id = _r.ΔⲆᐃⵠΔ;
-    this.ᐃᐃᐃ[_r.ⵠΔᐃᐃⵠ] = _v(60, 60, 0, ΔΔ[Xr.ΔᐃⵠΔΔⵠⲆ], 3);
-    this.ᐃᐃᐃ[_r.ⵠΔᐃᐃⵠ].id = _r.ⵠΔᐃᐃⵠ;
-    this.ᐃᐃᐃ[_r.ΔⲆⲆⵠⲆ] = _v(60, 60, 0, ΔΔ[Xr.ΔⲆᐃⲆΔᐃⲆ], 3);
-    this.ᐃᐃᐃ[_r.ΔⲆⲆⵠⲆ].id = _r.ΔⲆⲆⵠⲆ;
-    this.ᐃᐃᐃ[_r.ⲆⵠΔⵠΔ] = _v(60, 60, 0, ΔΔ[Xr.ⵠΔΔᐃᐃΔᐃ], Js);
-    this.ᐃᐃᐃ[_r.ⲆⵠΔⵠΔ].id = _r.ⲆⵠΔⵠΔ;
-    this.ᐃᐃᐃ[_r.ᐃΔⵠⲆᐃ] = _v(60, 60, 0, ΔΔ[Xr.ⵠΔⵠⲆᐃⲆᐃ], ea);
-    this.ᐃᐃᐃ[_r.ᐃΔⵠⲆᐃ].id = _r.ᐃΔⵠⲆᐃ;
-    this.ᐃᐃᐃ[_r.ⲆᐃΔⲆΔ] = _v(60, 60, 0, ΔΔ[Xr.ΔᐃᐃᐃΔⵠΔ], 3);
-    this.ᐃᐃᐃ[_r.ⲆᐃΔⲆΔ].id = _r.ⲆᐃΔⲆΔ;
-    this.ᐃᐃᐃ[_r.ⲆⲆⵠⲆⲆ] = _v(60, 60, 0, ΔΔ[Xr.ΔᐃⵠⵠΔⲆΔ], 3);
-    this.ᐃᐃᐃ[_r.ⲆⲆⵠⲆⲆ].id = _r.ⲆⲆⵠⲆⲆ;
-    this.ᐃᐃᐃ[_r.ⵠΔΔΔⵠ] = _v(60, 60, 0, ΔΔ[Xr.ᐃⲆⲆⵠᐃᐃⲆ], 3);
-    this.ᐃᐃᐃ[_r.ⵠΔΔΔⵠ].id = _r.ⵠΔΔΔⵠ;
-    this.ᐃᐃᐃ[_r.ᐃⵠⵠⵠᐃ] = _v(60, 60, 0, ΔΔ[Xr.ⲆᐃⵠⵠΔⵠΔ], 3);
-    this.ᐃᐃᐃ[_r.ᐃⵠⵠⵠᐃ].id = _r.ᐃⵠⵠⵠᐃ;
-    this.ᐃᐃᐃ[_r.ᐃⵠⲆⵠΔ] = _v(60, 60, 0, ΔΔ[Xr.ᐃΔΔⲆᐃᐃⵠ], 3);
-    this.ᐃᐃᐃ[_r.ᐃⵠⲆⵠΔ].id = _r.ᐃⵠⲆⵠΔ;
-    this.ᐃᐃᐃ[_r.ᐃΔⵠⵠΔ] = _v(60, 60, 0, ΔΔ[Xr.ΔᐃⲆⲆⵠᐃⲆ], 3);
-    this.ᐃᐃᐃ[_r.ᐃΔⵠⵠΔ].id = _r.ᐃΔⵠⵠΔ;
-    this.ᐃᐃᐃ[_r.ᐃⲆⵠᐃᐃ] = _v(60, 60, 0, ΔΔ[Xr.ⲆᐃⵠᐃᐃⲆᐃ], 3);
-    this.ᐃᐃᐃ[_r.ᐃⲆⵠᐃᐃ].id = _r.ᐃⲆⵠᐃᐃ;
-    this.ᐃᐃᐃ[_r.Δⵠᐃⵠᐃ] = _v(60, 60, 0, ΔΔ[Xr.ΔⵠΔΔΔᐃⲆ], qo);
-    this.ᐃᐃᐃ[_r.Δⵠᐃⵠᐃ].id = _r.Δⵠᐃⵠᐃ;
-    this.ᐃᐃᐃ[_r.ᐃⲆⲆΔΔ] = _v(60, 60, 0, ΔΔ[Xr.ᐃⵠⲆᐃΔᐃΔ], sl);
-    this.ᐃᐃᐃ[_r.ᐃⲆⲆΔΔ].id = _r.ᐃⲆⲆΔΔ;
-    this.ᐃᐃᐃ[_r.ⲆΔΔᐃᐃ] = _v(60, 60, 0, ΔΔ[Xr.ⵠᐃΔΔⵠⲆᐃ], qu);
-    this.ᐃᐃᐃ[_r.ⲆΔΔᐃᐃ].id = _r.ⲆΔΔᐃᐃ;
-    this.ᐃᐃᐃ[_r.ⲆΔΔᐃᐃ].info.ⵠⵠ[2] = this.ᐃᐃᐃ[_r.ⲆΔΔᐃᐃ].info.ⵠⵠ[0];
-    this.ᐃᐃᐃ[_r.ᐃⲆΔⲆⲆ] = _v(60, 60, 0, ΔΔ[Xr.ⲆΔᐃⲆΔΔᐃ], fn);
-    this.ᐃᐃᐃ[_r.ᐃⲆΔⲆⲆ].id = _r.ᐃⲆΔⲆⲆ;
-    this.ᐃᐃᐃ[_r.ᐃⲆΔⲆⲆ].info.ⵠⵠ[2] = this.ᐃᐃᐃ[_r.ᐃⲆΔⲆⲆ].info.ⵠⵠ[Mg];
-    this.ᐃᐃᐃ[_r.ⲆⲆⲆᐃⵠ] = _v(60, 60, 0, ΔΔ[Xr.ⲆⲆᐃⲆᐃΔᐃ], qu);
-    this.ᐃᐃᐃ[_r.ⲆⲆⲆᐃⵠ].id = _r.ⲆⲆⲆᐃⵠ;
-    this.ᐃᐃᐃ[_r.ⲆⲆⲆᐃⵠ].info.ⵠⵠ[2] = this.ᐃᐃᐃ[_r.ⲆⲆⲆᐃⵠ].info.ⵠⵠ[0];
-    this.ᐃᐃᐃ[_r.ⵠⵠⲆⵠᐃ] = _v(60, 60, 0, ΔΔ[Xr.ΔᐃⲆⵠΔΔⵠ], 3);
-    this.ᐃᐃᐃ[_r.ⵠⵠⲆⵠᐃ].id = _r.ⵠⵠⲆⵠᐃ;
-    this.ᐃᐃᐃ[_r.ⵠⵠⲆⵠᐃ].info.ⵠⵠ[Rl] = this.ᐃᐃᐃ[_r.ⵠⵠⲆⵠᐃ].info.ⵠⵠ[0];
-    this.ᐃᐃᐃ[_r.ⵠⵠⲆⵠⲆ] = _v(60, 60, 0, ΔΔ[Xr.ᐃᐃᐃⲆᐃⲆⲆ], 3);
-    this.ᐃᐃᐃ[_r.ⵠⵠⲆⵠⲆ].id = _r.ⵠⵠⲆⵠⲆ;
-    this.ᐃᐃᐃ[_r.ᐃⲆᐃⵠΔ] = _v(60, 60, 0, ΔΔ[Xr.ΔΔΔΔⵠⲆⲆ], qo);
-    this.ᐃᐃᐃ[_r.ᐃⲆᐃⵠΔ].id = _r.ᐃⲆᐃⵠΔ;
-    this.ᐃᐃᐃ[_r.ⲆⲆⵠⵠᐃ] = _v(60, 60, 0, ΔΔ[Xr.ⵠⵠⵠΔⵠⲆⲆ], 3);
-    this.ᐃᐃᐃ[_r.ⲆⲆⵠⵠᐃ].id = _r.ⲆⲆⵠⵠᐃ;
-    this.ᐃᐃᐃ[_r.ᐃⵠᐃⲆⵠ] = _v(60, 60, 0, ΔΔ[Xr.ⵠⲆΔΔⵠᐃΔ], 3);
-    this.ᐃᐃᐃ[_r.ᐃⵠᐃⲆⵠ].id = _r.ᐃⵠᐃⲆⵠ;
-    this.ᐃᐃᐃ[_r.ⲆⵠᐃᐃΔ] = _v(60, 60, 0, ΔΔ[Xr.ᐃΔΔᐃΔΔΔ], Js);
-    this.ᐃᐃᐃ[_r.ⲆⵠᐃᐃΔ].id = _r.ⲆⵠᐃᐃΔ;
-    this.ᐃᐃᐃ[_r.ⵠⲆⲆⵠⵠ] = _v(60, 60, 0, ΔΔ[Xr.ⵠⲆⵠᐃΔⲆΔ], nq);
-    this.ᐃᐃᐃ[_r.ⵠⲆⲆⵠⵠ].id = _r.ⵠⲆⲆⵠⵠ;
-    this.ᐃᐃᐃ[_r.ⵠⵠᐃᐃⲆ] = _v(60, 60, 0, ΔΔ[Xr.ᐃⲆⲆΔᐃΔⵠ], 3);
-    this.ᐃᐃᐃ[_r.ⵠⵠᐃᐃⲆ].id = _r.ⵠⵠᐃᐃⲆ;
-    this.ᐃᐃᐃ[_r.ⲆᐃⲆᐃⵠ] = _v(60, 60, 0, ΔΔ[Xr.ⵠⵠⵠᐃᐃΔⲆ], 3);
-    this.ᐃᐃᐃ[_r.ⲆᐃⲆᐃⵠ].id = _r.ⲆᐃⲆᐃⵠ;
-    this.ᐃᐃᐃ[_r.ⵠᐃⵠᐃⵠ] = _v(60, 60, 0, ΔΔ[Xr.ⲆⲆᐃⵠᐃΔⲆ], 3);
-    this.ᐃᐃᐃ[_r.ⵠᐃⵠᐃⵠ].id = _r.ⵠᐃⵠᐃⵠ;
-    this.ᐃᐃᐃ[_r.ⵠⵠⲆΔⲆ] = _v(60, 60, 0, ΔΔ[Xr.ΔⲆᐃⲆⲆⲆⲆ], Tr);
-    this.ᐃᐃᐃ[_r.ⵠⵠⲆΔⲆ].id = _r.ⵠⵠⲆΔⲆ;
-    this.ᐃᐃᐃ[_r.ⵠᐃᐃⲆᐃ] = _v(60, 60, 0, ΔΔ[Xr.ΔΔᐃΔⲆΔⵠ], 3);
-    this.ᐃᐃᐃ[_r.ⵠᐃᐃⲆᐃ].id = _r.ⵠᐃᐃⲆᐃ;
-    this.ᐃᐃᐃ[_r.ΔⵠΔΔⵠ] = _v(60, 60, 0, ΔΔ[Xr.ⵠⲆⵠΔΔΔⲆ], 3);
-    this.ᐃᐃᐃ[_r.ΔⵠΔΔⵠ].id = _r.ΔⵠΔΔⵠ;
-    this.ᐃᐃᐃ[_r.ᐃⵠⲆⵠⲆ] = _v(60, 60, 0, ΔΔ[Xr.ⲆⵠΔⵠⵠⵠⵠ], qu);
-    this.ᐃᐃᐃ[_r.ᐃⵠⲆⵠⲆ].id = _r.ᐃⵠⲆⵠⲆ;
-    this.ᐃᐃᐃ[_r.ⵠⲆᐃⲆΔ] = _v(60, 60, 0, ΔΔ[Xr.ⵠⵠⵠᐃⵠᐃΔ], qo);
-    this.ᐃᐃᐃ[_r.ⵠⲆᐃⲆΔ].id = _r.ⵠⲆᐃⲆΔ;
-    this.ᐃᐃᐃ[_r.ᐃⵠⵠᐃⵠ] = _v(60, 60, 0, ΔΔ[Xr.ⲆⵠⲆⲆᐃⲆᐃ], 3);
-    this.ᐃᐃᐃ[_r.ᐃⵠⵠᐃⵠ].id = _r.ᐃⵠⵠᐃⵠ;
-    this.ᐃᐃᐃ[_r.ⲆⵠΔᐃⵠ] = _v(60, 60, 0, ΔΔ[Xr.ΔΔᐃⲆᐃⵠⲆ], qo);
-    this.ᐃᐃᐃ[_r.ⲆⵠΔᐃⵠ].id = _r.ⲆⵠΔᐃⵠ;
-    this.ᐃᐃᐃ[_r.ΔΔⵠⲆⲆ] = _v(60, 60, 0, ΔΔ[Xr.ⵠᐃⲆⵠⵠΔⵠ], eg);
-    this.ᐃᐃᐃ[_r.ΔΔⵠⲆⲆ].id = _r.ΔΔⵠⲆⲆ;
-    this.ᐃᐃᐃ[_r.ⲆⲆΔⵠⲆ] = _v(60, 60, 0, ΔΔ[Xr.ᐃⵠⵠᐃᐃⵠⲆ], Wb);
-    this.ᐃᐃᐃ[_r.ⲆⲆΔⵠⲆ].id = _r.ⲆⲆΔⵠⲆ;
-    this.ᐃᐃᐃ[_r.ⵠᐃⲆⲆΔ] = _v(60, 60, 0, ΔΔ[Xr.ᐃⲆⲆᐃⲆΔⵠ], eg);
-    this.ᐃᐃᐃ[_r.ⵠᐃⲆⲆΔ].id = _r.ⵠᐃⲆⲆΔ;
-    this.ᐃᐃᐃ[_r.ⲆⲆΔⲆᐃ] = _v(60, 60, 0, ΔΔ[Xr.ⵠᐃⲆⲆΔΔᐃ], ea);
-    this.ᐃᐃᐃ[_r.ⲆⲆΔⲆᐃ].id = _r.ⲆⲆΔⲆᐃ;
-    this.ᐃᐃᐃ[_r.ⲆⲆΔⲆᐃ].info.ⵠⵠ[2] = this.ᐃᐃᐃ[_r.ⲆⲆΔⲆᐃ].info.ⵠⵠ[Zj];
-    this.ᐃᐃᐃ[_r.ΔᐃᐃⵠΔ] = _v(60, 60, 0, ΔΔ[Xr.ΔⵠᐃΔⲆᐃⵠ], ub);
-    this.ᐃᐃᐃ[_r.ΔᐃᐃⵠΔ].id = _r.ΔᐃᐃⵠΔ;
-    this.ᐃᐃᐃ[_r.ᐃⲆⵠΔᐃ] = _v(60, 60, 0, ΔΔ[Xr.ΔⲆⵠⵠᐃᐃⲆ], Hk);
-    this.ᐃᐃᐃ[_r.ᐃⲆⵠΔᐃ].id = _r.ᐃⲆⵠΔᐃ;
-    this.ᐃᐃᐃ[_r.ᐃΔΔΔΔ] = _v(60, 60, 0, ΔΔ[Xr.ᐃΔΔⵠΔᐃⲆ], 3);
-    this.ᐃᐃᐃ[_r.ᐃΔΔΔΔ].id = _r.ᐃΔΔΔΔ;
-    this.ᐃᐃᐃ[_r.ⲆΔΔⵠⵠ] = _v(60, 60, 0, ΔΔ[Xr.ⲆΔΔᐃᐃᐃⵠ], eg);
-    this.ᐃᐃᐃ[_r.ⲆΔΔⵠⵠ].id = _r.ⲆΔΔⵠⵠ;
-    this.ᐃᐃᐃ[_r.ⵠᐃⵠᐃΔ] = _v(60, 60, 0, ΔΔ[Xr.ⲆΔⵠΔⵠⲆⲆ], Js);
-    this.ᐃᐃᐃ[_r.ⵠᐃⵠᐃΔ].id = _r.ⵠᐃⵠᐃΔ;
-    this.ᐃᐃᐃ[_r.ⵠᐃⲆⲆⵠ] = _v(60, 60, 0, ΔΔ[Xr.ⲆΔⵠⲆΔΔⵠ], 3);
-    this.ᐃᐃᐃ[_r.ⵠᐃⲆⲆⵠ].id = _r.ⵠᐃⲆⲆⵠ;
-    this.ᐃᐃᐃ[_r.ᐃⵠᐃΔⵠ] = _v(60, 60, 0, ΔΔ[Xr.ⲆΔᐃⵠΔᐃᐃ], 3);
-    this.ᐃᐃᐃ[_r.ᐃⵠᐃΔⵠ].id = _r.ᐃⵠᐃΔⵠ;
-    this.ᐃᐃᐃ[_r.ΔᐃΔⲆᐃ] = _v(60, 60, 0, ΔΔ[Xr.ΔᐃᐃⲆΔΔᐃ], xb);
-    this.ᐃᐃᐃ[_r.ΔᐃΔⲆᐃ].id = _r.ΔᐃΔⲆᐃ;
-    this.ᐃᐃᐃ[_r.ΔᐃΔⲆᐃ].info.ⵠⵠ[2] = this.ᐃᐃᐃ[_r.ΔᐃΔⲆᐃ].info.ⵠⵠ[0];
-    this.ᐃᐃᐃ[_r.ⲆΔᐃΔⲆ] = _v(60, 60, 0, ΔΔ[Xr.ⲆᐃΔᐃᐃᐃⵠ], Hk);
-    this.ᐃᐃᐃ[_r.ⲆΔᐃΔⲆ].id = _r.ⲆΔᐃΔⲆ;
-    this.ᐃᐃᐃ[_r.ᐃⵠᐃⵠᐃ] = _v(60, 60, 0, ΔΔ[Xr.ΔⲆⵠᐃⵠᐃᐃ], ci);
-    this.ᐃᐃᐃ[_r.ᐃⵠᐃⵠᐃ].id = _r.ᐃⵠᐃⵠᐃ;
-    this.ᐃᐃᐃ[_r.ᐃⵠᐃⵠᐃ].info.ⵠⵠ[Pn] = this.ᐃᐃᐃ[_r.ᐃⵠᐃⵠᐃ].info.ⵠⵠ[0];
-    this.ᐃᐃᐃ[_r.ⲆΔᐃΔΔ] = _v(60, 60, 0, ΔΔ[Xr.ⵠⲆⵠⲆΔⲆⲆ], 3);
-    this.ᐃᐃᐃ[_r.ⲆΔᐃΔΔ].id = _r.ⲆΔᐃΔΔ;
-    this.ᐃᐃᐃ[_r.ⲆᐃᐃⵠΔ] = _v(60, 60, 0, ΔΔ[Xr.ΔⲆΔⲆᐃᐃⵠ], 3);
-    this.ᐃᐃᐃ[_r.ⲆᐃᐃⵠΔ].id = _r.ⲆᐃᐃⵠΔ;
-    this.ᐃᐃᐃ[_r.ⲆΔΔᐃⵠ] = _v(60, 60, 0, ΔΔ[Xr.ΔΔΔΔᐃⲆⲆ], 3);
-    this.ᐃᐃᐃ[_r.ⲆΔΔᐃⵠ].id = _r.ⲆΔΔᐃⵠ;
-    this.ᐃᐃᐃ[_r.ⲆΔΔᐃⵠ].info.ⵠⵠ[Pn] = this.ᐃᐃᐃ[_r.ⲆΔΔᐃⵠ].info.ⵠⵠ[0];
-    this.ᐃᐃᐃ[_r.ⵠΔⲆⲆΔ] = _v(60, 60, 0, ΔΔ[Xr.ⵠᐃΔΔᐃⲆⲆ], qu);
-    this.ᐃᐃᐃ[_r.ⵠΔⲆⲆΔ].id = _r.ⵠΔⲆⲆΔ;
-    this.ᐃᐃᐃ[_r.ᐃⵠⵠⲆΔ] = _v(60, 60, 0, ΔΔ[Xr.ⵠΔΔⵠΔⲆⲆ], Wb);
-    this.ᐃᐃᐃ[_r.ᐃⵠⵠⲆΔ].id = _r.ᐃⵠⵠⲆΔ;
-    this.ᐃᐃᐃ[_r.ᐃⲆⵠⲆⲆ] = _v(60, 60, 0, ΔΔ[Xr.ⲆΔᐃⲆΔᐃΔ], 3);
-    this.ᐃᐃᐃ[_r.ᐃⲆⵠⲆⲆ].id = _r.ᐃⲆⵠⲆⲆ;
-    this.ᐃᐃᐃ[_r.ᐃᐃΔⵠΔ] = _v(60, 60, 0, ΔΔ[Xr.ⵠⵠᐃΔⲆⲆⵠ], Wb);
-    this.ᐃᐃᐃ[_r.ᐃᐃΔⵠΔ].id = _r.ᐃᐃΔⵠΔ;
-    this.ᐃᐃᐃ[_r.ⵠᐃⲆⲆᐃ] = _v(60, 60, 0, ΔΔ[Xr.ⲆᐃΔⵠⵠᐃⵠ], 3);
-    this.ᐃᐃᐃ[_r.ⵠᐃⲆⲆᐃ].id = _r.ⵠᐃⲆⲆᐃ;
-    this.ᐃᐃᐃ[_r.ⲆⵠΔⲆΔ] = _v(60, 60, 0, ΔΔ[Xr.ⲆᐃᐃΔᐃᐃⲆ], 3);
-    this.ᐃᐃᐃ[_r.ⲆⵠΔⲆΔ].id = _r.ⲆⵠΔⲆΔ;
-    this.ᐃᐃᐃ[_r.ΔΔᐃⵠⲆ] = _v(60, 60, 0, ΔΔ[Xr.ⵠΔⲆⲆⵠⵠⵠ], 3);
-    this.ᐃᐃᐃ[_r.ΔΔᐃⵠⲆ].id = _r.ΔΔᐃⵠⲆ;
-    this.ᐃᐃᐃ[_r.ⵠⲆΔⲆᐃ] = _v(60, 60, 0, ΔΔ[Xr.ΔᐃΔΔΔⵠⲆ], 3);
-    this.ᐃᐃᐃ[_r.ⵠⲆΔⲆᐃ].id = _r.ⵠⲆΔⲆᐃ;
-    this.ᐃᐃᐃ[_r.ⵠᐃΔⲆⵠ] = _v(60, 60, 0, ΔΔ[Xr.ⵠⵠΔᐃᐃⵠᐃ], 3);
-    this.ᐃᐃᐃ[_r.ⵠᐃΔⲆⵠ].id = _r.ⵠᐃΔⲆⵠ;
-    this.ᐃᐃᐃ[_r.ⵠᐃΔⲆⵠ].info.ⵠⵠ[2] = this.ᐃᐃᐃ[_r.ⵠᐃΔⲆⵠ].info.ⵠⵠ[Rq];
-    this.ᐃᐃᐃ[_r.ᐃᐃΔΔⵠ] = _v(60, 60, 0, ΔΔ[Xr.ⲆΔⲆΔΔΔⲆ], 3);
-    this.ᐃᐃᐃ[_r.ᐃᐃΔΔⵠ].id = _r.ᐃᐃΔΔⵠ;
-    this.ᐃᐃᐃ[_r.ᐃᐃΔΔⵠ].info.ⵠⵠ[Vh] = this.ᐃᐃᐃ[_r.ᐃᐃΔΔⵠ].info.ⵠⵠ[Ih];
-    this.ᐃᐃᐃ[_r.ΔΔΔⵠⵠ] = _v(60, 60, 0, ΔΔ[Xr.ⲆᐃΔⵠΔΔΔ], 3);
-    this.ᐃᐃᐃ[_r.ΔΔΔⵠⵠ].id = _r.ΔΔΔⵠⵠ;
-    this.ᐃᐃᐃ[_r.ᐃΔΔΔⲆ] = _v(60, 60, 0, ΔΔ[Xr.ΔᐃΔᐃΔΔⵠ], 3);
-    this.ᐃᐃᐃ[_r.ᐃΔΔΔⲆ].id = _r.ᐃΔΔΔⲆ;
-    this.ᐃᐃᐃ[_r.ᐃΔΔΔⲆ].info.ⵠⵠ[2] = this.ᐃᐃᐃ[_r.ᐃΔΔΔⲆ].info.ⵠⵠ[eu];
-    this.ᐃᐃᐃ[_r.Δᐃᐃᐃᐃ] = _v(60, 60, 0, ΔΔ[Xr.ⵠⵠᐃⵠⲆⲆᐃ], I);
-    this.ᐃᐃᐃ[_r.Δᐃᐃᐃᐃ].id = _r.Δᐃᐃᐃᐃ;
-    this.ᐃᐃᐃ[_r.ⲆⲆΔⵠⵠ] = _v(60, 60, 0, ΔΔ[Xr.ⵠⵠⲆⵠⵠⵠⵠ], 3);
-    this.ᐃᐃᐃ[_r.ⲆⲆΔⵠⵠ].id = _r.ⲆⲆΔⵠⵠ;
-    this.ᐃᐃᐃ[_r.ᐃⵠΔᐃΔ] = _v(60, 60, 0, ΔΔ[Xr.ᐃⲆⵠΔΔⵠⵠ], 3);
-    this.ᐃᐃᐃ[_r.ᐃⵠΔᐃΔ].id = _r.ᐃⵠΔᐃΔ;
-    this.ᐃᐃᐃ[_r.ⵠᐃᐃΔⵠ] = _v(60, 60, 0, ΔΔ[Xr.ⵠⲆⵠᐃⵠΔⵠ], ub);
-    this.ᐃᐃᐃ[_r.ⵠᐃᐃΔⵠ].id = _r.ⵠᐃᐃΔⵠ;
-    this.ᐃᐃᐃ[_r.ᐃⲆΔᐃᐃ] = _v(60, 60, 0, ΔΔ[Xr.ᐃᐃᐃΔⵠΔᐃ], sl);
-    this.ᐃᐃᐃ[_r.ᐃⲆΔᐃᐃ].id = _r.ᐃⲆΔᐃᐃ;
-    this.ᐃᐃᐃ[_r.ᐃⲆΔᐃᐃ].info.ⵠⵠ[Vg] = this.ᐃᐃᐃ[_r.ᐃⲆΔᐃᐃ].info.ⵠⵠ[0];
-    this.ᐃᐃᐃ[_r.ⵠᐃΔⵠΔ] = _v(60, 60, 0, ΔΔ[Xr.ᐃᐃⵠᐃⲆΔⲆ], 3);
-    this.ᐃᐃᐃ[_r.ⵠᐃΔⵠΔ].id = _r.ⵠᐃΔⵠΔ;
-    this.ᐃᐃᐃ[_r.ⵠᐃΔⵠΔ].info.ⵠⵠ[2] = this.ᐃᐃᐃ[_r.ⵠᐃΔⵠΔ].info.ⵠⵠ[wg];
-    this.ᐃᐃᐃ[_r.ΔⲆᐃΔⵠ] = _v(60, 60, 0, ΔΔ[Xr.ᐃΔΔᐃⲆᐃⲆ], 3);
-    this.ᐃᐃᐃ[_r.ΔⲆᐃΔⵠ].id = _r.ΔⲆᐃΔⵠ;
-    this.ᐃᐃᐃ[_r.ⲆⲆᐃᐃⲆ] = _v(60, 60, 0, ΔΔ[Xr.ⵠⵠΔⵠᐃᐃⵠ], Hk);
-    this.ᐃᐃᐃ[_r.ⲆⲆᐃᐃⲆ].id = _r.ⲆⲆᐃᐃⲆ;
-    this.ᐃᐃᐃ[_r.ΔⲆᐃᐃⲆ] = _v(60, 60, 0, ΔΔ[Xr.ᐃᐃᐃⲆⲆᐃΔ], yr);
-    this.ᐃᐃᐃ[_r.ΔⲆᐃᐃⲆ].id = _r.ΔⲆᐃᐃⲆ;
-    this.ᐃᐃᐃ[_r.ΔⲆᐃᐃⲆ].info.ⵠⵠ[vg] = this.ᐃᐃᐃ[_r.ΔⲆᐃᐃⲆ].info.ⵠⵠ[Qs];
-    this.ᐃᐃᐃ[_r.ⲆⲆΔⲆΔ] = _v(60, 60, 0, ΔΔ[Xr.ΔⵠᐃᐃⲆᐃⵠ], 3);
-    this.ᐃᐃᐃ[_r.ⲆⲆΔⲆΔ].id = _r.ⲆⲆΔⲆΔ;
-    this.ᐃᐃᐃ[_r.ⲆⲆΔⲆΔ].info.ⵠⵠ[2] = this.ᐃᐃᐃ[_r.ⲆⲆΔⲆΔ].info.ⵠⵠ[0];
-    this.ᐃᐃᐃ[_r.ᐃⲆΔⵠⵠ] = _v(60, 60, 0, ΔΔ[Xr.ⲆΔΔΔΔⵠᐃ], yr);
-    this.ᐃᐃᐃ[_r.ᐃⲆΔⵠⵠ].id = _r.ᐃⲆΔⵠⵠ;
-    this.ᐃᐃᐃ[_r.ΔᐃΔᐃⵠ] = _v(60, 60, 0, ΔΔ[Xr.ᐃⵠⵠⲆΔΔⲆ], 3);
-    this.ᐃᐃᐃ[_r.ΔᐃΔᐃⵠ].id = _r.ΔᐃΔᐃⵠ;
-    this.ᐃᐃᐃ[_r.ΔᐃΔᐃⵠ].info.ⵠⵠ[Hj] = this.ᐃᐃᐃ[_r.ΔᐃΔᐃⵠ].info.ⵠⵠ[wg];
-    this.ᐃᐃᐃ[_r.ⵠⲆⲆΔᐃ] = _v(60, 60, 0, ΔΔ[Xr.ⵠΔᐃⲆᐃΔΔ], Tr);
-    this.ᐃᐃᐃ[_r.ⵠⲆⲆΔᐃ].id = _r.ⵠⲆⲆΔᐃ;
-    this.ᐃᐃᐃ[_r.ⵠⲆⲆΔᐃ].info.ⵠⵠ[2] = this.ᐃᐃᐃ[_r.ⵠⲆⲆΔᐃ].info.ⵠⵠ[st];
-    this.ᐃᐃᐃ[_r.ⵠᐃⵠⵠΔ] = _v(60, 60, 0, ΔΔ[Xr.ⵠⵠΔᐃᐃⲆⵠ], 3);
-    this.ᐃᐃᐃ[_r.ⵠᐃⵠⵠΔ].id = _r.ⵠᐃⵠⵠΔ;
-    this.ᐃᐃᐃ[_r.ΔΔⲆⲆᐃ] = _v(60, 60, 0, ΔΔ[Xr.ⲆⵠⲆⵠⲆⲆᐃ], fn);
-    this.ᐃᐃᐃ[_r.ΔΔⲆⲆᐃ].id = _r.ΔΔⲆⲆᐃ;
-    this.ᐃᐃᐃ[_r.ΔΔⲆⲆᐃ].info.ⵠⵠ[eh] = this.ᐃᐃᐃ[_r.ΔΔⲆⲆᐃ].info.ⵠⵠ[0];
-    this.ᐃᐃᐃ[_r.ⲆⲆᐃᐃΔ] = _v(60, 60, 0, ΔΔ[Xr.ΔᐃⵠᐃⲆⵠⲆ], Wb);
-    this.ᐃᐃᐃ[_r.ⲆⲆᐃᐃΔ].id = _r.ⲆⲆᐃᐃΔ;
-    this.ᐃᐃᐃ[_r.ⲆΔⵠⵠᐃ] = _v(60, 60, 0, ΔΔ[Xr.ᐃᐃΔᐃⲆⵠⲆ], 3);
-    this.ᐃᐃᐃ[_r.ⲆΔⵠⵠᐃ].id = _r.ⲆΔⵠⵠᐃ;
-    this.ᐃᐃᐃ[_r.ΔᐃⲆⵠⵠ] = _v(60, 60, 0, ΔΔ[Xr.ⵠᐃᐃⵠⵠΔⲆ], 3);
-    this.ᐃᐃᐃ[_r.ΔᐃⲆⵠⵠ].id = _r.ΔᐃⲆⵠⵠ;
-    this.ᐃᐃᐃ[_r.ᐃΔΔⲆΔ] = _v(60, 60, 0, ΔΔ[Xr.ⵠΔⵠⵠΔⵠⵠ], 3);
-    this.ᐃᐃᐃ[_r.ᐃΔΔⲆΔ].id = _r.ᐃΔΔⲆΔ;
-    this.ᐃᐃᐃ[_r.ⵠⲆΔᐃᐃ] = _v(60, 60, 0, ΔΔ[Xr.ᐃⵠⲆⲆⵠΔΔ], Tr);
-    this.ᐃᐃᐃ[_r.ⵠⲆΔᐃᐃ].id = _r.ⵠⲆΔᐃᐃ;
-    this.ᐃᐃᐃ[_r.ΔᐃⵠⲆΔ] = _v(60, 60, 0, ΔΔ[Xr.ᐃⲆⲆᐃⲆᐃᐃ], qo);
-    this.ᐃᐃᐃ[_r.ΔᐃⵠⲆΔ].id = _r.ΔᐃⵠⲆΔ;
-    this.ᐃᐃᐃ[_r.ΔΔᐃⲆΔ] = _v(60, 60, 0, ΔΔ[Xr.ΔⵠΔⵠⵠⵠΔ], I);
-    this.ᐃᐃᐃ[_r.ΔΔᐃⲆΔ].id = _r.ΔΔᐃⲆΔ;
-    this.ᐃᐃᐃ[_r.ΔΔᐃΔΔ] = _v(60, 60, 0, ΔΔ[Xr.ΔⵠΔⲆⲆⵠⵠ], nq);
-    this.ᐃᐃᐃ[_r.ΔΔᐃΔΔ].id = _r.ΔΔᐃΔΔ;
-    this.ᐃᐃᐃ[_r.ⲆΔⵠΔᐃ] = _v(60, 60, 0, ΔΔ[Xr.ΔΔΔΔⲆᐃᐃ], 3);
-    this.ᐃᐃᐃ[_r.ⲆΔⵠΔᐃ].id = _r.ⲆΔⵠΔᐃ;
-    this.ᐃᐃᐃ[_r.ⲆⵠⲆⵠⵠ] = _v(60, 60, 0, ΔΔ[Xr.ⲆⵠΔⲆⵠΔΔ], Tr);
-    this.ᐃᐃᐃ[_r.ⲆⵠⲆⵠⵠ].id = _r.ⲆⵠⲆⵠⵠ;
-    this.ᐃᐃᐃ[_r.ⵠΔᐃᐃᐃ] = _v(60, 60, 0, ΔΔ[Xr.ᐃΔᐃⲆΔᐃⲆ], ea);
-    this.ᐃᐃᐃ[_r.ⵠΔᐃᐃᐃ].id = _r.ⵠΔᐃᐃᐃ;
-    this.ᐃᐃᐃ[_r.ᐃⵠᐃᐃⵠ] = _v(60, 60, 0, ΔΔ[Xr.ⵠᐃⲆΔⵠΔΔ], 3);
-    this.ᐃᐃᐃ[_r.ᐃⵠᐃᐃⵠ].id = _r.ᐃⵠᐃᐃⵠ;
-    this.ᐃᐃᐃ[_r.ⵠᐃⵠΔⵠ] = _v(60, 60, 0, ΔΔ[Xr.ⵠⵠⵠⵠΔⲆΔ], ci);
-    this.ᐃᐃᐃ[_r.ⵠᐃⵠΔⵠ].id = _r.ⵠᐃⵠΔⵠ;
-    this.ᐃᐃᐃ[_r.ⲆⲆΔⲆⵠ] = _v(60, 60, 0, ΔΔ[Xr.ⲆⵠⲆⵠⲆᐃΔ], Js);
-    this.ᐃᐃᐃ[_r.ⲆⲆΔⲆⵠ].id = _r.ⲆⲆΔⲆⵠ;
-    this.ᐃᐃᐃ[_r.ⲆᐃΔᐃΔ] = _v(60, 60, 0, ΔΔ[Xr.ᐃⵠᐃᐃⲆⵠΔ], I);
-    this.ᐃᐃᐃ[_r.ⲆᐃΔᐃΔ].id = _r.ⲆᐃΔᐃΔ;
-    this.ᐃᐃᐃ[_r.ⲆᐃⵠΔΔ] = _v(60, 60, 0, ΔΔ[Xr.ⵠⲆⵠⵠᐃᐃΔ], 3);
-    this.ᐃᐃᐃ[_r.ⲆᐃⵠΔΔ].id = _r.ⲆᐃⵠΔΔ;
-    this.ᐃᐃᐃ[_r.ᐃⲆⲆᐃΔ] = _v(60, 60, 0, ΔΔ[Xr.ⵠⵠΔᐃⲆⲆᐃ], ub);
-    this.ᐃᐃᐃ[_r.ᐃⲆⲆᐃΔ].id = _r.ᐃⲆⲆᐃΔ;
-    this.ᐃᐃᐃ[_r.ᐃⲆᐃᐃΔ] = _v(60, 60, 0, ΔΔ[Xr.ⵠⲆⲆⵠⲆⲆⵠ], ea);
-    this.ᐃᐃᐃ[_r.ᐃⲆᐃᐃΔ].id = _r.ᐃⲆᐃᐃΔ;
-    this.ᐃᐃᐃ[_r.ⲆⵠΔᐃᐃ] = _v(60, 60, 0, ΔΔ[Xr.ᐃᐃᐃᐃΔⲆⲆ], Tr);
-    this.ᐃᐃᐃ[_r.ⲆⵠΔᐃᐃ].id = _r.ⲆⵠΔᐃᐃ;
-    this.ᐃᐃᐃ[_r.ⲆᐃΔⵠᐃ] = _v(60, 60, 0, ΔΔ[Xr.ⵠⵠᐃⵠᐃᐃⵠ], 3);
-    this.ᐃᐃᐃ[_r.ⲆᐃΔⵠᐃ].id = _r.ⲆᐃΔⵠᐃ;
-    this.ᐃᐃᐃ[_r.ᐃⵠΔΔΔ] = _v(60, 60, 0, ΔΔ[Xr.ᐃᐃⵠΔΔΔⵠ], 3);
-    this.ᐃᐃᐃ[_r.ᐃⵠΔΔΔ].id = _r.ᐃⵠΔΔΔ;
-    this.ᐃᐃᐃ[_r.ⲆᐃΔΔⵠ] = _v(60, 60, 0, ΔΔ[Xr.ⲆΔᐃΔⵠΔⵠ], 3);
-    this.ᐃᐃᐃ[_r.ⲆᐃΔΔⵠ].id = _r.ⲆᐃΔΔⵠ;
-    this.ᐃᐃᐃ[_r.ⲆΔⲆⵠΔ] = _v(60, 60, 0, ΔΔ[Xr.ΔΔᐃᐃΔⵠΔ], ll);
-    this.ᐃᐃᐃ[_r.ⲆΔⲆⵠΔ].id = _r.ⲆΔⲆⵠΔ;
-    this.ᐃᐃᐃ[_r.ⲆᐃⵠΔⲆ] = _v(60, 60, 0, ΔΔ[Xr.ⵠᐃⲆᐃΔᐃᐃ], fn);
-    this.ᐃᐃᐃ[_r.ⲆᐃⵠΔⲆ].id = _r.ⲆᐃⵠΔⲆ;
-    this.ᐃᐃᐃ[_r.ΔⵠⵠΔⲆ] = _v(60, 60, 0, ΔΔ[Xr.ᐃⵠⲆᐃⵠΔⲆ], 3);
-    this.ᐃᐃᐃ[_r.ΔⵠⵠΔⲆ].id = _r.ΔⵠⵠΔⲆ;
-    this.ᐃᐃᐃ[_r.ⵠΔᐃⵠⲆ] = _v(60, 60, 0, ΔΔ[Xr.ΔᐃΔΔⲆⵠᐃ], 3);
-    this.ᐃᐃᐃ[_r.ⵠΔᐃⵠⲆ].id = _r.ⵠΔᐃⵠⲆ;
-    this.ᐃᐃᐃ[_r.ᐃᐃⵠⲆⲆ] = _v(60, 60, 0, ΔΔ[Xr.ΔⵠᐃᐃⵠⵠⲆ], sl);
-    this.ᐃᐃᐃ[_r.ᐃᐃⵠⲆⲆ].id = _r.ᐃᐃⵠⲆⲆ;
-    this.ᐃᐃᐃ[_r.ΔⲆΔⲆⲆ] = _v(60, 60, 0, ΔΔ[Xr.ⲆΔᐃΔᐃᐃᐃ], 3);
-    this.ᐃᐃᐃ[_r.ΔⲆΔⲆⲆ].id = _r.ΔⲆΔⲆⲆ;
-    this.ᐃᐃᐃ[_r.ᐃᐃΔⲆⲆ] = _v(60, 60, 0, ΔΔ[Xr.ΔⲆΔᐃⲆⵠΔ], 3);
-    this.ᐃᐃᐃ[_r.ᐃᐃΔⲆⲆ].id = _r.ᐃᐃΔⲆⲆ;
-    this.ᐃᐃᐃ[_r.ⲆⲆΔᐃᐃ] = _v(60, 60, 0, ΔΔ[Xr.ⵠⲆΔⵠⲆⲆᐃ], 3);
-    this.ᐃᐃᐃ[_r.ⲆⲆΔᐃᐃ].id = _r.ⲆⲆΔᐃᐃ;
-    this.ᐃᐃᐃ[_r.ⲆⵠᐃΔᐃ] = _v(60, 60, 0, ΔΔ[Xr.ⲆⲆⵠⵠⲆⲆΔ], 3);
-    this.ᐃᐃᐃ[_r.ⲆⵠᐃΔᐃ].id = _r.ⲆⵠᐃΔᐃ;
-    this.ᐃᐃᐃ[_r.Ⲇᐃᐃᐃᐃ] = _v(60, 60, 0, ΔΔ[Xr.ΔⲆⵠᐃᐃᐃⵠ], 3);
-    this.ᐃᐃᐃ[_r.Ⲇᐃᐃᐃᐃ].id = _r.Ⲇᐃᐃᐃᐃ;
-    this.ᐃᐃᐃ[_r.ⵠⲆⵠᐃᐃ] = _v(60, 60, 0, ΔΔ[Xr.ᐃΔᐃΔⵠⵠΔ], 3);
-    this.ᐃᐃᐃ[_r.ⵠⲆⵠᐃᐃ].id = _r.ⵠⲆⵠᐃᐃ;
-    this.ᐃᐃᐃ[_r.ΔⲆⵠΔΔ] = _v(60, 60, 0, ΔΔ[Xr.ᐃΔⲆⵠⲆᐃⲆ], nq);
-    this.ᐃᐃᐃ[_r.ΔⲆⵠΔΔ].id = _r.ΔⲆⵠΔΔ;
-    this.ᐃᐃᐃ[_r.ⲆⲆΔΔⵠ] = _v(60, 60, 0, ΔΔ[Xr.ⵠⲆⵠΔⵠⲆⲆ], 3);
-    this.ᐃᐃᐃ[_r.ⲆⲆΔΔⵠ].id = _r.ⲆⲆΔΔⵠ;
-    this.ᐃᐃᐃ[_r.ⵠᐃΔⲆⲆ] = _v(60, 60, 0, ΔΔ[Xr.ⲆᐃⵠᐃⲆΔⲆ], 3);
-    this.ᐃᐃᐃ[_r.ⵠᐃΔⲆⲆ].id = _r.ⵠᐃΔⲆⲆ;
-    this.ᐃᐃᐃ[_r.ⲆⵠⲆⲆΔ] = _v(60, 60, 0, ΔΔ[Xr.ⲆⲆⲆΔᐃⵠΔ], xb);
-    this.ᐃᐃᐃ[_r.ⲆⵠⲆⲆΔ].id = _r.ⲆⵠⲆⲆΔ;
-    this.ᐃᐃᐃ[_r.ᐃΔᐃⵠⵠ] = _v(60, 60, 0, ΔΔ[Xr.ᐃΔⲆΔⵠⲆΔ], 3);
-    this.ᐃᐃᐃ[_r.ᐃΔᐃⵠⵠ].id = _r.ᐃΔᐃⵠⵠ;
+    this.ᐃᐃᐃ[0] = _v(60, 60, 0, ΔΔ[261], Wb);
+    this.ᐃᐃᐃ[0].id = 0;
+    this.ᐃᐃᐃ[1] = _v(60, 60, 0, ΔΔ[312], 3);
+    this.ᐃᐃᐃ[1].id = 1;
+    this.ᐃᐃᐃ[108] = _v(60, 60, 0, ΔΔ[315], ub);
+    this.ᐃᐃᐃ[108].id = 108;
+    this.ᐃᐃᐃ[108].info.ⵠⵠ[as] = this.ᐃᐃᐃ[108].info.ⵠⵠ[Lr];
+    this.ᐃᐃᐃ[109] = _v(60, 60, 0, ΔΔ[316], 3);
+    this.ᐃᐃᐃ[109].id = 109;
+    this.ᐃᐃᐃ[109].info.ⵠⵠ[Vg] = this.ᐃᐃᐃ[109].info.ⵠⵠ[0];
+    this.ᐃᐃᐃ[110] = _v(60, 60, 0, ΔΔ[277], Hk);
+    this.ᐃᐃᐃ[110].id = 110;
+    this.ᐃᐃᐃ[233] = _v(60, 60, 0, ΔΔ[1154], 3);
+    this.ᐃᐃᐃ[233].id = 233;
+    this.ᐃᐃᐃ[111] = _v(60, 60, 0, ΔΔ[297], 3);
+    this.ᐃᐃᐃ[111].id = 111;
+    this.ᐃᐃᐃ[111].info.ⵠⵠ[vg] = this.ᐃᐃᐃ[111].info.ⵠⵠ[ig];
+    this.ᐃᐃᐃ[112] = _v(60, 60, 0, ΔΔ[298], Tt);
+    this.ᐃᐃᐃ[112].id = 112;
+    this.ᐃᐃᐃ[112].info.ⵠⵠ[Hj] = this.ᐃᐃᐃ[112].info.ⵠⵠ[0];
+    this.ᐃᐃᐃ[3] = _v(60, 60, 0, ΔΔ[258], 3);
+    this.ᐃᐃᐃ[3].id = 3;
+    this.ᐃᐃᐃ[4] = _v(60, 60, 0, ΔΔ[296], fn);
+    this.ᐃᐃᐃ[4].id = 4;
+    this.ᐃᐃᐃ[5] = _v(60, 60, 0, ΔΔ[292], 3);
+    this.ᐃᐃᐃ[5].id = 5;
+    this.ᐃᐃᐃ[57] = _v(60, 60, 0, ΔΔ[829], qu);
+    this.ᐃᐃᐃ[57].id = 57;
+    this.ᐃᐃᐃ[6] = _v(60, 60, 0, ΔΔ[293], yr);
+    this.ᐃᐃᐃ[6].id = 6;
+    this.ᐃᐃᐃ[113] = _v(60, 60, 0, ΔΔ[309], ut);
+    this.ᐃᐃᐃ[113].id = 113;
+    this.ᐃᐃᐃ[114] = _v(60, 60, 0, ΔΔ[310], 3);
+    this.ᐃᐃᐃ[114].id = 114;
+    this.ᐃᐃᐃ[115] = _v(60, 60, 0, ΔΔ[311], 3);
+    this.ᐃᐃᐃ[115].id = 115;
+    this.ᐃᐃᐃ[162] = _v(60, 60, 0, ΔΔ[317], Js);
+    this.ᐃᐃᐃ[162].id = 162;
+    this.ᐃᐃᐃ[160] = _v(60, 60, 0, ΔΔ[319], 3);
+    this.ᐃᐃᐃ[160].id = 160;
+    this.ᐃᐃᐃ[8] = _v(60, 60, 0, ΔΔ[313], Lg);
+    this.ᐃᐃᐃ[8].id = 8;
+    this.ᐃᐃᐃ[117] = _v(60, 60, 0, ΔΔ[323], nq);
+    this.ᐃᐃᐃ[117].id = 117;
+    this.ᐃᐃᐃ[116] = _v(60, 60, 0, ΔΔ[300], qo);
+    this.ᐃᐃᐃ[116].id = 116;
+    this.ᐃᐃᐃ[118] = _v(60, 60, 0, ΔΔ[328], ub);
+    this.ᐃᐃᐃ[118].id = 118;
+    this.ᐃᐃᐃ[195] = _v(60, 60, 0, ΔΔ[303], 3);
+    this.ᐃᐃᐃ[195].id = 195;
+    this.ᐃᐃᐃ[161] = _v(60, 60, 0, ΔΔ[305], I);
+    this.ᐃᐃᐃ[161].id = 161;
+    this.ᐃᐃᐃ[161].info.ⵠⵠ[2] = this.ᐃᐃᐃ[161].info.ⵠⵠ[0];
+    this.ᐃᐃᐃ[163] = _v(60, 60, 0, ΔΔ[329], Hk);
+    this.ᐃᐃᐃ[163].id = 163;
+    this.ᐃᐃᐃ[164] = _v(60, 60, 0, ΔΔ[330], ea);
+    this.ᐃᐃᐃ[164].id = 164;
+    this.ᐃᐃᐃ[165] = _v(60, 60, 0, ΔΔ[331], 3);
+    this.ᐃᐃᐃ[165].id = 165;
+    this.ᐃᐃᐃ[166] = _v(60, 60, 0, ΔΔ[335], fn);
+    this.ᐃᐃᐃ[166].id = 166;
+    this.ᐃᐃᐃ[167] = _v(60, 60, 0, ΔΔ[337], ea);
+    this.ᐃᐃᐃ[167].id = 167;
+    this.ᐃᐃᐃ[168] = _v(60, 60, 0, ΔΔ[361], 3);
+    this.ᐃᐃᐃ[168].id = 168;
+    this.ᐃᐃᐃ[169] = _v(60, 60, 0, ΔΔ[362], 3);
+    this.ᐃᐃᐃ[169].id = 169;
+    this.ᐃᐃᐃ[170] = _v(60, 60, 0, ΔΔ[364], 3);
+    this.ᐃᐃᐃ[170].id = 170;
+    this.ᐃᐃᐃ[29] = _v(60, 60, 0, ΔΔ[392], eg);
+    this.ᐃᐃᐃ[29].id = 29;
+    this.ᐃᐃᐃ[10] = _v(60, 60, 0, ΔΔ[369], ll);
+    this.ᐃᐃᐃ[10].id = 10;
+    this.ᐃᐃᐃ[171] = _v(60, 60, 0, ΔΔ[372], 3);
+    this.ᐃᐃᐃ[171].id = 171;
+    this.ᐃᐃᐃ[172] = _v(60, 60, 0, ΔΔ[375], 3);
+    this.ᐃᐃᐃ[172].id = 172;
+    this.ᐃᐃᐃ[173] = _v(60, 60, 0, ΔΔ[378], 3);
+    this.ᐃᐃᐃ[173].id = 173;
+    this.ᐃᐃᐃ[2] = _v(60, 60, 0, ΔΔ[368], 3);
+    this.ᐃᐃᐃ[2].id = 2;
+    this.ᐃᐃᐃ[2].info.ⵠⵠ[2] = this.ᐃᐃᐃ[2].info.ⵠⵠ[0];
+    this.ᐃᐃᐃ[237] = _v(60, 60, 0, ΔΔ[1162], Js);
+    this.ᐃᐃᐃ[237].id = 237;
+    this.ᐃᐃᐃ[237].info.ⵠⵠ[2] = this.ᐃᐃᐃ[237].info.ⵠⵠ[fl];
+    this.ᐃᐃᐃ[174] = _v(60, 60, 0, ΔΔ[393], 3);
+    this.ᐃᐃᐃ[174].id = 174;
+    this.ᐃᐃᐃ[174].info.ⵠⵠ[H] = this.ᐃᐃᐃ[174].info.ⵠⵠ[wg];
+    this.ᐃᐃᐃ[222] = _v(60, 60, 0, ΔΔ[1035], 3);
+    this.ᐃᐃᐃ[222].id = 222;
+    this.ᐃᐃᐃ[231] = _v(60, 60, 0, ΔΔ[1037], fn);
+    this.ᐃᐃᐃ[231].id = 231;
+    this.ᐃᐃᐃ[232] = _v(60, 60, 0, ΔΔ[1039], Js);
+    this.ᐃᐃᐃ[232].id = 232;
+    this.ᐃᐃᐃ[234] = _v(60, 60, 0, ΔΔ[1156], 3);
+    this.ᐃᐃᐃ[234].id = 234;
+    this.ᐃᐃᐃ[10] = _v(60, 60, 0, ΔΔ[369], 3);
+    this.ᐃᐃᐃ[10].id = 10;
+    this.ᐃᐃᐃ[11] = _v(60, 60, 0, ΔΔ[381], ea);
+    this.ᐃᐃᐃ[11].id = 11;
+    this.ᐃᐃᐃ[12] = _v(60, 60, 0, ΔΔ[401], fn);
+    this.ᐃᐃᐃ[12].id = 12;
+    this.ᐃᐃᐃ[13] = _v(60, 60, 0, ΔΔ[395], 3);
+    this.ᐃᐃᐃ[13].id = 13;
+    this.ᐃᐃᐃ[14] = _v(60, 60, 0, ΔΔ[398], ub);
+    this.ᐃᐃᐃ[14].id = 14;
+    this.ᐃᐃᐃ[15] = _v(60, 60, 0, ΔΔ[404], 3);
+    this.ᐃᐃᐃ[15].id = 15;
+    this.ᐃᐃᐃ[16] = _v(60, 60, 0, ΔΔ[874], Tr);
+    this.ᐃᐃᐃ[16].id = 16;
+    this.ᐃᐃᐃ[119] = _v(60, 60, 0, ΔΔ[408], 3);
+    this.ᐃᐃᐃ[119].id = 119;
+    this.ᐃᐃᐃ[23] = _v(60, 60, 0, ΔΔ[420], Tr);
+    this.ᐃᐃᐃ[23].id = 23;
+    this.ᐃᐃᐃ[24] = _v(60, 60, 0, ΔΔ[423], 3);
+    this.ᐃᐃᐃ[24].id = 24;
+    this.ᐃᐃᐃ[87] = _v(60, 60, 0, ΔΔ[1227], 3);
+    this.ᐃᐃᐃ[87].id = 87;
+    this.ᐃᐃᐃ[88] = _v(60, 60, 0, ΔΔ[1230], qu);
+    this.ᐃᐃᐃ[88].id = 88;
+    this.ᐃᐃᐃ[80] = _v(60, 60, 0, ΔΔ[1137], Js);
+    this.ᐃᐃᐃ[80].id = 80;
+    this.ᐃᐃᐃ[81] = _v(60, 60, 0, ΔΔ[1140], 3);
+    this.ᐃᐃᐃ[81].id = 81;
+    this.ᐃᐃᐃ[64] = _v(60, 60, 0, ΔΔ[569], 3);
+    this.ᐃᐃᐃ[64].id = 64;
+    this.ᐃᐃᐃ[101] = _v(60, 60, 0, ΔΔ[1166], ea);
+    this.ᐃᐃᐃ[101].id = 101;
+    this.ᐃᐃᐃ[71] = _v(60, 60, 0, ΔΔ[1239], 3);
+    this.ᐃᐃᐃ[71].id = 71;
+    this.ᐃᐃᐃ[65] = _v(60, 60, 0, ΔΔ[572], 3);
+    this.ᐃᐃᐃ[65].id = 65;
+    this.ᐃᐃᐃ[102] = _v(60, 60, 0, ΔΔ[1169], 3);
+    this.ᐃᐃᐃ[102].id = 102;
+    this.ᐃᐃᐃ[72] = _v(60, 60, 0, ΔΔ[1242], 3);
+    this.ᐃᐃᐃ[72].id = 72;
+    this.ᐃᐃᐃ[66] = _v(60, 60, 0, ΔΔ[575], 3);
+    this.ᐃᐃᐃ[66].id = 66;
+    this.ᐃᐃᐃ[103] = _v(60, 60, 0, ΔΔ[1172], xb);
+    this.ᐃᐃᐃ[103].id = 103;
+    this.ᐃᐃᐃ[73] = _v(60, 60, 0, ΔΔ[1245], 3);
+    this.ᐃᐃᐃ[73].id = 73;
+    this.ᐃᐃᐃ[67] = _v(60, 60, 0, ΔΔ[578], ll);
+    this.ᐃᐃᐃ[67].id = 67;
+    this.ᐃᐃᐃ[104] = _v(60, 60, 0, ΔΔ[1175], ll);
+    this.ᐃᐃᐃ[104].id = 104;
+    this.ᐃᐃᐃ[74] = _v(60, 60, 0, ΔΔ[1248], qu);
+    this.ᐃᐃᐃ[74].id = 74;
+    this.ᐃᐃᐃ[68] = _v(60, 60, 0, ΔΔ[581], Hk);
+    this.ᐃᐃᐃ[68].id = 68;
+    this.ᐃᐃᐃ[105] = _v(60, 60, 0, ΔΔ[1178], 3);
+    this.ᐃᐃᐃ[105].id = 105;
+    this.ᐃᐃᐃ[75] = _v(60, 60, 0, ΔΔ[1251], 3);
+    this.ᐃᐃᐃ[75].id = 75;
+    this.ᐃᐃᐃ[69] = _v(60, 60, 0, ΔΔ[584], 3);
+    this.ᐃᐃᐃ[69].id = 69;
+    this.ᐃᐃᐃ[106] = _v(60, 60, 0, ΔΔ[1181], 3);
+    this.ᐃᐃᐃ[106].id = 106;
+    this.ᐃᐃᐃ[76] = _v(60, 60, 0, ΔΔ[1254], 3);
+    this.ᐃᐃᐃ[76].id = 76;
+    this.ᐃᐃᐃ[70] = _v(60, 60, 0, ΔΔ[587], fn);
+    this.ᐃᐃᐃ[70].id = 70;
+    this.ᐃᐃᐃ[107] = _v(60, 60, 0, ΔΔ[1184], 3);
+    this.ᐃᐃᐃ[107].id = 107;
+    this.ᐃᐃᐃ[94] = _v(60, 60, 0, ΔΔ[1257], 3);
+    this.ᐃᐃᐃ[94].id = 94;
+    this.ᐃᐃᐃ[95] = _v(60, 60, 0, ΔΔ[1260], ea);
+    this.ᐃᐃᐃ[95].id = 95;
+    this.ᐃᐃᐃ[96] = _v(60, 60, 0, ΔΔ[1263], 3);
+    this.ᐃᐃᐃ[96].id = 96;
+    this.ᐃᐃᐃ[97] = _v(60, 60, 0, ΔΔ[1266], 3);
+    this.ᐃᐃᐃ[97].id = 97;
+    this.ᐃᐃᐃ[98] = _v(60, 60, 0, ΔΔ[1269], eg);
+    this.ᐃᐃᐃ[98].id = 98;
+    this.ᐃᐃᐃ[99] = _v(60, 60, 0, ΔΔ[1272], Tt);
+    this.ᐃᐃᐃ[99].id = 99;
+    this.ᐃᐃᐃ[58] = _v(60, 60, 0, ΔΔ[826], 3);
+    this.ᐃᐃᐃ[58].id = 58;
+    this.ᐃᐃᐃ[25] = _v(60, 60, 0, ΔΔ[429], 3);
+    this.ᐃᐃᐃ[25].id = 25;
+    this.ᐃᐃᐃ[26] = _v(60, 60, 0, ΔΔ[432], Hk);
+    this.ᐃᐃᐃ[26].id = 26;
+    this.ᐃᐃᐃ[27] = _v(60, 60, 0, ΔΔ[435], 3);
+    this.ᐃᐃᐃ[27].id = 27;
+    this.ᐃᐃᐃ[28] = _v(60, 60, 0, ΔΔ[438], 3);
+    this.ᐃᐃᐃ[28].id = 28;
+    this.ᐃᐃᐃ[120] = _v(60, 60, 0, ΔΔ[441], 3);
+    this.ᐃᐃᐃ[120].id = 120;
+    this.ᐃᐃᐃ[120].info.ⵠⵠ[2] = this.ᐃᐃᐃ[120].info.ⵠⵠ[Hi];
+    this.ᐃᐃᐃ[29] = _v(60, 60, 0, ΔΔ[392], 3);
+    this.ᐃᐃᐃ[29].id = 29;
+    this.ᐃᐃᐃ[121] = _v(60, 60, 0, ΔΔ[418], 3);
+    this.ᐃᐃᐃ[121].id = 121;
+    this.ᐃᐃᐃ[121].info.ⵠⵠ[2] = this.ᐃᐃᐃ[121].info.ⵠⵠ[0];
+    this.ᐃᐃᐃ[30] = _v(60, 60, 0, ΔΔ[455], Wb);
+    this.ᐃᐃᐃ[30].id = 30;
+    this.ᐃᐃᐃ[9] = _v(60, 60, 0, ΔΔ[860], 3);
+    this.ᐃᐃᐃ[9].id = 9;
+    this.ᐃᐃᐃ[31] = _v(60, 60, 0, ΔΔ[458], 3);
+    this.ᐃᐃᐃ[31].id = 31;
+    this.ᐃᐃᐃ[32] = _v(60, 60, 0, ΔΔ[1017], Js);
+    this.ᐃᐃᐃ[32].id = 32;
+    this.ᐃᐃᐃ[33] = _v(60, 60, 0, ΔΔ[472], ea);
+    this.ᐃᐃᐃ[33].id = 33;
+    this.ᐃᐃᐃ[35] = _v(60, 60, 0, ΔΔ[477], 3);
+    this.ᐃᐃᐃ[35].id = 35;
+    this.ᐃᐃᐃ[36] = _v(60, 60, 0, ΔΔ[480], 3);
+    this.ᐃᐃᐃ[36].id = 36;
+    this.ᐃᐃᐃ[37] = _v(60, 60, 0, ΔΔ[483], 3);
+    this.ᐃᐃᐃ[37].id = 37;
+    this.ᐃᐃᐃ[38] = _v(60, 60, 0, ΔΔ[486], 3);
+    this.ᐃᐃᐃ[38].id = 38;
+    this.ᐃᐃᐃ[39] = _v(60, 60, 0, ΔΔ[489], 3);
+    this.ᐃᐃᐃ[39].id = 39;
+    this.ᐃᐃᐃ[122] = _v(60, 60, 0, ΔΔ[492], 3);
+    this.ᐃᐃᐃ[122].id = 122;
+    this.ᐃᐃᐃ[123] = _v(60, 60, 0, ΔΔ[495], 3);
+    this.ᐃᐃᐃ[123].id = 123;
+    this.ᐃᐃᐃ[124] = _v(60, 60, 0, ΔΔ[499], qo);
+    this.ᐃᐃᐃ[124].id = 124;
+    this.ᐃᐃᐃ[40] = _v(60, 60, 0, ΔΔ[502], sl);
+    this.ᐃᐃᐃ[40].id = 40;
+    this.ᐃᐃᐃ[146] = _v(60, 60, 0, ΔΔ[505], qu);
+    this.ᐃᐃᐃ[146].id = 146;
+    this.ᐃᐃᐃ[146].info.ⵠⵠ[2] = this.ᐃᐃᐃ[146].info.ⵠⵠ[0];
+    this.ᐃᐃᐃ[240] = _v(60, 60, 0, ΔΔ[1233], fn);
+    this.ᐃᐃᐃ[240].id = 240;
+    this.ᐃᐃᐃ[240].info.ⵠⵠ[2] = this.ᐃᐃᐃ[240].info.ⵠⵠ[Mg];
+    this.ᐃᐃᐃ[147] = _v(60, 60, 0, ΔΔ[513], qu);
+    this.ᐃᐃᐃ[147].id = 147;
+    this.ᐃᐃᐃ[147].info.ⵠⵠ[2] = this.ᐃᐃᐃ[147].info.ⵠⵠ[0];
+    this.ᐃᐃᐃ[148] = _v(60, 60, 0, ΔΔ[518], 3);
+    this.ᐃᐃᐃ[148].id = 148;
+    this.ᐃᐃᐃ[148].info.ⵠⵠ[Rl] = this.ᐃᐃᐃ[148].info.ⵠⵠ[0];
+    this.ᐃᐃᐃ[149] = _v(60, 60, 0, ΔΔ[521], 3);
+    this.ᐃᐃᐃ[149].id = 149;
+    this.ᐃᐃᐃ[150] = _v(60, 60, 0, ΔΔ[523], qo);
+    this.ᐃᐃᐃ[150].id = 150;
+    this.ᐃᐃᐃ[151] = _v(60, 60, 0, ΔΔ[529], 3);
+    this.ᐃᐃᐃ[151].id = 151;
+    this.ᐃᐃᐃ[158] = _v(60, 60, 0, ΔΔ[532], 3);
+    this.ᐃᐃᐃ[158].id = 158;
+    this.ᐃᐃᐃ[159] = _v(60, 60, 0, ΔΔ[553], Js);
+    this.ᐃᐃᐃ[159].id = 159;
+    this.ᐃᐃᐃ[43] = _v(60, 60, 0, ΔΔ[541], nq);
+    this.ᐃᐃᐃ[43].id = 43;
+    this.ᐃᐃᐃ[45] = _v(60, 60, 0, ΔΔ[550], 3);
+    this.ᐃᐃᐃ[45].id = 45;
+    this.ᐃᐃᐃ[125] = _v(60, 60, 0, ΔΔ[605], 3);
+    this.ᐃᐃᐃ[125].id = 125;
+    this.ᐃᐃᐃ[221] = _v(60, 60, 0, ΔΔ[1236], 3);
+    this.ᐃᐃᐃ[221].id = 221;
+    this.ᐃᐃᐃ[223] = _v(60, 60, 0, ΔΔ[1028], Tr);
+    this.ᐃᐃᐃ[223].id = 223;
+    this.ᐃᐃᐃ[224] = _v(60, 60, 0, ΔΔ[1031], 3);
+    this.ᐃᐃᐃ[224].id = 224;
+    this.ᐃᐃᐃ[230] = _v(60, 60, 0, ΔΔ[1117], 3);
+    this.ᐃᐃᐃ[230].id = 230;
+    this.ᐃᐃᐃ[89] = _v(60, 60, 0, ΔΔ[1046], qu);
+    this.ᐃᐃᐃ[89].id = 89;
+    this.ᐃᐃᐃ[225] = _v(60, 60, 0, ΔΔ[1049], qo);
+    this.ᐃᐃᐃ[225].id = 225;
+    this.ᐃᐃᐃ[226] = _v(60, 60, 0, ΔΔ[1189], 3);
+    this.ᐃᐃᐃ[226].id = 226;
+    this.ᐃᐃᐃ[227] = _v(60, 60, 0, ΔΔ[1080], qo);
+    this.ᐃᐃᐃ[227].id = 227;
+    this.ᐃᐃᐃ[239] = _v(60, 60, 0, ΔΔ[1224], eg);
+    this.ᐃᐃᐃ[239].id = 239;
+    this.ᐃᐃᐃ[228] = _v(60, 60, 0, ΔΔ[1095], Wb);
+    this.ᐃᐃᐃ[228].id = 228;
+    this.ᐃᐃᐃ[229] = _v(60, 60, 0, ΔΔ[1110], eg);
+    this.ᐃᐃᐃ[229].id = 229;
+    this.ᐃᐃᐃ[126] = _v(60, 60, 0, ΔΔ[609], ea);
+    this.ᐃᐃᐃ[126].id = 126;
+    this.ᐃᐃᐃ[126].info.ⵠⵠ[2] = this.ᐃᐃᐃ[126].info.ⵠⵠ[Zj];
+    this.ᐃᐃᐃ[127] = _v(60, 60, 0, ΔΔ[613], ub);
+    this.ᐃᐃᐃ[127].id = 127;
+    this.ᐃᐃᐃ[128] = _v(60, 60, 0, ΔΔ[612], Hk);
+    this.ᐃᐃᐃ[128].id = 128;
+    this.ᐃᐃᐃ[46] = _v(60, 60, 0, ΔΔ[616], 3);
+    this.ᐃᐃᐃ[46].id = 46;
+    this.ᐃᐃᐃ[50] = _v(60, 60, 0, ΔΔ[699], eg);
+    this.ᐃᐃᐃ[50].id = 50;
+    this.ᐃᐃᐃ[51] = _v(60, 60, 0, ΔΔ[702], Js);
+    this.ᐃᐃᐃ[51].id = 51;
+    this.ᐃᐃᐃ[52] = _v(60, 60, 0, ΔΔ[705], 3);
+    this.ᐃᐃᐃ[52].id = 52;
+    this.ᐃᐃᐃ[55] = _v(60, 60, 0, ΔΔ[709], 3);
+    this.ᐃᐃᐃ[55].id = 55;
+    this.ᐃᐃᐃ[129] = _v(60, 60, 0, ΔΔ[624], xb);
+    this.ᐃᐃᐃ[129].id = 129;
+    this.ᐃᐃᐃ[129].info.ⵠⵠ[2] = this.ᐃᐃᐃ[129].info.ⵠⵠ[0];
+    this.ᐃᐃᐃ[130] = _v(60, 60, 0, ΔΔ[626], Hk);
+    this.ᐃᐃᐃ[130].id = 130;
+    this.ᐃᐃᐃ[131] = _v(60, 60, 0, ΔΔ[629], ci);
+    this.ᐃᐃᐃ[131].id = 131;
+    this.ᐃᐃᐃ[131].info.ⵠⵠ[Pn] = this.ᐃᐃᐃ[131].info.ⵠⵠ[0];
+    this.ᐃᐃᐃ[132] = _v(60, 60, 0, ΔΔ[631], 3);
+    this.ᐃᐃᐃ[132].id = 132;
+    this.ᐃᐃᐃ[133] = _v(60, 60, 0, ΔΔ[634], 3);
+    this.ᐃᐃᐃ[133].id = 133;
+    this.ᐃᐃᐃ[134] = _v(60, 60, 0, ΔΔ[639], 3);
+    this.ᐃᐃᐃ[134].id = 134;
+    this.ᐃᐃᐃ[134].info.ⵠⵠ[Pn] = this.ᐃᐃᐃ[134].info.ⵠⵠ[0];
+    this.ᐃᐃᐃ[135] = _v(60, 60, 0, ΔΔ[644], qu);
+    this.ᐃᐃᐃ[135].id = 135;
+    this.ᐃᐃᐃ[47] = _v(60, 60, 0, ΔΔ[646], Wb);
+    this.ᐃᐃᐃ[47].id = 47;
+    this.ᐃᐃᐃ[48] = _v(60, 60, 0, ΔΔ[649], 3);
+    this.ᐃᐃᐃ[48].id = 48;
+    this.ᐃᐃᐃ[49] = _v(60, 60, 0, ΔΔ[652], Wb);
+    this.ᐃᐃᐃ[49].id = 49;
+    this.ᐃᐃᐃ[136] = _v(60, 60, 0, ΔΔ[659], 3);
+    this.ᐃᐃᐃ[136].id = 136;
+    this.ᐃᐃᐃ[143] = _v(60, 60, 0, ΔΔ[143], 3);
+    this.ᐃᐃᐃ[143].id = 143;
+    this.ᐃᐃᐃ[137] = _v(60, 60, 0, ΔΔ[662], 3);
+    this.ᐃᐃᐃ[137].id = 137;
+    this.ᐃᐃᐃ[138] = _v(60, 60, 0, ΔΔ[664], 3);
+    this.ᐃᐃᐃ[138].id = 138;
+    this.ᐃᐃᐃ[139] = _v(60, 60, 0, ΔΔ[674], 3);
+    this.ᐃᐃᐃ[139].id = 139;
+    this.ᐃᐃᐃ[139].info.ⵠⵠ[2] = this.ᐃᐃᐃ[139].info.ⵠⵠ[Rq];
+    this.ᐃᐃᐃ[140] = _v(60, 60, 0, ΔΔ[140], 3);
+    this.ᐃᐃᐃ[140].id = 140;
+    this.ᐃᐃᐃ[140].info.ⵠⵠ[Vh] = this.ᐃᐃᐃ[140].info.ⵠⵠ[Ih];
+    this.ᐃᐃᐃ[141] = _v(60, 60, 0, ΔΔ[685], 3);
+    this.ᐃᐃᐃ[141].id = 141;
+    this.ᐃᐃᐃ[142] = _v(60, 60, 0, ΔΔ[142], 3);
+    this.ᐃᐃᐃ[142].id = 142;
+    this.ᐃᐃᐃ[142].info.ⵠⵠ[2] = this.ᐃᐃᐃ[142].info.ⵠⵠ[eu];
+    this.ᐃᐃᐃ[144] = _v(60, 60, 0, ΔΔ[717], I);
+    this.ᐃᐃᐃ[144].id = 144;
+    this.ᐃᐃᐃ[145] = _v(60, 60, 0, ΔΔ[145], 3);
+    this.ᐃᐃᐃ[145].id = 145;
+    this.ᐃᐃᐃ[59] = _v(60, 60, 0, ΔΔ[732], 3);
+    this.ᐃᐃᐃ[59].id = 59;
+    this.ᐃᐃᐃ[62] = _v(60, 60, 0, ΔΔ[563], ub);
+    this.ᐃᐃᐃ[62].id = 62;
+    this.ᐃᐃᐃ[185] = _v(60, 60, 0, ΔΔ[252], sl);
+    this.ᐃᐃᐃ[185].id = 185;
+    this.ᐃᐃᐃ[185].info.ⵠⵠ[Vg] = this.ᐃᐃᐃ[185].info.ⵠⵠ[0];
+    this.ᐃᐃᐃ[184] = _v(60, 60, 0, ΔΔ[751], 3);
+    this.ᐃᐃᐃ[184].id = 184;
+    this.ᐃᐃᐃ[184].info.ⵠⵠ[2] = this.ᐃᐃᐃ[184].info.ⵠⵠ[wg];
+    this.ᐃᐃᐃ[17] = _v(60, 60, 0, ΔΔ[877], 3);
+    this.ᐃᐃᐃ[17].id = 17;
+    this.ᐃᐃᐃ[63] = _v(60, 60, 0, ΔΔ[566], Hk);
+    this.ᐃᐃᐃ[63].id = 63;
+    this.ᐃᐃᐃ[187] = _v(60, 60, 0, ΔΔ[253], yr);
+    this.ᐃᐃᐃ[187].id = 187;
+    this.ᐃᐃᐃ[187].info.ⵠⵠ[vg] = this.ᐃᐃᐃ[187].info.ⵠⵠ[Qs];
+    this.ᐃᐃᐃ[186] = _v(60, 60, 0, ΔΔ[753], 3);
+    this.ᐃᐃᐃ[186].id = 186;
+    this.ᐃᐃᐃ[186].info.ⵠⵠ[2] = this.ᐃᐃᐃ[186].info.ⵠⵠ[0];
+    this.ᐃᐃᐃ[77] = _v(60, 60, 0, ΔΔ[756], yr);
+    this.ᐃᐃᐃ[77].id = 77;
+    this.ᐃᐃᐃ[175] = _v(60, 60, 0, ΔΔ[176], 3);
+    this.ᐃᐃᐃ[175].id = 175;
+    this.ᐃᐃᐃ[175].info.ⵠⵠ[Hj] = this.ᐃᐃᐃ[175].info.ⵠⵠ[wg];
+    this.ᐃᐃᐃ[176] = _v(60, 60, 0, ΔΔ[177], Tr);
+    this.ᐃᐃᐃ[176].id = 176;
+    this.ᐃᐃᐃ[176].info.ⵠⵠ[2] = this.ᐃᐃᐃ[176].info.ⵠⵠ[st];
+    this.ᐃᐃᐃ[78] = _v(60, 60, 0, ΔΔ[760], 3);
+    this.ᐃᐃᐃ[78].id = 78;
+    this.ᐃᐃᐃ[177] = _v(60, 60, 0, ΔΔ[175], fn);
+    this.ᐃᐃᐃ[177].id = 177;
+    this.ᐃᐃᐃ[177].info.ⵠⵠ[eh] = this.ᐃᐃᐃ[177].info.ⵠⵠ[0];
+    this.ᐃᐃᐃ[79] = _v(60, 60, 0, ΔΔ[764], Wb);
+    this.ᐃᐃᐃ[79].id = 79;
+    this.ᐃᐃᐃ[83] = _v(60, 60, 0, ΔΔ[767], 3);
+    this.ᐃᐃᐃ[83].id = 83;
+    this.ᐃᐃᐃ[84] = _v(60, 60, 0, ΔΔ[771], 3);
+    this.ᐃᐃᐃ[84].id = 84;
+    this.ᐃᐃᐃ[178] = _v(60, 60, 0, ΔΔ[178], 3);
+    this.ᐃᐃᐃ[178].id = 178;
+    this.ᐃᐃᐃ[179] = _v(60, 60, 0, ΔΔ[179], Tr);
+    this.ᐃᐃᐃ[179].id = 179;
+    this.ᐃᐃᐃ[86] = _v(60, 60, 0, ΔΔ[776], qo);
+    this.ᐃᐃᐃ[86].id = 86;
+    this.ᐃᐃᐃ[85] = _v(60, 60, 0, ΔΔ[779], I);
+    this.ᐃᐃᐃ[85].id = 85;
+    this.ᐃᐃᐃ[180] = _v(60, 60, 0, ΔΔ[180], nq);
+    this.ᐃᐃᐃ[180].id = 180;
+    this.ᐃᐃᐃ[181] = _v(60, 60, 0, ΔΔ[181], 3);
+    this.ᐃᐃᐃ[181].id = 181;
+    this.ᐃᐃᐃ[182] = _v(60, 60, 0, ΔΔ[789], Tr);
+    this.ᐃᐃᐃ[182].id = 182;
+    this.ᐃᐃᐃ[183] = _v(60, 60, 0, ΔΔ[800], ea);
+    this.ᐃᐃᐃ[183].id = 183;
+    this.ᐃᐃᐃ[188] = _v(60, 60, 0, ΔΔ[808], 3);
+    this.ᐃᐃᐃ[188].id = 188;
+    this.ᐃᐃᐃ[189] = _v(60, 60, 0, ΔΔ[814], ci);
+    this.ᐃᐃᐃ[189].id = 189;
+    this.ᐃᐃᐃ[191] = _v(60, 60, 0, ΔΔ[834], Js);
+    this.ᐃᐃᐃ[191].id = 191;
+    this.ᐃᐃᐃ[192] = _v(60, 60, 0, ΔΔ[840], I);
+    this.ᐃᐃᐃ[192].id = 192;
+    this.ᐃᐃᐃ[190] = _v(60, 60, 0, ΔΔ[842], 3);
+    this.ᐃᐃᐃ[190].id = 190;
+    this.ᐃᐃᐃ[193] = _v(60, 60, 0, ΔΔ[845], ub);
+    this.ᐃᐃᐃ[193].id = 193;
+    this.ᐃᐃᐃ[194] = _v(60, 60, 0, ΔΔ[850], ea);
+    this.ᐃᐃᐃ[194].id = 194;
+    this.ᐃᐃᐃ[204] = _v(60, 60, 0, ΔΔ[949], Tr);
+    this.ᐃᐃᐃ[204].id = 204;
+    this.ᐃᐃᐃ[205] = _v(60, 60, 0, ΔΔ[955], 3);
+    this.ᐃᐃᐃ[205].id = 205;
+    this.ᐃᐃᐃ[206] = _v(60, 60, 0, ΔΔ[959], 3);
+    this.ᐃᐃᐃ[206].id = 206;
+    this.ᐃᐃᐃ[207] = _v(60, 60, 0, ΔΔ[965], 3);
+    this.ᐃᐃᐃ[207].id = 207;
+    this.ᐃᐃᐃ[208] = _v(60, 60, 0, ΔΔ[966], ll);
+    this.ᐃᐃᐃ[208].id = 208;
+    this.ᐃᐃᐃ[209] = _v(60, 60, 0, ΔΔ[972], fn);
+    this.ᐃᐃᐃ[209].id = 209;
+    this.ᐃᐃᐃ[210] = _v(60, 60, 0, ΔΔ[981], 3);
+    this.ᐃᐃᐃ[210].id = 210;
+    this.ᐃᐃᐃ[211] = _v(60, 60, 0, ΔΔ[987], 3);
+    this.ᐃᐃᐃ[211].id = 211;
+    this.ᐃᐃᐃ[41] = _v(60, 60, 0, ΔΔ[880], sl);
+    this.ᐃᐃᐃ[41].id = 41;
+    this.ᐃᐃᐃ[42] = _v(60, 60, 0, ΔΔ[882], 3);
+    this.ᐃᐃᐃ[42].id = 42;
+    this.ᐃᐃᐃ[12] = _v(60, 60, 0, ΔΔ[401], 3);
+    this.ᐃᐃᐃ[12].id = 12;
+    this.ᐃᐃᐃ[16] = _v(60, 60, 0, ΔΔ[874], 3);
+    this.ᐃᐃᐃ[16].id = 16;
+    this.ᐃᐃᐃ[196] = _v(60, 60, 0, ΔΔ[196], 3);
+    this.ᐃᐃᐃ[196].id = 196;
+    this.ᐃᐃᐃ[18] = _v(60, 60, 0, ΔΔ[901], 3);
+    this.ᐃᐃᐃ[18].id = 18;
+    this.ᐃᐃᐃ[197] = _v(60, 60, 0, ΔΔ[197], 3);
+    this.ᐃᐃᐃ[197].id = 197;
+    this.ᐃᐃᐃ[198] = _v(60, 60, 0, ΔΔ[907], nq);
+    this.ᐃᐃᐃ[198].id = 198;
+    this.ᐃᐃᐃ[61] = _v(60, 60, 0, ΔΔ[910], 3);
+    this.ᐃᐃᐃ[61].id = 61;
+    this.ᐃᐃᐃ[201] = _v(60, 60, 0, ΔΔ[870], 3);
+    this.ᐃᐃᐃ[201].id = 201;
+    this.ᐃᐃᐃ[200] = _v(60, 60, 0, ΔΔ[200], xb);
+    this.ᐃᐃᐃ[200].id = 200;
+    this.ᐃᐃᐃ[199] = _v(60, 60, 0, ΔΔ[865], 3);
+    this.ᐃᐃᐃ[199].id = 199;
     this.ⵠⵠᐃ = [];
-    this.ⵠⵠᐃ[$r.ᐃᐃⲆΔⲆ] = _v(60, 60, 0, ΔΔ[Xr.ᐃⲆΔⲆⵠⲆᐃ], qu);
-    this.ⵠⵠᐃ[$r.ᐃᐃⲆΔⲆ].id = $r.ᐃᐃⲆΔⲆ;
-    this.ⵠⵠᐃ[$r.ⲆⵠⵠⲆⲆ] = _v(60, 60, 0, ΔΔ[Xr.ᐃⵠᐃⲆⵠΔⲆ], Wb);
-    this.ⵠⵠᐃ[$r.ⲆⵠⵠⲆⲆ].id = $r.ⲆⵠⵠⲆⲆ;
-    this.ⵠⵠᐃ[$r.ΔᐃᐃⲆⲆ] = _v(60, 60, 0, ΔΔ[Xr.ΔᐃΔᐃⵠⲆᐃ], 3);
-    this.ⵠⵠᐃ[$r.ΔᐃᐃⲆⲆ].id = $r.ΔᐃᐃⲆⲆ;
-    this.ⵠⵠᐃ[$r.ⵠⲆΔⵠᐃ] = _v(60, 60, 0, ΔΔ[Xr.ᐃΔΔⲆⵠᐃᐃ], ea);
-    this.ⵠⵠᐃ[$r.ⵠⲆΔⵠᐃ].id = $r.ⵠⲆΔⵠᐃ;
-    this.ⵠⵠᐃ[$r.ⲆⲆⲆⲆⵠ] = _v(60, 60, 0, ΔΔ[Xr.ᐃᐃⵠΔⲆᐃⲆ], sl);
-    this.ⵠⵠᐃ[$r.ⲆⲆⲆⲆⵠ].id = $r.ⲆⲆⲆⲆⵠ;
-    this.ⵠⵠᐃ[$r.ⵠⵠΔⵠⲆ] = _v(60, 60, 0, ΔΔ[Xr.ΔΔΔΔⵠΔᐃ], sl);
-    this.ⵠⵠᐃ[$r.ⵠⵠΔⵠⲆ].id = $r.ⵠⵠΔⵠⲆ;
-    this.ⵠⵠᐃ[$r.ⵠᐃΔⲆᐃ] = _v(60, 60, 0, ΔΔ[Xr.ᐃᐃⲆᐃⲆΔⵠ], 3);
-    this.ⵠⵠᐃ[$r.ⵠᐃΔⲆᐃ].id = $r.ⵠᐃΔⲆᐃ;
-    this.ⵠⵠᐃ[$r.ⵠᐃⲆΔΔ] = _v(60, 60, 0, ΔΔ[Xr.ⲆΔΔΔᐃⲆΔ], 3);
-    this.ⵠⵠᐃ[$r.ⵠᐃⲆΔΔ].id = $r.ⵠᐃⲆΔΔ;
-    this.ⵠⵠᐃ[$r.ᐃⲆⵠΔⲆ] = _v(60, 60, 0, ΔΔ[Xr.ᐃΔᐃᐃᐃᐃᐃ], 3);
-    this.ⵠⵠᐃ[$r.ᐃⲆⵠΔⲆ].id = $r.ᐃⲆⵠΔⲆ;
-    this.ⵠⵠᐃ[$r.ⵠΔΔΔΔ] = _v(60, 60, 0, ΔΔ[Xr.ᐃⵠⵠⵠΔⵠΔ], ci);
-    this.ⵠⵠᐃ[$r.ⵠΔΔΔΔ].id = $r.ⵠΔΔΔΔ;
-    this.ⵠⵠᐃ[$r.ΔⵠᐃΔᐃ] = _v(60, 60, 0, ΔΔ[Xr.ᐃΔⲆᐃΔΔᐃ], 3);
-    this.ⵠⵠᐃ[$r.ΔⵠᐃΔᐃ].id = $r.ΔⵠᐃΔᐃ;
-    this.ⵠⵠᐃ[$r.ᐃΔⲆᐃΔ] = _v(60, 60, 0, ΔΔ[Xr.ᐃᐃⲆᐃⲆᐃⲆ], Wb);
-    this.ⵠⵠᐃ[$r.ᐃΔⲆᐃΔ].id = $r.ᐃΔⲆᐃΔ;
-    this.ⵠⵠᐃ[$r.ⲆΔⲆⲆⵠ] = _v(60, 60, 0, ΔΔ[Xr.ⲆᐃⵠⲆᐃⵠⲆ], 3);
-    this.ⵠⵠᐃ[$r.ⲆΔⲆⲆⵠ].id = $r.ⲆΔⲆⲆⵠ;
-    this.ⵠⵠᐃ[$r.ΔΔⵠⵠⲆ] = _v(60, 60, 0, ΔΔ[Xr.ⵠΔⲆⲆΔⵠΔ], 3);
-    this.ⵠⵠᐃ[$r.ΔΔⵠⵠⲆ].id = $r.ΔΔⵠⵠⲆ;
-    this.ⵠⵠᐃ[$r.ᐃΔΔⵠΔ] = _v(60, 60, 0, ΔΔ[Xr.ΔᐃⵠᐃᐃⲆⵠ], ut);
-    this.ⵠⵠᐃ[$r.ᐃΔΔⵠΔ].id = $r.ᐃΔΔⵠΔ;
-    this.ⵠⵠᐃ[$r.ᐃΔᐃⲆᐃ] = _v(60, 60, 0, ΔΔ[Xr.ⲆⵠⵠⲆᐃⵠⲆ], 3);
-    this.ⵠⵠᐃ[$r.ᐃΔᐃⲆᐃ].id = $r.ᐃΔᐃⲆᐃ;
-    this.ⵠⵠᐃ[$r.ΔᐃⵠⲆⲆ] = _v(60, 60, 0, ΔΔ[Xr.ᐃⲆᐃⵠⲆΔᐃ], Js);
-    this.ⵠⵠᐃ[$r.ΔᐃⵠⲆⲆ].id = $r.ΔᐃⵠⲆⲆ;
-    this.ⵠⵠᐃ[$r.ᐃᐃᐃᐃᐃ] = _v(60, 60, 0, ΔΔ[Xr.ΔΔⲆΔⵠⵠⵠ], 3);
-    this.ⵠⵠᐃ[$r.ᐃᐃᐃᐃᐃ].id = $r.ᐃᐃᐃᐃᐃ;
-    this.ⵠⵠᐃ[$r.ⵠᐃⲆᐃⵠ] = _v(60, 60, 0, ΔΔ[Xr.ⵠⲆⵠⵠⵠⲆⵠ], I);
-    this.ⵠⵠᐃ[$r.ⵠᐃⲆᐃⵠ].id = $r.ⵠᐃⲆᐃⵠ;
-    this.ⵠⵠᐃ[$r.ΔⵠⵠⲆᐃ] = _v(60, 60, 0, ΔΔ[Xr.ΔⵠΔΔᐃⲆᐃ], 3);
-    this.ⵠⵠᐃ[$r.ΔⵠⵠⲆᐃ].id = $r.ΔⵠⵠⲆᐃ;
-    this.ⵠⵠᐃ[$r.ᐃⲆⲆⲆⲆ] = _v(60, 60, 0, ΔΔ[Xr.ΔⲆΔᐃᐃΔΔ], nq);
-    this.ⵠⵠᐃ[$r.ᐃⲆⲆⲆⲆ].id = $r.ᐃⲆⲆⲆⲆ;
-    this.ⵠⵠᐃ[$r.ⲆᐃⲆΔΔ] = _v(60, 60, 0, ΔΔ[Xr.ⵠⵠⲆⵠΔⵠⲆ], nq);
-    this.ⵠⵠᐃ[$r.ⲆᐃⲆΔΔ].id = $r.ⲆᐃⲆΔΔ;
-    this.ⵠⵠᐃ[$r.Ⲇᐃⵠᐃⵠ] = _v(60, 60, 0, ΔΔ[Xr.ⵠⵠᐃΔⵠⵠⲆ], ll);
-    this.ⵠⵠᐃ[$r.Ⲇᐃⵠᐃⵠ].id = $r.Ⲇᐃⵠᐃⵠ;
-    this.ⵠⵠᐃ[$r.ⲆⵠᐃΔΔ] = _v(60, 60, 0, ΔΔ[Xr.ⲆⲆΔⲆΔⵠⲆ], eg);
-    this.ⵠⵠᐃ[$r.ⲆⵠᐃΔΔ].id = $r.ⲆⵠᐃΔΔ;
-    this.ⵠⵠᐃ[$r.ⵠⲆᐃᐃ] = _v(60, 60, 0, ΔΔ[Xr.ⵠⲆⵠᐃⲆⲆΔ], 3);
-    this.ⵠⵠᐃ[$r.ⵠⲆᐃᐃ].id = $r.ⵠⲆᐃᐃ;
-    this.ⵠⵠᐃ[$r.ᐃⲆᐃⲆᐃ] = _v(60, 60, 0, ΔΔ[Xr.ᐃⲆⲆⲆΔΔᐃ], 3);
-    this.ⵠⵠᐃ[$r.ᐃⲆᐃⲆᐃ].id = $r.ᐃⲆᐃⲆᐃ;
-    this.ⵠⵠᐃ[$r.ⵠΔᐃⲆΔ] = _v(60, 60, 0, ΔΔ[Xr.ΔᐃⲆⲆⵠⲆΔ], 3);
-    this.ⵠⵠᐃ[$r.ⵠΔᐃⲆΔ].id = $r.ⵠΔᐃⲆΔ;
-    this.ⵠⵠᐃ[$r.ᐃΔⵠⵠⵠ] = _v(60, 60, 0, ΔΔ[Xr.ⲆⵠⵠΔΔΔᐃ], Tt);
-    this.ⵠⵠᐃ[$r.ᐃΔⵠⵠⵠ].id = $r.ᐃΔⵠⵠⵠ;
-    this.ⵠⵠᐃ[$r.ⵠΔᐃΔΔ] = _v(60, 60, 0, ΔΔ[Xr.ᐃΔΔΔⲆⵠⲆ], 3);
-    this.ⵠⵠᐃ[$r.ⵠΔᐃΔΔ].id = $r.ⵠΔᐃΔΔ;
-    this.ⵠⵠᐃ[$r.ᐃⲆᐃⲆᐃ] = _v(60, 60, 0, ΔΔ[Xr.ᐃⲆⲆⲆΔΔᐃ], Lg);
-    this.ⵠⵠᐃ[$r.ᐃⲆᐃⲆᐃ].id = $r.ᐃⲆᐃⲆᐃ;
-    this.ⵠⵠᐃ[$r.ᐃⵠⵠⵠΔ] = _v(60, 60, 0, ΔΔ[Xr.ⲆΔⲆⵠⲆⵠΔ], 3);
-    this.ⵠⵠᐃ[$r.ᐃⵠⵠⵠΔ].id = $r.ᐃⵠⵠⵠΔ;
-    this.ⵠⵠᐃ[$r.ᐃᐃΔⲆⲆ] = _v(60, 60, 0, ΔΔ[Xr.ᐃᐃⵠⵠⲆΔΔ], 3);
-    this.ⵠⵠᐃ[$r.ᐃᐃΔⲆⲆ].id = $r.ᐃᐃΔⲆⲆ;
-    this.ⵠⵠᐃ[$r.ⵠΔᐃⵠᐃ] = _v(60, 60, 0, ΔΔ[Xr.ΔⵠⵠᐃᐃΔᐃ], 3);
-    this.ⵠⵠᐃ[$r.ⵠΔᐃⵠᐃ].id = $r.ⵠΔᐃⵠᐃ;
-    this.ⵠⵠᐃ[$r.ⵠᐃᐃⵠΔ] = _v(60, 60, 0, ΔΔ[Xr.ᐃⲆⲆᐃⲆΔⲆ], Tt);
-    this.ⵠⵠᐃ[$r.ⵠᐃᐃⵠΔ].id = $r.ⵠᐃᐃⵠΔ;
-    this.ⵠⵠᐃ[$r.ᐃᐃᐃᐃⲆ] = _v(60, 60, 0, ΔΔ[Xr.ΔⵠᐃΔⲆⵠⵠ], ut);
-    this.ⵠⵠᐃ[$r.ᐃᐃᐃᐃⲆ].id = $r.ᐃᐃᐃᐃⲆ;
-    this.ⵠⵠᐃ[$r.ⲆⲆΔᐃᐃ] = _v(60, 60, 0, ΔΔ[Xr.ⵠΔⲆⲆΔᐃⲆ], 3);
-    this.ⵠⵠᐃ[$r.ⲆⲆΔᐃᐃ].id = $r.ⲆⲆΔᐃᐃ;
-    this.ⵠⵠᐃ[$r.ⲆᐃΔᐃⵠ] = _v(60, 60, 0, ΔΔ[Xr.ⲆⲆⵠᐃΔⲆᐃ], nq);
-    this.ⵠⵠᐃ[$r.ⲆᐃΔᐃⵠ].id = $r.ⲆᐃΔᐃⵠ;
-    this.ⵠⵠᐃ[$r.ⲆᐃᐃΔᐃ] = _v(60, 60, 0, ΔΔ[Xr.ⲆⲆⵠⵠⲆⲆᐃ], qu);
-    this.ⵠⵠᐃ[$r.ⲆᐃᐃΔᐃ].id = $r.ⲆᐃᐃΔᐃ;
-    this.ⵠⵠᐃ[$r.ⵠᐃᐃΔᐃ] = _v(60, 60, 0, ΔΔ[Xr.ⵠⵠΔⵠᐃΔⵠ], Js);
-    this.ⵠⵠᐃ[$r.ⵠᐃᐃΔᐃ].id = $r.ⵠᐃᐃΔᐃ;
-    this.ⵠⵠᐃ[$r.ⲆⵠΔᐃⲆ] = _v(60, 60, 0, ΔΔ[Xr.ⵠⵠᐃⲆᐃᐃⲆ], 3);
+    this.ⵠⵠᐃ[35] = _v(60, 60, 0, ΔΔ[254], qu);
+    this.ⵠⵠᐃ[35].id = 35;
+    this.ⵠⵠᐃ[5] = _v(60, 60, 0, ΔΔ[256], Wb);
+    this.ⵠⵠᐃ[5].id = 5;
+    this.ⵠⵠᐃ[0] = _v(60, 60, 0, ΔΔ[302], 3);
+    this.ⵠⵠᐃ[0].id = 0;
+    this.ⵠⵠᐃ[3] = _v(60, 60, 0, ΔΔ[262], ea);
+    this.ⵠⵠᐃ[3].id = 3;
+    this.ⵠⵠᐃ[55] = _v(60, 60, 0, ΔΔ[318], sl);
+    this.ⵠⵠᐃ[55].id = 55;
+    this.ⵠⵠᐃ[67] = _v(60, 60, 0, ΔΔ[320], sl);
+    this.ⵠⵠᐃ[67].id = 67;
+    this.ⵠⵠᐃ[40] = _v(60, 60, 0, ΔΔ[284], 3);
+    this.ⵠⵠᐃ[40].id = 40;
+    this.ⵠⵠᐃ[6] = _v(60, 60, 0, ΔΔ[295], 3);
+    this.ⵠⵠᐃ[6].id = 6;
+    this.ⵠⵠᐃ[7] = _v(60, 60, 0, ΔΔ[257], 3);
+    this.ⵠⵠᐃ[7].id = 7;
+    this.ⵠⵠᐃ[36] = _v(60, 60, 0, ΔΔ[290], ci);
+    this.ⵠⵠᐃ[36].id = 36;
+    this.ⵠⵠᐃ[34] = _v(60, 60, 0, ΔΔ[830], 3);
+    this.ⵠⵠᐃ[34].id = 34;
+    this.ⵠⵠᐃ[37] = _v(60, 60, 0, ΔΔ[291], Wb);
+    this.ⵠⵠᐃ[37].id = 37;
+    this.ⵠⵠᐃ[4] = _v(60, 60, 0, ΔΔ[314], 3);
+    this.ⵠⵠᐃ[4].id = 4;
+    this.ⵠⵠᐃ[49] = _v(60, 60, 0, ΔΔ[325], 3);
+    this.ⵠⵠᐃ[49].id = 49;
+    this.ⵠⵠᐃ[1] = _v(60, 60, 0, ΔΔ[327], ut);
+    this.ⵠⵠᐃ[1].id = 1;
+    this.ⵠⵠᐃ[54] = _v(60, 60, 0, ΔΔ[304], 3);
+    this.ⵠⵠᐃ[54].id = 54;
+    this.ⵠⵠᐃ[56] = _v(60, 60, 0, ΔΔ[263], Js);
+    this.ⵠⵠᐃ[56].id = 56;
+    this.ⵠⵠᐃ[57] = _v(60, 60, 0, ΔΔ[265], 3);
+    this.ⵠⵠᐃ[57].id = 57;
+    this.ⵠⵠᐃ[58] = _v(60, 60, 0, ΔΔ[332], I);
+    this.ⵠⵠᐃ[58].id = 58;
+    this.ⵠⵠᐃ[61] = _v(60, 60, 0, ΔΔ[268], 3);
+    this.ⵠⵠᐃ[61].id = 61;
+    this.ⵠⵠᐃ[79] = _v(60, 60, 0, ΔΔ[338], nq);
+    this.ⵠⵠᐃ[79].id = 79;
+    this.ⵠⵠᐃ[68] = _v(60, 60, 0, ΔΔ[360], nq);
+    this.ⵠⵠᐃ[68].id = 68;
+    this.ⵠⵠᐃ[69] = _v(60, 60, 0, ΔΔ[363], ll);
+    this.ⵠⵠᐃ[69].id = 69;
+    this.ⵠⵠᐃ[70] = _v(60, 60, 0, ΔΔ[365], eg);
+    this.ⵠⵠᐃ[70].id = 70;
+    this.ⵠⵠᐃ[100] = _v(60, 60, 0, ΔΔ[367], 3);
+    this.ⵠⵠᐃ[100].id = 100;
+    this.ⵠⵠᐃ[83] = _v(60, 60, 0, ΔΔ[370], 3);
+    this.ⵠⵠᐃ[83].id = 83;
+    this.ⵠⵠᐃ[62] = _v(60, 60, 0, ΔΔ[371], 3);
+    this.ⵠⵠᐃ[62].id = 62;
+    this.ⵠⵠᐃ[63] = _v(60, 60, 0, ΔΔ[374], Tt);
+    this.ⵠⵠᐃ[63].id = 63;
+    this.ⵠⵠᐃ[64] = _v(60, 60, 0, ΔΔ[377], 3);
+    this.ⵠⵠᐃ[64].id = 64;
+    this.ⵠⵠᐃ[83] = _v(60, 60, 0, ΔΔ[370], Lg);
+    this.ⵠⵠᐃ[83].id = 83;
+    this.ⵠⵠᐃ[84] = _v(60, 60, 0, ΔΔ[380], 3);
+    this.ⵠⵠᐃ[84].id = 84;
+    this.ⵠⵠᐃ[25] = _v(60, 60, 0, ΔΔ[402], 3);
+    this.ⵠⵠᐃ[25].id = 25;
+    this.ⵠⵠᐃ[26] = _v(60, 60, 0, ΔΔ[396], 3);
+    this.ⵠⵠᐃ[26].id = 26;
+    this.ⵠⵠᐃ[27] = _v(60, 60, 0, ΔΔ[399], Tt);
+    this.ⵠⵠᐃ[27].id = 27;
+    this.ⵠⵠᐃ[28] = _v(60, 60, 0, ΔΔ[405], ut);
+    this.ⵠⵠᐃ[28].id = 28;
+    this.ⵠⵠᐃ[31] = _v(60, 60, 0, ΔΔ[876], 3);
+    this.ⵠⵠᐃ[31].id = 31;
+    this.ⵠⵠᐃ[2] = _v(60, 60, 0, ΔΔ[409], nq);
+    this.ⵠⵠᐃ[2].id = 2;
+    this.ⵠⵠᐃ[80] = _v(60, 60, 0, ΔΔ[421], qu);
+    this.ⵠⵠᐃ[80].id = 80;
+    this.ⵠⵠᐃ[81] = _v(60, 60, 0, ΔΔ[424], Js);
+    this.ⵠⵠᐃ[81].id = 81;
+    this.ⵠⵠᐃ[$r.ⲆⵠΔᐃⲆ] = _v(60, 60, 0, ΔΔ[1228], 3);
     this.ⵠⵠᐃ[$r.ⲆⵠΔᐃⲆ].id = $r.ⲆⵠΔᐃⲆ;
-    this.ⵠⵠᐃ[$r.ⵠⲆⵠΔᐃ] = _v(60, 60, 0, ΔΔ[Xr.ᐃⵠᐃⲆᐃΔⵠ], Wb);
-    this.ⵠⵠᐃ[$r.ⵠⲆⵠΔᐃ].id = $r.ⵠⲆⵠΔᐃ;
-    this.ⵠⵠᐃ[$r.ⵠᐃΔΔᐃ] = _v(60, 60, 0, ΔΔ[Xr.ⵠⵠᐃΔⵠᐃΔ], ea);
-    this.ⵠⵠᐃ[$r.ⵠᐃΔΔᐃ].id = $r.ⵠᐃΔΔᐃ;
-    this.ⵠⵠᐃ[$r.ⵠⵠΔᐃᐃ] = _v(60, 60, 0, ΔΔ[Xr.ⵠΔᐃᐃⵠΔⵠ], 3);
-    this.ⵠⵠᐃ[$r.ⵠⵠΔᐃᐃ].id = $r.ⵠⵠΔᐃᐃ;
-    this.ⵠⵠᐃ[$r.ΔΔΔⲆΔ] = _v(60, 60, 0, ΔΔ[Xr.ⵠⵠᐃⵠⵠⵠᐃ], qo);
-    this.ⵠⵠᐃ[$r.ΔΔΔⲆΔ].id = $r.ΔΔΔⲆΔ;
-    this.ⵠⵠᐃ[$r.ΔᐃⲆⵠⲆ] = _v(60, 60, 0, ΔΔ[Xr.ⲆⵠΔΔΔΔΔ], nq);
-    this.ⵠⵠᐃ[$r.ΔᐃⲆⵠⲆ].id = $r.ΔᐃⲆⵠⲆ;
-    this.ⵠⵠᐃ[$r.ⲆΔⵠΔΔ] = _v(60, 60, 0, ΔΔ[Xr.ⵠᐃⵠⵠΔΔⵠ], xb);
-    this.ⵠⵠᐃ[$r.ⲆΔⵠΔΔ].id = $r.ⲆΔⵠΔΔ;
-    this.ⵠⵠᐃ[$r.ⲆΔᐃΔⵠ] = _v(60, 60, 0, ΔΔ[Xr.ΔᐃⵠΔᐃⵠⲆ], ci);
-    this.ⵠⵠᐃ[$r.ⲆΔᐃΔⵠ].id = $r.ⲆΔᐃΔⵠ;
-    this.ⵠⵠᐃ[$r.ᐃᐃΔᐃΔ] = _v(60, 60, 0, ΔΔ[Xr.ⲆⲆΔⵠΔΔⵠ], Wb);
-    this.ⵠⵠᐃ[$r.ᐃᐃΔᐃΔ].id = $r.ᐃᐃΔᐃΔ;
-    this.ⵠⵠᐃ[$r.ᐃΔᐃΔⲆ] = _v(60, 60, 0, ΔΔ[Xr.ΔⵠᐃΔⲆⲆΔ], 3);
-    this.ⵠⵠᐃ[$r.ᐃΔᐃΔⲆ].id = $r.ᐃΔᐃΔⲆ;
-    this.ⵠⵠᐃ[$r.ᐃᐃⲆᐃᐃ] = _v(60, 60, 0, ΔΔ[Xr.ⵠⲆⵠⵠΔⵠⵠ], 3);
-    this.ⵠⵠᐃ[$r.ᐃᐃⲆᐃᐃ].id = $r.ᐃᐃⲆᐃᐃ;
-    this.ⵠⵠᐃ[$r.ⲆΔⲆᐃⲆ] = _v(60, 60, 0, ΔΔ[Xr.ΔⲆⲆΔⵠⲆⲆ], fn);
-    this.ⵠⵠᐃ[$r.ⲆΔⲆᐃⲆ].id = $r.ⲆΔⲆᐃⲆ;
-    this.ⵠⵠᐃ[$r.ᐃᐃΔᐃⲆ] = _v(60, 60, 0, ΔΔ[Xr.ⲆⲆⵠⵠⲆᐃⵠ], ll);
-    this.ⵠⵠᐃ[$r.ᐃᐃΔᐃⲆ].id = $r.ᐃᐃΔᐃⲆ;
-    this.ⵠⵠᐃ[$r.Δᐃᐃⵠⵠ] = _v(60, 60, 0, ΔΔ[Xr.ᐃᐃᐃⵠΔᐃᐃ], ub);
-    this.ⵠⵠᐃ[$r.Δᐃᐃⵠⵠ].id = $r.Δᐃᐃⵠⵠ;
-    this.ⵠⵠᐃ[$r.ΔΔⲆⵠⲆ] = _v(60, 60, 0, ΔΔ[Xr.ⵠᐃᐃⲆⲆⵠⲆ], 3);
-    this.ⵠⵠᐃ[$r.ΔΔⲆⵠⲆ].id = $r.ΔΔⲆⵠⲆ;
-    this.ⵠⵠᐃ[$r.ΔᐃⲆᐃᐃ] = _v(60, 60, 0, ΔΔ[Xr.ⲆᐃⵠⲆᐃᐃⵠ], ci);
-    this.ⵠⵠᐃ[$r.ΔᐃⲆᐃᐃ].id = $r.ΔᐃⲆᐃᐃ;
-    this.ⵠⵠᐃ[$r.ᐃⲆΔⲆⵠ] = _v(60, 60, 0, ΔΔ[Xr.ⲆᐃⲆⲆⲆᐃᐃ], 3);
-    this.ⵠⵠᐃ[$r.ᐃⲆΔⲆⵠ].id = $r.ᐃⲆΔⲆⵠ;
-    this.ⵠⵠᐃ[$r.ⲆᐃᐃⲆᐃ] = _v(60, 60, 0, ΔΔ[Xr.ᐃΔᐃΔΔᐃᐃ], Tt);
-    this.ⵠⵠᐃ[$r.ⲆᐃᐃⲆᐃ].id = $r.ⲆᐃᐃⲆᐃ;
-    this.ⵠⵠᐃ[$r.ⲆⲆⲆⵠⵠ] = _v(60, 60, 0, ΔΔ[Xr.ⵠΔⲆᐃⲆⵠΔ], 3);
-    this.ⵠⵠᐃ[$r.ⲆⲆⲆⵠⵠ].id = $r.ⲆⲆⲆⵠⵠ;
-    this.ⵠⵠᐃ[$r.ΔΔⲆᐃᐃ] = _v(60, 60, 0, ΔΔ[Xr.ΔⲆΔⵠⵠᐃⵠ], 3);
-    this.ⵠⵠᐃ[$r.ΔΔⲆᐃᐃ].id = $r.ΔΔⲆᐃᐃ;
-    this.ⵠⵠᐃ[$r.ⲆⲆⲆᐃΔ] = _v(60, 60, 0, ΔΔ[Xr.ⵠⵠⲆᐃΔᐃᐃ], 3);
-    this.ⵠⵠᐃ[$r.ⲆⲆⲆᐃΔ].id = $r.ⲆⲆⲆᐃΔ;
-    this.ⵠⵠᐃ[$r.ΔⲆΔΔΔ] = _v(60, 60, 0, ΔΔ[Xr.ⵠⵠᐃⲆᐃⲆᐃ], Lg);
-    this.ⵠⵠᐃ[$r.ΔⲆΔΔΔ].id = $r.ΔⲆΔΔΔ;
-    this.ⵠⵠᐃ[$r.ⵠΔΔᐃᐃ] = _v(60, 60, 0, ΔΔ[Xr.ⵠⵠⲆΔΔᐃⲆ], 3);
-    this.ⵠⵠᐃ[$r.ⵠΔΔᐃᐃ].id = $r.ⵠΔΔᐃᐃ;
-    this.ⵠⵠᐃ[$r.ⲆⵠΔⵠⵠ] = _v(60, 60, 0, ΔΔ[Xr.ᐃᐃᐃᐃⲆⵠᐃ], ci);
-    this.ⵠⵠᐃ[$r.ⲆⵠΔⵠⵠ].id = $r.ⲆⵠΔⵠⵠ;
-    this.ⵠⵠᐃ[$r.ᐃΔⵠᐃⵠ] = _v(60, 60, 0, ΔΔ[Xr.ΔΔᐃᐃΔᐃⲆ], fn);
-    this.ⵠⵠᐃ[$r.ᐃΔⵠᐃⵠ].id = $r.ᐃΔⵠᐃⵠ;
-    this.ⵠⵠᐃ[$r.ΔᐃⵠⵠΔ] = _v(60, 60, 0, ΔΔ[Xr.ⵠⵠᐃΔⲆΔⵠ], sl);
-    this.ⵠⵠᐃ[$r.ΔᐃⵠⵠΔ].id = $r.ΔᐃⵠⵠΔ;
-    this.ⵠⵠᐃ[$r.ⲆⵠΔⲆⲆ] = _v(60, 60, 0, ΔΔ[Xr.ⲆᐃⵠΔⵠΔⵠ], 3);
-    this.ⵠⵠᐃ[$r.ⲆⵠΔⲆⲆ].id = $r.ⲆⵠΔⲆⲆ;
-    this.ⵠⵠᐃ[$r.Δⵠᐃᐃᐃ] = _v(60, 60, 0, ΔΔ[Xr.ΔⲆⲆΔΔᐃⵠ], 3);
-    this.ⵠⵠᐃ[$r.Δⵠᐃᐃᐃ].id = $r.Δⵠᐃᐃᐃ;
-    this.ⵠⵠᐃ[$r.ⵠΔⲆΔⲆ] = _v(60, 60, 0, ΔΔ[Xr.ᐃⲆᐃΔⲆⵠᐃ], xb);
-    this.ⵠⵠᐃ[$r.ⵠΔⲆΔⲆ].id = $r.ⵠΔⲆΔⲆ;
-    this.ⵠⵠᐃ[$r.ΔⵠΔⵠⵠ] = _v(60, 60, 0, ΔΔ[Xr.ⵠⲆΔⲆΔᐃⵠ], sl);
-    this.ⵠⵠᐃ[$r.ΔⵠΔⵠⵠ].id = $r.ΔⵠΔⵠⵠ;
-    this.ⵠⵠᐃ[$r.ᐃᐃⲆⵠⵠ] = _v(60, 60, 0, ΔΔ[Xr.ⵠⲆΔᐃⲆⲆⲆ], 3);
-    this.ⵠⵠᐃ[$r.ᐃᐃⲆⵠⵠ].id = $r.ᐃᐃⲆⵠⵠ;
-    this.ⵠⵠᐃ[$r.Δᐃᐃⵠᐃ] = _v(60, 60, 0, ΔΔ[Xr.ⲆⲆⵠⵠᐃⵠᐃ], Hk);
-    this.ⵠⵠᐃ[$r.Δᐃᐃⵠᐃ].id = $r.Δᐃᐃⵠᐃ;
-    this.ⵠⵠᐃ[$r.ΔᐃΔⲆⲆ] = _v(60, 60, 0, ΔΔ[Xr.ⲆᐃⲆⵠⲆᐃⵠ], 3);
-    this.ⵠⵠᐃ[$r.ΔᐃΔⲆⲆ].id = $r.ΔᐃΔⲆⲆ;
-    this.ⵠⵠᐃ[$r.ᐃⲆⲆⵠᐃ] = _v(60, 60, 0, ΔΔ[Xr.ⵠᐃⵠΔⵠⵠⵠ], nq);
-    this.ⵠⵠᐃ[$r.ᐃⲆⲆⵠᐃ].id = $r.ᐃⲆⲆⵠᐃ;
-    this.ⵠⵠᐃ[$r.ᐃⵠΔΔⲆ] = _v(60, 60, 0, ΔΔ[Xr.ᐃⵠⵠᐃⲆΔⵠ], ll);
-    this.ⵠⵠᐃ[$r.ᐃⵠΔΔⲆ].id = $r.ᐃⵠΔΔⲆ;
-    this.ⵠⵠᐃ[$r.ⵠΔΔΔⲆ] = _v(60, 60, 0, ΔΔ[Xr.ⲆⲆΔΔⵠⵠⵠ], 3);
-    this.ⵠⵠᐃ[$r.ⵠΔΔΔⲆ].id = $r.ⵠΔΔΔⲆ;
-    this.ⵠⵠᐃ[$r.ⵠⲆᐃᐃ] = _v(60, 60, 0, ΔΔ[Xr.ⵠⲆⵠᐃⲆⲆΔ], nq);
-    this.ⵠⵠᐃ[$r.ⵠⲆᐃᐃ].id = $r.ⵠⲆᐃᐃ;
-    this.ⵠⵠᐃ[$r.ΔⲆᐃⵠΔ] = _v(60, 60, 0, ΔΔ[Xr.ⲆΔⲆᐃⲆⵠᐃ], 3);
-    this.ⵠⵠᐃ[$r.ΔⲆᐃⵠΔ].id = $r.ΔⲆᐃⵠΔ;
-    this.ⵠⵠᐃ[$r.ⵠΔᐃᐃⵠ] = _v(60, 60, 0, ΔΔ[Xr.ⲆΔⲆᐃᐃΔⵠ], 3);
+    this.ⵠⵠᐃ[86] = _v(60, 60, 0, ΔΔ[1231], Wb);
+    this.ⵠⵠᐃ[86].id = 86;
+    this.ⵠⵠᐃ[98] = _v(60, 60, 0, ΔΔ[1138], ea);
+    this.ⵠⵠᐃ[98].id = 98;
+    this.ⵠⵠᐃ[99] = _v(60, 60, 0, ΔΔ[1141], 3);
+    this.ⵠⵠᐃ[99].id = 99;
+    this.ⵠⵠᐃ[131] = _v(60, 60, 0, ΔΔ[570], qo);
+    this.ⵠⵠᐃ[131].id = 131;
+    this.ⵠⵠᐃ[132] = _v(60, 60, 0, ΔΔ[1168], nq);
+    this.ⵠⵠᐃ[132].id = 132;
+    this.ⵠⵠᐃ[145] = _v(60, 60, 0, ΔΔ[1238], xb);
+    this.ⵠⵠᐃ[145].id = 145;
+    this.ⵠⵠᐃ[133] = _v(60, 60, 0, ΔΔ[573], ci);
+    this.ⵠⵠᐃ[133].id = 133;
+    this.ⵠⵠᐃ[134] = _v(60, 60, 0, ΔΔ[1171], Wb);
+    this.ⵠⵠᐃ[134].id = 134;
+    this.ⵠⵠᐃ[146] = _v(60, 60, 0, ΔΔ[1241], 3);
+    this.ⵠⵠᐃ[146].id = 146;
+    this.ⵠⵠᐃ[135] = _v(60, 60, 0, ΔΔ[576], 3);
+    this.ⵠⵠᐃ[135].id = 135;
+    this.ⵠⵠᐃ[136] = _v(60, 60, 0, ΔΔ[1174], fn);
+    this.ⵠⵠᐃ[136].id = 136;
+    this.ⵠⵠᐃ[147] = _v(60, 60, 0, ΔΔ[1244], ll);
+    this.ⵠⵠᐃ[147].id = 147;
+    this.ⵠⵠᐃ[137] = _v(60, 60, 0, ΔΔ[579], ub);
+    this.ⵠⵠᐃ[137].id = 137;
+    this.ⵠⵠᐃ[138] = _v(60, 60, 0, ΔΔ[1177], 3);
+    this.ⵠⵠᐃ[138].id = 138;
+    this.ⵠⵠᐃ[167] = _v(60, 60, 0, ΔΔ[1256], ci);
+    this.ⵠⵠᐃ[167].id = 167;
+    this.ⵠⵠᐃ[168] = _v(60, 60, 0, ΔΔ[1259], 3);
+    this.ⵠⵠᐃ[168].id = 168;
+    this.ⵠⵠᐃ[169] = _v(60, 60, 0, ΔΔ[1262], Tt);
+    this.ⵠⵠᐃ[169].id = 169;
+    this.ⵠⵠᐃ[170] = _v(60, 60, 0, ΔΔ[1265], 3);
+    this.ⵠⵠᐃ[170].id = 170;
+    this.ⵠⵠᐃ[171] = _v(60, 60, 0, ΔΔ[1268], 3);
+    this.ⵠⵠᐃ[171].id = 171;
+    this.ⵠⵠᐃ[172] = _v(60, 60, 0, ΔΔ[1271], 3);
+    this.ⵠⵠᐃ[172].id = 172;
+    this.ⵠⵠᐃ[148] = _v(60, 60, 0, ΔΔ[1247], Lg);
+    this.ⵠⵠᐃ[148].id = 148;
+    this.ⵠⵠᐃ[139] = _v(60, 60, 0, ΔΔ[582], 3);
+    this.ⵠⵠᐃ[139].id = 139;
+    this.ⵠⵠᐃ[140] = _v(60, 60, 0, ΔΔ[1180], ci);
+    this.ⵠⵠᐃ[140].id = 140;
+    this.ⵠⵠᐃ[149] = _v(60, 60, 0, ΔΔ[1250], fn);
+    this.ⵠⵠᐃ[149].id = 149;
+    this.ⵠⵠᐃ[141] = _v(60, 60, 0, ΔΔ[585], sl);
+    this.ⵠⵠᐃ[141].id = 141;
+    this.ⵠⵠᐃ[142] = _v(60, 60, 0, ΔΔ[1183], 3);
+    this.ⵠⵠᐃ[142].id = 142;
+    this.ⵠⵠᐃ[150] = _v(60, 60, 0, ΔΔ[1253], 3);
+    this.ⵠⵠᐃ[150].id = 150;
+    this.ⵠⵠᐃ[143] = _v(60, 60, 0, ΔΔ[588], xb);
+    this.ⵠⵠᐃ[143].id = 143;
+    this.ⵠⵠᐃ[144] = _v(60, 60, 0, ΔΔ[1186], sl);
+    this.ⵠⵠᐃ[144].id = 144;
+    this.ⵠⵠᐃ[87] = _v(60, 60, 0, ΔΔ[827], 3);
+    this.ⵠⵠᐃ[87].id = 87;
+    this.ⵠⵠᐃ[88] = _v(60, 60, 0, ΔΔ[430], Hk);
+    this.ⵠⵠᐃ[88].id = 88;
+    this.ⵠⵠᐃ[89] = _v(60, 60, 0, ΔΔ[433], 3);
+    this.ⵠⵠᐃ[89].id = 89;
+    this.ⵠⵠᐃ[90] = _v(60, 60, 0, ΔΔ[436], nq);
+    this.ⵠⵠᐃ[90].id = 90;
+    this.ⵠⵠᐃ[24] = _v(60, 60, 0, ΔΔ[439], ll);
+    this.ⵠⵠᐃ[24].id = 24;
+    this.ⵠⵠᐃ[101] = _v(60, 60, 0, ΔΔ[442], 3);
+    this.ⵠⵠᐃ[101].id = 101;
+    this.ⵠⵠᐃ[100] = _v(60, 60, 0, ΔΔ[367], nq);
+    this.ⵠⵠᐃ[100].id = 100;
+    this.ⵠⵠᐃ[38] = _v(60, 60, 0, ΔΔ[456], 3);
+    this.ⵠⵠᐃ[38].id = 38;
+    this.ⵠⵠᐃ[$r.ⵠΔᐃᐃⵠ] = _v(60, 60, 0, ΔΔ[861], 3);
     this.ⵠⵠᐃ[$r.ⵠΔᐃᐃⵠ].id = $r.ⵠΔᐃᐃⵠ;
-    this.ⵠⵠᐃ[$r.ΔⲆⲆⵠⲆ] = _v(60, 60, 0, ΔΔ[Xr.ᐃⵠᐃⵠΔΔᐃ], eg);
-    this.ⵠⵠᐃ[$r.ΔⲆⲆⵠⲆ].id = $r.ΔⲆⲆⵠⲆ;
-    this.ⵠⵠᐃ[$r.ⲆⵠΔⵠΔ] = _v(60, 60, 0, ΔΔ[Xr.ᐃⲆᐃⵠᐃΔΔ], 3);
-    this.ⵠⵠᐃ[$r.ⲆⵠΔⵠΔ].id = $r.ⲆⵠΔⵠΔ;
-    this.ⵠⵠᐃ[$r.ᐃΔⵠⲆᐃ] = _v(60, 60, 0, ΔΔ[Xr.ⲆΔⵠΔⲆᐃⵠ], 3);
-    this.ⵠⵠᐃ[$r.ᐃΔⵠⲆᐃ].id = $r.ᐃΔⵠⲆᐃ;
-    this.ⵠⵠᐃ[$r.ⲆᐃΔⲆΔ] = _v(60, 60, 0, ΔΔ[Xr.ᐃΔᐃΔⵠᐃΔ], yr);
-    this.ⵠⵠᐃ[$r.ⲆᐃΔⲆΔ].id = $r.ⲆᐃΔⲆΔ;
-    this.ⵠⵠᐃ[$r.ⲆⲆⵠⲆⲆ] = _v(60, 60, 0, ΔΔ[Xr.ΔⵠΔⵠᐃΔΔ], yr);
-    this.ⵠⵠᐃ[$r.ⲆⲆⵠⲆⲆ].id = $r.ⲆⲆⵠⲆⲆ;
-    this.ⵠⵠᐃ[$r.ⵠΔΔΔⵠ] = _v(60, 60, 0, ΔΔ[Xr.ᐃⵠΔᐃⵠⵠΔ], 3);
-    this.ⵠⵠᐃ[$r.ⵠΔΔΔⵠ].id = $r.ⵠΔΔΔⵠ;
-    this.ⵠⵠᐃ[$r.ᐃⵠⵠⵠᐃ] = _v(60, 60, 0, ΔΔ[Xr.ⲆⲆⵠᐃΔⲆΔ], Lg);
-    this.ⵠⵠᐃ[$r.ᐃⵠⵠⵠᐃ].id = $r.ᐃⵠⵠⵠᐃ;
-    this.ⵠⵠᐃ[$r.ᐃⵠⲆⵠΔ] = _v(60, 60, 0, ΔΔ[Xr.ⵠⵠᐃⵠΔᐃⲆ], 3);
-    this.ⵠⵠᐃ[$r.ᐃⵠⲆⵠΔ].id = $r.ᐃⵠⲆⵠΔ;
-    this.ⵠⵠᐃ[$r.ᐃΔⵠⵠΔ] = _v(60, 60, 0, ΔΔ[Xr.ᐃⵠᐃΔᐃⵠⵠ], qo);
-    this.ⵠⵠᐃ[$r.ᐃΔⵠⵠΔ].id = $r.ᐃΔⵠⵠΔ;
-    this.ⵠⵠᐃ[$r.ᐃⲆⵠᐃᐃ] = _v(60, 60, 0, ΔΔ[Xr.ΔᐃⲆⵠⲆⲆⵠ], I);
-    this.ⵠⵠᐃ[$r.ᐃⲆⵠᐃᐃ].id = $r.ᐃⲆⵠᐃᐃ;
-    this.ⵠⵠᐃ[$r.Δⵠᐃⵠᐃ] = _v(60, 60, 0, ΔΔ[Xr.ⲆⵠᐃⲆⲆⵠⵠ], 3);
-    this.ⵠⵠᐃ[$r.Δⵠᐃⵠᐃ].id = $r.Δⵠᐃⵠᐃ;
-    this.ⵠⵠᐃ[$r.ᐃⲆⲆΔΔ] = _v(60, 60, 0, ΔΔ[Xr.ⲆⵠⵠᐃᐃΔΔ], qu);
-    this.ⵠⵠᐃ[$r.ᐃⲆⲆΔΔ].id = $r.ᐃⲆⲆΔΔ;
-    this.ⵠⵠᐃ[$r.ⲆⲆⲆᐃⵠ] = _v(60, 60, 0, ΔΔ[Xr.ΔⲆⲆⵠᐃⲆᐃ], 3);
-    this.ⵠⵠᐃ[$r.ⲆⲆⲆᐃⵠ].id = $r.ⲆⲆⲆᐃⵠ;
-    this.ⵠⵠᐃ[$r.ⵠⵠⲆⵠᐃ] = _v(60, 60, 0, ΔΔ[Xr.ⲆΔᐃΔⵠΔⲆ], 3);
-    this.ⵠⵠᐃ[$r.ⵠⵠⲆⵠᐃ].id = $r.ⵠⵠⲆⵠᐃ;
-    this.ⵠⵠᐃ[$r.ⲆⲆⵠⵠᐃ] = _v(60, 60, 0, ΔΔ[Xr.ⵠΔΔΔⵠᐃⵠ], 3);
-    this.ⵠⵠᐃ[$r.ⲆⲆⵠⵠᐃ].id = $r.ⲆⲆⵠⵠᐃ;
-    this.ⵠⵠᐃ[$r.ᐃⵠᐃⲆⵠ] = _v(60, 60, 0, ΔΔ[Xr.ⵠⵠⵠΔΔⵠⲆ], ll);
-    this.ⵠⵠᐃ[$r.ᐃⵠᐃⲆⵠ].id = $r.ᐃⵠᐃⲆⵠ;
-    this.ⵠⵠᐃ[$r.ⲆⵠᐃᐃΔ] = _v(60, 60, 0, ΔΔ[Xr.ⲆᐃΔⲆⵠⵠᐃ], 3);
-    this.ⵠⵠᐃ[$r.ⲆⵠᐃᐃΔ].id = $r.ⲆⵠᐃᐃΔ;
-    this.ⵠⵠᐃ[$r.ⵠⲆⲆⵠⵠ] = _v(60, 60, 0, ΔΔ[Xr.Ⲇⵠᐃᐃᐃᐃⵠ], ub);
-    this.ⵠⵠᐃ[$r.ⵠⲆⲆⵠⵠ].id = $r.ⵠⲆⲆⵠⵠ;
-    this.ⵠⵠᐃ[$r.ⵠⵠᐃᐃⲆ] = _v(60, 60, 0, ΔΔ[Xr.ⵠⲆᐃⲆΔⲆⲆ], sl);
-    this.ⵠⵠᐃ[$r.ⵠⵠᐃᐃⲆ].id = $r.ⵠⵠᐃᐃⲆ;
-    this.ⵠⵠᐃ[$r.ⲆᐃⲆᐃⵠ] = _v(60, 60, 0, ΔΔ[Xr.ΔⲆⲆΔΔⵠᐃ], ci);
-    this.ⵠⵠᐃ[$r.ⲆᐃⲆᐃⵠ].id = $r.ⲆᐃⲆᐃⵠ;
-    this.ⵠⵠᐃ[$r.ⵠᐃⵠᐃⵠ] = _v(60, 60, 0, ΔΔ[Xr.ⵠᐃⲆⵠᐃΔⲆ], Tt);
-    this.ⵠⵠᐃ[$r.ⵠᐃⵠᐃⵠ].id = $r.ⵠᐃⵠᐃⵠ;
-    this.ⵠⵠᐃ[$r.ⵠⵠⲆΔⲆ] = _v(60, 60, 0, ΔΔ[Xr.ΔⲆΔⲆⵠⵠᐃ], 3);
-    this.ⵠⵠᐃ[$r.ⵠⵠⲆΔⲆ].id = $r.ⵠⵠⲆΔⲆ;
-    this.ⵠⵠᐃ[$r.ⵠᐃᐃⲆᐃ] = _v(60, 60, 0, ΔΔ[Xr.ⵠⲆⲆᐃⵠΔᐃ], Tt);
-    this.ⵠⵠᐃ[$r.ⵠᐃᐃⲆᐃ].id = $r.ⵠᐃᐃⲆᐃ;
-    this.ⵠⵠᐃ[$r.ΔⵠΔΔⵠ] = _v(60, 60, 0, ΔΔ[Xr.ᐃΔⵠᐃᐃΔᐃ], 3);
-    this.ⵠⵠᐃ[$r.ΔⵠΔΔⵠ].id = $r.ΔⵠΔΔⵠ;
-    this.ⵠⵠᐃ[$r.ᐃⵠⲆⵠⲆ] = _v(60, 60, 0, ΔΔ[Xr.ⵠΔΔⲆΔᐃΔ], qo);
-    this.ⵠⵠᐃ[$r.ᐃⵠⲆⵠⲆ].id = $r.ᐃⵠⲆⵠⲆ;
-    this.ⵠⵠᐃ[$r.ⵠⲆᐃⲆΔ] = _v(60, 60, 0, ΔΔ[Xr.ΔΔⵠᐃⲆΔΔ], Wb);
+    this.ⵠⵠᐃ[8] = _v(60, 60, 0, ΔΔ[460], eg);
+    this.ⵠⵠᐃ[8].id = 8;
+    this.ⵠⵠᐃ[9] = _v(60, 60, 0, ΔΔ[1019], 3);
+    this.ⵠⵠᐃ[9].id = 9;
+    this.ⵠⵠᐃ[29] = _v(60, 60, 0, ΔΔ[473], 3);
+    this.ⵠⵠᐃ[29].id = 29;
+    this.ⵠⵠᐃ[10] = _v(60, 60, 0, ΔΔ[478], yr);
+    this.ⵠⵠᐃ[10].id = 10;
+    this.ⵠⵠᐃ[11] = _v(60, 60, 0, ΔΔ[481], yr);
+    this.ⵠⵠᐃ[11].id = 11;
+    this.ⵠⵠᐃ[12] = _v(60, 60, 0, ΔΔ[484], 3);
+    this.ⵠⵠᐃ[12].id = 12;
+    this.ⵠⵠᐃ[13] = _v(60, 60, 0, ΔΔ[487], Lg);
+    this.ⵠⵠᐃ[13].id = 13;
+    this.ⵠⵠᐃ[14] = _v(60, 60, 0, ΔΔ[490], 3);
+    this.ⵠⵠᐃ[14].id = 14;
+    this.ⵠⵠᐃ[59] = _v(60, 60, 0, ΔΔ[493], qo);
+    this.ⵠⵠᐃ[59].id = 59;
+    this.ⵠⵠᐃ[71] = _v(60, 60, 0, ΔΔ[496], I);
+    this.ⵠⵠᐃ[71].id = 71;
+    this.ⵠⵠᐃ[65] = _v(60, 60, 0, ΔΔ[498], 3);
+    this.ⵠⵠᐃ[65].id = 65;
+    this.ⵠⵠᐃ[85] = _v(60, 60, 0, ΔΔ[503], qu);
+    this.ⵠⵠᐃ[85].id = 85;
+    this.ⵠⵠᐃ[102] = _v(60, 60, 0, ΔΔ[515], 3);
+    this.ⵠⵠᐃ[102].id = 102;
+    this.ⵠⵠᐃ[103] = _v(60, 60, 0, ΔΔ[519], 3);
+    this.ⵠⵠᐃ[103].id = 103;
+    this.ⵠⵠᐃ[115] = _v(60, 60, 0, ΔΔ[530], 3);
+    this.ⵠⵠᐃ[115].id = 115;
+    this.ⵠⵠᐃ[104] = _v(60, 60, 0, ΔΔ[533], ll);
+    this.ⵠⵠᐃ[104].id = 104;
+    this.ⵠⵠᐃ[105] = _v(60, 60, 0, ΔΔ[555], 3);
+    this.ⵠⵠᐃ[105].id = 105;
+    this.ⵠⵠᐃ[91] = _v(60, 60, 0, ΔΔ[542], ub);
+    this.ⵠⵠᐃ[91].id = 91;
+    this.ⵠⵠᐃ[15] = _v(60, 60, 0, ΔΔ[551], sl);
+    this.ⵠⵠᐃ[15].id = 15;
+    this.ⵠⵠᐃ[106] = _v(60, 60, 0, ΔΔ[604], ci);
+    this.ⵠⵠᐃ[106].id = 106;
+    this.ⵠⵠᐃ[108] = _v(60, 60, 0, ΔΔ[1235], Tt);
+    this.ⵠⵠᐃ[108].id = 108;
+    this.ⵠⵠᐃ[163] = _v(60, 60, 0, ΔΔ[1027], 3);
+    this.ⵠⵠᐃ[163].id = 163;
+    this.ⵠⵠᐃ[164] = _v(60, 60, 0, ΔΔ[1030], Tt);
+    this.ⵠⵠᐃ[164].id = 164;
+    this.ⵠⵠᐃ[166] = _v(60, 60, 0, ΔΔ[1116], 3);
+    this.ⵠⵠᐃ[166].id = 166;
+    this.ⵠⵠᐃ[165] = _v(60, 60, 0, ΔΔ[1048], qo);
+    this.ⵠⵠᐃ[165].id = 165;
+    this.ⵠⵠᐃ[$r.ⵠⲆᐃⲆΔ] = _v(60, 60, 0, ΔΔ[1051], Wb);
     this.ⵠⵠᐃ[$r.ⵠⲆᐃⲆΔ].id = $r.ⵠⲆᐃⲆΔ;
-    this.ⵠⵠᐃ[$r.ⲆⵠΔᐃⵠ] = _v(60, 60, 0, ΔΔ[Xr.ⲆⵠⵠΔᐃⵠᐃ], 3);
+    this.ⵠⵠᐃ[$r.ⲆⵠΔᐃⵠ] = _v(60, 60, 0, ΔΔ[1082], 3);
     this.ⵠⵠᐃ[$r.ⲆⵠΔᐃⵠ].id = $r.ⲆⵠΔᐃⵠ;
-    this.ⵠⵠᐃ[$r.ΔΔⵠⲆⲆ] = _v(60, 60, 0, ΔΔ[Xr.ⵠⲆⲆⵠⵠⵠᐃ], I);
+    this.ⵠⵠᐃ[$r.ΔΔⵠⲆⲆ] = _v(60, 60, 0, ΔΔ[1226], I);
     this.ⵠⵠᐃ[$r.ΔΔⵠⲆⲆ].id = $r.ΔΔⵠⲆⲆ;
-    this.ⵠⵠᐃ[$r.ᐃⵠⵠᐃⵠ] = _v(60, 60, 0, ΔΔ[Xr.ⲆⵠᐃᐃⲆΔᐃ], xb);
+    this.ⵠⵠᐃ[$r.ᐃⵠⵠᐃⵠ] = _v(60, 60, 0, ΔΔ[1191], xb);
     this.ⵠⵠᐃ[$r.ᐃⵠⵠᐃⵠ].id = $r.ᐃⵠⵠᐃⵠ;
-    this.ⵠⵠᐃ[$r.ᐃⲆⵠΔᐃ] = _v(60, 60, 0, ΔΔ[Xr.ΔᐃⲆⲆⵠΔᐃ], 3);
-    this.ⵠⵠᐃ[$r.ᐃⲆⵠΔᐃ].id = $r.ᐃⲆⵠΔᐃ;
-    this.ⵠⵠᐃ[$r.ΔᐃᐃⵠΔ] = _v(60, 60, 0, ΔΔ[Xr.ⵠⲆᐃᐃᐃᐃⵠ], 3);
-    this.ⵠⵠᐃ[$r.ΔᐃᐃⵠΔ].id = $r.ΔᐃᐃⵠΔ;
-    this.ⵠⵠᐃ[$r.ᐃᐃⲆⲆΔⵠᐃ] = _v(60, 60, 0, ΔΔ[Xr.ⵠⲆᐃᐃᐃᐃⵠ], 3);
-    this.ⵠⵠᐃ[$r.ᐃᐃⲆⲆΔⵠᐃ].id = $r.ᐃᐃⲆⲆΔⵠᐃ;
-    this.ⵠⵠᐃ[$r.ⲆⲆᐃΔⲆⲆΔ] = _v(60, 60, 0, ΔΔ[Xr.ⵠⲆᐃᐃᐃᐃⵠ], eg);
-    this.ⵠⵠᐃ[$r.ⲆⲆᐃΔⲆⲆΔ].id = $r.ⲆⲆᐃΔⲆⲆΔ;
-    this.ⵠⵠᐃ[$r.ᐃΔΔΔΔ] = _v(60, 60, 0, ΔΔ[Xr.ᐃⵠⲆΔᐃⲆᐃ], Hk);
-    this.ⵠⵠᐃ[$r.ᐃΔΔΔΔ].id = $r.ᐃΔΔΔΔ;
-    this.ⵠⵠᐃ[$r.ⲆΔΔⵠⵠ] = _v(60, 60, 0, ΔΔ[Xr.ΔᐃᐃⵠⲆΔⵠ], 3);
-    this.ⵠⵠᐃ[$r.ⲆΔΔⵠⵠ].id = $r.ⲆΔΔⵠⵠ;
-    this.ⵠⵠᐃ[$r.ⵠᐃⵠᐃΔ] = _v(60, 60, 0, ΔΔ[Xr.ⲆᐃⵠᐃΔⲆⵠ], nq);
-    this.ⵠⵠᐃ[$r.ⵠᐃⵠᐃΔ].id = $r.ⵠᐃⵠᐃΔ;
-    this.ⵠⵠᐃ[$r.ⵠᐃⲆⲆⵠ] = _v(60, 60, 0, ΔΔ[Xr.ⲆᐃⵠⲆΔᐃᐃ], 3);
-    this.ⵠⵠᐃ[$r.ⵠᐃⲆⲆⵠ].id = $r.ⵠᐃⲆⲆⵠ;
-    this.ⵠⵠᐃ[$r.ᐃⵠᐃΔⵠ] = _v(60, 60, 0, ΔΔ[Xr.ⵠⵠⲆΔΔᐃᐃ], qo);
-    this.ⵠⵠᐃ[$r.ᐃⵠᐃΔⵠ].id = $r.ᐃⵠᐃΔⵠ;
-    this.ⵠⵠᐃ[$r.ⲆΔᐃΔⲆ] = _v(60, 60, 0, ΔΔ[Xr.ΔᐃᐃⵠⲆⲆⵠ], ut);
-    this.ⵠⵠᐃ[$r.ⲆΔᐃΔⲆ].id = $r.ⲆΔᐃΔⲆ;
-    this.ⵠⵠᐃ[$r.ⲆΔᐃΔΔ] = _v(60, 60, 0, ΔΔ[Xr.ΔΔⲆᐃᐃΔΔ], 3);
-    this.ⵠⵠᐃ[$r.ⲆΔᐃΔΔ].id = $r.ⲆΔᐃΔΔ;
-    this.ⵠⵠᐃ[$r.ⲆᐃᐃⵠΔ] = _v(60, 60, 0, ΔΔ[Xr.ΔΔΔᐃᐃᐃⵠ], 3);
-    this.ⵠⵠᐃ[$r.ⲆᐃᐃⵠΔ].id = $r.ⲆᐃᐃⵠΔ;
-    this.ⵠⵠᐃ[$r.ⵠΔⲆⲆΔ] = _v(60, 60, 0, ΔΔ[Xr.ΔᐃΔⵠⲆΔⵠ], ci);
-    this.ⵠⵠᐃ[$r.ⵠΔⲆⲆΔ].id = $r.ⵠΔⲆⲆΔ;
-    this.ⵠⵠᐃ[$r.ᐃⵠⵠⲆΔ] = _v(60, 60, 0, ΔΔ[Xr.ⲆᐃⲆⵠⲆⲆΔ], ub);
-    this.ⵠⵠᐃ[$r.ᐃⵠⵠⲆΔ].id = $r.ᐃⵠⵠⲆΔ;
-    this.ⵠⵠᐃ[$r.ᐃⲆⵠⲆⲆ] = _v(60, 60, 0, ΔΔ[Xr.ⲆⲆⲆⵠΔΔΔ], 3);
-    this.ⵠⵠᐃ[$r.ᐃⲆⵠⲆⲆ].id = $r.ᐃⲆⵠⲆⲆ;
-    this.ⵠⵠᐃ[$r.ᐃᐃΔⵠΔ] = _v(60, 60, 0, ΔΔ[Xr.ⲆⲆΔᐃⵠⲆⲆ], 3);
-    this.ⵠⵠᐃ[$r.ᐃᐃΔⵠΔ].id = $r.ᐃᐃΔⵠΔ;
-    this.ⵠⵠᐃ[$r.ⵠᐃⲆⲆᐃ] = _v(60, 60, 0, ΔΔ[Xr.ᐃᐃⲆΔᐃⲆᐃ], 3);
-    this.ⵠⵠᐃ[$r.ⵠᐃⲆⲆᐃ].id = $r.ⵠᐃⲆⲆᐃ;
-    this.ⵠⵠᐃ[$r.ⲆⵠΔⲆΔ] = _v(60, 60, 0, ΔΔ[Xr.ΔΔᐃⲆᐃⲆⵠ], Tt);
-    this.ⵠⵠᐃ[$r.ⲆⵠΔⲆΔ].id = $r.ⲆⵠΔⲆΔ;
-    this.ⵠⵠᐃ[$r.ⵠⲆΔⲆᐃ] = _v(60, 60, 0, ΔΔ[Xr.ⲆⲆΔⲆΔⲆⵠ], yr);
-    this.ⵠⵠᐃ[$r.ⵠⲆΔⲆᐃ].id = $r.ⵠⲆΔⲆᐃ;
-    this.ⵠⵠᐃ[$r.ΔΔΔⵠⵠ] = _v(60, 60, 0, ΔΔ[Xr.ⵠⲆⵠΔⵠΔⲆ], 3);
-    this.ⵠⵠᐃ[$r.ΔΔΔⵠⵠ].id = $r.ΔΔΔⵠⵠ;
-    this.ⵠⵠᐃ[$r.Δᐃᐃᐃᐃ] = _v(60, 60, 0, ΔΔ[Xr.ᐃΔΔΔⵠⵠᐃ], qu);
-    this.ⵠⵠᐃ[$r.Δᐃᐃᐃᐃ].id = $r.Δᐃᐃᐃᐃ;
-    this.ⵠⵠᐃ[$r.ⲆⲆΔⵠⵠ] = _v(60, 60, 0, ΔΔ[Xr.ᐃᐃⲆⲆᐃΔΔ], xb);
-    this.ⵠⵠᐃ[$r.ⲆⲆΔⵠⵠ].id = $r.ⲆⲆΔⵠⵠ;
-    this.ⵠⵠᐃ[$r.ᐃⵠΔᐃΔ] = _v(60, 60, 0, ΔΔ[Xr.ⵠᐃⲆΔΔΔⲆ], 3);
-    this.ⵠⵠᐃ[$r.ᐃⵠΔᐃΔ].id = $r.ᐃⵠΔᐃΔ;
-    this.ⵠⵠᐃ[$r.ⵠᐃᐃΔⵠ] = _v(60, 60, 0, ΔΔ[Xr.ⵠⲆⵠᐃⵠΔⵠ], 3);
-    this.ⵠⵠᐃ[$r.ⵠᐃᐃΔⵠ].id = $r.ⵠᐃᐃΔⵠ;
-    this.ⵠⵠᐃ[$r.ᐃⲆΔⵠⵠ] = _v(60, 60, 0, ΔΔ[Xr.ⵠⵠᐃⲆΔⲆᐃ], sl);
-    this.ⵠⵠᐃ[$r.ᐃⲆΔⵠⵠ].id = $r.ᐃⲆΔⵠⵠ;
-    this.ⵠⵠᐃ[$r.ⵠᐃⵠⵠΔ] = _v(60, 60, 0, ΔΔ[Xr.ⲆⲆⲆᐃΔΔⵠ], 3);
-    this.ⵠⵠᐃ[$r.ⵠᐃⵠⵠΔ].id = $r.ⵠᐃⵠⵠΔ;
-    this.ⵠⵠᐃ[$r.ⲆⲆᐃᐃΔ] = _v(60, 60, 0, ΔΔ[Xr.ᐃⵠⲆΔⵠⲆⲆ], ci);
-    this.ⵠⵠᐃ[$r.ⲆⲆᐃᐃΔ].id = $r.ⲆⲆᐃᐃΔ;
-    this.ⵠⵠᐃ[$r.ⲆΔⵠⵠᐃ] = _v(60, 60, 0, ΔΔ[Xr.ΔΔᐃᐃⵠⲆΔ], ea);
-    this.ⵠⵠᐃ[$r.ⲆΔⵠⵠᐃ].id = $r.ⲆΔⵠⵠᐃ;
-    this.ⵠⵠᐃ[$r.ΔᐃⲆⵠⵠ] = _v(60, 60, 0, ΔΔ[Xr.ⵠᐃΔᐃᐃᐃΔ], Js);
-    this.ⵠⵠᐃ[$r.ΔᐃⲆⵠⵠ].id = $r.ΔᐃⲆⵠⵠ;
-    this.ⵠⵠᐃ[$r.ΔᐃⵠⲆΔ] = _v(60, 60, 0, ΔΔ[Xr.ⲆᐃⲆᐃΔⲆⵠ], eg);
-    this.ⵠⵠᐃ[$r.ΔᐃⵠⲆΔ].id = $r.ΔᐃⵠⲆΔ;
-    this.ⵠⵠᐃ[$r.ΔΔᐃⲆΔ] = _v(60, 60, 0, ΔΔ[Xr.ΔⲆⵠⵠᐃΔᐃ], Tt);
-    this.ⵠⵠᐃ[$r.ΔΔᐃⲆΔ].id = $r.ΔΔᐃⲆΔ;
-    this.ⵠⵠᐃ[$r.ΔΔᐃΔΔ] = _v(60, 60, 0, ΔΔ[Xr.ᐃⵠΔⵠⲆΔⵠ], Wb);
-    this.ⵠⵠᐃ[$r.ΔΔᐃΔΔ].id = $r.ΔΔᐃΔΔ;
-    this.ⵠⵠᐃ[$r.ⲆΔⵠΔᐃ] = _v(60, 60, 0, ΔΔ[Xr.ⲆᐃᐃⵠⵠΔᐃ], ub);
-    this.ⵠⵠᐃ[$r.ⲆΔⵠΔᐃ].id = $r.ⲆΔⵠΔᐃ;
-    this.ⵠⵠᐃ[$r.ⲆⵠⲆⵠⵠ] = _v(60, 60, 0, ΔΔ[Xr.ᐃᐃⵠⵠⲆⵠΔ], I);
-    this.ⵠⵠᐃ[$r.ⲆⵠⲆⵠⵠ].id = $r.ⲆⵠⲆⵠⵠ;
-    this.ⵠⵠᐃ[$r.ⵠΔᐃᐃᐃ] = _v(60, 60, 0, ΔΔ[Xr.ⵠⲆΔⵠⵠΔⲆ], 3);
-    this.ⵠⵠᐃ[$r.ⵠΔᐃᐃᐃ].id = $r.ⵠΔᐃᐃᐃ;
-    this.ⵠⵠᐃ[$r.ᐃⵠᐃᐃⵠ] = _v(60, 60, 0, ΔΔ[Xr.ⲆᐃⲆⲆΔᐃΔ], 3);
-    this.ⵠⵠᐃ[$r.ᐃⵠᐃᐃⵠ].id = $r.ᐃⵠᐃᐃⵠ;
-    this.ⵠⵠᐃ[$r.ⲆⲆΔⲆⵠ] = _v(60, 60, 0, ΔΔ[Xr.ⲆΔⲆⲆⲆⵠⲆ], 3);
-    this.ⵠⵠᐃ[$r.ⲆⲆΔⲆⵠ].id = $r.ⲆⲆΔⲆⵠ;
-    this.ⵠⵠᐃ[$r.ⲆᐃⵠΔΔ] = _v(60, 60, 0, ΔΔ[Xr.ΔᐃΔᐃᐃⲆΔ], ea);
-    this.ⵠⵠᐃ[$r.ⲆᐃⵠΔΔ].id = $r.ⲆᐃⵠΔΔ;
-    this.ⵠⵠᐃ[$r.ᐃⲆⲆᐃΔ] = _v(60, 60, 0, ΔΔ[Xr.ΔⲆΔᐃΔⲆⵠ], 3);
-    this.ⵠⵠᐃ[$r.ᐃⲆⲆᐃΔ].id = $r.ᐃⲆⲆᐃΔ;
-    this.ⵠⵠᐃ[$r.ᐃⵠΔΔΔ] = _v(60, 60, 0, ΔΔ[Xr.ᐃΔΔⲆⵠᐃⵠ], ea);
-    this.ⵠⵠᐃ[$r.ᐃⵠΔΔΔ].id = $r.ᐃⵠΔΔΔ;
-    this.ⵠⵠᐃ[$r.ⲆⵠΔᐃᐃ] = _v(60, 60, 0, ΔΔ[Xr.ᐃᐃᐃΔᐃⲆⲆ], qo);
-    this.ⵠⵠᐃ[$r.ⲆⵠΔᐃᐃ].id = $r.ⲆⵠΔᐃᐃ;
-    this.ⵠⵠᐃ[$r.ⲆΔⲆⵠΔ] = _v(60, 60, 0, ΔΔ[Xr.ⲆⲆΔⵠⲆΔⵠ], Lg);
-    this.ⵠⵠᐃ[$r.ⲆΔⲆⵠΔ].id = $r.ⲆΔⲆⵠΔ;
-    this.ⵠⵠᐃ[$r.ΔⵠⵠΔⲆ] = _v(60, 60, 0, ΔΔ[Xr.ⲆΔⲆⵠᐃΔΔ], 3);
-    this.ⵠⵠᐃ[$r.ΔⵠⵠΔⲆ].id = $r.ΔⵠⵠΔⲆ;
-    this.ⵠⵠᐃ[$r.ᐃᐃΔⲆⲆ] = _v(60, 60, 0, ΔΔ[Xr.ᐃᐃⵠⵠⲆΔΔ], 3);
-    this.ⵠⵠᐃ[$r.ᐃᐃΔⲆⲆ].id = $r.ᐃᐃΔⲆⲆ;
-    this.ⵠⵠᐃ[$r.ⲆⲆΔᐃᐃ] = _v(60, 60, 0, ΔΔ[Xr.ⵠΔⲆⲆΔᐃⲆ], fn);
-    this.ⵠⵠᐃ[$r.ⲆⲆΔᐃᐃ].id = $r.ⲆⲆΔᐃᐃ;
-    this.ⵠⵠᐃ[$r.Ⲇᐃᐃᐃᐃ] = _v(60, 60, 0, ΔΔ[Xr.ⲆⲆᐃΔⲆⵠΔ], Wb);
-    this.ⵠⵠᐃ[$r.Ⲇᐃᐃᐃᐃ].id = $r.Ⲇᐃᐃᐃᐃ;
-    this.ⵠⵠᐃ[$r.ΔⲆⵠΔΔ] = _v(60, 60, 0, ΔΔ[Xr.ᐃᐃⵠΔⵠΔᐃ], ub);
-    this.ⵠⵠᐃ[$r.ΔⲆⵠΔΔ].id = $r.ΔⲆⵠΔΔ;
-    this.ⵠⵠᐃ[$r.ⲆⲆΔΔⵠ] = _v(60, 60, 0, ΔΔ[Xr.ⲆᐃᐃᐃΔΔⲆ], fn);
-    this.ⵠⵠᐃ[$r.ⲆⲆΔΔⵠ].id = $r.ⲆⲆΔΔⵠ;
-    this.ⲆⵠΔ[_r.ⲆⵠⲆᐃΔ] = _v(68, 68, 0, ΔΔ[Xr.ⲆΔᐃΔΔⲆᐃ], 3);
-    this.ⲆⵠΔ[_r.ⲆⵠⲆᐃΔ].id = _r.ⲆⵠⲆᐃΔ;
-    this.ᐃᐃᐃ[_r.ⲆⵠⲆᐃΔ] = _v(60, 60, 0, ΔΔ[Xr.ΔᐃᐃⵠΔⵠⵠ], 3);
-    this.ᐃᐃᐃ[_r.ⲆⵠⲆᐃΔ].id = _r.ⲆⵠⲆᐃΔ;
-    this.ⵠⵠᐃ[$r.ⲆⵠⲆᐃΔ] = _v(60, 60, 0, ΔΔ[Xr.ⲆᐃⵠΔΔΔⲆ], nq);
-    this.ⵠⵠᐃ[$r.ⲆⵠⲆᐃΔ].id = $r.ⲆⵠⲆᐃΔ;
-    this.ⲆⵠΔ[_r.ᐃΔΔᐃΔ] = _v(68, 68, 0, ΔΔ[Xr.ᐃᐃⵠᐃⲆᐃⵠ], 3);
-    this.ⲆⵠΔ[_r.ᐃΔΔᐃΔ].id = _r.ᐃΔΔᐃΔ;
-    this.ᐃᐃᐃ[_r.ᐃΔΔᐃΔ] = _v(60, 60, 0, ΔΔ[Xr.ΔⵠΔΔⲆⵠᐃ], 3);
-    this.ᐃᐃᐃ[_r.ᐃΔΔᐃΔ].id = _r.ᐃΔΔᐃΔ;
-    this.ⵠⵠᐃ[$r.ᐃΔΔᐃΔ] = _v(60, 60, 0, ΔΔ[Xr.ᐃⲆⲆⵠⲆᐃⲆ], ll);
-    this.ⵠⵠᐃ[$r.ᐃΔΔᐃΔ].id = $r.ᐃΔΔᐃΔ;
-    this.ⲆⵠΔ[_r.Ⲇᐃⵠⵠᐃ] = _v(68, 68, 0, ΔΔ[Xr.ⵠᐃⲆᐃΔⵠᐃ], 3);
-    this.ⲆⵠΔ[_r.Ⲇᐃⵠⵠᐃ].id = _r.Ⲇᐃⵠⵠᐃ;
-    this.ᐃᐃᐃ[_r.Ⲇᐃⵠⵠᐃ] = _v(60, 60, 0, ΔΔ[Xr.ⵠᐃⲆⵠⵠⵠΔ], Js);
-    this.ᐃᐃᐃ[_r.Ⲇᐃⵠⵠᐃ].id = _r.Ⲇᐃⵠⵠᐃ;
-    this.ⵠⵠᐃ[$r.Ⲇᐃⵠⵠᐃ] = _v(60, 60, 0, ΔΔ[Xr.ⲆΔΔᐃⵠⲆⲆ], ll);
-    this.ⵠⵠᐃ[$r.Ⲇᐃⵠⵠᐃ].id = $r.Ⲇᐃⵠⵠᐃ;
-    this.ⲆⵠΔ[_r.ΔᐃᐃᐃΔ] = _v(68, 68, 0, ΔΔ[Xr.ᐃⵠᐃⲆᐃⵠⲆ], ub);
-    this.ⲆⵠΔ[_r.ΔᐃᐃᐃΔ].id = _r.ΔᐃᐃᐃΔ;
-    this.ᐃᐃᐃ[_r.ΔᐃᐃᐃΔ] = _v(60, 60, 0, ΔΔ[Xr.ⲆΔⵠⲆⵠⲆⵠ], 3);
-    this.ᐃᐃᐃ[_r.ΔᐃᐃᐃΔ].id = _r.ΔᐃᐃᐃΔ;
-    this.ⵠⵠᐃ[$r.ΔᐃᐃᐃΔ] = _v(60, 60, 0, ΔΔ[Xr.ΔᐃⵠᐃᐃⲆᐃ], 3);
-    this.ⵠⵠᐃ[$r.ΔᐃᐃᐃΔ].id = $r.ΔᐃᐃᐃΔ;
-    this.ⲆⵠΔ[_r.ΔᐃΔΔⲆⲆⵠ] = _v(68, 68, 0, ΔΔ[Xr.ⲆᐃΔΔⲆΔᐃ], 3);
-    this.ⲆⵠΔ[_r.ΔᐃΔΔⲆⲆⵠ].id = _r.ΔᐃΔΔⲆⲆⵠ;
-    this.ᐃᐃᐃ[_r.ΔᐃΔΔⲆⲆⵠ] = _v(60, 60, 0, ΔΔ[Xr.ΔⵠᐃⲆᐃⲆΔ], I);
-    this.ᐃᐃᐃ[_r.ΔᐃΔΔⲆⲆⵠ].id = _r.ΔᐃΔΔⲆⲆⵠ;
-    this.ⲆⵠΔ[_r.ⵠⲆᐃΔⵠ] = _v(68, 68, 0, ΔΔ[Xr.ᐃΔⵠⵠⲆᐃΔ], Lg);
-    this.ⲆⵠΔ[_r.ⵠⲆᐃΔⵠ].id = _r.ⵠⲆᐃΔⵠ;
-    this.ᐃᐃᐃ[_r.ⵠⲆᐃΔⵠ] = _v(60, 60, 0, ΔΔ[Xr.ΔⵠᐃⲆΔⵠⲆ], eg);
-    this.ᐃᐃᐃ[_r.ⵠⲆᐃΔⵠ].id = _r.ⵠⲆᐃΔⵠ;
-    this.ⲆⵠΔ[_r.ᐃⲆᐃⵠᐃΔⵠ] = _v(68, 68, 0, ΔΔ[Xr.ΔⲆⲆᐃⲆⲆⵠ], xb);
-    this.ⲆⵠΔ[_r.ᐃⲆᐃⵠᐃΔⵠ].id = _r.ᐃⲆᐃⵠᐃΔⵠ;
-    this.ᐃᐃᐃ[_r.ᐃⲆᐃⵠᐃΔⵠ] = _v(60, 60, 0, ΔΔ[Xr.ⲆΔⲆⵠΔⵠΔ], nq);
-    this.ᐃᐃᐃ[_r.ᐃⲆᐃⵠᐃΔⵠ].id = _r.ᐃⲆᐃⵠᐃΔⵠ;
-    this.ⲆⵠΔ[_r.ΔⲆΔΔⲆ] = _v(68, 68, 0, ΔΔ[Xr.ⵠΔⵠᐃⵠⲆᐃ], qo);
-    this.ⲆⵠΔ[_r.ΔⲆΔΔⲆ].id = _r.ΔⲆΔΔⲆ;
-    this.ᐃᐃᐃ[_r.ΔⲆΔΔⲆ] = _v(60, 60, 0, ΔΔ[Xr.ᐃⵠᐃⵠⲆⵠⵠ], 3);
-    this.ᐃᐃᐃ[_r.ΔⲆΔΔⲆ].id = _r.ΔⲆΔΔⲆ;
-    this.ⵠⵠᐃ[$r.ΔⲆΔΔⲆ] = _v(60, 60, 0, ΔΔ[Xr.ⵠⲆΔⲆⲆΔⵠ], eg);
-    this.ⵠⵠᐃ[$r.ΔⲆΔΔⲆ].id = $r.ΔⲆΔΔⲆ;
-    this.ⲆⵠΔ[_r.ᐃⲆΔᐃⲆ] = _v(68, 68, 0, ΔΔ[Xr.ⲆⵠΔΔᐃᐃΔ], 3);
-    this.ⲆⵠΔ[_r.ᐃⲆΔᐃⲆ].id = _r.ᐃⲆΔᐃⲆ;
-    this.ᐃᐃᐃ[_r.ᐃⲆΔᐃⲆ] = _v(60, 60, 0, ΔΔ[Xr.ΔΔΔᐃΔⵠΔ], 3);
-    this.ᐃᐃᐃ[_r.ᐃⲆΔᐃⲆ].id = _r.ᐃⲆΔᐃⲆ;
-    this.ⵠⵠᐃ[$r.ᐃⲆΔᐃⲆ] = _v(60, 60, 0, ΔΔ[Xr.ⵠᐃΔᐃᐃᐃⲆ], 3);
-    this.ⵠⵠᐃ[$r.ᐃⲆΔᐃⲆ].id = $r.ᐃⲆΔᐃⲆ;
-    this.ⲆⵠΔ[_r.ΔⵠⵠΔΔ] = _v(68, 68, 0, ΔΔ[Xr.ⲆᐃΔⵠΔᐃⵠ], yr);
-    this.ⲆⵠΔ[_r.ΔⵠⵠΔΔ].id = _r.ΔⵠⵠΔΔ;
-    this.ᐃᐃᐃ[_r.ΔⵠⵠΔΔ] = _v(60, 60, 0, ΔΔ[Xr.ⵠᐃⲆⵠᐃΔΔ], I);
-    this.ᐃᐃᐃ[_r.ΔⵠⵠΔΔ].id = _r.ΔⵠⵠΔΔ;
-    this.ⵠⵠᐃ[$r.ΔⵠⵠΔΔ] = _v(60, 60, 0, ΔΔ[Xr.ᐃⵠᐃⲆⲆⵠⲆ], qo);
-    this.ⵠⵠᐃ[$r.ΔⵠⵠΔΔ].id = $r.ΔⵠⵠΔΔ;
-    this.ⲆⵠΔ[_r.ΔΔⲆᐃⲆ] = _v(68, 68, 0, ΔΔ[Xr.ΔⲆΔᐃⲆᐃΔ], fn);
-    this.ⲆⵠΔ[_r.ΔΔⲆᐃⲆ].id = _r.ΔΔⲆᐃⲆ;
-    this.ᐃᐃᐃ[_r.ΔΔⲆᐃⲆ] = _v(60, 60, 0, ΔΔ[Xr.ᐃᐃΔΔᐃΔⵠ], yr);
-    this.ᐃᐃᐃ[_r.ΔΔⲆᐃⲆ].id = _r.ΔΔⲆᐃⲆ;
-    this.ⵠⵠᐃ[$r.ΔΔⲆᐃⲆ] = _v(60, 60, 0, ΔΔ[Xr.ⲆᐃΔⲆᐃᐃΔ], 3);
-    this.ⵠⵠᐃ[$r.ΔΔⲆᐃⲆ].id = $r.ΔΔⲆᐃⲆ;
-    this.ⲆⵠΔ[_r.ΔⵠΔⲆΔ] = _v(68, 68, 0, ΔΔ[Xr.ⵠⲆⲆⲆⲆⲆᐃ], 3);
-    this.ⲆⵠΔ[_r.ΔⵠΔⲆΔ].id = _r.ΔⵠΔⲆΔ;
-    this.ᐃᐃᐃ[_r.ΔⵠΔⲆΔ] = _v(60, 60, 0, ΔΔ[Xr.ⵠᐃΔⵠᐃᐃᐃ], ub);
-    this.ᐃᐃᐃ[_r.ΔⵠΔⲆΔ].id = _r.ΔⵠΔⲆΔ;
-    this.ⵠⵠᐃ[$r.ΔⵠΔⲆΔ] = _v(60, 60, 0, ΔΔ[Xr.ⵠⲆᐃⵠⲆᐃᐃ], 3);
-    this.ⵠⵠᐃ[$r.ΔⵠΔⲆΔ].id = $r.ΔⵠΔⲆΔ;
-    this.ⲆⵠΔ[_r.ⵠΔⲆⵠᐃ] = _v(68, 68, 0, ΔΔ[Xr.ⵠΔⲆᐃⵠⵠᐃ], ci);
-    this.ⲆⵠΔ[_r.ⵠΔⲆⵠᐃ].id = _r.ⵠΔⲆⵠᐃ;
-    this.ᐃᐃᐃ[_r.ⵠΔⲆⵠᐃ] = _v(60, 60, 0, ΔΔ[Xr.ΔⲆᐃⲆᐃⵠᐃ], nq);
-    this.ᐃᐃᐃ[_r.ⵠΔⲆⵠᐃ].id = _r.ⵠΔⲆⵠᐃ;
-    this.ⵠⵠᐃ[$r.ⵠΔⲆⵠᐃ] = _v(60, 60, 0, ΔΔ[Xr.ΔΔⲆᐃᐃᐃᐃ], Js);
-    this.ⵠⵠᐃ[$r.ⵠΔⲆⵠᐃ].id = $r.ⵠΔⲆⵠᐃ;
-    this.ⲆⵠΔ[_r.ᐃΔΔⵠᐃ] = _v(68, 68, 0, ΔΔ[Xr.ⵠⵠΔⲆΔΔᐃ], 3);
-    this.ⲆⵠΔ[_r.ᐃΔΔⵠᐃ].id = _r.ᐃΔΔⵠᐃ;
-    this.ᐃᐃᐃ[_r.ᐃΔΔⵠᐃ] = _v(60, 60, 0, ΔΔ[Xr.ᐃⵠⲆΔⲆⲆⵠ], 3);
-    this.ᐃᐃᐃ[_r.ᐃΔΔⵠᐃ].id = _r.ᐃΔΔⵠᐃ;
-    this.ⵠⵠᐃ[$r.ᐃΔΔⵠᐃ] = _v(60, 60, 0, ΔΔ[Xr.ⲆᐃΔⵠᐃᐃⲆ], ut);
-    this.ⵠⵠᐃ[$r.ᐃΔΔⵠᐃ].id = $r.ᐃΔΔⵠᐃ;
-    this.ⲆⵠΔ[_r.ᐃⵠⵠⲆᐃ] = _v(68, 68, 0, ΔΔ[Xr.ΔᐃⲆᐃⲆⲆⵠ], eg);
-    this.ⲆⵠΔ[_r.ᐃⵠⵠⲆᐃ].id = _r.ᐃⵠⵠⲆᐃ;
-    this.ᐃᐃᐃ[_r.ᐃⵠⵠⲆᐃ] = _v(60, 60, 0, ΔΔ[Xr.ΔᐃⵠΔⵠΔΔ], ub);
-    this.ᐃᐃᐃ[_r.ᐃⵠⵠⲆᐃ].id = _r.ᐃⵠⵠⲆᐃ;
-    this.ⵠⵠᐃ[$r.ᐃⵠⵠⲆᐃ] = _v(60, 60, 0, ΔΔ[Xr.ΔⲆⲆⲆⲆΔΔ], eg);
-    this.ⵠⵠᐃ[$r.ᐃⵠⵠⲆᐃ].id = $r.ᐃⵠⵠⲆᐃ;
-    this.ⲆⵠΔ[_r.ⵠⲆᐃᐃⲆ] = _v(68, 68, 0, ΔΔ[Xr.ΔⵠᐃⲆⲆⵠΔ], ci);
-    this.ⲆⵠΔ[_r.ⵠⲆᐃᐃⲆ].id = _r.ⵠⲆᐃᐃⲆ;
-    this.ᐃᐃᐃ[_r.ⵠⲆᐃᐃⲆ] = _v(60, 60, 0, ΔΔ[Xr.ᐃⵠΔⲆⵠⵠᐃ], qo);
-    this.ᐃᐃᐃ[_r.ⵠⲆᐃᐃⲆ].id = _r.ⵠⲆᐃᐃⲆ;
-    this.ⵠⵠᐃ[$r.ⵠⲆᐃᐃⲆ] = _v(60, 60, 0, ΔΔ[Xr.ⲆΔⵠⲆⲆⵠⲆ], Tr);
-    this.ⵠⵠᐃ[$r.ⵠⲆᐃᐃⲆ].id = $r.ⵠⲆᐃᐃⲆ;
-    this.ⲆⵠΔ[_r.Ⲇᐃⵠⵠⵠ] = _v(68, 68, 0, ΔΔ[Xr.ᐃᐃⵠⲆⵠΔⵠ], Lg);
-    this.ⲆⵠΔ[_r.Ⲇᐃⵠⵠⵠ].id = _r.Ⲇᐃⵠⵠⵠ;
-    this.ᐃᐃᐃ[_r.Ⲇᐃⵠⵠⵠ] = _v(60, 60, 0, ΔΔ[Xr.ᐃⵠⵠⵠᐃΔΔ], 3);
-    this.ᐃᐃᐃ[_r.Ⲇᐃⵠⵠⵠ].id = _r.Ⲇᐃⵠⵠⵠ;
-    this.ⵠⵠᐃ[$r.Ⲇᐃⵠⵠⵠ] = _v(60, 60, 0, ΔΔ[Xr.ⵠᐃⲆⵠⵠⲆⵠ], 3);
-    this.ⵠⵠᐃ[$r.Ⲇᐃⵠⵠⵠ].id = $r.Ⲇᐃⵠⵠⵠ;
-    this.ⲆⵠΔ[_r.ⲆᐃΔⲆⵠ] = _v(68, 68, 0, ΔΔ[Xr.ⵠⵠⲆΔΔᐃⵠ], Js);
-    this.ⲆⵠΔ[_r.ⲆᐃΔⲆⵠ].id = _r.ⲆᐃΔⲆⵠ;
-    this.ᐃᐃᐃ[_r.ⲆᐃΔⲆⵠ] = _v(60, 60, 0, ΔΔ[Xr.ᐃⵠΔⵠⵠΔⲆ], 3);
-    this.ᐃᐃᐃ[_r.ⲆᐃΔⲆⵠ].id = _r.ⲆᐃΔⲆⵠ;
-    this.ⵠⵠᐃ[$r.ⲆᐃΔⲆⵠ] = _v(60, 60, 0, ΔΔ[Xr.ⵠᐃΔⲆΔⲆⵠ], Wb);
-    this.ⵠⵠᐃ[$r.ⲆᐃΔⲆⵠ].id = $r.ⲆᐃΔⲆⵠ;
-    this.ⲆⵠΔ[_r.ⲆΔᐃⵠⲆ] = _v(68, 68, 0, ΔΔ[Xr.ᐃᐃⵠᐃᐃΔᐃ], ci);
-    this.ⲆⵠΔ[_r.ⲆΔᐃⵠⲆ].id = _r.ⲆΔᐃⵠⲆ;
-    this.ᐃᐃᐃ[_r.ⲆΔᐃⵠⲆ] = _v(60, 60, 0, ΔΔ[Xr.ⵠⵠⲆᐃⵠᐃⲆ], Js);
-    this.ᐃᐃᐃ[_r.ⲆΔᐃⵠⲆ].id = _r.ⲆΔᐃⵠⲆ;
-    this.ⵠⵠᐃ[$r.ⲆΔᐃⵠⲆ] = _v(60, 60, 0, ΔΔ[Xr.ᐃⵠⲆⵠⲆᐃΔ], 3);
-    this.ⵠⵠᐃ[$r.ⲆΔᐃⵠⲆ].id = $r.ⲆΔᐃⵠⲆ;
-    this.ⲆⵠΔ[_r.ΔⵠᐃⲆⵠ] = _v(68, 68, 0, ΔΔ[Xr.ᐃᐃΔⲆᐃᐃⲆ], 3);
-    this.ⲆⵠΔ[_r.ΔⵠᐃⲆⵠ].id = _r.ΔⵠᐃⲆⵠ;
-    this.ᐃᐃᐃ[_r.ΔⵠᐃⲆⵠ] = _v(60, 60, 0, ΔΔ[Xr.ⵠⵠᐃΔⲆⵠᐃ], Lg);
-    this.ᐃᐃᐃ[_r.ΔⵠᐃⲆⵠ].id = _r.ΔⵠᐃⲆⵠ;
-    this.ⵠⵠᐃ[$r.ΔⵠᐃⲆⵠ] = _v(60, 60, 0, ΔΔ[Xr.ᐃᐃΔⵠΔⵠᐃ], ut);
-    this.ⵠⵠᐃ[$r.ΔⵠᐃⲆⵠ].id = $r.ΔⵠᐃⲆⵠ;
-    this.ⲆⵠΔ[_r.ΔⲆⵠⵠⵠ] = _v(68, 68, 0, ΔΔ[Xr.ⲆⲆⵠᐃΔΔᐃ], 3);
-    this.ⲆⵠΔ[_r.ΔⲆⵠⵠⵠ].id = _r.ΔⲆⵠⵠⵠ;
-    this.ᐃᐃᐃ[_r.ΔⲆⵠⵠⵠ] = _v(60, 60, 0, ΔΔ[Xr.ᐃΔⲆᐃΔⲆᐃ], 3);
-    this.ᐃᐃᐃ[_r.ΔⲆⵠⵠⵠ].id = _r.ΔⲆⵠⵠⵠ;
-    this.ⵠⵠᐃ[$r.ΔⲆⵠⵠⵠ] = _v(60, 60, 0, ΔΔ[Xr.ⵠΔⲆΔⲆⲆᐃ], xb);
-    this.ⵠⵠᐃ[$r.ΔⲆⵠⵠⵠ].id = $r.ΔⲆⵠⵠⵠ;
-    this.ⲆⵠΔ[_r.ⲆⲆⵠⵠΔ] = _v(68, 68, 0, ΔΔ[Xr.ΔᐃᐃᐃᐃⲆⲆ], 3);
-    this.ⲆⵠΔ[_r.ⲆⲆⵠⵠΔ].id = _r.ⲆⲆⵠⵠΔ;
-    this.ᐃᐃᐃ[_r.ⲆⲆⵠⵠΔ] = _v(60, 60, 0, ΔΔ[Xr.ⵠΔⲆᐃⵠⵠΔ], fn);
-    this.ᐃᐃᐃ[_r.ⲆⲆⵠⵠΔ].id = _r.ⲆⲆⵠⵠΔ;
-    this.ⵠⵠᐃ[$r.ⲆⲆⵠⵠΔ] = _v(60, 60, 0, ΔΔ[Xr.ᐃⵠⲆⲆΔⲆⲆ], Wb);
-    this.ⵠⵠᐃ[$r.ⲆⲆⵠⵠΔ].id = $r.ⲆⲆⵠⵠΔ;
-    this.ⲆⵠΔ[_r.ⲆⵠⵠΔⲆ] = _v(68, 68, 0, ΔΔ[Xr.ⲆⲆⵠᐃᐃⵠᐃ], 3);
-    this.ⲆⵠΔ[_r.ⲆⵠⵠΔⲆ].id = _r.ⲆⵠⵠΔⲆ;
-    this.ᐃᐃᐃ[_r.ⲆⵠⵠΔⲆ] = _v(60, 60, 0, ΔΔ[Xr.ⲆⲆⵠⵠᐃΔᐃ], 3);
-    this.ᐃᐃᐃ[_r.ⲆⵠⵠΔⲆ].id = _r.ⲆⵠⵠΔⲆ;
-    this.ᐃᐃᐃ[_r.ⲆⵠⵠΔⲆ].info.ⵠⵠ[2] = this.ᐃᐃᐃ[_r.ⲆⵠⵠΔⲆ].info.ⵠⵠ[Bb];
-    this.ⲆⵠΔ[_r.ᐃⲆᐃⵠΔ] = _v(68, 68, 0, ΔΔ[Xr.ᐃᐃⵠⵠᐃⲆΔ], 3);
-    this.ⲆⵠΔ[_r.ᐃⲆᐃⵠΔ].id = _r.ᐃⲆᐃⵠΔ;
-    this.ᐃᐃᐃ[_r.ᐃⲆᐃⵠΔ] = _v(60, 60, 0, ΔΔ[Xr.ΔΔΔΔⵠⲆⲆ], 3);
-    this.ᐃᐃᐃ[_r.ᐃⲆᐃⵠΔ].id = _r.ᐃⲆᐃⵠΔ;
-    this.ᐃᐃᐃ[_r.ᐃⲆᐃⵠΔ].info.ⵠⵠ[pq] = this.ᐃᐃᐃ[_r.ᐃⲆᐃⵠΔ].info.ⵠⵠ[0];
-    this.ⲆⵠΔ[_r.ᐃⵠᐃΔ] = _v(68, 68, 0, ΔΔ[Xr.ⲆⵠΔᐃΔⲆⵠ], Tr);
-    this.ⲆⵠΔ[_r.ᐃⵠᐃΔ].id = _r.ᐃⵠᐃΔ;
-    this.ᐃᐃᐃ[_r.ᐃⵠᐃΔ] = _v(60, 60, 0, ΔΔ[Xr.ᐃⵠⵠⵠΔᐃⵠ], 3);
-    this.ᐃᐃᐃ[_r.ᐃⵠᐃΔ].id = _r.ᐃⵠᐃΔ;
-    this.ᐃᐃᐃ[_r.ᐃⵠᐃΔ].info.ⵠⵠ[Vg] = this.ᐃᐃᐃ[_r.ᐃⵠᐃΔ].info.ⵠⵠ[In];
-    this.ⲆⵠΔ[_r.ⵠⵠΔΔⵠ] = _v(68, 68, 0, ΔΔ[Xr.ⵠⵠⵠⵠᐃⲆⵠ], qo);
-    this.ⲆⵠΔ[_r.ⵠⵠΔΔⵠ].id = _r.ⵠⵠΔΔⵠ;
-    this.ᐃᐃᐃ[_r.ⵠⵠΔΔⵠ] = _v(60, 60, 0, ΔΔ[Xr.ⵠᐃΔᐃⵠⵠᐃ], 3);
-    this.ᐃᐃᐃ[_r.ⵠⵠΔΔⵠ].id = _r.ⵠⵠΔΔⵠ;
-    this.ⵠⵠᐃ[$r.ⵠⵠΔΔⵠ] = _v(60, 60, 0, ΔΔ[Xr.ᐃᐃᐃᐃⵠⲆⲆ], yr);
-    this.ⵠⵠᐃ[$r.ⵠⵠΔΔⵠ].id = $r.ⵠⵠΔΔⵠ;
-    this.ⲆⵠΔ[_r.Δⵠⵠⵠᐃ] = _v(68, 68, 0, ΔΔ[Xr.ⲆᐃΔⲆΔⲆⵠ], xb);
-    this.ⲆⵠΔ[_r.Δⵠⵠⵠᐃ].id = _r.Δⵠⵠⵠᐃ;
-    this.ᐃᐃᐃ[_r.Δⵠⵠⵠᐃ] = _v(60, 60, 0, ΔΔ[Xr.ΔᐃᐃΔᐃΔⵠ], eg);
-    this.ᐃᐃᐃ[_r.Δⵠⵠⵠᐃ].id = _r.Δⵠⵠⵠᐃ;
-    this.ⵠⵠᐃ[$r.Δⵠⵠⵠᐃ] = _v(60, 60, 0, ΔΔ[Xr.ᐃⵠΔⵠⵠⵠᐃ], ub);
-    this.ⵠⵠᐃ[$r.Δⵠⵠⵠᐃ].id = $r.Δⵠⵠⵠᐃ;
-    this.ⲆⵠΔ[_r.ᐃΔᐃⲆⲆ] = _v(68, 68, 0, ΔΔ[Xr.ⵠΔⵠⲆΔᐃⲆ], 3);
-    this.ⲆⵠΔ[_r.ᐃΔᐃⲆⲆ].id = _r.ᐃΔᐃⲆⲆ;
-    this.ᐃᐃᐃ[_r.ᐃΔᐃⲆⲆ] = _v(60, 60, 0, ΔΔ[Xr.ᐃᐃⵠᐃᐃΔΔ], ut);
-    this.ᐃᐃᐃ[_r.ᐃΔᐃⲆⲆ].id = _r.ᐃΔᐃⲆⲆ;
-    this.ⵠⵠᐃ[$r.ᐃΔᐃⲆⲆ] = _v(60, 60, 0, ΔΔ[Xr.ⲆᐃΔⲆⵠΔⵠ], Hk);
-    this.ⵠⵠᐃ[$r.ᐃΔᐃⲆⲆ].id = $r.ᐃΔᐃⲆⲆ;
-    this.ⲆⵠΔ[_r.ⲆΔᐃΔᐃ] = _v(68, 68, 0, ΔΔ[Xr.ΔⲆⵠⵠⲆⵠⲆ], eg);
-    this.ⲆⵠΔ[_r.ⲆΔᐃΔᐃ].id = _r.ⲆΔᐃΔᐃ;
-    this.ᐃᐃᐃ[_r.ⲆΔᐃΔᐃ] = _v(60, 60, 0, ΔΔ[Xr.ᐃΔΔᐃⵠᐃⵠ], qo);
-    this.ᐃᐃᐃ[_r.ⲆΔᐃΔᐃ].id = _r.ⲆΔᐃΔᐃ;
-    this.ⵠⵠᐃ[$r.ⲆΔᐃΔᐃ] = _v(60, 60, 0, ΔΔ[Xr.ⲆⲆᐃΔⲆᐃᐃ], 3);
-    this.ⵠⵠᐃ[$r.ⲆΔᐃΔᐃ].id = $r.ⲆΔᐃΔᐃ;
-    this.ⲆⵠΔ[_r.ⵠᐃΔΔⵠ] = _v(68, 68, 0, ΔΔ[Xr.ᐃᐃⲆᐃⵠΔⵠ], 3);
-    this.ⲆⵠΔ[_r.ⵠᐃΔΔⵠ].id = _r.ⵠᐃΔΔⵠ;
-    this.ᐃᐃᐃ[_r.ⵠᐃΔΔⵠ] = _v(60, 60, 0, ΔΔ[Xr.ⲆᐃⵠⲆⲆᐃⲆ], Lg);
-    this.ᐃᐃᐃ[_r.ⵠᐃΔΔⵠ].id = _r.ⵠᐃΔΔⵠ;
-    this.ⵠⵠᐃ[$r.ⵠᐃΔΔⵠ] = _v(60, 60, 0, ΔΔ[Xr.ⵠⵠⵠⵠΔⲆⲆ], 3);
-    this.ⵠⵠᐃ[$r.ⵠᐃΔΔⵠ].id = $r.ⵠᐃΔΔⵠ;
-    this.ⲆⵠΔ[_r.ᐃⵠᐃⵠⵠ] = _v(68, 68, 0, ΔΔ[Xr.ⲆᐃⲆᐃᐃᐃⲆ], ut);
-    this.ⲆⵠΔ[_r.ᐃⵠᐃⵠⵠ].id = _r.ᐃⵠᐃⵠⵠ;
-    this.ᐃᐃᐃ[_r.ᐃⵠᐃⵠⵠ] = _v(60, 60, 0, ΔΔ[Xr.ⵠⵠⵠⲆⵠΔᐃ], 3);
-    this.ᐃᐃᐃ[_r.ᐃⵠᐃⵠⵠ].id = _r.ᐃⵠᐃⵠⵠ;
-    this.ⵠⵠᐃ[$r.ᐃⵠᐃⵠⵠ] = _v(60, 60, 0, ΔΔ[Xr.ΔⲆⵠΔⲆⲆⲆ], 3);
-    this.ⵠⵠᐃ[$r.ᐃⵠᐃⵠⵠ].id = $r.ᐃⵠᐃⵠⵠ;
-    this.ⲆⵠΔ[_r.ᐃΔⵠⵠᐃ] = _v(68, 68, 0, ΔΔ[Xr.ΔᐃᐃⲆⲆⵠⲆ], ea);
-    this.ⲆⵠΔ[_r.ᐃΔⵠⵠᐃ].id = _r.ᐃΔⵠⵠᐃ;
-    this.ᐃᐃᐃ[_r.ᐃΔⵠⵠᐃ] = _v(60, 60, 0, ΔΔ[Xr.ΔᐃⲆΔΔᐃⵠ], 3);
-    this.ᐃᐃᐃ[_r.ᐃΔⵠⵠᐃ].id = _r.ᐃΔⵠⵠᐃ;
-    this.ⵠⵠᐃ[$r.ᐃΔⵠⵠᐃ] = _v(60, 60, 0, ΔΔ[Xr.ⲆⲆΔΔⲆᐃⲆ], I);
-    this.ⵠⵠᐃ[$r.ᐃΔⵠⵠᐃ].id = $r.ᐃΔⵠⵠᐃ;
-    this.ⲆⵠΔ[_r.ⵠⵠᐃᐃΔ] = _v(68, 68, 0, ΔΔ[Xr.ⵠⲆᐃΔⵠΔⲆ], sl);
-    this.ⲆⵠΔ[_r.ⵠⵠᐃᐃΔ].id = _r.ⵠⵠᐃᐃΔ;
-    this.ᐃᐃᐃ[_r.ⵠⵠᐃᐃΔ] = _v(60, 60, 0, ΔΔ[Xr.ΔⲆⵠⲆΔⲆⵠ], 3);
-    this.ᐃᐃᐃ[_r.ⵠⵠᐃᐃΔ].id = _r.ⵠⵠᐃᐃΔ;
-    this.ⵠⵠᐃ[$r.ⵠⵠᐃᐃΔ] = _v(60, 60, 0, ΔΔ[Xr.ⲆⵠⵠΔⲆⵠⲆ], 3);
-    this.ⵠⵠᐃ[$r.ⵠⵠᐃᐃΔ].id = $r.ⵠⵠᐃᐃΔ;
-    this.ⲆⵠΔ[_r.ⲆⵠΔΔΔ] = _v(68, 68, 0, ΔΔ[Xr.ⵠΔᐃᐃⵠᐃΔ], Wb);
-    this.ⲆⵠΔ[_r.ⲆⵠΔΔΔ].id = _r.ⲆⵠΔΔΔ;
-    this.ᐃᐃᐃ[_r.ⲆⵠΔΔΔ] = _v(60, 60, 0, ΔΔ[Xr.ⵠⵠᐃⵠᐃⵠᐃ], ll);
-    this.ᐃᐃᐃ[_r.ⲆⵠΔΔΔ].id = _r.ⲆⵠΔΔΔ;
-    this.ⵠⵠᐃ[$r.ⲆⵠΔΔΔ] = _v(60, 60, 0, ΔΔ[Xr.ΔΔⲆᐃᐃᐃⵠ], ll);
-    this.ⵠⵠᐃ[$r.ⲆⵠΔΔΔ].id = $r.ⲆⵠΔΔΔ;
-    this.ⲆⵠΔ[_r.ᐃⲆⵠᐃΔ] = _v(68, 68, 0, ΔΔ[Xr.ΔΔⵠᐃⲆⲆⲆ], 3);
-    this.ⲆⵠΔ[_r.ᐃⲆⵠᐃΔ].id = _r.ᐃⲆⵠᐃΔ;
-    this.ᐃᐃᐃ[_r.ᐃⲆⵠᐃΔ] = _v(60, 60, 0, ΔΔ[Xr.ΔⵠΔΔⲆᐃⵠ], sl);
-    this.ᐃᐃᐃ[_r.ᐃⲆⵠᐃΔ].id = _r.ᐃⲆⵠᐃΔ;
+    this.ⵠⵠᐃ[110] = _v(60, 60, 0, ΔΔ[611], 3);
+    this.ⵠⵠᐃ[110].id = 110;
+    this.ⵠⵠᐃ[111] = _v(60, 60, 0, ΔΔ[715], 3);
+    this.ⵠⵠᐃ[111].id = 111;
+    this.ⵠⵠᐃ[112] = _v(60, 60, 0, ΔΔ[715], 3);
+    this.ⵠⵠᐃ[112].id = 112;
+    this.ⵠⵠᐃ[113] = _v(60, 60, 0, ΔΔ[715], eg);
+    this.ⵠⵠᐃ[113].id = 113;
+    this.ⵠⵠᐃ[16] = _v(60, 60, 0, ΔΔ[618], Hk);
+    this.ⵠⵠᐃ[16].id = 16;
+    this.ⵠⵠᐃ[17] = _v(60, 60, 0, ΔΔ[700], 3);
+    this.ⵠⵠᐃ[17].id = 17;
+    this.ⵠⵠᐃ[18] = _v(60, 60, 0, ΔΔ[704], nq);
+    this.ⵠⵠᐃ[18].id = 18;
+    this.ⵠⵠᐃ[19] = _v(60, 60, 0, ΔΔ[706], 3);
+    this.ⵠⵠᐃ[19].id = 19;
+    this.ⵠⵠᐃ[122] = _v(60, 60, 0, ΔΔ[711], qo);
+    this.ⵠⵠᐃ[122].id = 122;
+    this.ⵠⵠᐃ[20] = _v(60, 60, 0, ΔΔ[627], ut);
+    this.ⵠⵠᐃ[20].id = 20;
+    this.ⵠⵠᐃ[41] = _v(60, 60, 0, ΔΔ[632], 3);
+    this.ⵠⵠᐃ[41].id = 41;
+    this.ⵠⵠᐃ[52] = _v(60, 60, 0, ΔΔ[635], 3);
+    this.ⵠⵠᐃ[52].id = 52;
+    this.ⵠⵠᐃ[114] = _v(60, 60, 0, ΔΔ[643], ci);
+    this.ⵠⵠᐃ[114].id = 114;
+    this.ⵠⵠᐃ[94] = _v(60, 60, 0, ΔΔ[647], ub);
+    this.ⵠⵠᐃ[94].id = 94;
+    this.ⵠⵠᐃ[93] = _v(60, 60, 0, ΔΔ[650], 3);
+    this.ⵠⵠᐃ[93].id = 93;
+    this.ⵠⵠᐃ[21] = _v(60, 60, 0, ΔΔ[654], 3);
+    this.ⵠⵠᐃ[21].id = 21;
+    this.ⵠⵠᐃ[53] = _v(60, 60, 0, ΔΔ[660], 3);
+    this.ⵠⵠᐃ[53].id = 53;
+    this.ⵠⵠᐃ[51] = _v(60, 60, 0, ΔΔ[690], Tt);
+    this.ⵠⵠᐃ[51].id = 51;
+    this.ⵠⵠᐃ[50] = _v(60, 60, 0, ΔΔ[666], yr);
+    this.ⵠⵠᐃ[50].id = 50;
+    this.ⵠⵠᐃ[109] = _v(60, 60, 0, ΔΔ[684], 3);
+    this.ⵠⵠᐃ[109].id = 109;
+    this.ⵠⵠᐃ[124] = _v(60, 60, 0, ΔΔ[718], qu);
+    this.ⵠⵠᐃ[124].id = 124;
+    this.ⵠⵠᐃ[125] = _v(60, 60, 0, ΔΔ[730], xb);
+    this.ⵠⵠᐃ[125].id = 125;
+    this.ⵠⵠᐃ[126] = _v(60, 60, 0, ΔΔ[734], 3);
+    this.ⵠⵠᐃ[126].id = 126;
+    this.ⵠⵠᐃ[129] = _v(60, 60, 0, ΔΔ[563], 3);
+    this.ⵠⵠᐃ[129].id = 129;
+    this.ⵠⵠᐃ[151] = _v(60, 60, 0, ΔΔ[758], sl);
+    this.ⵠⵠᐃ[151].id = 151;
+    this.ⵠⵠᐃ[152] = _v(60, 60, 0, ΔΔ[762], 3);
+    this.ⵠⵠᐃ[152].id = 152;
+    this.ⵠⵠᐃ[153] = _v(60, 60, 0, ΔΔ[770], ci);
+    this.ⵠⵠᐃ[153].id = 153;
+    this.ⵠⵠᐃ[154] = _v(60, 60, 0, ΔΔ[768], ea);
+    this.ⵠⵠᐃ[154].id = 154;
+    this.ⵠⵠᐃ[155] = _v(60, 60, 0, ΔΔ[772], Js);
+    this.ⵠⵠᐃ[155].id = 155;
+    this.ⵠⵠᐃ[157] = _v(60, 60, 0, ΔΔ[777], eg);
+    this.ⵠⵠᐃ[157].id = 157;
+    this.ⵠⵠᐃ[156] = _v(60, 60, 0, ΔΔ[780], Tt);
+    this.ⵠⵠᐃ[156].id = 156;
+    this.ⵠⵠᐃ[158] = _v(60, 60, 0, ΔΔ[784], Wb);
+    this.ⵠⵠᐃ[158].id = 158;
+    this.ⵠⵠᐃ[159] = _v(60, 60, 0, ΔΔ[785], ub);
+    this.ⵠⵠᐃ[159].id = 159;
+    this.ⵠⵠᐃ[160] = _v(60, 60, 0, ΔΔ[791], I);
+    this.ⵠⵠᐃ[160].id = 160;
+    this.ⵠⵠᐃ[161] = _v(60, 60, 0, ΔΔ[799], 3);
+    this.ⵠⵠᐃ[161].id = 161;
+    this.ⵠⵠᐃ[42] = _v(60, 60, 0, ΔΔ[809], 3);
+    this.ⵠⵠᐃ[42].id = 42;
+    this.ⵠⵠᐃ[43] = _v(60, 60, 0, ΔΔ[835], 3);
+    this.ⵠⵠᐃ[43].id = 43;
+    this.ⵠⵠᐃ[107] = _v(60, 60, 0, ΔΔ[843], ea);
+    this.ⵠⵠᐃ[107].id = 107;
+    this.ⵠⵠᐃ[44] = _v(60, 60, 0, ΔΔ[846], 3);
+    this.ⵠⵠᐃ[44].id = 44;
+    this.ⵠⵠᐃ[46] = _v(60, 60, 0, ΔΔ[960], ea);
+    this.ⵠⵠᐃ[46].id = 46;
+    this.ⵠⵠᐃ[45] = _v(60, 60, 0, ΔΔ[950], qo);
+    this.ⵠⵠᐃ[45].id = 45;
+    this.ⵠⵠᐃ[47] = _v(60, 60, 0, ΔΔ[967], Lg);
+    this.ⵠⵠᐃ[47].id = 47;
+    this.ⵠⵠᐃ[48] = _v(60, 60, 0, ΔΔ[982], 3);
+    this.ⵠⵠᐃ[48].id = 48;
+    this.ⵠⵠᐃ[25] = _v(60, 60, 0, ΔΔ[402], 3);
+    this.ⵠⵠᐃ[25].id = 25;
+    this.ⵠⵠᐃ[31] = _v(60, 60, 0, ΔΔ[876], fn);
+    this.ⵠⵠᐃ[31].id = 31;
+    this.ⵠⵠᐃ[33] = _v(60, 60, 0, ΔΔ[900], Wb);
+    this.ⵠⵠᐃ[33].id = 33;
+    this.ⵠⵠᐃ[162] = _v(60, 60, 0, ΔΔ[909], ub);
+    this.ⵠⵠᐃ[162].id = 162;
+    this.ⵠⵠᐃ[128] = _v(60, 60, 0, ΔΔ[912], fn);
+    this.ⵠⵠᐃ[128].id = 128;
+    this.ⲆⵠΔ[53] = _v(68, 68, 0, ΔΔ[976], 3);
+    this.ⲆⵠΔ[53].id = 53;
+    this.ᐃᐃᐃ[53] = _v(60, 60, 0, ΔΔ[975], 3);
+    this.ᐃᐃᐃ[53].id = 53;
+    this.ⵠⵠᐃ[22] = _v(60, 60, 0, ΔΔ[977], nq);
+    this.ⵠⵠᐃ[22].id = 22;
+    this.ⲆⵠΔ[54] = _v(68, 68, 0, ΔΔ[979], 3);
+    this.ⲆⵠΔ[54].id = 54;
+    this.ᐃᐃᐃ[54] = _v(60, 60, 0, ΔΔ[978], 3);
+    this.ᐃᐃᐃ[54].id = 54;
+    this.ⵠⵠᐃ[23] = _v(60, 60, 0, ΔΔ[980], ll);
+    this.ⵠⵠᐃ[23].id = 23;
+    this.ⲆⵠΔ[56] = _v(68, 68, 0, ΔΔ[713], 3);
+    this.ⲆⵠΔ[56].id = 56;
+    this.ᐃᐃᐃ[56] = _v(60, 60, 0, ΔΔ[712], Js);
+    this.ᐃᐃᐃ[56].id = 56;
+    this.ⵠⵠᐃ[123] = _v(60, 60, 0, ΔΔ[714], ll);
+    this.ⵠⵠᐃ[123].id = 123;
+    this.ⲆⵠΔ[82] = _v(68, 68, 0, ΔΔ[428], ub);
+    this.ⲆⵠΔ[82].id = 82;
+    this.ᐃᐃᐃ[82] = _v(60, 60, 0, ΔΔ[426], 3);
+    this.ᐃᐃᐃ[82].id = 82;
+    this.ⵠⵠᐃ[82] = _v(60, 60, 0, ΔΔ[427], 3);
+    this.ⵠⵠᐃ[82].id = 82;
+    this.ⲆⵠΔ[235] = _v(68, 68, 0, ΔΔ[1159], 3);
+    this.ⲆⵠΔ[235].id = 235;
+    this.ᐃᐃᐃ[235] = _v(60, 60, 0, ΔΔ[1158], I);
+    this.ᐃᐃᐃ[235].id = 235;
+    this.ⲆⵠΔ[238] = _v(68, 68, 0, ΔΔ[1188], Lg);
+    this.ⲆⵠΔ[238].id = 238;
+    this.ᐃᐃᐃ[238] = _v(60, 60, 0, ΔΔ[1187], eg);
+    this.ᐃᐃᐃ[238].id = 238;
+    this.ⲆⵠΔ[236] = _v(68, 68, 0, ΔΔ[1161], xb);
+    this.ⲆⵠΔ[236].id = 236;
+    this.ᐃᐃᐃ[236] = _v(60, 60, 0, ΔΔ[1160], nq);
+    this.ᐃᐃᐃ[236].id = 236;
+    this.ⲆⵠΔ[152] = _v(68, 68, 0, ΔΔ[1197], qo);
+    this.ⲆⵠΔ[152].id = 152;
+    this.ᐃᐃᐃ[152] = _v(60, 60, 0, ΔΔ[1195], 3);
+    this.ᐃᐃᐃ[152].id = 152;
+    this.ⵠⵠᐃ[116] = _v(60, 60, 0, ΔΔ[1196], eg);
+    this.ⵠⵠᐃ[116].id = 116;
+    this.ⲆⵠΔ[212] = _v(68, 68, 0, ΔΔ[992], 3);
+    this.ⲆⵠΔ[212].id = 212;
+    this.ᐃᐃᐃ[212] = _v(60, 60, 0, ΔΔ[991], 3);
+    this.ᐃᐃᐃ[212].id = 212;
+    this.ⵠⵠᐃ[73] = _v(60, 60, 0, ΔΔ[990], 3);
+    this.ⵠⵠᐃ[73].id = 73;
+    this.ⲆⵠΔ[213] = _v(68, 68, 0, ΔΔ[995], yr);
+    this.ⲆⵠΔ[213].id = 213;
+    this.ᐃᐃᐃ[213] = _v(60, 60, 0, ΔΔ[994], I);
+    this.ᐃᐃᐃ[213].id = 213;
+    this.ⵠⵠᐃ[74] = _v(60, 60, 0, ΔΔ[993], qo);
+    this.ⵠⵠᐃ[74].id = 74;
+    this.ⲆⵠΔ[214] = _v(68, 68, 0, ΔΔ[998], fn);
+    this.ⲆⵠΔ[214].id = 214;
+    this.ᐃᐃᐃ[214] = _v(60, 60, 0, ΔΔ[997], yr);
+    this.ᐃᐃᐃ[214].id = 214;
+    this.ⵠⵠᐃ[75] = _v(60, 60, 0, ΔΔ[996], 3);
+    this.ⵠⵠᐃ[75].id = 75;
+    this.ⲆⵠΔ[215] = _v(68, 68, 0, ΔΔ[1001], 3);
+    this.ⲆⵠΔ[215].id = 215;
+    this.ᐃᐃᐃ[215] = _v(60, 60, 0, ΔΔ[1000], ub);
+    this.ᐃᐃᐃ[215].id = 215;
+    this.ⵠⵠᐃ[76] = _v(60, 60, 0, ΔΔ[999], 3);
+    this.ⵠⵠᐃ[76].id = 76;
+    this.ⲆⵠΔ[216] = _v(68, 68, 0, ΔΔ[1004], ci);
+    this.ⲆⵠΔ[216].id = 216;
+    this.ᐃᐃᐃ[216] = _v(60, 60, 0, ΔΔ[1003], nq);
+    this.ᐃᐃᐃ[216].id = 216;
+    this.ⵠⵠᐃ[77] = _v(60, 60, 0, ΔΔ[1002], Js);
+    this.ⵠⵠᐃ[77].id = 77;
+    this.ⲆⵠΔ[220] = _v(68, 68, 0, ΔΔ[1007], 3);
+    this.ⲆⵠΔ[220].id = 220;
+    this.ᐃᐃᐃ[220] = _v(60, 60, 0, ΔΔ[1006], 3);
+    this.ᐃᐃᐃ[220].id = 220;
+    this.ⵠⵠᐃ[78] = _v(60, 60, 0, ΔΔ[1005], ut);
+    this.ⵠⵠᐃ[78].id = 78;
+    this.ⲆⵠΔ[217] = _v(68, 68, 0, ΔΔ[1016], eg);
+    this.ⲆⵠΔ[217].id = 217;
+    this.ᐃᐃᐃ[217] = _v(60, 60, 0, ΔΔ[1015], ub);
+    this.ᐃᐃᐃ[217].id = 217;
+    this.ⵠⵠᐃ[60] = _v(60, 60, 0, ΔΔ[1014], eg);
+    this.ⵠⵠᐃ[60].id = 60;
+    this.ⲆⵠΔ[219] = _v(68, 68, 0, ΔΔ[1013], ci);
+    this.ⲆⵠΔ[219].id = 219;
+    this.ᐃᐃᐃ[219] = _v(60, 60, 0, ΔΔ[1012], qo);
+    this.ᐃᐃᐃ[219].id = 219;
+    this.ⵠⵠᐃ[72] = _v(60, 60, 0, ΔΔ[1011], Tr);
+    this.ⵠⵠᐃ[72].id = 72;
+    this.ⲆⵠΔ[218] = _v(68, 68, 0, ΔΔ[1010], Lg);
+    this.ⲆⵠΔ[218].id = 218;
+    this.ᐃᐃᐃ[218] = _v(60, 60, 0, ΔΔ[1009], 3);
+    this.ᐃᐃᐃ[218].id = 218;
+    this.ⵠⵠᐃ[66] = _v(60, 60, 0, ΔΔ[1008], 3);
+    this.ⵠⵠᐃ[66].id = 66;
+    this.ⲆⵠΔ[153] = _v(68, 68, 0, ΔΔ[1201], Js);
+    this.ⲆⵠΔ[153].id = 153;
+    this.ᐃᐃᐃ[153] = _v(60, 60, 0, ΔΔ[1199], 3);
+    this.ᐃᐃᐃ[153].id = 153;
+    this.ⵠⵠᐃ[117] = _v(60, 60, 0, ΔΔ[1200], Wb);
+    this.ⵠⵠᐃ[117].id = 117;
+    this.ⲆⵠΔ[154] = _v(68, 68, 0, ΔΔ[1205], ci);
+    this.ⲆⵠΔ[154].id = 154;
+    this.ᐃᐃᐃ[154] = _v(60, 60, 0, ΔΔ[1203], Js);
+    this.ᐃᐃᐃ[154].id = 154;
+    this.ⵠⵠᐃ[118] = _v(60, 60, 0, ΔΔ[1204], 3);
+    this.ⵠⵠᐃ[118].id = 118;
+    this.ⲆⵠΔ[155] = _v(68, 68, 0, ΔΔ[1209], 3);
+    this.ⲆⵠΔ[155].id = 155;
+    this.ᐃᐃᐃ[155] = _v(60, 60, 0, ΔΔ[1207], Lg);
+    this.ᐃᐃᐃ[155].id = 155;
+    this.ⵠⵠᐃ[119] = _v(60, 60, 0, ΔΔ[1208], ut);
+    this.ⵠⵠᐃ[119].id = 119;
+    this.ⲆⵠΔ[156] = _v(68, 68, 0, ΔΔ[1213], 3);
+    this.ⲆⵠΔ[156].id = 156;
+    this.ᐃᐃᐃ[156] = _v(60, 60, 0, ΔΔ[1211], 3);
+    this.ᐃᐃᐃ[156].id = 156;
+    this.ⵠⵠᐃ[120] = _v(60, 60, 0, ΔΔ[1212], xb);
+    this.ⵠⵠᐃ[120].id = 120;
+    this.ⲆⵠΔ[157] = _v(68, 68, 0, ΔΔ[1217], 3);
+    this.ⲆⵠΔ[157].id = 157;
+    this.ᐃᐃᐃ[157] = _v(60, 60, 0, ΔΔ[1215], fn);
+    this.ᐃᐃᐃ[157].id = 157;
+    this.ⵠⵠᐃ[121] = _v(60, 60, 0, ΔΔ[1216], Wb);
+    this.ⵠⵠᐃ[121].id = 121;
+    this.ⲆⵠΔ[203] = _v(68, 68, 0, ΔΔ[937], 3);
+    this.ⲆⵠΔ[203].id = 203;
+    this.ᐃᐃᐃ[203] = _v(60, 60, 0, ΔΔ[936], 3);
+    this.ᐃᐃᐃ[203].id = 203;
+    this.ᐃᐃᐃ[203].info.ⵠⵠ[2] = this.ᐃᐃᐃ[203].info.ⵠⵠ[Bb];
+    this.ⲆⵠΔ[150] = _v(68, 68, 0, ΔΔ[524], 3);
+    this.ⲆⵠΔ[150].id = 150;
+    this.ᐃᐃᐃ[150] = _v(60, 60, 0, ΔΔ[523], 3);
+    this.ᐃᐃᐃ[150].id = 150;
+    this.ᐃᐃᐃ[150].info.ⵠⵠ[pq] = this.ᐃᐃᐃ[150].info.ⵠⵠ[0];
+    this.ⲆⵠΔ[202] = _v(68, 68, 0, ΔΔ[939], Tr);
+    this.ⲆⵠΔ[202].id = 202;
+    this.ᐃᐃᐃ[202] = _v(60, 60, 0, ΔΔ[938], 3);
+    this.ᐃᐃᐃ[202].id = 202;
+    this.ᐃᐃᐃ[202].info.ⵠⵠ[Vg] = this.ᐃᐃᐃ[202].info.ⵠⵠ[In];
+    this.ⲆⵠΔ[19] = _v(68, 68, 0, ΔΔ[934], qo);
+    this.ⲆⵠΔ[19].id = 19;
+    this.ᐃᐃᐃ[19] = _v(60, 60, 0, ΔΔ[932], 3);
+    this.ᐃᐃᐃ[19].id = 19;
+    this.ⵠⵠᐃ[39] = _v(60, 60, 0, ΔΔ[933], yr);
+    this.ⵠⵠᐃ[39].id = 39;
+    this.ⲆⵠΔ[20] = _v(68, 68, 0, ΔΔ[923], xb);
+    this.ⲆⵠΔ[20].id = 20;
+    this.ᐃᐃᐃ[20] = _v(60, 60, 0, ΔΔ[921], eg);
+    this.ᐃᐃᐃ[20].id = 20;
+    this.ⵠⵠᐃ[95] = _v(60, 60, 0, ΔΔ[922], ub);
+    this.ⵠⵠᐃ[95].id = 95;
+    this.ⲆⵠΔ[21] = _v(68, 68, 0, ΔΔ[927], 3);
+    this.ⲆⵠΔ[21].id = 21;
+    this.ᐃᐃᐃ[21] = _v(60, 60, 0, ΔΔ[925], ut);
+    this.ᐃᐃᐃ[21].id = 21;
+    this.ⵠⵠᐃ[96] = _v(60, 60, 0, ΔΔ[926], Hk);
+    this.ⵠⵠᐃ[96].id = 96;
+    this.ⲆⵠΔ[22] = _v(68, 68, 0, ΔΔ[931], eg);
+    this.ⲆⵠΔ[22].id = 22;
+    this.ᐃᐃᐃ[22] = _v(60, 60, 0, ΔΔ[929], qo);
+    this.ᐃᐃᐃ[22].id = 22;
+    this.ⵠⵠᐃ[97] = _v(60, 60, 0, ΔΔ[930], 3);
+    this.ⵠⵠᐃ[97].id = 97;
+    this.ⲆⵠΔ[60] = _v(68, 68, 0, ΔΔ[736], 3);
+    this.ⲆⵠΔ[60].id = 60;
+    this.ᐃᐃᐃ[60] = _v(60, 60, 0, ΔΔ[735], Lg);
+    this.ᐃᐃᐃ[60].id = 60;
+    this.ⵠⵠᐃ[127] = _v(60, 60, 0, ΔΔ[737], 3);
+    this.ⵠⵠᐃ[127].id = 127;
+    this.ⲆⵠΔ[90] = _v(68, 68, 0, ΔΔ[739], ut);
+    this.ⲆⵠΔ[90].id = 90;
+    this.ᐃᐃᐃ[90] = _v(60, 60, 0, ΔΔ[738], 3);
+    this.ᐃᐃᐃ[90].id = 90;
+    this.ⵠⵠᐃ[173] = _v(60, 60, 0, ΔΔ[740], 3);
+    this.ⵠⵠᐃ[173].id = 173;
+    this.ⲆⵠΔ[92] = _v(68, 68, 0, ΔΔ[745], ea);
+    this.ⲆⵠΔ[92].id = 92;
+    this.ᐃᐃᐃ[92] = _v(60, 60, 0, ΔΔ[744], 3);
+    this.ᐃᐃᐃ[92].id = 92;
+    this.ⵠⵠᐃ[174] = _v(60, 60, 0, ΔΔ[746], I);
+    this.ⵠⵠᐃ[174].id = 174;
+    this.ⲆⵠΔ[93] = _v(68, 68, 0, ΔΔ[748], sl);
+    this.ⲆⵠΔ[93].id = 93;
+    this.ᐃᐃᐃ[93] = _v(60, 60, 0, ΔΔ[747], 3);
+    this.ᐃᐃᐃ[93].id = 93;
+    this.ⵠⵠᐃ[175] = _v(60, 60, 0, ΔΔ[749], 3);
+    this.ⵠⵠᐃ[175].id = 175;
+    this.ⲆⵠΔ[91] = _v(68, 68, 0, ΔΔ[742], Wb);
+    this.ⲆⵠΔ[91].id = 91;
+    this.ᐃᐃᐃ[91] = _v(60, 60, 0, ΔΔ[741], ll);
+    this.ᐃᐃᐃ[91].id = 91;
+    this.ⵠⵠᐃ[176] = _v(60, 60, 0, ΔΔ[743], ll);
+    this.ⵠⵠᐃ[176].id = 176;
+    this.ⲆⵠΔ[100] = _v(68, 68, 0, ΔΔ[1165], 3);
+    this.ⲆⵠΔ[100].id = 100;
+    this.ᐃᐃᐃ[100] = _v(60, 60, 0, ΔΔ[1164], sl);
+    this.ᐃᐃᐃ[100].id = 100;
     this.ⵠⵠᐃ[$r.ᐃⲆⵠᐃΔ] = _v(60, 60, 0, ΔΔ[Xr.ⵠⲆⲆⵠΔⲆᐃᐃΔ], ll);
     this.ⵠⵠᐃ[$r.ᐃⲆⵠᐃΔ].id = $r.ᐃⲆⵠᐃΔ;
-    this.ⲆⵠΔ[_r.ᐃΔⲆⵠΔ] = _v(68, 68, 0, ΔΔ[Xr.ᐃⵠΔⵠⲆⲆⲆ], Tr);
-    this.ⲆⵠΔ[_r.ᐃΔⲆⵠΔ].id = _r.ᐃΔⲆⵠΔ;
-    this.ᐃᐃᐃ[_r.ᐃΔⲆⵠΔ] = _v(60, 60, 0, ΔΔ[Xr.ⲆᐃᐃⵠᐃΔΔ], 3);
-    this.ᐃᐃᐃ[_r.ᐃΔⲆⵠΔ].id = _r.ᐃΔⲆⵠΔ;
-    this.ⵠⵠᐃ[$r.ᐃΔⲆⵠΔ] = _v(60, 60, 0, ΔΔ[Xr.ⵠΔΔΔΔⲆⲆ], nq);
-    this.ⵠⵠᐃ[$r.ᐃΔⲆⵠΔ].id = $r.ᐃΔⲆⵠΔ;
-    this.ⲆⵠΔ[_r.ⲆᐃⵠΔᐃ] = _v(68, 68, 0, ΔΔ[Xr.ⵠΔΔΔΔᐃⲆ], 3);
-    this.ⲆⵠΔ[_r.ⲆᐃⵠΔᐃ].id = _r.ⲆᐃⵠΔᐃ;
-    this.ᐃᐃᐃ[_r.ⲆᐃⵠΔᐃ] = _v(60, 60, 0, ΔΔ[Xr.ⵠⵠΔΔⵠᐃᐃ], 3);
-    this.ᐃᐃᐃ[_r.ⲆᐃⵠΔᐃ].id = _r.ⲆᐃⵠΔᐃ;
-    this.ⵠⵠᐃ[$r.ⲆᐃⵠΔᐃ] = _v(60, 60, 0, ΔΔ[Xr.ⵠΔⲆⲆⲆⲆᐃ], 3);
-    this.ⵠⵠᐃ[$r.ⲆᐃⵠΔᐃ].id = $r.ⲆᐃⵠΔᐃ;
-    this.ⲆⵠΔ[_r.ΔⲆᐃΔⵠ] = _v(68, 68, 0, ΔΔ[Xr.ⲆᐃⵠᐃⵠᐃⲆ], 3);
-    this.ⲆⵠΔ[_r.ΔⲆᐃΔⵠ].id = _r.ΔⲆᐃΔⵠ;
-    this.ᐃᐃᐃ[_r.ΔⲆᐃΔⵠ] = _v(60, 60, 0, ΔΔ[Xr.ᐃΔΔᐃⲆᐃⲆ], ea);
-    this.ᐃᐃᐃ[_r.ΔⲆᐃΔⵠ].id = _r.ΔⲆᐃΔⵠ;
-    this.ⵠⵠᐃ[$r.ΔⲆᐃΔⵠ] = _v(60, 60, 0, ΔΔ[Xr.ⵠᐃⲆⲆⲆⲆᐃ], qu);
-    this.ⵠⵠᐃ[$r.ΔⲆᐃΔⵠ].id = $r.ΔⲆᐃΔⵠ;
-    this.ⲆⵠΔ[_r.ⲆⲆᐃᐃⲆ] = _v(68, 68, 0, ΔΔ[Xr.ᐃΔⵠᐃⵠᐃⲆ], I);
-    this.ⲆⵠΔ[_r.ⲆⲆᐃᐃⲆ].id = _r.ⲆⲆᐃᐃⲆ;
-    this.ᐃᐃᐃ[_r.ⲆⲆᐃᐃⲆ] = _v(60, 60, 0, ΔΔ[Xr.ⵠⵠΔⵠᐃᐃⵠ], ci);
-    this.ᐃᐃᐃ[_r.ⲆⲆᐃᐃⲆ].id = _r.ⲆⲆᐃᐃⲆ;
-    this.ⵠⵠᐃ[$r.ⲆⲆᐃᐃⲆ] = _v(60, 60, 0, ΔΔ[Xr.ΔⵠΔΔΔΔᐃ], 3);
-    this.ⵠⵠᐃ[$r.ⲆⲆᐃᐃⲆ].id = $r.ⲆⲆᐃᐃⲆ;
-    this.ⲆⵠΔ[_r.ΔⲆᐃᐃⲆ] = _v(68, 68, 0, ΔΔ[Xr.ⵠⵠᐃⲆᐃᐃⵠ], 3);
-    this.ⲆⵠΔ[_r.ΔⲆᐃᐃⲆ].id = _r.ΔⲆᐃᐃⲆ;
-    this.ᐃᐃᐃ[_r.ΔⲆᐃᐃⲆ] = _v(60, 60, 0, ΔΔ[Xr.ᐃᐃᐃⲆⲆᐃΔ], 3);
-    this.ᐃᐃᐃ[_r.ΔⲆᐃᐃⲆ].id = _r.ΔⲆᐃᐃⲆ;
+    this.ⲆⵠΔ[34] = _v(68, 68, 0, ΔΔ[945], Tr);
+    this.ⲆⵠΔ[34].id = 34;
+    this.ᐃᐃᐃ[34] = _v(60, 60, 0, ΔΔ[943], 3);
+    this.ᐃᐃᐃ[34].id = 34;
+    this.ⵠⵠᐃ[30] = _v(60, 60, 0, ΔΔ[944], nq);
+    this.ⵠⵠᐃ[30].id = 30;
+    this.ⲆⵠΔ[44] = _v(68, 68, 0, ΔΔ[948], 3);
+    this.ⲆⵠΔ[44].id = 44;
+    this.ᐃᐃᐃ[44] = _v(60, 60, 0, ΔΔ[946], 3);
+    this.ᐃᐃᐃ[44].id = 44;
+    this.ⵠⵠᐃ[92] = _v(60, 60, 0, ΔΔ[947], 3);
+    this.ⵠⵠᐃ[92].id = 92;
+    this.ⲆⵠΔ[17] = _v(68, 68, 0, ΔΔ[878], 3);
+    this.ⲆⵠΔ[17].id = 17;
+    this.ᐃᐃᐃ[17] = _v(60, 60, 0, ΔΔ[877], ea);
+    this.ᐃᐃᐃ[17].id = 17;
+    this.ⵠⵠᐃ[32] = _v(60, 60, 0, ΔΔ[879], qu);
+    this.ⵠⵠᐃ[32].id = 32;
+    this.ⲆⵠΔ[63] = _v(68, 68, 0, ΔΔ[568], I);
+    this.ⲆⵠΔ[63].id = 63;
+    this.ᐃᐃᐃ[63] = _v(60, 60, 0, ΔΔ[566], ci);
+    this.ᐃᐃᐃ[63].id = 63;
+    this.ⵠⵠᐃ[130] = _v(60, 60, 0, ΔΔ[567], 3);
+    this.ⵠⵠᐃ[130].id = 130;
+    this.ⲆⵠΔ[187] = _v(68, 68, 0, ΔΔ[591], 3);
+    this.ⲆⵠΔ[187].id = 187;
+    this.ᐃᐃᐃ[187] = _v(60, 60, 0, ΔΔ[253], 3);
+    this.ᐃᐃᐃ[187].id = 187;
     this.ⲆⵠΔ[_r.ᐃᐃΔΔᐃⲆᐃ] = _v(68, 68, 0, ΔΔ[Xr.ⵠⲆΔΔΔᐃᐃᐃᐃ], ub);
     this.ⲆⵠΔ[_r.ᐃᐃΔΔᐃⲆᐃ].id = _r.ᐃᐃΔΔᐃⲆᐃ;
     this.ᐃᐃᐃ[_r.ᐃᐃΔΔᐃⲆᐃ] = _v(60, 60, 0, ΔΔ[Xr.ᐃΔⵠᐃᐃᐃⲆΔᐃ], 3);
@@ -52727,14 +52727,14 @@
         }
       }
       this.ⵠᐃⲆΔΔⲆΔ.info.translate.x = a + 17;
-      this.ⵠᐃⲆΔΔⲆΔ.info.translate.y = 22 + ΔΔ[Xr.ΔⲆᐃΔᐃᐃⲆ].height;
+      this.ⵠᐃⲆΔΔⲆΔ.info.translate.y = 22 + ΔΔ[339].height;
       this.ΔΔᐃⵠⵠⵠⵠ.info.translate.x = a + m;
       this.ΔΔᐃⵠⵠⵠⵠ.info.translate.y = 30;
       this.ⲆΔⵠᐃⲆⵠⲆ.info.translate.x = a + Eg;
-      this.ⲆΔⵠᐃⲆⵠⲆ.info.translate.y = 22 + ΔΔ[Xr.ΔⲆᐃΔᐃᐃⲆ].height;
+      this.ⲆΔⵠᐃⲆⵠⲆ.info.translate.y = 22 + ΔΔ[339].height;
     };
     this.ᐃᐃᐃⲆᐃⵠⲆⲆⲆ = function () {
-      var a = Math.floor((lo - ΔΔ[Xr.ⲆᐃΔᐃⵠⲆⲆ][0].width) / Rl);
+      var a = Math.floor((lo - ΔΔ[556][0].width) / Rl);
       for (var b = 0; this.ⲆΔⵠᐃᐃ.length > b; b++) {
         this.ⲆΔⵠᐃᐃ[b].button.info.translate.x = a;
         this.ⲆΔⵠᐃᐃ[b].button.info.translate.y = -13;
@@ -52857,24 +52857,24 @@
     this.ᐃⲆΔ = function () {
       this.ⵠⵠⵠⵠ.translate.x = lo - this.ⵠⵠⵠⵠ.ⵠⵠ.width - 10;
       this.ⵠⵠⵠⵠ.translate.y = 5;
-      cf.ΔᐃᐃΔⲆ.translate.x = this.ⵠⵠⵠⵠ.translate.x - ΔΔ[Xr.ⲆⲆⵠΔΔⲆΔ][Zj].width - 85;
+      cf.ΔᐃᐃΔⲆ.translate.x = this.ⵠⵠⵠⵠ.translate.x - ΔΔ[725][Zj].width - 85;
       cf.ΔᐃᐃΔⲆ.translate.y = 10;
-      this.ⲆⵠⲆⵠ.button.info.translate.x = this.ⵠⵠⵠⵠ.translate.x - ΔΔ[Xr.ⲆᐃⵠᐃⵠⲆᐃ][Mg].width - 10;
+      this.ⲆⵠⲆⵠ.button.info.translate.x = this.ⵠⵠⵠⵠ.translate.x - ΔΔ[708][Mg].width - 10;
       this.ⲆⵠⲆⵠ.button.info.translate.y = Ra;
-      this.Δⵠᐃᐃ.button.info.translate.x = this.ⵠⵠⵠⵠ.translate.x - ΔΔ[Xr.ⵠᐃⲆᐃⵠᐃΔ][Ih].width - 20;
-      this.Δⵠᐃᐃ.button.info.translate.y = this.ⲆⵠⲆⵠ.button.info.translate.y + ΔΔ[Xr.ⲆᐃⵠᐃⵠⲆᐃ][Mg].height + 5;
-      this.options.button.info.translate.x = this.ⵠⵠⵠⵠ.translate.x - ΔΔ[Xr.ⵠⵠⵠᐃⵠΔⲆ][0].width - Jg;
-      this.options.button.info.translate.y = this.Δⵠᐃᐃ.button.info.translate.y + ΔΔ[Xr.ⵠⵠⵠᐃⵠΔⲆ][0].height + 18;
-      this.ⲆΔᐃⲆ.ⲆΔΔⲆΔⲆⲆ.info.translate.x = this.ⵠⵠⵠⵠ.translate.x - ΔΔ[Xr.ⵠⵠⵠᐃⵠΔⲆ][0].width - A;
-      this.ⲆΔᐃⲆ.ⲆΔΔⲆΔⲆⲆ.info.translate.y = this.options.button.info.translate.y + ΔΔ[Xr.ⵠᐃᐃᐃΔΔᐃ][0].height;
-      this.ⲆΔᐃⲆ.ⵠᐃⵠⵠⲆΔᐃ.info.translate.x = this.ⵠⵠⵠⵠ.translate.x - ΔΔ[Xr.ⵠⵠⵠᐃⵠΔⲆ][ig].width - 20;
-      this.ⲆΔᐃⲆ.ⵠᐃⵠⵠⲆΔᐃ.info.translate.y = this.options.button.info.translate.y + ΔΔ[Xr.ⵠᐃᐃᐃΔΔᐃ][fl].height;
-      this.ⲆΔⵠΔⲆ.button.info.translate.x = this.ⵠⵠⵠⵠ.translate.x - ΔΔ[Xr.ⵠⲆΔΔΔΔⲆ][Mg].width - vi;
-      this.ⲆΔⵠΔⲆ.button.info.translate.y = this.ⲆΔᐃⲆ.ⲆΔΔⲆΔⲆⲆ.info.translate.y + ΔΔ[Xr.ⵠⲆΔΔΔΔⲆ][Mg].height;
+      this.Δⵠᐃᐃ.button.info.translate.x = this.ⵠⵠⵠⵠ.translate.x - ΔΔ[755][Ih].width - 20;
+      this.Δⵠᐃᐃ.button.info.translate.y = this.ⲆⵠⲆⵠ.button.info.translate.y + ΔΔ[708][Mg].height + 5;
+      this.options.button.info.translate.x = this.ⵠⵠⵠⵠ.translate.x - ΔΔ[727][0].width - Jg;
+      this.options.button.info.translate.y = this.Δⵠᐃᐃ.button.info.translate.y + ΔΔ[727][0].height + 18;
+      this.ⲆΔᐃⲆ.ⲆΔΔⲆΔⲆⲆ.info.translate.x = this.ⵠⵠⵠⵠ.translate.x - ΔΔ[727][0].width - A;
+      this.ⲆΔᐃⲆ.ⲆΔΔⲆΔⲆⲆ.info.translate.y = this.options.button.info.translate.y + ΔΔ[783][0].height;
+      this.ⲆΔᐃⲆ.ⵠᐃⵠⵠⲆΔᐃ.info.translate.x = this.ⵠⵠⵠⵠ.translate.x - ΔΔ[727][ig].width - 20;
+      this.ⲆΔᐃⲆ.ⵠᐃⵠⵠⲆΔᐃ.info.translate.y = this.options.button.info.translate.y + ΔΔ[783][fl].height;
+      this.ⲆΔⵠΔⲆ.button.info.translate.x = this.ⵠⵠⵠⵠ.translate.x - ΔΔ[795][Mg].width - vi;
+      this.ⲆΔⵠΔⲆ.button.info.translate.y = this.ⲆΔᐃⲆ.ⲆΔΔⲆΔⲆⲆ.info.translate.y + ΔΔ[795][Mg].height;
       Xw.ᐃΔᐃᐃⲆ.translate.x = this.ⵠⵠⵠⵠ.translate.x - 63 - 85;
       Xw.ᐃΔᐃᐃⲆ.translate.y = 100;
-      Xw.ΔΔⵠᐃᐃ.translate.x = this.ⵠⵠⵠⵠ.translate.x - ΔΔ[Xr.ᐃⵠΔⵠᐃⲆⲆ].width - 85;
-      Xw.ΔΔⵠᐃᐃ.translate.y = Xw.ᐃΔᐃᐃⲆ.translate.y + jn + ΔΔ[Xr.ΔᐃⵠⵠᐃⲆᐃ].height;
+      Xw.ΔΔⵠᐃᐃ.translate.x = this.ⵠⵠⵠⵠ.translate.x - ΔΔ[517].width - 85;
+      Xw.ΔΔⵠᐃᐃ.translate.y = Xw.ᐃΔᐃᐃⲆ.translate.y + jn + ΔΔ[546].height;
       this.ΔΔΔⲆⵠ.translate.y = jq - 3 - 193;
       this.ΔΔΔⲆⵠ.translate.x = lo - 3 - 193;
       this.ⲆΔᐃΔ.translate.x = 5;
@@ -53134,7 +53134,7 @@
           if (n) {
             Xw.ᐃΔᐃⵠ.ᐃⲆⵠⲆⵠⲆⲆ.start(m, zf.ⲆⲆΔⲆ);
           }
-          if (d.open && (d.id < 0 || d.id == a[m].id) || Xw.ᐃⲆⵠⲆΔ.open && _r.ⵠᐃⵠⵠ === a[m].id || Xw.ᐃⵠⵠΔⲆ.open && a[m].id === _r.ΔΔᐃΔΔ || Xw.ⲆᐃⵠΔ.open && (_r.ⵠᐃⵠⵠ === a[m].id || a[m].id === _r.ᐃⵠᐃⵠᐃ) || Xw.ᐃⵠᐃᐃ.open && _r.ⲆΔΔᐃⵠ === a[m].id || Xw.ΔΔᐃⵠ.open && _r.ⵠᐃⵠⵠ === a[m].id) {
+          if (d.open && (d.id < 0 || d.id == a[m].id) || Xw.ᐃⲆⵠⲆΔ.open && a[m].id === 109 || Xw.ᐃⵠⵠΔⲆ.open && a[m].id === 180 || Xw.ⲆᐃⵠΔ.open && (a[m].id === 109 || a[m].id === 131) || Xw.ᐃⵠᐃᐃ.open && a[m].id === 134 || Xw.ΔΔᐃⵠ.open && a[m].id === 109) {
             c |= j.ⲆⵠᐃΔⲆ[a[m].id].ⲆⵠᐃΔ(j.ⲆΔ, zf.ⲆⲆΔⲆ, Uv);
           }
         }
@@ -53294,25 +53294,25 @@
               if ((m = j.ⲆⵠᐃΔⲆ[l[o].id].ⲆⵠᐃΔ(j.ⲆΔ, zf.ⲆⲆΔⲆ, Vv)) && Xw.ΔᐃⲆⵠ.ΔᐃΔⵠ < 0) {
                 Ⲇⵠᐃⵠ.ᐃΔΔⲆⲆΔⲆᐃᐃ(c, l[o].id, b.shiftKey ? Ra : 1);
               }
-            } else if (e.open && l[o].id === _r.ΔΔᐃΔΔ) {
+            } else if (e.open && l[o].id === 180) {
               if ((m = j.ⲆⵠᐃΔⲆ[l[o].id].ⲆⵠᐃΔ(j.ⲆΔ, zf.ⲆⲆΔⲆ, Vv)) && Xw.ΔᐃⲆⵠ.ΔᐃΔⵠ < wg) {
                 Ⲇⵠᐃⵠ.ⵠⲆⲆΔⲆⲆⲆΔΔ(e);
               }
-            } else if (d.open && _r.ⵠᐃⵠⵠ === l[o].id) {
+            } else if (d.open && l[o].id === 109) {
               if ((m = j.ⲆⵠᐃΔⲆ[l[o].id].ⲆⵠᐃΔ(j.ⲆΔ, zf.ⲆⲆΔⲆ, Vv)) && Xw.ΔᐃⲆⵠ.ΔᐃΔⵠ < eu) {
                 Ⲇⵠᐃⵠ.ᐃᐃⲆᐃⵠⵠΔⵠΔ(d, b.shiftKey ? 10 : 1);
               }
-            } else if (f.open && _r.ⲆΔΔᐃⵠ === l[o].id) {
+            } else if (f.open && l[o].id === 134) {
               if ((m = j.ⲆⵠᐃΔⲆ[l[o].id].ⲆⵠᐃΔ(j.ⲆΔ, zf.ⲆⲆΔⲆ, Vv)) && Yh > Xw.ΔᐃⲆⵠ.ΔᐃΔⵠ) {
                 Ⲇⵠᐃⵠ.ⲆΔⵠⲆⵠᐃΔΔⲆ(f, b.shiftKey ? Ch : Gh);
               }
-            } else if (i.open && l[o].id === _r.ⵠᐃⵠⵠ) {
+            } else if (i.open && l[o].id === 109) {
               if ((m = j.ⲆⵠᐃΔⲆ[l[o].id].ⲆⵠᐃΔ(j.ⲆΔ, zf.ⲆⲆΔⲆ, Vv)) && Xw.ΔᐃⲆⵠ.ΔᐃΔⵠ < 0) {
                 Ⲇⵠᐃⵠ.ᐃⵠΔᐃΔᐃᐃⵠⲆ(i, b.shiftKey ? jn : 1);
               }
-            } else if (k.open && (_r.ⵠᐃⵠⵠ === l[o].id || _r.ᐃⵠᐃⵠᐃ === l[o].id)) {
+            } else if (k.open && (l[o].id === 109 || l[o].id === 131)) {
               if ((m = j.ⲆⵠᐃΔⲆ[l[o].id].ⲆⵠᐃΔ(j.ⲆΔ, zf.ⲆⲆΔⲆ, Vv)) && Xw.ΔᐃⲆⵠ.ΔᐃΔⵠ < 0) {
-                if (l[o].id === _r.ⵠᐃⵠⵠ) {
+                if (l[o].id === 109) {
                   Ⲇⵠᐃⵠ.ΔᐃⲆᐃⵠⲆⲆ(k, b.shiftKey ? zl : Xn, 0);
                 } else {
                   Ⲇⵠᐃⵠ.ΔᐃⲆᐃⵠⲆⲆ(k, 0, b.shiftKey ? Lb : 1);
@@ -53437,7 +53437,7 @@
         for (var k = Xw.ᐃΔᐃⵠ.ⲆᐃⲆⲆΔ, m = eu; k.length > m; m++) {
           var o = k[m].ⲆⵠᐃΔ(j.ⲆΔ, zf.ⲆⲆΔⲆ, Tv);
           d |= Zw.Ⲇⵠᐃⵠⵠ.ⲆⵠᐃΔ(o, k[m], fl);
-          if (a.open && (a.id < 0 || a.id == k[m].id) || Xw.ᐃⲆⵠⲆΔ.open && _r.ⵠᐃⵠⵠ == k[m].id || Xw.ᐃⵠⵠΔⲆ.open && _r.ΔΔᐃΔΔ === k[m].id || Xw.ⲆᐃⵠΔ.open && (_r.ⵠᐃⵠⵠ == k[m].id || _r.ᐃⵠᐃⵠᐃ == k[m].id) || Xw.ᐃⵠᐃᐃ.open && _r.ⲆΔΔᐃⵠ == k[m].id || Xw.ΔΔᐃⵠ.open && k[m].id == _r.ⵠᐃⵠⵠ) {
+          if (a.open && (a.id < 0 || a.id == k[m].id) || Xw.ᐃⲆⵠⲆΔ.open && k[m].id == 109 || Xw.ᐃⵠⵠΔⲆ.open && k[m].id === 180 || Xw.ⲆᐃⵠΔ.open && (k[m].id == 109 || k[m].id == 131) || Xw.ᐃⵠᐃᐃ.open && k[m].id == 134 || Xw.ΔΔᐃⵠ.open && k[m].id == 109) {
             d |= j.ⲆⵠᐃΔⲆ[k[m].id].ⲆⵠᐃΔ(j.ⲆΔ, zf.ⲆⲆΔⲆ, Tv);
           }
         }
@@ -53532,7 +53532,7 @@
         this.style.top = this.translate.y + "px";
       },
       ᐃΔΔΔᐃ: function () {
-        this.id.innerHTML = "<div style=\"position:absolute;\"> <img src=\"./img/scoreboard.png\"style=\"width:250px;transform:translate(125px, -80px);\"> </img> </div><div><div id=\"whokilled\">" + Xw.ⵠⲆⵠⲆⲆⲆⲆ.ⵠⵠⲆᐃⲆⵠⲆ + "</div></div><div class=\"deco\" style=\"margin-top:35px;\"></div><div class=\"deco\"></div><div><div class=\"stats\"> " + Et[ΔΔᐃ.ⵠⲆΔⵠΔⵠⲆ] + " : " + Xw.ⵠΔⲆ + "</div><div class=\"stats\"> " + Et[ΔΔᐃ.ⲆⵠⲆΔⲆⲆᐃ] + " : " + Xw.ⵠⲆⵠⲆⲆⲆⲆ.ⵠᐃⵠΔᐃ + "</div></div><div id=\"flexDisplay\"><div id=\"score\"> " + Et[ΔΔᐃ.ⵠΔΔᐃᐃⲆⲆ] + " : " + Xw.ⵠⲆⵠⲆⲆⲆⲆ.ⲆΔΔᐃⲆ + "</div><div id=\"breadWon\"><span id=\"breadWonInner\">0</span><img src=\"./img/golden-bread.png\" style=\"width:50px;margin-left:-25px;transform: translate(37px, 8px);\"></img></div></div><div><div id=\"points\"> " + Xw.ⵠⲆⵠⲆⲆⲆⲆ.ⲆᐃⲆΔᐃⲆⲆ + " " + Et[ΔΔᐃ.POINTS] + "</div></div><div id=\"shop_points\">" + Et[ΔΔᐃ.ΔΔⲆⲆⵠⲆΔ] + "</div><div style=\"display:inline-block;\"><div class=\"social\" id=\"tttwitter\">" + Et[ΔΔᐃ.ⵠⲆⵠⵠⵠᐃⲆ] + "</div><div class=\"social\" id=\"fffacebook\">" + Et[ΔΔᐃ.ⵠᐃᐃⲆΔᐃᐃ] + "</div></div><div id=\"bbback\">" + Et[ΔΔᐃ.ⲆΔⵠⵠⲆⲆΔ] + "</div>";
+        this.id.innerHTML = "<div style=\"position:absolute;\"> <img src=\"./img/scoreboard.png\"style=\"width:250px;transform:translate(125px, -80px);\"> </img> </div><div><div id=\"whokilled\">" + Xw.ⵠⲆⵠⲆⲆⲆⲆ.ⵠⵠⲆᐃⲆⵠⲆ + "</div></div><div class=\"deco\" style=\"margin-top:35px;\"></div><div class=\"deco\"></div><div><div class=\"stats\"> " + Et[335] + " : " + Xw.ⵠΔⲆ + "</div><div class=\"stats\"> " + Et[334] + " : " + Xw.ⵠⲆⵠⲆⲆⲆⲆ.ⵠᐃⵠΔᐃ + "</div></div><div id=\"flexDisplay\"><div id=\"score\"> " + Et[333] + " : " + Xw.ⵠⲆⵠⲆⲆⲆⲆ.ⲆΔΔᐃⲆ + "</div><div id=\"breadWon\"><span id=\"breadWonInner\">0</span><img src=\"./img/golden-bread.png\" style=\"width:50px;margin-left:-25px;transform: translate(37px, 8px);\"></img></div></div><div><div id=\"points\"> " + Xw.ⵠⲆⵠⲆⲆⲆⲆ.ⲆᐃⲆΔᐃⲆⲆ + " " + Et[332] + "</div></div><div id=\"shop_points\">" + Et[331] + "</div><div style=\"display:inline-block;\"><div class=\"social\" id=\"tttwitter\">" + Et[329] + "</div><div class=\"social\" id=\"fffacebook\">" + Et[330] + "</div></div><div id=\"bbback\">" + Et[328] + "</div>";
         this.style.display = "inline-block";
         document.getElementById("tttwitter").addEventListener("mouseup", Pw, false);
         document.getElementById("bbback").addEventListener("mouseup", function () {
@@ -55357,45 +55357,45 @@
   };
   var nf = [];
   nf[-1] = tf.ΔᐃΔΔΔ;
-  nf[_r.ᐃⵠΔΔⲆ] = tf.ΔᐃΔΔΔ;
-  nf[_r.ᐃᐃΔⵠΔ] = tf.ΔᐃΔΔΔ;
+  nf[28] = tf.ΔᐃΔΔΔ;
+  nf[49] = tf.ΔᐃΔΔΔ;
   nf[_r.ᐃΔΔΔᐃΔⵠⲆᐃ] = tf.ⵠᐃΔΔΔ;
-  nf[_r.ⲆΔⲆⲆⵠ] = tf.ⵠᐃΔΔΔ;
-  nf[_r.ⲆⵠⵠⲆⲆ] = tf.ⵠᐃΔΔΔ;
-  nf[_r.ⵠᐃⲆΔΔ] = tf.ⵠᐃΔΔΔ;
-  nf[_r.ᐃⲆⵠΔⲆ] = tf.ⵠᐃΔΔΔ;
-  nf[_r.ΔⲆⲆⵠⲆ] = tf.ⵠᐃΔΔΔ;
-  nf[_r.ⲆⵠΔⵠΔ] = tf.ⵠᐃΔΔΔ;
-  nf[_r.ⵠΔᐃᐃⵠ] = tf.ⵠᐃΔΔΔ;
-  nf[_r.ΔⵠᐃΔᐃ] = tf.ⵠᐃΔΔΔ;
-  nf[_r.ᐃᐃⲆΔⲆ] = tf.ⵠᐃΔΔΔ;
-  nf[_r.ⲆⲆᐃᐃⲆ] = tf.ⵠᐃΔΔΔ;
-  nf[_r.ΔⲆᐃΔⵠ] = tf.ⵠᐃΔΔΔ;
-  nf[_r.ⵠΔΔΔΔ] = tf.ⵠᐃΔΔΔ;
-  nf[_r.ᐃΔⲆᐃΔ] = tf.ⵠᐃΔΔΔ;
-  nf[_r.ΔⲆᐃⵠΔ] = tf.ⵠᐃΔΔΔ;
+  nf[8] = tf.ⵠᐃΔΔΔ;
+  nf[1] = tf.ⵠᐃΔΔΔ;
+  nf[3] = tf.ⵠᐃΔΔΔ;
+  nf[4] = tf.ⵠᐃΔΔΔ;
+  nf[31] = tf.ⵠᐃΔΔΔ;
+  nf[32] = tf.ⵠᐃΔΔΔ;
+  nf[9] = tf.ⵠᐃΔΔΔ;
+  nf[57] = tf.ⵠᐃΔΔΔ;
+  nf[0] = tf.ⵠᐃΔΔΔ;
+  nf[63] = tf.ⵠᐃΔΔΔ;
+  nf[17] = tf.ⵠᐃΔΔΔ;
+  nf[5] = tf.ⵠᐃΔΔΔ;
+  nf[6] = tf.ⵠᐃΔΔΔ;
+  nf[30] = tf.ⵠᐃΔΔΔ;
   nf[_r.ⵠᐃⲆΔᐃᐃᐃⲆᐃ] = tf.ⵠᐃΔΔΔ;
-  nf[_r.Ⲇᐃᐃᐃᐃ] = tf.ⵠᐃΔΔΔ;
-  nf[_r.ᐃᐃΔⲆⲆ] = tf.ⵠᐃΔΔΔ;
-  nf[_r.ⵠΔᐃⵠᐃ] = tf.ⵠᐃΔΔΔ;
-  nf[_r.ⵠᐃᐃⵠΔ] = tf.ⵠᐃΔΔΔ;
-  nf[_r.ᐃᐃᐃᐃⲆ] = tf.ⵠᐃΔΔΔ;
-  nf[_r.ⲆⲆΔᐃᐃ] = tf.ⵠᐃΔΔΔ;
-  nf[_r.ᐃΔⵠⲆᐃ] = tf.ⵠᐃΔΔΔ;
+  nf[18] = tf.ⵠᐃΔΔΔ;
+  nf[12] = tf.ⵠᐃΔΔΔ;
+  nf[13] = tf.ⵠᐃΔΔΔ;
+  nf[14] = tf.ⵠᐃΔΔΔ;
+  nf[15] = tf.ⵠᐃΔΔΔ;
+  nf[16] = tf.ⵠᐃΔΔΔ;
+  nf[33] = tf.ⵠᐃΔΔΔ;
   nf[_r.ⲆᐃⲆⲆᐃⲆᐃⲆᐃ] = tf.ⵠᐃΔΔΔ;
-  nf[_r.ⲆᐃΔⲆΔ] = tf.ⵠᐃΔΔΔ;
-  nf[_r.ⲆⲆⵠⲆⲆ] = tf.ⵠᐃΔΔΔ;
-  nf[_r.ⵠΔΔΔⵠ] = tf.ⵠᐃΔΔΔ;
-  nf[_r.ᐃⵠⵠⵠᐃ] = tf.ⵠᐃΔΔΔ;
-  nf[_r.ᐃⵠⲆⵠΔ] = tf.ⵠᐃΔΔΔ;
-  nf[_r.ⵠⵠᐃᐃⲆ] = tf.ⵠᐃΔΔΔ;
-  nf[_r.ⵠᐃᐃΔⵠ] = tf.ⵠᐃΔΔΔ;
-  nf[_r.ᐃΔΔᐃΔ] = tf.ⵠᐃΔΔΔ;
-  nf[_r.ⲆⵠⲆᐃΔ] = tf.ⵠᐃΔΔΔ;
-  nf[_r.ᐃΔΔΔΔ] = tf.ᐃΔΔΔΔ;
-  nf[_r.ⲆΔΔⵠⵠ] = tf.ᐃΔΔΔΔ;
-  nf[_r.ⵠᐃⵠᐃΔ] = tf.ᐃΔΔΔΔ;
-  nf[_r.ⵠᐃⲆⲆⵠ] = tf.ᐃΔΔΔΔ;
+  nf[35] = tf.ⵠᐃΔΔΔ;
+  nf[36] = tf.ⵠᐃΔΔΔ;
+  nf[37] = tf.ⵠᐃΔΔΔ;
+  nf[38] = tf.ⵠᐃΔΔΔ;
+  nf[39] = tf.ⵠᐃΔΔΔ;
+  nf[45] = tf.ⵠᐃΔΔΔ;
+  nf[62] = tf.ⵠᐃΔΔΔ;
+  nf[54] = tf.ⵠᐃΔΔΔ;
+  nf[53] = tf.ⵠᐃΔΔΔ;
+  nf[46] = tf.ᐃΔΔΔΔ;
+  nf[50] = tf.ᐃΔΔΔΔ;
+  nf[51] = tf.ᐃΔΔΔΔ;
+  nf[52] = tf.ᐃΔΔΔΔ;
   ⵠΔⵠⵠ = [];
   ⵠΔⵠⵠ[0] = ya;
   ⵠΔⵠⵠ[zs] = hb;
@@ -55897,7 +55897,7 @@
       if (a.auto) {
         return b;
       } else {
-        return b + " [" + a.nu + " " + Et[ΔΔᐃ.ᐃᐃⲆⲆⲆ] + "]";
+        return b + " [" + a.nu + " " + Et[324] + "]";
       }
     }
     this.ᐃᐃᐃⲆ = null;
@@ -56008,11 +56008,11 @@
       } else {
         e.selectedIndex = Ⲇⵠᐃⵠ.ᐃΔⲆΔⲆΔᐃ[Ⲇⵠᐃⵠ.ᐃᐃΔⲆⵠ];
       }
-      var f = "<label for=\"ul-id\"><button type=\"button\" class=\"ng-binding\">" + b[e.selectedIndex].a + (b[e.selectedIndex].nu > 0 ? " [" + b[e.selectedIndex].nu + " " + Et[ΔΔᐃ.ᐃᐃⲆⲆⲆ] + "]" : "") + "</button></label><ul role=\"listbox\" id=\"ul-id\" class=\"md-whiteframe-z1\" name=\"ul-id\"><li role=\"option\" id=\"selectDisabled\">" + Et[ΔΔᐃ.ᐃⵠⵠⲆᐃᐃΔ] + " (" + this.ⵠΔᐃⲆⲆⵠⵠ + ") " + Et[ΔΔᐃ.ⵠᐃΔⲆᐃⲆᐃ] + "</li>";
+      var f = "<label for=\"ul-id\"><button type=\"button\" class=\"ng-binding\">" + b[e.selectedIndex].a + (b[e.selectedIndex].nu > 0 ? " [" + b[e.selectedIndex].nu + " " + Et[324] + "]" : "") + "</button></label><ul role=\"listbox\" id=\"ul-id\" class=\"md-whiteframe-z1\" name=\"ul-id\"><li role=\"option\" id=\"selectDisabled\">" + Et[323] + " (" + this.ⵠΔᐃⲆⲆⵠⵠ + ") " + Et[325] + "</li>";
       for (d = 0; d < b.length; d++) {
         f += "<li role=\"option\">" + a(b[d]) + "</li>\n";
       }
-      f += "<li role=\"option\" id=\"selectDisabled\">(" + c + ") " + Et[ΔΔᐃ.ᐃᐃⵠⵠⵠᐃΔ] + "</li>";
+      f += "<li role=\"option\" id=\"selectDisabled\">(" + c + ") " + Et[326] + "</li>";
       f += "</div>";
       e.innerHTML = f;
       $(".md-select").on("click", function () {
@@ -56060,7 +56060,7 @@
       for (a = 0; this.ⲆⲆᐃΔᐃ.length > a; a++) {
         if (this.ⲆⲆᐃΔᐃ[a].length === 0) {
           this.ⲆⲆᐃΔᐃ[a].push({
-            a: Et[ΔΔᐃ.ⲆⲆⵠᐃⵠⵠⵠ],
+            a: Et[327],
             ⲆᐃⲆⲆᐃΔⵠⲆᐃ: Zj,
             ⵠΔ: "127.0.0.1",
             ⲆⲆⵠ: 80
@@ -56084,7 +56084,7 @@
       if (jw.ᐃᐃΔΔΔΔᐃⵠᐃ < c.Ⲇⵠᐃⵠᐃⵠⵠ) {
         xf = Xn;
         bf.ᐃΔⵠΔᐃΔᐃΔᐃ = jw.ΔⵠⲆⵠⲆⲆΔΔⲆ;
-        c.ⲆⲆⵠⵠⲆ(Et[ΔΔᐃ.ⵠⵠΔⵠΔⲆᐃ]);
+        c.ⲆⲆⵠⵠⲆ(Et[300]);
         bf.waiting = false;
         if (Xw.reconnect.enabled) {
           Zw.ᐃⵠⲆΔⲆ(bf.ⲆᐃⵠⲆⵠ);
@@ -56096,7 +56096,7 @@
     this.Δᐃᐃⵠⵠⵠᐃ = function (a) {
       if (this.ᐃⲆᐃᐃⵠ == this.ᐃᐃᐃⲆ.ᐃⲆᐃᐃⵠ) {
         this.ᐃⲆᐃᐃⵠ++;
-        this.ⲆⲆⵠⵠⲆ(Et[ΔΔᐃ.ⵠⵠᐃⲆⲆᐃⲆ] + a);
+        this.ⲆⲆⵠⵠⲆ(Et[301] + a);
         Zw.ᐃⵠⲆΔⲆ(bf.ⲆᐃⵠⲆⵠ);
       }
     };
@@ -56105,7 +56105,7 @@
     };
     this.ⲆΔΔΔⵠᐃΔᐃΔ = function () {
       clearTimeout(this.ΔΔⲆⵠΔ);
-      this.ⲆⲆⵠⵠⲆ(Et[ΔΔᐃ.ⵠᐃΔⲆⲆⲆⲆ]);
+      this.ⲆⲆⵠⵠⲆ(Et[302]);
       bf.waiting = false;
     };
     this.ⲆⲆⲆΔⵠⲆⵠΔⵠ = function () {
@@ -56121,9 +56121,9 @@
       Xw.ⵠΔⲆᐃⲆ.ᐃⲆⲆΔⵠ = a;
       if (cf.ΔΔⲆΔⲆ > -300) {
         if (a === Qs) {
-          this.ⲆⲆⵠⵠⲆ(Et[ΔΔᐃ.ΔΔᐃΔᐃΔⵠ]);
+          this.ⲆⲆⵠⵠⲆ(Et[340]);
         } else {
-          this.ⲆⲆⵠⵠⲆ(Et[ΔΔᐃ.ⵠᐃⵠⲆᐃⲆⵠ]);
+          this.ⲆⲆⵠⵠⲆ(Et[341]);
         }
       }
     };
@@ -56137,9 +56137,9 @@
       Xw.ⲆⵠᐃⵠΔ.ᐃⲆⲆΔⵠ = a;
       if (cf.ⲆΔΔΔᐃ > -300) {
         if (a === 0) {
-          this.ⲆⲆⵠⵠⲆ(Et[ΔΔᐃ.ΔᐃⲆΔⵠᐃⵠ]);
+          this.ⲆⲆⵠⵠⲆ(Et[342]);
         } else {
-          this.ⲆⲆⵠⵠⲆ(Et[ΔΔᐃ.ᐃⵠΔᐃⲆⵠΔ]);
+          this.ⲆⲆⵠⵠⲆ(Et[343]);
         }
       }
     };
@@ -56194,17 +56194,17 @@
     };
     this.ⲆⲆᐃᐃⵠⵠⲆⲆⲆ = function () {
       clearTimeout(this.ΔΔⲆⵠΔ);
-      this.ⲆⲆⵠⵠⲆ(Et[ΔΔᐃ.ᐃⲆΔΔΔⵠⵠ]);
+      this.ⲆⲆⵠⵠⲆ(Et[339]);
       bf.waiting = false;
     };
     this.ⵠΔⲆⵠⵠΔⵠⲆⵠ = function () {
       clearTimeout(this.ΔΔⲆⵠΔ);
-      this.ⲆⲆⵠⵠⲆ(Et[ΔΔᐃ.ᐃⵠᐃⵠⲆⵠⲆ]);
+      this.ⲆⲆⵠⵠⲆ(Et[338]);
       bf.waiting = Fh;
     };
     this.ᐃⵠⲆⲆⲆⵠᐃΔΔ = function () {
       clearTimeout(this.ΔΔⲆⵠΔ);
-      this.ⲆⲆⵠⵠⲆ(Et[ΔΔᐃ.ⵠᐃᐃⲆᐃᐃᐃ]);
+      this.ⲆⲆⵠⵠⲆ(Et[304]);
       bf.waiting = Mh;
     };
     this.ᐃⵠΔᐃⲆⵠⵠᐃⲆ = function () {
@@ -56230,7 +56230,7 @@
       }
     };
     this.ΔⵠⵠᐃⵠΔⲆᐃΔ = function (a) {
-      if (_r.ⵠⲆᐃᐃ === a) {
+      if (a === 29) {
         Xw.ᐃΔᐃⵠ.ΔΔᐃⵠⲆⵠⵠ(1, Hi);
         Zw.ΔᐃⲆᐃΔᐃⵠ();
       } else {
@@ -56268,11 +56268,11 @@
       }
     };
     this.ᐃΔⵠᐃΔⵠᐃⵠᐃ = function () {
-      this.ⲆⲆⵠⵠⲆ(Et[ΔΔᐃ.ΔⲆᐃΔΔΔⵠ]);
+      this.ⲆⲆⵠⵠⲆ(Et[305]);
     };
     this.ᐃⲆⵠΔⲆᐃⵠⲆΔ = function () {
       var a;
-      a = Xw.ⵠΔⲆ == 0 ? Et[ΔΔᐃ.ⲆΔⲆᐃᐃⵠᐃ] : Et[ΔΔᐃ.ⵠΔᐃΔᐃⵠΔ] + (Xw.ⵠΔⲆ + 1) + Et[ΔΔᐃ.ᐃⵠⲆⲆᐃΔⵠ];
+      a = Xw.ⵠΔⲆ == 0 ? Et[306] : Et[307] + (Xw.ⵠΔⲆ + 1) + Et[308];
       this.ⲆⲆⵠⵠⲆ(a);
       Xw.ⵠΔⲆ++;
     };
@@ -56280,20 +56280,20 @@
       clearTimeout(c.ΔΔⲆⵠΔ);
       Xw.reconnect.enabled = C;
       Xw.ⲆᐃΔⵠⲆ = nt;
-      this.ⲆⲆⵠⵠⲆ(Et[ΔΔᐃ.ⲆᐃΔⲆᐃᐃᐃ]);
+      this.ⲆⲆⵠⵠⲆ(Et[309]);
       Zw.ᐃⵠⲆΔⲆ(bf.ⲆᐃⵠⲆⵠ);
       this.ᐃᐃᐃⲆ.close();
     };
     this.ᐃΔⲆΔⲆⵠⲆᐃⵠ = function () {
       xf = 1;
       clearTimeout(this.ΔΔⲆⵠΔ);
-      this.ⲆⲆⵠⵠⲆ(Et[ΔΔᐃ.ⲆΔΔⵠᐃⲆΔ]);
+      this.ⲆⲆⵠⵠⲆ(Et[310]);
       bf.waiting = C;
     };
     this.ⵠΔᐃⲆᐃⲆᐃⲆᐃ = function () {
       xf = au;
       clearTimeout(this.ΔΔⲆⵠΔ);
-      this.ⲆⲆⵠⵠⲆ(Et[ΔΔᐃ.ⵠⵠⲆᐃᐃΔΔ]);
+      this.ⲆⲆⵠⵠⲆ(Et[311]);
       bf.waiting = false;
     };
     this.ᐃⲆΔⲆⵠⲆⲆⲆᐃ = function (a) {
@@ -56320,10 +56320,10 @@
       this.ᐃᐃᐃⲆ[bw](sq[tq].stringify([32]));
     };
     this.ΔᐃⵠⵠΔΔΔΔᐃ = function () {
-      this.ⲆⲆⵠⵠⲆ(Et[ΔΔᐃ.EMPTY]);
+      this.ⲆⲆⵠⵠⲆ(Et[312]);
     };
     this.ⵠΔⵠΔⲆᐃⵠ = function () {
-      this.ⲆⲆⵠⵠⲆ(Et[ΔΔᐃ.ⵠⲆᐃⲆⵠᐃⵠ]);
+      this.ⲆⲆⵠⵠⲆ(Et[313]);
     };
     this.ⵠΔΔᐃⲆᐃⵠΔΔ = function (a) {
       this.ᐃᐃᐃⲆ[bw](Xo[Tq].stringify([yl, a]));
@@ -56333,7 +56333,7 @@
       for (var b = iw[a - 1].items, c = 0; b.length > c && Xw.ᐃΔᐃⵠ.ⲆᐃⲆⲆΔ.length < Xw.ᐃΔᐃⵠ.max; c++) {
         var d = b[c][za];
         var e = b[c][ig];
-        if (b[c][1] === _r.ⵠⲆᐃᐃ) {
+        if (b[c][1] === 29) {
           Xw.ᐃΔᐃⵠ.ΔΔᐃⵠⲆⵠⵠ(wt, mj);
         } else {
           this.ΔΔᐃᐃⵠⵠΔ([0, d, e]);
@@ -56402,7 +56402,7 @@
     };
     this.ᐃⲆᐃⵠⲆᐃⲆΔΔ = function (a) {
       if (kw.ⲆⵠⲆⵠⲆⲆⵠ == cf.mode && cf.ⵠΔΔⲆ[a].ⲆⲆΔⵠᐃ !== "spectator") {
-        this.ⲆⲆⵠⵠⲆ(cf.ⵠΔΔⲆ[a].ⲆⲆΔⵠᐃ + Et[ΔΔᐃ.ⲆᐃᐃⲆᐃᐃⲆ]);
+        this.ⲆⲆⵠⵠⲆ(cf.ⵠΔΔⲆ[a].ⲆⲆΔⵠᐃ + Et[314]);
       }
       cf.ⵠΔΔⲆ[a].ⲆᐃΔⵠⲆ = al;
     };
@@ -56835,7 +56835,7 @@
       }
     };
     this.ⲆᐃΔᐃᐃⵠᐃᐃᐃ = function (a) {
-      if (Xw.ᐃΔᐃⵠ.max !== Xw.ᐃΔᐃⵠ.ⲆᐃⲆⲆΔ.length || Ws[a].Δⵠⵠⵠ === _r.ⵠⲆᐃᐃ || Xw.ᐃΔᐃⵠ.ᐃⲆⲆΔⲆ(Ws[a].Δⵠⵠⵠ) != -1 || Xw.ᐃΔᐃⵠ.ᐃᐃⲆΔᐃⲆᐃΔⵠ(Ws[a].r)) {
+      if (Xw.ᐃΔᐃⵠ.max !== Xw.ᐃΔᐃⵠ.ⲆᐃⲆⲆΔ.length || Ws[a].Δⵠⵠⵠ === 29 || Xw.ᐃΔᐃⵠ.ᐃⲆⲆΔⲆ(Ws[a].Δⵠⵠⵠ) != -1 || Xw.ᐃΔᐃⵠ.ᐃᐃⲆΔᐃⲆᐃΔⵠ(Ws[a].r)) {
         this.ᐃᐃᐃⲆ[bw](sq[tq].stringify([ib, a]));
         return 1;
       } else {
@@ -56859,7 +56859,7 @@
       Xw.ΔᐃⲆⵠ.ᐃⲆΔ();
     };
     this.ΔᐃⵠᐃⲆⵠΔⲆΔ = function (a) {
-      this.ⲆⲆⵠⵠⲆ(Et[ΔΔᐃ.ⲆᐃⲆⵠⲆᐃⲆ]);
+      this.ⲆⲆⵠⵠⲆ(Et[315]);
     };
     this.ΔᐃᐃΔⵠᐃᐃⵠⵠ = function () {
       Xw.ΔᐃⲆⵠ.ⵠΔⵠᐃⵠᐃᐃ();
@@ -56894,7 +56894,7 @@
       Xw.ᐃⲆᐃⲆⵠ.ΔᐃⲆΔᐃ = new Date().getTime();
       Xw.ᐃⲆᐃⲆⵠ.label = null;
       Xw.ᐃⲆᐃⲆⵠ.now = -1;
-      for (var b = [_r.ⵠⵠᐃᐃⲆ, _r.ⵠⵠⲆⵠⲆ, _r.ΔⵠᐃΔᐃ, _r.ᐃᐃⲆΔⲆ, _r.ⵠΔΔΔΔ, _r.ᐃΔⲆᐃΔ, _r.ΔⲆᐃⵠΔ, _r.ⵠⵠΔΔⵠ, _r.ⵠᐃᐃΔⵠ, _r.ⲆⲆᐃᐃⲆ, _r.ⵠΔᐃᐃⵠ, _r.ⵠΔᐃⵠᐃ, _r.ᐃᐃΔⲆⲆ, _r.ⵠᐃᐃⵠΔ, _r.ᐃᐃᐃᐃⲆ, _r.ᐃΔⵠⲆᐃ, _r.ᐃΔⲆⵠΔ, _r.ⲆⲆΔᐃᐃ, _r.ΔⲆᐃΔⵠ, _r.Ⲇᐃᐃᐃᐃ, _r.ΔᐃⲆᐃᐃ, _r.ᐃⲆΔⲆⵠ, _r.ⲆᐃᐃⲆᐃ, _r.ⲆⲆⲆⵠⵠ, _r.ΔΔⲆᐃᐃ, _r.ⲆⲆⲆᐃΔ, _r.ΔΔΔⲆΔ, _r.ⲆΔᐃΔⵠ, _r.ᐃᐃⲆᐃᐃ, _r.Δᐃᐃⵠⵠ, _r.ⵠΔΔᐃᐃ, _r.ΔᐃⵠⵠΔ, _r.ⵠΔⲆΔⲆ, _r.ⲆΔⵠΔΔ, _r.ᐃΔᐃΔⲆ, _r.ᐃᐃΔᐃⲆ, _r.ΔⲆΔΔΔ, _r.ᐃΔⵠᐃⵠ, _r.Δⵠᐃᐃᐃ, _r.ᐃΔⵠⵠᐃ, _r.ⵠⵠᐃᐃΔ, _r.ⲆΔⲆⲆⵠ, _r.ⲆⵠⵠⲆⲆ, _r.ⵠᐃⲆΔΔ, _r.ᐃⲆⵠΔⲆ, _r.ΔⲆⲆⵠⲆ, _r.ⲆⵠΔⵠΔ, _r.ᐃⵠᐃΔⵠ, _r.ⲆⵠⲆᐃΔ, _r.ᐃΔΔᐃΔ], c = Da; c < b.length; c++) {
+      for (var b = [45, 149, 57, 0, 5, 6, 30, 19, 62, 63, 9, 13, 12, 14, 15, 33, 34, 16, 17, 18, 94, 95, 96, 97, 98, 99, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 92, 93, 8, 1, 3, 4, 31, 32, 55, 53, 54], c = Da; c < b.length; c++) {
         var d = Xw.ᐃΔᐃⵠ.ᐃⲆⲆΔⲆ(b[c]);
         if (d != -1) {
           Xw.ᐃΔᐃⵠ.ⲆΔⲆⵠᐃᐃᐃ(b.length[c], d);
@@ -56918,7 +56918,7 @@
       if (b >= 0 && !Xw.ᐃΔᐃⵠ.ⲆΔΔ[a]) {
         Xw.ΔᐃⲆⵠ.ᐃⲆΔ();
       }
-      if (_r.ⲆⵠᐃᐃΔ == a) {
+      if (a == 159) {
         Xw.ᐃΔⲆⲆⵠ = [Xw.id];
       }
     };
@@ -56940,88 +56940,88 @@
     };
     this.ΔᐃΔᐃΔ = function (a, b) {
       switch (a) {
-        case _r.ᐃΔᐃⲆᐃ:
-        case _r.ⵠᐃⲆⲆⲆ:
-        case _r.ⵠⵠᐃᐃⵠ:
-        case _r.ΔΔⵠⵠⲆ:
-        case _r.ⲆⲆΔⵠⵠ:
-        case _r.ΔᐃᐃⵠΔ:
-        case _r.ⲆᐃᐃⵠΔ:
-        case _r.ⵠᐃⲆⲆᐃ:
-        case _r.ᐃΔΔΔⲆ:
-        case _r.ⲆⵠΔⲆΔ:
-        case _r.ⵠᐃⵠΔⵠ:
-        case _r.ⲆᐃΔΔⵠ:
-        case _r.ⵠⵠⵠΔⲆ:
-        case _r.ⲆᐃΔⵠᐃ:
-        case _r.ⲆᐃⵠΔⲆ:
-        case _r.ⵠΔᐃⵠⲆ:
-        case _r.ⲆᐃΔᐃΔ:
-        case _r.ΔΔᐃⵠⲆ:
-        case _r.ⵠⲆΔⲆᐃ:
-        case _r.ⲆⵠᐃΔᐃ:
-        case _r.ⵠⲆⵠᐃᐃ:
-        case _r.ⲆⵠⲆⲆΔ:
-        case _r.ᐃΔᐃⵠⵠ:
+        case 195:
+        case 110:
+        case 116:
+        case 117:
+        case 145:
+        case 127:
+        case 133:
+        case 136:
+        case 142:
+        case 143:
+        case 189:
+        case 207:
+        case 233:
+        case 205:
+        case 209:
+        case 211:
+        case 192:
+        case 137:
+        case 138:
+        case 196:
+        case 197:
+        case 200:
+        case 199:
           Xw.ΔᐃⲆⵠ.ΔᐃΔⵠ = -za;
           this.ᐃᐃᐃⲆ[bw](Fq[zq].stringify([25, a]));
           break;
-        case _r.ⵠⲆΔⵠᐃ:
-        case _r.ⵠⵠΔⵠⲆ:
-        case _r.ⵠᐃΔⲆᐃ:
-        case _r.ⲆΔᐃΔΔ:
-        case _r.ᐃⵠᐃᐃⵠ:
-        case _r.ᐃⵠΔΔΔ:
-        case _r.ⲆⵠΔᐃᐃ:
-        case _r.ⲆⲆΔⲆⵠ:
-        case _r.ᐃⲆⲆᐃΔ:
-        case _r.ⲆΔⲆⵠΔ:
-        case _r.ΔⵠⵠΔⲆ:
-        case _r.ΔᐃᐃⲆⲆ:
-        case _r.ⲆⲆⲆⲆⵠ:
-        case _r.ΔᐃⵠⲆⲆ:
-        case _r.ᐃᐃᐃᐃᐃ:
-        case _r.ⵠᐃⲆᐃⵠ:
-        case _r.ᐃΔΔⵠΔ:
-        case _r.ᐃⲆⲆⲆⲆ:
-        case _r.ⲆⲆⵠⵠᐃ:
-        case _r.ΔⲆΔΔⲆ:
-        case _r.ΔⵠⵠⲆᐃ:
-        case _r.ⵠΔᐃⲆΔ:
-        case _r.ᐃΔⵠⵠⵠ:
-        case _r.ⵠΔᐃΔΔ:
-        case _r.Δⵠᐃⵠᐃ:
-        case _r.Ⲇᐃⵠⵠⵠ:
-        case _r.ᐃⲆΔᐃⲆ:
-        case _r.ΔⵠⵠΔΔ:
-        case _r.ΔΔⲆᐃⲆ:
-        case _r.ΔⵠΔⲆΔ:
-        case _r.ⵠΔⲆⵠᐃ:
-        case _r.ᐃΔΔⵠᐃ:
-        case _r.ⲆᐃⲆΔΔ:
-        case _r.Ⲇᐃⵠᐃⵠ:
-        case _r.ⲆⵠᐃΔΔ:
-        case _r.ⲆᐃΔᐃⵠ:
-        case _r.ᐃΔⵠⵠΔ:
-        case _r.ᐃⲆⵠᐃᐃ:
-        case _r.ᐃⵠⵠⲆᐃ:
-        case _r.ⵠⲆᐃᐃⲆ:
-        case _r.ⲆᐃⲆᐃⵠ:
-        case _r.ⲆᐃⵠΔΔ:
-        case _r.ΔΔΔⵠⵠ:
-        case _r.ⵠΔⲆⲆΔ:
-        case _r.ⲆᐃΔⲆⵠ:
-        case _r.ⲆΔᐃⵠⲆ:
-        case _r.ΔⵠᐃⲆⵠ:
-        case _r.ΔⲆⵠⵠⵠ:
-        case _r.ⲆⲆⵠⵠΔ:
-        case _r.ΔⲆⵠΔΔ:
-        case _r.ⵠᐃΔⲆⲆ:
-        case _r.ⲆⵠⲆⵠⵠ:
-        case _r.ⵠΔᐃᐃᐃ:
-        case _r.Δᐃᐃᐃᐃ:
-        case _r.ⲆⵠᐃᐃΔ:
-        case _r.ⵠᐃⵠᐃⵠ:
+        case 114:
+        case 160:
+        case 115:
+        case 132:
+        case 188:
+        case 206:
+        case 204:
+        case 191:
+        case 193:
+        case 208:
+        case 210:
+        case 113:
+        case 162:
+        case 163:
+        case 164:
+        case 165:
+        case 118:
+        case 167:
+        case 151:
+        case 152:
+        case 166:
+        case 171:
+        case 172:
+        case 173:
+        case 124:
+        case 218:
+        case 212:
+        case 213:
+        case 214:
+        case 215:
+        case 216:
+        case 220:
+        case 168:
+        case 169:
+        case 170:
+        case 119:
+        case 122:
+        case 123:
+        case 217:
+        case 219:
+        case 125:
+        case 190:
+        case 141:
+        case 135:
+        case 153:
+        case 154:
+        case 155:
+        case 156:
+        case 157:
+        case 198:
+        case 201:
+        case 182:
+        case 183:
+        case 144:
+        case 159:
+        case 221:
           if (!Xw.ⲆᐃⲆⵠᐃ) {
             if (a === Xw.ΔᐃⲆⵠ.ΔᐃΔⵠ) {
               Xw.ΔᐃⲆⵠ.ΔᐃΔⵠ = -za;
@@ -57030,142 +57030,142 @@
             }
           }
           break;
-        case _r.ᐃᐃⲆΔⲆ:
-        case _r.ΔⵠᐃΔᐃ:
-        case _r.ⵠΔΔΔΔ:
-        case _r.ᐃΔⲆᐃΔ:
-        case _r.ΔⲆᐃⵠΔ:
-        case _r.ⵠⵠΔΔⵠ:
-        case _r.ⵠΔᐃᐃⵠ:
-        case _r.ⵠᐃᐃΔⵠ:
-        case _r.ⲆⲆᐃᐃⲆ:
-        case _r.ΔΔΔⲆΔ:
-        case _r.ⲆΔᐃΔⵠ:
-        case _r.ᐃᐃⲆᐃᐃ:
-        case _r.Δᐃᐃⵠⵠ:
-        case _r.ⵠΔΔᐃᐃ:
-        case _r.ΔᐃⵠⵠΔ:
-        case _r.ⵠΔⲆΔⲆ:
-        case _r.ᐃΔⵠⵠᐃ:
-        case _r.ⵠⵠᐃᐃΔ:
-        case _r.ᐃᐃΔⲆⲆ:
-        case _r.ⵠΔᐃⵠᐃ:
-        case _r.ⵠᐃᐃⵠΔ:
-        case _r.ᐃᐃᐃᐃⲆ:
-        case _r.ᐃΔⵠⲆᐃ:
+        case 0:
+        case 57:
+        case 5:
+        case 6:
+        case 30:
+        case 19:
+        case 9:
+        case 62:
+        case 63:
+        case 64:
+        case 65:
+        case 66:
+        case 67:
+        case 68:
+        case 69:
+        case 70:
+        case 92:
+        case 93:
+        case 12:
+        case 13:
+        case 14:
+        case 15:
+        case 33:
         case _r.ⲆᐃⲆⲆᐃⲆᐃⲆᐃ:
-        case _r.ⲆⲆΔᐃᐃ:
-        case _r.ΔⲆᐃΔⵠ:
-        case _r.ᐃΔⲆⵠΔ:
-        case _r.Ⲇᐃᐃᐃᐃ:
-        case _r.ΔᐃⲆᐃᐃ:
-        case _r.ᐃⲆΔⲆⵠ:
-        case _r.ⲆᐃᐃⲆᐃ:
-        case _r.ⲆⲆⲆⵠⵠ:
-        case _r.ΔΔⲆᐃᐃ:
-        case _r.ⲆⲆⲆᐃΔ:
+        case 16:
+        case 17:
+        case 34:
+        case 18:
+        case 94:
+        case 95:
+        case 96:
+        case 97:
+        case 98:
+        case 99:
           if (!Xw.ⲆᐃⲆⵠᐃ) {
             Xw.ΔᐃⲆⵠ.ΔᐃΔⵠ = -1;
             if ((c = cf.Δⵠⵠᐃᐃ[Xw.ᐃⲆᐃᐃ]) && a === c.right) {
-              this.ᐃᐃᐃⲆ[bw](Lq[Nq].stringify([25, _r.ΔᐃΔΔΔ]));
+              this.ᐃᐃᐃⲆ[bw](Lq[Nq].stringify([25, 7]));
             } else {
               Xw.ⲆᐃᐃᐃⲆ.wait = true;
               this.ᐃᐃᐃⲆ[bw](Uq[Qq].stringify([25, a]));
             }
           }
           break;
-        case _r.ⲆⵠⵠⲆⲆ:
-        case _r.ⲆΔⲆⲆⵠ:
-        case _r.ⵠᐃⲆΔΔ:
-        case _r.ᐃⲆⵠΔⲆ:
-        case _r.ⲆᐃΔⲆΔ:
-        case _r.ⲆⲆⵠⲆⲆ:
-        case _r.ⵠΔΔΔⵠ:
-        case _r.ᐃⵠΔΔⲆ:
-        case _r.ᐃⵠⵠⵠᐃ:
-        case _r.ᐃⵠⲆⵠΔ:
-        case _r.ΔⲆⲆⵠⲆ:
-        case _r.ⲆⵠΔⵠΔ:
-        case _r.ⵠⵠᐃᐃⲆ:
-        case _r.ᐃΔΔΔΔ:
-        case _r.ⲆΔΔⵠⵠ:
-        case _r.ⵠᐃⵠᐃΔ:
-        case _r.ⵠᐃⲆⲆⵠ:
-        case _r.ᐃⵠᐃΔⵠ:
-        case _r.Ⲇᐃⵠⵠᐃ:
-        case _r.ⲆⵠⲆᐃΔ:
-        case _r.ᐃΔΔᐃΔ:
-        case _r.ᐃⵠⲆⵠⲆ:
-        case _r.ᐃᐃΔⵠΔ:
-        case _r.ⲆΔⵠΔΔ:
-        case _r.ᐃΔᐃΔⲆ:
-        case _r.ᐃᐃΔᐃⲆ:
-        case _r.ΔⲆΔΔΔ:
-        case _r.ᐃΔⵠᐃⵠ:
-        case _r.Δⵠᐃᐃᐃ:
+        case 1:
+        case 8:
+        case 3:
+        case 4:
+        case 35:
+        case 36:
+        case 37:
+        case 28:
+        case 38:
+        case 39:
+        case 31:
+        case 32:
+        case 45:
+        case 46:
+        case 50:
+        case 51:
+        case 52:
+        case 55:
+        case 56:
+        case 53:
+        case 54:
+        case 89:
+        case 49:
+        case 71:
+        case 72:
+        case 73:
+        case 74:
+        case 75:
+        case 76:
           if (!Xw.ⲆᐃⲆⵠᐃ) {
             Xw.ΔᐃⲆⵠ.ΔᐃΔⵠ = -1;
             if ((c = cf.Δⵠⵠᐃᐃ[Xw.ᐃⲆᐃᐃ]) && a === c.right) {
-              this.ᐃᐃᐃⲆ[bw](Xq[Tq].stringify([25, _r.ΔᐃΔΔΔ]));
+              this.ᐃᐃᐃⲆ[bw](Xq[Tq].stringify([25, 7]));
             } else {
               this.ᐃᐃᐃⲆ[bw](_q[Zq].stringify([25, a]));
             }
           }
           break;
-        case _r.ⵠⵠⲆΔⲆ:
-        case _r.ⵠᐃᐃⲆᐃ:
-        case _r.ⵠⲆᐃⲆΔ:
-        case _r.ΔΔⵠⲆⲆ:
-        case _r.ᐃⵠⵠᐃⵠ:
-        case _r.ⲆⵠΔᐃⵠ:
-        case _r.ⲆⲆΔⵠⲆ:
-        case _r.ⵠᐃⲆⲆΔ:
-        case _r.ΔⵠΔΔⵠ:
-        case _r.ⲆⵠΔΔΔ:
+        case 223:
+        case 224:
+        case 225:
+        case 239:
+        case 226:
+        case 227:
+        case 228:
+        case 229:
+        case 230:
+        case 91:
           if (!Xw.ⲆᐃⲆⵠᐃ) {
             Xw.ΔᐃⲆⵠ.ΔᐃΔⵠ = -1;
             var c = cf.Δⵠⵠᐃᐃ[Xw.ᐃⲆᐃᐃ];
             this.ᐃᐃᐃⲆ[bw](_q[Zq].stringify([25, a]));
           }
           break;
-        case _r.ᐃⲆΔⵠⵠ:
-        case _r.ⵠᐃⵠⵠΔ:
-        case _r.ⲆⲆᐃᐃΔ:
-        case _r.ᐃᐃⲆⵠⵠ:
-        case _r.Δᐃᐃⵠᐃ:
-        case _r.ΔᐃΔⲆⲆ:
-        case _r.ᐃⲆⲆⵠᐃ:
-        case _r.ⵠⲆⲆⵠⵠ:
-        case _r.ⲆᐃⵠΔᐃ:
-        case _r.Δⵠⵠⵠᐃ:
-        case _r.ᐃΔᐃⲆⲆ:
-        case _r.ⲆΔᐃΔᐃ:
-        case _r.ᐃⵠΔᐃΔ:
-        case _r.ⵠᐃΔΔⵠ:
-        case _r.ᐃⵠᐃⵠⵠ:
-        case _r.ⲆⲆΔΔⵠ:
-        case _r.ᐃⵠⵠⲆΔ:
+        case 77:
+        case 78:
+        case 79:
+        case 58:
+        case 25:
+        case 26:
+        case 27:
+        case 43:
+        case 44:
+        case 20:
+        case 21:
+        case 22:
+        case 59:
+        case 60:
+        case 90:
+        case 61:
+        case 47:
           if ((c = cf.Δⵠⵠᐃᐃ[Xw.ᐃⲆᐃᐃ]) && c.ⵠΔⵠⲆᐃ !== a) {
             Xw.ⲆᐃᐃⲆΔ.wait = y;
           }
           this.ᐃᐃᐃⲆ[bw](Fq[Nq].stringify([25, a]));
           break;
-        case _r.ᐃⲆᐃⲆᐃ:
-        case _r.ⲆΔⵠⵠᐃ:
-        case _r.ΔᐃⲆⵠⵠ:
-        case _r.ΔᐃⵠⲆΔ:
-        case _r.ᐃⵠⵠⵠΔ:
-        case _r.ᐃⲆⲆΔΔ:
-        case _r.ⵠⲆⵠΔᐃ:
-        case _r.ΔᐃᐃᐃΔ:
-        case _r.ⵠᐃΔΔᐃ:
-        case _r.ⵠⵠΔᐃᐃ:
-        case _r.ᐃᐃⵠⲆⲆ:
-        case _r.ΔⲆΔⲆⲆ:
-        case _r.ΔΔᐃⲆΔ:
-        case _r.ⲆᐃᐃΔᐃ:
-        case _r.ⵠᐃᐃΔᐃ:
-        case _r.ᐃⲆⵠⲆⲆ:
+        case 10:
+        case 83:
+        case 84:
+        case 86:
+        case 11:
+        case 40:
+        case 88:
+        case 82:
+        case 80:
+        case 81:
+        case 41:
+        case 42:
+        case 85:
+        case 23:
+        case 24:
+        case 48:
           this.ᐃᐃᐃⲆ[bw](kr[fr].stringify([25, a]));
       }
     };
@@ -57280,13 +57280,13 @@
       }
     };
     this.ⵠΔⲆⵠⲆᐃᐃᐃⵠ = function (a) {
-      this.ⲆⲆⵠⵠⲆ(Et[ΔΔᐃ.ΔⵠⵠⲆᐃᐃⵠ]);
+      this.ⲆⲆⵠⵠⲆ(Et[316]);
       for (var b = 1; b < a.length; b++) {
         Xw.ᐃΔⲆⲆⵠ.push(a[b]);
       }
     };
     this.ΔⵠⵠⵠΔᐃᐃⵠⵠ = function (a) {
-      this.ⲆⲆⵠⵠⲆ(cf.ⵠΔΔⲆ[a].ⲆⲆΔⵠᐃ + Et[ΔΔᐃ.ⲆᐃⵠΔᐃᐃⲆ]);
+      this.ⲆⲆⵠⵠⲆ(cf.ⵠΔΔⲆ[a].ⲆⲆΔⵠᐃ + Et[318]);
       Xw.ᐃΔⲆⲆⵠ.push(a);
       var b = document.getElementById("team_box");
       if (Zw.ᐃⵠᐃᐃⲆ != -1 && b.style.display == "inline-block") {
@@ -57294,19 +57294,19 @@
       }
     };
     this.ΔΔᐃΔΔⵠΔⵠᐃ = function () {
-      this.ⲆⲆⵠⵠⲆ(Et[ΔΔᐃ.ⲆΔΔΔⵠⲆᐃ]);
+      this.ⲆⲆⵠⵠⲆ(Et[319]);
       Xw.ΔⵠⲆᐃᐃ.wait = Eh;
       Xw.ᐃΔⲆⲆⵠ = [];
       document.getElementById("team_box").style.display = "none";
     };
     this.ᐃⲆⲆᐃᐃⵠⲆⵠⵠ = function (a) {
       if (a == Xw.id) {
-        this.ⲆⲆⵠⵠⲆ(Et[ΔΔᐃ.ⵠⲆⲆΔᐃᐃΔ]);
+        this.ⲆⲆⵠⵠⲆ(Et[320]);
         Xw.ΔⵠⲆᐃᐃ.wait = _g;
         Xw.ᐃΔⲆⲆⵠ = [];
         document.getElementById("team_box").style.display = "none";
       } else {
-        this.ⲆⲆⵠⵠⲆ(cf.ⵠΔΔⲆ[a].ⲆⲆΔⵠᐃ + Et[ΔΔᐃ.ᐃⵠⲆᐃᐃᐃᐃ]);
+        this.ⲆⲆⵠⵠⲆ(cf.ⵠΔΔⲆ[a].ⲆⲆΔⵠᐃ + Et[321]);
         for (var b = 0; b < Xw.ᐃΔⲆⲆⵠ.length; b++) {
           if (Xw.ᐃΔⲆⲆⵠ[b] == a) {
             Xw.ᐃΔⲆⲆⵠ.splice(b, 1);
@@ -57321,7 +57321,7 @@
     };
     this.ⵠⲆᐃΔᐃⵠᐃΔᐃ = function (a) {
       Xw.ⲆᐃΔⵠⲆ = Mh;
-      this.ⲆⲆⵠⵠⲆ(Et[ΔΔᐃ.ΔᐃⵠΔⵠ]);
+      this.ⲆⲆⵠⵠⲆ(Et[322]);
       if (this.ᐃⲆᐃᐃⵠ == this.ᐃᐃᐃⲆ.ᐃⲆᐃᐃⵠ) {
         this.ᐃⲆᐃᐃⵠ++;
         Zw.ᐃⵠⲆΔⲆ(bf.ⲆᐃⵠⲆⵠ);
@@ -57336,7 +57336,7 @@
       Xw.ⵠⲆⵠⲆⲆⲆⲆ.ⲆΔΔᐃⲆ = ᐃⵠΔⲆ.ᐃΔⵠᐃᐃᐃᐃ(cf.ⵠΔΔⲆ[Xw.id].ⲆΔΔᐃⲆ);
       Xw.ⵠⲆⵠⲆⲆⲆⲆ.ⲆᐃⲆΔᐃⲆⲆ = ᐃⵠΔⲆ.ᐃΔⵠᐃᐃᐃᐃ(d[wt]);
       Xw.ⵠⲆⵠⲆⲆⲆⲆ.ⵠᐃⵠΔᐃ = c[pu];
-      this.ⲆⲆⵠⵠⲆ(Et[ΔΔᐃ.ᐃⵠᐃᐃᐃⲆΔ]);
+      this.ⲆⲆⵠⵠⲆ(Et[317]);
       if (this.ᐃᐃᐃⲆ.ᐃⲆᐃᐃⵠ == this.ᐃⲆᐃᐃⵠ) {
         this.ᐃⲆᐃᐃⵠ++;
         Zw.ᐃⵠⲆΔⲆ(Yw.ⲆᐃⵠⲆⵠ);
@@ -57588,15 +57588,15 @@
         Xw.ⵠΔⲆⵠΔ.ΔᐃⲆΔᐃ = ig;
         Zw.Δⵠᐃᐃ.restore(b[Zh]);
         var h = b[Sq];
-        if (h[_r.ⵠⲆᐃᐃ]) {
+        if (h[29]) {
           Xw.ᐃΔᐃⵠ.ΔΔᐃⵠⲆⵠⵠ(au, os);
         }
         for (e = Lr; e < h.length; e++) {
           if (h[e]) {
-            if (_r.ⵠⲆᐃᐃ == e) {
+            if (e == 29) {
               continue;
             }
-            if (e == _r.ΔᐃΔΔΔ) {
+            if (e == 7) {
               continue;
             }
             this.ΔΔᐃᐃⵠⵠΔ([0, e, h[e]]);
@@ -57605,12 +57605,12 @@
         Xw.ⵠΔⲆⵠΔ.open = false;
       } else {
         if (cf.mode === kw.ⲆⲆⲆⲆᐃ) {
-          this.ΔΔᐃᐃⵠⵠΔ([wg, _r.ⵠⲆᐃΔⵠ, 1]);
+          this.ΔΔᐃᐃⵠⵠΔ([wg, 238, 1]);
         } else if (kw.ᐃᐃⲆΔⵠ === cf.mode) {
           if (Xw.ΔΔⵠⵠⲆᐃᐃ) {
-            this.ΔΔᐃᐃⵠⵠΔ([wg, _r.ⲆᐃⵠΔΔ, 4]);
+            this.ΔΔᐃᐃⵠⵠΔ([wg, 190, 4]);
           } else {
-            this.ΔΔᐃᐃⵠⵠΔ([0, _r.ⲆⲆΔⲆⵠ, 3]);
+            this.ΔΔᐃᐃⵠⵠΔ([0, 191, 3]);
           }
         }
         if (kw.ⵠᐃᐃⲆⲆ === cf.mode || cf.mode === kw.ᐃᐃⲆΔⵠ || cf.mode === kw.ⵠΔᐃᐃⲆ || cf.mode === kw.ⲆⲆⲆⲆᐃ) {
