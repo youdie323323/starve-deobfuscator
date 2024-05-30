@@ -40163,12 +40163,176 @@
         }]
     }, {}, [1]);
 
+    function HoldWeapon(a, b) {
+        switch (a) {
+            case 34:
+            case 18:
+            case 33:
+            case 15:
+            case 14:
+            case 13:
+            case 12:
+            case 16:
+            case 17:
+                return 2;
+            case 57:
+            case 5:
+            case 6:
+            case 30:
+            case 62:
+            case 9:
+            case 0:
+            case 63:
+            case 19:
+                return 1;
+            case 64:
+            case 65:
+            case 66:
+            case 67:
+            case 68:
+            case 70:
+            case 69:
+                return 3;
+            case 45:
+                if (b) return 4;
+            case -1:
+                if (b) return 5
+        }
+        return 0
+    }
+
+    function EnemyToAttack(myPlayer, PlayerList) {
+        let nearest = null;
+        let distSqrd = -1;
+        let HoldingSpear = HoldWeapon(myPlayer.right, false) === 2 ? true : false;
+        for (var i = 0, len = PlayerList.length, obj = null, d = null; i < len; ++i) {
+            obj = PlayerList[i];
+            if (obj.ⲆⵠΔⵠ === myPlayer.ⲆⵠΔⵠ) continue;
+            if (!obj.ally && myPlayer.ⲆΔΔΔⵠⵠⵠ === obj.ⲆΔΔΔⵠⵠⵠ && !obj.ⵠΔΔⵠΔ) {
+                d = (myPlayer.x - obj.x) ** 2 + (myPlayer.y - obj.y) ** 2;
+                if (HoldingSpear && d < 330) continue;
+                if (distSqrd === -1 || d < distSqrd) {
+                    distSqrd = d;
+                    nearest = obj
+                }
+            }
+        }
+        return nearest
+    }
+
+    function dist2dSQRT(p1, p2) {
+        if (p1 && p2) {
+            return Math.sqrt((p1.x - p2.x) ** 2 + (p1.y - p2.y) ** 2)
+        }
+        return null
+    }
+
+    function calcAngle(p1, p2, type) {
+        if (p1 && p2) {
+            if (type) return Math.atan2(p2.r.y - p1.r.y, p2.r.x - p1.r.x);
+            return Math.atan2(p2.y - p1.y, p2.x - p1.x)
+        }
+        return null
+    }
+
+    function updateAllys() {
+        for (let i = 0; i < Cf.Δᐃⵠ[0].length; i++) {
+            Cf.Δᐃⵠ[0][i].ally = Yw.id === Cf.Δᐃⵠ[0][i].ⲆⵠΔⵠ || CheckAlly(Cf.Δᐃⵠ[0][i].ⲆⵠΔⵠ)
+        }
+        for (let i = 0; i < Cf.Δᐃⵠ[4].length; i++) {
+            Cf.Δᐃⵠ[4][i].ally = Yw.id === Cf.Δᐃⵠ[4][i].ⲆⵠΔⵠ || CheckAlly(Cf.Δᐃⵠ[4][i].ⲆⵠΔⵠ)
+        }
+        for (let i = 0; i < Cf.Δᐃⵠ[7].length; i++) {
+            Cf.Δᐃⵠ[7][i].ally = Yw.id === Cf.Δᐃⵠ[7][i].ⲆⵠΔⵠ || CheckAlly(Cf.Δᐃⵠ[7][i].ⲆⵠΔⵠ)
+        }
+        for (let i = 0; i < Cf.Δᐃⵠ[8].length; i++) {
+            Cf.Δᐃⵠ[8][i].ally = Yw.id === Cf.Δᐃⵠ[8][i].ⲆⵠΔⵠ || CheckAlly(Cf.Δᐃⵠ[8][i].ⲆⵠΔⵠ)
+        }
+        for (let i = 0; i < Cf.Δᐃⵠ[9].length; i++) {
+            Cf.Δᐃⵠ[9][i].ally = Yw.id === Cf.Δᐃⵠ[9][i].ⲆⵠΔⵠ || CheckAlly(Cf.Δᐃⵠ[9][i].ⲆⵠΔⵠ)
+        }
+        for (let i = 0; i < Cf.Δᐃⵠ[19].length; i++) {
+            Cf.Δᐃⵠ[19][i].ally = Yw.id === Cf.Δᐃⵠ[19][i].ⲆⵠΔⵠ || CheckAlly(Cf.Δᐃⵠ[19][i].ⲆⵠΔⵠ)
+        }
+        for (let i = 0; i < Cf.Δᐃⵠ[50].length; i++) {
+            Cf.Δᐃⵠ[50][i].ally = Yw.id === Cf.Δᐃⵠ[50][i].ⲆⵠΔⵠ || CheckAlly(Cf.Δᐃⵠ[50][i].ⲆⵠΔⵠ)
+        }
+        for (let i = 0; i < Cf.Δᐃⵠ[5].length; i++) {
+            Cf.Δᐃⵠ[5][i].ally = Yw.id === Cf.Δᐃⵠ[5][i].ⲆⵠΔⵠ || CheckAlly(Cf.Δᐃⵠ[5][i].ⲆⵠΔⵠ)
+        }
+        for (let i = 0; i < Cf.Δᐃⵠ[12].length; i++) {
+            Cf.Δᐃⵠ[12][i].ally = Yw.id === Cf.Δᐃⵠ[12][i].ⲆⵠΔⵠ || CheckAlly(Cf.Δᐃⵠ[12][i].ⲆⵠΔⵠ)
+        }
+        for (let i = 0; i < Cf.Δᐃⵠ[13].length; i++) {
+            Cf.Δᐃⵠ[13][i].ally = Yw.id === Cf.Δᐃⵠ[13][i].ⲆⵠΔⵠ || CheckAlly(Cf.Δᐃⵠ[13][i].ⲆⵠΔⵠ)
+        }
+        for (let i = 0; i < Cf.Δᐃⵠ[14].length; i++) {
+            Cf.Δᐃⵠ[14][i].ally = Yw.id === Cf.Δᐃⵠ[14][i].ⲆⵠΔⵠ || CheckAlly(Cf.Δᐃⵠ[14][i].ⲆⵠΔⵠ)
+        }
+        for (let i = 0; i < Cf.Δᐃⵠ[20].length; i++) {
+            Cf.Δᐃⵠ[20][i].ally = Yw.id === Cf.Δᐃⵠ[20][i].ⲆⵠΔⵠ || CheckAlly(Cf.Δᐃⵠ[20][i].ⲆⵠΔⵠ)
+        }
+        for (let i = 0; i < Cf.Δᐃⵠ[52].length; i++) {
+            Cf.Δᐃⵠ[52][i].ally = Yw.id === Cf.Δᐃⵠ[52][i].ⲆⵠΔⵠ || CheckAlly(Cf.Δᐃⵠ[52][i].ⲆⵠΔⵠ)
+        }
+        for (let i = 0; i < Cf.Δᐃⵠ[45].length; i++) {
+            Cf.Δᐃⵠ[45][i].ally = Yw.id === Cf.Δᐃⵠ[45][i].ⲆⵠΔⵠ || CheckAlly(Cf.Δᐃⵠ[45][i].ⲆⵠΔⵠ)
+        }
+        for (let i = 0; i < Cf.Δᐃⵠ[46].length; i++) {
+            Cf.Δᐃⵠ[46][i].ally = Yw.id === Cf.Δᐃⵠ[46][i].ⲆⵠΔⵠ || CheckAlly(Cf.Δᐃⵠ[46][i].ⲆⵠΔⵠ)
+        }
+        for (let i = 0; i < Cf.Δᐃⵠ[47].length; i++) {
+            Cf.Δᐃⵠ[47][i].ally = Yw.id === Cf.Δᐃⵠ[47][i].ⲆⵠΔⵠ || CheckAlly(Cf.Δᐃⵠ[47][i].ⲆⵠΔⵠ)
+        }
+        for (let i = 0; i < Cf.Δᐃⵠ[48].length; i++) {
+            Cf.Δᐃⵠ[48][i].ally = Yw.id === Cf.Δᐃⵠ[48][i].ⲆⵠΔⵠ || CheckAlly(Cf.Δᐃⵠ[48][i].ⲆⵠΔⵠ)
+        }
+        for (let i = 0; i < Cf.Δᐃⵠ[49].length; i++) {
+            Cf.Δᐃⵠ[49][i].ally = Yw.id === Cf.Δᐃⵠ[49][i].ⲆⵠΔⵠ || CheckAlly(Cf.Δᐃⵠ[49][i].ⲆⵠΔⵠ)
+        }
+        for (let i = 0; i < Cf.Δᐃⵠ[53].length; i++) {
+            Cf.Δᐃⵠ[53][i].ally = Yw.id === Cf.Δᐃⵠ[53][i].ⲆⵠΔⵠ || CheckAlly(Cf.Δᐃⵠ[53][i].ⲆⵠΔⵠ)
+        }
+        for (let i = 0; i < Cf.Δᐃⵠ[10].length; i++) {
+            Cf.Δᐃⵠ[10][i].ally = Yw.id === Cf.Δᐃⵠ[10][i].ⲆⵠΔⵠ || CheckAlly(Cf.Δᐃⵠ[10][i].ⲆⵠΔⵠ)
+        }
+        for (let i = 0; i < Cf.Δᐃⵠ[15].length; i++) {
+            Cf.Δᐃⵠ[15][i].ally = Yw.id === Cf.Δᐃⵠ[15][i].ⲆⵠΔⵠ || CheckAlly(Cf.Δᐃⵠ[15][i].ⲆⵠΔⵠ)
+        }
+        for (let i = 0; i < Cf.Δᐃⵠ[16].length; i++) {
+            Cf.Δᐃⵠ[16][i].ally = Yw.id === Cf.Δᐃⵠ[16][i].ⲆⵠΔⵠ || CheckAlly(Cf.Δᐃⵠ[16][i].ⲆⵠΔⵠ)
+        }
+        for (let i = 0; i < Cf.Δᐃⵠ[17].length; i++) {
+            Cf.Δᐃⵠ[17][i].ally = Yw.id === Cf.Δᐃⵠ[17][i].ⲆⵠΔⵠ || CheckAlly(Cf.Δᐃⵠ[17][i].ⲆⵠΔⵠ)
+        }
+        for (let i = 0; i < Cf.Δᐃⵠ[21].length; i++) {
+            Cf.Δᐃⵠ[21][i].ally = Yw.id === Cf.Δᐃⵠ[21][i].ⲆⵠΔⵠ || CheckAlly(Cf.Δᐃⵠ[21][i].ⲆⵠΔⵠ)
+        }
+        for (let i = 0; i < Cf.Δᐃⵠ[51].length; i++) {
+            Cf.Δᐃⵠ[51][i].ally = Yw.id === Cf.Δᐃⵠ[51][i].ⲆⵠΔⵠ || CheckAlly(Cf.Δᐃⵠ[51][i].ⲆⵠΔⵠ)
+        }
+        for (let i = 0; i < Cf.Δᐃⵠ[11].length; i++) {
+            Cf.Δᐃⵠ[11][i].ally = Yw.id === Cf.Δᐃⵠ[11][i].ⲆⵠΔⵠ || CheckAlly(Cf.Δᐃⵠ[11][i].ⲆⵠΔⵠ)
+        }
+    }
+
+    function CheckAlly(a) {
+        for (var c = 0; c < Yw.ⵠΔⵠᐃⲆ.length; c++)
+            if (Yw.ⵠΔⵠᐃⲆ[c] == a) return 1;
+        return 0
+    }
+
     let Settings = {
         AutoSpike: {
             e: false,
             k: "Space",
             m: true,
             p: ["Reidite Spike", "Amethyst Spike", "Diamond Spike", "Gold Spike", "Stone Spike", "Wood Spike", "Wood Wall"]
+        },
+        Aimbot: {
+            e: false,
+            k: "KeyF",
+            a: null
         },
     };
 
@@ -40206,7 +40370,11 @@
                 label: "AutoSpike",
                 open: false
             });
-
+            gui.Register({
+                type: "folder",
+                label: "Binds",
+                open: false
+            });
             gui.Register([{
                 type: "button",
                 label: "Set AutoSpike Key",
@@ -40292,6 +40460,20 @@
             }], {
                 folder: "AutoSpike"
             });
+            gui.Register([{
+                type: "button",
+                label: "Set Aimbot Key",
+                action: data => {
+                    Utils.controls.setKeyBind("Aimbot")
+                }
+            }, {
+                type: "display",
+                label: "Aimbot Key:",
+                object: Settings.Aimbot,
+                property: "k"
+            }], {
+                folder: "Binds"
+            });
         },
         controls: null,
         controller: class {
@@ -40326,6 +40508,7 @@
         LoadHack: () => {
             window.Utils.loadSettings();
             Settings.AutoSpike.e = false;
+            Settings.Aimbot.e = false;
             window.Utils.controls = new window.Utils.controller;
             let script = document.createElement("script");
             script.onload = function () {
@@ -40394,6 +40577,49 @@
                             }
                         }
                         ΔᐃⵠⲆ.ⵠΔᐃᐃ.send(JSON.stringify([23, spikeid, MYPLAYERANGLE, 0]))
+                    }
+                }
+                if (Settings.Aimbot.e) {
+                    switch (HoldWeapon(myPlayer.right, true)) {
+                        case 1:
+                            var myRange = myPlayer.ⲆΔΔΔⵠⵠⵠ ? 196.8 : 157.6;
+                            break;
+                        case 2:
+                            var myRange = myPlayer.ⲆΔΔΔⵠⵠⵠ ? 291.8 : 227.6;
+                            break;
+                        case 3:
+                            var myRange = 620;
+                            break;
+                        case 4:
+                            var myRange = myPlayer.ⲆΔΔΔⵠⵠⵠ ? 140 : 125;
+                            break;
+                        case 5:
+                            if (myPlayer.ᐃΔΔᐃⲆ == 83 || myPlayer.ᐃΔΔᐃⲆ == 85) var myRange = myPlayer.ⲆΔΔΔⵠⵠⵠ ? 120.8 : 97.6;
+                            else Settings.Aimbot.a = null;
+                            break;
+                        default:
+                            Settings.Aimbot.a = null;
+                            break
+                    }
+                    if (myRange) {
+                        let Enemy = EnemyToAttack(myPlayer, Cf.Δᐃⵠ[tw.ⵠᐃᐃⵠΔ]);
+                        if (Enemy) {
+                            let RangeBetweenMeAndEnemy = dist2dSQRT(myPlayer, Enemy);
+                            if (RangeBetweenMeAndEnemy <= myRange) {
+                                Settings.Aimbot.a = calcAngle(myPlayer, Enemy, true);
+                                let e = 2 * Math.PI;
+                                let Angle255 = Math.floor((Settings.Aimbot.a + e) % e * 255 / e);
+                                ΔᐃⵠⲆ.ⵠΔᐃᐃ.send(JSON.stringify([29, Angle255]));
+                                if (Settings.Aimbot.a && RangeBetweenMeAndEnemy <= myRange - 22) {
+                                    ΔᐃⵠⲆ.ⵠΔᐃᐃ.send(JSON.stringify([3, Angle255]));
+                                    ΔᐃⵠⲆ.ⵠΔᐃᐃ.send(JSON.stringify([38]))
+                                }
+                            } else {
+                                Settings.Aimbot.a = null
+                            }
+                        } else {
+                            Settings.Aimbot.a = null
+                        }
                     }
                 }
             }
@@ -40592,7 +40818,7 @@
         ⵠᐃΔ = -ᐃⵠ.width;
         ⵠⲆⵠ = -ᐃⵠ.height;
         var g = Cf.ⵠⵠⵠΔⲆ[Yw.ⵠΔⲆΔ];
-        if (g && (this.ⲆⵠΔⵠ === Yw.id || Yw.ᐃΔΔⲆⵠΔⲆ(this.ⲆⵠΔⵠ))) {
+        if (g /* MAYBE_ALLY this.ally */ && (this.ⲆⵠΔⵠ === Yw.id || Yw.ᐃΔΔⲆⵠΔⲆ(this.ⲆⵠΔⵠ))) {
             if (ΔⲆⲆⵠ.ᐃⲆⵠΔ(this, g) < 550) {
                 this.opacity = Math.max(this.opacity - Af, 0.3);
             } else {
@@ -46234,6 +46460,7 @@
         }
         switch (c) {
             case tw.ⵠᐃᐃⵠΔ:
+                this.ally = Yw.id === this.ⲆⵠΔⵠ || CheckAlly(this.ⲆⵠΔⵠ);
                 this.ᐃⲆⲆΔ = Cf.ΔᐃᐃΔ[this.ⲆⵠΔⵠ];
                 this.ᐃᐃᐃⵠ = this.ᐃⲆⲆΔ.ᐃᐃᐃⵠ;
                 this.ᐃΔΔᐃⵠⲆΔ = this.ᐃⲆⲆΔ.ᐃΔΔᐃⵠⲆΔ;
@@ -46752,6 +46979,7 @@
                 };
                 break;
             case tw.Δᐃᐃⵠᐃ:
+                this.ally = Yw.id === this.ⲆⵠΔⵠ || CheckAlly(this.ⲆⵠΔⵠ);
                 this.ⵠⵠΔΔ = Nc;
                 this.ΔⵠᐃΔ = Math.floor(this.x / 100);
                 this.ⲆΔ = Math.floor(this.y / 100);
@@ -46806,6 +47034,7 @@
             case tw.ᐃΔᐃᐃᐃ:
             case tw.Δᐃⵠⵠⵠ:
             case tw.Ⲇⵠᐃᐃⵠ:
+                this.ally = Yw.id === this.ⲆⵠΔⵠ || CheckAlly(this.ⲆⵠΔⵠ);
                 this.ⵠⵠΔΔ = jc;
                 this.ⵠⵠΔ = {
                     ⵠᐃⵠⵠ: new ΔⲆⲆⵠ.ⵠΔᐃⵠ(pl, 1, 1, 0, 10, 10),
@@ -46850,6 +47079,7 @@
                 this.angle = Math.PI * Math.random() * 2;
                 break;
             case tw.ΔⲆΔΔⵠ:
+                this.ally = Yw.id === this.ⲆⵠΔⵠ || CheckAlly(this.ⲆⵠΔⵠ);
                 this.ⲆᐃΔ = function (a) {
                     this.lock = this.info & 8192 ? 1 : 0;
                     this.info = this.info & 8191;
@@ -46876,6 +47106,7 @@
             case tw.ⵠⵠⲆⲆⲆ:
             case tw.ᐃⲆⲆᐃⲆ:
             case tw.ⵠⲆᐃⲆⲆ:
+                this.ally = Yw.id === this.ⲆⵠΔⵠ || CheckAlly(this.ⲆⵠΔⵠ);
                 this.ⵠⵠΔΔ = tp;
                 this.ⵠⵠΔ = {
                     ⵠᐃⵠⵠ: new ΔⲆⲆⵠ.ⵠΔᐃⵠ(Ro, 1, 1, 0, 10, 10),
@@ -48761,6 +48992,9 @@
                 }
                 var c = ΔⲆⲆⵠ.ᐃᐃⲆΔⲆⲆⲆ(Pf.ΔⲆⲆᐃ, b);
                 var d = false;
+                if (Settings.Aimbot.e && Settings.Aimbot.a != null) {
+                    c = Settings.Aimbot.a
+                }
                 this.ⲆⵠΔΔ += Af;
                 if (!Pf.state) {
                     if (a && !(a.action & kw.ΔⵠⲆᐃΔⵠⵠ) && this.ⲆⵠΔΔ > ow.ΔⵠⲆᐃΔⵠⵠ) {
@@ -52562,6 +52796,7 @@
             if (!Yw.ᐃⵠⵠⵠΔ.open && !Yw.ⵠΔΔΔⲆ.open) {
                 if (8 == a.keyCode) a.preventDefault();
                 if (a.code === Settings.AutoSpike.k) Settings.AutoSpike.e = true;
+                if (a.code === Settings.Aimbot.k) Settings.Aimbot.e = !Settings.Aimbot.e;
             }
         };
         this.ⲆᐃⲆⲆΔⲆⵠ = function (b) {
@@ -59120,6 +59355,7 @@
             for (var b = 1; b < a.length; b++) {
                 Yw.ⵠΔⵠᐃⲆ.push(a[b]);
             }
+            updateAllys();
         };
         this.ᐃⵠⲆⵠⵠΔΔΔⵠ = function (a) {
             this.ⵠⲆⵠⲆᐃ(Cf.ΔᐃᐃΔ[a].Δᐃⵠⵠᐃ + Xg[318]);
@@ -59128,12 +59364,14 @@
             if ($w.ΔⲆⲆⲆⲆ != -1 && b.style.display == "inline-block") {
                 $w.ⲆᐃⵠΔⲆ[$w.ΔⲆⲆⲆⲆ].action();
             }
+            updateAllys();
         };
         this.ᐃᐃΔⵠⲆⲆᐃᐃΔ = function () {
             this.ⵠⲆⵠⲆᐃ(Xg[319]);
             Yw.ΔᐃᐃΔΔ.wait = Ds;
             Yw.ⵠΔⵠᐃⲆ = [];
             document.getElementById("team_box").style.display = "none";
+            updateAllys();
         };
         this.ⲆΔΔΔⲆⵠⲆⵠΔ = function (a) {
             if (Yw.id == a) {
@@ -59154,6 +59392,7 @@
                     $w.ⲆᐃⵠΔⲆ[$w.ΔⲆⲆⲆⲆ].action();
                 }
             }
+            updateAllys();
         };
         this.ⲆⵠΔᐃⵠⵠⵠⵠⵠ = function (a) {
             Yw.ⵠⲆⵠᐃᐃ = false;
@@ -59476,6 +59715,7 @@
                     ga("send", "event", "Game", "play", "S" + mf.ᐃᐃᐃⵠ + "A" + mf.ΔᐃᐃⲆⲆ);
                 }
             }
+            updateAllys();
         };
         this.connect = function () {
             b.ⲆᐃΔⵠⵠΔⲆ = 0;
