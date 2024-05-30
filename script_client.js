@@ -52518,9 +52518,7 @@
         };
         this.ᐃᐃΔᐃᐃᐃΔ = function (a) {
             if (!Yw.ᐃⵠⵠⵠΔ.open && !Yw.ⵠΔΔΔⲆ.open) {
-                if (a.code === Settings.AutoSteal.k) Settings.AutoSteal.e = false;
                 if (a.code === Settings.AutoSpike.k) Settings.AutoSpike.e = false;
-                if (a.code === Settings.SwordInChest.k) Settings.SwordInChest.e = false
             }
             if (Yw.ᐃⵠⵠⵠΔ.open && a.keyCode === 27) {
                 Yw.ᐃⵠⵠⵠΔ.ⲆᐃᐃΔᐃ();
@@ -59183,6 +59181,7 @@
                     bj.Widget.adsRefresh();
                 } catch (a) { }
             }
+            Settings.AutoSpike.e = false;
         };
         this.ping = function () {
             this.ⵠΔᐃᐃ[cw](ow.ᐃⲆⵠΔΔⲆΔΔᐃ);
