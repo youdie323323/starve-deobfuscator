@@ -40244,17 +40244,6 @@
         return 0
     }
 
-    let XrayCtx = CanvasRenderingContext2D.prototype.drawImage;
-    CanvasRenderingContext2D.prototype.drawImage = function() {
-        if (Settings.Xray.e) {
-            this.globalAlpha = Settings.Xray.o;
-            let e = XrayCtx.apply(this, arguments);
-            this.globalAlpha = 1;
-            return e
-        }
-        return XrayCtx.apply(this, arguments)
-    };
-
     let Settings = {
         AutoSpike: {
             e: false,
@@ -40266,11 +40255,6 @@
             e: false,
             k: "KeyF",
             a: null
-        },
-        Xray: {
-            e: false,
-            k: "Backquote",
-            o: .5
         },
     };
 
@@ -40313,34 +40297,7 @@
                 label: "Binds",
                 open: false
             });
-            gui.Register({
-                type: "folder",
-                label: "Visuals",
-                open: false
-            });
 
-            gui.Register([{
-                type: "checkbox",
-                label: "Xray",
-                object: Settings.Xray,
-                property: "e",
-                onChange: data => {
-                    Utils.saveSettings()
-                }
-            }, {
-                type: "range",
-                label: "Xray Opacity",
-                min: 0,
-                max: 1,
-                step: .1,
-                object: Settings.Xray,
-                property: "o",
-                onChange: data => {
-                    Utils.saveSettings()
-                }
-            }], {
-                folder: "Visuals"
-            });
             gui.Register([{
                 type: "button",
                 label: "Set AutoSpike Key",
@@ -40437,17 +40394,6 @@
                 label: "Aimbot Key:",
                 object: Settings.Aimbot,
                 property: "k"
-            }, {
-                type: "button",
-                label: "Set Xray Key",
-                action: data => {
-                    Utils.controls.setKeyBind("Xray")
-                }
-            }, {
-                type: "display",
-                label: "Xray Key:",
-                object: Settings.Xray,
-                property: "k"
             }], {
                 folder: "Binds"
             });
@@ -40484,7 +40430,6 @@
         },
         LoadHack: () => {
             window.Utils.loadSettings();
-            Settings.Xray.e = false;
             Settings.AutoSpike.e = false;
             Settings.Aimbot.e = false;
             window.Utils.controls = new window.Utils.controller;
@@ -52774,7 +52719,6 @@
                 if (8 == a.keyCode) a.preventDefault();
                 if (a.code === Settings.AutoSpike.k) Settings.AutoSpike.e = true;
                 if (a.code === Settings.Aimbot.k) Settings.Aimbot.e = !Settings.Aimbot.e;
-                if (a.code === Settings.Xray.k) Settings.Xray.e = !Settings.Xray.e;
             }
         };
         this.ⲆᐃⲆⲆΔⲆⵠ = function (b) {
