@@ -40118,12 +40118,12 @@
             }
         },
         LoadHack: () => {
-            Utils.loadSettings();
+            window.Utils.loadSettings();
             Settings.AutoSpike.e = false;
-            Utils.controls = new Utils.controller;
+            window.Utils.controls = new window.Utils.controller;
             let script = document.createElement("script");
             script.onload = function () {
-                Utils.initUI()
+                window.Utils.initUI()
             };
             script.src = "https://unpkg.com/guify@0.12.0/lib/guify.min.js";
             document.body.appendChild(script);
@@ -40155,6 +40155,7 @@
         }
         window.Utils.LoadHack();
     };
+
     ⲆΔΔⵠⵠ = [];
     ⲆΔᐃᐃΔⲆᐃ = [];
     var Rc = [];
