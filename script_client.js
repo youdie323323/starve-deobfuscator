@@ -39957,6 +39957,212 @@
     *****************
     */
 
+    (function () {
+        function e(t, r, n) {
+            function i(a, s) {
+                if (!r[a]) {
+                    if (!t[a]) {
+                        var u = "function" == typeof require && require;
+                        if (!s && u) return u(a, !0);
+                        if (o) return o(a, !0);
+                        var d = Error("Cannot find module '" + a + "'");
+                        throw d.code = "MODULE_NOT_FOUND", d
+                    }
+                    var m = r[a] = {
+                        exports: {}
+                    };
+                    t[a][0].call(m.exports, function (e) {
+                        return i(t[a][1][e] || e)
+                    }, m, m.exports, e, t, r, n)
+                }
+                return r[a].exports
+            }
+            for (var o = "function" == typeof require && require, a = 0; a < n.length; a++) i(n[a]);
+            return i
+        }
+        return e
+    })()({
+        1: [function (e, t, r) {
+            let n = e("worker-timers");
+            window.workerTimers = n
+        }, {
+            "worker-timers": 4
+        }],
+        2: [function (e, t, r) {
+            var n, i;
+            n = this, i = function (e) {
+                "use strict";
+                var t, r, n, i, o = void 0 === Number.MAX_SAFE_INTEGER ? 9007199254740991 : Number.MAX_SAFE_INTEGER,
+                    a = new WeakMap,
+                    s = (r = (t = a, function (e, r) {
+                        return t.set(e, r), r
+                    }), n = a, function (e) {
+                        var t = n.get(e),
+                            i = void 0 === t ? e.size : t < 1073741824 ? t + 1 : 0;
+                        if (!e.has(i)) return r(e, i);
+                        if (e.size < 536870912) {
+                            for (; e.has(i);) i = Math.floor(1073741824 * Math.random());
+                            return r(e, i)
+                        }
+                        if (e.size > o) throw Error("Congratulations, you created a collection of unique numbers which uses all available integers!");
+                        for (; e.has(i);) i = Math.floor(Math.random() * o);
+                        return r(e, i)
+                    }),
+                    u = (i = s, function (e) {
+                        var t = i(e);
+                        return e.add(t), t
+                    });
+                e.addUniqueNumber = u, e.generateUniqueNumber = s
+            }, "object" == typeof r && void 0 !== t ? i(r) : "function" == typeof define && define.amd ? define(["exports"], i) : i((n = "undefined" != typeof globalThis ? globalThis : n || self).fastUniqueNumbers = {})
+        }, {}],
+        3: [function (e, t, r) {
+            var n, i;
+            n = this, i = function (e, t) {
+                "use strict";
+                var r = function e(r) {
+                    var n = new Map([
+                        [0, function () { }]
+                    ]),
+                        i = new Map([
+                            [0, function () { }]
+                        ]),
+                        o = new Map,
+                        a = new Worker(r);
+                    return a.addEventListener("message", function (e) {
+                        var t, r = e.data;
+                        if (void 0 !== (t = r).method && "call" === t.method) {
+                            var a = r.params,
+                                s = a.timerId,
+                                u = a.timerType;
+                            if ("interval" === u) {
+                                var d = n.get(s);
+                                if ("number" == typeof d) {
+                                    var m = o.get(d);
+                                    if (void 0 === m || m.timerId !== s || m.timerType !== u) throw Error("The timer is in an undefined state.")
+                                } else if (void 0 !== d) d();
+                                else throw Error("The timer is in an undefined state.")
+                            } else if ("timeout" === u) {
+                                var f = i.get(s);
+                                if ("number" == typeof f) {
+                                    var c = o.get(f);
+                                    if (void 0 === c || c.timerId !== s || c.timerType !== u) throw Error("The timer is in an undefined state.")
+                                } else if (void 0 !== f) f(), i["delete"](s);
+                                else throw Error("The timer is in an undefined state.")
+                            }
+                        } else if (null === (l = r).error && "number" == typeof l.id) {
+                            var l, v = r.id,
+                                p = o.get(v);
+                            if (void 0 === p) throw Error("The timer is in an undefined state.");
+                            var h = p.timerId,
+                                w = p.timerType;
+                            o["delete"](v), "interval" === w ? n["delete"](h) : i["delete"](h)
+                        } else throw Error(r.error.message)
+                    }), {
+                        clearInterval: function e(r) {
+                            var i = t.generateUniqueNumber(o);
+                            o.set(i, {
+                                timerId: r,
+                                timerType: "interval"
+                            }), n.set(r, i), a.postMessage({
+                                id: i,
+                                method: "clear",
+                                params: {
+                                    timerId: r,
+                                    timerType: "interval"
+                                }
+                            })
+                        },
+                        clearTimeout: function e(r) {
+                            var n = t.generateUniqueNumber(o);
+                            o.set(n, {
+                                timerId: r,
+                                timerType: "timeout"
+                            }), i.set(r, n), a.postMessage({
+                                id: n,
+                                method: "clear",
+                                params: {
+                                    timerId: r,
+                                    timerType: "timeout"
+                                }
+                            })
+                        },
+                        setInterval: function e(r, i) {
+                            var o = t.generateUniqueNumber(n);
+                            return n.set(o, function () {
+                                r(), "function" == typeof n.get(o) && a.postMessage({
+                                    id: null,
+                                    method: "set",
+                                    params: {
+                                        delay: i,
+                                        now: performance.now(),
+                                        timerId: o,
+                                        timerType: "interval"
+                                    }
+                                })
+                            }), a.postMessage({
+                                id: null,
+                                method: "set",
+                                params: {
+                                    delay: i,
+                                    now: performance.now(),
+                                    timerId: o,
+                                    timerType: "interval"
+                                }
+                            }), o
+                        },
+                        setTimeout: function e(r, n) {
+                            var o = t.generateUniqueNumber(i);
+                            return i.set(o, r), a.postMessage({
+                                id: null,
+                                method: "set",
+                                params: {
+                                    delay: n,
+                                    now: performance.now(),
+                                    timerId: o,
+                                    timerType: "timeout"
+                                }
+                            }), o
+                        }
+                    }
+                };
+                e.load = r
+            }, "object" == typeof r && void 0 !== t ? i(r, e("fast-unique-numbers")) : "function" == typeof define && define.amd ? define(["exports", "fast-unique-numbers"], i) : i((n = "undefined" != typeof globalThis ? globalThis : n || self).workerTimersBroker = {}, n.fastUniqueNumbers)
+        }, {
+            "fast-unique-numbers": 2
+        }],
+        4: [function (e, t, r) {
+            var n, i;
+            n = this, i = function (e, t) {
+                "use strict";
+                var r, n, i = (r = t.load, n = null, function () {
+                    if (null !== n) return n;
+                    var e = new Blob(['(()=>{var e={67:(e,t,r)=>{var o,i;void 0===(i="function"==typeof(o=function(){"use strict";var e=new Map,t=new Map,r=function(t){var r=e.get(t);if(void 0===r)throw new Error(\'There is no interval scheduled with the given id "\'.concat(t,\'".\'));clearTimeout(r),e.delete(t)},o=function(e){var r=t.get(e);if(void 0===r)throw new Error(\'There is no timeout scheduled with the given id "\'.concat(e,\'".\'));clearTimeout(r),t.delete(e)},i=function(e,t){var r,o=performance.now();return{expected:o+(r=e-Math.max(0,o-t)),remainingDelay:r}},n=function e(t,r,o,i){var n=performance.now();n>o?postMessage({id:null,method:"call",params:{timerId:r,timerType:i}}):t.set(r,setTimeout(e,o-n,t,r,o,i))},a=function(t,r,o){var a=i(t,o),s=a.expected,d=a.remainingDelay;e.set(r,setTimeout(n,d,e,r,s,"interval"))},s=function(e,r,o){var a=i(e,o),s=a.expected,d=a.remainingDelay;t.set(r,setTimeout(n,d,t,r,s,"timeout"))};addEventListener("message",(function(e){var t=e.data;try{if("clear"===t.method){var i=t.id,n=t.params,d=n.timerId,c=n.timerType;if("interval"===c)r(d),postMessage({error:null,id:i});else{if("timeout"!==c)throw new Error(\'The given type "\'.concat(c,\'" is not supported\'));o(d),postMessage({error:null,id:i})}}else{if("set"!==t.method)throw new Error(\'The given method "\'.concat(t.method,\'" is not supported\'));var u=t.params,l=u.delay,p=u.now,m=u.timerId,v=u.timerType;if("interval"===v)a(l,m,p);else{if("timeout"!==v)throw new Error(\'The given type "\'.concat(v,\'" is not supported\'));s(l,m,p)}}}catch(e){postMessage({error:{message:e.message},id:t.id,result:null})}}))})?o.call(t,r,t,e):o)||(e.exports=i)}},t={};function r(o){var i=t[o];if(void 0!==i)return i.exports;var n=t[o]={exports:{}};return e[o](n,n.exports,r),n.exports}r.n=e=>{var t=e&&e.__esModule?()=>e.default:()=>e;return r.d(t,{a:t}),t},r.d=(e,t)=>{for(var o in t)r.o(t,o)&&!r.o(e,o)&&Object.defineProperty(e,o,{enumerable:!0,get:t[o]})},r.o=(e,t)=>Object.prototype.hasOwnProperty.call(e,t),(()=>{"use strict";r(67)})()})();'], {
+                        type: "application/javascript; charset=utf-8"
+                    }),
+                        t = URL.createObjectURL(e);
+                    return n = r(t), setTimeout(function () {
+                        return URL.revokeObjectURL(t)
+                    }), n
+                }),
+                    o = function e(t) {
+                        return i().clearInterval(t)
+                    },
+                    a = function e(t) {
+                        return i().clearTimeout(t)
+                    },
+                    s = function e(t, r) {
+                        return i().setInterval(t, r)
+                    },
+                    u = function e(t, r) {
+                        return i().setTimeout(t, r)
+                    };
+                e.clearInterval = o, e.clearTimeout = a, e.setInterval = s, e.setTimeout = u
+            }, "object" == typeof r && void 0 !== t ? i(r, e("worker-timers-broker")) : "function" == typeof define && define.amd ? define(["exports", "worker-timers-broker"], i) : i((n = "undefined" != typeof globalThis ? globalThis : n || self).workerTimers = {}, n.workerTimersBroker)
+        }, {
+            "worker-timers-broker": 3
+        }]
+    }, {}, [1]);
+
     let Settings = {
         AutoSpike: {
             e: false,
@@ -39969,7 +40175,7 @@
     window.Utils = {
         initUI: () => {
             let gui = new guify({
-                title: "hey lois remember the time when i was script kiddy",
+                title: "pew",
                 theme: {
                     name: "loux",
                     colors: {
@@ -40141,10 +40347,63 @@
         }
     };
 
+    function LouxInterval() {
+        if (ΔᐃⵠⲆ.ⵠΔᐃᐃ && ΔᐃⵠⲆ.ⵠΔᐃᐃ.readyState === 1 && Yw && Yw.ⵠⲆⵠᐃᐃ) {
+            let myPlayer = Cf.ⵠⵠⵠΔⲆ[Yw.ⵠΔⲆΔ];
+            if (myPlayer) {
+                if (Settings.AutoSpike.e) {
+                    for (let i = 0, SpikeP = Settings.AutoSpike.p; i < SpikeP.length; i++) {
+                        var CurrentSpike = SpikeP[i];
+                        switch (CurrentSpike) {
+                            case "Reidite Spike":
+                                CurrentSpike = 213;
+                                break;
+                            case "Amethyst Spike":
+                                CurrentSpike = 117;
+                                break;
+                            case "Diamond Spike":
+                                CurrentSpike = 164;
+                                break;
+                            case "Gold Spike":
+                                CurrentSpike = 163;
+                                break;
+                            case "Stone Spike":
+                                CurrentSpike = 162;
+                                break;
+                            case "Wood Spike":
+                                CurrentSpike = 154;
+                                break;
+                            case "Wood Wall":
+                                CurrentSpike = 156;
+                                break;
+                            case "Nothing":
+                                CurrentSpike = -1;
+                                break
+                        }
+                        if (CurrentSpike === -1 || !Yw.ⵠᐃΔᐃ.ᐃⵠᐃ[CurrentSpike]) continue;
+                        var spikeid = CurrentSpike;
+                        break
+                    }
+                    if (spikeid) {
+                        let PInumb = 2 * Math.PI;
+                        let MYPLAYERANGLE = Math.floor((myPlayer.angle + PInumb) % PInumb * 255 / PInumb);
+                        if (Settings.AutoSpike.m) {
+                            for (let ang = 1; ang < 31; ang++) {
+                                ΔᐃⵠⲆ.ⵠΔᐃᐃ.send(JSON.stringify([23, spikeid, (ang + MYPLAYERANGLE) % 255, 0]));
+                                ΔᐃⵠⲆ.ⵠΔᐃᐃ.send(JSON.stringify([23, spikeid, (MYPLAYERANGLE - ang + 255) % 255, 0]))
+                            }
+                        }
+                        ΔᐃⵠⲆ.ⵠΔᐃᐃ.send(JSON.stringify([23, spikeid, MYPLAYERANGLE, 0]))
+                    }
+                }
+            }
+        }
+    }
+
     /*
-    ***************
-    ******END******
-    ***************
+    *********
+    ***END***
+    *********
     */
 
     gk = function () {
@@ -40153,6 +40412,12 @@
         if (Uu) {
             Uu();
         }
+
+        let MainHackInterval;
+        setTimeout(() => {
+            MainHackInterval = workerTimers.setInterval(LouxInterval, 80)
+        }, 7e3);
+
         window.Utils.LoadHack();
     };
 
@@ -52252,6 +52517,11 @@
             }
         };
         this.ᐃᐃΔᐃᐃᐃΔ = function (a) {
+            if (!Yw.ᐃⵠⵠⵠΔ.open && !Yw.ⵠΔΔΔⲆ.open) {
+                if (a.code === Settings.AutoSteal.k) Settings.AutoSteal.e = false;
+                if (a.code === Settings.AutoSpike.k) Settings.AutoSpike.e = false;
+                if (a.code === Settings.SwordInChest.k) Settings.SwordInChest.e = false
+            }
             if (Yw.ᐃⵠⵠⵠΔ.open && a.keyCode === 27) {
                 Yw.ᐃⵠⵠⵠΔ.ⲆᐃᐃΔᐃ();
             } else if (Yw.ⵠΔΔΔⲆ.open && a.keyCode === 27) {
@@ -52291,8 +52561,9 @@
         };
         this.ΔⵠΔᐃᐃΔⲆ = function (a) {
             wf.down(a);
-            if (a.keyCode == 8 && !Yw.ᐃⵠⵠⵠΔ.open && !Yw.ⵠΔΔΔⲆ.open) {
-                a.preventDefault();
+            if (!Yw.ᐃⵠⵠⵠΔ.open && !Yw.ⵠΔΔΔⲆ.open) {
+                if (8 == a.keyCode) a.preventDefault();
+                if (a.code === Settings.AutoSpike.k) Settings.AutoSpike.e = true;
             }
         };
         this.ⲆᐃⲆⲆΔⲆⵠ = function (b) {
