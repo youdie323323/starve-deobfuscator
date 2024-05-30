@@ -40515,6 +40515,17 @@
                 label: "Aimbot Key:",
                 object: Settings.Aimbot,
                 property: "k"
+            }, {
+                type: "button",
+                label: "Set Xray Key",
+                action: data => {
+                    Utils.controls.setKeyBind("Xray")
+                }
+            }, {
+                type: "display",
+                label: "Xray Key:",
+                object: Settings.Xray,
+                property: "k"
             }], {
                 folder: "Binds"
             });
