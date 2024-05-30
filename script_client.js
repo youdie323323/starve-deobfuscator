@@ -40119,13 +40119,7 @@
     },
     LoadHack: () => {
       Utils.loadSettings();
-      Settings.Xray.e = false;
       Settings.AutoSpike.e = false;
-      Settings.PathFinder.e = false;
-      Settings.Aimbot.e = false;
-      Settings.AutoTame.e = false;
-      Settings.Autofarm.e = false;
-      Settings.AutoEme.e = false;
       Utils.controls = new Utils.controller;
       let script = document.createElement("script");
       script.onload = function () {
