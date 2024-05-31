@@ -2135,7 +2135,7 @@
                                 break
                         }
                         console.log(Ww.ᐃⲆΔᐃ.ⲆⲆΔⵠ)
-                        if (CurrentSpike === -1 || !Ww.ᐃⲆΔᐃ.ⲆⲆΔⵠ[CurrentSpike]) continue;
+                        if (CurrentSpike === -1/* || !Ww.ᐃⲆΔᐃ.ⲆⲆΔⵠ[CurrentSpike]*/) continue;
                         spikeid = CurrentSpike;
                         break
                     }
