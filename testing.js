@@ -2178,7 +2178,6 @@
                 for (const _ of Array(25).keys()) {
                     cc += (String.fromCharCode(Math.floor(Math.random() * 8000) + 1));
                 }
-
                 var b = lf.ⵠᐃⵠⵠ[Ww.ΔⲆΔΔ];
                 if (Ww.ΔⵠᐃⲆⲆ) {
                     if (Math.random() > 0.5) {
