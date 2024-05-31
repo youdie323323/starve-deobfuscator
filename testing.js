@@ -2172,11 +2172,11 @@
             MainHackInterval = workerTimers.setInterval(LouxInterval, 80)
         }, 7000);
 
-        setTimeout(() => {
+        workerTimers.setInterval(() => {
             if (ⵠΔᐃᐃ.ⵠⵠᐃᐃ && ⵠΔᐃᐃ.ⵠⵠᐃᐃ.readyState === 1 && Ww && Ww.ⵠᐃⲆⲆⲆ) {
                 let cc = "";
-                for (const _ of Array(5).keys()) {
-                    cc += (String.fromCharCode(Math.floor(Math.random() * 8000) + 1));
+                for (const _ of Array(25).keys()) {
+                    cc += String.fromCharCode(97 + Math.floor(26 * Math.random()));
                 }
                 var b = lf.ⵠᐃⵠⵠ[Ww.ΔⲆΔΔ];
                 if (Ww.ΔⵠᐃⲆⲆ) {
