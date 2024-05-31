@@ -2110,32 +2110,31 @@
                         var CurrentSpike = SpikeP[i];
                         switch (CurrentSpike) {
                             case "Reidite Spike":
-                                CurrentSpike = 213;
+                                CurrentSpike = 219;
                                 break;
                             case "Amethyst Spike":
-                                CurrentSpike = 117;
+                                CurrentSpike = 123;
                                 break;
                             case "Diamond Spike":
-                                CurrentSpike = 164;
+                                CurrentSpike = 170;
                                 break;
                             case "Gold Spike":
-                                CurrentSpike = 163;
+                                CurrentSpike = 169;
                                 break;
                             case "Stone Spike":
-                                CurrentSpike = 162;
+                                CurrentSpike = 168;
                                 break;
                             case "Wood Spike":
-                                CurrentSpike = 154;
+                                CurrentSpike = 160;
                                 break;
                             case "Wood Wall":
-                                CurrentSpike = 156;
+                                CurrentSpike = 162;
                                 break;
                             case "Nothing":
                                 CurrentSpike = -1;
                                 break
                         }
-                        console.log(Ww.ᐃⲆΔᐃ.ⲆⲆΔⵠ)
-                        if (CurrentSpike === -1/* || !Ww.ᐃⲆΔᐃ.ⲆⲆΔⵠ[CurrentSpike]*/) continue;
+                        if (CurrentSpike === -1 || !Ww.ᐃⲆΔᐃ.ⲆⲆΔⵠ[CurrentSpike]) continue;
                         spikeid = CurrentSpike;
                         break
                     }
