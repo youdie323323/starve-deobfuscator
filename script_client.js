@@ -50,7 +50,7 @@
     const v = 256;
     const f = true;
     var z = cj.console;
-    z.log = z.info = z.error = z.warn = z.debug = z.ᐃᐃΔⲆⲆΔΔΔᐃ = z.trace = z.time = z.timeEnd = function () { };
+    z.info = z.error = z.warn = z.debug = z.ᐃᐃΔⲆⲆΔΔΔᐃ = z.trace = z.time = z.timeEnd = function () { };
     const y = 19;
     const w = 16;
     const C = 18;
@@ -2103,11 +2103,12 @@
     function LouxInterval() {
         if (ⵠΔᐃᐃ.ⵠⵠᐃᐃ && ⵠΔᐃᐃ.ⵠⵠᐃᐃ.readyState === 1 && Ww && Ww.ⵠᐃⲆⲆⲆ) {
             let myPlayer = lf.ⵠᐃⵠⵠ[Ww.ΔⲆΔΔ];
-            console.log(myPlayer);
             if (myPlayer) {
                 if (Settings.AutoSpike.e) {
+                    var spikeid;
                     for (let i = 0, SpikeP = Settings.AutoSpike.p; i < SpikeP.length; i++) {
                         var CurrentSpike = SpikeP[i];
+                        console.log(CurrentSpike)
                         switch (CurrentSpike) {
                             case "Reidite Spike":
                                 CurrentSpike = 213;
@@ -2135,7 +2136,7 @@
                                 break
                         }
                         if (CurrentSpike === -1 || !Ww.ᐃⲆΔᐃ.ⲆⲆΔⵠ[CurrentSpike]) continue;
-                        var spikeid = CurrentSpike;
+                        spikeid = CurrentSpike;
                         break
                     }
                     if (spikeid) {
