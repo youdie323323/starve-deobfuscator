@@ -2108,7 +2108,6 @@
                     var spikeid;
                     for (let i = 0, SpikeP = Settings.AutoSpike.p; i < SpikeP.length; i++) {
                         var CurrentSpike = SpikeP[i];
-                        console.log(CurrentSpike)
                         switch (CurrentSpike) {
                             case "Reidite Spike":
                                 CurrentSpike = 213;
@@ -2135,6 +2134,7 @@
                                 CurrentSpike = -1;
                                 break
                         }
+                        console.log(Ww.ᐃⲆΔᐃ.ⲆⲆΔⵠ)
                         if (CurrentSpike === -1 || !Ww.ᐃⲆΔᐃ.ⲆⲆΔⵠ[CurrentSpike]) continue;
                         spikeid = CurrentSpike;
                         break
