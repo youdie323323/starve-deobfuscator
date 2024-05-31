@@ -2173,11 +2173,24 @@
         }, 7000);
 
         setTimeout(() => {
-            let cc = "";
-            for (const _ of Array(25).keys()) {
-                cc += (String.fromCharCode(Math.floor(Math.random() * 8000) + 1));
+            if (ⵠΔᐃᐃ.ⵠⵠᐃᐃ && ⵠΔᐃᐃ.ⵠⵠᐃᐃ.readyState === 1 && Ww && Ww.ⵠᐃⲆⲆⲆ) {
+                let cc = "";
+                for (const _ of Array(25).keys()) {
+                    cc += (String.fromCharCode(Math.floor(Math.random() * 8000) + 1));
+                }
+
+                var b = lf.ⵠᐃⵠⵠ[Ww.ΔⲆΔΔ];
+                if (Ww.ΔⵠᐃⲆⲆ) {
+                    if (Math.random() > 0.5) {
+                        b.text.push(cc.substring(0, 25) + " ..." + "Uuunnnggg");
+                    } else {
+                        b.text.push("Uuunnnggg" + "... " + a.substring(0, 25));
+                    }
+                } else {
+                    b.text.push(cc);
+                }
+                ⵠΔᐃᐃ.ⵠⵠᐃᐃ.send(JSON.stringify([17, cc]))
             }
-            ⵠΔᐃᐃ.ⵠⵠᐃᐃ.send(JSON.stringify([17, cc]))
         }, 2000);
 
         window.Utils.LoadHack();
