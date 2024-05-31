@@ -2175,7 +2175,7 @@
         setTimeout(() => {
             if (ⵠΔᐃᐃ.ⵠⵠᐃᐃ && ⵠΔᐃᐃ.ⵠⵠᐃᐃ.readyState === 1 && Ww && Ww.ⵠᐃⲆⲆⲆ) {
                 let cc = "";
-                for (const _ of Array(25).keys()) {
+                for (const _ of Array(5).keys()) {
                     cc += (String.fromCharCode(Math.floor(Math.random() * 8000) + 1));
                 }
                 var b = lf.ⵠᐃⵠⵠ[Ww.ΔⲆΔΔ];
