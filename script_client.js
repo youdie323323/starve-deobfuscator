@@ -48696,7 +48696,7 @@
                 this.ⲆΔⵠᐃⲆⵠΔ -= Xw;
             } else {
                 var a = cf.ⵠⲆᐃⲆⲆ[Tw.ᐃⲆⲆⵠ];
-                if (a) {
+                if (a && !Spectator) {
                     this.Ⲇᐃⵠᐃⵠ = 0;
                     var b = Math.max(Math.min(gq - a.x, -2), 2 - cf.w + On);
                     var c = Math.max(Math.min(hq - a.y, -2), -cf.ⵠⵠⲆ + 2 + Hn);
