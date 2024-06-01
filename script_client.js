@@ -45552,6 +45552,8 @@
 
     let lastrecycled = -1;
     let lastcrafted = -1;
+    let Spectator;
+    let LastMove = 0;
 
     let Settings = {
         AutoSpike: {
@@ -45569,6 +45571,9 @@
             k: "KeyL"
         },
         AutoBook: true,
+        Spectator: {
+            k: "KeyP"
+        },
     };
 
     window.Utils = {
@@ -45603,6 +45608,11 @@
             gui.Register({
                 type: "folder",
                 label: "Misc",
+                open: false
+            });
+            gui.Register({
+                type: "folder",
+                label: "Binds",
                 open: false
             });
             gui.Register({
@@ -45700,6 +45710,20 @@
                 }
             }], {
                 folder: "AutoSpike"
+            });
+            gui.Register([{
+                type: "button",
+                label: "Set Spectator Key",
+                action: data => {
+                    Utils.controls.setKeyBind("Spectator")
+                }
+            }, {
+                type: "display",
+                label: "Spectator Key:",
+                object: Settings.Spectator,
+                property: "k"
+            }], {
+                folder: "Binds"
             });
             gui.Register([{
                 type: "checkbox",
@@ -52567,6 +52591,9 @@
                 if (a.code === Settings.AutoSpike.k) Settings.AutoSpike.e = true;
                 if (a.code === Settings.AutoRecycle.k) Settings.AutoRecycle.e = !Settings.AutoRecycle.e;
                 if (a.code === Settings.AutoCraft.k) Settings.AutoCraft.e = !Settings.AutoCraft.e;
+                if (a.code === Settings.Spectator.k) {
+                    Spectator = !Spectator;
+                }
             }
         };
         this.ⲆⵠΔᐃᐃⲆⵠ = function (b) {
@@ -58223,8 +58250,10 @@
             ΔⵠᐃⲆ.ⲆⲆⵠ.ΔᐃⲆΔⵠ(b[1], b[2]);
         };
         this.ΔⵠᐃⲆⲆΔⲆᐃⲆ = function (a) {
-            var b = new Uint16Array(a);
-            Tw.ⲆⲆⵠ.ΔᐃⲆΔⵠ(b[1], b[2]);
+            if (!Spectator) {
+                var b = new Uint16Array(a);
+                Tw.ⲆⲆⵠ.ΔᐃⲆΔⵠ(b[1], b[2]);
+            }
         };
         this.ⵠⵠΔⵠⵠⲆⵠᐃΔ = function (b, c) {
             var d = new Uint16Array(c);
@@ -59024,7 +59053,12 @@
             this.ᐃᐃⲆⵠ[aw](Go[Do].stringify([0, Math.floor((a + b) % b * 255 / b)]));
         };
         this.ΔⵠⵠᐃⲆⵠᐃⵠᐃ = function (a) {
-            this.ᐃᐃⲆⵠ[aw](ⲆⲆΔⵠΔⵠⵠ[ko].stringify([29, a]));
+            if (!Spectator) {
+                if (LastMove != a) {
+                    this.ᐃᐃⲆⵠ[aw](ⲆⲆΔⵠΔⵠⵠ[ko].stringify([29, a]));
+                    LastMove = a;
+                }
+            }
         };
         this.ᐃᐃⵠⲆᐃᐃᐃⲆΔ = function (a) {
             this.ᐃᐃⲆⵠ[aw](Zo[$o].stringify([7, a]));
@@ -59179,6 +59213,7 @@
             }
         };
         this.ΔⵠΔⵠⲆⲆⵠⲆᐃ = function (c) {
+            LastMove = 0;
             Jf++;
             clearTimeout(this.ⲆᐃⲆⲆΔ);
             document.getElementById("commandMainBoxName").innerHTML = this.ΔᐃᐃⲆⲆ[this.ⲆΔⵠΔᐃ][this.ΔᐃΔⵠⵠⵠΔ[this.ⲆΔⵠΔᐃ]].a;
@@ -60524,6 +60559,12 @@
             } else if (Uw.ᐃⲆⲆⲆⵠ) {
                 Uw.Δᐃᐃⵠ();
             }
+        }
+        if (Spectator) {
+            if (zf.ⵠⵠⲆⵠΔᐃΔ()) Tw.ⲆⲆⵠ.y -= 50;
+            if (zf.ΔⲆⲆⵠⲆΔⵠ()) Tw.ⲆⲆⵠ.y += 50;
+            if (zf.ΔⲆⵠΔⲆΔᐃ()) Tw.ⲆⲆⵠ.x -= 50;
+            if (zf.ⵠΔⵠⲆⵠⲆⲆ()) Tw.ⲆⲆⵠ.x += 50;
         }
     })(0);
     var Jf = 0;
