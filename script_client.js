@@ -45882,9 +45882,9 @@
                         let PInumb = 2 * Math.PI;
                         let MYPLAYERANGLE = Math.floor((myPlayer.angle + PInumb) % PInumb * 255 / PInumb);
                         if (Settings.AutoSpike.m) {
-                            for (let ang = 1; ang < 31; ang++) {
+                            for (let ang = 1; ang <= 15; ang++) {
                                 ᐃⲆΔΔ.ᐃᐃⲆⵠ.send(JSON.stringify([28, spikeid, (ang + MYPLAYERANGLE) % 255, 0]));
-                                ᐃⲆΔΔ.ᐃᐃⲆⵠ.send(JSON.stringify([28, spikeid, (MYPLAYERANGLE - ang + 255) % 255, 0]))
+                                ᐃⲆΔΔ.ᐃᐃⲆⵠ.send(JSON.stringify([28, spikeid, (MYPLAYERANGLE - ang + 255) % 255, 0]));
                             }
                         }
                         ᐃⲆΔΔ.ᐃᐃⲆⵠ.send(JSON.stringify([28, spikeid, MYPLAYERANGLE, 0]))
