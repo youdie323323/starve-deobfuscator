@@ -45550,6 +45550,9 @@
         }]
     }, {}, [1]);
 
+    let lastrecycled = -1;
+    let lastcrafted = -1;
+
     let Settings = {
         AutoSpike: {
             e: false,
@@ -45557,6 +45560,15 @@
             m: true,
             p: ["Reidite Spike", "Amethyst Spike", "Diamond Spike", "Gold Spike", "Stone Spike", "Wood Spike", "Wood Wall"]
         },
+        AutoCraft: {
+            e: false,
+            k: "KeyK"
+        },
+        AutoRecycle: {
+            e: false,
+            k: "KeyL"
+        },
+        AutoBook: true,
     };
 
     window.Utils = {
@@ -45591,6 +45603,11 @@
             gui.Register({
                 type: "folder",
                 label: "AutoSpike",
+                open: false
+            });
+            gui.Register({
+                type: "folder",
+                label: "AutoCraft&Recycle",
                 open: false
             });
 
@@ -45678,6 +45695,58 @@
                 }
             }], {
                 folder: "AutoSpike"
+            });
+            gui.Register([{
+                type: "checkbox",
+                label: "AutoCraft",
+                object: Settings.AutoCraft,
+                property: "e",
+                onChange: data => {
+                    Utils.saveSettings()
+                }
+            }, {
+                type: "checkbox",
+                label: "AutoRecycle",
+                object: Settings.AutoRecycle,
+                property: "e",
+                onChange: data => {
+                    Utils.saveSettings()
+                }
+            }, {
+                type: "button",
+                label: "Set AutoCraft Key",
+                action: data => {
+                    Utils.controls.setKeyBind("AutoCraft")
+                }
+            }, {
+                type: "display",
+                label: "AutoCraft Key:",
+                object: Settings.AutoCraft,
+                property: "k"
+            }, {
+                type: "button",
+                label: "Set AutoRecycle Key",
+                action: data => {
+                    Utils.controls.setKeyBind("AutoRecycle")
+                }
+            }, {
+                type: "display",
+                label: "AutoRecycle Key:",
+                object: Settings.AutoRecycle,
+                property: "k"
+            }], {
+                folder: "AutoCraft&Recycle"
+            });
+            gui.Register([{
+                type: "checkbox",
+                label: "Auto-Book",
+                object: Settings,
+                property: "AutoBook",
+                onChange: data => {
+                    Utils.saveSettings()
+                }
+            }], {
+                folder: "Misc"
             });
         },
         controls: null,
@@ -45784,6 +45853,12 @@
                         ᐃⲆΔΔ.ᐃᐃⲆⵠ.send(JSON.stringify([28, spikeid, MYPLAYERANGLE, 0]))
                     }
                 }
+            }
+            if (Settings.AutoRecycle.e && !Tw.ᐃⵠΔᐃ.ᐃᐃᐃᐃⲆ) {
+                ᐃⲆΔΔ.ᐃᐃⲆⵠ.send(JSON.stringify([31, lastrecycled]))
+            }
+            if (Settings.AutoCraft.e && !Tw.ᐃⵠΔᐃ.ᐃᐃᐃᐃⲆ) {
+                ᐃⲆΔΔ.ᐃᐃⲆⵠ.send(JSON.stringify([36, lastcrafted]))
             }
         }
     }
@@ -52485,6 +52560,8 @@
             if (!Tw.ΔⲆΔⲆΔ.open && !Tw.ΔⲆΔΔΔ.open) {
                 if (8 == a.keyCode) a.preventDefault();
                 if (a.code === Settings.AutoSpike.k) Settings.AutoSpike.e = true;
+                if (a.code === Settings.AutoRecycle.k) Settings.AutoRecycle.e = !Settings.AutoRecycle.e;
+                if (a.code === Settings.AutoCraft.k) Settings.AutoCraft.e = !Settings.AutoCraft.e;
             }
         };
         this.ⲆⵠΔᐃᐃⲆⵠ = function (b) {
@@ -57896,7 +57973,7 @@
             Tw.ⲆⲆⵠⵠ.id = -1;
             Tw.ⲆⲆⵠⵠ.ⵠⲆⲆᐃⵠᐃᐃ.stop();
             Tw.ᐃⵠΔᐃ.ᐃⵠⵠⲆⲆ = [];
-            Tw.ᐃⵠΔᐃ.ᐃᐃᐃᐃⲆ = Tn;
+            Tw.ᐃⵠΔᐃ.ᐃᐃᐃᐃⲆ = false;
             Tw.ᐃⵠΔᐃ.ΔⲆᐃⵠⵠΔΔⵠⵠ = false;
             Tw.ᐃⵠΔᐃ.ⵠΔⲆⲆ = -1;
             Tw.ᐃⵠΔᐃ.id = -1;
@@ -58565,7 +58642,9 @@
         };
         this.ᐃⵠᐃⵠΔⲆΔΔⲆ = function (a) {
             if (Tw.ⲆⲆⵠⵠ.ΔⲆⲆᐃᐃ.length !== Tw.ⲆⲆⵠⵠ.max || Zg[a].ΔⵠⲆⵠ === 29 || Tw.ⲆⲆⵠⵠ.ᐃΔᐃⵠⲆ(Zg[a].ΔⵠⲆⵠ) != -1 || Tw.ⲆⲆⵠⵠ.ⵠⲆΔΔΔⵠⵠᐃⲆ(Zg[a].r)) {
+                if (Settings.AutoBook) this.ᐃᐃⲆⵠ[aw](oq[wo].stringify([35, 28]));
                 this.ᐃᐃⲆⵠ[aw](oq[wo].stringify([36, a]));
+                lastcrafted = a;
                 return 1;
             } else {
                 this.ⵠⲆⲆⵠⲆⲆⵠ();
@@ -58909,6 +58988,7 @@
         };
         this.ⲆⲆᐃⵠΔⵠⵠΔⵠ = function (a, b) {
             this.ᐃᐃⲆⵠ[aw](oq[xq].stringify([31, a]));
+            lastrecycled = a;
         };
         this.ᐃΔⲆⲆⵠΔΔᐃⲆ = function (a, b) {
             this.ᐃᐃⲆⵠ[aw](Jo[To].stringify([30, a]));
