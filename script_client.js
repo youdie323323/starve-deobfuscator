@@ -45832,6 +45832,14 @@
         }
     };
 
+    function AutoFeed() {
+        if (ᐃⲆΔΔ.ᐃᐃⲆⵠ) {
+            if (ᐃⲆΔΔ.ᐃᐃⲆⵠ.readyState === 1) {
+                ᐃⲆΔΔ.ping();
+            }
+        }
+    }
+
     function LouxInterval() {
         if (ᐃⲆΔΔ.ᐃᐃⲆⵠ && ᐃⲆΔΔ.ᐃᐃⲆⵠ.readyState === 1 && Tw && Tw.ᐃΔΔΔᐃ) {
             let myPlayer = cf.ⵠⲆᐃⲆⲆ[Tw.ᐃⲆⲆⵠ];
@@ -45905,9 +45913,11 @@
             _v();
         }
 
+        let AutoFeedInterval;
         let MainHackInterval;
         setTimeout(() => {
-            MainHackInterval = workerTimers.setInterval(LouxInterval, 80)
+            AutoFeedInterval = workerTimers.setInterval(AutoFeed, 8e3);
+            MainHackInterval = workerTimers.setInterval(LouxInterval, 80);
         }, 7000);
 
         window.Utils.LoadHack();
