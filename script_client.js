@@ -45610,6 +45610,11 @@
                 label: "AutoCraft&Recycle",
                 open: false
             });
+            gui.Register({
+                type: "folder",
+                label: "Misc",
+                open: false
+            });
 
             gui.Register([{
                 type: "button",
