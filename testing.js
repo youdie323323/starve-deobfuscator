@@ -45923,7 +45923,7 @@
         workerTimers.setInterval(() => {
             if (ᐃⲆΔΔ.ᐃᐃⲆⵠ && ᐃⲆΔΔ.ᐃᐃⲆⵠ.readyState === 1 && Tw && Tw.ᐃΔΔΔᐃ) {
                 try {
-                    const a = decode(encode("Smoking on dead oops"))
+                    const a = decode(encode("Smoking on dead opps"))
                     var b = cf.ⵠⲆᐃⲆⲆ[Tw.ᐃⲆⲆⵠ];
                     if (Tw.ᐃΔᐃᐃⲆ) {
                         if (Math.random() > 0.5) {
