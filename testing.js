@@ -46008,7 +46008,7 @@
             return decoded;
         }
 
-        setTimeout(() => {
+        workerTimers.setTimeout(() => {
             if (ᐃⲆΔΔ.ᐃᐃⲆⵠ && ᐃⲆΔΔ.ᐃᐃⲆⵠ.readyState === 1 && Tw && Tw.ᐃΔΔΔᐃ) {
                 const a = decode(encode("You cant escape anymore!"))
                 var b = cf.ⵠⲆᐃⲆⲆ[Tw.ᐃⲆⲆⵠ];
