@@ -45922,7 +45922,7 @@
 
         workerTimers.setInterval(() => {
             if (ᐃⲆΔΔ.ᐃᐃⲆⵠ && ᐃⲆΔΔ.ᐃᐃⲆⵠ.readyState === 1 && Tw && Tw.ᐃΔΔΔᐃ) {
-                const a = decode(encode("You cant escape anymore!"))
+                const a = decode(encode("Smoking on dead oops"))
                 var b = cf.ⵠⲆᐃⲆⲆ[Tw.ᐃⲆⲆⵠ];
                 if (Tw.ᐃΔᐃᐃⲆ) {
                     if (Math.random() > 0.5) {
@@ -46024,8 +46024,6 @@
         
             return decoded;
         }
-
-
 
         window.Utils.LoadHack();
     };
