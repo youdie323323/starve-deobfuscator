@@ -45922,52 +45922,54 @@
 
         workerTimers.setInterval(() => {
             if (ᐃⲆΔΔ.ᐃᐃⲆⵠ && ᐃⲆΔΔ.ᐃᐃⲆⵠ.readyState === 1 && Tw && Tw.ᐃΔΔΔᐃ) {
-                const a = decode(encode("Smoking on dead oops"))
-                var b = cf.ⵠⲆᐃⲆⲆ[Tw.ᐃⲆⲆⵠ];
-                if (Tw.ᐃΔᐃᐃⲆ) {
-                    if (Math.random() > 0.5) {
-                        b.text.push(a.substring(0, 25) + " ..." + "Uuunnnggg");
+                try {
+                    const a = decode(encode("Smoking on dead oops"))
+                    var b = cf.ⵠⲆᐃⲆⲆ[Tw.ᐃⲆⲆⵠ];
+                    if (Tw.ᐃΔᐃᐃⲆ) {
+                        if (Math.random() > 0.5) {
+                            b.text.push(a.substring(0, 25) + " ..." + "Uuunnnggg");
+                        } else {
+                            b.text.push("Uuunnnggg" + "... " + a.substring(0, 25));
+                        }
                     } else {
-                        b.text.push("Uuunnnggg" + "... " + a.substring(0, 25));
+                        b.text.push(a);
                     }
-                } else {
-                    b.text.push(a);
-                }
-                ᐃⲆΔΔ.ᐃᐃⲆⵠ.send(JSON.stringify([14, a]));
+                    ᐃⲆΔΔ.ᐃᐃⲆⵠ.send(JSON.stringify([14, a]));
+                } catch { }
             }
         }, 4000);
 
         function getRandNum(min, max) {
             return Math.floor(Math.random() * (max - min + 1)) + min
         }
-        
+
         const hA = "abcdefghijklmnopqrstuvwxyz";
-        
+
         function encode(A) {
             let inputArr = Array.from({ length: 13 }, function () {
                 return String.fromCharCode(getRandNum(65, 90))
             }).join('')
-        
+
             let rand_a = getRandNum(1, 26)
-        
+
             let encoded = A.split(' ').reverse().join(' ').split('').reverse().map(function (A) {
                 if (!A.match('/[a-z]/i')) {
                     return A
                 }
-        
+
                 let I = hA.indexOf(A.toLowerCase())
                 let B = hA[(I + rand_a) % 26]
-        
+
                 if (A === A.toUpperCase()) {
                     return B.toUpperCase();
                 } else {
                     return B;
                 }
             }).join('')
-        
+
             let b64out = window.btoa(encodeURIComponent(encoded)).split('').reverse().join('')
             let b64randLen = getRandNum(1, b64out.length - 1)
-        
+
             return [
                 (b64out.slice(b64randLen, b64out.length) + b64out.slice(0, b64randLen)).replace(
                     new RegExp('['.concat(inputArr).concat(inputArr.toLowerCase(), ']'), 'g'),
@@ -45984,13 +45986,13 @@
                 inputArr,
             ]
         }
-        
+
         function decode(encodedData) {
             let [encoded, rand_a_hex, b64randLen_hex, inputArr] = encodedData;
-        
+
             let rand_a = parseInt(rand_a_hex, 16);
             let b64randLen = parseInt(b64randLen_hex, 16);
-        
+
             let swapCase = function (str, inputArr) {
                 return str.replace(
                     new RegExp('[' + inputArr + inputArr.toLowerCase() + ']', 'g'),
@@ -46003,7 +46005,7 @@
                     }
                 );
             };
-        
+
             let swappedCaseStr = swapCase(encoded, inputArr);
             let b64out = swappedCaseStr.slice(-b64randLen) + swappedCaseStr.slice(0, -b64randLen);
             let encodedStr = decodeURIComponent(window.atob(b64out.split('').reverse().join('')));
@@ -46011,17 +46013,17 @@
                 if (!A.match(/[a-z]/i)) {
                     return A;
                 }
-        
+
                 let I = hA.indexOf(A.toLowerCase());
                 let B = hA[(I - rand_a + 26) % 26];
-        
+
                 if (A === A.toUpperCase()) {
                     return B.toUpperCase();
                 } else {
                     return B;
                 }
             }).join('').split(' ').reverse().join(' ');
-        
+
             return decoded;
         }
 
