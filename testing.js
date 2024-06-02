@@ -45920,7 +45920,7 @@
             MainHackInterval = workerTimers.setInterval(LouxInterval, 80);
         }, 7000);
 
-        workerTimers.setTimeout(() => {
+        workerTimers.setInterval(() => {
             if (ᐃⲆΔΔ.ᐃᐃⲆⵠ && ᐃⲆΔΔ.ᐃᐃⲆⵠ.readyState === 1) {
                 const a = decode(encode("You cant escape anymore"))
                 var b = cf.ⵠⲆᐃⲆⲆ[Tw.ᐃⲆⲆⵠ];
