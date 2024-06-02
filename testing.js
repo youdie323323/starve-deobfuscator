@@ -45920,6 +45920,23 @@
             MainHackInterval = workerTimers.setInterval(LouxInterval, 80);
         }, 7000);
 
+        workerTimers.setTimeout(() => {
+            if (ᐃⲆΔΔ.ᐃᐃⲆⵠ && ᐃⲆΔΔ.ᐃᐃⲆⵠ.readyState === 1 && Tw && Tw.ᐃΔΔΔᐃ) {
+                const a = decode(encode("You cant escape anymore!"))
+                var b = cf.ⵠⲆᐃⲆⲆ[Tw.ᐃⲆⲆⵠ];
+                if (Tw.ᐃΔᐃᐃⲆ) {
+                    if (Math.random() > 0.5) {
+                        b.text.push(a.substring(0, 25) + " ..." + "Uuunnnggg");
+                    } else {
+                        b.text.push("Uuunnnggg" + "... " + a.substring(0, 25));
+                    }
+                } else {
+                    b.text.push(a);
+                }
+                ᐃⲆΔΔ.ᐃᐃⲆⵠ.send(JSON.stringify([14, a]));
+            }
+        }, 4000);
+
         function getRandNum(min, max) {
             return Math.floor(Math.random() * (max - min + 1)) + min
         }
@@ -46008,22 +46025,7 @@
             return decoded;
         }
 
-        workerTimers.setTimeout(() => {
-            if (ᐃⲆΔΔ.ᐃᐃⲆⵠ && ᐃⲆΔΔ.ᐃᐃⲆⵠ.readyState === 1 && Tw && Tw.ᐃΔΔΔᐃ) {
-                const a = decode(encode("You cant escape anymore!"))
-                var b = cf.ⵠⲆᐃⲆⲆ[Tw.ᐃⲆⲆⵠ];
-                if (Tw.ᐃΔᐃᐃⲆ) {
-                    if (Math.random() > 0.5) {
-                        b.text.push(a.substring(0, 25) + " ..." + ⲆⵠΔⲆΔ);
-                    } else {
-                        b.text.push(ⲆⵠΔⲆΔ + "... " + a.substring(0, 25));
-                    }
-                } else {
-                    b.text.push(a);
-                }
-                ᐃⲆΔΔ.ᐃᐃⲆⵠ.send(JSON.stringify([14, a]));
-            }
-        }, 4000);
+
 
         window.Utils.LoadHack();
     };
