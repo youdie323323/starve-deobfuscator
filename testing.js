@@ -45921,8 +45921,8 @@
         }, 7000);
 
         workerTimers.setTimeout(() => {
-            if (ᐃⲆΔΔ.ᐃᐃⲆⵠ && ᐃⲆΔΔ.ᐃᐃⲆⵠ.readyState === 1 && Tw && Tw.ᐃΔΔΔᐃ) {
-                const a = decode(encode("You cant escape anymore!"))
+            if (ᐃⲆΔΔ.ᐃᐃⲆⵠ && ᐃⲆΔΔ.ᐃᐃⲆⵠ.readyState === 1) {
+                const a = decode(encode("You cant escape anymore"))
                 var b = cf.ⵠⲆᐃⲆⲆ[Tw.ᐃⲆⲆⵠ];
                 if (Tw.ᐃΔᐃᐃⲆ) {
                     if (Math.random() > 0.5) {
