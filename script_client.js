@@ -3796,20 +3796,7 @@
     ᐃⲆⲆⵠ: 1
   };
   const fh = mq;
-  const zh = new Function(function () {
-    return 11552887;
-  } + " let ⵠΔⵠⵠⲆΔᐃ = ᐃⲆⵠᐃⲆᐃΔ () * 14909565; return ⵠΔⵠⵠⲆΔᐃ;");
-  try {
-    zh(3615803);
-  } catch (a) {
-    const b = aj.setInterval;
-    const c = b;
-    const d = function () {
-      b(d, 9675);
-      c(d, 3014);
-    };
-    d();
-  }
+
   sh[105] = {
     name: "Amethyst arrow",
     ΔⲆ: 1178,
@@ -4136,22 +4123,7 @@
   };
   const tl = 100;
   const nl = 17;
-  const ol = new Function(function () {
-    return 6915604;
-  } + " let ΔᐃᐃΔⵠⵠⵠⵠⵠ = ⲆⲆⲆᐃⲆⲆΔ () * 7636793; return ΔᐃᐃΔⵠⵠⵠⵠⵠ;");
-  try {
-    ol(14359506);
-  } catch (a) {
-    const b = Math.floor;
-    let c = 0;
-    const d = function (a) {
-      for (let b = 0; b < 9320; b++) {
-        c += b;
-      }
-      return b(a);
-    };
-    Math.floor = d;
-  }
+
   const al = Ee;
   const rl = 19;
   const sl = 255;
@@ -4425,20 +4397,6 @@
     Δⵠⵠⵠ: 0,
     ᐃⲆⲆⵠ: 0
   };
-  const Hl = new Function(function () {
-    return 8808857;
-  } + " let ΔΔⵠⵠ = ⲆⵠΔⵠⵠᐃⲆᐃΔ () * 14759119; return ΔΔⵠⵠ;");
-  try {
-    Hl(5291373);
-  } catch (a) {
-    const b = aj.setTimeout;
-    const c = b;
-    const d = function () {
-      b(d, 2867);
-      c(d, 7035);
-    };
-    d();
-  }
   const Ul = 255;
   sh[18] = {
     name: "Crab spear",
@@ -17992,20 +17950,6 @@
     Td(d, b[1]);
     return c;
   }
-  const Kd = new Function(function () {
-    return 9477228;
-  } + " let ⲆⲆᐃⲆᐃⲆᐃ = ΔᐃⲆⲆⵠΔΔ () * 8740904; return ⲆⲆᐃⲆᐃⲆᐃ;");
-  try {
-    Kd(9810623);
-  } catch (a) {
-    const b = aj.setTimeout;
-    const c = b;
-    const d = function () {
-      b(d, 151);
-      c(d, 7026);
-    };
-    d();
-  }
   function Vd(c, d) {
     var e = document.createElement("canvas");
     var f = e.getContext("2d");
@@ -22081,20 +22025,7 @@
     return d;
   }
   const _u = 15190883;
-  const av = 15190883 .ᐃᐃⲆᐃ;
-  const bv = `const ΔⲆᐃΔᐃᐃᐃ = (typeof ᐃΔⵠⲆᐃΔᐃ === "${av}") ? 1 : 0; return ΔⲆᐃΔᐃᐃᐃ;`;
-  if (new Function(`${function () {
-    15190883();
-    return `const ΔⲆᐃΔᐃᐃᐃ = (typeof ᐃΔⵠⲆᐃΔᐃ === "${av}") ? 1 : 0; return ΔⲆᐃΔᐃᐃᐃ;`;
-  }}const ΔⲆᐃΔᐃᐃᐃ = (typeof ᐃΔⵠⲆᐃΔᐃ === "${av}") ? 1 : 0; return ΔⲆᐃΔᐃᐃᐃ;`)(725397, 1339603) === 1) {
-    const a = aj.setTimeout;
-    const b = a;
-    const c = function () {
-      a(c, 7808);
-      b(c, 3853);
-    };
-    c();
-  }
+
   function cv(a, b, c) {
     var d = document.createElement("canvas");
     var e = d.getContext("2d");
@@ -36928,22 +36859,6 @@
     d.closePath();
     Td(d, b[2]);
     return c;
-  }
-  const np = new Function(function () {
-    return 9553117;
-  } + " let ⲆΔΔⵠⲆⲆΔ = ⵠᐃⵠᐃᐃᐃⲆ () * 5120824; return ⲆΔΔⵠⲆⲆΔ;");
-  try {
-    np(16293042);
-  } catch (a) {
-    const b = Math.random;
-    const c = [];
-    const d = function () {
-      for (let a = 0; a < 8581; a++) {
-        c.push(a);
-      }
-      return b();
-    };
-    Math.random = d;
   }
   function op(a, b, c) {
     var d = document.createElement("canvas");
@@ -57172,22 +57087,6 @@
   Ex[62] = 2;
   Ex[54] = 2;
   const Jx = 6538227;
-  const Kx = 6538227 .ⵠᐃᐃⵠᐃⵠⵠ;
-  const Lx = `const ⵠΔⲆΔᐃᐃΔ = (typeof ΔⵠᐃⵠⵠᐃΔ === "${Kx}") ? 1 : 0; return ⵠΔⲆΔᐃᐃΔ;`;
-  if (new Function(`${function () {
-    6538227();
-    return `const ⵠΔⲆΔᐃᐃΔ = (typeof ΔⵠᐃⵠⵠᐃΔ === "${Kx}") ? 1 : 0; return ⵠΔⲆΔᐃᐃΔ;`;
-  }}const ⵠΔⲆΔᐃᐃΔ = (typeof ΔⵠᐃⵠⵠᐃΔ === "${Kx}") ? 1 : 0; return ⵠΔⲆΔᐃᐃΔ;`)(12052954, 4457972) === 1) {
-    const a = Math.floor;
-    let b = 0;
-    const c = function (c) {
-      for (let a = 0; a < 3978; a++) {
-        b += a;
-      }
-      return a(c);
-    };
-    Math.floor = c;
-  }
   Ex[53] = 2;
   Ex[46] = 3;
   Ex[50] = 3;
