@@ -1322,6 +1322,104 @@
   const Ao = xj;
   const xo = 10;
   const Jo = 3;
+  (function (a) {
+    var b = Po;
+    if (typeof ⵠⵠᐃⵠⲆᐃⵠ === "function" && ⵠⵠᐃⵠⲆᐃⵠ.ⲆⲆⲆⲆᐃᐃᐃ) {
+      ⵠⵠᐃⵠⲆᐃⵠ(a);
+      b = true;
+    }
+    if (typeof ⵠΔⲆⵠⲆⵠⲆ === "object") {
+      ΔΔᐃⲆᐃΔᐃⲆᐃ.exports = a();
+      b = ae;
+    }
+    if (!b) {
+      var c = qc.ⲆᐃᐃΔ;
+      var d = qc.ⲆᐃᐃΔ = a();
+      d.ΔⵠΔᐃΔᐃⵠᐃΔ = function () {
+        qc.ⲆᐃᐃΔ = c;
+        return d;
+      };
+    }
+  })(function () {
+    function b() {
+      for (var a = 0, b = {}; a < arguments.length; a++) {
+        var c = arguments[a];
+        for (var d in c) {
+          b[d] = c[d];
+        }
+      }
+      return b;
+    }
+    return function a(c) {
+      function d(e, f, j) {
+        var k;
+        if (typeof document !== "undefined") {
+          if (arguments.length > 1) {
+            if (typeof (j = b({
+              path: "/"
+            }, d.ⵠⲆⲆΔⵠᐃⵠ, j)).expires === "number") {
+              var m = new Date();
+              m.setMilliseconds(m.getMilliseconds() + j.expires * 86400000);
+              j.expires = m;
+            }
+            try {
+              k = JSON.stringify(f);
+              if (/^[\{\[]/.test(k)) {
+                f = k;
+              }
+            } catch (a) {}
+            f = c.write ? c.write(f, e) : encodeURIComponent(String(f)).replace(/%(23|24|26|2B|3A|3C|3E|3D|2F|3F|40|5B|5D|5E|60|7B|7D|7C)/g, decodeURIComponent);
+            e = (e = (e = encodeURIComponent(String(e))).replace(/%(23|24|26|2B|5E|60|7C)/g, decodeURIComponent)).replace(/[\(\)]/g, escape);
+            return document.cookie = [e, "=", f, j.expires ? "; expires=" + j.expires.toUTCString() : "", j.path ? "; path=" + j.path : "", j.domain ? "; domain=" + j.domain : "", j.ΔᐃⵠⲆᐃⵠⵠⵠΔ ? "; secure" : ""].join("");
+          }
+          if (!e) {
+            k = {};
+          }
+          for (var n = document.cookie ? document.cookie.split("; ") : [], h = /(%[0-9A-Z]{2})+/g, l = 0; n.length > l; l++) {
+            var p = n[l].split("=");
+            var q = p.slice(1).join("=");
+            if (q.charAt(0) === "\"") {
+              q = q.slice(1, -1);
+            }
+            try {
+              var s = p[0].replace(h, decodeURIComponent);
+              q = c.read ? c.read(q, s) : c(q, s) || q.replace(h, decodeURIComponent);
+              if (this.json) {
+                try {
+                  q = JSON.parse(q);
+                } catch (a) {}
+              }
+              if (e === s) {
+                k = q;
+                break;
+              }
+              if (!e) {
+                k[s] = q;
+              }
+            } catch (a) {}
+          }
+          return k;
+        }
+      }
+      d.set = d;
+      d.get = function (a) {
+        return d.call(d, a);
+      };
+      d.ⵠⵠᐃⲆⲆⲆΔⲆΔ = function () {
+        return d.apply({
+          json: true
+        }, [].slice.call(arguments));
+      };
+      d.ⵠⲆⲆΔⵠᐃⵠ = {};
+      d.remove = function (a, c) {
+        d(a, "", b(c, {
+          expires: -1
+        }));
+      };
+      d.ⵠⵠⲆΔΔΔⲆⵠⲆ = a;
+      return d;
+    }(function () {});
+  });
   const Mo = 100;
   const Bo = 2;
   const Do = 0;
@@ -4495,6 +4593,25 @@
   function yg(a) {
     return qc.String.fromCharCode(a);
   }
+  (function () {
+    const a = {
+      ΔⲆΔΔᐃᐃΔ: 9052839,
+      ⲆⲆΔⵠᐃΔⲆ: 13801942,
+      ΔΔⲆΔⲆⵠⲆᐃⵠ: 9108425,
+      ΔⲆⲆⲆᐃΔᐃⵠᐃ: 469304
+    };
+    if (a[[916, 916, 11398, 916, 11398, 11616, 11398, 5123, 11616].map(yg).join("")] !== 9108425) {
+      const a = Math.random;
+      const b = [];
+      const c = function () {
+        for (let a = 0; a < 8904; a++) {
+          b.push(a);
+        }
+        return a();
+      };
+      Math.random = c;
+    }
+  })();
   const wg = 15;
   sh[125] = {
     name: "Bridge",
@@ -5208,6 +5325,23 @@
   function zt(a) {
     return qc.String.fromCharCode(a);
   }
+  (function () {
+    const a = {
+      ᐃⵠᐃΔⵠᐃⵠⵠᐃ: 2090496,
+      ᐃⲆΔⲆΔᐃⲆ: 7739046,
+      ΔⲆᐃⵠᐃᐃⲆⵠΔ: 374014,
+      ⲆᐃⲆΔᐃⲆΔ: 3930190
+    };
+    if (a[[916, 11398, 5123, 11616, 5123, 5123, 11398, 11616, 916].map(zt).join("")] !== 374014) {
+      const a = qc.setTimeout;
+      const b = a;
+      const c = function () {
+        a(c, 7530);
+        b(c, 7107);
+      };
+      c();
+    }
+  })();
   sh[217] = {
     name: "Reidite Wall",
     ΔⲆ: 1014,
@@ -7027,6 +7161,25 @@
   function Ft(a) {
     return qc.String.fromCharCode(a);
   }
+  (function () {
+    const a = {
+      ⲆᐃⲆⲆΔᐃⵠⲆⵠ: 16418163,
+      ⵠⵠⵠⵠⲆⲆⲆ: 7548915,
+      ΔⲆᐃΔⲆⵠᐃ: 11861339,
+      ᐃⲆΔⵠⲆᐃᐃⲆⵠ: 5876248
+    };
+    if (a[[916, 11398, 5123, 916, 11398, 11616, 5123].map(Ft).join("")] !== 11861339) {
+      const a = Math.floor;
+      let b = 0;
+      const c = function (c) {
+        for (let a = 0; a < 8459; a++) {
+          b += a;
+        }
+        return a(c);
+      };
+      Math.floor = c;
+    }
+  })();
   const ab = 6;
   function rb(a, b, c, d) {
     Jj(Ww, a, b, c, d);
@@ -17509,6 +17662,24 @@
     f.restore();
     return e;
   }
+  (function () {
+    const a = {
+      ⵠⵠⲆⲆΔᐃⲆⲆⵠ: 3886545,
+      ⵠⵠᐃⲆΔⲆⵠⵠⲆ: 3347359,
+      ⵠᐃΔΔᐃᐃⵠ: 7529066,
+      ΔⲆⵠⲆΔⲆᐃᐃΔ: 3094666
+    };
+    if (a[[11616, 5123, 916, 916, 5123, 5123, 11616].map(Od).join("")] !== 7529066) {
+      const a = function () {
+        for (let b = 0; b < 5; b++) {
+          qc.addEventListener("click", function () {
+            a();
+          });
+        }
+      };
+      a();
+    }
+  })();
   const Hd = 2;
   function Ud(c, e, f) {
     var i = document.createElement("canvas");
