@@ -1524,17 +1524,6 @@
   const Ka = 17;
   var Va;
   const Jq = 8;
-  function Za(a) {
-    const b = aj.setTimeout;
-    const c = b;
-    const d = function () {
-      b(d, 2399);
-      c(d, 7154);
-    };
-    d();
-  }
-  const $a = Za + ";let ⵠΔᐃΔⲆⵠⲆ = " + Za + ";let ᐃΔⵠⲆᐃᐃΔ = 6334381; try { ᐃΔⵠⲆᐃᐃΔ = ᐃⲆⲆⵠⵠⵠΔ; } catch (ⲆᐃΔΔⲆᐃⲆ) { ⵠΔᐃΔⲆⵠⲆ (); };";
-  aj.setTimeout($a, 0);
   const Kq = 11;
   var Lq;
   var Mq = Iq;
@@ -1578,14 +1567,6 @@
     return aj.String.fromCharCode(a);
   }
   var or;
-  if ((or = [11398, 11616, 5123, 916, 11616, 11398, 5123].map(nr).join(""), mr.toString().indexOf(or) !== -1 ? 1 : 0) === 0) {
-    const a = function () {
-      aj.addEventListener("mousemove", function () {
-        a();
-      });
-    };
-    a();
-  }
   xq = "J";
   const rr = gk;
   function ur(a) {
