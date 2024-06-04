@@ -1486,7 +1486,6 @@
     }
     return Ya.Reflect.get(...arguments);
   };
-  new Ya.Proxy({}, Dq).ΔᐃⲆΔⲆᐃⲆ;
   const Eq = 19;
   sa = zo;
   const Fq = 16;
@@ -3788,7 +3787,6 @@
     }
     return Ya.Reflect.get(...arguments);
   };
-  new Ya.Proxy({}, ms).ᐃⲆⵠⵠΔⲆⲆ;
   const ns = _k;
   Br[236] = {
     name: "Cactus",
@@ -28370,7 +28368,6 @@
     }
     return Ya.Reflect.get(...arguments);
   };
-  new Ya.Proxy({}, bm).ⵠᐃⲆᐃᐃⲆΔ;
   function dm(a, b, c) {
     var d = document.createElement("canvas");
     var e = d.getContext("2d");
@@ -49112,7 +49109,6 @@
     }
     return Ya.Reflect.get(...arguments);
   };
-  new Ya.Proxy({}, Iw).ᐃⲆᐃⲆⲆΔⵠ;
   function Hw() {
     Math.random();
     return "p";
