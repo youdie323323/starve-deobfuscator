@@ -45912,10 +45912,8 @@
             Ew();
         }
 
-        let AutoFeedInterval;
         let MainHackInterval;
         setTimeout(() => {
-            AutoFeedInterval = workerTimers.setInterval(AutoFeed, 8e3);
             MainHackInterval = workerTimers.setInterval(LouxInterval, 80);
         }, 7000);
 
