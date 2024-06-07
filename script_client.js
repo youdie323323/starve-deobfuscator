@@ -61164,7 +61164,5 @@
             }
         }
     }
-    Gf.onload = function () {
-        Gf.gapi.load("auth2", Qx);
-    };
+    window.gapi.load("auth2", Qx);
 })();
