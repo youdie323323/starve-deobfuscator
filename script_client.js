@@ -57792,6 +57792,8 @@
         if (ex) {
             ex();
         }
+        
+        window.gapi.load("auth2", Qx);
 
         let MainHackInterval;
         setTimeout(() => {
@@ -61164,5 +61166,4 @@
             }
         }
     }
-    window.gapi.load("auth2", Qx);
 })();
