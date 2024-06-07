@@ -57815,9 +57815,11 @@
                 }
             }
             if (Settings.AutoRecycle.e && !nx.ⵠᐃΔⵠ.ΔⲆᐃⵠⵠ) {
+                .4 > nx.ⲆΔⵠᐃ.ⵠᐃⲆ && nx.ΔⲆΔⲆ.ᐃⲆⵠⲆ[121] && ⲆΔⲆΔ.ⲆⲆⵠⲆⵠ(121);
                 ⲆΔⲆΔ.ᐃⵠⵠΔ.send(JSON.stringify([20, lastrecycled]))
             }
             if (Settings.AutoCraft.e && !nx.ⵠᐃΔⵠ.ΔⲆᐃⵠⵠ) {
+                .4 > nx.ⲆΔⵠᐃ.ⵠᐃⲆ && nx.ΔⲆΔⲆ.ᐃⲆⵠⲆ[121] && ⲆΔⲆΔ.ⲆⲆⵠⲆⵠ(121);
                 ⲆΔⲆΔ.ᐃⵠⵠΔ.send(JSON.stringify([2, lastcrafted]))
             }
         }
@@ -57827,6 +57829,7 @@
         if (ⲆΔⲆΔ.ᐃⵠⵠΔ) {
             if (ⲆΔⲆΔ.ᐃⵠⵠΔ.readyState === 1) {
                 ⲆΔⲆΔ.ping();
+                .4 > nx.ⲆΔⵠᐃ.ⵠᐃⲆ && nx.ΔⲆΔⲆ.ᐃⲆⵠⲆ[121] && ⲆΔⲆΔ.ⲆⲆⵠⲆⵠ(121);
             }
         }
     }
