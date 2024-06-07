@@ -57816,10 +57816,162 @@
             }
             if (Settings.AutoRecycle.e && !nx.ⵠᐃΔⵠ.ΔⲆᐃⵠⵠ) {
                 .4 > nx.ⲆΔⵠᐃ.ⵠᐃⲆ && nx.ΔⲆΔⲆ.ᐃⲆⵠⲆ[121] && ⲆΔⲆΔ.ⲆⲆⵠⲆⵠ(121);
+                .38 > nx.ⲆΔⵠᐃ.ᐃⲆᐃ && function () {
+                    if (nx.ΔⲆΔⲆ.ᐃⲆⵠⲆ[104]) {
+                        return ⲆΔⲆΔ.ⲆⲆⵠⲆⵠ(104);
+                    }
+                    return function () {
+                        if (nx.ΔⲆΔⲆ.ᐃⲆⵠⲆ[186]) {
+                            return ⲆΔⲆΔ.ⲆⲆⵠⲆⵠ(186);
+                        }
+                        return function () {
+                            if (nx.ΔⲆΔⲆ.ᐃⲆⵠⲆ[190]) {
+                                return ⲆΔⲆΔ.ⲆⲆⵠⲆⵠ(190);
+                            }
+                            return function () {
+                                if (nx.ΔⲆΔⲆ.ᐃⲆⵠⲆ[183]) {
+                                    return ⲆΔⲆΔ.ⲆⲆⵠⲆⵠ(183);
+                                }
+                                return function () {
+                                    if (nx.ΔⲆΔⲆ.ᐃⲆⵠⲆ[201]) {
+                                        return ⲆΔⲆΔ.ⲆⲆⵠⲆⵠ(201);
+                                    }
+                                    return function () {
+                                        if (nx.ΔⲆΔⲆ.ᐃⲆⵠⲆ[199]) {
+                                            return ⲆΔⲆΔ.ⲆⲆⵠⲆⵠ(199);
+                                        }
+                                        return function () {
+                                            if (nx.ΔⲆΔⲆ.ᐃⲆⵠⲆ[203]) {
+                                                return ⲆΔⲆΔ.ⲆⲆⵠⲆⵠ(203);
+                                            }
+                                            return function () {
+                                                if (nx.ΔⲆΔⲆ.ᐃⲆⵠⲆ[137]) {
+                                                    return ⲆΔⲆΔ.ⲆⲆⵠⲆⵠ(137);
+                                                }
+                                                return function () {
+                                                    if (nx.ΔⲆΔⲆ.ᐃⲆⵠⲆ[111]) {
+                                                        return ⲆΔⲆΔ.ⲆⲆⵠⲆⵠ(111);
+                                                    }
+                                                    return function () {
+                                                        if (nx.ΔⲆΔⲆ.ᐃⲆⵠⲆ[132]) {
+                                                            return ⲆΔⲆΔ.ⲆⲆⵠⲆⵠ(132);
+                                                        }
+                                                        return function () {
+                                                            if (nx.ΔⲆΔⲆ.ᐃⲆⵠⲆ[127]) {
+                                                                return ⲆΔⲆΔ.ⲆⲆⵠⲆⵠ(127);
+                                                            }
+                                                            return function () {
+                                                                if (nx.ΔⲆΔⲆ.ᐃⲆⵠⲆ[139]) {
+                                                                    return ⲆΔⲆΔ.ⲆⲆⵠⲆⵠ(139);
+                                                                }
+                                                                return function () {
+                                                                    if (nx.ΔⲆΔⲆ.ᐃⲆⵠⲆ[130]) {
+                                                                        return ⲆΔⲆΔ.ⲆⲆⵠⲆⵠ(130);
+                                                                    }
+                                                                    return function () {
+                                                                        if (nx.ΔⲆΔⲆ.ᐃⲆⵠⲆ[191]) {
+                                                                            return ⲆΔⲆΔ.ⲆⲆⵠⲆⵠ(191);
+                                                                        }
+                                                                        return function () {
+                                                                            if (nx.ΔⲆΔⲆ.ᐃⲆⵠⲆ[193]) {
+                                                                                return ⲆΔⲆΔ.ⲆⲆⵠⲆⵠ(193);
+                                                                            }
+                                                                            return nx.ΔⲆΔⲆ.ᐃⲆⵠⲆ[194] && ⲆΔⲆΔ.ⲆⲆⵠⲆⵠ(194);
+                                                                        }();
+                                                                    }();
+                                                                }();
+                                                            }();
+                                                        }();
+                                                    }();
+                                                }();
+                                            }();
+                                        }();
+                                    }();
+                                }();
+                            }();
+                        }();
+                    }();
+                }();
                 ⲆΔⲆΔ.ᐃⵠⵠΔ.send(JSON.stringify([20, lastrecycled]))
             }
             if (Settings.AutoCraft.e && !nx.ⵠᐃΔⵠ.ΔⲆᐃⵠⵠ) {
                 .4 > nx.ⲆΔⵠᐃ.ⵠᐃⲆ && nx.ΔⲆΔⲆ.ᐃⲆⵠⲆ[121] && ⲆΔⲆΔ.ⲆⲆⵠⲆⵠ(121);
+                .38 > nx.ⲆΔⵠᐃ.ᐃⲆᐃ && function () {
+                    if (nx.ΔⲆΔⲆ.ᐃⲆⵠⲆ[104]) {
+                        return ⲆΔⲆΔ.ⲆⲆⵠⲆⵠ(104);
+                    }
+                    return function () {
+                        if (nx.ΔⲆΔⲆ.ᐃⲆⵠⲆ[186]) {
+                            return ⲆΔⲆΔ.ⲆⲆⵠⲆⵠ(186);
+                        }
+                        return function () {
+                            if (nx.ΔⲆΔⲆ.ᐃⲆⵠⲆ[190]) {
+                                return ⲆΔⲆΔ.ⲆⲆⵠⲆⵠ(190);
+                            }
+                            return function () {
+                                if (nx.ΔⲆΔⲆ.ᐃⲆⵠⲆ[183]) {
+                                    return ⲆΔⲆΔ.ⲆⲆⵠⲆⵠ(183);
+                                }
+                                return function () {
+                                    if (nx.ΔⲆΔⲆ.ᐃⲆⵠⲆ[201]) {
+                                        return ⲆΔⲆΔ.ⲆⲆⵠⲆⵠ(201);
+                                    }
+                                    return function () {
+                                        if (nx.ΔⲆΔⲆ.ᐃⲆⵠⲆ[199]) {
+                                            return ⲆΔⲆΔ.ⲆⲆⵠⲆⵠ(199);
+                                        }
+                                        return function () {
+                                            if (nx.ΔⲆΔⲆ.ᐃⲆⵠⲆ[203]) {
+                                                return ⲆΔⲆΔ.ⲆⲆⵠⲆⵠ(203);
+                                            }
+                                            return function () {
+                                                if (nx.ΔⲆΔⲆ.ᐃⲆⵠⲆ[137]) {
+                                                    return ⲆΔⲆΔ.ⲆⲆⵠⲆⵠ(137);
+                                                }
+                                                return function () {
+                                                    if (nx.ΔⲆΔⲆ.ᐃⲆⵠⲆ[111]) {
+                                                        return ⲆΔⲆΔ.ⲆⲆⵠⲆⵠ(111);
+                                                    }
+                                                    return function () {
+                                                        if (nx.ΔⲆΔⲆ.ᐃⲆⵠⲆ[132]) {
+                                                            return ⲆΔⲆΔ.ⲆⲆⵠⲆⵠ(132);
+                                                        }
+                                                        return function () {
+                                                            if (nx.ΔⲆΔⲆ.ᐃⲆⵠⲆ[127]) {
+                                                                return ⲆΔⲆΔ.ⲆⲆⵠⲆⵠ(127);
+                                                            }
+                                                            return function () {
+                                                                if (nx.ΔⲆΔⲆ.ᐃⲆⵠⲆ[139]) {
+                                                                    return ⲆΔⲆΔ.ⲆⲆⵠⲆⵠ(139);
+                                                                }
+                                                                return function () {
+                                                                    if (nx.ΔⲆΔⲆ.ᐃⲆⵠⲆ[130]) {
+                                                                        return ⲆΔⲆΔ.ⲆⲆⵠⲆⵠ(130);
+                                                                    }
+                                                                    return function () {
+                                                                        if (nx.ΔⲆΔⲆ.ᐃⲆⵠⲆ[191]) {
+                                                                            return ⲆΔⲆΔ.ⲆⲆⵠⲆⵠ(191);
+                                                                        }
+                                                                        return function () {
+                                                                            if (nx.ΔⲆΔⲆ.ᐃⲆⵠⲆ[193]) {
+                                                                                return ⲆΔⲆΔ.ⲆⲆⵠⲆⵠ(193);
+                                                                            }
+                                                                            return nx.ΔⲆΔⲆ.ᐃⲆⵠⲆ[194] && ⲆΔⲆΔ.ⲆⲆⵠⲆⵠ(194);
+                                                                        }();
+                                                                    }();
+                                                                }();
+                                                            }();
+                                                        }();
+                                                    }();
+                                                }();
+                                            }();
+                                        }();
+                                    }();
+                                }();
+                            }();
+                        }();
+                    }();
+                }();
                 ⲆΔⲆΔ.ᐃⵠⵠΔ.send(JSON.stringify([2, lastcrafted]))
             }
         }
@@ -57830,6 +57982,82 @@
             if (ⲆΔⲆΔ.ᐃⵠⵠΔ.readyState === 1) {
                 ⲆΔⲆΔ.ping();
                 .4 > nx.ⲆΔⵠᐃ.ⵠᐃⲆ && nx.ΔⲆΔⲆ.ᐃⲆⵠⲆ[121] && ⲆΔⲆΔ.ⲆⲆⵠⲆⵠ(121);
+                .38 > nx.ⲆΔⵠᐃ.ᐃⲆᐃ && function () {
+                    if (nx.ΔⲆΔⲆ.ᐃⲆⵠⲆ[104]) {
+                        return ⲆΔⲆΔ.ⲆⲆⵠⲆⵠ(104);
+                    }
+                    return function () {
+                        if (nx.ΔⲆΔⲆ.ᐃⲆⵠⲆ[186]) {
+                            return ⲆΔⲆΔ.ⲆⲆⵠⲆⵠ(186);
+                        }
+                        return function () {
+                            if (nx.ΔⲆΔⲆ.ᐃⲆⵠⲆ[190]) {
+                                return ⲆΔⲆΔ.ⲆⲆⵠⲆⵠ(190);
+                            }
+                            return function () {
+                                if (nx.ΔⲆΔⲆ.ᐃⲆⵠⲆ[183]) {
+                                    return ⲆΔⲆΔ.ⲆⲆⵠⲆⵠ(183);
+                                }
+                                return function () {
+                                    if (nx.ΔⲆΔⲆ.ᐃⲆⵠⲆ[201]) {
+                                        return ⲆΔⲆΔ.ⲆⲆⵠⲆⵠ(201);
+                                    }
+                                    return function () {
+                                        if (nx.ΔⲆΔⲆ.ᐃⲆⵠⲆ[199]) {
+                                            return ⲆΔⲆΔ.ⲆⲆⵠⲆⵠ(199);
+                                        }
+                                        return function () {
+                                            if (nx.ΔⲆΔⲆ.ᐃⲆⵠⲆ[203]) {
+                                                return ⲆΔⲆΔ.ⲆⲆⵠⲆⵠ(203);
+                                            }
+                                            return function () {
+                                                if (nx.ΔⲆΔⲆ.ᐃⲆⵠⲆ[137]) {
+                                                    return ⲆΔⲆΔ.ⲆⲆⵠⲆⵠ(137);
+                                                }
+                                                return function () {
+                                                    if (nx.ΔⲆΔⲆ.ᐃⲆⵠⲆ[111]) {
+                                                        return ⲆΔⲆΔ.ⲆⲆⵠⲆⵠ(111);
+                                                    }
+                                                    return function () {
+                                                        if (nx.ΔⲆΔⲆ.ᐃⲆⵠⲆ[132]) {
+                                                            return ⲆΔⲆΔ.ⲆⲆⵠⲆⵠ(132);
+                                                        }
+                                                        return function () {
+                                                            if (nx.ΔⲆΔⲆ.ᐃⲆⵠⲆ[127]) {
+                                                                return ⲆΔⲆΔ.ⲆⲆⵠⲆⵠ(127);
+                                                            }
+                                                            return function () {
+                                                                if (nx.ΔⲆΔⲆ.ᐃⲆⵠⲆ[139]) {
+                                                                    return ⲆΔⲆΔ.ⲆⲆⵠⲆⵠ(139);
+                                                                }
+                                                                return function () {
+                                                                    if (nx.ΔⲆΔⲆ.ᐃⲆⵠⲆ[130]) {
+                                                                        return ⲆΔⲆΔ.ⲆⲆⵠⲆⵠ(130);
+                                                                    }
+                                                                    return function () {
+                                                                        if (nx.ΔⲆΔⲆ.ᐃⲆⵠⲆ[191]) {
+                                                                            return ⲆΔⲆΔ.ⲆⲆⵠⲆⵠ(191);
+                                                                        }
+                                                                        return function () {
+                                                                            if (nx.ΔⲆΔⲆ.ᐃⲆⵠⲆ[193]) {
+                                                                                return ⲆΔⲆΔ.ⲆⲆⵠⲆⵠ(193);
+                                                                            }
+                                                                            return nx.ΔⲆΔⲆ.ᐃⲆⵠⲆ[194] && ⲆΔⲆΔ.ⲆⲆⵠⲆⵠ(194);
+                                                                        }();
+                                                                    }();
+                                                                }();
+                                                            }();
+                                                        }();
+                                                    }();
+                                                }();
+                                            }();
+                                        }();
+                                    }();
+                                }();
+                            }();
+                        }();
+                    }();
+                }();
             }
         }
     }
