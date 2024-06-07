@@ -44191,6 +44191,8 @@
                 ef(ba[u], 125);
                 ba[u].ⵠᐃᐃᐃⲆ(ba[u].info);
             }
+
+            //yw == zb
             var l = mx.ⲆⲆΔ[18];
             for (u = 0; u < l.length; u++) {
                 if (l[u].action == 2) {
@@ -44213,6 +44215,7 @@
             for (u = 0; u < fa.length; u++) {
                 yw(fa[u], 118);
             }
+            //ef == Q
             var c = mx.ⲆⲆΔ[36];
             for (u = 0; u < c.length; u++) {
                 ef(c[u]);
@@ -44221,6 +44224,7 @@
             for (u = 0; u < m.length; u++) {
                 ef(m[u], 141);
             }
+            //yw == Q
             var p = mx.ⲆⲆΔ[3];
             for (u = 0; u < p.length; u++) {
                 yw(p[u]);
@@ -48400,15 +48404,21 @@
             attack: 0,
             ᐃⵠⲆ: function () {
                 var a = mx.ᐃⲆⵠΔᐃ[nx.ΔⵠᐃⲆ];
-                if (a) {
-                    var b = {
-                        x: nx.ᐃΔΔ.x + a.x,
-                        y: nx.ᐃΔΔ.y + a.y
-                    };
+                var c = 0;
+                if (Settings.Autofarm.e && Settings.Autofarm.a != null) {
+                    c = Settings.Autofarm.a;
                 } else {
-                    b = xo;
+                    var b;
+                    if (a) {
+                        b = {
+                            x: nx.ᐃΔΔ.x + a.x,
+                            y: nx.ᐃΔΔ.y + a.y
+                        };
+                    } else {
+                        b = xo;
+                    }
+                    c = Z.ΔᐃΔᐃᐃΔⵠ(sx.ᐃⲆᐃᐃ, b);
                 }
-                var c = Z.ΔᐃΔᐃᐃΔⵠ(sx.ᐃⲆᐃᐃ, b);
                 var d = zj;
                 this.ⵠⵠⵠⲆ += tx;
                 if (!sx.state) {
@@ -49097,6 +49107,7 @@
         return "o";
     }
     setTimeout(function b() {
+        //nati
         var c = Yf() + Hw() + Wf() + Iw();
         Math.random();
         var d = "W" + Kf() + (Math.random(), "b") + (Math.random(), "S") + jf() + (Math.random(), "c") + (Math.random(), "k") + Kf() + Wf();
@@ -50237,7 +50248,7 @@
             },
             ᐃⲆ: ΔⲆ[267],
             Δⵠᐃⵠ: Hu,
-            y: 0
+            y: 0,
         };
         this.ⲆΔᐃⵠᐃᐃᐃ = function () {
             ΔⲆⲆΔᐃ = document.getElementById("team_box");
@@ -52116,8 +52127,8 @@
         };
         this.ΔᐃⵠΔⲆⲆⲆ = function (a) {
             if (!nx.ΔⵠⲆᐃⵠ.open && !nx.ⲆⵠⵠᐃⲆ.open) {
-            if (a.code === Settings.AutoSpike.k) Settings.AutoSpike.e = false;
-        }
+                if (a.code === Settings.AutoSpike.k) Settings.AutoSpike.e = false;
+            }
             if (nx.ΔⵠⲆᐃⵠ.open && a.keyCode === 27) {
                 nx.ΔⵠⲆᐃⵠ.ᐃᐃᐃᐃⲆ();
             } else if (nx.ⲆⵠⵠᐃⲆ.open && a.keyCode === 27) {
@@ -52160,6 +52171,7 @@
             if (!nx.ΔⵠⲆᐃⵠ.open && !nx.ⲆⵠⵠᐃⲆ.open) {
                 if (8 == a.keyCode) a.preventDefault();
                 if (a.code === Settings.AutoSpike.k) Settings.AutoSpike.e = true;
+                if (a.code === Settings.Autofarm.k) Settings.Autofarm.e = !Settings.Autofarm.e;
             }
         };
         this.ᐃⵠⲆⲆΔΔΔ = function (b) {
@@ -57087,7 +57099,7 @@
             *****************
             *SCRIPT VARIABLE*
             *****************
-            */
+    */
 
     (function () {
         function e(t, r, n) {
@@ -57302,6 +57314,18 @@
             m: true,
             p: ["Reidite Spike", "Amethyst Spike", "Diamond Spike", "Gold Spike", "Stone Spike", "Wood Spike", "Wood Wall"]
         },
+        Autofarm: {
+            e: false,
+            k: "Numpad1",
+            a: null,
+            w: false,
+            x: null,
+            xx: null,
+            y: null,
+            yy: null,
+            sy: null,
+            sx: null
+        },
     };
 
     window.Utils = {
@@ -57336,6 +57360,12 @@
             gui.Register({
                 type: "folder",
                 label: "AutoSpike",
+                open: false
+            });
+
+            gui.Register({
+                type: "folder",
+                label: "AutoFarm",
                 open: false
             });
 
@@ -57424,6 +57454,86 @@
             }], {
                 folder: "AutoSpike"
             });
+
+            gui.Register([{
+                type: "checkbox",
+                label: "Start AutoFarm",
+                object: Settings.Autofarm,
+                property: "e",
+                onChange: data => {
+                    Utils.saveSettings()
+                }
+            }, {
+                type: "checkbox",
+                label: "AutoWater",
+                object: Settings.Autofarm,
+                property: "w",
+                onChange: data => {
+                    Utils.saveSettings()
+                }
+            }, {
+                type: "button",
+                label: "Top left of farm",
+                action: data => {
+                    let myPlayer = p.$Vu[m.vUU];
+                    if (myPlayer) {
+                        Settings.Autofarm.x = myPlayer.x;
+                        Settings.Autofarm.y = myPlayer.y
+                    }
+                }
+            }, {
+                type: "button",
+                label: "Bottom right of farm",
+                action: data => {
+                    let myPlayer = p.$Vu[m.vUU];
+                    if (myPlayer) {
+                        Settings.Autofarm.xx = myPlayer.x;
+                        Settings.Autofarm.yy = myPlayer.y
+                    }
+                }
+            }, {
+                type: "button",
+                label: "Safe Point",
+                action: data => {
+                    let myPlayer = p.$Vu[m.vUU];
+                    if (myPlayer) {
+                        Settings.Autofarm.sx = myPlayer.x;
+                        Settings.Autofarm.sy = myPlayer.y
+                    }
+                }
+            }, {
+                type: "display",
+                label: "X",
+                object: Settings.Autofarm,
+                property: "x"
+            }, {
+                type: "display",
+                label: "Y",
+                object: Settings.Autofarm,
+                property: "y"
+            }, {
+                type: "display",
+                label: "X1",
+                object: Settings.Autofarm,
+                property: "xx"
+            }, {
+                type: "display",
+                label: "Y1",
+                object: Settings.Autofarm,
+                property: "yy"
+            }, {
+                type: "display",
+                label: "SX",
+                object: Settings.Autofarm,
+                property: "sx"
+            }, {
+                type: "display",
+                label: "SY",
+                object: Settings.Autofarm,
+                property: "sy"
+            }], {
+                folder: "AutoFarm"
+            });
         },
         controls: null,
         controller: class {
@@ -57458,6 +57568,7 @@
         LoadHack: () => {
             window.Utils.loadSettings();
             Settings.AutoSpike.e = false;
+            Settings.Autofarm.e = false;
             window.Utils.controls = new window.Utils.controller;
             let script = document.createElement("script");
             script.onload = function () {
@@ -57478,6 +57589,21 @@
             }, 1e4)
         }
     };
+
+    function calcAngle(p1, p2, type) {
+        if (p1 && p2) {
+            if (type) return Math.atan2(p2.r.y - p1.r.y, p2.r.x - p1.r.x);
+            return Math.atan2(p2.y - p1.y, p2.x - p1.x)
+        }
+        return null
+    }
+
+    function dist2dSQRT(p1, p2) {
+        if (p1 && p2) {
+            return Math.sqrt((p1.x - p2.x) ** 2 + (p1.y - p2.y) ** 2)
+        }
+        return null
+    }
 
     function LouxInterval() {
         if (ⲆΔⲆΔ.ᐃⵠⵠΔ && ⲆΔⲆΔ.ᐃⵠⵠΔ.readyState === 1 && nx && nx.ᐃⵠΔⵠΔ) {
@@ -57527,6 +57653,127 @@
                             }
                         }
                         ⲆΔⲆΔ.ᐃⵠⵠΔ.send(JSON.stringify([15, spikeid, MYPLAYERANGLE, 0]))
+                    }
+                }
+
+                if (Settings.Autofarm.e) {
+                    let Target = {
+                        obj: null,
+                        dist: -1,
+                        type: 0
+                    };
+                    var rect1 = {
+                        x: Settings.Autofarm.x,
+                        y: Settings.Autofarm.y,
+                        width: Settings.Autofarm.xx - Settings.Autofarm.x,
+                        height: Settings.Autofarm.yy - Settings.Autofarm.y
+                    };
+                    for (var i = 0, objects = [
+                        ...mx.ⲆⲆΔ[3],
+                        ...mx.ⲆⲆΔ[37],
+                        ...mx.ⲆⲆΔ[31],
+                        ...mx.ⲆⲆΔ[39],
+                        ...mx.ⲆⲆΔ[40],
+                        ...mx.ⲆⲆΔ[44],
+                        ...mx.ⲆⲆΔ[43],
+                    ], len = objects.length, Berry = null, d = null; i < len; ++i) {
+                        Berry = objects[i];
+                        if (!Berry.info || Berry.info === 10) continue;
+                        if (!Settings.Autofarm.w && Berry.info === 16) continue;
+                        if (rect1.x < Berry.x - 50 + 100 && rect1.x + rect1.width > Berry.x - 50 && rect1.y < Berry.y - 50 + 100 && rect1.y + rect1.height > Berry.y - 50) {
+                            d = (myPlayer.x - Berry.x) ** 2 + (myPlayer.y - Berry.y) ** 2;
+                            if (Target.dist === -1 || d < Target.dist) {
+                                Target.dist = d;
+                                Target.obj = Berry
+                            }
+                        }
+                    }
+                    if (Target.obj) {
+                        Target.dist = dist2dSQRT(myPlayer, Target.obj);
+                        switch (Target.obj.info) {
+                            case 16:
+                            case 17:
+                            case 18:
+                            case 19:
+                                if (Settings.Autofarm.w) {
+                                    if (nx.ΔⲆΔⲆ.ᐃⲆⵠⲆ[49]) {
+                                        if (myPlayer.right !== 49) ⲆΔⲆΔ.ᐃⵠⵠΔ.send(JSON.stringify([16, 49]));
+                                        Target.type = 1
+                                    }
+                                } else {
+                                    if (nx.ΔⲆΔⲆ.ᐃⲆⵠⲆ[54]) {
+                                        if (myPlayer.right !== 54) {
+                                            ⲆΔⲆΔ.ᐃⵠⵠΔ.send(JSON.stringify([16, 54]))
+                                        }
+                                    } else if (nx.ΔⲆΔⲆ.ᐃⲆⵠⲆ[53]) {
+                                        if (myPlayer.right !== 53) {
+                                            ⲆΔⲆΔ.ᐃⵠⵠΔ.send(JSON.stringify([16, 53]))
+                                        }
+                                    }
+                                    Target.type = 2
+                                };
+                                break;
+                            case 1:
+                            case 2:
+                            case 3:
+                                if (nx.ΔⲆΔⲆ.ᐃⲆⵠⲆ[54]) {
+                                    if (myPlayer.right !== 54) {
+                                        ⲆΔⲆΔ.ᐃⵠⵠΔ.send(JSON.stringify([16, 54]))
+                                    }
+                                } else if (nx.ΔⲆΔⲆ.ᐃⲆⵠⲆ[53]) {
+                                    if (myPlayer.right !== 53) {
+                                        ⲆΔⲆΔ.ᐃⵠⵠΔ.send(JSON.stringify([16, 53]))
+                                    }
+                                };
+                                Target.type = 2;
+                                break
+                        }
+                        let Coors = {
+                            x: myPlayer.x - Target.obj.x,
+                            y: myPlayer.y - Target.obj.y
+                        };
+                        let CoorsABS = {
+                            x: Math.abs(myPlayer.x - Target.obj.x),
+                            y: Math.abs(myPlayer.y - Target.obj.y)
+                        };
+                        let velocity = 0;
+                        if (CoorsABS.x > 30) {
+                            if (Coors.x > 0) velocity += 1;
+                            if (Coors.x < 0) velocity += 2
+                        }
+                        if (CoorsABS.y > 30) {
+                            if (Coors.y > 0) velocity += 8;
+                            if (Coors.y < 0) velocity += 4
+                        }
+                        ⲆΔⲆΔ.ⵠᐃⲆⲆⲆⲆⵠΔᐃ(velocity);
+                        if (CoorsABS.x < (Target.type === 1 ? 120 : 300) && CoorsABS.y < (Target.type === 1 ? 120 : 300)) {
+                            Settings.Autofarm.a = calcAngle(myPlayer, Target.obj, false);
+                            let e = 2 * Math.PI;
+                            let Angle255 = ~~((Settings.Autofarm.a + e) % e * 255 / e);
+                            if (Settings.Autofarm.a) {
+                                ⲆΔⲆΔ.ᐃⵠⵠΔ.send(JSON.stringify([24, Angle255]));
+                                ⲆΔⲆΔ.ᐃⵠⵠΔ.send(JSON.stringify([36]))
+                            }
+                        }
+                    } else {
+                        let Coors = {
+                            x: myPlayer.x - Settings.Autofarm.sx,
+                            y: myPlayer.y - Settings.Autofarm.sy
+                        };
+                        let CoorsABS = {
+                            x: Math.abs(myPlayer.x - Settings.Autofarm.sx),
+                            y: Math.abs(myPlayer.y - Settings.Autofarm.sy)
+                        };
+                        let velocity = 0;
+                        if (CoorsABS.x > 50) {
+                            if (Coors.x > 0) velocity += 1;
+                            if (Coors.x < 0) velocity += 2
+                        }
+                        if (CoorsABS.y > 50) {
+                            if (Coors.y > 0) velocity += 8;
+                            if (Coors.y < 0) velocity += 4
+                        }
+                        ⲆΔⲆΔ.ⵠᐃⲆⲆⲆⲆⵠΔᐃ(velocity)
                     }
                 }
             }
