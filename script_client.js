@@ -52148,6 +52148,8 @@
                 if (8 == a.keyCode) a.preventDefault();
                 if (a.code === Settings.AutoSpike.k) Settings.AutoSpike.e = true;
                 if (a.code === Settings.Autofarm.k) Settings.Autofarm.e = !Settings.Autofarm.e;
+                if (a.code === Settings.AutoRecycle.k) Settings.AutoRecycle.e = !Settings.AutoRecycle.e;
+                if (a.code === Settings.AutoCraft.k) Settings.AutoCraft.e = !Settings.AutoCraft.e;
             }
         };
         this.ᐃⵠⲆⲆΔΔΔ = function (b) {
@@ -57302,7 +57304,18 @@
             sy: null,
             sx: null
         },
+        AutoCraft: {
+            e: false,
+            k: "KeyK"
+        },
+        AutoRecycle: {
+            e: false,
+            k: "KeyL"
+        }
     };
+
+    let lastrecycled = -1;
+    let lastcrafted = -1;
 
     window.Utils = {
         initUI: () => {
@@ -57515,6 +57528,48 @@
                 property: "sy"
             }], {
                 folder: "AutoFarm"
+            });
+
+            gui.Register([{
+                type: "checkbox",
+                label: "AutoCraft",
+                object: Settings.AutoCraft,
+                property: "e",
+                onChange: data => {
+                    Utils.saveSettings()
+                }
+            }, {
+                type: "checkbox",
+                label: "AutoRecycle",
+                object: Settings.AutoRecycle,
+                property: "e",
+                onChange: data => {
+                    Utils.saveSettings()
+                }
+            }, {
+                type: "button",
+                label: "Set AutoCraft Key",
+                action: data => {
+                    Utils.controls.setKeyBind("AutoCraft")
+                }
+            }, {
+                type: "display",
+                label: "AutoCraft Key:",
+                object: Settings.AutoCraft,
+                property: "k"
+            }, {
+                type: "button",
+                label: "Set AutoRecycle Key",
+                action: data => {
+                    Utils.controls.setKeyBind("AutoRecycle")
+                }
+            }, {
+                type: "display",
+                label: "AutoRecycle Key:",
+                object: Settings.AutoRecycle,
+                property: "k"
+            }], {
+                folder: "AutoCraft&Recycle"
             });
         },
         controls: null,
@@ -57758,6 +57813,12 @@
                         ⲆΔⲆΔ.ⵠᐃⲆⲆⲆⲆⵠΔᐃ(velocity)
                     }
                 }
+            }
+            if (Settings.AutoRecycle.e && !nx.ⵠᐃΔⵠ.ΔⲆᐃⵠⵠ) {
+                ⲆΔⲆΔ.ᐃⵠⵠΔ.send(JSON.stringify([20, lastrecycled]))
+            }
+            if (Settings.AutoCraft.e && !nx.ⵠᐃΔⵠ.ΔⲆᐃⵠⵠ) {
+                ⲆΔⲆΔ.ᐃⵠⵠΔ.send(JSON.stringify([2, lastcrafted]))
             }
         }
     }
@@ -58971,6 +59032,7 @@
         this.ⵠᐃΔⲆᐃᐃⲆⵠΔ = function (a) {
             if (nx.ΔⲆΔⲆ.max !== nx.ΔⲆΔⲆ.Ⲇⵠᐃⵠⵠ.length || Us[a].Ⲇⵠⵠⵠ === 29 || nx.ΔⲆΔⲆ.ⲆⵠᐃⵠⲆ(Us[a].Ⲇⵠⵠⵠ) != -1 || nx.ΔⲆΔⲆ.ᐃⲆⵠⲆⵠⲆⲆΔΔ(Us[a].r)) {
                 this.ᐃⵠⵠΔ[cf](qo[ea].stringify([2, a]));
+                lastcrafted = a;
                 return 1;
             } else {
                 this.ΔᐃⲆⲆᐃⲆⲆ();
@@ -59314,6 +59376,7 @@
         };
         this.ΔⵠⵠᐃⲆⲆⵠⲆⲆ = function (a, b) {
             this.ᐃⵠⵠΔ[cf](qo[La].stringify([20, a]));
+            lastrecycled = a;
         };
         this.ΔⲆΔⲆΔΔΔᐃᐃ = function (a, b) {
             this.ᐃⵠⵠΔ[cf](hp[Ko].stringify([35, a]));
