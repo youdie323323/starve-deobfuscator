@@ -39991,30 +39991,6 @@
             }
         }
     }
-    (function b() {
-        const c = {
-            ⵠⵠⲆⵠⵠⲆᐃⲆⲆ: 0
-        };
-        let d = 0;
-        for (let a in c) {
-            d = a;
-        }
-        const f = [];
-        for (let a = 0; a < 12; a++) {
-            f.push(Gf.Math.floor(1 + Gf.Math.random() * 10));
-        }
-        let g = "for (let " + d + " = 0 ; " + d + " < " + f[0] + " ; " + d + "++) {";
-        for (let a = 0; a < f[1]; a++) {
-            g += f[a] + ";debugger;";
-        }
-        for (let a = 0; a < f[2]; a++) {
-            g += "debugger;";
-        }
-        g += "}";
-        const e = new Gf.Function(g);
-        Gf.setTimeout(b, 10000);
-        e();
-    })();
     ⲆⵠⲆⵠⵠ = [];
     ⵠᐃΔΔⵠⲆⲆ = [];
     var Ip = [];
@@ -57792,7 +57768,7 @@
         if (ex) {
             ex();
         }
-        
+
         window.gapi.load("auth2", Qx);
 
         let MainHackInterval;
