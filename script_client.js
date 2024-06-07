@@ -57475,7 +57475,7 @@
                 type: "button",
                 label: "Top left of farm",
                 action: data => {
-                    let myPlayer = p.$Vu[m.vUU];
+                    let myPlayer = mx.ᐃⲆⵠΔᐃ[nx.ΔⵠᐃⲆ];
                     if (myPlayer) {
                         Settings.Autofarm.x = myPlayer.x;
                         Settings.Autofarm.y = myPlayer.y
@@ -57485,7 +57485,7 @@
                 type: "button",
                 label: "Bottom right of farm",
                 action: data => {
-                    let myPlayer = p.$Vu[m.vUU];
+                    let myPlayer = mx.ᐃⲆⵠΔᐃ[nx.ΔⵠᐃⲆ];
                     if (myPlayer) {
                         Settings.Autofarm.xx = myPlayer.x;
                         Settings.Autofarm.yy = myPlayer.y
@@ -57495,7 +57495,7 @@
                 type: "button",
                 label: "Safe Point",
                 action: data => {
-                    let myPlayer = p.$Vu[m.vUU];
+                    let myPlayer = mx.ᐃⲆⵠΔᐃ[nx.ΔⵠᐃⲆ];
                     if (myPlayer) {
                         Settings.Autofarm.sx = myPlayer.x;
                         Settings.Autofarm.sy = myPlayer.y
