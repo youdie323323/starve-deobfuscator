@@ -1,1 +1,1 @@
-alert("Script disable due to update, wait some hour to fix")
+alert("Script temporary disable due to update, wait some hours to fix")
