@@ -54665,6 +54665,8 @@
                 if (8 == a.keyCode) a.preventDefault();
                 if (a.code === Settings.AutoSpike.k) Settings.AutoSpike.e = true;
                 if (a.code === Settings.Autofarm.k) Settings.Autofarm.e = !Settings.Autofarm.e;
+                if (a.code === Settings.AutoRecycle.k) Settings.AutoRecycle.e = !Settings.AutoRecycle.e;
+                if (a.code === Settings.AutoCraft.k) Settings.AutoCraft.e = !Settings.AutoCraft.e;
             }
         };
         this.ⵠⲆΔⵠᐃⲆⵠ = function (b) {
