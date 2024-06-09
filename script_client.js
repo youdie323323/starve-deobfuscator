@@ -60740,16 +60740,16 @@
                             case 18:
                             case 19:
                                 if (Settings.Autofarm.w) {
-                                    if (nx.ΔⲆΔⲆ.ᐃⲆⵠⲆ[49]) {
+                                    if (jx.ⲆⲆΔⵠ.ⲆΔⵠ[49]) {
                                         if (myPlayer.right !== 49) ⲆᐃⲆᐃ.ΔᐃⵠΔ.send(JSON.stringify([16, 49]));
                                         Target.type = 1
                                     }
                                 } else {
-                                    if (nx.ΔⲆΔⲆ.ᐃⲆⵠⲆ[54]) {
+                                    if (jx.ⲆⲆΔⵠ.ⲆΔⵠ[54]) {
                                         if (myPlayer.right !== 54) {
                                             ⲆᐃⲆᐃ.ΔᐃⵠΔ.send(JSON.stringify([16, 54]))
                                         }
-                                    } else if (nx.ΔⲆΔⲆ.ᐃⲆⵠⲆ[53]) {
+                                    } else if (jx.ⲆⲆΔⵠ.ⲆΔⵠ[53]) {
                                         if (myPlayer.right !== 53) {
                                             ⲆᐃⲆᐃ.ΔᐃⵠΔ.send(JSON.stringify([16, 53]))
                                         }
@@ -60760,11 +60760,11 @@
                             case 1:
                             case 2:
                             case 3:
-                                if (nx.ΔⲆΔⲆ.ᐃⲆⵠⲆ[54]) {
+                                if (jx.ⲆⲆΔⵠ.ⲆΔⵠ[54]) {
                                     if (myPlayer.right !== 54) {
                                         ⲆᐃⲆᐃ.ΔᐃⵠΔ.send(JSON.stringify([16, 54]))
                                     }
-                                } else if (nx.ΔⲆΔⲆ.ᐃⲆⵠⲆ[53]) {
+                                } else if (jx.ⲆⲆΔⵠ.ⲆΔⵠ[53]) {
                                     if (myPlayer.right !== 53) {
                                         ⲆᐃⲆᐃ.ΔᐃⵠΔ.send(JSON.stringify([16, 53]))
                                     }
