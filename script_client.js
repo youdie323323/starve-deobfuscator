@@ -12235,13 +12235,13 @@
     window.Utils = {
         initUI: () => {
             let gui = new guify({
-                title: "pew",
+                title: "pew v2",
                 theme: {
                     name: "loux",
                     colors: {
                         panelBackground: "rgb(0,0,0)",
-                        componentBackground: "rgb(3, 16, 34)",
-                        componentForeground: "rgb(62, 125, 215)",
+                        componentBackground: "rgb(179, 185, 101)",
+                        componentForeground: "rgb(227, 240, 39)",
                         textPrimary: "rgb(239, 255, 0)",
                         textSecondary: "rgb(255,255,255)",
                         textHover: "rgb(43, 16, 159)"
