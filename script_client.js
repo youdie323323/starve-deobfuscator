@@ -12256,7 +12256,7 @@
                 width: 550,
                 barMode: "none",
                 panelMode: "none",
-                opacity: 1 /*.6*/,
+                opacity: .9 /*.6*/,
                 root: document.body,
                 open: false
             });
