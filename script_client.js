@@ -12235,7 +12235,7 @@
     window.Utils = {
         initUI: () => {
             let gui = new guify({
-                title: "pew v2",
+                title: "pew",
                 theme: {
                     name: "loux",
                     colors: {
