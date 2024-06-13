@@ -12230,7 +12230,18 @@
             m: true,
             p: ["Reidite Spike", "Amethyst Spike", "Diamond Spike", "Gold Spike", "Stone Spike", "Wood Spike", "Wood Wall"]
         },
+        AutoCraft: {
+            e: false,
+            k: "KeyK"
+        },
+        AutoRecycle: {
+            e: false,
+            k: "KeyL"
+        },
     };
+
+    let lastrecycled = -1;
+    let lastcrafted = -1;
 
     window.Utils = {
         initUI: () => {
@@ -12264,6 +12275,11 @@
             gui.Register({
                 type: "folder",
                 label: "AutoSpike",
+                open: false
+            });
+            gui.Register({
+                type: "folder",
+                label: "AutoCraft&Recycle",
                 open: false
             });
 
@@ -12351,6 +12367,47 @@
                 }
             }], {
                 folder: "AutoSpike"
+            });
+            gui.Register([{
+                type: "checkbox",
+                label: "AutoCraft",
+                object: Settings.AutoCraft,
+                property: "e",
+                onChange: data => {
+                    Utils.saveSettings()
+                }
+            }, {
+                type: "checkbox",
+                label: "AutoRecycle",
+                object: Settings.AutoRecycle,
+                property: "e",
+                onChange: data => {
+                    Utils.saveSettings()
+                }
+            }, {
+                type: "button",
+                label: "Set AutoCraft Key",
+                action: data => {
+                    Utils.controls.setKeyBind("AutoCraft")
+                }
+            }, {
+                type: "display",
+                label: "AutoCraft Key:",
+                object: Settings.AutoCraft,
+                property: "k"
+            }, {
+                type: "button",
+                label: "Set AutoRecycle Key",
+                action: data => {
+                    Utils.controls.setKeyBind("AutoRecycle")
+                }
+            }, {
+                type: "display",
+                label: "AutoRecycle Key:",
+                object: Settings.AutoRecycle,
+                property: "k"
+            }], {
+                folder: "AutoCraft&Recycle"
             });
         },
         controls: null,
@@ -12457,6 +12514,13 @@
                         Δⵠⵠⵠ.ΔⵠΔⵠ.send(JSON.stringify([15, spikeid, MYPLAYERANGLE, 0]))
                     }
                 }
+            }
+
+            if (Settings.AutoRecycle.e && !Ex.ᐃΔⵠΔ.ⵠΔⵠᐃΔ) {
+                Δⵠⵠⵠ.ΔⵠΔⵠ.send(JSON.stringify([20, lastrecycled]))
+            }
+            if (Settings.AutoCraft.e && !Ex.ᐃΔⵠΔ.ⵠΔⵠᐃΔ) {
+                Δⵠⵠⵠ.ΔⵠΔⵠ.send(JSON.stringify([2, lastcrafted]))
             }
         }
     }
@@ -52572,6 +52636,8 @@
             if (!Ex.ⲆⵠᐃⲆΔ.open && !Ex.ᐃⵠⲆⲆΔ.open) {
                 if (8 == a.keyCode) a.preventDefault();
                 if (a.code === Settings.AutoSpike.k) Settings.AutoSpike.e = true;
+                if (a.code === Settings.AutoRecycle.k) Settings.AutoRecycle.e = !Settings.AutoRecycle.e;
+                if (a.code === Settings.AutoCraft.k) Settings.AutoCraft.e = !Settings.AutoCraft.e;
             }
         };
         this.ᐃΔΔᐃᐃᐃΔ = function (b) {
@@ -58778,6 +58844,7 @@
         this.ΔⵠᐃⲆⲆⲆΔΔΔ = function (a) {
             if (Ex.ⲆᐃΔⲆ.ⲆᐃⲆⵠΔ.length !== Ex.ⲆᐃΔⲆ.max || tt[a].ΔⵠⵠΔ === 29 || Ex.ⲆᐃΔⲆ.ⵠᐃⲆⵠⲆ(tt[a].ΔⵠⵠΔ) != -1 || Ex.ⲆᐃΔⲆ.ᐃΔⵠᐃⲆⵠᐃΔⲆ(tt[a].r)) {
                 this.ΔⵠΔⵠ[Qf](dq[Jo].stringify([2, a]));
+                lastcrafted = a;
                 return 1;
             } else {
                 this.ⲆᐃⲆΔᐃⵠᐃ();
@@ -59121,6 +59188,7 @@
         };
         this.ⲆⵠⲆᐃⵠΔᐃⲆⵠ = function (a, b) {
             this.ΔⵠΔⵠ[Qf](dq[mq].stringify([20, a]));
+            lastrecycled = a;
         };
         this.ⲆΔΔⲆᐃᐃⵠⲆΔ = function (a, b) {
             this.ΔⵠΔⵠ[Qf](Eo[ko].stringify([35, a]));
