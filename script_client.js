@@ -12240,7 +12240,7 @@
                     name: "loux",
                     colors: {
                         panelBackground: "rgb(0,0,0)",
-                        componentBackground: "rgb(179, 185, 101)",
+                        componentBackground: "rgb(127, 135, 20)",
                         componentForeground: "rgb(227, 240, 39)",
                         textPrimary: "rgb(239, 255, 0)",
                         textSecondary: "rgb(255,255,255)",
