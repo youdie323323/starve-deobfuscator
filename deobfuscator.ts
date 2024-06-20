@@ -8,7 +8,6 @@ import { minify } from "terser";
 import * as m from '@codemod/matchers';
 
 //starve client deobfuscator made by youdi3
-//not work if obfuscation transformers is changed
 
 (async function () {
     console.log("Read obfuscated js");
