@@ -8,4 +8,5 @@ download obfuscated build from starve.io, then place it to input folder as obfus
 `npx tsx deobfuscator`  
 
 
-its not work if lapa update obfuscator, you can open issue if this deobfuscator not work.
+its not work if lapa update obfuscator, you can open issue if this deobfuscator not work.  
+maybe its work with taming & devast but i not sure its work
