@@ -7,10 +7,10 @@ import { webcrack } from 'webcrack';
 import { minify } from "terser";
 import * as m from '@codemod/matchers';
 
-//starve client deobfuscator made by youdi3
+// Starve client deobfuscator made by youdi3
 
 (async function () {
-    console.log("Read obfuscated js");
+    console.log("Read obfuscated build");
 
     const code = readFileSync("./input/obfuscated.js").toString();
 
@@ -47,41 +47,6 @@ import * as m from '@codemod/matchers';
         return mapCloned;
     };
     
-    //deprecated. cause a bug
-/*
-    traverse(ast, {
-        //taken from webcrack
-        ForInStatement: {
-            exit(path) {
-                const sequence = m.capture(m.sequenceExpression());
-                const matcher = m.forInStatement(m.anything(), sequence);
-                if (!matcher.match(path.node)) return;
-
-                const { expressions } = sequence.current!;
-                path.node.right = expressions.pop()!;
-                const statements = expressions.map(t.expressionStatement);
-                path.insertBefore(statements);
-            },
-        },
-    });
-
-    traverse(ast, {
-        AssignmentExpression(path) {
-            if (t.isObjectExpression(path.node.right)) {
-                const left = path.node.left;
-                if (t.isIdentifier(left)) {
-                    const binding = path.scope.getBinding(left.name);
-                    if (!binding) {
-                        path.insertBefore(
-                            t.variableDeclaration("var", [t.variableDeclarator(t.identifier(left.name))])
-                        );
-                    }
-                }
-            }
-        }
-    })
-*/
-
     let encodedChars: number[][] = [];
     let encodedCharsName = "";
     let alreadyPassed = false;
@@ -192,7 +157,6 @@ import * as m from '@codemod/matchers';
                     }
                 });
                 alreadyPassed2 = true;
-                //path.remove();
             }
         },
     });
@@ -491,7 +455,6 @@ import * as m from '@codemod/matchers';
                 }
             }
 
-            //eval crasher (ig)
             if (
                 path.node != null &&
                 path.node.alternate == null &&
