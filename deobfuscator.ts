@@ -495,8 +495,7 @@ import { minify } from "terser";
                 }
                 path.remove();
             }
-        },
-        UnaryExpression(path) {
+
             //function Sz(i) {
             //    return e.String.fromCharCode(i);
             //}
@@ -518,16 +517,15 @@ import { minify } from "terser";
             //}();
             if (
                 path.node != null &&
-                path.node.operator == "!" &&
-                t.isCallExpression(path.node.argument) &&
-                t.isFunctionExpression(path.node.argument.callee) &&
-                path.node.argument.callee.body.body.length == 2 &&
-                t.isVariableDeclaration(path.node.argument.callee.body.body[0]) &&
-                path.node.argument.callee.body.body[0].declarations.length == 1 &&
-                t.isObjectExpression(path.node.argument.callee.body.body[0].declarations[0].init) &&
-                t.isIfStatement(path.node.argument.callee.body.body[1])
+                t.isFunctionExpression(path.node.callee) &&
+                path.node.callee.body.body.length == 2 &&
+                t.isVariableDeclaration(path.node.callee.body.body[0]) &&
+                path.node.callee.body.body[0].declarations.length == 1 &&
+                t.isObjectExpression(path.node.callee.body.body[0].declarations[0].init) &&
+                t.isIfStatement(path.node.callee.body.body[1])
             ) {
-                path.remove();
+                const ifS = path.node.callee.body.body[1];
+                path.node.callee.body.body = path.node.callee.body.body.filter(item => item !== ifS);
             }
         },
         ExpressionStatement(path) {
