@@ -8,4 +8,6 @@ To use the deobfuscator, follow these steps:
 
 Please note that this deobfuscator may not work if the obfuscator used by starve.io is updated. If you encounter any issues, feel free to open an issue for support. It might also work with taming.io and devast.io, but this is not guaranteed.
 
-## Currently fully work, you can override deobfuscated client with original client
+### Currently fully work, you can override deobfuscated client with original client  
+
+> By chatgpt
