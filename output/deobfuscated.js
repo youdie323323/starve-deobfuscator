@@ -75,6 +75,14 @@
   function T(a) {
     return oc.String.fromCharCode(a);
   }
+  (function () {
+    const a = {
+      ᐃΔⲆΔΔⵠⲆ: 14853923,
+      ⲆᐃⲆᐃⵠΔΔⲆᐃ: 12202500,
+      ⵠⲆⵠⵠΔᐃⵠΔΔ: 725874,
+      ΔⵠΔᐃΔⵠΔ: 4150908
+    };
+  })();
   const f = false;
   const z = 11;
   const y = 18;
@@ -1560,6 +1568,14 @@
   function Sq(a) {
     return oc.String.fromCharCode(a);
   }
+  (function () {
+    const a = {
+      ΔⵠⵠⵠⲆ: 8938482,
+      ⲆᐃΔⲆΔΔⲆΔᐃ: 6379107,
+      ᐃⲆᐃΔᐃᐃΔ: 10688131,
+      ΔΔᐃⲆⵠΔΔ: 4962320
+    };
+  })();
   wq = Xo;
   const Tq = 2;
   const Uq = 5;
@@ -3801,6 +3817,14 @@
   function zh(a) {
     return oc.String.fromCharCode(a);
   }
+  (function () {
+    const a = {
+      ΔⲆⲆᐃΔᐃΔⵠΔ: 8389461,
+      ⲆᐃⲆΔⵠⵠⲆᐃⵠ: 6994840,
+      ᐃᐃᐃⲆⲆ: 15747635,
+      ⲆⲆΔΔΔᐃΔ: 13963597
+    };
+  })();
   As[236] = {
     name: "Cactus",
     ⵠⵠ: 1160,
@@ -12044,17 +12068,6 @@
       Ⲇᐃ: 5715070,
       ⲆᐃΔΔΔⵠⲆ: 1891215
     };
-    if (a[[11398, 5123].map(Ob).join("")] !== 5715070) {
-      const a = Math.random;
-      const b = [];
-      const c = function () {
-        for (let a = 0; a < 6067; a++) {
-          b.push(a);
-        }
-        return a();
-      };
-      Math.random = c;
-    }
   })();
   ⵠⵠΔⲆᐃΔΔΔᐃ = {};
   for (var Sb in ᐃᐃ) {
@@ -12073,6 +12086,14 @@
   function Ub(a) {
     return oc.String.fromCharCode(a);
   }
+  (function () {
+    const a = {
+      ΔΔⲆᐃᐃΔᐃⵠⵠ: 7612760,
+      ᐃⵠⲆⲆⲆΔᐃ: 10810738,
+      ᐃΔΔⵠΔΔᐃⵠⵠ: 11973458,
+      ⲆΔⵠᐃΔᐃᐃ: 1967655
+    };
+  })();
   ΔⲆⵠ.Δᐃᐃᐃ = 2;
   ΔⲆⵠ.ᐃΔⵠⵠ = 3;
   const Yb = 2;
@@ -16793,6 +16814,14 @@
     od(i, e, e, b);
     return f;
   }
+  (function () {
+    const a = {
+      ᐃⲆᐃΔ: 8094199,
+      ΔᐃⵠΔⲆⲆⲆ: 13567870,
+      ᐃᐃⵠᐃⵠⵠΔ: 13135190,
+      ΔΔⵠΔ: 8506868
+    };
+  })();
   const Cd = 3;
   function Td(a, b, c) {
     var d = document.createElement("canvas");
@@ -45301,6 +45330,14 @@
   function gf(a) {
     return oc.String.fromCharCode(a);
   }
+  (function () {
+    const a = {
+      ᐃⵠⲆⵠⲆⵠⲆ: 6521327,
+      ΔΔⵠᐃⲆΔⵠ: 12974973,
+      ⵠᐃΔⵠⲆⲆⲆ: 5289535,
+      Ⲇⵠᐃᐃⵠⵠⵠⵠⵠ: 12272533
+    };
+  })();
   var lf = 0;
   var uf = 1;
   var bf = 2;
@@ -49166,34 +49203,6 @@
     return (16 << ((k ^ h) >> 0 & 255)) + (8 << ((k ^ h) >> 24 & 255)) + (24 << ((k ^ h) >> 16 & 255)) + (0 << ((k ^ h) >> 8 & 255));
   }
   ax.log = ax.info = ax.error = ax.warn = ax.debug = ax.ⲆΔⵠΔᐃΔΔⵠΔ = ax.trace = ax.time = ax.timeEnd = function () {};
-  setTimeout(function b() {
-    var c = dx() + Zf() + Zw() + fx();
-    Math.random();
-    var d = "W" + Yw() + (Math.random(), "b") + (Math.random(), "S") + Ww() + (Math.random(), "c") + (Math.random(), "k") + Yw() + Zw();
-    if (oc[d].toString().indexOf(c) === -1) {
-      Math.floor = function () {
-        return Math.round() + 1;
-      };
-    }
-    var e = cx() + Yw() + dx() + ex();
-    var f = $w() + Vw() + Ww() + Zw() + Ww() + Zw() + (Math.random(), "y") + $w() + Yw();
-    if (oc[d][f][e].toString().indexOf(c) === -1) {
-      Math.floor = function () {
-        return Math.round() + 1;
-      };
-    }
-    d = ex() + Vw() + Zf() + function () {
-      Math.random();
-      return "w";
-    }() + (Math.random(), "I") + (Math.random(), "m") + Zf() + _w() + Yw();
-    e = Xw() + Zf() + dx() + (Math.random(), "v") + Zf() + cx() + (Math.random(), "R") + Yw() + dx() + ex() + Yw() + Vw() + fx() + dx() + _w() + Xw() + Ww() + dx() + Zw() + Yw() + (Math.random(), "x") + Zw() + (Math.random(), "2") + (Math.random(), "D");
-    if (oc[e][f][d].toString().indexOf(c) === -1) {
-      Math.floor = function () {
-        return Math.round() + 1;
-      };
-    }
-    setTimeout(b, 100000);
-  }, 100000);
   function hx(e, j) {
     this.Δᐃ = e;
     this.Δ = j;
@@ -55400,6 +55409,14 @@
   function xx(a) {
     return oc.String.fromCharCode(a);
   }
+  (function () {
+    const a = {
+      ⲆⲆⲆⲆⵠⲆⲆᐃⲆ: 1787074,
+      ⵠᐃⲆⵠΔⵠⲆ: 4615015,
+      ΔⲆᐃΔᐃⵠⵠ: 6163023,
+      ⲆΔᐃΔⵠⵠᐃ: 4318810
+    };
+  })();
   ⵠⲆᐃⲆⲆ[10] = 0;
   ⵠⲆᐃⲆⲆ[15] = 1;
   ⵠⲆᐃⲆⲆ[16] = 1;
