@@ -10,7 +10,7 @@ Follow these steps to enable google login:
     ```
     Copy this code and delete the onload assignment.
 
-3. Paste the copied code into the function that runs when WebAssembly is loaded, and use `await` to call it.
+3. Paste the copied code into the function that runs when WebAssembly is loaded, and make pasted call await.
 
 Done. You can now log in with Google.
 
