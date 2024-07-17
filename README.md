@@ -8,4 +8,4 @@ To use the deobfuscator, follow these steps:
 
 Please note that this deobfuscator may not work if the obfuscator used by starve.io is updated. If you encounter any issues, feel free to open an issue for support. It might also work with taming.io and devast.io, but this is not guaranteed.
 
-## Currently broken, will find the issue
+## Currently broken, will find the issue (sometime screen is bugging)
