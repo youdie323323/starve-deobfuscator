@@ -1,6 +1,6 @@
 # How to Enable Google Login
 
-Follow these steps to enable Google login by making the WebAssembly on-ready function asynchronous:
+Follow these steps to enable google login:
 
 1. Make the WebAssembly on-ready function asynchronous (async) and make on-ready call as await.
 
