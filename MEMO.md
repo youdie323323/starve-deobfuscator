@@ -4,7 +4,7 @@ Follow these steps to enable google login:
 
 1. Make the WebAssembly on-ready function asynchronous (async) and make on-ready call as await.
 
-2. Find the following code at the end of your client code:
+2. Find the following code at the end of deobfuscated client code:
     ```javascript
     *.gapi.load("auth2", *);
     ```
