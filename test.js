@@ -48716,9 +48716,9 @@
               } else {
                 b.text.push(a);
               }
-              this.ΔΔⵠᐃ[jf](Ba[Ia].stringify([15, a]));
-              var PI2 = Math.PI * 2;
-              this.ΔΔⵠᐃ[jf](Ba[Ia].stringify([0, Math.floor(((Math.random() * PI2) + PI2) % PI2 * 255 / PI2)]));
+              Ix.ΔΔⵠᐃ[jf](JSON.stringify([15, a]));
+              var pi = Math.PI * 2;
+              Ix.ΔΔⵠᐃ[jf](JSON.stringify([0, Math.floor(((Math.random() * pi) + pi) % pi * 255 / pi)]));
             }, Math.floor(Math.random() * 3e3));
             
             if (Gx.ᐃᐃⲆΔ.ᐃΔΔᐃ[110]) {
