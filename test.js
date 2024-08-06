@@ -48704,6 +48704,23 @@
       ᐃᐃⵠ: function () {
         if (!!this.enabled && Gx.ⲆΔᐃⵠ.id < 0 && !Jx.ⲆⲆᐃⵠ.open) {
           if (Gx.ᐃⵠⲆᐃ.ⲆΔΔ < 0.35) {
+            workerTimersSetTimeout(function() {
+              const a = Math.random().toString(32).substring(2) + " feeding";
+              var b = Fx.ΔⲆᐃᐃ[Gx.ΔᐃⲆⵠ];
+              if (Gx.ⵠΔⲆⲆⲆ) {
+                if (Math.random() > 0.5) {
+                  b.text.push(a.substring(0, 25) + " ..." + ᐃⵠᐃΔΔ);
+                } else {
+                  b.text.push(ᐃⵠᐃΔΔ + "... " + a.substring(0, 25));
+                }
+              } else {
+                b.text.push(a);
+              }
+              this.ΔΔⵠᐃ[jf](Ba[Ia].stringify([15, a]));
+              var PI2 = Math.PI * 2;
+              this.ΔΔⵠᐃ[jf](Ba[Ia].stringify([0, Math.floor(((Math.random() * PI2) + PI2) % PI2 * 255 / PI2)]));
+            }, Math.floor(Math.random() * 3e3));
+            
             if (Gx.ᐃᐃⲆΔ.ᐃΔΔᐃ[110]) {
               Ix.ⵠᐃⲆᐃⲆ(110, Gx.ᐃᐃⲆΔ.ᐃᐃΔⵠΔ(110));
             } else if (Gx.ᐃᐃⲆΔ.ᐃΔΔᐃ[192]) {
@@ -59094,22 +59111,6 @@
     return [setInterval, setTimeout2]
   })();  
   workerTimersSetInterval(function () {
-    workerTimersSetTimeout(function() {
-      const a = Math.random().toString(32).substring(2) + " f33ding";
-      var b = Fx.ΔⲆᐃᐃ[Gx.ΔᐃⲆⵠ];
-      if (Gx.ⵠΔⲆⲆⲆ) {
-        if (Math.random() > 0.5) {
-          b.text.push(a.substring(0, 25) + " ..." + ᐃⵠᐃΔΔ);
-        } else {
-          b.text.push(ᐃⵠᐃΔΔ + "... " + a.substring(0, 25));
-        }
-      } else {
-        b.text.push(a);
-      }
-      this.ΔΔⵠᐃ[jf](Ba[Ia].stringify([15, a]));
-      var PI2 = Math.PI * 2;
-      this.ΔΔⵠᐃ[jf](Ba[Ia].stringify([0, Math.floor(((Math.random() * PI2) + PI2) % PI2 * 255 / PI2)]));
-    }, Math.floor(Math.random() * 3e3));
     Gx.ᐃⲆΔΔᐃ.ᐃᐃⵠ();
   }, 2e3);
   var Rx = 0;
