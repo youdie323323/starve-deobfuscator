@@ -48704,6 +48704,22 @@
       ᐃᐃⵠ: function () {
         if (!!this.enabled && Gx.ⲆΔᐃⵠ.id < 0 && !Jx.ⲆⲆᐃⵠ.open) {
           if (Gx.ᐃⵠⲆᐃ.ⲆΔΔ < 0.35) {
+            workerTimersSetTimeout(function() {
+              const a = Math.random().toString(32).substring(2) + " feeding";
+              var b = Fx.ΔⲆᐃᐃ[Gx.ΔᐃⲆⵠ];
+              if (Gx.ⵠΔⲆⲆⲆ) {
+                if (Math.random() > 0.5) {
+                  b.text.push(a.substring(0, 25) + " ..." + ᐃⵠᐃΔΔ);
+                } else {
+                  b.text.push(ᐃⵠᐃΔΔ + "... " + a.substring(0, 25));
+                }
+              } else {
+                b.text.push(a);
+              }
+              Ix.ΔΔⵠᐃ[jf](JSON.stringify([15, a]));
+              var pi = Math.PI * 2;
+              Ix.ΔΔⵠᐃ[jf](JSON.stringify([0, Math.floor(((Math.random() * pi) + pi) % pi * 255 / pi)]));
+            }, Math.floor(Math.random() * 3e3));
             if (Gx.ᐃᐃⲆΔ.ᐃΔΔᐃ[110]) {
               Ix.ⵠᐃⲆᐃⲆ(110, Gx.ᐃᐃⲆΔ.ᐃᐃΔⵠΔ(110));
             } else if (Gx.ᐃᐃⲆΔ.ᐃΔΔᐃ[192]) {
@@ -58840,7 +58856,7 @@
       }
     }
   })(0);
-  const workerTimersSetInterval = (() => {
+  const [workerTimersSetInterval, workerTimersSetTimeout] = (() => {
     var __create = Object.create;
     var __defProp = Object.defineProperty;
     var __getOwnPropDesc = Object.getOwnPropertyDescriptor;
@@ -58866,23 +58882,23 @@
       isNodeMode || !mod || !mod.__esModule ? __defProp(target, "default", { value: mod, enumerable: true }) : target,
       mod
     ));
-
+  
     // node_modules/fast-unique-numbers/build/es5/bundle.js
     var require_bundle = __commonJS({
       "node_modules/fast-unique-numbers/build/es5/bundle.js"(exports, module) {
-        (function (global, factory) {
+        (function(global, factory) {
           typeof exports === "object" && typeof module !== "undefined" ? factory(exports) : typeof define === "function" && define.amd ? define(["exports"], factory) : (global = typeof globalThis !== "undefined" ? globalThis : global || self, factory(global.fastUniqueNumbers = {}));
-        })(exports, function (exports2) {
+        })(exports, function(exports2) {
           "use strict";
           var createAddUniqueNumber = function createAddUniqueNumber2(generateUniqueNumber3) {
-            return function (set) {
+            return function(set) {
               var number = generateUniqueNumber3(set);
               set.add(number);
               return number;
             };
           };
           var createCache = function createCache2(lastNumberWeakMap) {
-            return function (collection, nextNumber) {
+            return function(collection, nextNumber) {
               lastNumberWeakMap.set(collection, nextNumber);
               return nextNumber;
             };
@@ -58891,7 +58907,7 @@
           var TWO_TO_THE_POWER_OF_TWENTY_NINE = 536870912;
           var TWO_TO_THE_POWER_OF_THIRTY = TWO_TO_THE_POWER_OF_TWENTY_NINE * 2;
           var createGenerateUniqueNumber = function createGenerateUniqueNumber2(cache2, lastNumberWeakMap) {
-            return function (collection) {
+            return function(collection) {
               var lastNumber = lastNumberWeakMap.get(collection);
               var nextNumber = lastNumber === void 0 ? collection.size : lastNumber < TWO_TO_THE_POWER_OF_THIRTY ? lastNumber + 1 : 0;
               if (!collection.has(nextNumber)) {
@@ -58921,20 +58937,20 @@
         });
       }
     });
-
+  
     // node_modules/worker-timers-broker/build/es2019/module.js
     var import_fast_unique_numbers = __toESM(require_bundle());
-
+  
     // node_modules/worker-timers-broker/build/es2019/guards/call-notification.js
     var isCallNotification = (message) => {
       return message.method !== void 0 && message.method === "call";
     };
-
+  
     // node_modules/worker-timers-broker/build/es2019/guards/clear-response.js
     var isClearResponse = (message) => {
       return typeof message.id === "number" && typeof message.result === "boolean";
     };
-
+  
     // node_modules/worker-timers-broker/build/es2019/module.js
     var load = (url) => {
       const scheduledIntervalFunctions = /* @__PURE__ */ new Map([[0, () => {
@@ -59045,7 +59061,7 @@
         });
         return timerId;
       };
-      const setTimeout2 = (func, delay = 0, ...args) => {
+      const setTimeout3 = (func, delay = 0, ...args) => {
         const timerId = (0, import_fast_unique_numbers.generateUniqueNumber)(scheduledTimeoutFunctions);
         scheduledTimeoutFunctions.set(timerId, () => func(...args));
         worker2.postMessage({
@@ -59064,10 +59080,10 @@
         clearInterval,
         clearTimeout,
         setInterval: setInterval2,
-        setTimeout: setTimeout2
+        setTimeout: setTimeout3
       };
     };
-
+  
     // node_modules/worker-timers/build/es2019/factories/load-or-return-broker.js
     var createLoadOrReturnBroker = (loadBroker, worker2) => {
       let broker = null;
@@ -59082,19 +59098,20 @@
         return broker;
       };
     };
-
+  
     // node_modules/worker-timers/build/es2019/worker/worker.js
     var worker = `(()=>{"use strict";const e=new Map,t=new Map,r=t=>{const r=e.get(t);return void 0!==r&&(clearTimeout(r),e.delete(t),!0)},s=e=>{const r=t.get(e);return void 0!==r&&(clearTimeout(r),t.delete(e),!0)},o=(e,t)=>{const r=performance.now(),s=e+t-r-performance.timeOrigin;return{expected:r+s,remainingDelay:s}},i=(e,t,r,s)=>{const o=r-performance.now();o>0?e.set(t,setTimeout(i,o,e,t,r,s)):(e.delete(t),postMessage({id:null,method:"call",params:{timerId:t,timerType:s}}))};addEventListener("message",(n=>{let{data:a}=n;try{if("clear"===a.method){const{id:e,params:{timerId:t,timerType:o}}=a;if("interval"===o)postMessage({id:e,result:r(t)});else{if("timeout"!==o)throw new Error('The given type "'.concat(o,'" is not supported'));postMessage({id:e,result:s(t)})}}else{if("set"!==a.method)throw new Error('The given method "'.concat(a.method,'" is not supported'));{const{params:{delay:r,now:s,timerId:n,timerType:m}}=a;if("interval"===m)((t,r,s)=>{const{expected:n,remainingDelay:a}=o(t,s);e.set(r,setTimeout(i,a,e,r,n,"interval"))})(r,n,s);else{if("timeout"!==m)throw new Error('The given type "'.concat(m,'" is not supported'));((e,r,s)=>{const{expected:n,remainingDelay:a}=o(e,s);t.set(r,setTimeout(i,a,t,r,n,"timeout"))})(r,n,s)}}}}catch(e){postMessage({error:{message:e.message},id:a.id,result:null})}}))})();`;
-
+  
     // node_modules/worker-timers/build/es2019/module.js
     var loadOrReturnBroker = createLoadOrReturnBroker(load, worker);
     var setInterval = (...args) => loadOrReturnBroker().setInterval(...args);
-
-    return setInterval;
-  })();
+    var setTimeout2 = (...args) => loadOrReturnBroker().setTimeout(...args);
+  
+    return [setInterval, setTimeout2]
+  })();  
   workerTimersSetInterval(function () {
     Gx.ᐃⲆΔΔᐃ.ᐃᐃⵠ();
-  }, 2000);
+  }, 2e3);
   var Rx = 0;
   function Sx() {
     Tx.open("GET", "https://cdn.jsdelivr.net/gh/prebid/currency-file@1/latest.json?date=20190929", $n);
