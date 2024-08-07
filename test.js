@@ -54969,11 +54969,11 @@
       Ix.ⵠΔᐃᐃⵠΔⵠⲆⵠ();
     };
     this.ⲆᐃᐃⲆ = function () {
-      /*if (!Gx.reconnect.enabled && Gx.ⲆᐃᐃⲆⲆ) {
-        this.ⵠᐃΔᐃᐃⲆⵠᐃΔ();
-      }
+      //if (!Gx.reconnect.enabled && Gx.ⲆᐃᐃⲆⲆ) {
+      //  this.ⵠᐃΔᐃᐃⲆⵠᐃΔ();
+      //}
       Kx.ᐃⲆⵠⵠᐃᐃᐃΔⵠ();
-      this.ⲆᐃᐃⵠⵠΔᐃⵠⵠ();*/
+      this.ⲆᐃᐃⵠⵠΔᐃⵠⵠ();
       if (Ex.ⵠⲆⲆΔⵠⲆᐃ !== 1) {
         this.ⵠⲆⲆΔᐃΔⲆⲆⵠ();
         this.ᐃᐃᐃΔΔΔΔΔⲆ();
@@ -59100,8 +59100,6 @@
     if (!Gx.reconnect.enabled && Gx.ⲆᐃᐃⲆⲆ) {
       Jx.ⵠᐃΔᐃᐃⲆⵠᐃΔ();
     }
-    Kx.ᐃⲆⵠⵠᐃᐃᐃΔⵠ();
-    Jx.ⲆᐃᐃⵠⵠΔᐃⵠⵠ();
   }, 6);
   var Rx = 0;
   function Sx() {
