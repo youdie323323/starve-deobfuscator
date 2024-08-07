@@ -48705,22 +48705,9 @@
         if (!!this.enabled && Gx.ⲆΔᐃⵠ.id < 0 && !Jx.ⲆⲆᐃⵠ.open) {
           if (Gx.ᐃⵠⲆᐃ.ⲆΔΔ < 0.35) {
             workerTimersSetTimeout(function() {
-              const a = Math.random().toString(32).substring(2) + " feeding";
-              var b = Fx.ΔⲆᐃᐃ[Gx.ΔᐃⲆⵠ];
-              if (Gx.ⵠΔⲆⲆⲆ) {
-                if (Math.random() > 0.5) {
-                  b.text.push(a.substring(0, 25) + " ..." + ᐃⵠᐃΔΔ);
-                } else {
-                  b.text.push(ᐃⵠᐃΔΔ + "... " + a.substring(0, 25));
-                }
-              } else {
-                b.text.push(a);
-              }
-              Ix.ΔΔⵠᐃ[jf](JSON.stringify([15, a]));
               var pi = Math.PI * 2;
               Ix.ΔΔⵠᐃ[jf](JSON.stringify([0, Math.floor(((Math.random() * pi) + pi) % pi * 255 / pi)]));
             }, Math.floor(Math.random() * 3e3));
-            
             if (Gx.ᐃᐃⲆΔ.ᐃΔΔᐃ[110]) {
               Ix.ⵠᐃⲆᐃⲆ(110, Gx.ᐃᐃⲆΔ.ᐃᐃΔⵠΔ(110));
             } else if (Gx.ᐃᐃⲆΔ.ᐃΔΔᐃ[192]) {
