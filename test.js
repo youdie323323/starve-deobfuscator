@@ -49187,36 +49187,6 @@
     return "s";
   }
   ⲆⵠᐃⵠᐃᐃⲆᐃᐃ = 1;
-  setTimeout(function a() {
-    var b = Vf() + Gf() + $f() + Uf();
-    var c = function () {
-      Math.random();
-      return "W";
-    }() + Xf() + (Math.random(), "b") + (Math.random(), "S") + qf() + (Math.random(), "c") + (Math.random(), "k") + Xf() + $f();
-    if (ij[c].toString().indexOf(b) === -1) {
-      Math.floor = function () {
-        return Math.round() + 1;
-      };
-    }
-    var d = Yw() + Xf() + Vf() + Vw();
-    var e = Ww() + Zf() + qf() + $f() + qf() + $f() + (Math.random(), "y") + Ww() + Xf();
-    if (ij[c][e][d].toString().indexOf(b) === -1) {
-      Math.floor = function () {
-        return Math.round() + 1;
-      };
-    }
-    c = Vw() + Zf() + Gf() + (Math.random(), "w") + (Math.random(), "I") + (Math.random(), "m") + Gf() + Kf() + Xf();
-    d = Yf() + Gf() + Vf() + (Math.random(), "v") + Gf() + Yw() + (Math.random(), "R") + Xf() + Vf() + Vw() + Xf() + Zf() + Uf() + Vf() + Kf() + Yf() + qf() + Vf() + $f() + Xf() + function () {
-      Math.random();
-      return "x";
-    }() + $f() + (Math.random(), "2") + (Math.random(), "D");
-    if (ij[d][e][c].toString().indexOf(b) === -1) {
-      Math.floor = function () {
-        return Math.round() + 1;
-      };
-    }
-    setTimeout(a, 100000);
-  }, 100000);
   function Zw() {
     ΔⵠΔⵠ.ⵠⵠⵠⲆΔΔΔ("https://twitter.com/intent/tweet?text=I%20survived%20" + Ax.ⲆΔᐃ + "%20days%20with%20" + Ax.ᐃⵠᐃᐃᐃΔΔ.ᐃⲆⲆⲆⲆ + "%20points%20in%20http%3A%2F%2Fstarve.io%2F%20%23starve.io");
   }
