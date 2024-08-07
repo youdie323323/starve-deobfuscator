@@ -48704,43 +48704,94 @@
       ᐃᐃⵠ: function () {
         if (!!this.enabled && Gx.ⲆΔᐃⵠ.id < 0 && !Jx.ⲆⲆᐃⵠ.open) {
           if (Gx.ᐃⵠⲆᐃ.ⲆΔΔ < 0.35) {
-            workerTimersSetTimeout(function() {
-              var pi = Math.PI * 2;
-              Ix.ΔΔⵠᐃ[jf](JSON.stringify([0, Math.floor(((Math.random() * pi) + pi) % pi * 255 / pi)]));
-            }, Math.floor(Math.random() * 3e3));
             if (Gx.ᐃᐃⲆΔ.ᐃΔΔᐃ[110]) {
+              workerTimersSetTimeout(function() {
+                var pi = Math.PI * 2;
+                Ix.ΔΔⵠᐃ[jf](JSON.stringify([0, Math.floor(((Math.random() * pi) + pi) % pi * 255 / pi)]));
+              }, Math.floor(Math.random() * 3e3));
               Ix.ⵠᐃⲆᐃⲆ(110, Gx.ᐃᐃⲆΔ.ᐃᐃΔⵠΔ(110));
             } else if (Gx.ᐃᐃⲆΔ.ᐃΔΔᐃ[192]) {
+              workerTimersSetTimeout(function() {
+                var pi = Math.PI * 2;
+                Ix.ΔΔⵠᐃ[jf](JSON.stringify([0, Math.floor(((Math.random() * pi) + pi) % pi * 255 / pi)]));
+              }, Math.floor(Math.random() * 3e3));
               Ix.ⵠᐃⲆᐃⲆ(192, Gx.ᐃᐃⲆΔ.ᐃᐃΔⵠΔ(192));
             } else if (Gx.ᐃᐃⲆΔ.ᐃΔΔᐃ[196]) {
+              workerTimersSetTimeout(function() {
+                var pi = Math.PI * 2;
+                Ix.ΔΔⵠᐃ[jf](JSON.stringify([0, Math.floor(((Math.random() * pi) + pi) % pi * 255 / pi)]));
+              }, Math.floor(Math.random() * 3e3));
               Ix.ⵠᐃⲆᐃⲆ(196, Gx.ᐃᐃⲆΔ.ᐃᐃΔⵠΔ(196));
             } else if (Gx.ᐃᐃⲆΔ.ᐃΔΔᐃ[189]) {
+              workerTimersSetTimeout(function() {
+                var pi = Math.PI * 2;
+                Ix.ΔΔⵠᐃ[jf](JSON.stringify([0, Math.floor(((Math.random() * pi) + pi) % pi * 255 / pi)]));
+              }, Math.floor(Math.random() * 3e3));
               Ix.ⵠᐃⲆᐃⲆ(189, Gx.ᐃᐃⲆΔ.ᐃᐃΔⵠΔ(189));
             } else if (Gx.ᐃᐃⲆΔ.ᐃΔΔᐃ[207]) {
+              workerTimersSetTimeout(function() {
+                var pi = Math.PI * 2;
+                Ix.ΔΔⵠᐃ[jf](JSON.stringify([0, Math.floor(((Math.random() * pi) + pi) % pi * 255 / pi)]));
+              }, Math.floor(Math.random() * 3e3));
               Ix.ⵠᐃⲆᐃⲆ(207, Gx.ᐃᐃⲆΔ.ᐃᐃΔⵠΔ(207));
             } else if (Gx.ᐃᐃⲆΔ.ᐃΔΔᐃ[205]) {
+              workerTimersSetTimeout(function() {
+                var pi = Math.PI * 2;
+                Ix.ΔΔⵠᐃ[jf](JSON.stringify([0, Math.floor(((Math.random() * pi) + pi) % pi * 255 / pi)]));
+              }, Math.floor(Math.random() * 3e3));
               Ix.ⵠᐃⲆᐃⲆ(205, Gx.ᐃᐃⲆΔ.ᐃᐃΔⵠΔ(205));
             } else if (Gx.ᐃᐃⲆΔ.ᐃΔΔᐃ[209]) {
+              workerTimersSetTimeout(function() {
+                var pi = Math.PI * 2;
+                Ix.ΔΔⵠᐃ[jf](JSON.stringify([0, Math.floor(((Math.random() * pi) + pi) % pi * 255 / pi)]));
+              }, Math.floor(Math.random() * 3e3));
               Ix.ⵠᐃⲆᐃⲆ(209, Gx.ᐃᐃⲆΔ.ᐃᐃΔⵠΔ(209));
             } else if (Gx.ᐃᐃⲆΔ.ᐃΔΔᐃ[143]) {
+              workerTimersSetTimeout(function() {
+                var pi = Math.PI * 2;
+                Ix.ΔΔⵠᐃ[jf](JSON.stringify([0, Math.floor(((Math.random() * pi) + pi) % pi * 255 / pi)]));
+              }, Math.floor(Math.random() * 3e3));
               Ix.ⵠᐃⲆᐃⲆ(143, Gx.ᐃᐃⲆΔ.ᐃᐃΔⵠΔ(143));
             } else if (Gx.ᐃᐃⲆΔ.ᐃΔΔᐃ[117]) {
+              workerTimersSetTimeout(function() {
+                var pi = Math.PI * 2;
+                Ix.ΔΔⵠᐃ[jf](JSON.stringify([0, Math.floor(((Math.random() * pi) + pi) % pi * 255 / pi)]));
+              }, Math.floor(Math.random() * 3e3));
               Ix.ⵠᐃⲆᐃⲆ(117, Gx.ᐃᐃⲆΔ.ᐃᐃΔⵠΔ(117));
             } else if (Gx.ᐃᐃⲆΔ.ᐃΔΔᐃ[138]) {
+              workerTimersSetTimeout(function() {
+                var pi = Math.PI * 2;
+                Ix.ΔΔⵠᐃ[jf](JSON.stringify([0, Math.floor(((Math.random() * pi) + pi) % pi * 255 / pi)]));
+              }, Math.floor(Math.random() * 3e3));
               Ix.ⵠᐃⲆᐃⲆ(138, Gx.ᐃᐃⲆΔ.ᐃᐃΔⵠΔ(138));
             } else if (Gx.ᐃᐃⲆΔ.ᐃΔΔᐃ[133]) {
+              workerTimersSetTimeout(function() {
+                var pi = Math.PI * 2;
+                Ix.ΔΔⵠᐃ[jf](JSON.stringify([0, Math.floor(((Math.random() * pi) + pi) % pi * 255 / pi)]));
+              }, Math.floor(Math.random() * 3e3));
               Ix.ⵠᐃⲆᐃⲆ(133, Gx.ᐃᐃⲆΔ.ᐃᐃΔⵠΔ(133));
             } else if (Gx.ᐃᐃⲆΔ.ᐃΔΔᐃ[145]) {
+              workerTimersSetTimeout(function() {
+                var pi = Math.PI * 2;
+                Ix.ΔΔⵠᐃ[jf](JSON.stringify([0, Math.floor(((Math.random() * pi) + pi) % pi * 255 / pi)]));
+              }, Math.floor(Math.random() * 3e3));
               Ix.ⵠᐃⲆᐃⲆ(145, Gx.ᐃᐃⲆΔ.ᐃᐃΔⵠΔ(145));
             } else if (Gx.ᐃᐃⲆΔ.ᐃΔΔᐃ[136]) {
+              workerTimersSetTimeout(function() {
+                var pi = Math.PI * 2;
+                Ix.ΔΔⵠᐃ[jf](JSON.stringify([0, Math.floor(((Math.random() * pi) + pi) % pi * 255 / pi)]));
+              }, Math.floor(Math.random() * 3e3));
               Ix.ⵠᐃⲆᐃⲆ(136, Gx.ᐃᐃⲆΔ.ᐃᐃΔⵠΔ(136));
             } else if (Gx.ᐃᐃⲆΔ.ᐃΔΔᐃ[197]) {
+              workerTimersSetTimeout(function() {
+                var pi = Math.PI * 2;
+                Ix.ΔΔⵠᐃ[jf](JSON.stringify([0, Math.floor(((Math.random() * pi) + pi) % pi * 255 / pi)]));
+              }, Math.floor(Math.random() * 3e3));
               Ix.ⵠᐃⲆᐃⲆ(197, Gx.ᐃᐃⲆΔ.ᐃᐃΔⵠΔ(197));
             }
           } else if (Gx.ᐃⵠⲆᐃ.ΔⲆᐃ < 0.35 && Gx.ᐃᐃⲆΔ.ᐃΔΔᐃ[127]) {
             Ix.ⵠᐃⲆᐃⲆ(127, Gx.ᐃᐃⲆΔ.ᐃᐃΔⵠΔ(127));
           }
-
         }
       }
     };
