@@ -57273,7 +57273,7 @@
     this.ᐃΔΔᐃᐃⵠΔΔⵠ = function () {
       if (Gx - this.ⲆⵠᐃᐃⲆⲆᐃ > 60000) {
         this.ⲆⵠᐃᐃⲆⲆᐃ = Gx;
-        this.ping();
+        //this.ping();
       }
     };
     this.ᐃΔⵠΔᐃΔᐃΔᐃ = function () {
