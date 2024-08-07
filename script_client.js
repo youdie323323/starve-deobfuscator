@@ -59097,7 +59097,7 @@
   }, 2e3);
   workerTimersSetInterval(function () {
     try {
-      if (!Jx.ⲆⲆᐃⵠ.open) {
+      if (!Gx.reconnect.enabled && Gx.ⲆᐃᐃⲆⲆ) {
         Ix.ping();
       }
     } catch {}
