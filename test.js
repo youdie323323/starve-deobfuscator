@@ -52886,7 +52886,7 @@
         },
         ΔⲆⵠᐃΔ: function () {
           document.getElementById("home_craft").style.display = "none";
-          Jx.ΔΔΔⵠ.open = os;
+          Jx.ΔΔΔⵠ.open = false;
         }
       },
       ᐃΔⵠᐃΔᐃⲆᐃⵠ: function () {
@@ -56314,9 +56314,9 @@
       Gx.ⲆΔᐃⵠ.ᐃΔᐃⵠ = -1;
       Gx.ⲆΔᐃⵠ.id = -1;
       Gx.ⲆΔᐃⵠ.ⲆⲆⵠᐃᐃ = false;
-      Gx.ⲆΔᐃⵠ.ᐃᐃⲆⵠⵠ = Zq;
+      Gx.ⲆΔᐃⵠ.ᐃᐃⲆⵠⵠ = false;
       Gx.ⲆΔᐃⵠ.ᐃⲆᐃΔⲆ = false;
-      Gx.ⲆΔᐃⵠ.ⵠᐃⲆΔⵠΔⲆ = Qg;
+      Gx.ⲆΔᐃⵠ.ⵠᐃⲆΔⵠΔⲆ = false;
       Gx.ⲆΔᐃⵠ.timeout = new ⵠᐃΔᐃ.ΔΔⲆⵠ(false, 0, 1, 0, 1, 1);
     };
     this.ⵠⵠΔΔΔΔⲆⵠᐃ = function () {
@@ -57526,7 +57526,7 @@
       Gx.ᐃⵠⲆᐃ.ΔⲆᐃ = 1;
       Gx.ᐃⵠⲆᐃ.ᐃΔⲆ = 1;
       Gx.ᐃⵠⲆᐃ.ⲆΔⵠᐃⵠⲆᐃ = 1;
-      Gx.ⲆⵠⲆⵠⵠΔⵠ = Ja;
+      Gx.ⲆⵠⲆⵠⵠΔⵠ = false;
       Jx.ⵠᐃⵠᐃᐃ.display = 0;
       Gx.ᐃᐃⲆΔ.ⲆΔᐃⲆⵠ = [];
       Gx.ᐃᐃⲆΔ.ᐃΔΔᐃ = [];
@@ -57547,7 +57547,7 @@
       Gx.ⲆΔᐃⵠ.id = -1;
       Gx.ⲆΔᐃⵠ.ⲆⲆⵠᐃᐃ = false;
       Gx.ⲆΔᐃⵠ.ᐃᐃⲆⵠⵠ = false;
-      Gx.ⲆΔᐃⵠ.ᐃⲆᐃΔⲆ = Wh;
+      Gx.ⲆΔᐃⵠ.ᐃⲆᐃΔⲆ = false;
       Gx.ⲆΔᐃⵠ.ⵠᐃⲆΔⵠΔⲆ = false;
       Gx.ⲆΔᐃⵠ.timeout = new ⵠᐃΔᐃ.ΔΔⲆⵠ(Zq, 0, 1, 0, 1, 1);
       Gx.ᐃΔᐃᐃΔ.timeout = new ⵠᐃΔᐃ.ΔΔⲆⵠ(Le, 0, 1, 0, 0.1, 1);
@@ -57562,7 +57562,7 @@
       Gx.ᐃⲆⲆΔⲆ.timeout = new ⵠᐃΔᐃ.ΔΔⲆⵠ(false, 0, 1, 0, 1 / 30, 1);
       Jx.ⵠⲆⵠᐃⵠ.ⵠⵠΔⵠⵠ.x = -1;
       Jx.ⵠⲆⵠᐃⵠ.ⵠⵠΔⵠⵠ.y = -1;
-      Jx.ΔΔΔⵠ.open = Le;
+      Jx.ΔΔΔⵠ.open = false;
       Jx.ⵠⲆⵠᐃⵠ.ⵠⲆΔᐃ = [];
       Gx.ΔΔᐃᐃΔ.enabled = ld;
       Fx.mode = c[1];
@@ -59096,9 +59096,11 @@
     Gx.ᐃⲆΔΔᐃ.ᐃᐃⵠ();
   }, 2e3);
   workerTimersSetInterval(function () {
-    if (!Jx.ⲆⲆᐃⵠ.open) {
-      Ix.ping();
-    }
+    try {
+      if (!Gx.reconnect.enabled && Gx.ⲆᐃᐃⲆⲆ) {
+        Ix.ping();
+      }
+    } catch {}
   }, 1000 * 60);
   var Rx = 0;
   function Sx() {
