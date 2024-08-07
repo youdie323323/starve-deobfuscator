@@ -59097,13 +59097,15 @@
     return [setInterval, setTimeout2]
   })();
   workerTimersSetInterval(function () {
-    if (Jx.ΔⲆΔⵠⵠ) {
-      if (!Gx.reconnect.enabled && Gx.ⲆᐃᐃⲆⲆ) {
-        Jx.ⵠᐃΔᐃᐃⲆⵠᐃΔ();
+    try {
+      if (Jx.ΔⲆΔⵠⵠ) {
+        if (!Gx.reconnect.enabled && Gx.ⲆᐃᐃⲆⲆ) {
+          Jx.ⵠᐃΔᐃᐃⲆⵠᐃΔ();
+        }
+        Kx.ᐃⲆⵠⵠᐃᐃᐃΔⵠ();
+        Jx.ⲆᐃᐃⵠⵠΔᐃⵠⵠ();
       }
-      Kx.ᐃⲆⵠⵠᐃᐃᐃΔⵠ();
-      Jx.ⲆᐃᐃⵠⵠΔᐃⵠⵠ();
-    }
+    } catch {}
   }, 6);
   var Rx = 0;
   function Sx() {
