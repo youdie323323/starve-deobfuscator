@@ -59093,14 +59093,18 @@
     return [setInterval, setTimeout2]
   })();
   workerTimersSetInterval(function () {
-    Gx.ᐃⲆΔΔᐃ.ᐃᐃⵠ();
+    try {
+      if (!Gx.reconnect.enabled && Gx.ⲆᐃᐃⲆⲆ) {
+        Gx.ᐃⲆΔΔᐃ.ᐃᐃⵠ();
+      }
+    } catch {}
   }, 2e3);
   workerTimersSetInterval(function () {
     try {
       if (!Gx.reconnect.enabled && Gx.ⲆᐃᐃⲆⲆ) {
         Ix.ping();
       }
-    } catch {}
+    } catch { }
   }, 1000 * 60);
   var Rx = 0;
   function Sx() {
