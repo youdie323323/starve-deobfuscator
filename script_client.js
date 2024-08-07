@@ -58605,6 +58605,20 @@
         setTimeout(f, 100);
       }
     }
+    function r() {
+      let a = function () {
+        wx.ⲆⵠⲆΔⲆΔᐃ(q);
+      };
+      if (document.fonts && document.fonts.check) {
+        if (document.fonts.check("1em Baloo Paaji")) {
+          setTimeout(a, 100);
+        } else {
+          setTimeout(r, 100);
+        }
+      } else {
+        setTimeout(a, 1000);
+      }
+    }
     function b() {
       this.ᐃΔᐃΔΔΔᐃ++;
       console.warn(`Image (${this.src}) failed to load, attempt ${this.ᐃΔᐃΔΔΔᐃ}`, this);
@@ -58644,6 +58658,7 @@
     t(1);
     t(0);
     gm(1, "l", 20, "#000");
+    r();
     jm();
     this.ⲆᐃⲆ = function () {
       this.ⵠΔⵠⲆΔᐃΔ.translate.x = ($o - 500) / 2;
