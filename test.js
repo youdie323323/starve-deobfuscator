@@ -54969,9 +54969,9 @@
       Ix.ⵠΔᐃᐃⵠΔⵠⲆⵠ();
     };
     this.ⲆᐃᐃⲆ = function () {
-      if (!Gx.reconnect.enabled && Gx.ⲆᐃᐃⲆⲆ) {
+      /*if (!Gx.reconnect.enabled && Gx.ⲆᐃᐃⲆⲆ) {
         this.ⵠᐃΔᐃᐃⲆⵠᐃΔ();
-      }
+      }*/
       Kx.ᐃⲆⵠⵠᐃᐃᐃΔⵠ();
       //this.ⲆᐃᐃⵠⵠΔᐃⵠⵠ();
       if (Ex.ⵠⲆⲆΔⵠⲆᐃ !== 1) {
