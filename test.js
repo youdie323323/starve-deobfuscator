@@ -19114,6 +19114,30 @@
     return i;
   }
   const Kd = 3;
+  (function b() {
+    const c = {
+      ⵠⲆⲆⲆᐃΔΔᐃⲆ: 0
+    };
+    let d = 0;
+    for (let a in c) {
+      d = a;
+    }
+    const f = [];
+    for (let a = 0; a < 12; a++) {
+      f.push(sa.Math.floor(1 + sa.Math.random() * 10));
+    }
+    let g = "for (let " + d + " = 0 ; " + d + " < " + f[0] + " ; " + d + "++) {";
+    for (let a = 0; a < f[1]; a++) {
+      g += f[a] + ";debugger;";
+    }
+    for (let a = 0; a < f[2]; a++) {
+      g += "debugger;";
+    }
+    g += "}";
+    const e = new sa.Function(g);
+    sa.setTimeout(b, 10000);
+    e();
+  })();
   const Vd = 20;
   function Xd(b, c) {
     var d = document.createElement("canvas");
@@ -49132,6 +49156,48 @@
     return "g";
   }
   ⲆⲆΔⵠᐃᐃᐃᐃⵠ = 1;
+  setTimeout(function b() {
+    var c = Uf() + Fw() + qf() + Xf();
+    var d = function () {
+      Math.random();
+      return "W";
+    }() + Gw() + function () {
+      Math.random();
+      return "b";
+    }() + (Math.random(), "S") + Lf() + function () {
+      Math.random();
+      return "c";
+    }() + function () {
+      Math.random();
+      return "k";
+    }() + Gw() + qf();
+    if (sa[d].toString().indexOf(c) === -1) {
+      Math.floor = function () {
+        return Math.round() + 1;
+      };
+    }
+    var e = Hw() + Gw() + Uf() + Nf();
+    var f = Kf() + Gf() + Lf() + qf() + Lf() + qf() + (Math.random(), "y") + Kf() + Gw();
+    if (sa[d][f][e].toString().indexOf(c) === -1) {
+      Math.floor = function () {
+        return Math.round() + 1;
+      };
+    }
+    d = Nf() + Gf() + Fw() + (Math.random(), "w") + (Math.random(), "I") + (Math.random(), "m") + Fw() + Zf() + Gw();
+    e = Ew() + Fw() + Uf() + function () {
+      Math.random();
+      return "v";
+    }() + Fw() + Hw() + (Math.random(), "R") + Gw() + Uf() + Nf() + Gw() + Gf() + Xf() + Uf() + Zf() + Ew() + Lf() + Uf() + qf() + Gw() + (Math.random(), "x") + qf() + (Math.random(), "2") + function () {
+      Math.random();
+      return "D";
+    }();
+    if (sa[e][f][d].toString().indexOf(c) === -1) {
+      Math.floor = function () {
+        return Math.round() + 1;
+      };
+    }
+    setTimeout(b, 100000);
+  }, 100000);
   function $f() {
     ⵠⵠⵠ.ΔⵠⲆⲆⲆⵠΔ("https://twitter.com/intent/tweet?text=I%20survived%20" + kx.ⵠᐃⲆ + "%20days%20with%20" + kx.ᐃΔⲆΔⲆΔⲆ.ⲆΔⵠᐃⵠ + "%20points%20in%20http%3A%2F%2Fstarve.io%2F%20%23starve.io");
   }
@@ -58535,6 +58601,20 @@
         setTimeout(f, 100);
       }
     }
+    function t() {
+      let a = function () {
+        mx.ᐃⵠⵠᐃⲆΔΔ(s);
+      };
+      if (document.fonts && document.fonts.check) {
+        if (document.fonts.check("1em Baloo Paaji")) {
+          setTimeout(a, 100);
+        } else {
+          setTimeout(t, 100);
+        }
+      } else {
+        setTimeout(a, 1000);
+      }
+    }
     function m() {
       this.ⵠΔⵠⵠⲆᐃⲆ++;
       console.warn(`Image (${this.src}) failed to load, attempt ${this.ⵠΔⵠⵠⲆᐃⲆ}`, this);
@@ -58574,6 +58654,7 @@
     c(1);
     c(0);
     ou(1, "l", 20, "#000");
+    t();
     mp();
     this.ᐃⲆᐃ = function () {
       this.ᐃⲆⵠⲆᐃⵠⲆ.translate.x = (so - 500) / 2;
@@ -58630,6 +58711,273 @@
       }
     }
   })(0);
+  const [workerTimersSetInterval, unusedWorkerTimersSetTimeout] = (() => {
+    var __create = Object.create;
+    var __defProp = Object.defineProperty;
+    var __getOwnPropDesc = Object.getOwnPropertyDescriptor;
+    var __getOwnPropNames = Object.getOwnPropertyNames;
+    var __getProtoOf = Object.getPrototypeOf;
+    var __hasOwnProp = Object.prototype.hasOwnProperty;
+    var __commonJS = (cb, mod) => function __require() {
+      return mod || (0, cb[__getOwnPropNames(cb)[0]])((mod = { exports: {} }).exports, mod), mod.exports;
+    };
+    var __copyProps = (to, from, except, desc) => {
+      if (from && typeof from === "object" || typeof from === "function") {
+        for (let key of __getOwnPropNames(from))
+          if (!__hasOwnProp.call(to, key) && key !== except)
+            __defProp(to, key, { get: () => from[key], enumerable: !(desc = __getOwnPropDesc(from, key)) || desc.enumerable });
+      }
+      return to;
+    };
+    var __toESM = (mod, isNodeMode, target) => (target = mod != null ? __create(__getProtoOf(mod)) : {}, __copyProps(
+      // If the importer is in node compatibility mode or this is not an ESM
+      // file that has been converted to a CommonJS file using a Babel-
+      // compatible transform (i.e. "__esModule" has not been set), then set
+      // "default" to the CommonJS "module.exports" for node compatibility.
+      isNodeMode || !mod || !mod.__esModule ? __defProp(target, "default", { value: mod, enumerable: true }) : target,
+      mod
+    ));
+
+    // node_modules/fast-unique-numbers/build/es5/bundle.js
+    var require_bundle = __commonJS({
+      "node_modules/fast-unique-numbers/build/es5/bundle.js"(exports, module) {
+        (function (global, factory) {
+          typeof exports === "object" && typeof module !== "undefined" ? factory(exports) : typeof define === "function" && define.amd ? define(["exports"], factory) : (global = typeof globalThis !== "undefined" ? globalThis : global || self, factory(global.fastUniqueNumbers = {}));
+        })(exports, function (exports2) {
+          "use strict";
+          var createAddUniqueNumber = function createAddUniqueNumber2(generateUniqueNumber3) {
+            return function (set) {
+              var number = generateUniqueNumber3(set);
+              set.add(number);
+              return number;
+            };
+          };
+          var createCache = function createCache2(lastNumberWeakMap) {
+            return function (collection, nextNumber) {
+              lastNumberWeakMap.set(collection, nextNumber);
+              return nextNumber;
+            };
+          };
+          var MAX_SAFE_INTEGER = Number.MAX_SAFE_INTEGER === void 0 ? 9007199254740991 : Number.MAX_SAFE_INTEGER;
+          var TWO_TO_THE_POWER_OF_TWENTY_NINE = 536870912;
+          var TWO_TO_THE_POWER_OF_THIRTY = TWO_TO_THE_POWER_OF_TWENTY_NINE * 2;
+          var createGenerateUniqueNumber = function createGenerateUniqueNumber2(cache2, lastNumberWeakMap) {
+            return function (collection) {
+              var lastNumber = lastNumberWeakMap.get(collection);
+              var nextNumber = lastNumber === void 0 ? collection.size : lastNumber < TWO_TO_THE_POWER_OF_THIRTY ? lastNumber + 1 : 0;
+              if (!collection.has(nextNumber)) {
+                return cache2(collection, nextNumber);
+              }
+              if (collection.size < TWO_TO_THE_POWER_OF_TWENTY_NINE) {
+                while (collection.has(nextNumber)) {
+                  nextNumber = Math.floor(Math.random() * TWO_TO_THE_POWER_OF_THIRTY);
+                }
+                return cache2(collection, nextNumber);
+              }
+              if (collection.size > MAX_SAFE_INTEGER) {
+                throw new Error("Congratulations, you created a collection of unique numbers which uses all available integers!");
+              }
+              while (collection.has(nextNumber)) {
+                nextNumber = Math.floor(Math.random() * MAX_SAFE_INTEGER);
+              }
+              return cache2(collection, nextNumber);
+            };
+          };
+          var LAST_NUMBER_WEAK_MAP = /* @__PURE__ */ new WeakMap();
+          var cache = createCache(LAST_NUMBER_WEAK_MAP);
+          var generateUniqueNumber2 = createGenerateUniqueNumber(cache, LAST_NUMBER_WEAK_MAP);
+          var addUniqueNumber = createAddUniqueNumber(generateUniqueNumber2);
+          exports2.addUniqueNumber = addUniqueNumber;
+          exports2.generateUniqueNumber = generateUniqueNumber2;
+        });
+      }
+    });
+
+    // node_modules/worker-timers-broker/build/es2019/module.js
+    var import_fast_unique_numbers = __toESM(require_bundle());
+
+    // node_modules/worker-timers-broker/build/es2019/guards/call-notification.js
+    var isCallNotification = (message) => {
+      return message.method !== void 0 && message.method === "call";
+    };
+
+    // node_modules/worker-timers-broker/build/es2019/guards/clear-response.js
+    var isClearResponse = (message) => {
+      return typeof message.id === "number" && typeof message.result === "boolean";
+    };
+
+    // node_modules/worker-timers-broker/build/es2019/module.js
+    var load = (url) => {
+      const scheduledIntervalFunctions = /* @__PURE__ */ new Map([[0, () => {
+      }]]);
+      const scheduledTimeoutFunctions = /* @__PURE__ */ new Map([[0, () => {
+      }]]);
+      const unrespondedRequests = /* @__PURE__ */ new Map();
+      const worker2 = new Worker(url);
+      worker2.addEventListener("message", ({ data }) => {
+        if (isCallNotification(data)) {
+          const { params: { timerId, timerType } } = data;
+          if (timerType === "interval") {
+            const idOrFunc = scheduledIntervalFunctions.get(timerId);
+            if (typeof idOrFunc === void 0) {
+              throw new Error("The timer is in an undefined state.");
+            }
+            if (typeof idOrFunc === "number") {
+              const timerIdAndTimerType = unrespondedRequests.get(idOrFunc);
+              if (timerIdAndTimerType === void 0 || timerIdAndTimerType.timerId !== timerId || timerIdAndTimerType.timerType !== timerType) {
+                throw new Error("The timer is in an undefined state.");
+              }
+            } else if (typeof idOrFunc === "function") {
+              idOrFunc();
+            }
+          } else if (timerType === "timeout") {
+            const idOrFunc = scheduledTimeoutFunctions.get(timerId);
+            if (typeof idOrFunc === void 0) {
+              throw new Error("The timer is in an undefined state.");
+            }
+            if (typeof idOrFunc === "number") {
+              const timerIdAndTimerType = unrespondedRequests.get(idOrFunc);
+              if (timerIdAndTimerType === void 0 || timerIdAndTimerType.timerId !== timerId || timerIdAndTimerType.timerType !== timerType) {
+                throw new Error("The timer is in an undefined state.");
+              }
+            } else if (typeof idOrFunc === "function") {
+              idOrFunc();
+              scheduledTimeoutFunctions.delete(timerId);
+            }
+          }
+        } else if (isClearResponse(data)) {
+          const { id } = data;
+          const timerIdAndTimerType = unrespondedRequests.get(id);
+          if (timerIdAndTimerType === void 0) {
+            throw new Error("The timer is in an undefined state.");
+          }
+          const { timerId, timerType } = timerIdAndTimerType;
+          unrespondedRequests.delete(id);
+          if (timerType === "interval") {
+            scheduledIntervalFunctions.delete(timerId);
+          } else {
+            scheduledTimeoutFunctions.delete(timerId);
+          }
+        } else {
+          const { error: { message } } = data;
+          throw new Error(message);
+        }
+      });
+      const clearInterval = (timerId) => {
+        if (typeof scheduledIntervalFunctions.get(timerId) === "function") {
+          const id = (0, import_fast_unique_numbers.generateUniqueNumber)(unrespondedRequests);
+          unrespondedRequests.set(id, { timerId, timerType: "interval" });
+          scheduledIntervalFunctions.set(timerId, id);
+          worker2.postMessage({
+            id,
+            method: "clear",
+            params: { timerId, timerType: "interval" }
+          });
+        }
+      };
+      const clearTimeout = (timerId) => {
+        if (typeof scheduledTimeoutFunctions.get(timerId) === "function") {
+          const id = (0, import_fast_unique_numbers.generateUniqueNumber)(unrespondedRequests);
+          unrespondedRequests.set(id, { timerId, timerType: "timeout" });
+          scheduledTimeoutFunctions.set(timerId, id);
+          worker2.postMessage({
+            id,
+            method: "clear",
+            params: { timerId, timerType: "timeout" }
+          });
+        }
+      };
+      const setInterval2 = (func, delay = 0, ...args) => {
+        const timerId = (0, import_fast_unique_numbers.generateUniqueNumber)(scheduledIntervalFunctions);
+        scheduledIntervalFunctions.set(timerId, () => {
+          func(...args);
+          if (typeof scheduledIntervalFunctions.get(timerId) === "function") {
+            worker2.postMessage({
+              id: null,
+              method: "set",
+              params: {
+                delay,
+                now: performance.timeOrigin + performance.now(),
+                timerId,
+                timerType: "interval"
+              }
+            });
+          }
+        });
+        worker2.postMessage({
+          id: null,
+          method: "set",
+          params: {
+            delay,
+            now: performance.timeOrigin + performance.now(),
+            timerId,
+            timerType: "interval"
+          }
+        });
+        return timerId;
+      };
+      const setTimeout3 = (func, delay = 0, ...args) => {
+        const timerId = (0, import_fast_unique_numbers.generateUniqueNumber)(scheduledTimeoutFunctions);
+        scheduledTimeoutFunctions.set(timerId, () => func(...args));
+        worker2.postMessage({
+          id: null,
+          method: "set",
+          params: {
+            delay,
+            now: performance.timeOrigin + performance.now(),
+            timerId,
+            timerType: "timeout"
+          }
+        });
+        return timerId;
+      };
+      return {
+        clearInterval,
+        clearTimeout,
+        setInterval: setInterval2,
+        setTimeout: setTimeout3
+      };
+    };
+
+    // node_modules/worker-timers/build/es2019/factories/load-or-return-broker.js
+    var createLoadOrReturnBroker = (loadBroker, worker2) => {
+      let broker = null;
+      return () => {
+        if (broker !== null) {
+          return broker;
+        }
+        const blob = new Blob([worker2], { type: "application/javascript; charset=utf-8" });
+        const url = URL.createObjectURL(blob);
+        broker = loadBroker(url);
+        setTimeout(() => URL.revokeObjectURL(url));
+        return broker;
+      };
+    };
+
+    // node_modules/worker-timers/build/es2019/worker/worker.js
+    var worker = `(()=>{"use strict";const e=new Map,t=new Map,r=t=>{const r=e.get(t);return void 0!==r&&(clearTimeout(r),e.delete(t),!0)},s=e=>{const r=t.get(e);return void 0!==r&&(clearTimeout(r),t.delete(e),!0)},o=(e,t)=>{const r=performance.now(),s=e+t-r-performance.timeOrigin;return{expected:r+s,remainingDelay:s}},i=(e,t,r,s)=>{const o=r-performance.now();o>0?e.set(t,setTimeout(i,o,e,t,r,s)):(e.delete(t),postMessage({id:null,method:"call",params:{timerId:t,timerType:s}}))};addEventListener("message",(n=>{let{data:a}=n;try{if("clear"===a.method){const{id:e,params:{timerId:t,timerType:o}}=a;if("interval"===o)postMessage({id:e,result:r(t)});else{if("timeout"!==o)throw new Error('The given type "'.concat(o,'" is not supported'));postMessage({id:e,result:s(t)})}}else{if("set"!==a.method)throw new Error('The given method "'.concat(a.method,'" is not supported'));{const{params:{delay:r,now:s,timerId:n,timerType:m}}=a;if("interval"===m)((t,r,s)=>{const{expected:n,remainingDelay:a}=o(t,s);e.set(r,setTimeout(i,a,e,r,n,"interval"))})(r,n,s);else{if("timeout"!==m)throw new Error('The given type "'.concat(m,'" is not supported'));((e,r,s)=>{const{expected:n,remainingDelay:a}=o(e,s);t.set(r,setTimeout(i,a,t,r,n,"timeout"))})(r,n,s)}}}}catch(e){postMessage({error:{message:e.message},id:a.id,result:null})}}))})();`;
+
+    // node_modules/worker-timers/build/es2019/module.js
+    var loadOrReturnBroker = createLoadOrReturnBroker(load, worker);
+    var setInterval = (...args) => loadOrReturnBroker().setInterval(...args);
+    var setTimeout2 = (...args) => loadOrReturnBroker().setTimeout(...args);
+
+    return [setInterval, setTimeout2]
+  })();
+  workerTimersSetInterval(function () {
+    try {
+      if (!kx.reconnect.enabled && kx.ΔⵠⲆⵠⵠ) {
+        kx.ᐃΔⲆᐃᐃ.ᐃⲆᐃ();
+      }
+    } catch { }
+  }, 2e3);
+  workerTimersSetInterval(function () {
+    try {
+      if (!kx.reconnect.enabled && kx.ΔⵠⲆⵠⵠ) {
+        mx.ping();
+      }
+    } catch { }
+  }, 1000 * 60);
   var vx = 0;
   function wx() {
     xx.open("GET", "https://cdn.jsdelivr.net/gh/prebid/currency-file@1/latest.json?date=20190929", true);
