@@ -58656,7 +58656,6 @@
     c(1);
     c(0);
     ou(1, "l", 20, "#000");
-    t();
     mp();
     this.ᐃⲆᐃ = function () {
       this.ᐃⲆⵠⲆᐃⵠⲆ.translate.x = (so - 500) / 2;
