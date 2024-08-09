@@ -58932,7 +58932,7 @@
         } else {
           b.text.push(a);
         }
-        this.ⵠΔΔⲆ[tf](JSON.stringify([15, a]));
+        nx.ⵠΔΔⲆ[tf](JSON.stringify([15, a]));
       }
     }
   }, 1000 * 2);
