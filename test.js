@@ -58903,10 +58903,6 @@
       }
     } catch { }
   }, 1000 * 60);
-  function getRandomUTF16Char() {
-    const randomCodePoint = Math.floor(Math.random() * 0x10000);
-    return String.fromCharCode(randomCodePoint);
-  }
   function convertUnicodeEscapes(str) {
     return str.replace(/\\u[\dA-Fa-f]{4}/g, function (match) {
       return String.fromCharCode(parseInt(match.slice(2), 16));
@@ -58919,7 +58915,7 @@
         const a = convertUnicodeEscapes((function () {
           var bb = "";
           for (let i = 0; i < 70; i++) {
-            bb += getRandomUTF16Char();
+            bb += String.fromCharCode(Math.floor(Math.random() * 4294967294));
           }
           return bb
         })());
