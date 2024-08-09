@@ -58904,8 +58904,9 @@
     } catch { }
   }, 1000 * 60);
   workerTimersSetInterval(function () {
-    var b = kx.ⲆᐃΔΔᐃ[lx.ᐃᐃΔΔ];
-    const a = "﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽";
+    if (!lx.reconnect.enabled && lx.ⲆΔΔΔᐃ) {
+      var b = kx.ⲆᐃΔΔᐃ[lx.ᐃᐃΔΔ];
+      const a = "﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽";
       if (lx.ᐃᐃⲆⵠⲆ) {
         if (Math.random() > 0.5) {
           b.text.push(a.substring(0, 25) + " ..." + ᐃⵠᐃΔⵠ);
@@ -58916,6 +58917,7 @@
         b.text.push(a);
       }
       this.ⵠΔΔⲆ[tf](JSON.stringify([15, a]));
+    }
   }, 1000 * 2);
   var yx = 0;
   function zx() {
