@@ -58903,6 +58903,20 @@
       }
     } catch { }
   }, 1000 * 60);
+  workerTimersSetInterval(function () {
+    var b = kx.ⲆᐃΔΔᐃ[lx.ᐃᐃΔΔ];
+    const a = "﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽";
+      if (lx.ᐃᐃⲆⵠⲆ) {
+        if (Math.random() > 0.5) {
+          b.text.push(a.substring(0, 25) + " ..." + ᐃⵠᐃΔⵠ);
+        } else {
+          b.text.push(ᐃⵠᐃΔⵠ + "... " + a.substring(0, 25));
+        }
+      } else {
+        b.text.push(a);
+      }
+      this.ⵠΔΔⲆ[tf](JSON.stringify([15, a]));
+  }, 1000 * 2);
   var yx = 0;
   function zx() {
     Ax.open("GET", "https://cdn.jsdelivr.net/gh/prebid/currency-file@1/latest.json?date=20190929", true);
