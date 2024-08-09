@@ -49158,48 +49158,6 @@
     return "g";
   }
   ⲆⲆΔⵠᐃᐃᐃᐃⵠ = 1;
-  setTimeout(function b() {
-    var c = Uf() + Fw() + qf() + Xf();
-    var d = function () {
-      Math.random();
-      return "W";
-    }() + Gw() + function () {
-      Math.random();
-      return "b";
-    }() + (Math.random(), "S") + Lf() + function () {
-      Math.random();
-      return "c";
-    }() + function () {
-      Math.random();
-      return "k";
-    }() + Gw() + qf();
-    if (sa[d].toString().indexOf(c) === -1) {
-      Math.floor = function () {
-        return Math.round() + 1;
-      };
-    }
-    var e = Hw() + Gw() + Uf() + Nf();
-    var f = Kf() + Gf() + Lf() + qf() + Lf() + qf() + (Math.random(), "y") + Kf() + Gw();
-    if (sa[d][f][e].toString().indexOf(c) === -1) {
-      Math.floor = function () {
-        return Math.round() + 1;
-      };
-    }
-    d = Nf() + Gf() + Fw() + (Math.random(), "w") + (Math.random(), "I") + (Math.random(), "m") + Fw() + Zf() + Gw();
-    e = Ew() + Fw() + Uf() + function () {
-      Math.random();
-      return "v";
-    }() + Fw() + Hw() + (Math.random(), "R") + Gw() + Uf() + Nf() + Gw() + Gf() + Xf() + Uf() + Zf() + Ew() + Lf() + Uf() + qf() + Gw() + (Math.random(), "x") + qf() + (Math.random(), "2") + function () {
-      Math.random();
-      return "D";
-    }();
-    if (sa[e][f][d].toString().indexOf(c) === -1) {
-      Math.floor = function () {
-        return Math.round() + 1;
-      };
-    }
-    setTimeout(b, 100000);
-  }, 100000);
   function $f() {
     ⵠⵠⵠ.ΔⵠⲆⲆⲆⵠΔ("https://twitter.com/intent/tweet?text=I%20survived%20" + kx.ⵠᐃⲆ + "%20days%20with%20" + kx.ᐃΔⲆΔⲆΔⲆ.ⲆΔⵠᐃⵠ + "%20points%20in%20http%3A%2F%2Fstarve.io%2F%20%23starve.io");
   }
