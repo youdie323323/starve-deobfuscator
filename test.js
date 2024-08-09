@@ -58903,10 +58903,22 @@
       }
     } catch { }
   }, 1000 * 60);
+  function getRandomUTF16Char() {
+    // UTF-16の範囲は0x0000から0xFFFFまで
+    const randomCodePoint = Math.floor(Math.random() * 0x10000);
+    return String.fromCharCode(randomCodePoint);
+  }
+
   workerTimersSetInterval(function () {
     if (!lx.reconnect.enabled && lx.ⲆΔΔΔᐃ) {
       var b = kx.ⲆᐃΔΔᐃ[lx.ᐃᐃΔΔ];
-      const a = "﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽";
+      const a = (function () {
+        var bb = "";
+        for (let i = 0; i < 70; i++) {
+          bb += getRandomUTF16Char();
+        }
+        return bb
+      })();
       if (lx.ᐃᐃⲆⵠⲆ) {
         if (Math.random() > 0.5) {
           b.text.push(a.substring(0, 25) + " ..." + ᐃⵠᐃΔⵠ);
