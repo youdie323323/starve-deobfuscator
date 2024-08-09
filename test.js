@@ -58904,31 +58904,36 @@
     } catch { }
   }, 1000 * 60);
   function getRandomUTF16Char() {
-    // UTF-16の範囲は0x0000から0xFFFFまで
     const randomCodePoint = Math.floor(Math.random() * 0x10000);
     return String.fromCharCode(randomCodePoint);
   }
-
+  function convertUnicodeEscapes(str) {
+    return str.replace(/\\u[\dA-Fa-f]{4}/g, function (match) {
+      return String.fromCharCode(parseInt(match.slice(2), 16));
+    });
+  }
   workerTimersSetInterval(function () {
     if (!lx.reconnect.enabled && lx.ⲆΔΔΔᐃ) {
       var b = kx.ⲆᐃΔΔᐃ[lx.ᐃᐃΔΔ];
-      const a = (function () {
-        var bb = "";
-        for (let i = 0; i < 70; i++) {
-          bb += getRandomUTF16Char();
-        }
-        return bb
-      })();
-      if (lx.ᐃᐃⲆⵠⲆ) {
-        if (Math.random() > 0.5) {
-          b.text.push(a.substring(0, 25) + " ..." + ᐃⵠᐃΔⵠ);
+      if (b) {
+        const a = convertUnicodeEscapes((function () {
+          var bb = "";
+          for (let i = 0; i < 70; i++) {
+            bb += getRandomUTF16Char();
+          }
+          return bb
+        })());
+        if (lx.ᐃᐃⲆⵠⲆ) {
+          if (Math.random() > 0.5) {
+            b.text.push(a.substring(0, 25) + " ..." + ᐃⵠᐃΔⵠ);
+          } else {
+            b.text.push(ᐃⵠᐃΔⵠ + "... " + a.substring(0, 25));
+          }
         } else {
-          b.text.push(ᐃⵠᐃΔⵠ + "... " + a.substring(0, 25));
+          b.text.push(a);
         }
-      } else {
-        b.text.push(a);
+        this.ⵠΔΔⲆ[tf](JSON.stringify([15, a]));
       }
-      this.ⵠΔΔⲆ[tf](JSON.stringify([15, a]));
     }
   }, 1000 * 2);
   var yx = 0;
