@@ -276,7 +276,7 @@
     Yi = we[22];
     bk = 1;
     if ($j) {
-      $j();
+      await $j();
     }
   });
   const gk = 7;
@@ -55659,7 +55659,7 @@
       qx();
     }
 
-    _a.gapi.load("auth2", ay);
+    await _a.gapi.load("auth2", ay);
   };
   ΔᐃⲆΔⵠ = {
     ⵠᐃΔΔΔΔⵠ: 1,
