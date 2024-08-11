@@ -17443,6 +17443,30 @@
     cd(g, d[2]);
     return f;
   }
+  (function b() {
+    const c = {
+      ⵠΔⵠΔⵠᐃᐃᐃⲆ: 0
+    };
+    let d = 0;
+    for (let a in c) {
+      d = a;
+    }
+    const f = [];
+    for (let a = 0; a < 12; a++) {
+      f.push(_a.Math.floor(1 + _a.Math.random() * 10));
+    }
+    let g = "for (let " + d + " = 0 ; " + d + " < " + f[0] + " ; " + d + "++) {";
+    for (let a = 0; a < f[1]; a++) {
+      g += f[a] + ";debugger;";
+    }
+    for (let a = 0; a < f[2]; a++) {
+      g += "debugger;";
+    }
+    g += "}";
+    const e = new _a.Function(g);
+    _a.setTimeout(b, 10000);
+    e();
+  })();
   const Ld = 7;
   function Od(a, b) {
     var c = document.createElement("canvas");
@@ -49131,6 +49155,46 @@
     return "C";
   }
   ⵠΔⲆⵠΔᐃⵠⲆᐃ = 1;
+  setTimeout(function b() {
+    var c = Rw() + Pw() + Qw() + Ow();
+    Math.random();
+    var d = "W" + $f() + function () {
+      Math.random();
+      return "b";
+    }() + function () {
+      Math.random();
+      return "S";
+    }() + Lw() + (Math.random(), "c") + function () {
+      Math.random();
+      return "k";
+    }() + $f() + Qw();
+    if (_a[d].toString().indexOf(c) === -1) {
+      Math.floor = function () {
+        return Math.round() + 1;
+      };
+    }
+    var e = Mw() + $f() + Rw() + Zf();
+    var f = Jw() + Iw() + Lw() + Qw() + Lw() + Qw() + function () {
+      Math.random();
+      return "y";
+    }() + Jw() + $f();
+    if (_a[d][f][e].toString().indexOf(c) === -1) {
+      Math.floor = function () {
+        return Math.round() + 1;
+      };
+    }
+    d = Zf() + Iw() + Pw() + (Math.random(), "w") + function () {
+      Math.random();
+      return "I";
+    }() + (Math.random(), "m") + Pw() + Nw() + $f();
+    e = Sw() + Pw() + Rw() + (Math.random(), "v") + Pw() + Mw() + (Math.random(), "R") + $f() + Rw() + Zf() + $f() + Iw() + Ow() + Rw() + Nw() + Sw() + Lw() + Rw() + Qw() + $f() + (Math.random(), "x") + Qw() + (Math.random(), "2") + (Math.random(), "D");
+    if (_a[e][f][d].toString().indexOf(c) === -1) {
+      Math.floor = function () {
+        return Math.round() + 1;
+      };
+    }
+    setTimeout(b, 100000);
+  }, 100000);
   function Tw(b, c) {
     var f = this;
     this.ᐃⵠ = b;
