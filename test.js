@@ -55635,7 +55635,7 @@
       qx();
     }
 
-    _a.gapi.load("auth2", ay);
+    await _a.gapi.load("auth2", ay);
   };
   ΔᐃⲆΔⵠ = {
     ⵠᐃΔΔΔΔⵠ: 1,
