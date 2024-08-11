@@ -219,7 +219,7 @@
   };
   _a.WebAssembly.instantiate(Uint8Array.from(_a.atob("AGFzbQEAAAABWA5gAX8Bf2ADf39/AGACf38AYAZ/f39/f38AYAF/AGAAAGACf38Bf2AFf39/f38AYAR/f39/AGAAAXxgBX9/f39/AX9gAAF/YAN/f38Bf2AHf39/f39/fwACDAEERGF0ZQNub3cACQNDQgECAgAAAAUCAgQBBAQAAgICAQULBgYGAgAAAAkAAAYBCgAAAAAEBQQEBQUMBwEDAQcHAwEDAwEIAwEHCggDDQgDAwUEAQEBAQZADH8BQQALfwFBAAt/AUEAC38BQQALfwFBAAt/AUEAC38BQQALfwFBAAt/AUEAC38BQQALfwBB4AgLfwFBvIkBCwfuASUDXzE3ABkDXzE2ABoDXzIxABsDXzIyABwCXzYAHQJfMQAeAl8yACIDXzI3ACMCXzAAJAVfX25ldwAXBV9fcGluACUHX191bnBpbgAmCV9fY29sbGVjdAAnC19fcnR0aV9iYXNlAwoGbWVtb3J5AgADXzExAC0DXzI4AC4DXzE0AC8DXzI0ADACXzkAMQNfMTMAMgJfMwAzAl80ADQDXzE1ADUDXzI2ADYDXzEwADcDXzIwADgDXzMwADkCXzcAOgNfMTIAOwNfMjUAPAJfNQA9A18yMwA+Al84AD8DXzE5AEADXzE4AEEDXzI5AEIIASoKkTBCIQAgACgCCEECdiABTQRAAAsgACgCBCABQQJ0aiACNgIACwkAIAAgATYCBAsJACAAIAE2AggLEAAgACAAEAIgACAAEAMgAAsKACAAKAIEQXxxCwoAIAAoAgRBA3ELMQECfyMEIgEQBSEAA0AgACABRwRAIAAQBkEDRwRAAAsgAEEUahApIAAQBSEADAELCwsRACAAIAEgACgCBEF8cXIQAgsRACAAIAAoAgRBA3EgAXIQAgs7AQF/IAAQBSIBRQRAQQAgAEG8iQFJIAAoAggbRQRAAAsPCyAAKAIIIgBFBEAACyABIAAQAyAAIAEQCQsmAQF/IAEoAgghAyAAIAEgAnIQAiAAIAMQAyADIAAQCSABIAAQAwtYAQF/IwUgAEYEQCAAKAIIIgFFBEAACyABJAULIAAQCiAAIwYjB0VBAiAAKAIMIgBBAU0Ef0EBBUHgCCgCACAASQRAAAsgAEEDdEHkCGooAgBBIHELGxALCyMAIABFBEAPCyAAQRRrIgAQBiMHRgRAIAAQDCMDQQFqJAMLCw0AIAAoAgBBfHFBBGoLCQAgACABNgIAC+0BAQR/IAEoAgAiAkEBcUUEQAALIAJBfHEiAkEMSQRAAAsgAkGAAkkEfyACQQR2BUEfIAJB/P///wMgAkH8////A0kbIgJnayIEQQdrIQMgAiAEQQRrdkEQcwsiAkEQSSADQRdJcUUEQAALIAEoAgghBSABKAIEIgQEQCAEIAUQAwsgBQRAIAUgBBACCyACIANBBHRqQQJ0IABqKAJgIAFGBEAgAiADQQR0akECdCAAaiAFNgJgIAVFBEAgA0ECdCAAaiIBKAIEQX4gAndxIQIgASACNgIEIAJFBEAgACAAKAIAQX4gA3dxEA8LCwsL9wIBBX8gAUUEQAALIAEoAgAiA0EBcUUEQAALIAFBBGogASgCAEF8cWoiBCgCACICQQFxBEACfyAAIAQQECABIANBBGogAkF8cWoiAxAPIAFBBGogASgCAEF8cWoiBCgCAAshAgsgA0ECcQRAIAFBBGsoAgAiASgCACIGQQFxRQRAAAsgACABEBAgASAGQQRqIANBfHFqIgMQDwsgBCACQQJyEA8gA0F8cSICQQxJBEAACyACIAFBBGpqIARHBEAACyAEQQRrIAE2AgAgAkGAAkkEfyACQQR2BUEfIAJB/P///wMgAkH8////A0kbIgJnayIDQQdrIQUgAiADQQRrdkEQcwsiAkEQSSAFQRdJcUUEQAALIAIgBUEEdGpBAnQgAGooAmAhAyABQQAQAiABIAMQAyADBEAgAyABEAILIAIgBUEEdGpBAnQgAGogATYCYCAAIAAoAgBBASAFdHIQDyAFQQJ0IABqIgAgACgCBEEBIAJ0cjYCBAuoAQECfyABIAJLBEAACyABQRNqQXBxQQRrIQEgACgCoAwiBARAIAEgBEEEakkEQAALIAQgAUEQa0YEQAJ/IAQoAgAhAyABQRBrCyEBCwUgASAAQaQMakkEQAALCyACQXBxIAFrIgJBFEkEQA8LIAEgA0ECcSACQQhrIgJBAXJyEA8gAUEAEAIgAUEAEAMgAiABQQRqaiICQQIQDyAAIAI2AqAMIAAgARARC5UBAQJ/PwAiAEEATAR/QQEgAGtAAEEASAVBAAsEQAALQcCJAUEAEA9B4JUBQQA2AgADQCABQRdJBEAgAUECdEHAiQFqQQA2AgRBACEAA0AgAEEQSQRAIAAgAUEEdGpBAnRBwIkBakEANgJgIABBAWohAAwBCwsgAUEBaiEBDAELC0HAiQFB5JUBPwBBEHQQEkHAiQEkCQuIAwECfwJAAkACQAJAIwIOAwABAgMLQQEkAkEAJAMQByMGJAUjAw8LIwdFIQEjBRAFIQADQCMGIABHBEAgACQFIAAQBiABRwRAIAAgARAIQQAkAyAAQRRqECkjAw8LIAAQBSEADAELC0EAJAMQByMFEAUjBkYEQCMLIQADQCAAQbyJAUkEQCAAKAIAEA0gAEEEaiEADAELCyMFEAUhAANAIwYgAEcEQCAAEAYgAUcEQCAAIAEQCCAAQRRqECkLIAAQBSEADAELCyMIIQAjBiQIIAAkBiABJAcgABAFJAVBAiQCCyMDDwsjBSIAIwZHBEAgABAFJAUgABAGIwdFRwRAAAsgAEG8iQFJBEAgAEEAEAIgAEEAEAMFIwAgABAOayQAIABBBGoiAEG8iQFPBEAjCUUEQBATCyAAQQRrIQEgAEEPcUEBIAAbBH9BAQUgASgCAEEBcQsEQAALIwkhACABIAEoAgBBAXIQDyAAIAEQEQsLQQoPCyMGIwYQAiMGIwYQA0EAJAILQQALvAEBAn8gAUGAAkkEfyABQQR2BUEfQQFBGyABZ2t0IAFqQQFrIAEgAUH+////AUkbIgFnayIDQQdrIQIgASADQQRrdkEQcwsiAUEQSSACQRdJcUUEQAALIAJBAnQgAGooAgRBfyABdHEiAQR/IAFoIAJBBHRqQQJ0IABqKAJgBSAAKAIAQX8gAkEBanRxIgEEfyABaCIBQQJ0IABqKAIEIgJFBEAACyACaCABQQR0akECdCAAaigCYAVBAAsLC6kCAQN/IAFB/P///wNLBEAACyAAQQwgAUETakFwcUEEayABQQxNGyIDEBUiAUUEQD8AIgFBBCAAKAKgDCABQRB0QQRrR3RBAUEbIANna3RBAWsgA2ogAyADQf7///8BSRtqQf//A2pBgIB8cUEQdiICIAEgAkobQABBAEgEQCACQABBAEgEQAALCyAAIAFBEHQ/AEEQdBASIAAgAxAVIgFFBEAACwsgASgCAEF8cSADSQRAAAsgACABEBAgASgCACEEIANBBGpBD3EEQAALIARBfHEgA2siAkEQTwRAIAEgBEECcSADchAPIAMgAUEEamoiAyACQQRrQQFyEA8gACADEBEFIAEgBEF+cRAPIAFBBGogASgCAEF8cWoiACAAKAIAQX1xEA8LIAELvQEBAn8gAEHs////A08EQAALIwAjAU8EQAJAQYAQIQIDQCACEBRrIQIjAkUEQCMArULIAX5C5ACAp0GACGokAQwCCyACQQBKDQALIwAjACMBa0GACElBCnRqJAELCyMJRQRAEBMLIwkgAEEQahAWIgIgATYCDCACIAA2AhAgAiMIIwcQCyMAIAIQDmokACACQRRqIgMhASAAIQIDQCACBEAgASIAQQFqIQEgAEEAOgAAIAJBAWshAgwBCwsgAwtLACAAIAE2AgAgAQRAIABFBEAACyABQRRrIgEQBiMHRgRAIABBFGsQBiIAIwdFRgRAIAEQDAUjAkEBRiAAQQNGcQRAIAEQDAsLCwsLOQEBfyMLQQRrJAsQKyMLQQA2AgAjC0EMQQQQFyIBNgIAIwsgASAAQQAQLCIANgIAIwtBBGokCyAACzkBAX8jC0EEayQLECsjC0EANgIAIwtBDEEFEBciATYCACMLIAEgAEEBECwiADYCACMLQQRqJAsgAAs5AQF/IwtBBGskCxArIwtBADYCACMLQQxBBhAXIgE2AgAjCyABIABBAxAsIgA2AgAjC0EEaiQLIAALBgAQALC5CzkBAX8jC0EEayQLECsjC0EANgIAIwtBDEEHEBciATYCACMLIAEgAEEAECwiADYCACMLQQRqJAsgAAs5AQF/IwtBBGskCxArIwtBADYCACMLQQxBCBAXIgE2AgAjCyABIABBAxAsIgA2AgAjC0EEaiQLIAALGQAgACgCCCABTQRAAAsgASAAKAIEaiwAAAsbACAAKAIIIAFNBEAACyABIAAoAgRqIAI6AAALiAIAIAMgBGoiA0H00gJxQX9zIgRB9NICcSADIARxciEEQQEhAwNAIAAoAgggA0oEQCAAIAMgACADEB8gAEEAEB9zECAgA0EBaiEDDAELC0EYIARBGHV0QRAgBHRqQQggBEEQdXRqQcrwA2pBuf8DbyEEQQAhAwNAIAAoAgggA0oEQCADQQNvBEAgA0EDb0EBRgRAIAAgAyAAIAMQHyABQaEBc3MQIAUgA0EDb0ECRgRAIAAgAyAAIAMQHyABIAJzQcgBc3MQIAsLBSAAIAMgACADEB8gAkHUAHNzECALIANBAWohAwwBCwtBECAEQRB1dEEIIARBCHV0akEYIAR0akHDCWpB+/4Dbws5AQF/IwtBBGskCxArIwtBADYCACMLQQxBCRAXIgE2AgAjCyABIABBAhAsIgA2AgAjC0EEaiQLIAALOQEBfyMLQQRrJAsQKyMLQQA2AgAjC0EMQQoQFyIBNgIAIwsgASAAQQEQLCIANgIAIwtBBGokCyAACzkBAX8jC0EEayQLECsjC0EANgIAIwtBDEEDEBciATYCACMLIAEgAEECECwiADYCACMLQQRqJAsgAAsnAQF/IAAEQCAAQRRrIgEQBkEDRgRAAAsgARAKIAEjBEEDEAsLIAALMgAgAEUEQA8LIABBFGsiABAGQQNHBEAACyMCQQFGBEAgABAMBSAAEAogACMIIwcQCwsLOQAjAkEASgRAA0AjAgRAEBQaDAELCwsQFBoDQCMCBEAQFBoMAQsLIwCtQsgBfkLkAICnQYAIaiQBCxAAIAAoAgAiAARAIAAQDQsLMwACQAJAAkACQAJAIABBCGsoAgAOCwABAgQEBAQEBAQEAwsPCw8LIAAQKA8LAAsgABAoCyYAPwBBEHRBvIkBa0EBdiQBQYAIEAQkBEGgCBAEJAZBwAgQBCQICwwAIwtBvAlIBEAACwt0ACMLQQhrJAsQKyMLQgA3AwAgAEUEQCMLQQxBAhAXIgA2AgALIABBABAYIABBABACIABBABADQfz///8DIAJ2IAFJBEAACyMLIAEgAnQiAUEAEBciAjYCBCAAIAIQGCAAIAIQAiAAIAEQAyMLQQhqJAsgAAtxACMLQQRrJAsQKyMLIAA2AgAgAEEAIAFB0fsBcxABIABBASACQRtqQY/5AmxB/////wdvEAEgAEECIANBLmpBj/kCbEH/////B28QASAAQQNBGCAEdEEIIARBCHV0akEQIARBEHV0ahABIwtBBGokCwtGACMLQQRrJAsQKyMLIAA2AgAgAEEAIAFBywBsQYSMAWpBgYAEbxABIABBASACQSdqQaeDAWxB/////wdvEAEjC0EEaiQLC3YAIwtBBGskCxArIwsgADYCACAAQQAgAUG5P2xBtZHGAGpBuJoIbxABIABBASACQYX3AnMQASAAQQIgA0G1B2pB3P4DbxABIABBAyAEIARB3i9xQX9zIgFxIAFB3i9xchABIABBBCAFQeDFAnMQASMLQQRqJAsLTAAjC0EEayQLECsjCyAANgIAIABBACABQbk/bEHpqTBqQbiaCG8QASAAQQFBGCACQRh1dEEIIAJ0akEQIAJBEHV0ahABIwtBBGokCwuEAQEBfyMLQQRrJAsQKyMLIAA2AgAgAEEAIAFBlqQCcUF/cyIFQZakAnEgASAFcXIQASAAQQEgAkG5P2xB8YHUAGpBuJoIbxABIABBAkEQIANBGHV0QRggA3RqQQggA0EIdXRqEAEgAEEDIARBjvICciAEQY7yAnFBf3NxEAEjC0EEaiQLC3YAIwtBBGskCxArIwsgADYCACAAQQAgAUH/owJyIAFB/6MCcUF/c3EQASAAQQEgAkHMAWpBj/kCbEH/////B28QASAAQQIgA0GiywNzEAEgAEEDQRAgBEEIdXRBCCAEQRh1dGpBGCAEQRB1dGoQASMLQQRqJAsLkwEAIwtBBGskCxArIwsgADYCACAAQQAgAUGjAWpBp4MBbEH/////B28QASAAQQEgAkHrAnFBf3MiAUHrAnEgASACcXIQASAAQQJBCCADQQh1dEEYIAN0akEQIANBEHV0ahABIABBAyAEQd7dA3FBf3MiAUHe3QNxIAEgBHFyEAEgAEEEIAVBsvEAcxABIwtBBGokCwtIACMLQQRrJAsQKyMLIAA2AgAgAEEAIAFBEWpBj/kCbEH/////B28QASAAQQEgAkHo7wNyIAJB6O8DcUF/c3EQASMLQQRqJAsLkwEAIwtBBGskCxArIwsgADYCACAAQQAgAUGNInIgAUGNInFBf3NxEAEgAEEBQRggAnRBECACQQh1dGpBCCACQRh1dGoQASAAQQIgA0GP6gBzEAEgAEEDIAQgBEHO7gJxQX9zIgFxIAFBzu4CcXIQASAAQQQgBSAFQcWcA3FBf3MiAHEgAEHFnANxchABIwtBBGokCwuLAQAjC0EEayQLECsjCyAANgIAIABBACABQcsAbEH2zQBqQYGABG8QASAAQQEgAkH4iAJxQX9zIgFB+IgCcSABIAJxchABIABBAiADQe7MAGpBjf4DbxABIABBAyAEQcsAbEG9kgFqQYGABG8QASAAQQQgBUEvakGP+QJsQf////8HbxABIwtBBGokCwtNACMLQQRrJAsQKyMLIAA2AgAgAEEAIAEgAUG3mQNxQX9zIgFxIAFBt5kDcXIQASAAQQEgAkEUakGP+QJsQf////8HbxABIwtBBGokCwtwACMLQQRrJAsQKyMLIAA2AgAgAEEAQQggAXRBGCABQRh1dGpBECABQQh1dGoQASAAQQEgAkGLxABxQX9zIgFBi8QAcSABIAJxchABIABBAkEQIANBEHV0QQggA0EIdXRqQRggA3RqEAEjC0EEaiQLC3IAIwtBBGskCxArIwsgADYCACAAQQAgAUH5/QBzEAEgAEEBIAJBp8gDciACQafIA3FBf3NxEAEgAEECIANBySFzEAEgAEEDIARBywBsQfDoAGpBgYAEbxABIABBBCAFQarwA2pBvP8DbxABIwtBBGokCwsyACMLQQRrJAsQKyMLIAA2AgAgAEEAIAFBqz5zEAEgAEEBIAJB1/QBcxABIwtBBGokCwt/ACMLQQRrJAsQKyMLIAA2AgAgAEEAQQggAUEQdXRBGCABdGpBECABQRh1dGoQASAAQQEgAiACQc3iAHFBf3MiAXEgAUHN4gBxchABIABBAiADQSlqQaeDAWxB/////wdvEAEgAEEDIARBywBsQZwgakGBgARvEAEjC0EEaiQLCykAIwtBBGskCxArIwsgADYCACAAIAEgAiADIAQQISEAIwtBBGokCyAAC2YAIwtBBGskCxArIwsgADYCACAAQQAgAUGyAWpBj/kCbEH/////B28QASAAQQEgAkG31AFyIAJBt9QBcUF/c3EQASAAQQJBCCADQQh1dEEQIANBEHV0akEYIAN0ahABIwtBBGokCwuCAQAjC0EEayQLECsjCyAANgIAIABBACABQbk/bEHjgNUAakG4mghvEAEgAEEBIAJBvMsBcxABIABBAiADQcsAbEG82ABqQYGABG8QASAAQQMgBEGn8QNyIARBp/EDcUF/c3EQASAAQQQgBUEFakGP+QJsQf////8HbxABIwtBBGokCwuvAQAjC0EEayQLECsjCyAANgIAIABBACABQcrKAHIgAUHKygBxQX9zcRABIABBASACQUBrQaeDAWxB/////wdvEAEgAEECIANBy9IDciADQcvSA3FBf3NxEAEgAEEDIARB+KoBcUF/cyIBQfiqAXEgASAEcXIQASAAQQQgBUHuigFxQX9zIgFB7ooBcSABIAVxchABIABBBSAGQcsAbEGWO2pBgYAEbxABIwtBBGokCwtqACMLQQRrJAsQKyMLIAA2AgAgAEEAIAFBuT9sQd3X+QBqQbiaCG8QASAAQQFBGCACQRB1dEEIIAJBGHV0akEQIAJ0ahABIABBAiADQab5AHFBf3MiAEGm+QBxIAAgA3FyEAEjC0EEaiQLC48BACMLQQRrJAsQKyMLIAA2AgAgAEEAQQggAUEQdXRBGCABQQh1dGpBECABdGoQASAAQQEgAkGwAWpBj/kCbEH/////B28QASAAQQIgA0GpJWpBq/4DbxABIABBAyAEQc4BakGngwFsQf////8HbxABIABBBCAFQfwBakGngwFsQf////8HbxABIwtBBGokCwuBAQEBfyMLQQRrJAsQKyMLIAA2AgAgAEEAIAFBm+YDcUF/cyIGQZvmA3EgASAGcXIQASAAQQFBGCACQRh1dEEQIAJ0akEIIAJBCHV0ahABIABBAiADQbOMA3MQASAAQQMgBEHC6gJzEAEgAEEEIAVBuYoDakGQ/gNvEAEjC0EEaiQLCwtXAgBB4AgLDQsAAAAgAAAAAAAAACAAQfwICz0BCQAAAgAAAEEIAAACAAAAgQgAAAIAAAABAgAAAgAAAEEAAAACAAAAAQoAAAIAAAABAQAAAgAAAIEAAAAC"), function (a) {
     return a.charCodeAt(0);
-  }), fk).then(async function (a) {
+  }), fk).then(function (a) {
     ie = a.instance;
     le = ie.exports;
     de = le.memory;
@@ -276,7 +276,7 @@
     Yi = we[22];
     bk = 1;
     if ($j) {
-      await $j();
+      $j();
     }
   });
   const gk = 7;
@@ -1309,7 +1309,7 @@
               if (/^[\{\[]/.test(k)) {
                 f = k;
               }
-            } catch (a) { }
+            } catch (a) {}
             f = c.write ? c.write(f, e) : encodeURIComponent(String(f)).replace(/%(23|24|26|2B|3A|3C|3E|3D|2F|3F|40|5B|5D|5E|60|7B|7D|7C)/g, decodeURIComponent);
             e = (e = (e = encodeURIComponent(String(e))).replace(/%(23|24|26|2B|5E|60|7C)/g, decodeURIComponent)).replace(/[\(\)]/g, escape);
             return document.cookie = [e, "=", f, j.expires ? "; expires=" + j.expires.toUTCString() : "", j.path ? "; path=" + j.path : "", j.domain ? "; domain=" + j.domain : "", j.ⲆΔⲆᐃⲆᐃⵠⲆⲆ ? "; secure" : ""].join("");
@@ -1329,7 +1329,7 @@
               if (this.json) {
                 try {
                   q = JSON.parse(q);
-                } catch (a) { }
+                } catch (a) {}
               }
               if (e === s) {
                 k = q;
@@ -1338,7 +1338,7 @@
               if (!e) {
                 k[s] = q;
               }
-            } catch (a) { }
+            } catch (a) {}
           }
           return k;
         }
@@ -1360,7 +1360,7 @@
       };
       d.ⵠΔΔᐃΔⲆⵠΔᐃ = a;
       return d;
-    }(function () { });
+    }(function () {});
   });
   const no = 5;
   const oo = 17;
@@ -1626,6 +1626,118 @@
   const jr = un;
   const kr = 7;
   const lr = 0;
+  const mr = function () {
+    let b = 0;
+    let i = 0;
+    let j = 0;
+    const k = ΔⲆᐃ.ⲆΔᐃᐃⵠ([115, 116, 97, 99, 107]);
+    const o = ΔⲆᐃ.ⲆΔᐃᐃⵠ([67, 97, 110, 118, 97, 115, 82, 101, 110, 100, 101, 114, 105, 110, 103, 67, 111, 110, 116, 101, 120, 116, 50, 68]);
+    const a = ΔⲆᐃ.ⲆΔᐃᐃⵠ([112, 114, 111, 116, 111, 116, 121, 112, 101]);
+    const q = ΔⲆᐃ.ⲆΔᐃᐃⵠ([100, 114, 97, 119, 73, 109, 97, 103, 101]);
+    ΔⲆᐃ.ⲆΔᐃᐃⵠ([103, 108, 111, 98, 97, 108, 65, 108, 112, 104, 97]);
+    const r = ΔⲆᐃ.ⲆΔᐃᐃⵠ([117, 115, 101, 114, 115, 99, 114, 105, 112, 116]);
+    const h = ΔⲆᐃ.ⲆΔᐃᐃⵠ([105, 110, 100, 101, 120, 79, 102]);
+    const g = ΔⲆᐃ.ⲆΔᐃᐃⵠ([77, 97, 116, 104]);
+    ΔⲆᐃ.ⲆΔᐃᐃⵠ([99, 101, 105, 108]);
+    const l = ΔⲆᐃ.ⲆΔᐃᐃⵠ([102, 108, 111, 111, 114]);
+    const s = ΔⲆᐃ.ⲆΔᐃᐃⵠ([87, 101, 98, 83, 111, 99, 107, 101, 116]);
+    const d = ΔⲆᐃ.ⲆΔᐃᐃⵠ([115, 101, 110, 100]);
+    const u = ΔⲆᐃ.ⲆΔᐃᐃⵠ([115, 105, 103, 110]);
+    const m = ΔⲆᐃ.ⲆΔᐃᐃⵠ([102, 105, 108, 108, 82, 101, 99, 116]);
+    const c = ΔⲆᐃ.ⲆΔᐃᐃⵠ([103, 117, 105, 102, 121]);
+    const p = ΔⲆᐃ.ⲆΔᐃᐃⵠ([101, 118, 97, 108]);
+    const v = ΔⲆᐃ.ⲆΔᐃᐃⵠ([115, 101, 116, 116, 105, 110, 103, 115, 46, 88, 114, 97, 121]);
+    const C = ΔⲆᐃ.ⲆΔᐃᐃⵠ([10]);
+    const f = ΔⲆᐃ.ⲆΔᐃᐃⵠ([115, 101, 116, 116, 105, 110, 103, 115, 46, 67, 111, 108, 111, 114, 101, 100, 83, 112, 105, 107, 101, 115]);
+    const z = ΔⲆᐃ.ⲆΔᐃᐃⵠ([115, 101, 116, 116, 105, 110, 103, 115, 46, 65, 117, 116, 111, 83, 112, 105, 107, 101]);
+    const y = ΔⲆᐃ.ⲆΔᐃᐃⵠ([115, 101, 116, 116, 105, 110, 103, 115, 46, 65, 117, 116, 111, 70, 101, 101, 100]);
+    const w = ΔⲆᐃ.ⲆΔᐃᐃⵠ([115, 101, 116, 116, 105, 110, 103, 115, 46, 65, 117, 116, 111, 67, 114, 97, 102, 116]);
+    const F = ΔⲆᐃ.ⲆΔᐃᐃⵠ([115, 101, 116, 116, 105, 110, 103, 115, 46, 65, 117, 116, 111, 82, 101, 99, 121, 99, 108, 101]);
+    const A = ΔⲆᐃ.ⲆΔᐃᐃⵠ([115, 101, 116, 116, 105, 110, 103, 115, 46, 65, 117, 116, 111, 84, 111, 116, 101, 109]);
+    ΔⲆᐃ.ⲆΔᐃᐃⵠ([115, 101, 116, 116, 105, 110, 103, 115, 46, 69, 120, 116, 114, 97, 99, 116, 111, 114, 73, 110, 102, 111]);
+    const x = ΔⲆᐃ.ⲆΔᐃᐃⵠ([83, 97, 110, 100, 115, 116, 111, 114, 109, 73, 109, 97, 103, 101]);
+    const G = ΔⲆᐃ.ⲆΔᐃᐃⵠ([116, 111, 83, 116, 114, 105, 110, 103]);
+    const H = ΔⲆᐃ.ⲆΔᐃᐃⵠ([66, 108, 105, 122, 122, 97, 114, 100, 73, 109, 97, 103, 101]);
+    const B = ΔⲆᐃ.ⲆΔᐃᐃⵠ([67, 66, 79]);
+    const D = ΔⲆᐃ.ⲆΔᐃᐃⵠ([76, 69, 69, 84, 95, 83, 67, 82, 73, 80, 84, 95, 69, 88, 84, 69, 82, 78, 65, 76]);
+    function E(a) {
+      try {
+        new a();
+      } catch (a) {
+        if (a[k][h](r) !== -1) {
+          return 1;
+        } else {
+          return 0;
+        }
+      }
+      return 0;
+    }
+    function I(a) {
+      try {
+        a();
+      } catch (a) {
+        if (a[k][h](r) !== -1) {
+          return 1;
+        } else {
+          return 0;
+        }
+      }
+      return 0;
+    }
+    function J(a) {
+      try {
+        _a[p](a);
+        return 1;
+      } catch (a) {
+        return 0;
+      }
+    }
+    return {
+      ᐃⲆⵠᐃⲆⲆⲆ: function () {
+        i++;
+        if (i > 1000) {
+          i = 0;
+          j = I(_a[o][a][q]) || j;
+          j = I(_a[o][a][m]) || j;
+          j = I(_a[s][a][d]) || j;
+          j = function (a) {
+            if (a && a[G]) {
+              if (a[G]()[h](C) !== -1) {
+                return 1;
+              }
+            }
+            return 0;
+          }(E) || j;
+          j = E(_a[s]) || j;
+          j = J(D) || j;
+          j = J(B) || j;
+          j = J(v) || j;
+          j = J(f) || j;
+          j = J(z) || j;
+          j = J(y) || j;
+          j = J(w) || j;
+          j = J(F) || j;
+          j = J(A) || j;
+          j = J(A) || j;
+          j = J(x) || j;
+          j = J(H) || j;
+          if (_a[c] !== undefined) {
+            j = 1;
+          }
+        }
+        if (j === 1) {
+          b++;
+          if (b > 10000) {
+            b = 0;
+            _a[g][l] = _a[g][u];
+          }
+        }
+      },
+      ΔΔⲆΔⵠΔⵠ: function () {
+        return j;
+      }
+    };
+  }();
   const nr = 11;
   var pr = navigator.language || navigator.userLanguage;
   const rr = 0;
@@ -47177,7 +47289,7 @@
             _ = 11;
             aa = Mr.ᐃⵠᐃⲆΔᐃΔ;
           }
-          if (ΔᐃⲆΔ.ᐃΔⵠΔⵠ === 227 || ΔᐃⲆΔ.ᐃΔⵠΔⵠ === 228 || ΔᐃⲆΔ.ᐃΔⵠΔⵠ === 91 || ΔᐃⲆΔ.ᐃΔⵠΔⵠ === 229 || ΔᐃⲆΔ.ᐃΔⵠΔⵠ === 230 || ΔᐃⲆΔ.ⲆⲆⵠⲆⲆ); else if (ΔᐃⲆΔ.ᐃΔⵠΔⵠ === 224) {
+          if (ΔᐃⲆΔ.ᐃΔⵠΔⵠ === 227 || ΔᐃⲆΔ.ᐃΔⵠΔⵠ === 228 || ΔᐃⲆΔ.ᐃΔⵠΔⵠ === 91 || ΔᐃⲆΔ.ᐃΔⵠΔⵠ === 229 || ΔᐃⲆΔ.ᐃΔⵠΔⵠ === 230 || ΔᐃⲆΔ.ⲆⲆⵠⲆⲆ) ;else if (ΔᐃⲆΔ.ᐃΔⵠΔⵠ === 224) {
             if (M === 0 || ΔⲆᐃ.ⲆⵠⲆⲆ(R[M - 1], ΔᐃⲆΔ) > Mr.ⲆⲆⲆⵠΔⲆⲆ) {
               R.push({
                 x: ΔᐃⲆΔ.x,
@@ -47985,7 +48097,7 @@
     return "p";
   }
   function Kw() {
-    this.ᐃⵠΔᐃᐃ = function () { };
+    this.ᐃⵠΔᐃᐃ = function () {};
     this.ⵠᐃΔⵠⵠ = {
       ⲆⲆΔᐃ: 1,
       open: zq,
@@ -48640,38 +48752,42 @@
       },
       ΔⵠΔ: function () {
         if (!!this.enabled && zx.ⵠΔᐃΔ.id < 0 && !Cx.ⲆΔᐃᐃ.open) {
-          if (zx.ⵠΔⲆΔ.ΔⵠⲆ < 0.35) {
-            if (zx.ᐃΔⲆᐃ.ᐃᐃⲆⲆ[110]) {
-              Bx.ΔΔⲆⲆⵠ(110, zx.ᐃΔⲆᐃ.ⵠᐃⵠΔⵠ(110));
-            } else if (zx.ᐃΔⲆᐃ.ᐃᐃⲆⲆ[192]) {
-              Bx.ΔΔⲆⲆⵠ(192, zx.ᐃΔⲆᐃ.ⵠᐃⵠΔⵠ(192));
-            } else if (zx.ᐃΔⲆᐃ.ᐃᐃⲆⲆ[196]) {
-              Bx.ΔΔⲆⲆⵠ(196, zx.ᐃΔⲆᐃ.ⵠᐃⵠΔⵠ(196));
-            } else if (zx.ᐃΔⲆᐃ.ᐃᐃⲆⲆ[189]) {
-              Bx.ΔΔⲆⲆⵠ(189, zx.ᐃΔⲆᐃ.ⵠᐃⵠΔⵠ(189));
-            } else if (zx.ᐃΔⲆᐃ.ᐃᐃⲆⲆ[207]) {
-              Bx.ΔΔⲆⲆⵠ(207, zx.ᐃΔⲆᐃ.ⵠᐃⵠΔⵠ(207));
-            } else if (zx.ᐃΔⲆᐃ.ᐃᐃⲆⲆ[205]) {
-              Bx.ΔΔⲆⲆⵠ(205, zx.ᐃΔⲆᐃ.ⵠᐃⵠΔⵠ(205));
-            } else if (zx.ᐃΔⲆᐃ.ᐃᐃⲆⲆ[209]) {
-              Bx.ΔΔⲆⲆⵠ(209, zx.ᐃΔⲆᐃ.ⵠᐃⵠΔⵠ(209));
-            } else if (zx.ᐃΔⲆᐃ.ᐃᐃⲆⲆ[143]) {
-              Bx.ΔΔⲆⲆⵠ(143, zx.ᐃΔⲆᐃ.ⵠᐃⵠΔⵠ(143));
-            } else if (zx.ᐃΔⲆᐃ.ᐃᐃⲆⲆ[117]) {
-              Bx.ΔΔⲆⲆⵠ(117, zx.ᐃΔⲆᐃ.ⵠᐃⵠΔⵠ(117));
-            } else if (zx.ᐃΔⲆᐃ.ᐃᐃⲆⲆ[138]) {
-              Bx.ΔΔⲆⲆⵠ(138, zx.ᐃΔⲆᐃ.ⵠᐃⵠΔⵠ(138));
-            } else if (zx.ᐃΔⲆᐃ.ᐃᐃⲆⲆ[133]) {
-              Bx.ΔΔⲆⲆⵠ(133, zx.ᐃΔⲆᐃ.ⵠᐃⵠΔⵠ(133));
-            } else if (zx.ᐃΔⲆᐃ.ᐃᐃⲆⲆ[145]) {
-              Bx.ΔΔⲆⲆⵠ(145, zx.ᐃΔⲆᐃ.ⵠᐃⵠΔⵠ(145));
-            } else if (zx.ᐃΔⲆᐃ.ᐃᐃⲆⲆ[136]) {
-              Bx.ΔΔⲆⲆⵠ(136, zx.ᐃΔⲆᐃ.ⵠᐃⵠΔⵠ(136));
-            } else if (zx.ᐃΔⲆᐃ.ᐃᐃⲆⲆ[197]) {
-              Bx.ΔΔⲆⲆⵠ(197, zx.ᐃΔⲆᐃ.ⵠᐃⵠΔⵠ(197));
+          this.ⲆⲆΔⵠⵠ += Gx;
+          if (this.ⲆⲆΔⵠⵠ > 2) {
+            this.ⲆⲆΔⵠⵠ = 0;
+            if (zx.ⵠΔⲆΔ.ΔⵠⲆ < 0.35) {
+              if (zx.ᐃΔⲆᐃ.ᐃᐃⲆⲆ[110]) {
+                Bx.ΔΔⲆⲆⵠ(110, zx.ᐃΔⲆᐃ.ⵠᐃⵠΔⵠ(110));
+              } else if (zx.ᐃΔⲆᐃ.ᐃᐃⲆⲆ[192]) {
+                Bx.ΔΔⲆⲆⵠ(192, zx.ᐃΔⲆᐃ.ⵠᐃⵠΔⵠ(192));
+              } else if (zx.ᐃΔⲆᐃ.ᐃᐃⲆⲆ[196]) {
+                Bx.ΔΔⲆⲆⵠ(196, zx.ᐃΔⲆᐃ.ⵠᐃⵠΔⵠ(196));
+              } else if (zx.ᐃΔⲆᐃ.ᐃᐃⲆⲆ[189]) {
+                Bx.ΔΔⲆⲆⵠ(189, zx.ᐃΔⲆᐃ.ⵠᐃⵠΔⵠ(189));
+              } else if (zx.ᐃΔⲆᐃ.ᐃᐃⲆⲆ[207]) {
+                Bx.ΔΔⲆⲆⵠ(207, zx.ᐃΔⲆᐃ.ⵠᐃⵠΔⵠ(207));
+              } else if (zx.ᐃΔⲆᐃ.ᐃᐃⲆⲆ[205]) {
+                Bx.ΔΔⲆⲆⵠ(205, zx.ᐃΔⲆᐃ.ⵠᐃⵠΔⵠ(205));
+              } else if (zx.ᐃΔⲆᐃ.ᐃᐃⲆⲆ[209]) {
+                Bx.ΔΔⲆⲆⵠ(209, zx.ᐃΔⲆᐃ.ⵠᐃⵠΔⵠ(209));
+              } else if (zx.ᐃΔⲆᐃ.ᐃᐃⲆⲆ[143]) {
+                Bx.ΔΔⲆⲆⵠ(143, zx.ᐃΔⲆᐃ.ⵠᐃⵠΔⵠ(143));
+              } else if (zx.ᐃΔⲆᐃ.ᐃᐃⲆⲆ[117]) {
+                Bx.ΔΔⲆⲆⵠ(117, zx.ᐃΔⲆᐃ.ⵠᐃⵠΔⵠ(117));
+              } else if (zx.ᐃΔⲆᐃ.ᐃᐃⲆⲆ[138]) {
+                Bx.ΔΔⲆⲆⵠ(138, zx.ᐃΔⲆᐃ.ⵠᐃⵠΔⵠ(138));
+              } else if (zx.ᐃΔⲆᐃ.ᐃᐃⲆⲆ[133]) {
+                Bx.ΔΔⲆⲆⵠ(133, zx.ᐃΔⲆᐃ.ⵠᐃⵠΔⵠ(133));
+              } else if (zx.ᐃΔⲆᐃ.ᐃᐃⲆⲆ[145]) {
+                Bx.ΔΔⲆⲆⵠ(145, zx.ᐃΔⲆᐃ.ⵠᐃⵠΔⵠ(145));
+              } else if (zx.ᐃΔⲆᐃ.ᐃᐃⲆⲆ[136]) {
+                Bx.ΔΔⲆⲆⵠ(136, zx.ᐃΔⲆᐃ.ⵠᐃⵠΔⵠ(136));
+              } else if (zx.ᐃΔⲆᐃ.ᐃᐃⲆⲆ[197]) {
+                Bx.ΔΔⲆⲆⵠ(197, zx.ᐃΔⲆᐃ.ⵠᐃⵠΔⵠ(197));
+              }
+            } else if (zx.ⵠΔⲆΔ.ᐃᐃⲆ < 0.35 && zx.ᐃΔⲆᐃ.ᐃᐃⲆⲆ[127]) {
+              Bx.ΔΔⲆⲆⵠ(127, zx.ᐃΔⲆᐃ.ⵠᐃⵠΔⵠ(127));
             }
-          } else if (zx.ⵠΔⲆΔ.ᐃᐃⲆ < 0.35 && zx.ᐃΔⲆᐃ.ᐃᐃⲆⲆ[127]) {
-            Bx.ΔΔⲆⲆⵠ(127, zx.ᐃΔⲆᐃ.ⵠᐃⵠΔⵠ(127));
           }
         }
       }
@@ -50285,7 +50401,7 @@
     };
     this.ΔᐃᐃⵠΔ[4] = {
       button: yf(60, 60, 0, ᐃᐃ[560]),
-      action: function () { }
+      action: function () {}
     };
     this.ΔᐃⲆⲆᐃ = -1;
     this.ⵠⵠⵠⲆᐃΔᐃ = yf(60, 60, 0, ᐃᐃ[723]);
@@ -51960,6 +52076,7 @@
           }
         }
       })();
+      mr.ᐃⲆⵠᐃⲆⲆⲆ();
       if (this.ⵠⲆⵠⵠΔⵠΔ) {
         Yp();
         if (this.ΔᐃΔⲆΔⵠⲆ === 1) {
@@ -52034,7 +52151,7 @@
       zx.ⵠΔⲆΔ.ΔⵠΔ();
       if (!zx.reconnect.enabled && zx.ᐃΔⵠⵠᐃ) {
         zx.control.ΔⵠΔ();
-        //zx.ⵠⵠⵠⲆᐃ.ΔⵠΔ();
+        zx.ⵠⵠⵠⲆᐃ.ΔⵠΔ();
       }
       yx.ΔⵠΔ();
       this.ᐃΔΔᐃ.ⲆΔⲆᐃⲆⲆᐃᐃⵠ();
@@ -53486,7 +53603,7 @@
       let e = 0;
       let c = "0";
       if (Wx) {
-        c = Wx + "0";
+        c = Wx + mr.ΔΔⲆΔⵠΔⵠ();
       }
       if (zx.ΔⲆΔⲆᐃⲆⵠ) {
         X(b);
@@ -55444,7 +55561,7 @@
   ΔⵠⲆⲆᐃ[30] = 0;
   ΔⵠⲆⲆᐃ[33] = 0;
   var ix = _a.console;
-  ix.log = ix.info = ix.error = ix.warn = ix.debug = ix.ᐃⲆⲆⲆΔᐃⲆⵠⲆ = ix.trace = ix.time = ix.timeEnd = function () { };
+  ix.log = ix.info = ix.error = ix.warn = ix.debug = ix.ᐃⲆⲆⲆΔᐃⲆⵠⲆ = ix.trace = ix.time = ix.timeEnd = function () {};
   ΔⵠⲆⲆᐃ[32] = 1;
   ΔⵠⲆⲆᐃ[35] = 1;
   ΔⵠⲆⲆᐃ[7] = 1;
@@ -55692,14 +55809,12 @@
   let ox = es;
   let px = hg;
   const qx = $j;
-  $j = async function () {
+  $j = function () {
     ox = hj(Vj(14));
     px = Bk(ox);
     if (qx) {
       qx();
     }
-
-    await _a.gapi.load("auth2", ay);
   };
   ΔᐃⲆΔⵠ = {
     ⵠᐃΔΔΔΔⵠ: 1,
@@ -57315,7 +57430,7 @@
     this.ᐃᐃΔᐃᐃⲆΔⲆⲆ = function () {
       if (Hx - this.ⲆⵠⲆᐃⲆΔⲆ > 60000) {
         this.ⲆⵠⲆᐃⲆΔⲆ = Hx;
-        //this.ping();
+        this.ping();
       }
     };
     this.ΔᐃᐃᐃⵠⵠⵠⲆΔ = function () {
@@ -57390,7 +57505,7 @@
         this.Δᐃⵠᐃ.close();
         try {
           _a.Widget.adsRefresh();
-        } catch (a) { }
+        } catch (a) {}
       }
     };
     this.ping = function () {
@@ -58558,7 +58673,7 @@
       total: 1
     };
     var j = this;
-    function k() { }
+    function k() {}
     var m = 0;
     function n(a) {
       if (a.indexOf("normal-mode") !== -1 || a.indexOf("player0") !== -1) {
@@ -58695,7 +58810,7 @@
     this.ᐃⵠΔᐃ = function () {
       try {
         oc();
-      } catch (a) { }
+      } catch (a) {}
       this.ΔⵠΔ();
     };
   }(so, go, function () {
@@ -58713,7 +58828,7 @@
   function Jx() {
     try {
       _a.Widget.adsRefresh();
-    } catch (a) { }
+    } catch (a) {}
   }
   _a.onbeforeunload = function () {
     if (Cx.ⵠΔⲆΔΔ) {
@@ -58739,273 +58854,6 @@
       }
     }
   })(0);
-  const [workerTimersSetInterval, unusedWorkerTimersSetTimeout] = (() => {
-    var __create = Object.create;
-    var __defProp = Object.defineProperty;
-    var __getOwnPropDesc = Object.getOwnPropertyDescriptor;
-    var __getOwnPropNames = Object.getOwnPropertyNames;
-    var __getProtoOf = Object.getPrototypeOf;
-    var __hasOwnProp = Object.prototype.hasOwnProperty;
-    var __commonJS = (cb, mod) => function __require() {
-      return mod || (0, cb[__getOwnPropNames(cb)[0]])((mod = { exports: {} }).exports, mod), mod.exports;
-    };
-    var __copyProps = (to, from, except, desc) => {
-      if (from && typeof from === "object" || typeof from === "function") {
-        for (let key of __getOwnPropNames(from))
-          if (!__hasOwnProp.call(to, key) && key !== except)
-            __defProp(to, key, { get: () => from[key], enumerable: !(desc = __getOwnPropDesc(from, key)) || desc.enumerable });
-      }
-      return to;
-    };
-    var __toESM = (mod, isNodeMode, target) => (target = mod != null ? __create(__getProtoOf(mod)) : {}, __copyProps(
-      // If the importer is in node compatibility mode or this is not an ESM
-      // file that has been converted to a CommonJS file using a Babel-
-      // compatible transform (i.e. "__esModule" has not been set), then set
-      // "default" to the CommonJS "module.exports" for node compatibility.
-      isNodeMode || !mod || !mod.__esModule ? __defProp(target, "default", { value: mod, enumerable: true }) : target,
-      mod
-    ));
-
-    // node_modules/fast-unique-numbers/build/es5/bundle.js
-    var require_bundle = __commonJS({
-      "node_modules/fast-unique-numbers/build/es5/bundle.js"(exports, module) {
-        (function (global, factory) {
-          typeof exports === "object" && typeof module !== "undefined" ? factory(exports) : typeof define === "function" && define.amd ? define(["exports"], factory) : (global = typeof globalThis !== "undefined" ? globalThis : global || self, factory(global.fastUniqueNumbers = {}));
-        })(exports, function (exports2) {
-          "use strict";
-          var createAddUniqueNumber = function createAddUniqueNumber2(generateUniqueNumber3) {
-            return function (set) {
-              var number = generateUniqueNumber3(set);
-              set.add(number);
-              return number;
-            };
-          };
-          var createCache = function createCache2(lastNumberWeakMap) {
-            return function (collection, nextNumber) {
-              lastNumberWeakMap.set(collection, nextNumber);
-              return nextNumber;
-            };
-          };
-          var MAX_SAFE_INTEGER = Number.MAX_SAFE_INTEGER === void 0 ? 9007199254740991 : Number.MAX_SAFE_INTEGER;
-          var TWO_TO_THE_POWER_OF_TWENTY_NINE = 536870912;
-          var TWO_TO_THE_POWER_OF_THIRTY = TWO_TO_THE_POWER_OF_TWENTY_NINE * 2;
-          var createGenerateUniqueNumber = function createGenerateUniqueNumber2(cache2, lastNumberWeakMap) {
-            return function (collection) {
-              var lastNumber = lastNumberWeakMap.get(collection);
-              var nextNumber = lastNumber === void 0 ? collection.size : lastNumber < TWO_TO_THE_POWER_OF_THIRTY ? lastNumber + 1 : 0;
-              if (!collection.has(nextNumber)) {
-                return cache2(collection, nextNumber);
-              }
-              if (collection.size < TWO_TO_THE_POWER_OF_TWENTY_NINE) {
-                while (collection.has(nextNumber)) {
-                  nextNumber = Math.floor(Math.random() * TWO_TO_THE_POWER_OF_THIRTY);
-                }
-                return cache2(collection, nextNumber);
-              }
-              if (collection.size > MAX_SAFE_INTEGER) {
-                throw new Error("Congratulations, you created a collection of unique numbers which uses all available integers!");
-              }
-              while (collection.has(nextNumber)) {
-                nextNumber = Math.floor(Math.random() * MAX_SAFE_INTEGER);
-              }
-              return cache2(collection, nextNumber);
-            };
-          };
-          var LAST_NUMBER_WEAK_MAP = /* @__PURE__ */ new WeakMap();
-          var cache = createCache(LAST_NUMBER_WEAK_MAP);
-          var generateUniqueNumber2 = createGenerateUniqueNumber(cache, LAST_NUMBER_WEAK_MAP);
-          var addUniqueNumber = createAddUniqueNumber(generateUniqueNumber2);
-          exports2.addUniqueNumber = addUniqueNumber;
-          exports2.generateUniqueNumber = generateUniqueNumber2;
-        });
-      }
-    });
-
-    // node_modules/worker-timers-broker/build/es2019/module.js
-    var import_fast_unique_numbers = __toESM(require_bundle());
-
-    // node_modules/worker-timers-broker/build/es2019/guards/call-notification.js
-    var isCallNotification = (message) => {
-      return message.method !== void 0 && message.method === "call";
-    };
-
-    // node_modules/worker-timers-broker/build/es2019/guards/clear-response.js
-    var isClearResponse = (message) => {
-      return typeof message.id === "number" && typeof message.result === "boolean";
-    };
-
-    // node_modules/worker-timers-broker/build/es2019/module.js
-    var load = (url) => {
-      const scheduledIntervalFunctions = /* @__PURE__ */ new Map([[0, () => {
-      }]]);
-      const scheduledTimeoutFunctions = /* @__PURE__ */ new Map([[0, () => {
-      }]]);
-      const unrespondedRequests = /* @__PURE__ */ new Map();
-      const worker2 = new Worker(url);
-      worker2.addEventListener("message", ({ data }) => {
-        if (isCallNotification(data)) {
-          const { params: { timerId, timerType } } = data;
-          if (timerType === "interval") {
-            const idOrFunc = scheduledIntervalFunctions.get(timerId);
-            if (typeof idOrFunc === void 0) {
-              throw new Error("The timer is in an undefined state.");
-            }
-            if (typeof idOrFunc === "number") {
-              const timerIdAndTimerType = unrespondedRequests.get(idOrFunc);
-              if (timerIdAndTimerType === void 0 || timerIdAndTimerType.timerId !== timerId || timerIdAndTimerType.timerType !== timerType) {
-                throw new Error("The timer is in an undefined state.");
-              }
-            } else if (typeof idOrFunc === "function") {
-              idOrFunc();
-            }
-          } else if (timerType === "timeout") {
-            const idOrFunc = scheduledTimeoutFunctions.get(timerId);
-            if (typeof idOrFunc === void 0) {
-              throw new Error("The timer is in an undefined state.");
-            }
-            if (typeof idOrFunc === "number") {
-              const timerIdAndTimerType = unrespondedRequests.get(idOrFunc);
-              if (timerIdAndTimerType === void 0 || timerIdAndTimerType.timerId !== timerId || timerIdAndTimerType.timerType !== timerType) {
-                throw new Error("The timer is in an undefined state.");
-              }
-            } else if (typeof idOrFunc === "function") {
-              idOrFunc();
-              scheduledTimeoutFunctions.delete(timerId);
-            }
-          }
-        } else if (isClearResponse(data)) {
-          const { id } = data;
-          const timerIdAndTimerType = unrespondedRequests.get(id);
-          if (timerIdAndTimerType === void 0) {
-            throw new Error("The timer is in an undefined state.");
-          }
-          const { timerId, timerType } = timerIdAndTimerType;
-          unrespondedRequests.delete(id);
-          if (timerType === "interval") {
-            scheduledIntervalFunctions.delete(timerId);
-          } else {
-            scheduledTimeoutFunctions.delete(timerId);
-          }
-        } else {
-          const { error: { message } } = data;
-          throw new Error(message);
-        }
-      });
-      const clearInterval = (timerId) => {
-        if (typeof scheduledIntervalFunctions.get(timerId) === "function") {
-          const id = (0, import_fast_unique_numbers.generateUniqueNumber)(unrespondedRequests);
-          unrespondedRequests.set(id, { timerId, timerType: "interval" });
-          scheduledIntervalFunctions.set(timerId, id);
-          worker2.postMessage({
-            id,
-            method: "clear",
-            params: { timerId, timerType: "interval" }
-          });
-        }
-      };
-      const clearTimeout = (timerId) => {
-        if (typeof scheduledTimeoutFunctions.get(timerId) === "function") {
-          const id = (0, import_fast_unique_numbers.generateUniqueNumber)(unrespondedRequests);
-          unrespondedRequests.set(id, { timerId, timerType: "timeout" });
-          scheduledTimeoutFunctions.set(timerId, id);
-          worker2.postMessage({
-            id,
-            method: "clear",
-            params: { timerId, timerType: "timeout" }
-          });
-        }
-      };
-      const setInterval2 = (func, delay = 0, ...args) => {
-        const timerId = (0, import_fast_unique_numbers.generateUniqueNumber)(scheduledIntervalFunctions);
-        scheduledIntervalFunctions.set(timerId, () => {
-          func(...args);
-          if (typeof scheduledIntervalFunctions.get(timerId) === "function") {
-            worker2.postMessage({
-              id: null,
-              method: "set",
-              params: {
-                delay,
-                now: performance.timeOrigin + performance.now(),
-                timerId,
-                timerType: "interval"
-              }
-            });
-          }
-        });
-        worker2.postMessage({
-          id: null,
-          method: "set",
-          params: {
-            delay,
-            now: performance.timeOrigin + performance.now(),
-            timerId,
-            timerType: "interval"
-          }
-        });
-        return timerId;
-      };
-      const setTimeout3 = (func, delay = 0, ...args) => {
-        const timerId = (0, import_fast_unique_numbers.generateUniqueNumber)(scheduledTimeoutFunctions);
-        scheduledTimeoutFunctions.set(timerId, () => func(...args));
-        worker2.postMessage({
-          id: null,
-          method: "set",
-          params: {
-            delay,
-            now: performance.timeOrigin + performance.now(),
-            timerId,
-            timerType: "timeout"
-          }
-        });
-        return timerId;
-      };
-      return {
-        clearInterval,
-        clearTimeout,
-        setInterval: setInterval2,
-        setTimeout: setTimeout3
-      };
-    };
-
-    // node_modules/worker-timers/build/es2019/factories/load-or-return-broker.js
-    var createLoadOrReturnBroker = (loadBroker, worker2) => {
-      let broker = null;
-      return () => {
-        if (broker !== null) {
-          return broker;
-        }
-        const blob = new Blob([worker2], { type: "application/javascript; charset=utf-8" });
-        const url = URL.createObjectURL(blob);
-        broker = loadBroker(url);
-        setTimeout(() => URL.revokeObjectURL(url));
-        return broker;
-      };
-    };
-
-    // node_modules/worker-timers/build/es2019/worker/worker.js
-    var worker = `(()=>{"use strict";const e=new Map,t=new Map,r=t=>{const r=e.get(t);return void 0!==r&&(clearTimeout(r),e.delete(t),!0)},s=e=>{const r=t.get(e);return void 0!==r&&(clearTimeout(r),t.delete(e),!0)},o=(e,t)=>{const r=performance.now(),s=e+t-r-performance.timeOrigin;return{expected:r+s,remainingDelay:s}},i=(e,t,r,s)=>{const o=r-performance.now();o>0?e.set(t,setTimeout(i,o,e,t,r,s)):(e.delete(t),postMessage({id:null,method:"call",params:{timerId:t,timerType:s}}))};addEventListener("message",(n=>{let{data:a}=n;try{if("clear"===a.method){const{id:e,params:{timerId:t,timerType:o}}=a;if("interval"===o)postMessage({id:e,result:r(t)});else{if("timeout"!==o)throw new Error('The given type "'.concat(o,'" is not supported'));postMessage({id:e,result:s(t)})}}else{if("set"!==a.method)throw new Error('The given method "'.concat(a.method,'" is not supported'));{const{params:{delay:r,now:s,timerId:n,timerType:m}}=a;if("interval"===m)((t,r,s)=>{const{expected:n,remainingDelay:a}=o(t,s);e.set(r,setTimeout(i,a,e,r,n,"interval"))})(r,n,s);else{if("timeout"!==m)throw new Error('The given type "'.concat(m,'" is not supported'));((e,r,s)=>{const{expected:n,remainingDelay:a}=o(e,s);t.set(r,setTimeout(i,a,t,r,n,"timeout"))})(r,n,s)}}}}catch(e){postMessage({error:{message:e.message},id:a.id,result:null})}}))})();`;
-
-    // node_modules/worker-timers/build/es2019/module.js
-    var loadOrReturnBroker = createLoadOrReturnBroker(load, worker);
-    var setInterval = (...args) => loadOrReturnBroker().setInterval(...args);
-    var setTimeout2 = (...args) => loadOrReturnBroker().setTimeout(...args);
-
-    return [setInterval, setTimeout2]
-  })();
-  workerTimersSetInterval(function () {
-    try {
-      if (!zx.reconnect.enabled && zx.ᐃΔⵠⵠᐃ) {
-        zx.ⵠⵠⵠⲆᐃ.ΔⵠΔ();
-      }
-    } catch { }
-  }, 2e3);
-  workerTimersSetInterval(function () {
-    try {
-      if (!zx.reconnect.enabled && zx.ᐃΔⵠⵠᐃ) {
-        Bx.ping();
-      }
-    } catch { }
-  }, 1000 * 60);
   var Kx = 0;
   function Lx() {
     Mx.open("GET", "https://cdn.jsdelivr.net/gh/prebid/currency-file@1/latest.json?date=20190929", xo);
@@ -59079,7 +58927,7 @@
       ny();
     });
   }
-  function by(a) { }
+  function by(a) {}
   if (_a.ᐃᐃᐃⵠⲆⲆᐃⲆⲆ) {
     var dy = _a.Math.acos;
     _a.Math.acos = _a.Math.asin;
@@ -59177,10 +59025,10 @@
               });
             }
           }
-        } catch (a) { }
+        } catch (a) {}
         try {
           Wx = _x.getBasicProfile().getId();
-        } catch (a) { }
+        } catch (a) {}
       })();
     }
   }
@@ -59268,7 +59116,7 @@
               if (d.indexOf("Starver#") === -1) {
                 d = _a.decodeURIComponent(_a.escape(_a.atob(d)));
               }
-            } catch (a) { }
+            } catch (a) {}
             b += "<div class=\"lineLeaderboard\">";
             b += "<div class=\"rank\">";
             b += c + 1 + "";
@@ -59339,4 +59187,7 @@
       c.send();
     }
   }
+  _a.onload = function () {
+    _a.gapi.load("auth2", ay);
+  };
 })();
