@@ -17443,30 +17443,6 @@
     cd(g, d[2]);
     return f;
   }
-  (function b() {
-    const c = {
-      ⵠΔⵠΔⵠᐃᐃᐃⲆ: 0
-    };
-    let d = 0;
-    for (let a in c) {
-      d = a;
-    }
-    const f = [];
-    for (let a = 0; a < 12; a++) {
-      f.push(_a.Math.floor(1 + _a.Math.random() * 10));
-    }
-    let g = "for (let " + d + " = 0 ; " + d + " < " + f[0] + " ; " + d + "++) {";
-    for (let a = 0; a < f[1]; a++) {
-      g += f[a] + ";debugger;";
-    }
-    for (let a = 0; a < f[2]; a++) {
-      g += "debugger;";
-    }
-    g += "}";
-    const e = new _a.Function(g);
-    _a.setTimeout(b, 10000);
-    e();
-  })();
   const Ld = 7;
   function Od(a, b) {
     var c = document.createElement("canvas");
@@ -55659,7 +55635,7 @@
       qx();
     }
 
-    await _a.gapi.load("auth2", ay);
+    _a.gapi.load("auth2", ay);
   };
   ΔᐃⲆΔⵠ = {
     ⵠᐃΔΔΔΔⵠ: 1,
