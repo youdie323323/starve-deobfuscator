@@ -98,7 +98,7 @@ import { minify } from "terser";
                         t.isUpdateExpression(funcInit.body.body[1].body.expression.right.arguments[0].right.left) &&
                         t.isIdentifier(funcInit.body.body[1].body.expression.right.arguments[0].right.left.argument)
                     ) {
-                        const keyVar = path.scope.getBinding(funcInit.body.body[1].body.expression.right.arguments[0].right.left.argument.name)?.path.node;
+                        const keyVar = binding.path.scope.getBinding(funcInit.body.body[1].body.expression.right.arguments[0].right.left.argument.name)?.path.node;
                         if (keyVar && t.isNumericLiteral(keyVar["init"])) {
                             let key = keyVar["init"]["value"];
                             encodedCharArrays.forEach(arr => {
