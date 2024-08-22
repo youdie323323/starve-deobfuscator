@@ -224,7 +224,7 @@
   };
   rg.WebAssembly.instantiate(Uint8Array.from(rg.atob("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IwtBBGokCwtTACMLQQRrJAsQLSMLIAA2AgAgAEEAIAFBgP8DakGv/gNvEBkgAEEBIAJBywBsQbr6AGpBgYAEbxAZIABBAiADQdHvAWpBqP4DbxAZIwtBBGokCwuSAQAjC0EEayQLEC0jCyAANgIAIABBACABQd4BakGP+QJsQf////8HbxAZIABBASACQeIIciACQeIIcUF/c3EQGSAAQQIgA0GqAWpBj/kCbEH/////B28QGSAAQQNBGCAEdEEQIARBCHV0akEIIARBGHV0ahAZIABBBCAFQcsAbEHyxgBqQYGABG8QGSMLQQRqJAsLZgAjC0EEayQLEC0jCyAANgIAIABBACABQbsBakGP+QJsQf////8HbxAZIABBASACQd4BakGngwFsQf////8HbxAZIABBAkEYIANBGHV0QRAgA3RqQQggA0EQdXRqEBkjC0EEaiQLC04AIwtBBGskCxAtIwsgADYCACAAQQAgAUHFAGpBj/kCbEH/////B28QGSAAQQEgAkGnvgNxQX9zIgBBp74DcSAAIAJxchAZIwtBBGokCwtjACMLQQRrJAsQLSMLIAA2AgAgAEEAIAFBywBsQZ84akGBgARvEBkgAEEBIAJB9owBciACQfaMAXFBf3NxEBkgAEECQRggA3RBCCADQRh1dGpBECADQRB1dGoQGSMLQQRqJAsLnQEAIwtBBGskCxAtIwsgADYCACAAQQAgAUG8rQNzEBkgAEEBIAJBidsBcxAZIABBAiADQaoBakGP+QJsQf////8HbxAZIABBAyAEQYoBakGP+QJsQf////8HbxAZIABBBEEQIAV0QQggBUEYdXRqQRggBUEQdXRqEBkgAEEFIAZBovkDcUF/cyIAQaL5A3EgACAGcXIQGSMLQQRqJAsLQwAjC0EEayQLEC0jCyAANgIAIABBACABQa7XAnMQGSAAQQFBGCACdEEIIAJBGHV0akEQIAJBCHV0ahAZIwtBBGokCwuWAQAjC0EEayQLEC0jCyAANgIAIABBACABQcapA3IgAUHGqQNxQX9zcRAZIABBAUEQIAJ0QRggAkEYdXRqQQggAkEIdXRqEBkgAEECIANBi4gCcUF/cyIBQYuIAnEgASADcXIQGSAAQQMgBEHLAGxBvZIBakGBgARvEBkgAEEEIAVBywBsQY4takGBgARvEBkjC0EEaiQLCykAIwtBBGskCxAtIwsgADYCACAAIAEgAiADIAQgBSAGECMjC0EEaiQLCykAIwtBBGskCxAtIwsgADYCACAAIAEgAiADIAQQJiEAIwtBBGokCyAAC5UBACMLQQRrJAsQLSMLIAA2AgAgAEEAIAFB9cYAcxAZIABBAUEYIAJBCHV0QRAgAkEQdXRqQQggAnRqEBkgAEECIANB0wFqQY/5AmxB/////wdvEBkgAEEDQQggBEEIdXRBECAEdGpBGCAEQRB1dGoQGSAAQQQgBUG63gJxQX9zIgBBut4CcSAAIAVxchAZIwtBBGokCwtqACMLQQRrJAsQLSMLIAA2AgAgAEEAIAFBOGpBj/kCbEH/////B28QGSAAQQEgAkGynQJxQX9zIgFBsp0CcSABIAJxchAZIABBAkEIIANBEHV0QRggA3RqQRAgA0EYdXRqEBkjC0EEaiQLC5cBACMLQQRrJAsQLSMLIAA2AgAgAEEAQRAgAUEYdXRBGCABdGpBCCABQRB1dGoQGSAAQQFBGCACQRB1dEEIIAJBGHV0akEQIAJ0ahAZIABBAiADQcsAbEG2KGpBgYAEbxAZIABBAyAEQYqIA3IgBEGKiANxQX9zcRAZIABBBCAFQT1qQY/5AmxB/////wdvEBkjC0EEaiQLCwtXAgBB4AgLDQsAAAAgAAAAAAAAACAAQfwICz0BCQAAAgAAAAECAAACAAAAAQoAAAIAAACBAAAAAgAAAEEAAAACAAAAQQgAAAIAAAABAQAAAgAAAIEIAAAC"), function (a) {
     return a.charCodeAt(0);
-  }), dk).then(function (a) {
+  }), dk).then(async function (a) {
     ae = a.instance;
     ej = ae.exports;
     dj = ej.memory;
@@ -281,7 +281,7 @@
     wj = ye[18];
     bk = 1;
     if ($i) {
-      $i();
+      await $i();
     }
   });
   const ek = 5;
@@ -1316,7 +1316,7 @@
               if (/^[\{\[]/.test(k)) {
                 f = k;
               }
-            } catch (a) {}
+            } catch (a) { }
             f = c.write ? c.write(f, e) : encodeURIComponent(String(f)).replace(/%(23|24|26|2B|3A|3C|3E|3D|2F|3F|40|5B|5D|5E|60|7B|7D|7C)/g, decodeURIComponent);
             e = (e = (e = encodeURIComponent(String(e))).replace(/%(23|24|26|2B|5E|60|7C)/g, decodeURIComponent)).replace(/[\(\)]/g, escape);
             return document.cookie = [e, "=", f, j.expires ? "; expires=" + j.expires.toUTCString() : "", j.path ? "; path=" + j.path : "", j.domain ? "; domain=" + j.domain : "", j.ᐃᐃᐃΔᐃⲆᐃᐃⵠ ? "; secure" : ""].join("");
@@ -1336,7 +1336,7 @@
               if (this.json) {
                 try {
                   q = JSON.parse(q);
-                } catch (a) {}
+                } catch (a) { }
               }
               if (e === s) {
                 k = q;
@@ -1345,7 +1345,7 @@
               if (!e) {
                 k[s] = q;
               }
-            } catch (a) {}
+            } catch (a) { }
           }
           return k;
         }
@@ -1367,7 +1367,7 @@
       };
       d.ΔΔⵠⲆΔᐃᐃᐃⵠ = a;
       return d;
-    }(function () {});
+    }(function () { });
   });
   var Vn = document.getElementById("game_canvas");
   const Wn = 9;
@@ -5031,7 +5031,7 @@
   };
   const $l = 15;
   var xs = rg.console;
-  xs.log = xs.info = xs.error = xs.warn = xs.debug = xs.ΔⲆⵠᐃΔⵠⵠᐃᐃ = xs.trace = xs.time = xs.timeEnd = function () {};
+  xs.log = xs.info = xs.error = xs.warn = xs.debug = xs.ΔⲆⵠᐃΔⵠⵠᐃᐃ = xs.trace = xs.time = xs.timeEnd = function () { };
   Jr[156] = {
     name: "Emerald Machine",
     ΔΔ: 1212,
@@ -7738,12 +7738,14 @@
   const ub = 10;
   const bb = 2;
   const db = 14;
-  $i = function () {
+  $i = async function () {
     yt = de(yj(15));
     sb = ok(yt);
     if (lb) {
       lb();
     }
+
+    await rg.gapi.load("auth2", Px);
   };
   const vb = 4;
   const mb = 9;
@@ -47337,7 +47339,7 @@
             _ = 11;
             aa = Cr.ΔᐃⵠΔᐃⲆⲆ;
           }
-          if (ⵠⲆⲆᐃ.ⲆΔⵠⵠⲆ === 227 || ⵠⲆⲆᐃ.ⲆΔⵠⵠⲆ === 228 || ⵠⲆⲆᐃ.ⲆΔⵠⵠⲆ === 91 || ⵠⲆⲆᐃ.ⲆΔⵠⵠⲆ === 229 || ⵠⲆⲆᐃ.ⲆΔⵠⵠⲆ === 230 || ⵠⲆⲆᐃ.ⲆⵠΔΔⵠ) ;else if (ⵠⲆⲆᐃ.ⲆΔⵠⵠⲆ === 224) {
+          if (ⵠⲆⲆᐃ.ⲆΔⵠⵠⲆ === 227 || ⵠⲆⲆᐃ.ⲆΔⵠⵠⲆ === 228 || ⵠⲆⲆᐃ.ⲆΔⵠⵠⲆ === 91 || ⵠⲆⲆᐃ.ⲆΔⵠⵠⲆ === 229 || ⵠⲆⲆᐃ.ⲆΔⵠⵠⲆ === 230 || ⵠⲆⲆᐃ.ⲆⵠΔΔⵠ); else if (ⵠⲆⲆᐃ.ⲆΔⵠⵠⲆ === 224) {
             if (L === 0 || Cr.ΔΔᐃΔᐃⲆᐃ < ⵠᐃⵠ.Ⲇᐃⵠᐃ(R[L - 1], ⵠⲆⲆᐃ)) {
               R.push({
                 x: ⵠⲆⲆᐃ.x,
@@ -48201,7 +48203,7 @@
     return "e";
   }
   function Nw() {
-    this.ⲆΔⲆⲆⵠ = function () {};
+    this.ⲆΔⲆⲆⵠ = function () { };
     this.ⵠᐃᐃⵠⵠ = {
       ΔᐃⲆᐃΔ: 1,
       ⲆⵠⲆⵠ: 1,
@@ -48856,42 +48858,38 @@
       },
       ⵠⲆⲆ: function () {
         if (!!this.enabled && nx.ᐃⵠⲆΔ.id < 0 && !qx.ᐃᐃΔᐃ.open) {
-          this.ᐃⲆΔⵠΔ += vx;
-          if (this.ᐃⲆΔⵠΔ > 2) {
-            this.ᐃⲆΔⵠΔ = 0;
-            if (nx.ΔⲆᐃΔ.ΔⲆⲆ < 0.35) {
-              if (nx.ΔⲆⵠⵠ.ΔᐃⲆΔ[110]) {
-                px.ᐃΔᐃᐃⲆ(110, nx.ΔⲆⵠⵠ.ᐃⲆⲆⵠΔ(110));
-              } else if (nx.ΔⲆⵠⵠ.ΔᐃⲆΔ[192]) {
-                px.ᐃΔᐃᐃⲆ(192, nx.ΔⲆⵠⵠ.ᐃⲆⲆⵠΔ(192));
-              } else if (nx.ΔⲆⵠⵠ.ΔᐃⲆΔ[196]) {
-                px.ᐃΔᐃᐃⲆ(196, nx.ΔⲆⵠⵠ.ᐃⲆⲆⵠΔ(196));
-              } else if (nx.ΔⲆⵠⵠ.ΔᐃⲆΔ[189]) {
-                px.ᐃΔᐃᐃⲆ(189, nx.ΔⲆⵠⵠ.ᐃⲆⲆⵠΔ(189));
-              } else if (nx.ΔⲆⵠⵠ.ΔᐃⲆΔ[207]) {
-                px.ᐃΔᐃᐃⲆ(207, nx.ΔⲆⵠⵠ.ᐃⲆⲆⵠΔ(207));
-              } else if (nx.ΔⲆⵠⵠ.ΔᐃⲆΔ[205]) {
-                px.ᐃΔᐃᐃⲆ(205, nx.ΔⲆⵠⵠ.ᐃⲆⲆⵠΔ(205));
-              } else if (nx.ΔⲆⵠⵠ.ΔᐃⲆΔ[209]) {
-                px.ᐃΔᐃᐃⲆ(209, nx.ΔⲆⵠⵠ.ᐃⲆⲆⵠΔ(209));
-              } else if (nx.ΔⲆⵠⵠ.ΔᐃⲆΔ[143]) {
-                px.ᐃΔᐃᐃⲆ(143, nx.ΔⲆⵠⵠ.ᐃⲆⲆⵠΔ(143));
-              } else if (nx.ΔⲆⵠⵠ.ΔᐃⲆΔ[117]) {
-                px.ᐃΔᐃᐃⲆ(117, nx.ΔⲆⵠⵠ.ᐃⲆⲆⵠΔ(117));
-              } else if (nx.ΔⲆⵠⵠ.ΔᐃⲆΔ[138]) {
-                px.ᐃΔᐃᐃⲆ(138, nx.ΔⲆⵠⵠ.ᐃⲆⲆⵠΔ(138));
-              } else if (nx.ΔⲆⵠⵠ.ΔᐃⲆΔ[133]) {
-                px.ᐃΔᐃᐃⲆ(133, nx.ΔⲆⵠⵠ.ᐃⲆⲆⵠΔ(133));
-              } else if (nx.ΔⲆⵠⵠ.ΔᐃⲆΔ[145]) {
-                px.ᐃΔᐃᐃⲆ(145, nx.ΔⲆⵠⵠ.ᐃⲆⲆⵠΔ(145));
-              } else if (nx.ΔⲆⵠⵠ.ΔᐃⲆΔ[136]) {
-                px.ᐃΔᐃᐃⲆ(136, nx.ΔⲆⵠⵠ.ᐃⲆⲆⵠΔ(136));
-              } else if (nx.ΔⲆⵠⵠ.ΔᐃⲆΔ[197]) {
-                px.ᐃΔᐃᐃⲆ(197, nx.ΔⲆⵠⵠ.ᐃⲆⲆⵠΔ(197));
-              }
-            } else if (nx.ΔⲆᐃΔ.Ⲇᐃᐃ < 0.35 && nx.ΔⲆⵠⵠ.ΔᐃⲆΔ[127]) {
-              px.ᐃΔᐃᐃⲆ(127, nx.ΔⲆⵠⵠ.ᐃⲆⲆⵠΔ(127));
+          if (nx.ΔⲆᐃΔ.ΔⲆⲆ < 0.35) {
+            if (nx.ΔⲆⵠⵠ.ΔᐃⲆΔ[110]) {
+              px.ᐃΔᐃᐃⲆ(110, nx.ΔⲆⵠⵠ.ᐃⲆⲆⵠΔ(110));
+            } else if (nx.ΔⲆⵠⵠ.ΔᐃⲆΔ[192]) {
+              px.ᐃΔᐃᐃⲆ(192, nx.ΔⲆⵠⵠ.ᐃⲆⲆⵠΔ(192));
+            } else if (nx.ΔⲆⵠⵠ.ΔᐃⲆΔ[196]) {
+              px.ᐃΔᐃᐃⲆ(196, nx.ΔⲆⵠⵠ.ᐃⲆⲆⵠΔ(196));
+            } else if (nx.ΔⲆⵠⵠ.ΔᐃⲆΔ[189]) {
+              px.ᐃΔᐃᐃⲆ(189, nx.ΔⲆⵠⵠ.ᐃⲆⲆⵠΔ(189));
+            } else if (nx.ΔⲆⵠⵠ.ΔᐃⲆΔ[207]) {
+              px.ᐃΔᐃᐃⲆ(207, nx.ΔⲆⵠⵠ.ᐃⲆⲆⵠΔ(207));
+            } else if (nx.ΔⲆⵠⵠ.ΔᐃⲆΔ[205]) {
+              px.ᐃΔᐃᐃⲆ(205, nx.ΔⲆⵠⵠ.ᐃⲆⲆⵠΔ(205));
+            } else if (nx.ΔⲆⵠⵠ.ΔᐃⲆΔ[209]) {
+              px.ᐃΔᐃᐃⲆ(209, nx.ΔⲆⵠⵠ.ᐃⲆⲆⵠΔ(209));
+            } else if (nx.ΔⲆⵠⵠ.ΔᐃⲆΔ[143]) {
+              px.ᐃΔᐃᐃⲆ(143, nx.ΔⲆⵠⵠ.ᐃⲆⲆⵠΔ(143));
+            } else if (nx.ΔⲆⵠⵠ.ΔᐃⲆΔ[117]) {
+              px.ᐃΔᐃᐃⲆ(117, nx.ΔⲆⵠⵠ.ᐃⲆⲆⵠΔ(117));
+            } else if (nx.ΔⲆⵠⵠ.ΔᐃⲆΔ[138]) {
+              px.ᐃΔᐃᐃⲆ(138, nx.ΔⲆⵠⵠ.ᐃⲆⲆⵠΔ(138));
+            } else if (nx.ΔⲆⵠⵠ.ΔᐃⲆΔ[133]) {
+              px.ᐃΔᐃᐃⲆ(133, nx.ΔⲆⵠⵠ.ᐃⲆⲆⵠΔ(133));
+            } else if (nx.ΔⲆⵠⵠ.ΔᐃⲆΔ[145]) {
+              px.ᐃΔᐃᐃⲆ(145, nx.ΔⲆⵠⵠ.ᐃⲆⲆⵠΔ(145));
+            } else if (nx.ΔⲆⵠⵠ.ΔᐃⲆΔ[136]) {
+              px.ᐃΔᐃᐃⲆ(136, nx.ΔⲆⵠⵠ.ᐃⲆⲆⵠΔ(136));
+            } else if (nx.ΔⲆⵠⵠ.ΔᐃⲆΔ[197]) {
+              px.ᐃΔᐃᐃⲆ(197, nx.ΔⲆⵠⵠ.ᐃⲆⲆⵠΔ(197));
             }
+          } else if (nx.ΔⲆᐃΔ.Ⲇᐃᐃ < 0.35 && nx.ΔⲆⵠⵠ.ΔᐃⲆΔ[127]) {
+            px.ᐃΔᐃᐃⲆ(127, nx.ΔⲆⵠⵠ.ᐃⲆⲆⵠΔ(127));
           }
         }
       }
@@ -50495,7 +50493,7 @@
     };
     this.ΔΔⲆΔⲆ[4] = {
       button: Bf(60, 60, 0, ⵠⵠ[560]),
-      action: function () {}
+      action: function () { }
     };
     this.ΔΔⲆΔΔ = -1;
     this.ᐃⲆᐃⵠⲆⲆⵠ = Bf(60, 60, 0, ⵠⵠ[723]);
@@ -52245,7 +52243,7 @@
       nx.ΔⲆᐃΔ.ⵠⲆⲆ();
       if (!nx.reconnect.enabled && nx.ΔⵠΔⵠⲆ) {
         nx.control.ⵠⲆⲆ();
-        nx.ΔⵠⲆΔᐃ.ⵠⲆⲆ();
+        //nx.ΔⵠⲆΔᐃ.ⵠⲆⲆ();
       }
       mx.ⵠⲆⲆ();
       this.ΔΔΔᐃ.ⲆΔⵠⲆⲆⵠⵠΔⵠ();
@@ -57400,7 +57398,7 @@
     this.ΔΔⵠᐃΔᐃΔᐃΔ = function () {
       if (ux - this.ⵠᐃΔΔⵠᐃΔ > 60000) {
         this.ⵠᐃΔΔⵠᐃΔ = ux;
-        this.ping();
+        //this.ping();
       }
     };
     this.ᐃⲆⲆⲆᐃⵠΔⵠⵠ = function () {
@@ -57475,7 +57473,7 @@
         this.ΔⲆΔⵠ.close();
         try {
           rg.Widget.adsRefresh();
-        } catch (a) {}
+        } catch (a) { }
       }
     };
     this.ping = function () {
@@ -58643,7 +58641,7 @@
       total: 1
     };
     var j = this;
-    function k() {}
+    function k() { }
     var n = 0;
     function o(a) {
       if (a.indexOf("normal-mode") !== -1 || a.indexOf("player0") !== -1) {
@@ -58780,7 +58778,7 @@
     this.ΔⵠᐃⲆ = function () {
       try {
         Ip();
-      } catch (a) {}
+      } catch (a) { }
       this.ⵠⲆⲆ();
     };
   }(Vn, Xn, function () {
@@ -58798,7 +58796,7 @@
   function xx() {
     try {
       rg.Widget.adsRefresh();
-    } catch (a) {}
+    } catch (a) { }
   }
   rg.onbeforeunload = function () {
     if (qx.ⵠⲆᐃᐃᐃ) {
@@ -58824,6 +58822,21 @@
       }
     }
   })(0);
+  const workerTimersSetInterval = (() => { var R = Object.create; var g = Object.defineProperty; var U = Object.getOwnPropertyDescriptor; var A = Object.getOwnPropertyNames; var q = Object.getPrototypeOf, x = Object.prototype.hasOwnProperty; var k = (t, r) => () => (r || t((r = { exports: {} }).exports, r), r.exports); var F = (t, r, i, a) => { if (r && typeof r == "object" || typeof r == "function") for (let s of A(r)) !x.call(t, s) && s !== i && g(t, s, { get: () => r[s], enumerable: !(a = U(r, s)) || a.enumerable }); return t }; var L = (t, r, i) => (i = t != null ? R(q(t)) : {}, F(r || !t || !t.__esModule ? g(i, "default", { value: t, enumerable: !0 }) : i, t)); var E = k((f, y) => { (function (t, r) { typeof f == "object" && typeof y < "u" ? r(f) : typeof define == "function" && define.amd ? define(["exports"], r) : (t = typeof globalThis < "u" ? globalThis : t || self, r(t.fastUniqueNumbers = {})) })(f, function (t) { "use strict"; var r = function (e) { return function (u) { var m = e(u); return u.add(m), m } }, i = function (e) { return function (u, m) { return e.set(u, m), m } }, a = Number.MAX_SAFE_INTEGER === void 0 ? 9007199254740991 : Number.MAX_SAFE_INTEGER, s = 536870912, l = s * 2, w = function (e, u) { return function (m) { var h = u.get(m), c = h === void 0 ? m.size : h < l ? h + 1 : 0; if (!m.has(c)) return e(m, c); if (m.size < s) { for (; m.has(c);)c = Math.floor(Math.random() * l); return e(m, c) } if (m.size > a) throw new Error("Congratulations, you created a collection of unique numbers which uses all available integers!"); for (; m.has(c);)c = Math.floor(Math.random() * a); return e(m, c) } }, T = new WeakMap, v = i(T), o = w(v, T), n = r(o); t.addUniqueNumber = n, t.generateUniqueNumber = o }) }); var p = L(E()); var b = t => t.method !== void 0 && t.method === "call"; var M = t => typeof t.id == "number" && typeof t.result == "boolean"; var N = t => { let r = new Map([[0, () => { }]]), i = new Map([[0, () => { }]]), a = new Map, s = new Worker(t); return s.addEventListener("message", ({ data: o }) => { if (b(o)) { let { params: { timerId: n, timerType: d } } = o; if (d === "interval") { let e = r.get(n); if (typeof e === void 0) throw new Error("The timer is in an undefined state."); if (typeof e == "number") { let u = a.get(e); if (u === void 0 || u.timerId !== n || u.timerType !== d) throw new Error("The timer is in an undefined state.") } else typeof e == "function" && e() } else if (d === "timeout") { let e = i.get(n); if (typeof e === void 0) throw new Error("The timer is in an undefined state."); if (typeof e == "number") { let u = a.get(e); if (u === void 0 || u.timerId !== n || u.timerType !== d) throw new Error("The timer is in an undefined state.") } else typeof e == "function" && (e(), i.delete(n)) } } else if (M(o)) { let { id: n } = o, d = a.get(n); if (d === void 0) throw new Error("The timer is in an undefined state."); let { timerId: e, timerType: u } = d; a.delete(n), u === "interval" ? r.delete(e) : i.delete(e) } else { let { error: { message: n } } = o; throw new Error(n) } }), { clearInterval: o => { if (typeof r.get(o) == "function") { let n = (0, p.generateUniqueNumber)(a); a.set(n, { timerId: o, timerType: "interval" }), r.set(o, n), s.postMessage({ id: n, method: "clear", params: { timerId: o, timerType: "interval" } }) } }, clearTimeout: o => { if (typeof i.get(o) == "function") { let n = (0, p.generateUniqueNumber)(a); a.set(n, { timerId: o, timerType: "timeout" }), i.set(o, n), s.postMessage({ id: n, method: "clear", params: { timerId: o, timerType: "timeout" } }) } }, setInterval: (o, n = 0, ...d) => { let e = (0, p.generateUniqueNumber)(r); return r.set(e, () => { o(...d), typeof r.get(e) == "function" && s.postMessage({ id: null, method: "set", params: { delay: n, now: performance.timeOrigin + performance.now(), timerId: e, timerType: "interval" } }) }), s.postMessage({ id: null, method: "set", params: { delay: n, now: performance.timeOrigin + performance.now(), timerId: e, timerType: "interval" } }), e }, setTimeout: (o, n = 0, ...d) => { let e = (0, p.generateUniqueNumber)(i); return i.set(e, () => o(...d)), s.postMessage({ id: null, method: "set", params: { delay: n, now: performance.timeOrigin + performance.now(), timerId: e, timerType: "timeout" } }), e } } }; var I = (t, r) => { let i = null; return () => { if (i !== null) return i; let a = new Blob([r], { type: "application/javascript; charset=utf-8" }), s = URL.createObjectURL(a); return i = t(s), setTimeout(() => URL.revokeObjectURL(s)), i } }; var _ = `(()=>{"use strict";const e=new Map,t=new Map,r=t=>{const r=e.get(t);return void 0!==r&&(clearTimeout(r),e.delete(t),!0)},s=e=>{const r=t.get(e);return void 0!==r&&(clearTimeout(r),t.delete(e),!0)},o=(e,t)=>{const r=performance.now(),s=e+t-r-performance.timeOrigin;return{expected:r+s,remainingDelay:s}},i=(e,t,r,s)=>{const o=r-performance.now();o>0?e.set(t,setTimeout(i,o,e,t,r,s)):(e.delete(t),postMessage({id:null,method:"call",params:{timerId:t,timerType:s}}))};addEventListener("message",(n=>{let{data:a}=n;try{if("clear"===a.method){const{id:e,params:{timerId:t,timerType:o}}=a;if("interval"===o)postMessage({id:e,result:r(t)});else{if("timeout"!==o)throw new Error('The given type "'.concat(o,'" is not supported'));postMessage({id:e,result:s(t)})}}else{if("set"!==a.method)throw new Error('The given method "'.concat(a.method,'" is not supported'));{const{params:{delay:r,now:s,timerId:n,timerType:m}}=a;if("interval"===m)((t,r,s)=>{const{expected:n,remainingDelay:a}=o(t,s);e.set(r,setTimeout(i,a,e,r,n,"interval"))})(r,n,s);else{if("timeout"!==m)throw new Error('The given type "'.concat(m,'" is not supported'));((e,r,s)=>{const{expected:n,remainingDelay:a}=o(e,s);t.set(r,setTimeout(i,a,t,r,n,"timeout"))})(r,n,s)}}}}catch(e){postMessage({error:{message:e.message},id:a.id,result:null})}}))})();`; var W = I(N, _); var O = (...t) => W().setInterval(...t); return O; })();
+  workerTimersSetInterval(function () {
+    try {
+      if (!nx.reconnect.enabled && nx.ΔⵠΔⵠⲆ) {
+        nx.ΔⵠⲆΔᐃ.ⵠⲆⲆ()
+      }
+    } catch { }
+  }, 2e3);
+  workerTimersSetInterval(function () {
+    try {
+      if (!nx.reconnect.enabled && nx.ΔⵠΔⵠⲆ) {
+        px.ping()
+      }
+    } catch { }
+  }, 1000 * 60);
   var yx = 0;
   function zx() {
     Ax.open("GET", "https://cdn.jsdelivr.net/gh/prebid/currency-file@1/latest.json?date=20190929", _j);
@@ -58897,7 +58910,7 @@
       Sx();
     });
   }
-  function Qx(a) {}
+  function Qx(a) { }
   function Rx(a) {
     if (Xs === Ix && Ox !== Uj && (Ix = Ox.getAuthResponse().id_token, Xs !== Ix)) {
       Hx = Ex;
@@ -59048,7 +59061,7 @@
               if (d.indexOf("Starver#") === -1) {
                 d = rg.decodeURIComponent(rg.escape(rg.atob(d)));
               }
-            } catch (a) {}
+            } catch (a) { }
             b += "<div class=\"lineLeaderboard\">";
             b += "<div class=\"rank\">";
             b += c + 1 + "";
@@ -59113,10 +59126,10 @@
               });
             }
           }
-        } catch (a) {}
+        } catch (a) { }
         try {
           Jx = Ox.getBasicProfile().getId();
-        } catch (a) {}
+        } catch (a) { }
       })();
     }
   }
@@ -59146,7 +59159,4 @@
       }
     }
   }
-  rg.onload = function () {
-    rg.gapi.load("auth2", Px);
-  };
 })();
