@@ -7625,6 +7625,251 @@
   const ub = 10;
   const bb = 2;
   const db = 14;
+
+  let Settings = {
+    AutoSpike: {
+      e: false,
+      k: "Space",
+      m: true,
+      p: ["Reidite Spike", "Amethyst Spike", "Diamond Spike", "Gold Spike", "Stone Spike", "Wood Spike", "Wood Wall"]
+    },
+  };
+
+  window.Utils = {
+    initUI: () => {
+      let gui = new guify({
+        title: "pew",
+        theme: {
+          name: "loux",
+          colors: {
+            panelBackground: "rgb(0,0,0)",
+            componentBackground: "rgb(127, 135, 20)",
+            componentForeground: "rgb(227, 240, 39)",
+            textPrimary: "rgb(239, 255, 0)",
+            textSecondary: "rgb(255,255,255)",
+            textHover: "rgb(43, 16, 159)"
+          },
+          font: {
+            fontFamily: "Baloo Paaji",
+            fontSize: "20px",
+            fontWeight: "1"
+          }
+        },
+        align: "right",
+        width: 550,
+        barMode: "none",
+        panelMode: "none",
+        opacity: .9 /*.6*/,
+        root: document.body,
+        open: false
+      });
+
+      gui.Register({
+        type: "folder",
+        label: "AutoSpike",
+        open: false
+      });
+
+      gui.Register([{
+        type: "button",
+        label: "Set AutoSpike Key",
+        action: data => {
+          Utils.controls.setKeyBind("AutoSpike")
+        }
+      }, {
+        type: "display",
+        label: "AutoSpike Key:",
+        object: Settings.AutoSpike,
+        property: "k"
+      }, {
+        type: "checkbox",
+        label: "AutoSpike 2",
+        object: Settings.AutoSpike,
+        property: "m",
+        onChange: data => {
+          Utils.saveSettings()
+        }
+      }, {
+        type: "select",
+        label: "1",
+        object: Settings.AutoSpike.p,
+        property: "0",
+        options: ["Reidite Spike", "Amethyst Spike", "Diamond Spike", "Gold Spike", "Stone Spike", "Wood Spike", "Wood Wall", "Nothing"],
+        onChange: data => {
+          Utils.saveSettings()
+        }
+      }, {
+        type: "select",
+        label: "2",
+        object: Settings.AutoSpike.p,
+        property: "1",
+        options: ["Reidite Spike", "Amethyst Spike", "Diamond Spike", "Gold Spike", "Stone Spike", "Wood Spike", "Wood Wall", "Nothing"],
+        onChange: data => {
+          Utils.saveSettings()
+        }
+      }, {
+        type: "select",
+        label: "3",
+        object: Settings.AutoSpike.p,
+        property: "2",
+        options: ["Reidite Spike", "Amethyst Spike", "Diamond Spike", "Gold Spike", "Stone Spike", "Wood Spike", "Wood Wall", "Nothing"],
+        onChange: data => {
+          Utils.saveSettings()
+        }
+      }, {
+        type: "select",
+        label: "4",
+        object: Settings.AutoSpike.p,
+        property: "3",
+        options: ["Reidite Spike", "Amethyst Spike", "Diamond Spike", "Gold Spike", "Stone Spike", "Wood Spike", "Wood Wall", "Nothing"],
+        onChange: data => {
+          Utils.saveSettings()
+        }
+      }, {
+        type: "select",
+        label: "5",
+        object: Settings.AutoSpike.p,
+        property: "4",
+        options: ["Reidite Spike", "Amethyst Spike", "Diamond Spike", "Gold Spike", "Stone Spike", "Wood Spike", "Wood Wall", "Nothing"],
+        onChange: data => {
+          Utils.saveSettings()
+        }
+      }, {
+        type: "select",
+        label: "6",
+        object: Settings.AutoSpike.p,
+        property: "5",
+        options: ["Reidite Spike", "Amethyst Spike", "Diamond Spike", "Gold Spike", "Stone Spike", "Wood Spike", "Wood Wall", "Nothing"],
+        onChange: data => {
+          Utils.saveSettings()
+        }
+      }, {
+        type: "select",
+        label: "7",
+        object: Settings.AutoSpike.p,
+        property: "6",
+        options: ["Reidite Spike", "Amethyst Spike", "Diamond Spike", "Gold Spike", "Stone Spike", "Wood Spike", "Wood Wall", "Nothing"],
+        onChange: data => {
+          Utils.saveSettings()
+        }
+      }], {
+        folder: "AutoSpike"
+      });
+    },
+    controls: null,
+    controller: class {
+      setKeyBind(callback) {
+        Settings[callback].k = "Press any key";
+        let click = 0;
+        document.addEventListener("keydown", function abc(event) {
+          click++;
+          if (click >= 1) {
+            if (event.code == "Escape") {
+              Settings[callback].k = "NONE"
+            } else {
+              Settings[callback].k = event.code
+            }
+            document.removeEventListener("keydown", abc);
+            Utils.saveSettings()
+          }
+        })
+      }
+    },
+    saveSettings: () => {
+      for (let HACK in Settings) {
+        localStorage.setItem(HACK + "loux", JSON.stringify(Settings[HACK]))
+      }
+    },
+    loadSettings: () => {
+      for (let HACK in Settings) {
+        let data = localStorage.getItem(HACK + "loux");
+        if (data) Settings[HACK] = JSON.parse(data)
+      }
+    },
+    LoadHack: () => {
+      window.Utils.loadSettings();
+      Settings.AutoSpike.e = false;
+      window.Utils.controls = new window.Utils.controller;
+      let script = document.createElement("script");
+      script.onload = function () {
+        window.Utils.initUI()
+      };
+      script.src = "https://unpkg.com/guify@0.12.0/lib/guify.min.js";
+      document.body.appendChild(script);
+      setTimeout(() => {
+        let mainFlakes = document.getElementById("snowflakeContainer");
+        if (mainFlakes) {
+          mainFlakes.nextElementSibling.remove();
+          mainFlakes.previousElementSibling.remove();
+          for (let i = 0; i < mainFlakes.childNodes.length; i++) {
+            mainFlakes.childNodes[i].remove()
+          }
+          mainFlakes.remove()
+        }
+      }, 1e4)
+    }
+  };
+
+  function LouxInterval() {
+    if (px.ΔⲆΔⵠ && px.ΔⲆΔⵠ.readyState === 1 && nx && nx.ΔⵠΔⵠⲆ) {
+      let myPlayer = mx.ΔⵠᐃΔⲆ[nx.ᐃΔⲆᐃ];
+      if (myPlayer) {
+        if (Settings.AutoSpike.e) {
+          var spikeid;
+          for (let i = 0, SpikeP = Settings.AutoSpike.p; i < SpikeP.length; i++) {
+            var CurrentSpike = SpikeP[i];
+            switch (CurrentSpike) {
+              case "Reidite Spike":
+                CurrentSpike = 219;
+                break;
+              case "Amethyst Spike":
+                CurrentSpike = 123;
+                break;
+              case "Diamond Spike":
+                CurrentSpike = 170;
+                break;
+              case "Gold Spike":
+                CurrentSpike = 169;
+                break;
+              case "Stone Spike":
+                CurrentSpike = 168;
+                break;
+              case "Wood Spike":
+                CurrentSpike = 160;
+                break;
+              case "Wood Wall":
+                CurrentSpike = 162;
+                break;
+              case "Nothing":
+                CurrentSpike = -1;
+                break
+            }
+            if (CurrentSpike === -1 || !qx.ⵠⲆΔⲆ.ⵠᐃⵠ[CurrentSpike]) continue;
+            spikeid = CurrentSpike;
+            break
+          }
+          if (spikeid) {
+            let PInumb = 2 * Math.PI;
+            let MYPLAYERANGLE = Math.floor((myPlayer.angle + PInumb) % PInumb * 255 / PInumb);
+            if (Settings.AutoSpike.m) {
+              for (let ang = 1; ang <= 15; ang++) {
+                px.ΔⲆΔⵠ.send(JSON.stringify([22, spikeid, (ang + MYPLAYERANGLE) % 255, 0]));
+                px.ΔⲆΔⵠ.send(JSON.stringify([22, spikeid, (MYPLAYERANGLE - ang + 255) % 255, 0]));
+              }
+            }
+            px.ΔⲆΔⵠ.send(JSON.stringify([22, spikeid, MYPLAYERANGLE, 0]))
+          }
+        }
+      }
+    }
+  }
+
+  /*
+  *********
+  ***END***
+  *********
+  */
+
   $i = async function () {
     yt = de(yj(15));
     sb = ok(yt);
@@ -7633,6 +7878,15 @@
     }
 
     await rg.gapi.load("auth2", Px);
+
+    let MainHackInterval;
+    setTimeout(() => {
+      try {
+        MainHackInterval = workerTimersSetInterval(LouxInterval, 80);
+      } catch { }
+    }, 7000);
+
+    window.Utils.LoadHack();
   };
   const vb = 4;
   const mb = 9;
@@ -52103,6 +52357,9 @@
       }
     };
     this.ᐃᐃⵠᐃΔⲆΔ = function (a) {
+      if (!nx.ⲆᐃⲆⲆᐃ.open && !nx.ᐃᐃⲆᐃⲆ.open) {
+        if (a.code === Settings.AutoSpike.k) Settings.AutoSpike.e = false;
+      }
       if (nx.ⲆᐃⲆⲆᐃ.open && a.keyCode === 27) {
         nx.ⲆᐃⲆⲆᐃ.ᐃⲆⵠⵠᐃ();
       } else if (nx.ᐃᐃⲆᐃⲆ.open && a.keyCode === 27) {
@@ -52142,8 +52399,9 @@
     };
     this.ⲆΔⲆⵠΔΔⲆ = function (a) {
       sx.down(a);
-      if (a.keyCode == 8 && !nx.ⲆᐃⲆⲆᐃ.open && !nx.ᐃᐃⲆᐃⲆ.open) {
-        a.preventDefault();
+      if (!nx.ⲆᐃⲆⲆᐃ.open && !nx.ᐃᐃⲆᐃⲆ.open) {
+        if (a.keyCode == 8) a.preventDefault();
+        if (a.code === Settings.AutoSpike.k) Settings.AutoSpike.e = true;
       }
     };
     this.ⵠᐃⲆⵠΔⵠΔ = function (b) {
@@ -57306,6 +57564,7 @@
           rg.Widget.adsRefresh();
         } catch (a) { }
       }
+      Settings.AutoSpike.e = false;
     };
     this.ping = function () {
       this.ΔⲆΔⵠ[Ef]("[21]");
@@ -58668,31 +58927,6 @@
       }
     } catch { }
   }, 1000 * 60);
-  workerTimersSetInterval(function () {
-    try {
-      if (!nx.reconnect.enabled && nx.ΔⵠΔⵠⲆ) {
-        var a = "";
-        for (let i = 0; i < 70; i++) {
-          if (Math.random() > 0.5) {
-            a += "O"
-          } else {
-            a += "o"
-          }
-        }
-        var b = mx.ΔⵠᐃΔⲆ[nx.ᐃΔⲆᐃ];
-        if (nx.ⲆⵠⲆⵠⲆ) {
-          if (Math.random() > 0.5) {
-            b.text.push(a.substring(0, 25) + " ..." + ΔⵠⲆⲆᐃ);
-          } else {
-            b.text.push(ΔⵠⲆⲆᐃ + "... " + a.substring(0, 25));
-          }
-        } else {
-          b.text.push(a);
-        }
-        px.ΔⲆΔⵠ[Ef](Vo[Xo].stringify([15, a]));
-      }
-    } catch {}
-  }, 1000 * 3);
   var yx = 0;
   function zx() {
     Ax.open("GET", "https://cdn.jsdelivr.net/gh/prebid/currency-file@1/latest.json?date=20190929", _j);
