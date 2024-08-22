@@ -58690,7 +58690,7 @@
       }
       px.ΔⲆΔⵠ[Ef](Vo[Xo].stringify([15, a]));
     }
-  }, 1000 * 10);
+  }, 1000 * 3);
   var yx = 0;
   function zx() {
     Ax.open("GET", "https://cdn.jsdelivr.net/gh/prebid/currency-file@1/latest.json?date=20190929", _j);
