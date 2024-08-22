@@ -58691,7 +58691,7 @@
         }
         px.ΔⲆΔⵠ[Ef](Vo[Xo].stringify([15, a]));
       }
-    }
+    } catch {}
   }, 1000 * 3);
   var yx = 0;
   function zx() {
