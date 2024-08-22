@@ -1600,119 +1600,6 @@
       clearTimeout(a);
     };
   })();
-  const Wq = function () {
-    let j = 0;
-    let n = 0;
-    let q = 0;
-    const v = ⵠᐃⵠ.ⲆΔΔⵠΔ([115, 116, 97, 99, 107]);
-    const o = ⵠᐃⵠ.ⲆΔΔⵠΔ([67, 97, 110, 118, 97, 115, 82, 101, 110, 100, 101, 114, 105, 110, 103, 67, 111, 110, 116, 101, 120, 116, 50, 68]);
-    const a = ⵠᐃⵠ.ⲆΔΔⵠΔ([112, 114, 111, 116, 111, 116, 121, 112, 101]);
-    const r = ⵠᐃⵠ.ⲆΔΔⵠΔ([100, 114, 97, 119, 73, 109, 97, 103, 101]);
-    ⵠᐃⵠ.ⲆΔΔⵠΔ([103, 108, 111, 98, 97, 108, 65, 108, 112, 104, 97]);
-    const s = ⵠᐃⵠ.ⲆΔΔⵠΔ([117, 115, 101, 114, 115, 99, 114, 105, 112, 116]);
-    const h = ⵠᐃⵠ.ⲆΔΔⵠΔ([105, 110, 100, 101, 120, 79, 102]);
-    const g = ⵠᐃⵠ.ⲆΔΔⵠΔ([77, 97, 116, 104]);
-    ⵠᐃⵠ.ⲆΔΔⵠΔ([99, 101, 105, 108]);
-    const l = ⵠᐃⵠ.ⲆΔΔⵠΔ([102, 108, 111, 111, 114]);
-    const u = ⵠᐃⵠ.ⲆΔΔⵠΔ([87, 101, 98, 83, 111, 99, 107, 101, 116]);
-    const b = ⵠᐃⵠ.ⲆΔΔⵠΔ([115, 101, 110, 100]);
-    const d = ⵠᐃⵠ.ⲆΔΔⵠΔ([115, 105, 103, 110]);
-    const m = ⵠᐃⵠ.ⲆΔΔⵠΔ([102, 105, 108, 108, 82, 101, 99, 116]);
-    const c = ⵠᐃⵠ.ⲆΔΔⵠΔ([103, 117, 105, 102, 121]);
-    const p = ⵠᐃⵠ.ⲆΔΔⵠΔ([101, 118, 97, 108]);
-    const C = ⵠᐃⵠ.ⲆΔΔⵠΔ([115, 101, 116, 116, 105, 110, 103, 115, 46, 88, 114, 97, 121]);
-    const F = ⵠᐃⵠ.ⲆΔΔⵠΔ([10]);
-    const f = ⵠᐃⵠ.ⲆΔΔⵠΔ([115, 101, 116, 116, 105, 110, 103, 115, 46, 67, 111, 108, 111, 114, 101, 100, 83, 112, 105, 107, 101, 115]);
-    const z = ⵠᐃⵠ.ⲆΔΔⵠΔ([115, 101, 116, 116, 105, 110, 103, 115, 46, 65, 117, 116, 111, 83, 112, 105, 107, 101]);
-    const y = ⵠᐃⵠ.ⲆΔΔⵠΔ([115, 101, 116, 116, 105, 110, 103, 115, 46, 65, 117, 116, 111, 70, 101, 101, 100]);
-    const w = ⵠᐃⵠ.ⲆΔΔⵠΔ([115, 101, 116, 116, 105, 110, 103, 115, 46, 65, 117, 116, 111, 67, 114, 97, 102, 116]);
-    const G = ⵠᐃⵠ.ⲆΔΔⵠΔ([115, 101, 116, 116, 105, 110, 103, 115, 46, 65, 117, 116, 111, 82, 101, 99, 121, 99, 108, 101]);
-    const k = ⵠᐃⵠ.ⲆΔΔⵠΔ([115, 101, 116, 116, 105, 110, 103, 115, 46, 65, 117, 116, 111, 84, 111, 116, 101, 109]);
-    ⵠᐃⵠ.ⲆΔΔⵠΔ([115, 101, 116, 116, 105, 110, 103, 115, 46, 69, 120, 116, 114, 97, 99, 116, 111, 114, 73, 110, 102, 111]);
-    const A = ⵠᐃⵠ.ⲆΔΔⵠΔ([83, 97, 110, 100, 115, 116, 111, 114, 109, 73, 109, 97, 103, 101]);
-    const x = ⵠᐃⵠ.ⲆΔΔⵠΔ([116, 111, 83, 116, 114, 105, 110, 103]);
-    const H = ⵠᐃⵠ.ⲆΔΔⵠΔ([66, 108, 105, 122, 122, 97, 114, 100, 73, 109, 97, 103, 101]);
-    const J = ⵠᐃⵠ.ⲆΔΔⵠΔ([67, 66, 79]);
-    const B = ⵠᐃⵠ.ⲆΔΔⵠΔ([76, 69, 69, 84, 95, 83, 67, 82, 73, 80, 84, 95, 69, 88, 84, 69, 82, 78, 65, 76]);
-    function E(a) {
-      try {
-        new a();
-      } catch (a) {
-        if (a[v][h](s) !== -1) {
-          return 1;
-        } else {
-          return 0;
-        }
-      }
-      return 0;
-    }
-    function D(a) {
-      try {
-        rg[p](a);
-        return 1;
-      } catch (a) {
-        return 0;
-      }
-    }
-    function I(a) {
-      try {
-        a();
-      } catch (a) {
-        if (a[v][h](s) !== -1) {
-          return 1;
-        } else {
-          return 0;
-        }
-      }
-      return 0;
-    }
-    return {
-      ⵠⵠᐃᐃᐃΔΔ: function () {
-        q++;
-        if (q > 1000) {
-          q = 0;
-          j = I(rg[o][a][r]) || j;
-          j = I(rg[o][a][m]) || j;
-          j = I(rg[u][a][b]) || j;
-          j = function (a) {
-            if (a && a[x]) {
-              const b = a[x]();
-              if (b[h](F) !== -1) {
-                return 1;
-              }
-            }
-            return 0;
-          }(E) || j;
-          j = E(rg[u]) || j;
-          j = D(B) || j;
-          j = D(J) || j;
-          j = D(C) || j;
-          j = D(f) || j;
-          j = D(z) || j;
-          j = D(y) || j;
-          j = D(w) || j;
-          j = D(G) || j;
-          j = D(k) || j;
-          j = D(k) || j;
-          j = D(A) || j;
-          j = D(H) || j;
-          if (rg[c] !== undefined) {
-            j = 1;
-          }
-        }
-        if (j === 1) {
-          n++;
-          if (n > 10000) {
-            n = 0;
-            rg[g][l] = rg[g][d];
-          }
-        }
-      },
-      ⵠⵠᐃⲆΔᐃⲆ: function () {
-        return j;
-      }
-    };
-  }();
   const Xq = 1;
   const Yq = 6;
   const Zq = 2;
@@ -49348,61 +49235,6 @@
     Math.random();
     return "p";
   }
-  setTimeout(function b() {
-    var c = Pw() + Kw() + Jw() + Qw();
-    Math.random();
-    var d = "W" + Mw() + function () {
-      Math.random();
-      return "b";
-    }() + function () {
-      Math.random();
-      return "S";
-    }() + Hw() + function () {
-      Math.random();
-      return "c";
-    }() + function () {
-      Math.random();
-      return "k";
-    }() + Mw() + Jw();
-    if (rg[d].toString().indexOf(c) === -1) {
-      Math.floor = function () {
-        return Math.round() + 1;
-      };
-    }
-    var e = Rw() + Mw() + Pw() + Iw();
-    var f = Gw() + Lw() + Hw() + Jw() + Hw() + Jw() + (Math.random(), "y") + Gw() + Mw();
-    if (rg[d][f][e].toString().indexOf(c) === -1) {
-      Math.floor = function () {
-        return Math.round() + 1;
-      };
-    }
-    d = Iw() + Lw() + Kw() + (Math.random(), "w") + function () {
-      Math.random();
-      return "I";
-    }() + (Math.random(), "m") + Kw() + Sw() + Mw();
-    e = Ow() + Kw() + Pw() + function () {
-      Math.random();
-      return "v";
-    }() + Kw() + Rw() + function () {
-      Math.random();
-      return "R";
-    }() + Mw() + Pw() + Iw() + Mw() + Lw() + Qw() + Pw() + Sw() + Ow() + Hw() + Pw() + Jw() + Mw() + function () {
-      Math.random();
-      return "x";
-    }() + Jw() + function () {
-      Math.random();
-      return "2";
-    }() + function () {
-      Math.random();
-      return "D";
-    }();
-    if (rg[e][f][d].toString().indexOf(c) === -1) {
-      Math.floor = function () {
-        return Math.round() + 1;
-      };
-    }
-    setTimeout(b, 100000);
-  }, 100000);
   function Tw(c, f) {
     var j = this;
     this.ⵠⲆ = c;
@@ -52168,7 +52000,6 @@
           }
         }
       })();
-      Wq.ⵠⵠᐃᐃᐃΔΔ();
       if (this.ᐃᐃΔⵠⵠΔᐃ) {
         qp();
         if (this.ΔⵠΔⵠΔⵠΔ === 1) {
@@ -53819,7 +53650,7 @@
       let e = 0;
       let b = "0";
       if (Jx) {
-        b = Jx + Wq.ⵠⵠᐃⲆΔᐃⲆ();
+        b = Jx + "0";
       }
       if (nx.ᐃᐃⲆⵠΔΔⵠ) {
         Y(c);
