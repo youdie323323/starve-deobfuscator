@@ -7844,7 +7844,7 @@
                 CurrentSpike = -1;
                 break
             }
-            if (CurrentSpike === -1 || !qx.ⵠⲆΔⲆ.ⵠᐃⵠ[CurrentSpike]) continue;
+            if (CurrentSpike === -1 || !nx.ΔⲆⵠⵠ.ΔᐃⲆΔ[CurrentSpike]) continue;
             spikeid = CurrentSpike;
             break
           }
