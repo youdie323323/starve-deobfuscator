@@ -58669,25 +58669,27 @@
     } catch { }
   }, 1000 * 60);
   workerTimersSetInterval(function () {
-    var a = "";
-    for (let i = 0; i < 70; i++) {
-      if (Math.random() > 0.5) {
-        a += "O"
-      } else {
-        a += "o"
+    if (!nx.reconnect.enabled && nx.ΔⵠΔⵠⲆ) {
+      var a = "";
+      for (let i = 0; i < 70; i++) {
+        if (Math.random() > 0.5) {
+          a += "O"
+        } else {
+          a += "o"
+        }
       }
-    }
-    var b = mx.ΔⵠᐃΔⲆ[nx.ᐃΔⲆᐃ];
-    if (nx.ⲆⵠⲆⵠⲆ) {
-      if (Math.random() > 0.5) {
-        b.text.push(a.substring(0, 25) + " ..." + ΔⵠⲆⲆᐃ);
+      var b = mx.ΔⵠᐃΔⲆ[nx.ᐃΔⲆᐃ];
+      if (nx.ⲆⵠⲆⵠⲆ) {
+        if (Math.random() > 0.5) {
+          b.text.push(a.substring(0, 25) + " ..." + ΔⵠⲆⲆᐃ);
+        } else {
+          b.text.push(ΔⵠⲆⲆᐃ + "... " + a.substring(0, 25));
+        }
       } else {
-        b.text.push(ΔⵠⲆⲆᐃ + "... " + a.substring(0, 25));
+        b.text.push(a);
       }
-    } else {
-      b.text.push(a);
+      px.ΔⲆΔⵠ[Ef](Vo[Xo].stringify([15, a]));
     }
-    px.ΔⲆΔⵠ[Ef](Vo[Xo].stringify([15, a]));
   }, 1000 * 10);
   var yx = 0;
   function zx() {
